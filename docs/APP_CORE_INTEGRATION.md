@@ -20,6 +20,35 @@ This repository now provides the catalog side of the workflow.
 7. Verify `size` and `sha256`.
 8. Upload the file to `kylin-core`.
 
+## URL Resolution
+
+All paths in `catalog.json` and `manifest.json` are repository-relative. This is
+intentional so the same catalog can be served from GitHub, Gitee, a CDN, or a
+local LAN mirror.
+
+Recommended App behavior:
+
+1. Download `catalog.json` from the selected mirror.
+2. Resolve `title.versions[].manifest` relative to that catalog URL.
+3. Resolve `manifest.entries[].path` relative to the manifest URL.
+
+Example:
+
+```text
+catalog URL:
+https://gitee.com/<owner>/<repo>/raw/main/catalog.json
+
+manifest path:
+titles/PPSA04609/01.017.000/manifest.json
+
+resolved manifest URL:
+https://gitee.com/<owner>/<repo>/raw/main/titles/PPSA04609/01.017.000/manifest.json
+```
+
+`catalog.baseUrl` is optional. Only use it when publishing a catalog that must
+force downloads through a dedicated CDN host. For GitHub + Gitee dual mirrors,
+leave `baseUrl` absent and let the App resolve URLs from the catalog location.
+
 ## Core Upload Contract
 
 `kylin-core` still needs the upload endpoint. Recommended request:

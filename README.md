@@ -1,6 +1,6 @@
 # Kylin Core Cheats
 
-Structured cheat catalog for `ps5-cheat-kylin`.
+Structured cheat catalog for `kylin-core`.
 
 This repository is intended to be consumed by:
 
@@ -46,6 +46,7 @@ See:
 - [docs/CHEAT_LOOKUP.md](docs/CHEAT_LOOKUP.md)
 - [docs/APP_CORE_INTEGRATION.md](docs/APP_CORE_INTEGRATION.md)
 - [docs/METADATA_ENRICHMENT.md](docs/METADATA_ENRICHMENT.md)
+- [docs/MIRRORING.md](docs/MIRRORING.md)
 
 ## Tooling
 
