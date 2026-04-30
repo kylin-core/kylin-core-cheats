@@ -1,0 +1,161 @@
+{
+  "name": "DOOM The Dark Ages",
+  "id": "PPSA20560",
+  "version": "01.009.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725DA0",
+          "on": "813F00FBBF04740AC783C42F000020BC3E4CC5FA1083BC2F0000E937C4B0FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2321EE",
+          "on": "E9AD3B4F03909090",
+          "off": "C5FA1083BC2F0000"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable (Player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725C00",
+          "on": "813F4840EA047406FF90100F0000E96D2E0EFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "808A7A",
+          "on": "E981D1F10290",
+          "off": "FF90100F0000"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable (Mech, Turret)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E59CC3",
+          "on": "9090909090",
+          "off": "E8E4A90300"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health (Player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725C50",
+          "on": "C4E37921400410C4E379170001E965C5D9FC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4C21C1",
+          "on": "E98A3A260390",
+          "off": "C4E379170001"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health (Mech, Turret)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725D00",
+          "on": "C4E37921400410C4E379170001E9A566DCFC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4EC3B1",
+          "on": "E94A99230390",
+          "off": "C4E379170001"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health (Dragon)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725DF0",
+          "on": "813F00FBBF04750AC783C42F000000409CC5C5FA1093C42F0000E9EFC3B0FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2321F6",
+          "on": "E9F53B4F03909090",
+          "off": "C5FA1093C42F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725CA0",
+          "on": "85F678054401F6EB034489F6897360E947A0CEFD",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "140FCF5",
+          "on": "E9A65F310290",
+          "off": "4401F6897360"
+        }
+      ]
+    },
+    {
+      "name": "Infi Shield Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FAEA9",
+          "on": "C5FA58C2",
+          "off": "C5FA5CC2"
+        },
+        {
+          "offset": "7FA4EE",
+          "on": "C5FA118F500A0000",
+          "off": "C5FA1187500A0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Punch",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E1EED4",
+          "on": "0F28C190",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Infi Gold & Ruby (Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3725D50",
+          "on": "C5FA7E401C85C97F05B9E8030000E9EF2A68FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DA884D",
+          "on": "E9FED49702",
+          "off": "C5FA7E401C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

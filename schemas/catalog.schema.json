@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/kylin-core-cheats/catalog.schema.json",
+  "title": "Kylin Cheats Catalog",
+  "type": "object",
+  "required": ["schemaVersion", "catalogVersion", "generatedAt", "formats", "titles"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "catalogVersion": { "type": "integer", "minimum": 1 },
+    "generatedAt": { "type": "string" },
+    "baseUrl": { "type": "string" },
+    "formats": {
+      "type": "array",
+      "items": { "enum": ["json", "shn", "mc4"] },
+      "uniqueItems": true
+    },
+    "titles": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/title" }
+    }
+  },
+  "$defs": {
+    "title": {
+      "type": "object",
+      "required": ["titleId", "name", "versions"],
+      "additionalProperties": false,
+      "properties": {
+        "titleId": { "$ref": "#/$defs/titleId" },
+        "name": { "type": "string", "minLength": 1 },
+        "regions": {
+          "type": "array",
+          "items": { "type": "string" },
+          "uniqueItems": true
+        },
+        "aliases": {
+          "type": "array",
+          "items": { "type": "string" },
+          "uniqueItems": true
+        },
+        "platforms": {
+          "type": "array",
+          "items": { "enum": ["PS4", "PS5"] },
+          "uniqueItems": true
+        },
+        "publisher": { "type": "string" },
+        "releaseDate": { "type": "string" },
+        "storeUrl": { "type": "string" },
+        "iconImage": { "type": "string" },
+        "coverImage": { "type": "string" },
+        "backgroundImage": { "type": "string" },
+        "versions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/version" }
+        }
+      }
+    },
+    "version": {
+      "type": "object",
+      "required": ["version", "manifest", "preferredFormat", "cheatCount", "updatedAt"],
+      "additionalProperties": false,
+      "properties": {
+        "version": { "$ref": "#/$defs/gameVersion" },
+        "manifest": { "type": "string", "pattern": "^titles/" },
+        "preferredFormat": { "enum": ["json", "shn", "mc4"] },
+        "cheatCount": { "type": "integer", "minimum": 0 },
+        "updatedAt": { "type": "string" },
+        "revision": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "titleId": {
+      "type": "string",
+      "pattern": "^(PPSA|CUSA)[0-9]{5}$"
+    },
+    "gameVersion": {
+      "type": "string",
+      "pattern": "^[0-9]{2}(\\.[0-9]{2,3}){1,2}$"
+    }
+  }
+}

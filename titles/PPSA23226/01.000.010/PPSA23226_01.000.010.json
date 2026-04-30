@@ -1,0 +1,130 @@
+{
+  "name": "Black Myth Wukong",
+  "id": "PPSA23226",
+  "version": "01.000.010",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AD23154",
+          "on": "909090",
+          "off": "FF5718"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9909E75",
+          "on": "9090909090",
+          "off": "3500000080"
+        }
+      ]
+    },
+    {
+      "name": "Infi MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9909BAC",
+          "on": "9090909090",
+          "off": "3500000080"
+        }
+      ]
+    },
+    {
+      "name": "Infi Skill (No Cooldown)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "983FEA2",
+          "on": "F30F5CC090",
+          "off": "F30F5C45D4"
+        }
+      ]
+    },
+    {
+      "name": "Infi Healing Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "990A153",
+          "on": "B863000000",
+          "off": "4489F0F7D8"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22705200",
+          "on": "8B5020BAE703000089514CE9A770E4E5",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "854C2B1",
+          "on": "E94A8F1B1A90",
+          "off": "8B502089514C"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22705214",
+          "on": "488B502048C7C27F96980048895120E90F54E3E5",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "853A62F",
+          "on": "E9E0AB1C1A909090",
+          "off": "488B502048895120"
+        }
+      ]
+    },
+    {
+      "name": "Max items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22705232",
+          "on": "BAE703000089511CE91255E3E5",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "853A74B",
+          "on": "E9E2AA1C1A90",
+          "off": "8B502089511C"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22705246",
+          "on": "8B5020BA7F969800895148E92970E4E5",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "854C279",
+          "on": "E9C88F1B1A90",
+          "off": "8B5020895148"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

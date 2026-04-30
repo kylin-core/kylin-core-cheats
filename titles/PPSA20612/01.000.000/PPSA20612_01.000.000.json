@@ -1,0 +1,133 @@
+{
+  "name": "Dragon Quest 3 HD 2D Remake",
+  "id": "PPSA20612",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Walking Speed x 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B07426",
+          "on": "49C7C00000DC4466410F6EC0E931612DFB",
+          "off": "49C7C00000DC4466410F6EC0E931612DFB"
+        },
+        {
+          "offset": "DDD560",
+          "on": "E9C19ED204909090",
+          "off": "C5FA108554FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B07390",
+          "on": "6681FC70AB750A813FD8A1C207750289C639C60F4CC6E9745321FB",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D1C71A",
+          "on": "E971ACDE04",
+          "off": "39C60F4CC6"
+        },
+        {
+          "offset": "5B07458",
+          "on": "813FD8A1C207750642C64433340042807C333400E968DE15FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C652D3",
+          "on": "E98021EA0490",
+          "off": "42807C333400"
+        },
+        {
+          "offset": "5B0748A",
+          "on": "5350BE0000000029772CE9307A3AFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "EAEEC4",
+          "on": "E9C185C504",
+          "off": "535029772C"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B073C2",
+          "on": "6681FC70AB750D813FD8A1C2077405B900000000898F94010000E94B5321FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D1C726",
+          "on": "E997ACDE0490",
+          "off": "898F94010000"
+        }
+      ]
+    },
+    {
+      "name": "Infi MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B073F4",
+          "on": "6681FCE0B7750A813FD8A1C207750289C639C60F4CC6E9305321FB",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D1C73A",
+          "on": "E9B5ACDE04",
+          "off": "39C60F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B074BC",
+          "on": "4981F8506257087402FFCA85D2B3018911E933EC3AFB",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EB60FF",
+          "on": "E9B813C50490",
+          "off": "FFCAB3018911"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E809C5",
+          "on": "4189C690",
+          "off": "410F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Max Medal",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E8E6CE",
+          "on": "48C740340F27000090",
+          "off": "C5F9FAC1C5F9D64034"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

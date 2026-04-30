@@ -1,0 +1,43 @@
+{
+  "name": "Alone In The Dark",
+  "id": "PPSA08135",
+  "version": "01.000.008",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A781890",
+          "on": "817F1C00000243750B50B800504347660F6EC058C5FA11470CE95B51E2F5",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5A6A04",
+          "on": "E987AE1D0A",
+          "off": "C5FA11470C"
+        },
+        {
+          "offset": "18183AD",
+          "on": "909090909090",
+          "off": "FF90C0020000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "180B644",
+          "on": "9090",
+          "off": "FFC9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

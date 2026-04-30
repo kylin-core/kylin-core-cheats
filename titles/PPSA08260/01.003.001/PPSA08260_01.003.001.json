@@ -1,0 +1,65 @@
+{
+  "name": "Star Wars Outlaws",
+  "id": "PPSA08260",
+  "version": "01.003.001",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health & Speeder & Spaceship",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6205260",
+          "on": "4981FEC8AF0000740B4981FE881300007402EB030F28D8C5FA115B40E901F049FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16A427D",
+          "on": "E9DE0FB604",
+          "off": "C5FA115B40"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6205292",
+          "on": "4889DF4883F800740C49C7C60000FA4466490F6ECEC5F828C1E964A3A2FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4C2F60D",
+          "on": "E9805C5D019090",
+          "off": "4889DFC5F828C1"
+        }
+      ]
+    },
+    {
+      "name": "No Reduction (Ammo, Items, Adrenaline)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5730A89",
+          "on": "31FF90909090",
+          "off": "8BBD04FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "No Weapon Overheating (No Reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32BA379",
+          "on": "C4C17A5D4778",
+          "off": "C4C17A5F4778"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

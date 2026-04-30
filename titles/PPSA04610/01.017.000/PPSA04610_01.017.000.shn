@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring" Moder="Yharnam" Cusa="PPSA04610" Version="01.017.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="No Enemy Attacks">
+        <Cheatline>
+            <Offset>181B3D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-0F</ValueOn>
+            <ValueOff>75-0F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stealth Mode">
+        <Cheatline>
+            <Offset>213D03</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BF-BA-00-00-00-01</ValueOn>
+            <ValueOff>80-BF-BA-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Untouchable">
+        <Cheatline>
+            <Offset>3242200</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-97-C1-48-89-DA-49-83-FF-01-75-05-E9-1B-CB-12-FD-E9-11-CB-12-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Health">
+        <Cheatline>
+            <Offset>3242232</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FA-01-75-1C-66-81-FC-80-AB-74-09-66-81-FC-30-B1-74-02-EB-0C-83-7F-18-00-75-06-8B-87-4C-01-00-00-89-87-48-01-00-00-E9-3B-FE-11-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>3242264</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-41-8B-86-68-01-00-00-41-89-86-64-01-00-00-E9-E1-07-12-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf FP">
+        <Cheatline>
+            <Offset>3242296</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FA-00-75-07-41-8B-86-5C-01-00-00-41-89-86-58-01-00-00-E9-EE-05-12-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items (Get, Use)">
+        <Cheatline>
+            <Offset>CF107</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-C6-90</ValueOn>
+            <ValueOff>44-0F-42-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Runes">
+        <Cheatline>
+            <Offset>E87B3</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-FF-C9-9A-3B</ValueOn>
+            <ValueOff>3D-FF-C9-9A-3B</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

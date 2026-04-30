@@ -1,0 +1,125 @@
+{
+  "name": "Demon's Souls",
+  "id": "PPSA01340",
+  "version": "01.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36C33A",
+          "on": "90909090909090",
+          "off": "41FF9090030000"
+        }
+      ]
+    },
+    {
+      "name": "MC (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "305BD1E",
+          "on": "83BB94000000FFEB0841BD6C070000EB0D6681FC00F1EB0641BD000000004489AB30070000E98CF62BFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "31B3CD",
+          "on": "E94C09D4029090",
+          "off": "4489AB30070000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health (MC Required)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "305BD25",
+          "on": "7508",
+          "off": "EB08"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC Required)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "305BD34",
+          "on": "7506",
+          "off": "EB06"
+        }
+      ]
+    },
+    {
+      "name": "Infi MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C5BD00",
+          "on": "448BB3380700004489B33C070000E9A0F76BFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "31B4AC",
+          "on": "E94F0894029090",
+          "off": "4489B33C070000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "320F20",
+          "on": "41BCD0070000",
+          "off": "41BC9CFFFFFF"
+        },
+        {
+          "offset": "320F3E",
+          "on": "90909090",
+          "off": "440F4DE0"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "429573",
+          "on": "9090909090",
+          "off": "E8488F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Weapons & Armor Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "438623",
+          "on": "90909090",
+          "off": "448914B7"
+        }
+      ]
+    },
+    {
+      "name": "Max Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44996A",
+          "on": "89C890909090909090909090909090909090",
+          "off": "3DFFC99A3B0F4CC889C8C1F81FC4E278F2C1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

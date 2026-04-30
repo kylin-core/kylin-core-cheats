@@ -1,0 +1,81 @@
+{
+  "name": "Aliens Fireteam Elite",
+  "id": "PPSA03393",
+  "version": "01.040.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7EC003E8",
+          "on": "4883FA0075178B572081FA0080BB4448C7C2000000007505C5FA104710C5FA11470CE98AE49481",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "54E894",
+          "on": "E94F1B6B7E",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (No Reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1886C05",
+          "on": "909090909090",
+          "off": "8983D4070000"
+        },
+        {
+          "offset": "1886C4D",
+          "on": "909090909090",
+          "off": "8983DC070000"
+        },
+        {
+          "offset": "18933C9",
+          "on": "418B85DC070000",
+          "off": "418985DC070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1497F2C",
+          "on": "90909090909090",
+          "off": "83BB400C000000"
+        }
+      ]
+    },
+    {
+      "name": "No currency reduction",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "135A1BC",
+          "on": "909090",
+          "off": "2B45D4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite First Aid kit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1497EF2",
+          "on": "909090909090",
+          "off": "FF8B400C0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yanam Guy"
+  ]
+}

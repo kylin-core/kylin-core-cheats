@@ -1,0 +1,76 @@
+{
+  "name": "Tormented Souls",
+  "id": "PPSA02525",
+  "version": "01.009.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8056D348",
+          "on": "9090909090",
+          "off": "E8D3371B00"
+        },
+        {
+          "offset": "80720AFF",
+          "on": "9090909090",
+          "off": "E81C000000"
+        },
+        {
+          "offset": "8056D7AD",
+          "on": "9090909090",
+          "off": "E86E361B00"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80720C07",
+          "on": "9090909090",
+          "off": "E854E5D5FF"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "801E4EB6",
+          "on": "90909090",
+          "off": "442B714C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (2st Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8047E2AF",
+          "on": "909090",
+          "off": "0F4CCA"
+        }
+      ]
+    },
+    {
+      "name": "Infi Healing Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803E9AE1",
+          "on": "9090909090",
+          "off": "E86A490900"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

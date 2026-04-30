@@ -1,0 +1,71 @@
+{
+  "name": "Returnal",
+  "id": "PPSA01284",
+  "version": "03.000.004",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "277337E",
+          "on": "9090909090",
+          "off": "E8AD3C8600"
+        },
+        {
+          "offset": "2FCE970",
+          "on": "9090909090",
+          "off": "E8EB0D7BFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DBF9D0",
+          "on": "909090909090909090",
+          "off": "C4C17A1186A8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Obolites Keys",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ABF6F9",
+          "on": "04",
+          "off": "1C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ether",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CC1FE4",
+          "on": "5F",
+          "off": "5D"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "273A5DA",
+          "on": "90909090909090",
+          "off": "41898770030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

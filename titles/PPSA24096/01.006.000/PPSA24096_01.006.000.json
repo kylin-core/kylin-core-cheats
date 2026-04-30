@@ -1,0 +1,102 @@
+{
+  "name": "Cronos The New Dawn",
+  "id": "PPSA24096",
+  "version": "01.006.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FAA2F0",
+          "on": "483DB0FB00097406FF9088060000E9E8FFB4FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4AFA2E5",
+          "on": "E906004B0290",
+          "off": "FF9088060000"
+        },
+        {
+          "offset": "3BEFC54",
+          "on": "909090909090",
+          "off": "FF90E8020000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FAA2A0",
+          "on": "C7859CFEFFFF20BC3E4CC5FA10859CFEFFFFE9E322ABFB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A5C592",
+          "on": "E909DD5404909090",
+          "off": "C5FA10859CFEFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4C15C0C",
+          "on": "C5FA5F4594",
+          "off": "C5FA5D4594"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D0F7AB",
+          "on": "4531F6",
+          "off": "4529F7"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items (No Reduction)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FAA200",
+          "on": "6681F930AE740231D24189D44889FBE93D91C1FD",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BC334B",
+          "on": "E9B06E3E0290",
+          "off": "4189D44889FB"
+        }
+      ]
+    },
+    {
+      "name": "Infi Energy (Money)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6FAA250",
+          "on": "664181F8E0DF7507B8FFE0F505EB02030148899DD0FCFFFFE93B6BC1FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BC0D9F",
+          "on": "E9AC943E0290909090",
+          "off": "030148899DD0FCFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

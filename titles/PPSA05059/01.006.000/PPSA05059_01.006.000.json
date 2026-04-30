@@ -1,0 +1,49 @@
+{
+  "name": "RoboCop Rogue City",
+  "id": "PPSA05059",
+  "version": "01.006.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "199CF10",
+          "on": "9090909090",
+          "off": "E80B9F0100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B3F1A7",
+          "on": "909090909090",
+          "off": "FF8BC0060000"
+        },
+        {
+          "offset": "1B3F1FA",
+          "on": "9090909090",
+          "off": "E83164DEFF"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19E9D1D",
+          "on": "B91ABF020090",
+          "off": "8B8BC0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

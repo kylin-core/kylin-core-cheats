@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SIFU" Moder="Yharnam" Cusa="PPSA05132" Version="01.024.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Untouchable">
+        <Cheatline>
+            <Offset>5F77532</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-DA-4C-01-F6-83-BF-08-01-00-00-02-75-05-E9-BC-43-47-FB-E9-B2-43-47-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>5F77500</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BB-54-01-00-00-00-75-08-C5-FA-10-83-40-01-00-00-C5-FA-11-83-38-01-00-00-E9-77-5D-61-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Score">
+        <Cheatline>
+            <Offset>5F77592</Offset>
+            <Section>0</Section>
+            <ValueOn>41-52-49-C7-C2-F0-23-74-49-66-49-0F-6E-C2-41-5A-E9-D5-FB-81-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Exp">
+        <Cheatline>
+            <Offset>5F775C4</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BC-F0-23-74-49-C4-C1-7A-2A-C4-E9-4A-83-82-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

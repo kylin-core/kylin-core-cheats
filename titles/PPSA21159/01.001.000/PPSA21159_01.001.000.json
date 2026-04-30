@@ -1,0 +1,130 @@
+{
+  "name": "Silent Hill f",
+  "id": "PPSA21159",
+  "version": "01.001.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41F45C6",
+          "on": "9090909090",
+          "off": "E825E40F00"
+        },
+        {
+          "offset": "41F413D",
+          "on": "9090909090",
+          "off": "E80E000000"
+        },
+        {
+          "offset": "425B76F",
+          "on": "9090909090",
+          "off": "E8DC89F9FF"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61F2B00",
+          "on": "C745B48096984AC5FA1045B4E9848AFEFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "41DB590",
+          "on": "E96B750102",
+          "off": "C5FA1045B4"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina (Attack and Dodge)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FA4E6",
+          "on": "9090909090",
+          "off": "E805850F00"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items (99 When Used)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4311370",
+          "on": "BA630000004189D0",
+          "off": "8B54C804448D42FF"
+        }
+      ]
+    },
+    {
+      "name": "Instant Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FC792",
+          "on": "C5FA5FC1",
+          "off": "C5FA5DC1"
+        }
+      ]
+    },
+    {
+      "name": "Infi Sanity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41FB97E",
+          "on": "9090909090",
+          "off": "E86D700F00"
+        },
+        {
+          "offset": "41F3386",
+          "on": "9090909090",
+          "off": "E865F60F00"
+        }
+      ]
+    },
+    {
+      "name": "Infi Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43AC1C7",
+          "on": "B87F969800",
+          "off": "E82468F4FF"
+        }
+      ]
+    },
+    {
+      "name": "Instant Awakening Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41F2223",
+          "on": "9090909090",
+          "off": "C5FA1045D4"
+        }
+      ]
+    },
+    {
+      "name": "Max Faith (Money)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4315B37",
+          "on": "B87F969800",
+          "off": "C4E270F2C0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

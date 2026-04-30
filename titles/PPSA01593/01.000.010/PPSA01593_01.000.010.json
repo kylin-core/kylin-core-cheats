@@ -1,0 +1,147 @@
+{
+  "name": "Hogwarts Legacy",
+  "id": "PPSA01593",
+  "version": "01.000.010",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C3D17C0",
+          "on": "4881F9560408007409C4C17A1187A4010000E99C6C12F8",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "44F846A",
+          "on": "E95193ED0790909090",
+          "off": "C4C17A1187A4010000"
+        }
+      ]
+    },
+    {
+      "name": "Buy Items For Free",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C3CC9C0",
+          "on": "6681FC30327506660FEFF6EB05C5FA10775CE93D3E34F7",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "371080F",
+          "on": "E9ACC1CB08",
+          "off": "C5FA10775C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Spells (No Cooldown)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3F2099D",
+          "on": "0F57C090",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ancient Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17B888D",
+          "on": "C5FA5F8B181D0000",
+          "off": "C5FA5D8B181D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44CBA49",
+          "on": "B900000000",
+          "off": "B9FFFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Exp x 5",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C3D17D7",
+          "on": "0FAF350C0000004889B5E8FEFFFFE92643E1F705000000",
+          "off": "0000000000000000000000000000000000000001000000"
+        },
+        {
+          "offset": "41E5B09",
+          "on": "E9C9BC1E089090",
+          "off": "4889B5E8FEFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Broom Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43DB00B",
+          "on": "F30F10C5",
+          "off": "C5D258C0"
+        }
+      ]
+    },
+    {
+      "name": "Max Combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "177BFC6",
+          "on": "41C785883E0000003C1C46909090909090",
+          "off": "C5FA580572AC7E06C4C17A1185883E0000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Grow Plants",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44AF2AA",
+          "on": "89F090",
+          "off": "0F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Instant Brew Potions",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4529479",
+          "on": "48C7C0A08601009090",
+          "off": "C4E1FB2CC048034758"
+        }
+      ]
+    },
+    {
+      "name": "Stop Quidditch Trial Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43EF64B",
+          "on": "B86F12833A660F6EC0909090909090909090",
+          "off": "C4C17A588678030000C4C17A118678030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

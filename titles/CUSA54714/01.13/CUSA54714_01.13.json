@@ -1,0 +1,97 @@
+{
+  "name": "Yakuza Kiwami 3 & Dark Ties",
+  "id": "CUSA54714",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2593800",
+          "on": "483DC8E3AC027406FF90C8010000E9DF6C19FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "172A4EC",
+          "on": "E90F93E60090",
+          "off": "FF90C8010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15D4BD6",
+          "on": "4889D390909090",
+          "off": "4839D3480F4CD3"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13DEB9D",
+          "on": "C5FA5FC1",
+          "off": "C5FA5DC1"
+        }
+      ]
+    },
+    {
+      "name": "Inf Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13DF9DF",
+          "on": "C5FA5FC1",
+          "off": "C5FA5DC1"
+        },
+        {
+          "offset": "13E0730",
+          "on": "C5FA5FC1",
+          "off": "C5FA5DC1"
+        },
+        {
+          "offset": "13E0EB9",
+          "on": "C5FA5FC1",
+          "off": "C5FA5DC1"
+        },
+        {
+          "offset": "13E1840",
+          "on": "C5FA5F45D0",
+          "off": "C5FA5D45D0"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5843EB",
+          "on": "4589E590",
+          "off": "450F4CE5"
+        }
+      ]
+    },
+    {
+      "name": "Max Money & SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57E8DA",
+          "on": "4989C790909090",
+          "off": "4939C74C0F4DF8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

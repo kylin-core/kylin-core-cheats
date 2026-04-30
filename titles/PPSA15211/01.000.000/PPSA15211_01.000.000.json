@@ -1,0 +1,80 @@
+{
+  "name": "Dragon Ball Sparking Zero",
+  "id": "PPSA15211",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AEB764",
+          "on": "4989D94C89342483BF44010000187505E93A21D4FBE93021D4FB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "182D8A7",
+          "on": "E9B8DE2B049090",
+          "off": "4989D94C893424"
+        },
+        {
+          "offset": "5AEB796",
+          "on": "4C8974240889042483BF44010000187505E9751FD4FBE96B1FD4FB",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "182D714",
+          "on": "E97DE02B04909090",
+          "off": "4C89742408890424"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AEB700",
+          "on": "C5FA1045E44889DF83BB44010000187505E91528F9FBE90B28F9FB",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A7DF1E",
+          "on": "E9DDD70604909090",
+          "off": "C5FA1045E44889DF"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AEB732",
+          "on": "488DBB200F000083BB440100001874030F57C9E9752AF9FB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A7E1B8",
+          "on": "E975D506049090",
+          "off": "488DBB200F0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Zeni",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FBB764",
+          "on": "C74754FFC99A3B90909090",
+          "off": "01B7C4000000297754780C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

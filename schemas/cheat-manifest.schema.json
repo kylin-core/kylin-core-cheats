@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/kylin-core-cheats/cheat-manifest.schema.json",
+  "title": "Kylin Cheat Manifest",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "titleId",
+    "version",
+    "name",
+    "revision",
+    "preferredFormat",
+    "entries"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "titleId": { "$ref": "#/$defs/titleId" },
+    "version": { "$ref": "#/$defs/gameVersion" },
+    "name": { "type": "string", "minLength": 1 },
+    "process": { "type": "string" },
+    "revision": { "type": "integer", "minimum": 1 },
+    "preferredFormat": { "enum": ["json", "shn", "mc4"] },
+    "regions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "compatibleTitleIds": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/titleId" },
+      "uniqueItems": true
+    },
+    "updatedAt": { "type": "string" },
+    "notes": { "type": "string" },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["format", "path", "size", "sha256", "cheatCount", "quality"],
+      "additionalProperties": false,
+      "properties": {
+        "format": { "enum": ["json", "shn", "mc4"] },
+        "path": { "type": "string", "pattern": "^[^/]+\\.(json|shn|mc4)$" },
+        "size": { "type": "integer", "minimum": 0 },
+        "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "cheatCount": { "type": "integer", "minimum": 0 },
+        "source": { "type": "string" },
+        "quality": { "enum": ["verified", "tested", "imported", "needs-review"] },
+        "updatedAt": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    },
+    "titleId": {
+      "type": "string",
+      "pattern": "^(PPSA|CUSA)[0-9]{5}$"
+    },
+    "gameVersion": {
+      "type": "string",
+      "pattern": "^[0-9]{2}(\\.[0-9]{2,3}){1,2}$"
+    }
+  }
+}

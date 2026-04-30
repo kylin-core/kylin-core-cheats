@@ -1,0 +1,85 @@
+{
+  "name": "Indiana Jones and The Great Circle",
+  "id": "PPSA26786",
+  "version": "01.009.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "352F3E0",
+          "on": "41837D041D74060F57C00F57C9C4C17A114D44E9010902FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "154FCF3",
+          "on": "E9E8F6FD0190",
+          "off": "C4C17A114D44"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "352F390",
+          "on": "41837D041D7512C4C17A104D40C4C17A114D44C4C17A10455CC4C17A114550E94B0902FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "154FCF9",
+          "on": "E992F6FD0190",
+          "off": "C4C17A114550"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E8ABB8",
+          "on": "9090909090",
+          "off": "E843378900"
+        },
+        {
+          "offset": "171E24C",
+          "on": "9090",
+          "off": "FFC8"
+        },
+        {
+          "offset": "171E220",
+          "on": "909090",
+          "off": "41FFC9"
+        }
+      ]
+    },
+    {
+      "name": "Infi Money & Points (Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "352F430",
+          "on": "BA7F969800438954F70CE9BD2425FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "17818F7",
+          "on": "E934DBDA01",
+          "off": "438954F70C"
+        },
+        {
+          "offset": "1782824",
+          "on": "90909090",
+          "off": "41895608"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

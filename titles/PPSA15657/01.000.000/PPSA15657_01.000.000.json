@@ -1,0 +1,65 @@
+{
+  "name": "Disney Epic Mickey Rebrushed",
+  "id": "PPSA15657",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14307FA",
+          "on": "9090909090",
+          "off": "E821000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C0ADC0",
+          "on": "C685D8FEFFFF016681FCF0AB740C6681FC20B57405E9CFB093FAE9C5B093FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "545E9D",
+          "on": "E91E4F6C059090",
+          "off": "C685D8FEFFFF01"
+        }
+      ]
+    },
+    {
+      "name": "Inf Paints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D5571",
+          "on": "90909090909090",
+          "off": "41FF9068060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C0AE24",
+          "on": "B93F420F0041890E4585E4E99ECB91FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "15279CC",
+          "on": "E953346E0490",
+          "off": "41890E4585E4"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

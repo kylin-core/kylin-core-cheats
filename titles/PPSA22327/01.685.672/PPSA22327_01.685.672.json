@@ -1,0 +1,38 @@
+{
+  "name": "Forza Horizon 5",
+  "id": "PPSA22327",
+  "version": "01.685.672",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Money (Enter Shop and Exit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5DB3400",
+          "on": "418B0E817D64437265647517B9FFC99A3B5048B8C02A8F0BD9000000C700FFC99A3B588908E9770B97FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "723F9C",
+          "on": "E95FF46805",
+          "off": "418B0E8908"
+        }
+      ]
+    },
+    {
+      "name": "Infi Mastery Points (Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "490A85A",
+          "on": "B984030000",
+          "off": "C4E268F2C9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

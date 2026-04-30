@@ -1,0 +1,167 @@
+{
+  "name": "Kingdom Come Deliverance II",
+  "id": "PPSA21704",
+  "version": "01.041.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8D16500",
+          "on": "4881F900C8A20A75094983FD0074030F28C4C5FA118483A8010000E956A365F7",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "37086D",
+          "on": "E98E5C9A0890909090",
+          "off": "C5FA118483A8010000"
+        },
+        {
+          "offset": "A5FD1",
+          "on": "9090909090",
+          "off": "E8EA3FAF05"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8D165A0",
+          "on": "488D7B284C89FE81BF9C000000777700007505E935188BF7E92B188BF7",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5C7DE1",
+          "on": "E9BAE774089090",
+          "off": "488D7B284C89FE"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8D16550",
+          "on": "483D00005102741D4983F80174176681FC40A874096681FCA09874027407C7471C809698CAC5FA58471CE9E0E9BFFC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5914F5A",
+          "on": "E9F1154003",
+          "off": "C5FA58471C"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Kill (Touch)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8D16640",
+          "on": "483D0000510274176681FC909B74096681FC709C7402EB07C7471C809698CAC5FA114720E9F1E8BFFC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5914F55",
+          "on": "E9E6164003",
+          "off": "C5FA114720"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3707C1",
+          "on": "C4A17A118CBBA8010000",
+          "off": "C4A17A1184BBA8010000"
+        },
+        {
+          "offset": "9EF2C",
+          "on": "C57A118354070000",
+          "off": "C5FA119354070000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Energy (Fatigue)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A6393",
+          "on": "C4C17A119E58070000",
+          "off": "C4C17A118658070000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Durability (Weapons, Armor, Some Items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17815D",
+          "on": "C5F25FC0",
+          "off": "C5F25DC0"
+        }
+      ]
+    },
+    {
+      "name": "No Hunger",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A61CD",
+          "on": "C4C17A119E5C070000",
+          "off": "C4C17A11865C070000"
+        }
+      ]
+    },
+    {
+      "name": "No Fall Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13E1ADA",
+          "on": "9090",
+          "off": "FF10"
+        }
+      ]
+    },
+    {
+      "name": "Zero Weight (When Changed)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C7D6F6",
+          "on": "0F57C0909090",
+          "off": "C4C271A9461C"
+        }
+      ]
+    },
+    {
+      "name": "Infi Money (Sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8D165F0",
+          "on": "448B7E5044037F506681FC60A9750641BF7F969800E9C8A4F6F7",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C80ACA",
+          "on": "E9215B0908909090",
+          "off": "448B7E5044037F50"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

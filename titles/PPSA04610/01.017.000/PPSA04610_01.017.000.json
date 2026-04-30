@@ -1,0 +1,124 @@
+{
+  "name": "Elden Ring",
+  "id": "PPSA04610",
+  "version": "01.017.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Enemy Attacks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181B3D",
+          "on": "740F",
+          "off": "750F"
+        },
+        {
+          "offset": "2DA95C",
+          "on": "7432",
+          "off": "7532"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "213D03",
+          "on": "80BFBA00000001",
+          "off": "80BFBA00000000"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3242200",
+          "on": "0F97C14889DA4983FF017505E91BCB12FDE911CB12FD",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "36ED21",
+          "on": "E9DA34ED0290",
+          "off": "0F97C14889DA"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3242232",
+          "on": "4883FA01751C6681FC80AB74096681FC30B17402EB0C837F180075068B874C010000898748010000E93BFE11FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "362094",
+          "on": "E99901EE0290",
+          "off": "898748010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3242264",
+          "on": "909090909090418B866801000041898664010000E9E10712FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "362A57",
+          "on": "E908F8ED029090",
+          "off": "41898664010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf FP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3242296",
+          "on": "4983FA007507418B865C01000041898658010000E9EE0512FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "362896",
+          "on": "E9FBF9ED029090",
+          "off": "41898658010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (Get, Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CF107",
+          "on": "4189C690",
+          "off": "440F42F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E87B3",
+          "on": "B8FFC99A3B",
+          "off": "3DFFC99A3B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

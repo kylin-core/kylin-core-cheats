@@ -1,0 +1,59 @@
+{
+  "name": "Need for Speed Unbound",
+  "id": "PPSA01716",
+  "version": "01.000.027",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Nitro",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EAF032",
+          "on": "C5FA10484883BB40020000007506C5F25FC8EB04C5F25DC8E92ED36CFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "357C374",
+          "on": "E9B92C930190909090",
+          "off": "C5FA104848C5F25DC8"
+        }
+      ]
+    },
+    {
+      "name": "Drain Enemies Nitro",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EAF064",
+          "on": "83BB400200000074030F57C0C5FA118374010000E911D36CFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "357C386",
+          "on": "E9D92C9301909090",
+          "off": "C5FA118374010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EAF000",
+          "on": "48C7C7FFC99A3B48897938488D55B8E929258FFC",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "17A1535",
+          "on": "E9C6DA7003909090",
+          "off": "48897938488D55B8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

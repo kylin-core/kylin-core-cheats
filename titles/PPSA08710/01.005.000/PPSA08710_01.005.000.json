@@ -1,0 +1,49 @@
+{
+  "name": "Silent Hill 2",
+  "id": "PPSA08710",
+  "version": "01.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2166F83",
+          "on": "9090909090909090",
+          "off": "C5FA1183F8000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A1BEE",
+          "on": "C5F057C990",
+          "off": "C5FA104DBC"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo & Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A0FD580",
+          "on": "29D6BE6300000089740808E9EE2D0AF8",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "21A0378",
+          "on": "E903D2F50790",
+          "off": "29D689740808"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

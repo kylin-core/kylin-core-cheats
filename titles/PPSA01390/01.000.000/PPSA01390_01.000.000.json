@@ -1,0 +1,91 @@
+{
+  "name": "Dragon Age The Veilguard",
+  "id": "PPSA01390",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B9E250",
+          "on": "807B10247505C5FA104344C5FA114340E990450EFC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C827F0",
+          "on": "E95BBAF103",
+          "off": "C5FA114340"
+        }
+      ]
+    },
+    {
+      "name": "Infi Rage & Mana & Momentum",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B9E2E6",
+          "on": "4981F9A0767045742F4981F9006C9D5374264181F9C6DEA7F6741D4981F9959D9A6B74144981F99C8EE94A740B4181F8223117A77402EB07C5FA114F28EB05C5FA114728E9D2EEE1FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19BD1FC",
+          "on": "E9E5101E04",
+          "off": "C5FA114728"
+        }
+      ]
+    },
+    {
+      "name": "Infi Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E5E917",
+          "on": "9090",
+          "off": "29D0"
+        },
+        {
+          "offset": "E76DAC",
+          "on": "9090",
+          "off": "29D6"
+        }
+      ]
+    },
+    {
+      "name": "Max Items & Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B9E282",
+          "on": "41BE9F86010044897004E9C6FD2DFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1E7DF5A",
+          "on": "E92303D20390909090",
+          "off": "44897004E9F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Healing Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B9E2B4",
+          "on": "66C745C800004989D66681FC70D77505E9C17D26FEE9B77D26FE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3E0607C",
+          "on": "E93382D90190909090",
+          "off": "66C745C800004989D6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

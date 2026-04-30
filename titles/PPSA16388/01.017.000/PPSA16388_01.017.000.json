@@ -1,0 +1,43 @@
+{
+  "name": "Hitman World of Assassination",
+  "id": "PPSA16388",
+  "version": "01.017.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61C830",
+          "on": "9090909090",
+          "off": "C5FA5C45E4"
+        },
+        {
+          "offset": "61CF78",
+          "on": "9090909090909090",
+          "off": "C5FA118324020000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65BECE",
+          "on": "8D3090",
+          "off": "8D70FF"
+        },
+        {
+          "offset": "65B62D",
+          "on": "41C7875008000000000000909090",
+          "off": "418B8748080000412B8750080000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

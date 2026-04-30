@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Clair Obscur Expedition 33" Moder="Yharnam" Cusa="PPSA17599" Version="01.400.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Master Code v4.1 (Must be Activated First)">
+        <Cheatline>
+            <Offset>5715E00</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-89-EF-4C-89-CE-66-41-81-F9-CC-91-90-90-66-41-81-F9-88-95-90-90-66-41-81-F9-40-A2-90-90-40-80-FF-68-75-6D-83-7F-D8-0A-75-67-81-7F-DC-80-00-00-00-75-5E-48-83-FA-08-75-58-49-83-FA-00-75-52-83-7F-14-00-90-90-90-90-90-83-7F-14-00-90-90-90-90-90-EB-3E-49-BA-00-00-00-00-7E-84-2E-41-4C-89-16-4D-31-D2-EB-2C-49-C7-C2-00-00-00-00-4C-89-16-4D-31-D2-EB-1D-C7-06-FF-C9-9A-3B-EB-15-C7-06-E7-03-00-00-EB-0D-66-81-FB-40-92-75-06-C7-06-FF-C9-9A-3B-E9-EA-05-93-FA</ValueOn>
+            <ValueOff>4C-89-EF-4C-89-CE-66-41-81-F9-CC-91-90-90-66-41-81-F9-88-95-90-90-66-41-81-F9-40-A2-90-90-40-80-FF-68-75-6D-83-7F-D8-0A-75-67-81-7F-DC-80-00-00-00-75-5E-48-83-FA-08-75-58-49-83-FA-00-75-52-83-7F-14-00-90-90-90-90-90-83-7F-14-00-90-90-90-90-90-EB-3E-49-BA-00-00-00-00-7E-84-2E-41-4C-89-16-4D-31-D2-EB-2C-49-C7-C2-00-00-00-00-4C-89-16-4D-31-D2-EB-1D-C7-06-FF-C9-9A-3B-EB-15-C7-06-E7-03-00-00-EB-0D-66-81-FB-40-92-75-06-C7-06-FF-C9-9A-3B-E9-EA-05-93-FA</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>5715E4F</Offset>
+            <Section>0</Section>
+            <ValueOn>75-02</ValueOn>
+            <ValueOff>90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>5715E46</Offset>
+            <Section>0</Section>
+            <ValueOn>74-1D</ValueOn>
+            <ValueOff>90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Exp Max (Applied After the 2nd Battle)">
+        <Cheatline>
+            <Offset>5715E0C</Offset>
+            <Section>0</Section>
+            <ValueOn>74-66</ValueOn>
+            <ValueOff>90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>5715E14</Offset>
+            <Section>0</Section>
+            <ValueOn>74-6E</ValueOn>
+            <ValueOff>90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Stat Resets">
+        <Cheatline>
+            <Offset>5715E1C</Offset>
+            <Section>0</Section>
+            <ValueOn>74-5E</ValueOn>
+            <ValueOff>90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Stat 99 (Upgrade Only 1 Stat)">
+        <Cheatline>
+            <Offset>5715D00</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-D6-48-89-C2-66-41-81-FE-A0-9A-75-06-C7-06-63-00-00-00-E9-E3-0B-2D-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

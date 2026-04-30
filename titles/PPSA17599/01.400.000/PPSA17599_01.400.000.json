@@ -1,0 +1,98 @@
+{
+  "name": "Clair Obscur Expedition 33",
+  "id": "PPSA17599",
+  "version": "01.400.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code v4.1 (Must be Activated First)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715E00",
+          "on": "4C89EF4C89CE664181F9CC919090664181F988959090664181F940A290904080FF68756D837FD80A7567817FDC80000000755E4883FA0875584983FA007552837F14009090909090837F14009090909090EB3E49BA000000007E842E414C89164D31D2EB2C49C7C2000000004C89164D31D2EB1DC706FFC99A3BEB15C706E7030000EB0D6681FB40927506C706FFC99A3BE9EA0593FA",
+          "off": "4C89EF4C89CE664181F9CC919090664181F988959090664181F940A290904080FF68756D837FD80A7567817FDC80000000755E4883FA0875584983FA007552837F14009090909090837F14009090909090EB3E49BA000000007E842E414C89164D31D2EB2C49C7C2000000004C89164D31D2EB1DC706FFC99A3BEB15C706E7030000EB0D6681FB40927506C706FFC99A3BE9EA0593FA"
+        },
+        {
+          "offset": "4647A",
+          "on": "E981F96C0590",
+          "off": "4C89EF4C89CE"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715E4F",
+          "on": "7502",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715E46",
+          "on": "741D",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Exp Max (Applied After the 2nd Battle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715E0C",
+          "on": "7466",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715E14",
+          "on": "746E",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stat Resets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715E1C",
+          "on": "745E",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "All Stat 99 (Upgrade Only 1 Stat)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5715D00",
+          "on": "4889D64889C2664181FEA09A7506C70663000000E9E30B2DFD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "29E68F6",
+          "on": "E905F4D20290",
+          "off": "4889D64889C2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

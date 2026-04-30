@@ -1,0 +1,108 @@
+{
+  "name": "Outcast A New Beginning",
+  "id": "PPSA04813",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CFE900",
+          "on": "4883FB0075114883FA00750BC4C17A5F85B0000000EB09C4C17A5F85B4000000E920B909FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D9A23C",
+          "on": "E9BF46F60490909090",
+          "off": "C4C17A5F85B4000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CFE996",
+          "on": "8885A8F9FFFF41817F0848000400740AC782980000008096984AE9E7ED09FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D9D796",
+          "on": "E9FB11F60490",
+          "off": "8885A8F9FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BC9C1B",
+          "on": "9090909090909090",
+          "off": "C5FA5D0DCD958406"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (2st get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CFE964",
+          "on": "418B473C41894738E9D6AD04FB",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1D49740",
+          "on": "E91F52FB049090",
+          "off": "4401E841894738"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo & Items (Unlimited Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CFE932",
+          "on": "418B44243C4189442438E975CA04FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1D4B3B1",
+          "on": "E97C35FB04",
+          "off": "4189442438"
+        }
+      ]
+    },
+    {
+      "name": "No Weapon Overheating",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "201138D",
+          "on": "0F28C190",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Infi Jet",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCF618",
+          "on": "9090909090909090",
+          "off": "C5FA5C853CFFFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

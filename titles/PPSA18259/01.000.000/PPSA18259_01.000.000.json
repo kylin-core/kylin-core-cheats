@@ -1,0 +1,124 @@
+{
+  "name": "Dead Rising Deluxe Remaster",
+  "id": "PPSA18259",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health (Player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76632E0",
+          "on": "4183BC24D4000000057505418B4424604189442454E9FD2682F9",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E859F2",
+          "on": "E9E9D87D06",
+          "off": "4189442454"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health (Survivors)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "76633A8",
+          "on": "C4E270F2C041817E34EC0000007505418B442460E9312682F9",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E859ED",
+          "on": "E9B6D97D06",
+          "off": "C4E270F2C0"
+        }
+      ]
+    },
+    {
+      "name": "Inf Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7663312",
+          "on": "C5FA105820C5FA115828E9B5A038F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "9ED3D1",
+          "on": "E93C5FC706",
+          "off": "C5FA115828"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7663344",
+          "on": "668B502E6689502C488B8668020000E915A438F9",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9ED762",
+          "on": "E9DD5BC706909090909090",
+          "off": "6601502C488B8668020000"
+        }
+      ]
+    },
+    {
+      "name": "Time Stop",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D07C62",
+          "on": "909090909090",
+          "off": "FF90C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Film",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DCADFA",
+          "on": "909090",
+          "off": "41FFCD"
+        }
+      ]
+    },
+    {
+      "name": "Maximum Number of Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7663376",
+          "on": "41BD3F420F004589AC24B8000000E9F751A7F8",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D8578",
+          "on": "E9F9AD5807909090",
+          "off": "4589AC24B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDCAD3",
+          "on": "89F1909090",
+          "off": "39F10F4CF1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

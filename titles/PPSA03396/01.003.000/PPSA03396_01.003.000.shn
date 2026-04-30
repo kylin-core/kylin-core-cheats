@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last of Us Part I" Moder="Yharnam" Cusa="PPSA03396" Version="01.003.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>1371AEC</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>FF-50-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Ammo & Items">
+        <Cheatline>
+            <Offset>2A9E800</Offset>
+            <Section>0</Section>
+            <ValueOn>31-D2-89-C1-49-83-FB-00-75-12-66-41-81-FF-00-27-74-0A-66-41-81-FF-C0-F4-74-02-EB-02-FF-C9-E9-C0-CD-EF-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Weapon Durability">
+        <Cheatline>
+            <Offset>1976876</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>29-D0</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

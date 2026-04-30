@@ -1,0 +1,91 @@
+{
+  "name": "Avatar Frontiers of Pandora",
+  "id": "PPSA01576",
+  "version": "01.011.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62CE900",
+          "on": "81BB28010000204E000075054189CDEB0639C1440F4CE9E9E97026FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35359FF",
+          "on": "E9FC8ED90290",
+          "off": "39C1440F4CE9"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "402FF88",
+          "on": "4189C789C190",
+          "off": "4439F80F4CC8"
+        },
+        {
+          "offset": "517F5BA",
+          "on": "909090",
+          "off": "4101CD"
+        },
+        {
+          "offset": "404BB3F",
+          "on": "909090",
+          "off": "41FFCF"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62CE950",
+          "on": "488B0731F681BF28010000204E000074030F57C0E9400F49FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "575F8A4",
+          "on": "E9A7F0B600",
+          "off": "488B0731F6"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina (Player & Ikran)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3536243",
+          "on": "4189CA90",
+          "off": "440F4FD1"
+        }
+      ]
+    },
+    {
+      "name": "Infi Money, Skill Points, Ammo Ingredients (When Using)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "62CE9F0",
+          "on": "48C7C1E703000049894A1841C6422800E93EF3C3FC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F0DD3A",
+          "on": "E9B10C3C0390909090",
+          "off": "49894A1841C6422800"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

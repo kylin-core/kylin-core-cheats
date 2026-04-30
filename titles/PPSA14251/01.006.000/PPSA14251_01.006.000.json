@@ -1,0 +1,87 @@
+{
+  "name": "Mafia The Old Country",
+  "id": "PPSA14251",
+  "version": "01.006.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code (Must Be Activated First)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F33A70",
+          "on": "8B06488B4B20909090909090909090909090909090909090909090909090909090909090EB268379F80074206681FCE07674198B4104EB148B4104EB0F664181FEA08D7507B8FFE0F5059090E96CE211FA",
+          "off": "8B06488B4B20909090909090909090909090909090909090909090909090909090909090EB268379F80074206681FCE07674198B4104EB148B4104EB0F664181FEA08D7507B8FFE0F5059090E96CE211FA"
+        },
+        {
+          "offset": "51D27",
+          "on": "E9441DEE0590",
+          "off": "8B06488B4B20"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F33A20",
+          "on": "4889DE4C89EA83BF24010000047505E946CBF2FAE93CCBF2FA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E6056F",
+          "on": "E9AC340D0590",
+          "off": "4889DE4C89EA"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F33A76",
+          "on": "81795000401C467417",
+          "off": "909090909090909090"
+        }
+      ]
+    },
+    {
+      "name": "Infi Knife Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F33A7F",
+          "on": "81B9840000003333D33F741D",
+          "off": "909090909090909090909090"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F33A8B",
+          "on": "817918FFFF03007419",
+          "off": "909090909090909090"
+        }
+      ]
+    },
+    {
+      "name": "Infi Horse Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1235D12",
+          "on": "C741040050C347",
+          "off": "C741040000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

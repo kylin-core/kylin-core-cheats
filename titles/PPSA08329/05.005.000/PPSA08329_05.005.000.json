@@ -1,0 +1,139 @@
+{
+  "name": "God of War Ragnarok",
+  "id": "PPSA08329",
+  "version": "05.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BBF86",
+          "on": "B001C3",
+          "off": "C3CCCC"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14B6D28",
+          "on": "4883F8007504C5FA58C94489E2C5FA5CC1E918CD27FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "733A4F",
+          "on": "E9D432D8009090",
+          "off": "4489E2C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infi Arrows & Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14B6D46",
+          "on": "4883FA00750841C746280000F041C4C17A104628E94A341DFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "68A1A3",
+          "on": "E99ECBE20090",
+          "off": "C4C17A104628"
+        },
+        {
+          "offset": "14B6D63",
+          "on": "4883FF007507C740280000C842C5FA104028E9B0804AFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "95EE25",
+          "on": "E9397FB500",
+          "off": "C5FA104028"
+        }
+      ]
+    },
+    {
+      "name": "Infi Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14B6D9F",
+          "on": "6681FBC8DB74096681FB30F37402EB0A41C7472800003E43EB06C4C17A115F28E9A7AF5DFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A91D65",
+          "on": "E93550A20090",
+          "off": "C4C17A115F28"
+        }
+      ]
+    },
+    {
+      "name": "Instant Cooldown (Talisman, Relic)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14B6D14",
+          "on": "0F57C0C4C17A11442438E9368E63FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "AEFB52",
+          "on": "E9BD719C009090",
+          "off": "C4C17A11442438"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Stun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14B6D81",
+          "on": "4883FE00740841C746280000C842C4C17A104628E9A84C31FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7CBA3C",
+          "on": "E940B3CE0090",
+          "off": "C4C17A104628"
+        }
+      ]
+    },
+    {
+      "name": "No Resource Deduction (XP,HS)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14B6D00",
+          "on": "83FA007F0231D2F0015708E9CE2D87FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D29ACF",
+          "on": "E92CD2780090",
+          "off": "F0015708EB09"
+        }
+      ]
+    },
+    {
+      "name": "No Limits (Crafting, Upgrade)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D2A746",
+          "on": "9090",
+          "off": "7C9D"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

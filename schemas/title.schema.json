@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/kylin-core-cheats/title.schema.json",
+  "title": "Kylin Cheat Title Metadata",
+  "type": "object",
+  "required": ["schemaVersion", "titleId", "name"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "titleId": {
+      "type": "string",
+      "pattern": "^(PPSA|CUSA)[0-9]{5}$"
+    },
+    "npTitleId": {
+      "type": "string",
+      "pattern": "^(PPSA|CUSA)[0-9]{5}_[0-9]{2}$"
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "regions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "platforms": {
+      "type": "array",
+      "items": { "enum": ["PS4", "PS5"] },
+      "uniqueItems": true
+    },
+    "publisher": { "type": "string" },
+    "contentId": { "type": "string" },
+    "releaseDate": { "type": "string" },
+    "storeUrl": { "type": "string" },
+    "iconImage": { "type": "string" },
+    "coverImage": { "type": "string" },
+    "backgroundImage": { "type": "string" },
+    "metadataSource": { "type": "string" },
+    "metadataUpdatedAt": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}

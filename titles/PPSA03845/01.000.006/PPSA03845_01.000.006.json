@@ -1,0 +1,76 @@
+{
+  "name": "Dead Space",
+  "id": "PPSA03845",
+  "version": "01.000.006",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC3C30",
+          "on": "41817C240800CEAFE37507C4C17A10442444C4C17A11442440E9F7A911FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FDE63E",
+          "on": "E9ED55EE049090",
+          "off": "C4C17A11442440"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EC3C62",
+          "on": "C5F25F8D64FFFFFF41813C24E07E4607750E41817C240800CEAFE374030F57C0E9B3A911FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FDE632",
+          "on": "E92B56EE04909090",
+          "off": "C5F25F8D64FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi Air",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FE873D",
+          "on": "C4C17A115E60",
+          "off": "C4C17A114660"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo & Stasis",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1365D0A",
+          "on": "31DB9090",
+          "off": "41035F38"
+        }
+      ]
+    },
+    {
+      "name": "No Reduction (Money,Node,Etc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A96EDC",
+          "on": "909090",
+          "off": "4429F8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

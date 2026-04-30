@@ -1,0 +1,76 @@
+{
+  "name": "Lie of P",
+  "id": "PPSA10261",
+  "version": "01.005.001",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health \\ Stamina \\ Fable \\ Legion (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "290C729",
+          "on": "9090909090",
+          "off": "E8D2E2EAFF"
+        },
+        {
+          "offset": "9207F00",
+          "on": "0F45C84183BEFC0000000C74084983FD007416909041C7460C204E0000EB0E41C7460C00000000EB0441894E0CE9BBA1FFF6",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2020E6",
+          "on": "E9155E00099090",
+          "off": "0F45C841894E0C"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC Required)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9207F11",
+          "on": "740C",
+          "off": "7416"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ergo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28B3804",
+          "on": "909090",
+          "off": "0F4CC8"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items & Storage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F7A0E",
+          "on": "B863000000",
+          "off": "C4E278F2C6"
+        }
+      ]
+    },
+    {
+      "name": "Infi Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5CA032",
+          "on": "B93075000090",
+          "off": "85C0410F48CE"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

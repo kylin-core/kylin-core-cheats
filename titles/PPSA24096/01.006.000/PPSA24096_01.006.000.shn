@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cronos The New Dawn" Moder="Yharnam" Cusa="PPSA24096" Version="01.006.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Untouchable">
+        <Cheatline>
+            <Offset>6FAA2F0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-3D-B0-FB-00-09-74-06-FF-90-88-06-00-00-E9-E8-FF-B4-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>6FAA2A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-85-9C-FE-FF-FF-20-BC-3E-4C-C5-FA-10-85-9C-FE-FF-FF-E9-E3-22-AB-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>4C15C0C</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-5F-45-94</ValueOn>
+            <ValueOff>C5-FA-5D-45-94</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Ammo">
+        <Cheatline>
+            <Offset>4D0F7AB</Offset>
+            <Section>0</Section>
+            <ValueOn>45-31-F6</ValueOn>
+            <ValueOff>45-29-F7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Items (No Reduction)">
+        <Cheatline>
+            <Offset>6FAA200</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-F9-30-AE-74-02-31-D2-41-89-D4-48-89-FB-E9-3D-91-C1-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Energy (Money)">
+        <Cheatline>
+            <Offset>6FAA250</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-81-F8-E0-DF-75-07-B8-FF-E0-F5-05-EB-02-03-01-48-89-9D-D0-FC-FF-FF-E9-3B-6B-C1-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

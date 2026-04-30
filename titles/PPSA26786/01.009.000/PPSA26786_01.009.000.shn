@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Indiana Jones and The Great Circle" Moder="Yharnam" Cusa="PPSA26786" Version="01.009.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>352F3E0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-7D-04-1D-74-06-0F-57-C0-0F-57-C9-C4-C1-7A-11-4D-44-E9-01-09-02-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>352F390</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-7D-04-1D-75-12-C4-C1-7A-10-4D-40-C4-C1-7A-11-4D-44-C4-C1-7A-10-45-5C-C4-C1-7A-11-45-50-E9-4B-09-02-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Stamina">
+        <Cheatline>
+            <Offset>E8ABB8</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-43-37-89-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Money & Points (Get)">
+        <Cheatline>
+            <Offset>352F430</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-7F-96-98-00-43-89-54-F7-0C-E9-BD-24-25-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

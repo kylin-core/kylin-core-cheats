@@ -1,0 +1,131 @@
+{
+  "name": "The Witcher 3 Wild Hunt Complete Edition",
+  "id": "PPSA03977",
+  "version": "04.040.100",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code - MC (Must Enable First)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C50",
+          "on": "83782003740E837820077423837820057429EB4190909090909090909090909090909090909090909090909090EB2690909090909090909090EB1A909090909090909090909090909090909090EB06C5FA10448804C5FA110488E911CDECFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25449BB",
+          "on": "E990321300",
+          "off": "C5FA110488"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C64",
+          "on": "83F9007436",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C69",
+          "on": "83F9037431",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C8B",
+          "on": "813C880000F0387411C704880000F038EB0D",
+          "off": "909090909090909090909090909090909090"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Adrenaline",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C73",
+          "on": "83F9097427",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C78",
+          "on": "83F90C7422",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Horse Run",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C7F",
+          "on": "83F903741B",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Minimum Horse Panic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C84",
+          "on": "83F9067416",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "No Toxic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677C6E",
+          "on": "83F9057437",
+          "off": "9090909090"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (Sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2677D00",
+          "on": "6681FC40A67505B83F420F008906BE03000000E9F26782FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E9E503",
+          "on": "E9F8977D009090",
+          "off": "8906BE03000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

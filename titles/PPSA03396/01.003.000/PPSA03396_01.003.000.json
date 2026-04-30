@@ -1,0 +1,59 @@
+{
+  "name": "The Last of Us Part I",
+  "id": "PPSA03396",
+  "version": "01.003.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1371AEC",
+          "on": "909090",
+          "off": "FF5020"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo & Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A9E800",
+          "on": "31D289C14983FB007512664181FF0027740A664181FFC0F47402EB02FFC9E9C0CDEFFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "199B5DD",
+          "on": "E91E32100190",
+          "off": "31D289C1FFC9"
+        },
+        {
+          "offset": "1294AFE",
+          "on": "909090",
+          "off": "4429F8"
+        },
+        {
+          "offset": "19986AB",
+          "on": "9090909090909090",
+          "off": "6641FF8EF00B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1976876",
+          "on": "9090",
+          "off": "29D0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

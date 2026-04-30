@@ -1,0 +1,48 @@
+{
+  "name": "The Last of Us Part I",
+  "id": "PPSA03396",
+  "version": "02.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E0CDFF",
+          "on": "909090",
+          "off": "FF5020"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo & Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "239D50D",
+          "on": "9090",
+          "off": "FFC9"
+        },
+        {
+          "offset": "2399C1E",
+          "on": "90909090909090",
+          "off": "66FF88F00B0000"
+        },
+        {
+          "offset": "237BCA6",
+          "on": "9090",
+          "off": "29D0"
+        },
+        {
+          "offset": "5F2160",
+          "on": "909090",
+          "off": "4429FA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

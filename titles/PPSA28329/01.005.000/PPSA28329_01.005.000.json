@@ -1,0 +1,49 @@
+{
+  "name": "RoboCop Rogue City Unfinished Business",
+  "id": "PPSA28329",
+  "version": "01.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DB9541",
+          "on": "9090909090",
+          "off": "E87ABF0100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3F82A89",
+          "on": "909090909090",
+          "off": "FF8B10070000"
+        },
+        {
+          "offset": "3D2F9C7",
+          "on": "9090909090",
+          "off": "E814000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E09C0E",
+          "on": "B98038010090909090",
+          "off": "8B8BC00000004401F9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

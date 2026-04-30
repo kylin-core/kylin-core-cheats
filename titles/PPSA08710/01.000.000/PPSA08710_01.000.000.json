@@ -1,0 +1,86 @@
+{
+  "name": "Silent Hill 2",
+  "id": "PPSA08710",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2037B69",
+          "on": "9090909090",
+          "off": "E8A23E1000"
+        },
+        {
+          "offset": "2187115",
+          "on": "9090909090",
+          "off": "E8F648FBFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "213BFA2",
+          "on": "9090909090909090",
+          "off": "C5FA1183F8000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "575F000",
+          "on": "C745DC0024F448C5FA1045DCE9B1331AFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "9023BD",
+          "on": "E93ECCE504",
+          "off": "C5FA1045DC"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo (No Reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "575F064",
+          "on": "8BB7A006000089B39C0B0000E902C0A5FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "21BB071",
+          "on": "E9EE3F5A0390",
+          "off": "89B39C0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "575F032",
+          "on": "29D6BE6300000089740808E97C48A1FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "21738B8",
+          "on": "E975B75E0390",
+          "off": "29D689740808"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}
