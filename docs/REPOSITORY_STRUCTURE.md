@@ -4,7 +4,9 @@ This repository is a published catalog. It contains stable files under
 `titles/`, plus root `catalog.json`, schemas, tools, and docs.
 
 Raw archives such as `.rar` files should not be committed. Use them locally with
-the migration tools, then commit only generated `titles/` output.
+the migration tools, then commit only generated `titles/` output. The local
+`raw/` directory is ignored by git and is only a staging area for collected
+archives before running `tools/import_raw_archives.py`.
 
 ## Published Catalog
 
@@ -68,6 +70,11 @@ python3 tools/build_titles_index.py
 Each entry must point to a local file in the same directory and include checksum
 metadata.
 
+`manifest.revision` should increase whenever a published payload for the same
+`titleId + version` changes. Import scripts do this automatically for raw
+archive replacements; manual edits should follow the same rule so clients can
+offer updates reliably.
+
 ## File Naming
 
 Published cheat files must use:
@@ -100,6 +107,21 @@ Supported published formats:
 Archive formats such as `.rar` are source material only and should stay outside
 the repository. They must be unpacked before publishing because `kylin-core`
 does not load `.rar` files.
+
+Local source archives can be processed from the ignored `raw/` directory:
+
+```sh
+.venv/bin/python tools/import_raw_archives.py --dry-run
+.venv/bin/python tools/import_raw_archives.py
+```
+
+Already extracted loose payloads can be staged under `raw/cheats/{json,shn,mc4}`
+and processed with:
+
+```sh
+.venv/bin/python tools/import_loose_cheats.py --dry-run
+.venv/bin/python tools/import_loose_cheats.py
+```
 
 ## Multi-ID and Region Compatibility
 
