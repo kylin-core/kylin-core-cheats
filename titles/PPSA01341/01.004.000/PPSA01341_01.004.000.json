@@ -1,0 +1,163 @@
+{
+  "name": "Demon's Souls Remake",
+  "id": "PPSA01341",
+  "version": "01.004.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinity HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FF7E6C",
+          "on": "29DE4C89F74183BE94000000FF0F84545235FEE94A5235FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "34D0C9",
+          "on": "E99EADCA01",
+          "off": "29DE4C89F7"
+        }
+      ]
+    },
+    {
+      "name": "Infinity MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34A7C0",
+          "on": "4489BB3C070000",
+          "off": "4489AB3C070000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FF7E84",
+          "on": "418B86300700004183BE94000000FF0F84415235FE41C7863007000000000000E9315235FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "34D0D3",
+          "on": "E9ACADCA019090",
+          "off": "418B8630070000"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FF7EA9",
+          "on": "4C8D45C04C8D4DB083BE94000000FF0F8531843FFEE931843FFE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3F02E7",
+          "on": "E9BD7BC001909090",
+          "off": "4C8D45C04C8D4DB0"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34A996",
+          "on": "45897500",
+          "off": "45897D00"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Zero Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FF7EC3",
+          "on": "83BB94000000FF74034531F64489B344070000E9D8D534FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3454AC",
+          "on": "E9122ACB019090",
+          "off": "4489B344070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Max Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D2A87",
+          "on": "899880000000",
+          "off": "8B8080000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4702EA",
+          "on": "9090",
+          "off": "893A"
+        }
+      ]
+    },
+    {
+      "name": "No Souls loss Upon Death",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21D982",
+          "on": "90909090909090",
+          "off": "41898D80000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (Use, Move, Drop)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "469CFB",
+          "on": "890190",
+          "off": "448929"
+        }
+      ]
+    },
+    {
+      "name": "Duplicate Anything (Storage * Inventory)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "469C9F",
+          "on": "4189C5",
+          "off": "4501E5"
+        }
+      ]
+    },
+    {
+      "name": "All Infinity Health (for training)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "344870",
+          "on": "90909090909090",
+          "off": "4489B330070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

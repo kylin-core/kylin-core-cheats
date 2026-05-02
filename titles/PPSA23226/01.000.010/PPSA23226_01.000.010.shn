@@ -3,17 +3,9 @@
 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Black Myth Wukong" Moder="Yharnam" Cusa="PPSA23226" Version="01.000.010" Process="eboot.bin">    <Genres Name="Adventure" />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Black Myth: Wukong | 黑神话：悟空" Moder="erik13" Cusa="PPSA23226" Version="01.000.010" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health">
-        <Cheatline>
-            <Offset>AD23154</Offset>
-            <Section>0</Section>
-            <ValueOn>90-90-90</ValueOn>
-            <ValueOff>FF-57-18</ValueOff>
-        </Cheatline>
-    </Cheat>
-    <Cheat Text="Infi Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>9909E75</Offset>
             <Section>0</Section>
@@ -21,7 +13,7 @@
             <ValueOff>35-00-00-00-80</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi MP">
+    <Cheat Text="Infinite MP | 无限法力">
         <Cheatline>
             <Offset>9909BAC</Offset>
             <Section>0</Section>
@@ -29,7 +21,7 @@
             <ValueOff>35-00-00-00-80</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Skill (No Cooldown)">
+    <Cheat Text="Skill No Cooldown | 技能无冷却">
         <Cheatline>
             <Offset>983FEA2</Offset>
             <Section>0</Section>
@@ -37,7 +29,7 @@
             <ValueOff>F3-0F-5C-45-D4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Healing Potion">
+    <Cheat Text="Infinite Gourd | 无限葫芦">
         <Cheatline>
             <Offset>990A153</Offset>
             <Section>0</Section>
@@ -45,36 +37,116 @@
             <ValueOff>44-89-F0-F7-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
-            <Offset>22705200</Offset>
+            <Offset>854C2B1</Offset>
             <Section>0</Section>
-            <ValueOn>8B-50-20-BA-E7-03-00-00-89-51-4C-E9-A7-70-E4-E5</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>E9-CA-32-3A-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-4C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Currency (99,999,999) | 使用货币99999999">
         <Cheatline>
-            <Offset>22705214</Offset>
+            <Offset>853A62F</Offset>
             <Section>0</Section>
-            <ValueOn>48-8B-50-20-48-C7-C2-7F-96-98-00-48-89-51-20-E9-0F-54-E3-E5</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>E9-12-52-3B-09-90-90-90</ValueOn>
+            <ValueOff>48-8B-50-20-48-89-51-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
-            <Offset>22705232</Offset>
+            <Offset>853A74B</Offset>
             <Section>0</Section>
-            <ValueOn>BA-E7-03-00-00-89-51-1C-E9-12-55-E3-E5</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>E9-79-51-3B-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="R2+O Infinite Transform/Time | R2+O无限变身无限时间">
         <Cheatline>
-            <Offset>22705246</Offset>
+            <Offset>990A9E1</Offset>
             <Section>0</Section>
-            <ValueOn>8B-50-20-BA-7F-96-98-00-89-51-48-E9-29-70-E4-E5</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>F3-48-0F-2A-C7-90-90-90</ValueOn>
+            <ValueOff>66-0F-EF-05-D7-CA-B1-09</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="L2+R2 Infinite Use | 化身技能无限使用">
+        <Cheatline>
+            <Offset>990AFD6</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-48-0F-2A-C7-90-90-90</ValueOn>
+            <ValueOff>66-0F-EF-05-E2-C4-B1-09</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="R2+L3 Infinite Use | 无限法宝技能使用">
+        <Cheatline>
+            <Offset>990ACD6</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-48-0F-2A-C7-90-90-90</ValueOn>
+            <ValueOff>66-0F-EF-05-E2-C7-B1-09</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Charge | 快速蓄力">
+        <Cheatline>
+            <Offset>9564C40</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-48-0F-2A-C7</ValueOn>
+            <ValueOff>F3-0F-10-45-D4</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="10x EXP | 经验10倍">
+        <Cheatline>
+            <Offset>854C279</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-28-36-3A-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-48</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stealth Time | 无限隐身持续时间">
+        <Cheatline>
+            <Offset>955EF7D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>F3-0F-5C-45-EC</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Clone Time | 无限分身持续时间">
+        <Cheatline>
+            <Offset>91680A6</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-52-78-78-08-90-90-90-90</ValueOn>
+            <ValueOff>8B-40-70-89-85-30-FD-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="2.5x Movement Speed | 移动速度2.5倍">
+        <Cheatline>
+            <Offset>9878C9F</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-46-6C-07-08</ValueOn>
+            <ValueOff>F3-0F-59-41-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Relic Points (6 types) | 无限根器点数">
+        <Cheatline>
+            <Offset>85443E0</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-3A-B5-3A-09-90</ValueOn>
+            <ValueOff>8B-50-20-89-51-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Armor Effects (Re-equip to activate) | 护甲效果(再次装备一件护甲生效)">
+        <Cheatline>
+            <Offset>B79BAF5</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-8C-BB-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="100% Drop Rate | 掉落率100%">
+        <Cheatline>
+            <Offset>9A72453</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-01</ValueOn>
+            <ValueOff>20-C8</ValueOff>
         </Cheatline>
     </Cheat>
 </Trainer>

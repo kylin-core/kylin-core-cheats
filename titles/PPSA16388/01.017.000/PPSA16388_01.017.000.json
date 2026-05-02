@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "Infi Health-无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo-无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -38,6 +38,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

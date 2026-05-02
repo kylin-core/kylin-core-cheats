@@ -1,0 +1,43 @@
+{
+  "name": "Mortal Shell Enhanced Edition",
+  "id": "PPSA02868",
+  "version": "01.000.008",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health / Stamina / Resolve - 无限生命 / 无限耐力 / 无限决心",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46D6830",
+          "on": "4883C104817F44CDCC4C3D741F817F300000F0407416817F30C0EBDF607510837F2C13750ABE00606A46EB038B77048937E9563E7AFC",
+          "off": "4883C104817F44CDCC4C3D741F817F300000F0407416817F30C0EBDF607510837F2C13750ABE00606A46EB038B77048937E9563E7AFC"
+        },
+        {
+          "offset": "E7A6B6",
+          "on": "E975C1850390",
+          "off": "4883C1048937"
+        }
+      ]
+    },
+    {
+      "name": "Tar & Glimpse MAX - 焦油与残影 最大",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46D6870",
+          "on": "4883C104807F0E247408807F0E207402EB05BE9F8601008937E98E3B7AFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E7A416",
+          "on": "E955C4850390",
+          "off": "4883C1048937"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yanam & baobao8888汉化"
+  ]
+}

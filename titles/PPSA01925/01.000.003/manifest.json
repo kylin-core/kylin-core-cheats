@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA01925",
+  "version": "01.000.003",
+  "name": "Alan Wake Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA01925"
+  ],
+  "updatedAt": "2026-05-02T10:17:46Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01925_01.000.003.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA01925_01.000.003.json",
+      "size": 2603,
+      "sha256": "d4d1099a05b0e12f3f2955e83927dc0c9a4cf4aaa21e2350a70ea7b1edfb74ca",
+      "cheatCount": 8,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01925_01.000.003.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA01925_01.000.003.shn",
+      "size": 2633,
+      "sha256": "7b90a339244d66d8c33d169393869a6ce2a55122e2d16b40bd4988df284e0fa2",
+      "cheatCount": 8,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01925_01.000.003.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA01925_01.000.003.mc4",
+      "size": 3520,
+      "sha256": "9e15325522b3cf071c700adca17711374c883313d74398efbfbd8763bd3f226e",
+      "cheatCount": 8,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01925_01.000.003.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

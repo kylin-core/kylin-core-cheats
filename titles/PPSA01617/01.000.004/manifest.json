@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA01617",
+  "version": "01.000.004",
+  "name": "Mortal Kombat 11",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA01617"
+  ],
+  "updatedAt": "2026-05-02T10:17:46Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01617_01.000.004.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA01617_01.000.004.json",
+      "size": 1660,
+      "sha256": "5d10b9e8d4eb148da52aef6354cee5f66e28f6f65a1b45f66b369fd8fdc7bbaa",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01617_01.000.004.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA01617_01.000.004.shn",
+      "size": 1759,
+      "sha256": "abc8975e2d37a8f4e77c2c535767a70962e26aef7089a0dd82167aa0febe5771",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01617_01.000.004.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA01617_01.000.004.mc4",
+      "size": 2348,
+      "sha256": "48e633389516d07e84de0e55271bcd9fecde96c89414c5b2cd4a1a3843fce1d6",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA01617_01.000.004.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "UNCHARTED: Legacy of Thieves Collection",
+  "id": "PPSA05389",
+  "version": "01.002.000",
+  "process": "tllr-boot.bin",
+  "mods": [
+    {
+      "name": "开启 Debug 开发者菜单 按键 (L3 + 触摸板)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7EC003E8",
+          "on": "5248BA494A5D0C11000000488B1280E24088904533000080B845330000005AE9A9009B81",
+          "off": "5248BA494A5D0C11000000488B1280E24088904533000080B845330000005AE9A9009B81"
+        },
+        {
+          "offset": "5B04AE",
+          "on": "E935FF647E9090",
+          "off": "80B84533000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Baobao8888"
+  ]
+}

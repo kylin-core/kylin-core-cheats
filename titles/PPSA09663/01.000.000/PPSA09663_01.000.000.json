@@ -1,0 +1,54 @@
+{
+  "name": "Dragon's Dogma 2",
+  "id": "PPSA09663",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C9A7800",
+          "on": "41BC7F9698004489A298020000E9D183E4FA90",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77EFBDC",
+          "on": "E91F7C1B059090",
+          "off": "4489A298020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "78D3867",
+          "on": "90909090",
+          "off": "6689411A"
+        }
+      ]
+    },
+    {
+      "name": "50,000,000 XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C9A7800",
+          "on": "81422480F0FA029090E9AE82C1F3",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "5BFAB4",
+          "on": "E9477D3E0C909090",
+          "off": "44014224488B4B50"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

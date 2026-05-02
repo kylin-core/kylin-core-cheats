@@ -1,0 +1,117 @@
+{
+  "name": "Wanted Dead",
+  "id": "PPSA05622",
+  "version": "01.001.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64A7A90",
+          "on": "41817F08480004007409C4C17A1187C0000000E93C3775FB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BFB1DB",
+          "on": "E9B0C88A0490909090",
+          "off": "C4C17A1187C0000000"
+        },
+        {
+          "offset": "64A7AC0",
+          "on": "817F08480004007408C5FA118FC0000000E9AF002FFA",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "797B7D",
+          "on": "E93EFFD005909090",
+          "off": "C5FA118FC0000000"
+        },
+        {
+          "offset": "1C32BD3",
+          "on": "9090909090",
+          "off": "E85833B8FE"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64A7A50",
+          "on": "6681FC30AC7406FF8B40030000E9A08C32FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7D06FC",
+          "on": "E94F73CD0590",
+          "off": "FF8B40030000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C3B580",
+          "on": "9090",
+          "off": "FFC8"
+        },
+        {
+          "offset": "1C3B56C",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Acquire SP x 5",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64A7AF0",
+          "on": "456BED054401AEB8050000E981198CFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1D6947A",
+          "on": "E971E673049090",
+          "off": "4401AEB8050000"
+        }
+      ]
+    },
+    {
+      "name": "Acquire Adrenaline x 10",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64A7B10",
+          "on": "C5FA59853CFFFFFF49C7C50000204166450F6EF5F3410F59C649C7C50000000066450FEFF6E99EA678FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C321D0",
+          "on": "E93B598704909090",
+          "off": "C5FA59853CFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi Medikit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C3953A",
+          "on": "440F4DF0",
+          "off": "440F4CF0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

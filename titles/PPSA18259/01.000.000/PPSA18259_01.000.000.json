@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health (Player)",
+      "name": "Infi Health (Player) - 无限生命（玩家）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Health (Survivors)",
+      "name": "Infi Health (Survivors) - 无限生命（幸存者）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Durability",
+      "name": "Inf Weapon Durability - 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
+      "name": "Inf Ammo - 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Time Stop",
+      "name": "Time Stop - 时间停止",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infi Film",
+      "name": "Infi Film - 无限胶片",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Maximum Number of Kills",
+      "name": "Maximum Number of Kills - 最大击杀数",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "Max Exp - 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -119,6 +119,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baoboa8888汉化"
   ]
 }

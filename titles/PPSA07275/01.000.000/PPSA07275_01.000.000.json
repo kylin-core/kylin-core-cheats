@@ -1,0 +1,65 @@
+{
+  "name": "Valkyrie Elysium",
+  "id": "PPSA07275",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode & 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1925CCD",
+          "on": "9090",
+          "off": "FFD3"
+        },
+        {
+          "offset": "D4B917",
+          "on": "97",
+          "off": "87"
+        },
+        {
+          "offset": "D7D2E6",
+          "on": "909090909090",
+          "off": "FF90980C0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Soul Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A25C0",
+          "on": "9090909090909090",
+          "off": "C5FA118734010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Art Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18F4CC0",
+          "on": "9090909090909090",
+          "off": "C5FA118798020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Weapon Proficiency",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BB347B",
+          "on": "4E",
+          "off": "4F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yanam Guy"
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="PPSA21297_00-0371328810141270" Moder="Talixme" Cusa="PPSA21297" Version="01.000.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Hp and No curse-无限生命值&无诅咒">
+        <Cheatline>
+            <Offset>7FCCB000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-7F-60-20-31-07-02-0F-84-28-DA-D1-00-41-81-7F-60-E0-D2-60-02-0F-84-1A-DA-D1-00-41-29-DD-45-89-6F-20-E9-0E-DA-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Money-无限金钱">
+        <Cheatline>
+            <Offset>7FCCB048</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C8-B8-E7-03-00-00-89-43-18-E9-AB-B8-51-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,92 @@
+{
+  "name": "Blasphemous 2",
+  "id": "PPSA13579",
+  "version": "01.007.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Flasks/Fervor (Mastercode/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187BDB0",
+          "on": "837B1006EB10B85E010000898398000000E90E62A97F837B1004EB10B810270000898398000000E9F861A97F83BB1401000010EBD6B85E010000898398000000E9DF61A97F",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81311FCE",
+          "on": "E9DD9D568090",
+          "off": "898398000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187BDB4",
+          "on": "7510",
+          "off": "EB10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bile Flasks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187BDCA",
+          "on": "7510",
+          "off": "EB10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fervor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187BDE3",
+          "on": "75D6",
+          "off": "EBD6"
+        }
+      ]
+    },
+    {
+      "name": "Max Marks Of Martyrdom/Tears",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187BC60",
+          "on": "0F84AD62A97F41C746383F420F0048C745D800000000E96262A97F",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81311ED7",
+          "on": "E9849D568090",
+          "off": "744041895E38"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187B9F0",
+          "on": "C783D000000000000000E93BA1EA7F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81725B32",
+          "on": "E9B95E1580909090",
+          "off": "C5FA1183D0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

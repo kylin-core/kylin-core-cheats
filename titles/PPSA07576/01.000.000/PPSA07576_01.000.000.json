@@ -1,0 +1,123 @@
+{
+  "name": "No More Heroes III",
+  "id": "PPSA07576",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP + OHK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "602F800",
+          "on": "4983F80A742E4983F80874284983F80074224983F820740B89B7640A0000E9A74420FB31C031D231F689B7640A0000E9964420FB89C889CA89CE89B7640A0000E9854420FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1233CC4",
+          "on": "E937BBDF0490",
+          "off": "89B7640A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "602F800",
+          "on": "4983F80A74174983F80874114983F800740B89B7640A0000E9AD4420FB89C889CA89CE89B7640A0000E99C4420FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1233CC4",
+          "on": "E937BBDF0490",
+          "off": "89B7640A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Battery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12DC084",
+          "on": "898F341D0000",
+          "off": "8987341D0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf WESN",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1440AD4",
+          "on": "898730030000",
+          "off": "898F30030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf UtopiCoin",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1440A24",
+          "on": "C7872C0300007F969800",
+          "off": "898F2C03000085F67E1F"
+        }
+      ]
+    },
+    {
+      "name": "Inf Sushi",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14FAF75",
+          "on": "B105",
+          "off": "FEC1"
+        },
+        {
+          "offset": "14FAF8D",
+          "on": "B105",
+          "off": "FEC9"
+        },
+        {
+          "offset": "14FAFA5",
+          "on": "B105",
+          "off": "FEC9"
+        },
+        {
+          "offset": "14FAFBD",
+          "on": "B105",
+          "off": "FEC9"
+        },
+        {
+          "offset": "14FAFD5",
+          "on": "B105",
+          "off": "FEC9"
+        },
+        {
+          "offset": "14FAFED",
+          "on": "B105",
+          "off": "FEC9"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bike Nitro",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16F7E88",
+          "on": "9090909090909090",
+          "off": "C5FA118B300D0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

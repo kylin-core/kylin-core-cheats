@@ -1,0 +1,22 @@
+{
+  "name": "A Plague Tale Requiem",
+  "id": "PPSA05366",
+  "version": "01.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Throwable/ Equipped / Craftable Items on using",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B56DD0",
+          "on": "44017048",
+          "off": "44297048"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

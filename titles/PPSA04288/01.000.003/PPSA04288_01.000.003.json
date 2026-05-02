@@ -1,0 +1,33 @@
+{
+  "name": "Resident Evil 2",
+  "id": "PPSA04288",
+  "version": "01.000.003",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18079D6",
+          "on": "9090909090",
+          "off": "E865CB2E00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon ammo (no reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1497BD0",
+          "on": "90909090",
+          "off": "44896920"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

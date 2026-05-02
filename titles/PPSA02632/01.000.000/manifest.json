@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA02632",
+  "version": "01.000.000",
+  "name": "Street Fighter 6",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA02632"
+  ],
+  "updatedAt": "2026-05-02T10:17:46Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02632_01.000.000.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA02632_01.000.000.json",
+      "size": 1562,
+      "sha256": "49c298e7bc9d99f17b1c3ce7a96d9e3224e87e43766c86fce25a56b250be99ec",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02632_01.000.000.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA02632_01.000.000.shn",
+      "size": 1639,
+      "sha256": "cc1938fc07ca7aa6bc379bf803f6d80d811277710667ec3ab3f28a51265fac6f",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02632_01.000.000.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA02632_01.000.000.mc4",
+      "size": 2200,
+      "sha256": "157331fd3061fa48221a07cb1fbc6aa725b0b96df78f2a428c6a893ca020913f",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02632_01.000.000.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

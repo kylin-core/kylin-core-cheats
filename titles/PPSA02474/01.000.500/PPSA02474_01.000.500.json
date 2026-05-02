@@ -1,0 +1,103 @@
+{
+  "name": "Terminator Resistance Enhanced Edition",
+  "id": "PPSA02474",
+  "version": "01.000.500",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A8E850",
+          "on": "909090909090",
+          "off": "FF9020040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A17ED0",
+          "on": "C5FA1083F4000000C5FA1183EC000000E9096F03FC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A4EDE6",
+          "on": "E9E590FC03909090",
+          "off": "C5FA1183EC000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A17F10",
+          "on": "C4C17A118DEC000000E95251FEFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "9FD067",
+          "on": "E9A4AE010490909090",
+          "off": "C4C17A1185EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Items (Sell For Money)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A17FE0",
+          "on": "498B1C24C744CB08E80300008B44CB08E976F9FCFB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9E7963",
+          "on": "E978060304909090",
+          "off": "498B1C248B44CB08"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BD27C6",
+          "on": "90909090909090",
+          "off": "412987F0060000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Levels On 2? Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B93E90",
+          "on": "41019624060000",
+          "off": "41898E24060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B95800",
+          "on": "909090909090",
+          "off": "89872C060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

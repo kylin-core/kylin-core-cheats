@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kingdom Come Deliverance II" Moder="Yharnam" Cusa="PPSA21704" Version="01.041.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health">
+    <Cheat Text="Infi Health-无限生命">
         <Cheatline>
             <Offset>8D16500</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Untouchable">
+    <Cheat Text="Untouchable-无敌模式">
         <Cheatline>
             <Offset>8D165A0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill-一击必杀">
         <Cheatline>
             <Offset>8D16550</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth Kill (Touch)">
+    <Cheat Text="Stealth Kill (Touch)-潜行击杀（触碰）">
         <Cheatline>
             <Offset>8D16640</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Stamina">
+    <Cheat Text="Infi Stamina-无限耐力">
         <Cheatline>
             <Offset>3707C1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-A1-7A-11-84-BB-A8-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Energy (Fatigue)">
+    <Cheat Text="Infi Energy (Fatigue)-无限精力（疲劳值）">
         <Cheatline>
             <Offset>A6393</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C4-C1-7A-11-86-58-07-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Durability (Weapons, Armor, Some Items)">
+    <Cheat Text="Infi Durability (Weapons, Armor, Some Items)-无限耐久（武器、护甲、部分物品）">
         <Cheatline>
             <Offset>17815D</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-F2-5D-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Hunger">
+    <Cheat Text="No Hunger-无饥饿感">
         <Cheatline>
             <Offset>A61CD</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-11-86-5C-07-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Fall Damage">
+    <Cheat Text="No Fall Damage-无坠落伤害">
         <Cheatline>
             <Offset>13E1ADA</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>FF-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zero Weight (When Changed)">
+    <Cheat Text="Zero Weight (When Changed)-负重清零（变更时生效）">
         <Cheatline>
             <Offset>5C7D6F6</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C4-C2-71-A9-46-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Money (Sell)">
+    <Cheat Text="Infi Money (Sell)-无限金钱（出售时）">
         <Cheatline>
             <Offset>8D165F0</Offset>
             <Section>0</Section>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA02433",
+  "version": "01.000.002",
+  "name": "Crash Bandicoot 4 - It's About Time",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA02433"
+  ],
+  "updatedAt": "2026-05-02T10:17:46Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02433_01.000.002.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA02433_01.000.002.json",
+      "size": 2781,
+      "sha256": "7dc42eb67a0b60c194890f2cd10c611c219022c053928e9edf3efa5d0157ea34",
+      "cheatCount": 7,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02433_01.000.002.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA02433_01.000.002.shn",
+      "size": 2589,
+      "sha256": "9243296a6091e0928b72eaeb7ced4d1ea6866e5d7695de00ab170a612696f6ca",
+      "cheatCount": 7,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02433_01.000.002.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA02433_01.000.002.mc4",
+      "size": 3456,
+      "sha256": "713e0d3953841a6fe9316e0e7f36300c20cbdba41b2c2dc5a42b487cad123336",
+      "cheatCount": 7,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA02433_01.000.002.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

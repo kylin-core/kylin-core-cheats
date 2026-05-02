@@ -1,0 +1,37 @@
+{
+  "name": "Dead Space",
+  "id": "PPSA03845",
+  "version": "01.000.004",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "100 Million Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5EBF800",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "DAE940",
+          "on": "E9BB0E1105",
+          "off": "89771CC3CC"
+        },
+        {
+          "offset": "5EBF804",
+          "on": "BE00E1F50589771CC3CCE932F1EEFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5EBF800",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

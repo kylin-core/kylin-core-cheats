@@ -37,29 +37,7 @@
       ]
     },
     {
-      "name": "Infi Air",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "FE873D",
-          "on": "C4C17A115E60",
-          "off": "C4C17A114660"
-        }
-      ]
-    },
-    {
-      "name": "Infi Ammo & Stasis",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "1365D0A",
-          "on": "31DB9090",
-          "off": "41035F38"
-        }
-      ]
-    },
-    {
-      "name": "No Reduction (Money,Node,Etc)",
+      "name": "No Reduction (Money,Node, Etc)",
       "type": "checkbox",
       "memory": [
         {

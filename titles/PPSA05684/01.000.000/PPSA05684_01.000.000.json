@@ -1,0 +1,27 @@
+{
+  "name": "Uncharted 4 A Thief's End",
+  "id": "PPSA05684",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Dev Menu Press (L3 + Touch Pad)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B9F800",
+          "on": "5248BA494A5D0C11000000488B1280E24088904533000080B845330000005AE96110A1FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5B087E",
+          "on": "E97DEF5E019090",
+          "off": "80B84533000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

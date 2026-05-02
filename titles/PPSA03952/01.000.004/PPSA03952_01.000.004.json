@@ -1,0 +1,59 @@
+{
+  "name": "Resident Evil 3",
+  "id": "PPSA03952",
+  "version": "01.000.004",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E41DC7",
+          "on": "9090909090",
+          "off": "E8B44135FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DF56D5",
+          "on": "909090",
+          "off": "895120"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shop Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E3FBEE",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "913D81",
+          "on": "E968BE52059090",
+          "off": "89417C498B4550"
+        },
+        {
+          "offset": "5E3FBF2",
+          "on": "B8A086010089417C498B4550E98541ADFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "5E3FBEE",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

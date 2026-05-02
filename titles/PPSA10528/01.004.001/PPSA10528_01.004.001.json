@@ -1,0 +1,113 @@
+{
+  "name": "Prince Of Persia The Lost Crown",
+  "id": "PPSA10528",
+  "version": "01.004.001",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health-无限生命",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "806D0520",
+          "on": "9090909090",
+          "off": "4129442428"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill-轻松击杀",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83493030",
+          "on": "4983F801750A83FB0A7E05BB0A00000041895F28E9A45757FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "82A087E5",
+          "on": "E946A8A800909090",
+          "off": "410F4FDC41895F28"
+        }
+      ]
+    },
+    {
+      "name": "Max Athra surge charge (1 Hit)-满值阿苏拉涌动能量（一击即可）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18BFB60",
+          "on": "C780E00000000000FA43E9DF94DA7E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80669046",
+          "on": "E9156B2581909090",
+          "off": "C5FA1180E0000000"
+        }
+      ]
+    },
+    {
+      "name": "No Athra surge Cooldown-无阿苏拉涌动冷却时间",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18BF890",
+          "on": "41C78768010000CDCCCCBDE9FF2EAB7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80372796",
+          "on": "E9F5D0548190909090",
+          "off": "C4C17A118768010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows/Potions (On Use)-无限箭矢/药剂（使用时生效）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18BDF80",
+          "on": "442B70144489EE498B4740E94D4CBB7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80472BD6",
+          "on": "E9A5B344819090",
+          "off": "442970144489EE"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Time Crystals/Xerxes/Lingots (x2/Disable After Max)-最大值/无限时间水晶/薛西斯币/金条（双倍/达到上限后禁用）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18BE210",
+          "on": "C740143F420F004489E6498B4640E9103FBB7E",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8047212C",
+          "on": "E9DFC044819090",
+          "off": "440178144489E6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps-无限跳跃",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825D2A62",
+          "on": "90909090909090",
+          "off": "C6800202000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez & baobao8888汉化"
+  ]
+}

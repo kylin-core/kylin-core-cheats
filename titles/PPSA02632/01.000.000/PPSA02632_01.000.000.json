@@ -1,0 +1,70 @@
+{
+  "name": "Street Fighter 6",
+  "id": "PPSA02632",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf P1 Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B619A00",
+          "on": "488B45B8488B4DA83D10196A027402EB07448BA80C040000E9EED30BFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "56D6E03",
+          "on": "E9F82BF405909090",
+          "off": "488B45B8488B4DA8"
+        }
+      ]
+    },
+    {
+      "name": "Inf P2 Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B619A1E",
+          "on": "3D10236A027402EB07448BA80C0400004489A810040000E9D8D30BFA",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "56D6E0B",
+          "on": "E90E2CF4059090",
+          "off": "4489A810040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B619A3C",
+          "on": "C74014FFE0F50583FB01E9A62CEAF7",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "34BC6EB",
+          "on": "E94CD3150890",
+          "off": "89481483FB01"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (Sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34BC15D",
+          "on": "4E",
+          "off": "46"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Evil West",
+  "id": "PPSA02372",
+  "version": "01.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7DB0",
+          "on": "817F1C0000C842EB0CC7470C0000FA43E9145A6BF9817FA808000400EB15817F0C0000803F7E0CC7470C0000803FE9F6596BF9C5FA11470CE9EC596BF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6D7D4",
+          "on": "E9D7A59406",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7DB7",
+          "on": "750C",
+          "off": "EB0C"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7DCC",
+          "on": "7515",
+          "off": "EB15"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B79B0",
+          "on": "81BF98000000000048C37507C7470C00004843C5FA10470CE9FC5D6BF9",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6D7C4",
+          "on": "E9E7A19406",
+          "off": "C5FA10470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "226FD1F",
+          "on": "9090909090",
+          "off": "E87C5A2900"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (On Pick)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7BA0",
+          "on": "4889E5C746507F9698008B7650E90593B3FB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24F0EB1",
+          "on": "E9EA6C4C0490",
+          "off": "4889E58B7650"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Levels/Perks (Enable After Level 3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7860",
+          "on": "4181C63F420F004401B37C070000E9FAA9ABFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2472266",
+          "on": "E9F55554049090",
+          "off": "4401B37C070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

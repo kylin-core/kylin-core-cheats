@@ -3,9 +3,9 @@
 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Forza Horizon 5" Moder="Yharnam" Cusa="PPSA22327" Version="01.685.672" Process="eboot.bin">    <Genres Name="Adventure" />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Forza Horizon 5" Moder="Yharnam & baobao8888汉化" Cusa="PPSA22327" Version="01.685.672" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Money (Enter Shop and Exit)">
+    <Cheat Text="Infi Money (Enter Shop and Exit) - 无限金钱（进入商店再退出）">
         <Cheatline>
             <Offset>5DB3400</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Mastery Points (Use)">
+    <Cheat Text="Infi Mastery Points (Use) - 无限熟练度点数（使用生效）">
         <Cheatline>
             <Offset>490A85A</Offset>
             <Section>0</Section>

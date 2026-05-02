@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable-无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health-无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Paints",
+      "name": "Inf Paints-无限颜料",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items-最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -60,6 +60,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

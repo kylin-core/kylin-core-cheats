@@ -1,0 +1,146 @@
+{
+  "name": "Atomic Heart",
+  "id": "PPSA10695",
+  "version": "01.014.400",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Easy Kill/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47DB0",
+          "on": "817F28CDCC4C3E750FC5FA114708C5FA114708E9D13E33F94983FA2E750AC5FA114708E9C13E33F9817F2800007042750FC5FA114708C5FA114708E9A93E33F94180F888750AC5FA114708E9993E33F94180F848750AC5FA114708E9893E33F981BFC80000000000803F750AC5FA114708E9733E33F9817F3800007A43758FC5FA114708E9603E33F9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7BC94",
+          "on": "E917C1CC06",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47DB9",
+          "on": "C5FA104748",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47DCE",
+          "on": "C5FA114F08",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47DE1",
+          "on": "C5FA10471C",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Polymeric Ability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47DF6",
+          "on": "9090909090",
+          "off": "C5FA114708"
+        },
+        {
+          "offset": "6D47E06",
+          "on": "9090909090",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shock",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47E1C",
+          "on": "9090909090",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47E2F",
+          "on": "9090909090",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47B90",
+          "on": "C7834005000064000000FF8B40050000E918A201FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D61DB7",
+          "on": "E9D45DFE0090",
+          "off": "FF8B40050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neuropolymer/Resources (On Pick Up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47BB0",
+          "on": "B8E70300004189004584C9E9E878E0FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1B4F4A2",
+          "on": "E909871F0590",
+          "off": "4189004584C9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neuropolymer/Resources (On use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D47A50",
+          "on": "0F85D09DE4FAC74330E70300008B4B30E95D9DE4FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B917BD",
+          "on": "E98E621B05",
+          "off": "756D8B4B30"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "The Callisto Protocol",
+  "id": "PPSA03351",
+  "version": "01.029.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health-无限生命",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7083100",
+          "on": "4D85FF74184885D27413837F2419750DC5FA5F8F1C010000E9EF50F5FAC5FA5D8F1C010000E9E250F5FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FD8204",
+          "on": "E9F7AE0A05909090",
+          "off": "C5FA5D8F1C010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload-无需换弹",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DE9B4A",
+          "on": "909090",
+          "off": "4401F6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite GRP-无限GRP能量",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DDDA1E",
+          "on": "A7",
+          "off": "87"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits-最大信用点数",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7083200",
+          "on": "4881FAFFFFFF7F7505BF9F860100897C311041C6873402000001E9611AD7FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DF4C74",
+          "on": "E987E5280590909090909090",
+          "off": "897C311041C6873402000001"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yanam Guy & baobao8888汉化"
+  ]
+}

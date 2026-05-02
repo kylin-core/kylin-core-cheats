@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lords of The Fallen" Moder="Yharnam" Cusa="PPSA07064" Version="01.053.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="God Mode">
+        <Cheatline>
+            <Offset>547AB00</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3E-50-30-48-07-75-0A-66-41-81-FB-A0-82-74-02-EB-06-FF-90-B0-04-00-00-E9-98-57-B8-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Weight Gain">
+        <Cheatline>
+            <Offset>1DD3D24</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>FF-90-98-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Seed">
+        <Cheatline>
+            <Offset>547AC03</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-D0-9E-75-03-8B-4F-3C-89-4F-38-44-8B-47-3C-E9-1D-48-D6-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items">
+        <Cheatline>
+            <Offset>21DF469</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>29-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Souls (get)">
+        <Cheatline>
+            <Offset>21133DC</Offset>
+            <Section>0</Section>
+            <ValueOn>BB-00-E1-F5-05-90-90-90</ValueOn>
+            <ValueOff>C5-F2-59-C0-C5-FA-2C-D8</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

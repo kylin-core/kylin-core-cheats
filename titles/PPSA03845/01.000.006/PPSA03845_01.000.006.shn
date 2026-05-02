@@ -21,23 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Air">
-        <Cheatline>
-            <Offset>FE873D</Offset>
-            <Section>0</Section>
-            <ValueOn>C4-C1-7A-11-5E-60</ValueOn>
-            <ValueOff>C4-C1-7A-11-46-60</ValueOff>
-        </Cheatline>
-    </Cheat>
-    <Cheat Text="Infi Ammo & Stasis">
-        <Cheatline>
-            <Offset>1365D0A</Offset>
-            <Section>0</Section>
-            <ValueOn>31-DB-90-90</ValueOn>
-            <ValueOff>41-03-5F-38</ValueOff>
-        </Cheatline>
-    </Cheat>
-    <Cheat Text="No Reduction (Money,Node,Etc)">
+    <Cheat Text="No Reduction (Money,Node, Etc)">
         <Cheatline>
             <Offset>3A96EDC</Offset>
             <Section>0</Section>

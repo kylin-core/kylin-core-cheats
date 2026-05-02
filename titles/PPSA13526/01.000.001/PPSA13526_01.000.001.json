@@ -1,0 +1,71 @@
+{
+  "name": "GYLT",
+  "id": "PPSA13526",
+  "version": "01.000.001",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E2E48C",
+          "on": "9090909090",
+          "off": "E8DF281900"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "54FB000",
+          "on": "483DB0034D077406FF9050090000E9007EB1FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1012E0D",
+          "on": "E9EE814E0490",
+          "off": "FF9050090000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FCCA8A",
+          "on": "C5FA119340010000",
+          "off": "C5FA118340010000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Battery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E84B34",
+          "on": "C5FA118BD0050000",
+          "off": "C5FA1183D0050000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Medikit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E56ADD",
+          "on": "909090909090",
+          "off": "FF8BC80D0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

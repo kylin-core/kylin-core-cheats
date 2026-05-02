@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Island 2" Moder="Yharnam" Cusa="PPSA03099" Version="01.000.001" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>7457700</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BB-70-01-00-00-02-75-0C-C7-83-78-01-00-00-00-40-9C-45-EB-08-C5-FA-11-8B-78-01-00-00-E9-C9-D7-09-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Weapon Durability">
+        <Cheatline>
+            <Offset>7457764</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-58-0B-00-00-00-00-C8-42-E9-85-CC-60-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Ammo">
+        <Cheatline>
+            <Offset>745781F</Offset>
+            <Section>0</Section>
+            <ValueOn>85-D2-78-08-03-97-CC-00-00-00-EB-06-8B-97-CC-00-00-00-E9-CC-CC-4A-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Stamina">
+        <Cheatline>
+            <Offset>74577C8</Offset>
+            <Section>0</Section>
+            <ValueOn>F3-0F-10-83-28-01-00-00-C5-FA-11-83-1C-01-00-00-E9-69-A1-4E-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Damage (Fall, Fire, Poison, Frozen)">
+        <Cheatline>
+            <Offset>15F5852</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-D9-9B-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Fury">
+        <Cheatline>
+            <Offset>7457630</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-45-CC-00-00-80-3F-C5-FA-10-45-CC-E9-95-9F-6F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Cash & Items">
+        <Cheatline>
+            <Offset>7457890</Offset>
+            <Section>0</Section>
+            <ValueOn>49-81-F9-FF-C9-9A-3B-74-05-44-89-C9-EB-05-B9-7F-96-98-00-41-89-4C-DD-20-E9-39-96-8E-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Exp">
+        <Cheatline>
+            <Offset>7457600</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-45-B4-FF-C9-9A-3B-8B-45-B4-48-89-DF-E9-24-8E-72-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

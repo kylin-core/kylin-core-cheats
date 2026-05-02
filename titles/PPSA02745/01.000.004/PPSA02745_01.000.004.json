@@ -1,0 +1,81 @@
+{
+  "name": "Tales of Arise",
+  "id": "PPSA02745",
+  "version": "01.000.004",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Gald",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B1799E",
+          "on": "BB00E1F50541899FA8000000E9C6D377FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2294D6E",
+          "on": "E92B2C88039090",
+          "off": "41899FA8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Experience ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B179B1",
+          "on": "41BD404B4C0045896C2450E920763BFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1ECEFDC",
+          "on": "E9D089C403",
+          "off": "45896C2450"
+        }
+      ]
+    },
+    {
+      "name": "Infinite CP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B179C3",
+          "on": "66BEE7036689B09C000000E90CAD37FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1E926D8",
+          "on": "E9E652C8039090",
+          "off": "6689B09C000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "229898A",
+          "on": "C740700F270000",
+          "off": "89507039D17D18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FCE224",
+          "on": "C7030F270000",
+          "off": "4489334439F0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

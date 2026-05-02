@@ -1,0 +1,162 @@
+{
+  "name": "The First Berserker Khazan",
+  "id": "PPSA20447",
+  "version": "01.000.020",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BBF4",
+          "on": "4983FA00EB1849C7C60F2700004C89B340230000C4C1EA2AC6E9A84879FA4981FC9F090000EB0749C7C6000000004C89B340230000C4C1EA2AC6E9874879FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "33004B3",
+          "on": "E93CB786059090",
+          "off": "4C89B340230000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BBF8",
+          "on": "7518",
+          "off": "EB18"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BC19",
+          "on": "7507",
+          "off": "EB07"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina/Javelin/No Weight (Mastercode/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BDB0",
+          "on": "6681FC90B3EB114D8B65004D896500488B7338E9BABE78FA6681FCB0AFEB114D8B65004D896500488B7338E9A2BE78FA6681FCE0B0EB114D8B65004D896500488B7338E98ABE78FA6681FCC0AEEB114D8B65004D896500488B7338E972BE78FA6681FC00AAEB1449C7C4581B00004D896500488B7338E957BE78FA6681FC10A4EB0749C7C4000000004D896500488B7338E93CBE78FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "32F7C7A",
+          "on": "E931418705909090",
+          "off": "4D896500488B7338"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BDB5",
+          "on": "7511",
+          "off": "EB11"
+        },
+        {
+          "offset": "8B6BDCD",
+          "on": "7511",
+          "off": "EB11"
+        },
+        {
+          "offset": "8B6BDE5",
+          "on": "7511",
+          "off": "EB11"
+        },
+        {
+          "offset": "8B6BDFD",
+          "on": "7511",
+          "off": "EB11"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Javelin",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BE15",
+          "on": "7514",
+          "off": "EB14"
+        }
+      ]
+    },
+    {
+      "name": "No Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BE30",
+          "on": "7507",
+          "off": "EB07"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C16273",
+          "on": "B80F270000",
+          "off": "C4E270F2C0"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CA1982",
+          "on": "BA80969800",
+          "off": "C4E268F2D6"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Lacrimas",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CD031E",
+          "on": "B880969800",
+          "off": "C4E2F0F2C2"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B6BC60",
+          "on": "B8E7030000418946045BE9514911FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2C805BB",
+          "on": "E9A0B6EE05",
+          "off": "418946045B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

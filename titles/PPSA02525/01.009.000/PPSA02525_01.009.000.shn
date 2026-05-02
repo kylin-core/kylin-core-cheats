@@ -3,9 +3,9 @@
 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tormented Souls" Moder="Yharnam" Cusa="PPSA02525" Version="01.009.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tormented Souls" Moder="Yharnam & baobao8888汉化" Cusa="PPSA02525" Version="01.009.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Untouchable">
+    <Cheat Text="Untouchable - 无敌">
         <Cheatline>
             <Offset>8056D348</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-D3-37-1B-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Health">
+    <Cheat Text="Infi Health - 无限生命值">
         <Cheatline>
             <Offset>80720C07</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-54-E5-D5-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Ammo">
+    <Cheat Text="Infi Ammo - 无限弹药">
         <Cheatline>
             <Offset>801E4EB6</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-2B-71-4C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items (2st Get)">
+    <Cheat Text="Max Items (2st Get) - 物品数量最大化（第2次生效）">
         <Cheatline>
             <Offset>8047E2AF</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>0F-4C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Healing Items">
+    <Cheat Text="Infi Healing Items - 无限治疗道具">
         <Cheatline>
             <Offset>803E9AE1</Offset>
             <Section>0</Section>

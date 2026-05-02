@@ -1,0 +1,167 @@
+{
+  "name": "Grand theft Auto V",
+  "id": "PPSA04264",
+  "version": "01.005.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill - 无限生命 / 一击必杀（必须开启）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307BDB0",
+          "on": "4181BE4801000083000000EB17C4C17A108654020000C4C17A118650020000E941BB28FE4181BE4801000080000000EBE541C7865002000000000000E924BB28FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "130790C",
+          "on": "E99F44D70190909090",
+          "off": "C4C17A118650020000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill - 一击必杀",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307BDBB",
+          "on": "7517",
+          "off": "EB17"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307BDDF",
+          "on": "75E5",
+          "off": "EBE5"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armor - 无限护甲",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307B830",
+          "on": "41C78424EC14000000004843C4C17A108424EC140000E939878BFD",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "933F7A",
+          "on": "E9B17874029090909090",
+          "off": "C4C17A108424EC140000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo - 无限弹药",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "228237E",
+          "on": "909090",
+          "off": "894B1C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload - 无需换弹",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22312C1",
+          "on": "9090909090",
+          "off": "6641897656"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special Ability - 无限特殊技能",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307B9A0",
+          "on": "C4C17A10453CC4C17A114534E93ACAD9FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "E183E5",
+          "on": "E9B635260290",
+          "off": "C4C17A114534"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath (Underwater) - 无限水下憋气",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307B9D0",
+          "on": "41C7816801000000000000E9A649D6FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DE037D",
+          "on": "E94EB6290290909090",
+          "off": "C4C17A118168010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Wanted Level - 最高通缉等级",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307B810",
+          "on": "B80500000041898424B8000000E9DE69BBFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C321F8",
+          "on": "E913964402909090",
+          "off": "41898424B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Never Wanted - 永不被通缉",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307B840",
+          "on": "B80000000041898424B8000000E9AE69BBFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C321F8",
+          "on": "E943964402909090",
+          "off": "41898424B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Lot Of Money (Go To MazeBank) - 大量金钱（前往麦泽银行生效）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5A69EC0",
+          "on": "48C7C640548900488934C8410FB607E975472CFD",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D2E641",
+          "on": "E97AB8D302909090",
+          "off": "488934C8410FB607"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

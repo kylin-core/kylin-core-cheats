@@ -1,0 +1,86 @@
+{
+  "name": "Marvel's Guardians of The Galaxy",
+  "id": "PPSA01748",
+  "version": "01.007.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3D2254A",
+          "on": "6681FAE0F67405C5FA114B54E9E649C1FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1936F3C",
+          "on": "E909B63E02",
+          "off": "C5FA114B54"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3D22450",
+          "on": "4C8D75D0664181FA30A9742B4983FA5A74254981FAA5000000741C4983FA51740F4983FA047402EB13BE00000000EB0CBEE7030000EB05BE3F420F00897320E9F6F8B4FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1871D83",
+          "on": "E9C8064B029090",
+          "off": "4C8D75D0897320"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19357D7",
+          "on": "909090909090",
+          "off": "FF9040030000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Skill Cooltime",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3D22518",
+          "on": "4881F9101735057509C743540000B442EB05C5FA114B54E9A538C1FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1935DD4",
+          "on": "E93FC73E02",
+          "off": "C5FA114B54"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Point",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "259AD9F",
+          "on": "41BDA086010090",
+          "off": "4D89E5448B65C8"
+        },
+        {
+          "offset": "259ADB3",
+          "on": "909090",
+          "off": "4501E5"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

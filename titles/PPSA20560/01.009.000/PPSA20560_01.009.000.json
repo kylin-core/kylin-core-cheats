@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill-一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Untouchable (Player)",
+      "name": "Untouchable (Player)-无敌（玩家）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Untouchable (Mech, Turret)",
+      "name": "Untouchable (Mech, Turret)-无敌（机甲、炮台）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infi Health (Player)",
+      "name": "Infi Health (Player)-无限生命（玩家）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infi Health (Mech, Turret)",
+      "name": "Infi Health (Mech, Turret)-无限生命（机甲、炮台）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infi Health (Dragon)",
+      "name": "Infi Health (Dragon)-无限生命（巨龙）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo-无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Infi Shield Durability",
+      "name": "Infi Shield Durability-无限盾牌耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Infi Punch",
+      "name": "Infi Punch-无限重拳",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infi Gold & Ruby (Use)",
+      "name": "Infi Gold & Ruby (Use)-无限金币与红宝石（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -156,6 +156,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

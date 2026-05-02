@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill-一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health-无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infi Stamina",
+      "name": "Infi Stamina-无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Infi Money & Points (Get)",
+      "name": "Infi Money & Points (Get)-无限金钱与点数（获取）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,6 +80,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

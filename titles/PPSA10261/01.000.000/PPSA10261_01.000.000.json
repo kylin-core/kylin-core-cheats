@@ -1,0 +1,122 @@
+{
+  "name": "Lie of P",
+  "id": "PPSA10261",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2790B48",
+          "on": "9090909090",
+          "off": "E843FBEDFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F13834",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "2A022D",
+          "on": "E90236C704",
+          "off": "43894CFD0C"
+        },
+        {
+          "offset": "4F13838",
+          "on": "4983FF000F85F0C938FB43894CFD0CE9E6C938FB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F13834",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ergo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F13800",
+          "on": "EBFE90",
+          "off": "000000"
+        },
+        {
+          "offset": "274792E",
+          "on": "E9CDBE7C02",
+          "off": "8947445DC3"
+        },
+        {
+          "offset": "4F13805",
+          "on": "B8809698008947445DC3E91F4183FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "4F13800",
+          "on": "EB03",
+          "off": "EBFE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/ Storage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F13816",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "7FB273",
+          "on": "E99E85710490",
+          "off": "894740488B07"
+        },
+        {
+          "offset": "4F1381A",
+          "on": "B863000000894740488B07E94F7A8EFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "4F13816",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fable Arts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2792CEF",
+          "on": "9090909090",
+          "off": "E8CCD3B0FD"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Legion Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2792ED2",
+          "on": "9090909090",
+          "off": "E8E9D1B0FD"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

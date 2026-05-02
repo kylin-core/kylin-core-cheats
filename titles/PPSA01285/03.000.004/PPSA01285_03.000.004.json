@@ -12,49 +12,97 @@
           "offset": "277337E",
           "on": "9090909090",
           "off": "E8AD3C8600"
-        },
-        {
-          "offset": "2FCE970",
-          "on": "9090909090",
-          "off": "E8EB0D7BFF"
         }
       ]
     },
     {
-      "name": "No Reload",
+      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On)",
       "type": "checkbox",
       "memory": [
         {
+          "offset": "61BB5D0",
+          "on": "41817C240848000400EB2041C78424AC02000000C07944E95DB35BFCC4C17A118C24AC020000E94EB35BFC41837C242414EBE941C78424AC02000000000000E935B35BFC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "277693F",
+          "on": "E98C4CA4039090909090",
+          "off": "C4C17A118C24AC020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61BB5D9",
+          "on": "7520",
+          "off": "EB20"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61BB601",
+          "on": "75E9",
+          "off": "EBE9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61BBA50",
+          "on": "4983F800750690E97D3FC0FCC4C17A1186A8010000E96F3FC0FC",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
           "offset": "2DBF9D0",
-          "on": "909090909090909090",
+          "on": "E97BC03F0390909090",
           "off": "C4C17A1186A8010000"
         }
       ]
     },
     {
-      "name": "Infinite Obolites Keys",
+      "name": "Max Obolites/Keys",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "2ABF6F9",
-          "on": "04",
-          "off": "1C"
+          "offset": "61BBE10",
+          "on": "4C89EF4983FF017505BB0F27000042891CA0E9D43890FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2ABF6F4",
+          "on": "E917C76F039090",
+          "off": "4C89EF42891CA0"
         }
       ]
     },
     {
-      "name": "Infinite Ether",
+      "name": "Max Ether",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "2CC1FE4",
-          "on": "5F",
-          "off": "5D"
+          "offset": "61BB6E0",
+          "on": "C783800400000000C642E90E69B0FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2CC1FF5",
+          "on": "E9E6964F03909090",
+          "off": "C5FA118380040000"
         }
       ]
     },
     {
-      "name": "Infinite Dash",
+      "name": "Dash Instant Cooldown",
       "type": "checkbox",
       "memory": [
         {
@@ -63,9 +111,36 @@
           "off": "41898770030000"
         }
       ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61BBC80",
+          "on": "41C78748040000FFFFFFFFE9339695FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2B152BC",
+          "on": "E9BF696A039090",
+          "off": "41FF8748040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite VOIDBEAM/SHOCKSTREAM",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "271CCFF",
+          "on": "9090909090909090",
+          "off": "C5FA118374020000"
+        }
+      ]
     }
   ],
   "credits": [
-    "Yharnam"
+    "Celogamez"
   ]
 }

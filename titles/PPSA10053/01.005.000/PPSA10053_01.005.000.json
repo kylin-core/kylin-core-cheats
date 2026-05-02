@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode - 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "Infi Rifle (No Reload)",
+      "name": "Infi Rifle (No Reload) - 无限步枪（无需换弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Max Items & Money & Skill Point",
+      "name": "Max Items & Money & Skill Point - 最大物品、金钱、技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Infi Healing Potion",
+      "name": "Infi Healing Potion - 无限治疗药水",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infi Skill Gauge",
+      "name": "Infi Skill Gauge - 无限技能槽",
       "type": "checkbox",
       "memory": [
         {
@@ -91,6 +91,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam&Baobao8888汉化"
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA13526",
+  "version": "01.000.001",
+  "name": "GYLT",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA13526"
+  ],
+  "updatedAt": "2026-05-02T10:17:47Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA13526_01.000.001.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA13526_01.000.001.json",
+      "size": 1369,
+      "sha256": "5a78a77d451711f261aaef7623c3e0e2246738d223ac2c3b102cbd8da0a14db2",
+      "cheatCount": 5,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA13526_01.000.001.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA13526_01.000.001.shn",
+      "size": 1670,
+      "sha256": "ca5abe0842c14088f06f9f4550188b0fd9b04fddc275d235bdd53d9b82f7ed08",
+      "cheatCount": 5,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA13526_01.000.001.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA13526_01.000.001.mc4",
+      "size": 2240,
+      "sha256": "24d89efee0fdef14ac8f4b106a8a2a579ad2d8328ce70c45676c4f017bf62c1c",
+      "cheatCount": 5,
+      "source": "Local loose cheat import. Source file: raw/cheats/mc4/PPSA13526_01.000.001.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

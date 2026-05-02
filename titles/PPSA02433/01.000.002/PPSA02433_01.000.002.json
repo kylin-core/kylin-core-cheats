@@ -1,0 +1,123 @@
+{
+  "name": "Crash Bandicoot 4 - It's About Time",
+  "id": "PPSA02433",
+  "version": "01.000.002",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD00",
+          "on": "C683700100000180BB7001000003E95BFFBEFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "110FC67",
+          "on": "E9940041049090",
+          "off": "80BB7001000003"
+        }
+      ]
+    },
+    {
+      "name": "Running Speed x 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD1E",
+          "on": "C745B80000FA43E99FEEFBFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "34DEBC4",
+          "on": "E955110402",
+          "off": "C5FA1145B8"
+        }
+      ]
+    },
+    {
+      "name": "Infi Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD32",
+          "on": "41C7863803000000000000E97000C4FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "15FDAB",
+          "on": "E982FF3B059090",
+          "off": "41FF8648030000"
+        }
+      ]
+    },
+    {
+      "name": "Death Cnt 0 (Modern Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD46",
+          "on": "BE0000000089B7C0050000E9F4EBC9FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11BE944",
+          "on": "E9FD13360490",
+          "off": "01B7C0050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Apples",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD5A",
+          "on": "458B8C24E403000045898C24E0030000E90A04D7FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1290171",
+          "on": "E9E4FB2804909090",
+          "off": "45018C24E0030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Boxes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD78",
+          "on": "8BB74804000089B750040000E9A3DFC9FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "11BDD26",
+          "on": "E94D20360490",
+          "off": "01B750040000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Trial Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "551FD8C",
+          "on": "41BCE7030000C4C17A2AC4E94F6AD7FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "12967E6",
+          "on": "E9A1952804",
+          "off": "C4C17A2AC4"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

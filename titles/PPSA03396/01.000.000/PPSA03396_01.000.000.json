@@ -1,0 +1,55 @@
+{
+  "name": "The Last of Us Part I",
+  "id": "PPSA03396",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "135CB4C",
+          "on": "909090",
+          "off": "FF5020"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (No Reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "196D2A1",
+          "on": "9090",
+          "off": "FFC9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1948C56",
+          "on": "9090",
+          "off": "29D0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "128001E",
+          "on": "909090",
+          "off": "4429F8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yanam Guy"
+  ]
+}

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable-无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health-无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill-一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Infi Zeni",
+      "name": "Infi Zeni-无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -75,6 +75,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

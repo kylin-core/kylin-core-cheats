@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="Yharnam" Cusa="PPSA01556" Version="01.210.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Untouchable">
+        <Cheatline>
+            <Offset>9B4B900</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-8B-42-50-4D-85-C0-74-5E-66-45-8B-40-10-66-41-81-F8-F1-B0-74-3A-66-41-81-F8-9E-48-74-32-66-41-81-F8-92-C1-74-2A-66-41-81-F8-3A-3D-74-22-66-41-81-F8-0C-06-74-1A-66-41-81-F8-7A-40-74-12-66-41-81-F8-23-62-74-0A-66-41-81-F8-E7-51-74-02-EB-17-66-81-78-10-DB-F9-74-0F-66-81-78-10-45-45-74-07-49-C7-C0-01-00-00-00-48-83-78-18-00-E9-39-EA-7F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Health">
+        <Cheatline>
+            <Offset>9B4B830</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-24-02-75-0F-50-48-8B-40-20-8B-00-3D-50-EF-5A-0C-58-74-0B-C5-F8-2E-C1-C5-FA-11-48-14-EB-0E-C5-F8-2E-C1-C5-FA-10-48-10-C5-FA-11-48-14-E9-DE-25-01-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>9B4B9A0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-24-02-75-14-50-48-83-C0-20-48-8B-00-8B-00-3D-50-EF-5A-0C-58-75-02-EB-25-81-78-10-00-C0-79-44-74-1C-81-78-10-00-00-A0-40-74-13-81-78-10-00-00-40-40-74-0A-0F-57-C0-C5-FA-11-40-14-EB-05-C5-FA-10-40-10-E9-4F-24-01-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gun Rate of Fire">
+        <Cheatline>
+            <Offset>9B4B88E</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-4C-02-00-00-CD-CC-CC-3D-C5-FA-10-83-4C-02-00-00-E9-B4-29-69-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Ammo (No Reload)">
+        <Cheatline>
+            <Offset>61DBE2C</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-00-00-00-00</ValueOn>
+            <ValueOff>B9-01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi Throwables">
+        <Cheatline>
+            <Offset>346301D</Offset>
+            <Section>0</Section>
+            <ValueOn>31-C0-90</ValueOn>
+            <ValueOff>8B-45-D0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Item Reduction">
+        <Cheatline>
+            <Offset>9B4B8AC</Offset>
+            <Section>0</Section>
+            <ValueOn>41-54-66-45-89-F4-66-41-81-E4-FF-0F-66-41-81-FC-20-0C-74-0A-66-41-81-FC-70-0C-74-02-EB-03-44-29-EA-89-50-4C-41-5C-E9-31-81-91-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>346931D</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-3F-42-0F-00-90</ValueOn>
+            <ValueOff>41-8B-4D-48-01-D9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infi White Sage (Rose)">
+        <Cheatline>
+            <Offset>9B4BAC0</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-F4-01-00-00-89-4A-10-89-4A-14-89-48-28-3B-48-28-E9-55-47-E8-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Timer">
+        <Cheatline>
+            <Offset>5FFC3D0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instantly Ready (Ethan's Tank Cannon & Chris's Target Locator)">
+        <Cheatline>
+            <Offset>9B4BA20</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7E-18-00-00-C0-40-74-26-81-7E-18-00-00-F0-41-74-1D-81-7E-18-00-00-40-40-74-14-81-7E-18-00-00-A0-40-74-0B-81-7E-18-00-00-70-41-74-02-EB-0C-C7-46-14-00-00-00-00-C5-FA-10-46-14-C5-FA-11-46-14-E9-23-6E-C3-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Chris's Fist Bar Instant Reload">
+        <Cheatline>
+            <Offset>9B4BAF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-54-C5-FA-11-43-50-E9-C6-90-99-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Score (Mercenaries)">
+        <Cheatline>
+            <Offset>9B4B980</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-46-18-FF-E0-F5-05-48-8B-47-50-E9-53-76-28-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alcina's Rage is immediately Full (Mercenaries)">
+        <Cheatline>
+            <Offset>4269D9F</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-4C-24-54</ValueOn>
+            <ValueOff>C4-C1-7A-10-4C-24-50</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alcina's Rage is Not Reduced (Mercenaries)">
+        <Cheatline>
+            <Offset>4269F80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-50-00-40-9C-45-90-90</ValueOn>
+            <ValueOff>C5-F3-5A-C9-C4-C1-7A-11-4C-24-50</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alcina's Infi Insect Swarm (Mercenaries)">
+        <Cheatline>
+            <Offset>4E1EC66</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>42-C7-44-A8-20-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alcina's Infi Ornate Vanity (Mercenaries)">
+        <Cheatline>
+            <Offset>4E1EF08</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-C7-86-40-02-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alcina's Daughter Instant Reload (Mercenaries)">
+        <Cheatline>
+            <Offset>4E1A2F8</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-58-80-60-02-00-00</ValueOn>
+            <ValueOff>C5-FA-58-80-54-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Karl's Sawblade Instant Reload (Mercenaries)">
+        <Cheatline>
+            <Offset>9B4BA80</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-88-01-00-00-00-00-00-3C-C5-FA-10-86-88-01-00-00-E9-19-81-43-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Karl's Scrap Instant Reload (Mercenaries)">
+        <Cheatline>
+            <Offset>9B4BAA0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-86-8C-01-00-00-00-00-00-3D-C5-FA-10-86-8C-01-00-00-E9-3F-80-43-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Karl's Soldier Jet Instant Reload (Mercenaries)">
+        <Cheatline>
+            <Offset>4269D9F</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-4C-24-54</ValueOn>
+            <ValueOff>C4-C1-7A-10-4C-24-50</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

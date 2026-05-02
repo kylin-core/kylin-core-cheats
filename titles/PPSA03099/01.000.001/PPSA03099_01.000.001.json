@@ -1,0 +1,144 @@
+{
+  "name": "Dead Island 2",
+  "id": "PPSA03099",
+  "version": "01.000.001",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7457700",
+          "on": "80BB7001000002750CC7837801000000409C45EB08C5FA118B78010000E9C9D709FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14F4EE3",
+          "on": "E91828F605909090",
+          "off": "C5FA118B78010000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7457764",
+          "on": "C783580B00000000C842E985CC60FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A643F0",
+          "on": "E96F339F05909090",
+          "off": "C5FA1183580B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "745781F",
+          "on": "85D278080397CC000000EB068B97CC000000E9CCCC4AFA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19044FC",
+          "on": "E91E33B50590",
+          "off": "0397CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "74577C8",
+          "on": "F30F108328010000C5FA11831C010000E969A14EFA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "194193E",
+          "on": "E9855EB105909090",
+          "off": "C5FA11831C010000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage (Fall, Fire, Poison, Frozen)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15F5852",
+          "on": "9090909090",
+          "off": "E8D99BFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infi Fury",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7457630",
+          "on": "C745CC0000803FC5FA1045CCE9959F6FFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B515D1",
+          "on": "E95A609005",
+          "off": "C5FA1045CC"
+        },
+        {
+          "offset": "7457660",
+          "on": "C745F40000803FC5FA1045F4E93E78DCFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "221EEAA",
+          "on": "E9B1872305",
+          "off": "C5FA1045F4"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash & Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7457890",
+          "on": "4981F9FFC99A3B74054489C9EB05B97F96980041894CDD20E939968EFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D40EE1",
+          "on": "E9AA697101",
+          "off": "41894CDD20"
+        }
+      ]
+    },
+    {
+      "name": "Max Exp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7457600",
+          "on": "C745B4FFC99A3B8B45B44889DFE9248E72FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B80430",
+          "on": "E9CB718D0590",
+          "off": "8B45B44889DF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

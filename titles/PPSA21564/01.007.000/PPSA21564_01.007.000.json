@@ -1,0 +1,38 @@
+{
+  "name": "Astro bot",
+  "id": "PPSA21564",
+  "version": "01.007.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "74EFDB0",
+          "on": "4401F8B89F860100894304E9C07B48FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "597797A",
+          "on": "E93184B70190",
+          "off": "4401F8894304"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6161C9A",
+          "on": "90909090909090",
+          "off": "C6835801000001"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "name": "RoboCop Rogue City",
+  "name": "RoboCop Rogue City | 机械战警 暴戾都市",
   "id": "PPSA05060",
   "version": "01.006.000",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "Max Exp | 最大经验",
       "type": "checkbox",
       "memory": [
         {

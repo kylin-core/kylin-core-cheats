@@ -3,9 +3,9 @@
 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Rising Deluxe Remaster" Moder="Yharnam" Cusa="PPSA18259" Version="01.000.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Rising Deluxe Remaster" Moder="Yharnam & baoboa8888汉化" Cusa="PPSA18259" Version="01.000.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health (Player)">
+    <Cheat Text="Infi Health (Player) - 无限生命（玩家）">
         <Cheatline>
             <Offset>76632E0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Health (Survivors)">
+    <Cheat Text="Infi Health (Survivors) - 无限生命（幸存者）">
         <Cheatline>
             <Offset>76633A8</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Weapon Durability">
+    <Cheat Text="Inf Weapon Durability - 无限武器耐久度">
         <Cheatline>
             <Offset>7663312</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo">
+    <Cheat Text="Inf Ammo - 无限弹药">
         <Cheatline>
             <Offset>7663344</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time Stop">
+    <Cheat Text="Time Stop - 时间停止">
         <Cheatline>
             <Offset>D07C62</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>FF-90-C0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Film">
+    <Cheat Text="Infi Film - 无限胶片">
         <Cheatline>
             <Offset>1DCADFA</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-FF-CD</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Maximum Number of Kills">
+    <Cheat Text="Maximum Number of Kills - 最大击杀数">
         <Cheatline>
             <Offset>7663376</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp - 最大经验值">
         <Cheatline>
             <Offset>CDCAD3</Offset>
             <Section>0</Section>

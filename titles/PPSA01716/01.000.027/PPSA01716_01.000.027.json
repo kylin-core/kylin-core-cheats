@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Nitro",
+      "name": "Infi Nitro - 无限氮气",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Drain Enemies Nitro",
+      "name": "Drain Enemies Nitro - 吸取敌人氮气",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money - 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -54,6 +54,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

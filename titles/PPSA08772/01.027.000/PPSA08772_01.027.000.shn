@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wo Long Fallen Dynasty" Moder="Yharnam" Cusa="PPSA08772" Version="01.027.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP">
+        <Cheatline>
+            <Offset>2CA710E</Offset>
+            <Section>0</Section>
+            <ValueOn>49-81-F9-00-03-00-00-74-0B-49-81-F9-40-02-00-00-74-02-EB-19-C7-43-24-00-00-80-3F-44-8B-5B-18-C7-43-14-3F-42-0F-00-49-C7-C3-00-00-00-00-C5-FC-10-43-10-E9-23-4C-8C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Cure Potion">
+        <Cheatline>
+            <Offset>1338E48</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FE-C9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items & Throwables">
+        <Cheatline>
+            <Offset>F4ED16</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>29-77-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Infinite Divine Beast Gauge (Hit Enemy)">
+        <Cheatline>
+            <Offset>2CA7087</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-50-00-00-7A-44-E9-6F-70-8C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Tiger Beast Gauge">
+        <Cheatline>
+            <Offset>2CA7096</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-41-70-98-3A-00-00-8B-49-70-39-4B-38-E9-BA-70-75-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Wizardry Spell">
+        <Cheatline>
+            <Offset>4812C8</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>89-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Wizardry Spell Points">
+        <Cheatline>
+            <Offset>2CA70AA</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-81-E8-02-00-00-63-00-00-00-E9-5F-C8-68-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Moral">
+        <Cheatline>
+            <Offset>536764</Offset>
+            <Section>0</Section>
+            <ValueOn>4E</ValueOn>
+            <ValueOff>4F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Buffs">
+        <Cheatline>
+            <Offset>2CA70BE</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-88-00-00-00-00-00-FA-44-E9-1B-F1-81-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Accolades On Buy">
+        <Cheatline>
+            <Offset>2CA70D2</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-CF-C7-40-14-7F-96-98-00-E9-3A-4A-69-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Money">
+        <Cheatline>
+            <Offset>133BA9F</Offset>
+            <Section>0</Section>
+            <ValueOn>43</ValueOn>
+            <ValueOff>42</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Genuine Qi (Gain/Use)">
+        <Cheatline>
+            <Offset>2CA70E6</Offset>
+            <Section>0</Section>
+            <ValueOn>43-C7-84-2E-08-04-00-00-7F-96-98-00-E9-28-95-7B-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

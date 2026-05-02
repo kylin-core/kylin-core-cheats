@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "Infi Health-无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Untouchable",
+      "name": "Untouchable-无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill-一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Stealth Kill (Touch)",
+      "name": "Stealth Kill (Touch)-潜行击杀（触碰）",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infi Stamina",
+      "name": "Infi Stamina-无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "name": "Infi Energy (Fatigue)",
+      "name": "Infi Energy (Fatigue)-无限精力（疲劳值）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infi Durability (Weapons, Armor, Some Items)",
+      "name": "Infi Durability (Weapons, Armor, Some Items)-无限耐久（武器、护甲、部分物品）",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "No Hunger",
+      "name": "No Hunger-无饥饿感",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "No Fall Damage",
+      "name": "No Fall Damage-无坠落伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Zero Weight (When Changed)",
+      "name": "Zero Weight (When Changed)-负重清零（变更时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Infi Money (Sell)",
+      "name": "Infi Money (Sell)-无限金钱（出售时）",
       "type": "checkbox",
       "memory": [
         {

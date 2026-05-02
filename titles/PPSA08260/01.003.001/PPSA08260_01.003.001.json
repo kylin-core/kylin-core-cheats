@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health & Speeder & Spaceship",
+      "name": "Infi Health & Speeder & Spaceship - 无限生命&摩托&飞船",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill - 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Reduction (Ammo, Items, Adrenaline)",
+      "name": "No Reduction (Ammo, Items, Adrenaline) - 不消耗（弹药、物品、肾上腺素）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Weapon Overheating (No Reload)",
+      "name": "No Weapon Overheating (No Reload) - 武器不过热（无需换弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,6 +60,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "name": "Maneater",
+  "id": "PPSA01861",
+  "version": "01.000.010",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "510381A",
+          "on": "807F1800743D837FC0007437807FBC00743141544C8B67C04D3B64245075224183BC248C010000007517415CC5FA104714C5FA114708C5FA11470C90E91EDDCDFB415CC5FA11470CE912DDCDFB90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DE1574",
+          "on": "E9A1223204",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "510386A",
+          "on": "C4C17A108528080000E92714D3FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "E34C9A",
+          "on": "E9CBEB2C04",
+          "off": "C5FA5D4584"
+        }
+      ]
+    },
+    {
+      "name": "Max Fats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "510387A",
+          "on": "B83F420F00898384030000E9EF06DFFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EF3F73",
+          "on": "E902F9200490",
+          "off": "898384030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Protein",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "510388C",
+          "on": "B83F420F00898380030000E91406DFFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EF3EAA",
+          "on": "E9DDF9200490",
+          "off": "898380030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Mineral",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "510389E",
+          "on": "B83F420F00898388030000E9A207DFFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EF404A",
+          "on": "E94FF8200490",
+          "off": "898388030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Mutagens",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51038B0",
+          "on": "B83F420F0089838C030000E96708DFFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EF4121",
+          "on": "E98AF7200490",
+          "off": "89838C030000"
+        }
+      ]
+    },
+    {
+      "name": "2X Experience Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51038C2",
+          "on": "6BC002898390030000E9F605DFFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "EF3EC0",
+          "on": "E9FDF9200490",
+          "off": "898390030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "The Witcher 3 - Wild Hunt",
+  "id": "PPSA03977",
+  "version": "04.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode + OHK + Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258F800",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "245ADDB",
+          "on": "E9204A1300",
+          "off": "C5FA110488"
+        },
+        {
+          "offset": "258F804",
+          "on": "837808000F84D2B5ECFFC5F857C0C5FA110488E9C4B5ECFF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "258F800",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    },
+    {
+      "name": "God Mode + Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258F800",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "245ADDB",
+          "on": "E9204A1300",
+          "off": "C5FA110488"
+        },
+        {
+          "offset": "258F804",
+          "on": "837808007505E9D1B5ECFFC5FA110488E9C7B5ECFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "258F800",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258F800",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "245ADDB",
+          "on": "E9204A1300",
+          "off": "C5FA110488"
+        },
+        {
+          "offset": "258F804",
+          "on": "83780800740EC5F857C0C5FA110488E9C8B5ECFFC5FA110488E9BEB5ECFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "258F800",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258F81E",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "1E95F8E",
+          "on": "E98B986F009090",
+          "off": "8916BE03000000"
+        },
+        {
+          "offset": "258F822",
+          "on": "BA00E1F5058916BE03000000E9626790FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "258F81E",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    },
+    {
+      "name": "x99 Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258F835",
+          "on": "EBFE",
+          "off": "0000"
+        },
+        {
+          "offset": "1E959B3",
+          "on": "E97D9E6F009090",
+          "off": "8906BE03000000"
+        },
+        {
+          "offset": "258F839",
+          "on": "B8630000008906BE03000000E9706190FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "258F835",
+          "on": "EB0290",
+          "off": "EBFE00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Super Death"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PSA25872_00-T2DNFMAINGAMEPS5",
+  "id": "PPSA25872",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "生命不减",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF6B8AE",
+          "on": "909090909090",
+          "off": "FF8B94000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "pj123rock"
+  ]
+}

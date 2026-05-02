@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA21297",
+  "version": "01.000.000",
+  "name": "PPSA21297_00-0371328810141270",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA21297"
+  ],
+  "updatedAt": "2026-05-02T10:17:47Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/json/PPSA21297_01.000.000.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA21297_01.000.000.json",
+      "size": 1091,
+      "sha256": "91a4eac30b31ab2937fb7a20b65485853b5a3805c7dff3810d9e460995589d00",
+      "cheatCount": 2,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA21297_01.000.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA21297_01.000.000.shn",
+      "size": 1140,
+      "sha256": "94e91f1e81b5e8a2e40b7a10181f40644fcfb7c5158cfb03c73146bb3cb1306a",
+      "cheatCount": 2,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA21297_01.000.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA21297_01.000.000.mc4",
+      "size": 1536,
+      "sha256": "5b65df501b20572e6d5bb1b9ef40f8eb16ce80142d71a479e7bb6923e7b57fa3",
+      "cheatCount": 2,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA21297_01.000.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

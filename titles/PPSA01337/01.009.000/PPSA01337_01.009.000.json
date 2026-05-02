@@ -1,0 +1,81 @@
+{
+  "name": "Ghostwire Tokyo",
+  "id": "PPSA01337",
+  "version": "01.009.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6998970",
+          "on": "4981FBFF0100007406FF9050040000E931EF0EFB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A878AF",
+          "on": "E9BC10F10490",
+          "off": "FF9050040000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6998990",
+          "on": "4981FBFF0100007407C745CC50A9AB4CC5FA1045CCE9F2EE0EFB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A87897",
+          "on": "E9F410F104",
+          "off": "C5FA1045CC"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A04525",
+          "on": "909090",
+          "off": "4429F3"
+        },
+        {
+          "offset": "2A06FE6",
+          "on": "9090",
+          "off": "FFCA"
+        }
+      ]
+    },
+    {
+      "name": "No decrease (Items, Money, SP, Magatama)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987598",
+          "on": "909090909090",
+          "off": "4489228945B4"
+        }
+      ]
+    },
+    {
+      "name": "Max LV (By Payphone)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DC4321",
+          "on": "B93F420F00F30F2AC190909090",
+          "off": "C4C1722AC6C5FA598388040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

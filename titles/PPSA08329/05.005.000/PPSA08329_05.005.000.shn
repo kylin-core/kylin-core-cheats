@@ -29,14 +29,6 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Rage">
-        <Cheatline>
-            <Offset>14B6D9F</Offset>
-            <Section>0</Section>
-            <ValueOn>66-81-FB-C8-DB-74-09-66-81-FB-30-F3-74-02-EB-0A-41-C7-47-28-00-00-3E-43-EB-06-C4-C1-7A-11-5F-28-E9-A7-AF-5D-FF</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-        </Cheatline>
-    </Cheat>
     <Cheat Text="Instant Cooldown (Talisman, Relic)">
         <Cheatline>
             <Offset>14B6D14</Offset>

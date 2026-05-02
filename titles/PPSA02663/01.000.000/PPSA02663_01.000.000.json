@@ -1,0 +1,38 @@
+{
+  "name": "阿历克斯小子奇幻世界大冒险 DX",
+  "id": "PPSA02663",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "无敌模式",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FE468AA",
+          "on": "41807E4001",
+          "off": "41807E4000"
+        }
+      ]
+    },
+    {
+      "name": "生命值最大值（获得时生效）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FCCB000",
+          "on": "48BB6300000001000000488918498B3FE92CBA1700",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FE46A3B",
+          "on": "E9C045E8FF90",
+          "off": "488918498B3F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Baobao8888"
+  ]
+}

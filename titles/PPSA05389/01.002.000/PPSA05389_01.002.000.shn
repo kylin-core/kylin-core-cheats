@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UNCHARTED: Legacy of Thieves Collection" Moder="Baobao8888" Cusa="PPSA05389" Version="01.002.000" Process="tllr-boot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="开启 Debug 开发者菜单 按键 (L3 + 触摸板)">
+        <Cheatline>
+            <Offset>7EC003E8</Offset>
+            <Section>0</Section>
+            <ValueOn>52-48-BA-49-4A-5D-0C-11-00-00-00-48-8B-12-80-E2-40-88-90-45-33-00-00-80-B8-45-33-00-00-00-5A-E9-A9-00-9B-81</ValueOn>
+            <ValueOff>52-48-BA-49-4A-5D-0C-11-00-00-00-48-8B-12-80-E2-40-88-90-45-33-00-00-80-B8-45-33-00-00-00-5A-E9-A9-00-9B-81</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

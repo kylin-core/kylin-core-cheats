@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "Infi Health - 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Buy Items For Free",
+      "name": "Buy Items For Free - 免费购买物品",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Spells (No Cooldown)",
+      "name": "Infinite Spells (No Cooldown) - 无限咒语（无冷却）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infi Ancient Magic",
+      "name": "Infi Ancient Magic - 无限古代魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infi Items Usage",
+      "name": "Infi Items Usage - 无限物品使用次数",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Exp x 5",
+      "name": "Exp x 5 - 经验×5",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Broom Boost",
+      "name": "Infinite Broom Boost - 无限扫帚加速",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Combo",
+      "name": "Max Combo - 最大连击数",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Instant Grow Plants",
+      "name": "Instant Grow Plants - 植物瞬间生长",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Instant Brew Potions",
+      "name": "Instant Brew Potions - 药剂瞬间酿造",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Stop Quidditch Trial Timer",
+      "name": "Stop Quidditch Trial Timer - 停止魁地奇试炼计时",
       "type": "checkbox",
       "memory": [
         {
@@ -142,6 +142,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

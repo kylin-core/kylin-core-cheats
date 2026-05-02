@@ -3,9 +3,9 @@
 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hitman World of Assassination" Moder="Yharnam" Cusa="PPSA16388" Version="01.017.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hitman World of Assassination" Moder="Yharnam & baobao8888汉化" Cusa="PPSA16388" Version="01.017.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health">
+    <Cheat Text="Infi Health-无限生命值">
         <Cheatline>
             <Offset>61C830</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-5C-45-E4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Ammo">
+    <Cheat Text="Infi Ammo-无限弹药">
         <Cheatline>
             <Offset>65BECE</Offset>
             <Section>0</Section>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA01628",
+  "version": "01.026.000",
+  "name": "Call of Duty®: Black Ops Cold War",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA01628"
+  ],
+  "updatedAt": "2026-05-02T10:17:46Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/json/PPSA01628_1.026.000.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA01628_01.026.000.json",
+      "size": 820,
+      "sha256": "c537ade62bec0f09ffe1698faa60ce58a7fb8719057116eee5b719389bc91266",
+      "cheatCount": 3,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA01628_1.026.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA01628_01.026.000.shn",
+      "size": 1109,
+      "sha256": "32e8135b09abcef24cfcaef96062c35fcfd3ade8ca67513f91bbd455d67dabca",
+      "cheatCount": 3,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA01628_1.026.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA01628_01.026.000.mc4",
+      "size": 1496,
+      "sha256": "6b6f7100b5b1b94b5e7fb7142a4ac25b2071d89d7f2097196b33f5ee2ec228df",
+      "cheatCount": 3,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA01628_1.026.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

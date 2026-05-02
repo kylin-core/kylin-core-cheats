@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "God Mode-无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -26,23 +26,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "61F2B00",
-          "on": "C745B48096984AC5FA1045B4E9848AFEFD",
-          "off": "0000000000000000000000000000000000"
-        },
-        {
-          "offset": "41DB590",
-          "on": "E96B750102",
-          "off": "C5FA1045B4"
-        }
-      ]
-    },
-    {
-      "name": "Infi Stamina (Attack and Dodge)",
+      "name": "Infinite Stamina-无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -53,18 +37,34 @@
       ]
     },
     {
-      "name": "Infi Items (99 When Used)",
+      "name": "Infinite Consumables-无限消耗品",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "4311370",
-          "on": "BA630000004189D0",
-          "off": "8B54C804448D42FF"
+          "offset": "61F3800",
+          "on": "4863CAC744C804640000008B54C804E960DB11FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "431136D",
+          "on": "E98E24EE019090",
+          "off": "4863CA8B54C804"
         }
       ]
     },
     {
-      "name": "Instant Focus",
+      "name": "Infinite Weapons Durability-无限武器耐久",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43AC1C7",
+          "on": "9090909090",
+          "off": "E82468F4FF"
+        }
+      ]
+    },
+    {
+      "name": "Max Focus-最大专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infi Sanity",
+      "name": "Infinite Sanity-无限理智值",
       "type": "checkbox",
       "memory": [
         {
@@ -91,29 +91,7 @@
       ]
     },
     {
-      "name": "Infi Weapon Durability",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "43AC1C7",
-          "on": "B87F969800",
-          "off": "E82468F4FF"
-        }
-      ]
-    },
-    {
-      "name": "Instant Awakening Gauge",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "41F2223",
-          "on": "9090909090",
-          "off": "C5FA1045D4"
-        }
-      ]
-    },
-    {
-      "name": "Max Faith (Money)",
+      "name": "Max/Infinite Faith-最大/无限信仰值",
       "type": "checkbox",
       "memory": [
         {
@@ -122,9 +100,36 @@
           "off": "C4E270F2C0"
         }
       ]
+    },
+    {
+      "name": "1 Hit Kill - 一击必杀",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61F2B00",
+          "on": "C745B48096984AC5FA1045B4E9848AFEFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "41DB590",
+          "on": "E96B750102",
+          "off": "C5FA1045B4"
+        }
+      ]
+    },
+    {
+      "name": "Instant Awakening Gauge - 觉醒能量即刻拉满",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41F2223",
+          "on": "9090909090",
+          "off": "C5FA1045D4"
+        }
+      ]
     }
   ],
   "credits": [
-    "Yharnam"
+    "Celogamez & baobao8888汉化"
   ]
 }

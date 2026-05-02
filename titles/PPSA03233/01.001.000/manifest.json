@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA03233",
+  "version": "01.001.000",
+  "name": "Stranger Of Paradise - Final Fantasy",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA03233"
+  ],
+  "updatedAt": "2026-05-02T10:17:46Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/shn/PPSA03233_01.001.000.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA03233_01.001.000.json",
+      "size": 20400,
+      "sha256": "74004a5c0bb4ebc324a284dd39bc9903016c927d5abc1a1e752a68c3f88feaef",
+      "cheatCount": 43,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA03233_01.001.000.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA03233_01.001.000.shn",
+      "size": 12374,
+      "sha256": "71b278899991d093c98d5e02feb1382fac3e3c4872591aa41c448fc03e2adbc5",
+      "cheatCount": 43,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA03233_01.001.000.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA03233_01.001.000.mc4",
+      "size": 16512,
+      "sha256": "6b5654ef7571d0c88868d50f49b060eb11ae74938d6f6b06ead7a5c2f6ee6a6e",
+      "cheatCount": 43,
+      "source": "Local loose cheat import. Source file: raw/cheats/shn/PPSA03233_01.001.000.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:46Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

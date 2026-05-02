@@ -1,0 +1,223 @@
+{
+  "name": "Shin Megami Tensei V Vengeance",
+  "id": "PPSA15716",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infi Battle Turn",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F48E9",
+          "on": "4C89BBE4040000",
+          "off": "488983E4040000"
+        }
+      ]
+    },
+    {
+      "name": "Infi HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5707770",
+          "on": "498D8415940000004883FB037F058B4804EB04428D0C36E9FA6720FB",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "90DF7A",
+          "on": "E9F197DF0490909090909090",
+          "off": "498D841594000000428D0C36"
+        },
+        {
+          "offset": "BB04EC",
+          "on": "909090909090",
+          "off": "899720020000"
+        }
+      ]
+    },
+    {
+      "name": "Infi MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "570778E",
+          "on": "4B8D84259C0000004883FB037704448B7004448930E9766820FB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "90E013",
+          "on": "E97697DF04909090909090",
+          "off": "4B8D84259C000000448930"
+        },
+        {
+          "offset": "BB05E6",
+          "on": "909090909090",
+          "off": "899734020000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Magatsuhi Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "94A321",
+          "on": "0F4FC3",
+          "off": "0F4CC3"
+        }
+      ]
+    },
+    {
+      "name": "Run Speed x3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5707824",
+          "on": "4180BF1C0200000077204180BF0402000001721641C7875401000000002F45C4C17A108754010000EB1441C7875401000000002F44C4C17A108754010000E92F4127FB",
+          "off": "4180BF1C0200000077204180BF0402000001721641C7875401000000002F45C4C17A108754010000EB1441C7875401000000002F44C4C17A108754010000E92F4127FB"
+        },
+        {
+          "offset": "97B98D",
+          "on": "E992BED80490909090",
+          "off": "C4C17A108754010000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Daytime",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BF43B6",
+          "on": "9090909090909090",
+          "off": "C5FA5805FA2AC505"
+        }
+      ]
+    },
+    {
+      "name": "Exp x100 Player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57077AC",
+          "on": "456BF6644401740860E9C93730FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "A0AF7E",
+          "on": "E929C8CF04",
+          "off": "4401740860"
+        }
+      ]
+    },
+    {
+      "name": "Exp x100 Demon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57077CA",
+          "on": "456BFF644503BD8C000000E9CE7530FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "A0EDA1",
+          "on": "E9248ACF049090",
+          "off": "4503BD8C000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57077E8",
+          "on": "C74360FFE0F5058B4360498B0EE956D42FFB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A04C4A",
+          "on": "E9992BD00490",
+          "off": "8B4360498B0E"
+        }
+      ]
+    },
+    {
+      "name": "Max Glory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5707806",
+          "on": "C783840000009F8601008B8384000000E9CCEA32FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A362E1",
+          "on": "E92015CD0490",
+          "off": "8B8384000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Player Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9FC483",
+          "on": "41897740",
+          "off": "41894740"
+        },
+        {
+          "offset": "9FC568",
+          "on": "41897744",
+          "off": "41894744"
+        },
+        {
+          "offset": "9FC495",
+          "on": "41897748",
+          "off": "41894748"
+        },
+        {
+          "offset": "9FC541",
+          "on": "4189774C",
+          "off": "4189474C"
+        }
+      ]
+    },
+    {
+      "name": "Max Demon Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9FF8CF",
+          "on": "4189742440",
+          "off": "4189442440"
+        },
+        {
+          "offset": "9FF91F",
+          "on": "4189742444",
+          "off": "4189442444"
+        },
+        {
+          "offset": "9FF8E3",
+          "on": "4189742448",
+          "off": "4189442448"
+        },
+        {
+          "offset": "9FF8F7",
+          "on": "418974244C",
+          "off": "418944244C"
+        },
+        {
+          "offset": "9FF90B",
+          "on": "4189742450",
+          "off": "4189442450"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

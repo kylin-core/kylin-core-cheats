@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="PPSA09453_00-STRASHSEJPS50001" Moder="Talixme" Cusa="PPSA09453" Version="01.000.002" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Consumables - 无限消耗品">
+        <Cheatline>
+            <Offset>1428ED4</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>89-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf HP + 1 Hit Kill - 无限生命值 + 一击必杀">
+        <Cheatline>
+            <Offset>7FCC7000</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-00-D3-4F-08-75-1A-C7-87-B4-00-00-00-E7-03-00-00-E9-9F-AD-49-81-89-97-B4-00-00-00-E9-94-AD-49-81-C7-87-B4-00-00-00-00-00-00-00-E9-85-AD-49-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf HP - 无限生命值">
+        <Cheatline>
+            <Offset>7FCC7051</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-00-D3-4F-08-75-0F-C7-87-B4-00-00-00-E7-03-00-00-E9-4E-AD-49-81-89-97-B4-00-00-00-E9-43-AD-49-81-C7-87-B4-00-00-00-00-00-00-00-E9-34-AD-49-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf money And Cristals - 无限金钱与水晶">
+        <Cheatline>
+            <Offset>7FCC70A2</Offset>
+            <Section>0</Section>
+            <ValueOn>39-D1-0F-4C-D1-BA-3F-42-0F-00-89-50-08-E9-AD-C1-5A-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -3,38 +3,102 @@
 
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cyberpunk 2077" Moder="Yharnam" Cusa="PPSA03974" Version="02.120.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cyberpunk 2077 Ultimate Edition" Moder="Celogamez & baobao8888汉化" Cusa="PPSA03974" Version="02.120.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health & Stamina">
+    <Cheat Text="无限生命/耐力/医疗包/手榴弹（主代码/必须开启）">
         <Cheatline>
-            <Offset>6E12320</Offset>
+            <Offset>6E13DB0</Offset>
             <Section>0</Section>
-            <ValueOn>83-BF-D4-00-00-00-10-75-14-4D-39-C8-75-0B-51-66-0F-7E-C1-83-F9-00-59-74-04-F3-0F-10-C2-C5-FA-11-87-A0-01-00-00-E9-02-0E-39-FD</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>83-BF-88-00-00-00-02-EB-11-F3-0F-10-C2-C5-FA-11-87-A0-01-00-00-E9-82-F3-38-FD-83-BF-88-00-00-00-01-EB-EA-F3-0F-10-C2-C5-FA-11-87-A0-01-00-00-E9-68-F3-38-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Ammo (No Reload)">
+    <Cheat Text="无限生命">
         <Cheatline>
-            <Offset>45A757B</Offset>
+            <Offset>6E13DB7</Offset>
             <Section>0</Section>
-            <ValueOn>31-C0-90</ValueOn>
-            <ValueOff>0F-46-C1</ValueOff>
+            <ValueOn>75-11</ValueOn>
+            <ValueOff>EB-11</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Points (On Use)">
+    <Cheat Text="无限耐力/医疗包/手榴弹">
         <Cheatline>
-            <Offset>6E12290</Offset>
+            <Offset>6E13DD1</Offset>
             <Section>0</Section>
-            <ValueOn>49-81-F8-40-AE-C8-08-75-05-B8-E7-03-00-00-41-89-04-24-4D-85-F6-E9-3A-06-FC-F9</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>75-EA</ValueOn>
+            <ValueOff>EB-EA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="无需换弹">
         <Cheatline>
-            <Offset>6E122C2</Offset>
+            <Offset>45A7599</Offset>
             <Section>0</Section>
-            <ValueOn>49-83-FB-00-75-18-49-89-EB-49-81-E3-FF-0F-00-00-49-81-FB-F0-07-00-00-75-05-B9-7F-96-98-00-41-89-4E-78-4D-31-DB-5B-E9-B4-41-ED-FC</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-8F-F8-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药/金钱/物品/制作材料（主代码/必须开启）">
+        <Cheatline>
+            <Offset>6E13B70</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4E-C8-41-83-7E-44-10-EB-0D-66-B9-E7-03-41-89-4E-78-E9-19-29-ED-FC-41-83-7E-44-0B-EB-0D-41-C7-46-78-7F-96-98-00-E9-05-29-ED-FC-41-83-BE-68-01-00-00-00-EB-0D-41-C7-46-78-E7-03-00-00-E9-EE-28-ED-FC-41-83-BE-AC-01-00-00-10-EB-C2-41-C7-46-78-E7-03-00-00-E9-D7-28-ED-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限弹药">
+        <Cheatline>
+            <Offset>6E13B78</Offset>
+            <Section>0</Section>
+            <ValueOn>75-0D</ValueOn>
+            <ValueOff>EB-0D</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="最大/无限金钱">
+        <Cheatline>
+            <Offset>6E13B8C</Offset>
+            <Section>0</Section>
+            <ValueOn>75-0D</ValueOn>
+            <ValueOff>EB-0D</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限物品">
+        <Cheatline>
+            <Offset>6E13BA3</Offset>
+            <Section>0</Section>
+            <ValueOn>75-0D</ValueOn>
+            <ValueOff>EB-0D</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限制作材料">
+        <Cheatline>
+            <Offset>6E13BBA</Offset>
+            <Section>0</Section>
+            <ValueOn>75-C2</ValueOn>
+            <ValueOff>EB-C2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="零负重">
+        <Cheatline>
+            <Offset>6E13920</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-0C-24-E9-9C-27-FB-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="使用后获得最大属性/专长点数">
+        <Cheatline>
+            <Offset>6E13910</Offset>
+            <Section>0</Section>
+            <ValueOn>2B-45-C8-41-83-7C-24-04-01-75-0E-B8-E7-03-00-00-41-89-04-24-E9-B8-EF-FB-F9-41-83-7C-24-04-03-75-EF-B8-E7-03-00-00-41-89-04-24-E9-A2-EF-FB-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限跳跃（往日之影DLC）">
+        <Cheatline>
+            <Offset>353F810</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>89-77-10</ValueOff>
         </Cheatline>
     </Cheat>
 </Trainer>

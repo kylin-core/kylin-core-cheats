@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Stranger Of Paradise - Final Fantasy" Moder="Reddevil82 & baobao8888汉化" Cusa="PPSA03233" Version="01.001.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="作弊器提示信息（只读）">
+        <Cheatline>
+            <Offset>26C6FFF</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限生命值">
+        <Cheatline>
+            <Offset>26C7000</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-41-18-83-B9-7C-02-00-00-02-75-04-48-89-41-20-48-8B-49-20-E9-14-F5-AE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="玩家无限耐力">
+        <Cheatline>
+            <Offset>26C703A</Offset>
+            <Section>0</Section>
+            <ValueOn>83-BF-7C-02-00-00-02-75-06-C5-FA-11-44-87-60-C5-FA-10-4C-87-60-E9-CE-BB-A4-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限魔力+魔力上限拉满">
+        <Cheatline>
+            <Offset>26C7074</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-20-12-00-00-00-00-16-44-C7-83-2C-12-00-00-00-00-16-44-C5-FA-10-8B-20-12-00-00-E9-8B-B5-B7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="无限破防槽">
+        <Cheatline>
+            <Offset>25ED6F</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-4F-34</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-34</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="敌人无耐力">
+        <Cheatline>
+            <Offset>26C70B5</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-BC-24-7C-02-00-00-00-75-03-0F-57-D2-C4-C1-7A-11-54-24-60-E9-0E-DF-B7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="伤害倍率主码【启用倍率作弊必开】">
+        <Cheatline>
+            <Offset>305FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>0A-00-00-00</ValueOn>
+            <ValueOff>0A-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="伤害倍率1倍【依赖主码】">
+        <Cheatline>
+            <Offset>305FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00-00-00</ValueOn>
+            <ValueOff>01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="伤害倍率5倍【依赖主码】">
+        <Cheatline>
+            <Offset>305FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>05-00-00-00</ValueOn>
+            <ValueOff>01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="伤害倍率10倍【依赖主码】">
+        <Cheatline>
+            <Offset>305FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>0A-00-00-00</ValueOn>
+            <ValueOff>01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="伤害倍率15倍【依赖主码】">
+        <Cheatline>
+            <Offset>305FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-00-00-00</ValueOn>
+            <ValueOff>01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="一击必杀【依赖主码】">
+        <Cheatline>
+            <Offset>305FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-27-00-00</ValueOn>
+            <ValueOff>01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="技能点拉满【若有可用】">
+        <Cheatline>
+            <Offset>305FF04</Offset>
+            <Section>0</Section>
+            <ValueOn>63-00</ValueOn>
+            <ValueOff>63-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="药剂数量拉满">
+        <Cheatline>
+            <Offset>305FF06</Offset>
+            <Section>0</Section>
+            <ValueOn>63-00</ValueOn>
+            <ValueOff>63-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="职业点数拉满【职业菜单内生效】">
+        <Cheatline>
+            <Offset>305FF08</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03</ValueOn>
+            <ValueOff>E7-03</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="精魂值拉满【需至少拥有1个精魂激活】">
+        <Cheatline>
+            <Offset>305FF0C</Offset>
+            <Section>0</Section>
+            <ValueOn>30-75-00-00</ValueOn>
+            <ValueOff>30-75-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="决斗者EP点数拉满">
+        <Cheatline>
+            <Offset>305FF10</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00</ValueOn>
+            <ValueOff>12-EC-01-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="剑士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF18</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00-00-00-00-00</ValueOn>
+            <ValueOff>12-EC-01-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="牧师EP点数拉满">
+        <Cheatline>
+            <Offset>305FF20</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00-00-00-00-00</ValueOn>
+            <ValueOff>12-EC-01-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="枪兵EP点数拉满">
+        <Cheatline>
+            <Offset>305FF28</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00-00-00-00-00</ValueOn>
+            <ValueOff>12-EC-01-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="魔法师EP点数拉满">
+        <Cheatline>
+            <Offset>305FF30</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00-00-00-00-00</ValueOn>
+            <ValueOff>12-EC-01-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="角斗士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF38</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00-00-00-00-00</ValueOn>
+            <ValueOff>12-EC-01-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="浪人EP点数拉满">
+        <Cheatline>
+            <Offset>305FF40</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00-00-00-00-00</ValueOn>
+            <ValueOff>12-EC-01-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="掠夺者EP点数拉满">
+        <Cheatline>
+            <Offset>305FF48</Offset>
+            <Section>0</Section>
+            <ValueOn>12-EC-01-00</ValueOn>
+            <ValueOff>12-EC-01-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="白魔法师EP点数拉满">
+        <Cheatline>
+            <Offset>305FF4C</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="盗贼EP点数拉满">
+        <Cheatline>
+            <Offset>305FF50</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="战士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF54</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="骑士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF58</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="狂战士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF5C</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="武僧EP点数拉满">
+        <Cheatline>
+            <Offset>305FF60</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="黑魔法师EP点数拉满">
+        <Cheatline>
+            <Offset>305FF68</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00-00-00-00-00</ValueOn>
+            <ValueOff>BA-75-03-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="龙骑士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF70</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00-00-00-00-00</ValueOn>
+            <ValueOff>BA-75-03-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="赤魔法师EP点数拉满">
+        <Cheatline>
+            <Offset>305FF78</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00</ValueOn>
+            <ValueOff>BA-75-03-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="武士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF80</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-75-03-00-00-00-00-00</ValueOn>
+            <ValueOff>BA-75-03-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="暗黑骑士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF88</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="圣骑士EP点数拉满">
+        <Cheatline>
+            <Offset>305FF90</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="忍者EP点数拉满">
+        <Cheatline>
+            <Offset>305FF98</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="刺客EP点数拉满">
+        <Cheatline>
+            <Offset>305FFA0</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="救赎者EP点数拉满">
+        <Cheatline>
+            <Offset>305FFA8</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="破坏者EP点数拉满">
+        <Cheatline>
+            <Offset>305FFB0</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="空骑士EP点数拉满">
+        <Cheatline>
+            <Offset>305FFB8</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="暴君EP点数拉满">
+        <Cheatline>
+            <Offset>305FFC0</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="贤者EP点数拉满">
+        <Cheatline>
+            <Offset>305FFC8</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-6B-04-00-00-00-00-00</ValueOn>
+            <ValueOff>BF-6B-04-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

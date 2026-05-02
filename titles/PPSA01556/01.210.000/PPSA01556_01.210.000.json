@@ -1,0 +1,307 @@
+{
+  "name": "Resident Evil Village",
+  "id": "PPSA01556",
+  "version": "01.210.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4B900",
+          "on": "4C8B42504D85C0745E66458B4010664181F8F1B0743A664181F89E487432664181F892C1742A664181F83A3D7422664181F80C06741A664181F87A407412664181F82362740A664181F8E7517402EB1766817810DBF9740F668178104545740749C7C0010000004883781800E939EA7FFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "534A3A5",
+          "on": "E956158004",
+          "off": "4883781800"
+        },
+        {
+          "offset": "534A3AC",
+          "on": "4983F801",
+          "off": "80781400"
+        }
+      ]
+    },
+    {
+      "name": "Infi Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4B830",
+          "on": "83782402750F50488B40208B003D50EF5A0C58740BC5F82EC1C5FA114814EB0EC5F82EC1C5FA104810C5FA114814E9DE2501FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4B5DE3C",
+          "on": "E9EFD9FE04",
+          "off": "C5FA114814"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4B9A0",
+          "on": "837824027514504883C020488B008B003D50EF5A0C587502EB2581781000C07944741C8178100000A040741381781000004040740A0F57C0C5FA114014EB05C5FA104010E94F2401FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4B5DE33",
+          "on": "E968DBFE04",
+          "off": "C5FA104010"
+        }
+      ]
+    },
+    {
+      "name": "Max Gun Rate of Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4B88E",
+          "on": "C7834C020000CDCCCC3DC5FA10834C020000E9B42969FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "61DE251",
+          "on": "E938D69603909090",
+          "off": "C5FA10834C020000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo (No Reload)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61DBE2C",
+          "on": "B900000000",
+          "off": "B901000000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "346301D",
+          "on": "31C090",
+          "off": "8B45D0"
+        }
+      ]
+    },
+    {
+      "name": "No Item Reduction",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4B8AC",
+          "on": "4154664589F4664181E4FF0F664181FC200C740A664181FC700C7402EB034429EA89504C415CE9318191F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3463A02",
+          "on": "E9A57E6E0690",
+          "off": "4429EA89504C"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "346931D",
+          "on": "B93F420F0090",
+          "off": "418B4D4801D9"
+        }
+      ]
+    },
+    {
+      "name": "Infi White Sage (Rose)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4BAC0",
+          "on": "B9F4010000894A10894A148948283B4828E95547E8F6",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9D0225",
+          "on": "E996B8170990",
+          "off": "8B4A143B4828"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FFC3D0",
+          "on": "C3",
+          "off": "55"
+        }
+      ]
+    },
+    {
+      "name": "Instantly Ready (Ethan's Tank Cannon & Chris's Target Locator)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4BA20",
+          "on": "817E180000C0407426817E180000F041741D817E18000040407414817E180000A040740B817E18000070417402EB0CC7461400000000C5FA104614C5FA114614E9236EC3F9",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3782883",
+          "on": "E998913C06",
+          "off": "C5FA114614"
+        },
+        {
+          "offset": "3CD55C1",
+          "on": "909090",
+          "off": "FF494C"
+        }
+      ]
+    },
+    {
+      "name": "Chris's Fist Bar Instant Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4BAF0",
+          "on": "C5FA104354C5FA114350E9C69099FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "44E4BC0",
+          "on": "E92B6F6605",
+          "off": "C5FA104350"
+        }
+      ]
+    },
+    {
+      "name": "Max Score (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4B980",
+          "on": "C74618FFE0F505488B4750E9537628F8",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1DD2FDC",
+          "on": "E99F89D7079090",
+          "off": "015618488B4750"
+        }
+      ]
+    },
+    {
+      "name": "Alcina's Rage is immediately Full (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4269D9F",
+          "on": "C4C17A104C2454",
+          "off": "C4C17A104C2450"
+        }
+      ]
+    },
+    {
+      "name": "Alcina's Rage is Not Reduced (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4269F80",
+          "on": "41C744245000409C459090",
+          "off": "C5F35AC9C4C17A114C2450"
+        }
+      ]
+    },
+    {
+      "name": "Alcina's Infi Insect Swarm (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4E1EC66",
+          "on": "909090909090909090",
+          "off": "42C744A82000000000"
+        }
+      ]
+    },
+    {
+      "name": "Alcina's Infi Ornate Vanity (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4E1EF08",
+          "on": "9090909090909090909090",
+          "off": "41C7864002000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Alcina's Daughter Instant Reload (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4E1A2F8",
+          "on": "C5FA588060020000",
+          "off": "C5FA588054020000"
+        }
+      ]
+    },
+    {
+      "name": "Karl's Sawblade Instant Reload (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4BA80",
+          "on": "C786880100000000003CC5FA108688010000E9198143FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5F83BA8",
+          "on": "E9D37EBC03909090",
+          "off": "C5FA108688010000"
+        }
+      ]
+    },
+    {
+      "name": "Karl's Scrap Instant Reload (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B4BAA0",
+          "on": "C7868C0100000000003DC5FA10868C010000E93F8043FC",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5F83AEE",
+          "on": "E9AD7FBC03909090",
+          "off": "C5FA10868C010000"
+        }
+      ]
+    },
+    {
+      "name": "Karl's Soldier Jet Instant Reload (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4269D9F",
+          "on": "C4C17A104C2454",
+          "off": "C4C17A104C2450"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

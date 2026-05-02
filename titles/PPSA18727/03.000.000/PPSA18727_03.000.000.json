@@ -1,0 +1,140 @@
+{
+  "name": "Dragons Dogma 2",
+  "id": "PPSA18727",
+  "version": "03.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Pawns (Mastercode/Must Be On) - 无限生命/队友（主代码/必须开启）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8083DB0",
+          "on": "41817F3C003C1C46EB11C4C17A10473CC4C17A114734E908C494FC4981F913130000EBECC4C17A104734C4C17A114734E9EEC394FC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "49D01CD",
+          "on": "E9DE3B6B0390",
+          "off": "C4C17A114734"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health - 无限生命",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8083DB8",
+          "on": "7511",
+          "off": "EB11"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health Pawns - 队友无限生命",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8083DD2",
+          "on": "75EC",
+          "off": "EBEC"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina - 无限耐力",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80839E0",
+          "on": "C5FA104324C5FA114320E9B78D36FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "73EC7A1",
+          "on": "E93A72C900",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items - 无限物品",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6E10D21",
+          "on": "90909090",
+          "off": "6689411A"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Gold On Pick - 拾取时获得最大/无限金币",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8083A60",
+          "on": "C781CC020000FFE0F505E98BDDD8FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "6E117F3",
+          "on": "E9682227019090",
+          "off": "4489A9CC020000"
+        }
+      ]
+    },
+    {
+      "name": "No Weight - 无负重",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80836E0",
+          "on": "488B4DB8C744190C00000000E97D1A81F8",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "895166",
+          "on": "E975E57E07909090",
+          "off": "488B4DB88944190C"
+        }
+      ]
+    },
+    {
+      "name": "Max Xp/Levels - 最大经验/等级",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8083B90",
+          "on": "0F84BB83FEFB4181452800CA9A3BE97E83FEFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "406BF1B",
+          "on": "E9707C010490",
+          "off": "743A41015D28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite DCP Points - 无限DCP点数",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8083580",
+          "on": "4C89E641C7472C3F420F00E9CF7424FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "42CAA58",
+          "on": "E9238BDB039090",
+          "off": "4C89E641294F2C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez & baobao8888汉化"
+  ]
+}

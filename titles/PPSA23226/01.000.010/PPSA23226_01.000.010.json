@@ -1,22 +1,11 @@
 {
-  "name": "Black Myth Wukong",
+  "name": "Black Myth: Wukong | 黑神话：悟空",
   "id": "PPSA23226",
   "version": "01.000.010",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "AD23154",
-          "on": "909090",
-          "off": "FF5718"
-        }
-      ]
-    },
-    {
-      "name": "Infi Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -27,18 +16,23 @@
       ]
     },
     {
-      "name": "Infi MP",
+      "name": "Infinite MP | 无限法力",
       "type": "checkbox",
       "memory": [
         {
           "offset": "9909BAC",
           "on": "9090909090",
           "off": "3500000080"
+        },
+        {
+          "offset": "999C6A9",
+          "on": "9090",
+          "off": "7559"
         }
       ]
     },
     {
-      "name": "Infi Skill (No Cooldown)",
+      "name": "Skill No Cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +43,7 @@
       ]
     },
     {
-      "name": "Infi Healing Potion",
+      "name": "Infinite Gourd | 无限葫芦",
       "type": "checkbox",
       "memory": [
         {
@@ -60,71 +54,201 @@
       ]
     },
     {
-      "name": "Max Skill points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
-        {
-          "offset": "22705200",
-          "on": "8B5020BAE703000089514CE9A770E4E5",
-          "off": "00000000000000000000000000000000"
-        },
         {
           "offset": "854C2B1",
-          "on": "E94A8F1B1A90",
+          "on": "E9CA323A0990",
           "off": "8B502089514C"
+        },
+        {
+          "offset": "118EF580",
+          "on": "8B5020BAE703000089514CE926CDC5F6",
+          "off": "8B5020BAE703000089514CE926CDC5F6"
         }
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Currency (99,999,999) | 使用货币99999999",
       "type": "checkbox",
       "memory": [
-        {
-          "offset": "22705214",
-          "on": "488B502048C7C27F96980048895120E90F54E3E5",
-          "off": "0000000000000000000000000000000000000000"
-        },
         {
           "offset": "853A62F",
-          "on": "E9E0AB1C1A909090",
+          "on": "E912523B09909090",
           "off": "488B502048895120"
+        },
+        {
+          "offset": "118EF846",
+          "on": "488B502048C7C2FFE0F50548895120E9DDADC4F6",
+          "off": "488B502048C7C2FFE0F50548895120E9DDADC4F6"
         }
       ]
     },
     {
-      "name": "Max items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
-        {
-          "offset": "22705232",
-          "on": "BAE703000089511CE91255E3E5",
-          "off": "00000000000000000000000000"
-        },
         {
           "offset": "853A74B",
-          "on": "E9E2AA1C1A90",
+          "on": "E979513B0990",
           "off": "8B502089511C"
+        },
+        {
+          "offset": "118EF8c9",
+          "on": "8B5020508B411C39C27C0989511C58E974AEC4F689C289511C58E969AEC4F6",
+          "off": "8B5020508B411C39C27C0989511C58E974AEC4F689C289511C58E969AEC4F6"
         }
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "R2+O Infinite Transform/Time | R2+O无限变身无限时间",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "22705246",
-          "on": "8B5020BA7F969800895148E92970E4E5",
-          "off": "00000000000000000000000000000000"
-        },
+          "offset": "990A9E1",
+          "on": "F3480F2AC7909090",
+          "off": "660FEF05D7CAB109"
+        }
+      ]
+    },
+    {
+      "name": "L2+R2 Infinite Use | 化身技能无限使用",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "990AFD6",
+          "on": "F3480F2AC7909090",
+          "off": "660FEF05E2C4B109"
+        }
+      ]
+    },
+    {
+      "name": "R2+L3 Infinite Use | 无限法宝技能使用",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "990ACD6",
+          "on": "F3480F2AC7909090",
+          "off": "660FEF05E2C7B109"
+        }
+      ]
+    },
+    {
+      "name": "Instant Charge | 快速蓄力",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9564C40",
+          "on": "F3480F2AC7",
+          "off": "F30F1045D4"
+        }
+      ]
+    },
+    {
+      "name": "10x EXP | 经验10倍",
+      "type": "checkbox",
+      "memory": [
         {
           "offset": "854C279",
-          "on": "E9C88F1B1A90",
+          "on": "E928363A0990",
           "off": "8B5020895148"
+        },
+        {
+          "offset": "118EF8a6",
+          "on": "8B50208B414839C27C0F29C26BD20A01C2895148E9C0C9C5F6895148E9B8C9C5F6",
+          "off": "8B50208B414839C27C0F29C26BD20A01C2895148E9C0C9C5F6895148E9B8C9C5F6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stealth Time | 无限隐身持续时间",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "955EF7D",
+          "on": "9090909090",
+          "off": "F30F5C45EC"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Clone Time | 无限分身持续时间",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "91680A6",
+          "on": "E95278780890909090",
+          "off": "8B4070898530FDFFFF"
+        },
+        {
+          "offset": "118EF8FD",
+          "on": "4881F9C37F7700740E8B4070898530FDFFFFE99B8787F7C74070009CAD47EBE9",
+          "off": "4881F9C37F7700740E8B4070898530FDFFFFE99B8787F7C740700000F041EBE9"
+        }
+      ]
+    },
+    {
+      "name": "2.5x Movement Speed | 移动速度2.5倍",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9878C9F",
+          "on": "E9466C0708",
+          "off": "F30F594128"
+        },
+        {
+          "offset": "118EF8EA",
+          "on": "C7412800002040F30F594128E9A993F8F7",
+          "off": "C7412800002040F30F594128E9A993F8F7"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Relic Points (6 types) | 无限根器点数",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85443E0",
+          "on": "E93AB53A0990",
+          "off": "8B5020895124"
+        },
+        {
+          "offset": "118ef91f",
+          "on": "8B50203B51247C08895124E9B74AC5F68B5124EBF3",
+          "off": "8B50203B51247C08895124E9B74AC5F68B5124EBF3"
+        }
+      ]
+    },
+    {
+      "name": "Armor Effects (Re-equip to activate) | 护甲效果(再次装备一件护甲生效)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B79BAF5",
+          "on": "909090909090",
+          "off": "0F8CBB000000"
+        },
+        {
+          "offset": "8364F44",
+          "on": "EB4A",
+          "off": "7D4A"
+        }
+      ]
+    },
+    {
+      "name": "100% Drop Rate | 掉落率100%",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A72453",
+          "on": "B001",
+          "off": "20C8"
         }
       ]
     }
   ],
   "credits": [
-    "Yharnam"
+    "erik13"
   ]
 }

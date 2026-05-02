@@ -1,0 +1,48 @@
+{
+  "name": "The Last of Us Part II Remastered",
+  "id": "PPSA15512",
+  "version": "01.002.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C6499B",
+          "on": "9090909090",
+          "off": "E8A0570000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo & Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C80BCD",
+          "on": "9090",
+          "off": "FFC8"
+        },
+        {
+          "offset": "208A2D9",
+          "on": "90909090909090",
+          "off": "66FF8BD80A0000"
+        },
+        {
+          "offset": "BCA5F6",
+          "on": "9090",
+          "off": "29D0"
+        },
+        {
+          "offset": "B9B277",
+          "on": "909090",
+          "off": "4429FA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam"
+  ]
+}

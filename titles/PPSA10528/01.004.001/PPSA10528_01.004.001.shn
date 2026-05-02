@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prince Of Persia The Lost Crown" Moder="Celogamez & baobao8888汉化" Cusa="PPSA10528" Version="01.004.001" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health-无限生命">
+        <Cheatline>
+            <Offset>806D0520</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>41-29-44-24-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy Kill-轻松击杀">
+        <Cheatline>
+            <Offset>83493030</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F8-01-75-0A-83-FB-0A-7E-05-BB-0A-00-00-00-41-89-5F-28-E9-A4-57-57-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Athra surge charge (1 Hit)-满值阿苏拉涌动能量（一击即可）">
+        <Cheatline>
+            <Offset>18BFB60</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-E0-00-00-00-00-00-FA-43-E9-DF-94-DA-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Athra surge Cooldown-无阿苏拉涌动冷却时间">
+        <Cheatline>
+            <Offset>18BF890</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-68-01-00-00-CD-CC-CC-BD-E9-FF-2E-AB-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Arrows/Potions (On Use)-无限箭矢/药剂（使用时生效）">
+        <Cheatline>
+            <Offset>18BDF80</Offset>
+            <Section>0</Section>
+            <ValueOn>44-2B-70-14-44-89-EE-49-8B-47-40-E9-4D-4C-BB-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Time Crystals/Xerxes/Lingots (x2/Disable After Max)-最大值/无限时间水晶/薛西斯币/金条（双倍/达到上限后禁用）">
+        <Cheatline>
+            <Offset>18BE210</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-14-3F-42-0F-00-44-89-E6-49-8B-46-40-E9-10-3F-BB-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jumps-无限跳跃">
+        <Cheatline>
+            <Offset>825D2A62</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C6-80-02-02-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,161 @@
+{
+  "name": "Elden Ring Nightreign",
+  "id": "PPSA25381",
+  "version": "01.000.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Mastecode/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2BDB0",
+          "on": "837F70FF7400443B875001000044898750010000EB0C4531C0EB07448B875401000044898750010000E9383F34FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "126FD0F",
+          "on": "E99CC0CB019090",
+          "off": "44898750010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2BDB4",
+          "on": "7415",
+          "off": "7400"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2BDC4",
+          "on": "7D0C",
+          "off": "EB0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite FP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12715B3",
+          "on": "909090909090",
+          "off": "8B8B60010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1271838",
+          "on": "909090909090",
+          "off": "8B8B6C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2B690",
+          "on": "0F84343E0EFEC744B108630000000354B108E9003E0EFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "100F4A1",
+          "on": "E9EAC1F10190",
+          "off": "742D0354B108"
+        }
+      ]
+    },
+    {
+      "name": "No Skill Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2BC30",
+          "on": "C4C17A104F28C4C17A114F24E9F8E15AFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "14D9E33",
+          "on": "E9F81DA50190",
+          "off": "C4C17A114F24"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ultimate Art",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2B8B0",
+          "on": "C5FA104718C5FA114714E94B875BFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "14E4005",
+          "on": "E9A678A401",
+          "off": "C5FA114714"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Murks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2BB40",
+          "on": "B9FFC99A3B8988D0000000E9409674FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "167518A",
+          "on": "E9B1698B0190",
+          "off": "8988D0000000"
+        },
+        {
+          "offset": "2F2BAD0",
+          "on": "B9FFC99A3B8988D0000000E9C02676FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "168E19A",
+          "on": "E931D9890190",
+          "off": "8988D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F2B770",
+          "on": "C5FA2CF0C7416CFFC99A3B8B516CE9B0A75BFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14E5F2C",
+          "on": "E93F58A4019090",
+          "off": "C5FA2CF08B516C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -16,40 +16,18 @@
       ]
     },
     {
-      "name": "MC (Master Code)",
+      "name": "Infi HP",
       "type": "checkbox",
       "memory": [
         {
           "offset": "305BD1E",
-          "on": "83BB94000000FFEB0841BD6C070000EB0D6681FC00F1EB0641BD000000004489AB30070000E98CF62BFD",
-          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          "on": "83BB94000000FF750641BD6C0700004489AB30070000E99BF62BFD",
+          "off": "000000000000000000000000000000000000000000000000000000"
         },
         {
           "offset": "31B3CD",
           "on": "E94C09D4029090",
           "off": "4489AB30070000"
-        }
-      ]
-    },
-    {
-      "name": "Infi Health (MC Required)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "305BD25",
-          "on": "7508",
-          "off": "EB08"
-        }
-      ]
-    },
-    {
-      "name": "1 Hit Kill (MC Required)",
-      "type": "checkbox",
-      "memory": [
-        {
-          "offset": "305BD34",
-          "on": "7506",
-          "off": "EB06"
         }
       ]
     },

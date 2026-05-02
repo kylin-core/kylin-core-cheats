@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Terminator Resistance Enhanced Edition" Moder="Celogamez" Cusa="PPSA02474" Version="01.000.500" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="God Mode">
+        <Cheatline>
+            <Offset>A8E850</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>FF-90-20-04-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>4A17ED0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-F4-00-00-00-C5-FA-11-83-EC-00-00-00-E9-09-6F-03-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>4A17F10</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-8D-EC-00-00-00-E9-52-51-FE-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo/Items (Sell For Money)">
+        <Cheatline>
+            <Offset>4A17FE0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-1C-24-C7-44-CB-08-E8-03-00-00-8B-44-CB-08-E9-76-F9-FC-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>BD27C6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-29-87-F0-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max XP/Levels On 2? Kill">
+        <Cheatline>
+            <Offset>B93E90</Offset>
+            <Section>0</Section>
+            <ValueOn>41-01-96-24-06-00-00</ValueOn>
+            <ValueOff>41-89-8E-24-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skill Points">
+        <Cheatline>
+            <Offset>B95800</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>89-87-2C-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

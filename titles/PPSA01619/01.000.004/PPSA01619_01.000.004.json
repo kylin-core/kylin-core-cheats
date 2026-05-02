@@ -1,0 +1,70 @@
+{
+  "name": "Mortal Kombat 11",
+  "id": "PPSA01619",
+  "version": "01.000.004",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinity HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37F7800",
+          "on": "807B1600750DC5FA5F9B2C0C0000E9AC9CCFFDC5FA5D9B2C0C0000E99F9CCFFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14F14B7",
+          "on": "E944633002909090",
+          "off": "C5FA5D9B2C0C0000"
+        }
+      ]
+    },
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37F7820",
+          "on": "4C89FA4C89E9807B16000F847188DAFDE96788DAFD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15A0096",
+          "on": "E98577250290",
+          "off": "4C89FA4C89E9"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C41EBC",
+          "on": "909090909090",
+          "off": "891516010703"
+        }
+      ]
+    },
+    {
+      "name": "Full Defensive\\Offensive Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37F7835",
+          "on": "488B8570FFFFFF41807C2416007509C5FA1108E9709204FEC5FA1100E9679204FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1840AB2",
+          "on": "E97E6DFB01909090909090",
+          "off": "488B8570FFFFFFC5FA1100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

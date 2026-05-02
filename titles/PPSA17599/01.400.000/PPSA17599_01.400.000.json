@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code v4.1 (Must be Activated First)",
+      "name": "Master Code v4.1 (Must be Activated First) - 主代码 v4.1（必须先开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health - 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill - 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Exp Max (Applied After the 2nd Battle)",
+      "name": "Exp Max (Applied After the 2nd Battle) - 最大经验（第二次战斗后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money - 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infi Stat Resets",
+      "name": "Infi Stat Resets - 无限属性重置次数",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "All Stat 99 (Upgrade Only 1 Stat)",
+      "name": "All Stat 99 (Upgrade Only 1 Stat) - 全属性99（仅升级一项属性即可）",
       "type": "checkbox",
       "memory": [
         {
@@ -93,6 +93,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

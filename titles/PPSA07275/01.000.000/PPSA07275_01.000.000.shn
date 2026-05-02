@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Valkyrie Elysium" Moder="Yanam Guy" Cusa="PPSA07275" Version="01.000.000" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="God Mode & 1 Hit Kill">
+        <Cheatline>
+            <Offset>1925CCD</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-D3</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Soul Gauge">
+        <Cheatline>
+            <Offset>18A25C0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-87-34-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Art Gauge">
+        <Cheatline>
+            <Offset>18F4CC0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-87-98-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Weapon Proficiency">
+        <Cheatline>
+            <Offset>1BB347B</Offset>
+            <Section>0</Section>
+            <ValueOn>4E</ValueOn>
+            <ValueOff>4F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

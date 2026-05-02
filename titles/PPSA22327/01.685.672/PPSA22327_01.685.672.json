@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Money (Enter Shop and Exit)",
+      "name": "Infi Money (Enter Shop and Exit) - 无限金钱（进入商店再退出）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Mastery Points (Use)",
+      "name": "Infi Mastery Points (Use) - 无限熟练度点数（使用生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -33,6 +33,6 @@
     }
   ],
   "credits": [
-    "Yharnam"
+    "Yharnam & baobao8888汉化"
   ]
 }

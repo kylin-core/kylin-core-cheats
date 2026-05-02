@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "PPSA19406",
+  "version": "01.005.000",
+  "name": "PPSA19406_00-EDFWORLDBROTHER2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "PPSA19406"
+  ],
+  "updatedAt": "2026-05-02T10:17:47Z",
+  "notes": "Local loose cheat import. Source file: raw/cheats/json/PPSA19406_01.005.000.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "PPSA19406_01.005.000.json",
+      "size": 1159,
+      "sha256": "0f009f2da60fb44f82db8be04270984532b718766af0aed7e77ad7d335db2bf8",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA19406_01.005.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "PPSA19406_01.005.000.shn",
+      "size": 1394,
+      "sha256": "d2acc3c07a2b96a57af6e73baab0e64c81f82cd603da65a6ccdf807f125846ba",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA19406_01.005.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "PPSA19406_01.005.000.mc4",
+      "size": 1880,
+      "sha256": "612da7f3c8cd9d10356f9ba830a74005bac8698ce2b078d93499b461037acb49",
+      "cheatCount": 4,
+      "source": "Local loose cheat import. Source file: raw/cheats/json/PPSA19406_01.005.000.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:17:47Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

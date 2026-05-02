@@ -1,0 +1,65 @@
+{
+  "name": "Remnant II",
+  "id": "PPSA06693",
+  "version": "01.000.037",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health - 无限生命",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52066A0",
+          "on": "81BB3808000000010000750CC7839008000000007A44EB08C5FA118B90080000E9F87193FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B3D8B5",
+          "on": "E9E68D6C03909090",
+          "off": "C5FA118B90080000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Stamina - 无限体力",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AFEF4E",
+          "on": "C5FA1183F0000000",
+          "off": "C5FA118BF0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infi Ammo - 无限弹药",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D06871",
+          "on": "4531F690",
+          "off": "44297764"
+        }
+      ]
+    },
+    {
+      "name": "Infi Items & Money (get) - 无限物品与金钱（获取时）",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52066C8",
+          "on": "01D8B83F420F0089472CE93E5FADFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1CDC610",
+          "on": "E9B3A05203",
+          "off": "01D889472C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Yharnam & baobao8888汉化"
+  ]
+}
