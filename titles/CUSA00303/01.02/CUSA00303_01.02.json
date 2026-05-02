@@ -1,0 +1,109 @@
+{
+  "name": "Bound By Flame",
+  "id": "CUSA00303",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFB800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFB801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3C8C7F",
+          "on": "C5F25FC0",
+          "off": "C5F25DC0"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold/Items/Resources on Crafting/Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFB85D",
+          "on": "B89F860100894344E980676EFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "3E1FD7",
+          "on": "E981989100",
+          "off": "77118B4344"
+        }
+      ]
+    },
+    {
+      "name": "0 Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3E1234",
+          "on": "0F57C090",
+          "off": "C5FA59C1"
+        }
+      ]
+    },
+    {
+      "name": "High XP on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFB844",
+          "on": "41C7871C280000286B6E4EC4C17A10871C280000E9ECDE6CFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3C9740",
+          "on": "E9FF20930090909090",
+          "off": "C4C17A11871C280000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CA575",
+          "on": "9090",
+          "off": "FFC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Feat Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CA623",
+          "on": "90909090909090",
+          "off": "4401B364280000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla, TLH"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08487",
+  "version": "01.05",
+  "name": "Life is Strange - Before the Storm",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08487"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08487_01.05.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08487_01.05.json",
+      "size": 371,
+      "sha256": "c6b4b158ea5413cf8c3a977dfdccce78de58baa687eee60fb6d3c749a318738b",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08487_01.05.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08487_01.05.shn",
+      "size": 568,
+      "sha256": "5fcd7cf96258794d321cc28abe033d3f05ce240cfe5e904d45568946d56f400d",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08487_01.05.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08487_01.05.mc4",
+      "size": 768,
+      "sha256": "5431a782a2f3a07bccb2d29292f1c1ef386f967539d89f2aba6170091464fd74",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08487_01.05.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

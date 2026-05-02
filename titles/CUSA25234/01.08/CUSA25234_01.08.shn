@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Alliance" Moder="Saso" Cusa="CUSA25234" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health / Stamina (Master Code)">
+        <Cheatline>
+            <Offset>817B500</Offset>
+            <Section>0</Section>
+            <ValueOn>48-81-F9-00-00-80-3F-75-53-81-38-00-00-80-3F-74-4B-81-7B-48-80-58-76-01-75-42-81-7B-18-00-00-80-3F-75-39-81-7B-34-00-00-80-3F-75-30-83-3B-00-74-2B-81-7B-24-00-00-C8-42-7E-22-C5-FA-10-63-24-C5-FA-11-63-2C-C7-43-30-00-00-00-00-C7-43-3C-00-00-00-00-C5-FA-10-5B-30-E9-3D-79-ED-F8-C5-FA-11-63-2C-E9-33-79-ED-F8-48-83-F9-00-75-F0-48-81-FA-00-00-80-3F-75-E7-81-7B-14-00-00-80-3F-75-DE-81-7B-48-80-58-76-01-75-D5-80-7B-1D-01-75-CF-EB-AB-48-83-FA-00-75-C7-48-83-F9-00-75-20-81-7B-48-80-58-76-01-75-B8-81-7B-2C-00-00-80-3F-7E-AF-C7-43-2C-00-00-80-3F-C5-FA-10-63-2C-EB-A1-48-81-F9-00-00-80-3F-75-98-3D-30-A0-FF-EE-75-91-83-3B-00-90-74-CA-EB-89</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Ability / Easy Kill (Master Code)">
+        <Cheatline>
+            <Offset>817B507</Offset>
+            <Section>0</Section>
+            <ValueOn>75-5D</ValueOn>
+            <ValueOff>75-53</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Resorce (On Spend)">
+        <Cheatline>
+            <Offset>15E4D61</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-FF-FF-00-00-90</ValueOn>
+            <ValueOff>8B-80-6C-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Fate Points">
+        <Cheatline>
+            <Offset>817B700</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-63-00-00-00-89-4E-18-48-8B-40-20-E9-30-EA-E7-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

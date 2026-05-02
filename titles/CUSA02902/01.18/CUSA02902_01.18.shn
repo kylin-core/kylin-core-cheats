@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tom Clancy's Ghost Recon® Wildlands" Moder="KevinTamvan" Cusa="CUSA02902" Version="01.18" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health Player">
+        <Cheatline>
+            <Offset>34CCBF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Clip Ammo">
+        <Cheatline>
+            <Offset>20E9B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Blood On Screen">
+        <Cheatline>
+            <Offset>34CC356</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-D5-00-68-FD</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inftinite Throwable">
+        <Cheatline>
+            <Offset>539F800</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-47-50-0A-00-0F-B7-47-50-C3-E9-B5-28-CD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stealth Mode [Player Only]">
+        <Cheatline>
+            <Offset>539F810</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-01</ValueOn>
+            <ValueOff>B0-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skill Points">
+        <Cheatline>
+            <Offset>539F81C</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-64-00-00-00-83-FE-03-75-05-E9-9B-EE-08-FB-89-F0-8B-44-87-10-E9-90-EE-08-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Extra Resources Suply [Suply Raid Mission]">
+        <Cheatline>
+            <Offset>539F836</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-8C-00-00-00-80-96-98-00-C4-C1-7A-2A-86-8C-00-00-00-E9-19-D0-04-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Unlock Skill Level-Unlock Tier One">
+        <Cheatline>
+            <Offset>43C171</Offset>
+            <Section>0</Section>
+            <ValueOn>44-88-08</ValueOn>
+            <ValueOff>44-8A-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

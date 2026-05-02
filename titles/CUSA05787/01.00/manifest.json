@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05787",
+  "version": "01.00",
+  "name": "KINGDOM HEARTS 0.2 Birth by Sleep - A Fragmentary Passage -",
+  "process": "kh02.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05787"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05787_01.00_kh02.elf.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05787_01.00.json",
+      "size": 1695,
+      "sha256": "c3b40bf16e181cf5967e64d9bf2b4a39b7cc87b8ce1cd44c8a2fbf36b9b0061c",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05787_01.00_kh02.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05787_01.00.shn",
+      "size": 1100,
+      "sha256": "436838df7fd94f6611bf70e52511d475e11b672f5088bb36fcca1683fc51b72c",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05787_01.00_kh02.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05787_01.00.mc4",
+      "size": 1472,
+      "sha256": "51dbff7f869af643577b7ce0a1ec68297fff54db0233e032fd8a81b629b0a4c5",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05787_01.00_kh02.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "End of Eternity",
+  "id": "CUSA17113",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C03800",
+          "on": "C7878C010000FF07AF2F488B8F8C010000E981CD41FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "20590",
+          "on": "E96B32BE009090",
+          "off": "488B8F8C010000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C03816",
+          "on": "66C78448580B0000E7070FB78448580B0000E95CB243FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3EA81",
+          "on": "E9904DBC00909090",
+          "off": "0FB78448580B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C0382D",
+          "on": "43C74437049F860100478B643704E9912EE3FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A366CC",
+          "on": "E95CD11C00",
+          "off": "478B643708"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C03840",
+          "on": "41BDFFE0F50545896C842CE97E33C8FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "886BC9",
+          "on": "E972CC3700",
+          "off": "45896C842C"
+        }
+      ]
+    },
+    {
+      "name": "No Equipment Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C03850",
+          "on": "4831C0E93CE643FF",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "41E8F",
+          "on": "E9BC19BC00",
+          "off": "0FBF440132"
+        }
+      ]
+    },
+    {
+      "name": "High Star Amount",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C03858",
+          "on": "41C787AD010000FFFFFF1E498B87AD010000E92E014DFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D3996",
+          "on": "E9BDFEB2009090",
+          "off": "498B87A8010000"
+        }
+      ]
+    },
+    {
+      "name": "Clear All Difficulties ~Load Save~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C0386F",
+          "on": "C780240100000101010183B82401000000E9CD10DDFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9D494B",
+          "on": "E91FEF22009090",
+          "off": "80B82401000000"
+        },
+        {
+          "offset": "C03885",
+          "on": "C780280100000101010183B82801000000E9FB10DDFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9D498F",
+          "on": "E9F1EE22009090",
+          "off": "80B82801000000"
+        },
+        {
+          "offset": "C0389B",
+          "on": "C7802C0100000101000080B82C01000000E92911DDFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9D49D3",
+          "on": "E9C3EE22009090",
+          "off": "80B82C01000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02980",
+  "version": "01.00",
+  "name": "Borderlands THC: Borderlands Pre-Sequel",
+  "process": "ARBUTUS.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02980"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02980_01.00_ARBUTUS.elf.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02980_01.00.json",
+      "size": 664,
+      "sha256": "61073e9c07e840ec36257d56d6535894236ca5412b1b68a1d90f7d91b859de3f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02980_01.00_ARBUTUS.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02980_01.00.shn",
+      "size": 869,
+      "sha256": "43a4b9a22f71c515fc113b35a6338502a939a5f75959b5be2469ecf8cb326304",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02980_01.00_ARBUTUS.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02980_01.00.mc4",
+      "size": 1176,
+      "sha256": "edeb3baa12592ddfe4d5919299b931d8467fb222018dadeccb40dd2e2004d1f1",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02980_01.00_ARBUTUS.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

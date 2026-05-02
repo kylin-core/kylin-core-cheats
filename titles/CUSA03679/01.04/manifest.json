@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03679",
+  "version": "01.04",
+  "name": "Mortal Kombat XL",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03679"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03679_01.04.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03679_01.04.json",
+      "size": 1772,
+      "sha256": "08fcdd48fe3f7ff2f70805c0224f5b29cfe85b0ad3d2f4d81bb74a045cf01b12",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03679_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03679_01.04.shn",
+      "size": 2091,
+      "sha256": "893d704ff59729e92dc9644cb4e53a2e2757c4e94c78d3a6486fdda67e529e83",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03679_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03679_01.04.mc4",
+      "size": 2796,
+      "sha256": "b76f27c64be72fc2251d01a21fedbb059e0e7c0b16b97f72d015f2c783caca1c",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03679_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Maneater" Moder="TylerMods+Gatot Kaca_9.00" Cusa="CUSA14519" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="2 Hit Kill">
+        <Cheatline>
+            <Offset>587EC20</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-F0-94-74-10-49-83-F9-00-74-0A-C5-FA-11-47-08-E9-22-F5-0A-FB-C7-47-08-00-00-00-00-E9-16-F5-0A-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen">
+        <Cheatline>
+            <Offset>587EB80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-68-0A-00-00-00-3C-1C-46-E9-41-14-11-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>587EBD0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-B0-A2-74-0A-C5-FA-10-47-0C-E9-B8-92-AD-FA-C7-47-08-00-3C-1C-46-C7-47-0C-00-3C-1C-46-E9-A5-92-AD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level on Gain">
+        <Cheatline>
+            <Offset>587E8F0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-50-04-00-00-7F-96-98-00-E9-F2-4B-1F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Protein on Gain">
+        <Cheatline>
+            <Offset>587E780</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-40-04-00-00-7F-96-98-00-E9-75-4C-1F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Fats on Gain">
+        <Cheatline>
+            <Offset>5885FD0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-44-04-00-00-7F-96-98-00-E9-F1-D4-1E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Minerals on Gain">
+        <Cheatline>
+            <Offset>587E5C0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-48-04-00-00-7F-96-98-00-E9-DB-4F-1F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Mutagens on Gain">
+        <Cheatline>
+            <Offset>587EA10</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-4C-04-00-00-7F-96-98-00-E9-65-4C-1F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Faster Game Speed">
+        <Cheatline>
+            <Offset>587EC70</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-AC-04-00-00-C7-87-AC-04-00-00-33-33-13-40-E9-F5-C3-24-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Game Speed Normal">
+        <Cheatline>
+            <Offset>587ECA0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-AC-04-00-00-C7-87-AC-04-00-00-00-00-80-3F-E9-C5-C3-24-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

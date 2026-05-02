@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodstained: Ritual of the Night" Moder="Celogamez" Cusa="CUSA07953" Version="01.40" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC5FEE0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F9-07-75-06-90-E9-B0-6E-D9-85-44-8B-A3-40-02-00-00-E9-A4-6E-D9-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic">
+        <Cheatline>
+            <Offset>7FC5FF50</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-75-6F-D9-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Items x99 (Need 2 To Work)">
+        <Cheatline>
+            <Offset>7FC5FF70</Offset>
+            <Section>0</Section>
+            <ValueOn>85-C0-C6-42-48-63-E9-64-91-D5-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Bullets">
+        <Cheatline>
+            <Offset>7FC5FF10</Offset>
+            <Section>0</Section>
+            <ValueOn>29-C8-41-8B-47-48-E9-A2-D6-D5-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level">
+        <Cheatline>
+            <Offset>7FC5FFD0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-BD-48-02-00-00-E9-CD-75-D9-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Gold x999999">
+        <Cheatline>
+            <Offset>7FC5FED0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-30-04-00-00-3F-42-0F-00-E9-B8-11-E2-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Time">
+        <Cheatline>
+            <Offset>7FC5FF90</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-8F-44-04-00-00-E9-80-4E-E0-85</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA23918",
+  "version": "01.00",
+  "name": "Final Fight 1-Remake",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA23918"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23918_01.00.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA23918_01.00.json",
+      "size": 645,
+      "sha256": "78df2057ae6de3836521bc6e617a971bb593debc94a60183716cd4d1f89c54db",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23918_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA23918_01.00.shn",
+      "size": 773,
+      "sha256": "d93ca7df868034f501f442d713bbd5f85484dc63ed057c65bc2e0daf0181fd4d",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23918_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA23918_01.00.mc4",
+      "size": 1048,
+      "sha256": "29c3b2a83aa6f1c124b066083bb171ce5250aceea893a27b11e974008a8804be",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23918_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

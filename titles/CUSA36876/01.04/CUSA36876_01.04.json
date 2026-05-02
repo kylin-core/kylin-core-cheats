@@ -1,0 +1,183 @@
+{
+  "name": "Fatal Frame Mask of Lunar Eclipse",
+  "id": "CUSA36876",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F2A1",
+          "on": "C4C17A108424CC070000C4C17A118424C8070000C4C17A108424C8070000E99C03F7FE90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "88F656",
+          "on": "E946FC08019090909090",
+          "off": "C4C17A108424C8070000"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Health is 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F2E1",
+          "on": "C780C807000001000000C5FA1080C8070000E96D719AFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C645D",
+          "on": "E97F8E6501909090",
+          "off": "C5FA1080C8070000"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Health is 1 using Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F311",
+          "on": "C780C807000001000000C5FA1080C8070000E9BEEA9BFE90",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DDDDE",
+          "on": "E92E156401909090",
+          "off": "C5FA1080C8070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A600B",
+          "on": "440F4FF8",
+          "off": "440F4CF8"
+        }
+      ]
+    },
+    {
+      "name": "Instant Camera Film",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F341",
+          "on": "C787AC0A000000000000E9374AF7FE90",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "893D80",
+          "on": "E9BCB508019090",
+          "off": "83BFAC0A000000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Shutter Lock",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F371",
+          "on": "41C78424980A00000000803FE985F9F6FE90",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "88ECFD",
+          "on": "E96F0609019090909090",
+          "off": "C4C17A108424980A0000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Spirit Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F3A1",
+          "on": "C744166072F97F3FC5FA584C1660E9D98BFCFE90",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8E7F87",
+          "on": "E91574030190",
+          "off": "C5FA584C1660"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F3D1",
+          "on": "C78024020000FFE0F5058B8824020000E9CE0AD6FE90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "67FEAE",
+          "on": "E91EF5290190",
+          "off": "8B8824020000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8389FA",
+          "on": "90909090909090",
+          "off": "488905BF87D001"
+        }
+      ]
+    },
+    {
+      "name": "Instant Lunar Power (flashlight)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "191F401",
+          "on": "41C78424C01700000000803FC4C17A108424C0170000C4C17A118424C0170000E927AEF6FE90",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "88A243",
+          "on": "E9B95109019090909090",
+          "off": "C4C17A118424C0170000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Mission Time (New Game+)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "867CE1",
+          "on": "909090",
+          "off": "894B50"
+        }
+      ]
+    },
+    {
+      "name": "Mission Score (New Game+)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "867DB4",
+          "on": "0F47C6",
+          "off": "0F42C6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

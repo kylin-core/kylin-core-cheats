@@ -1,0 +1,71 @@
+{
+  "name": "ICEY",
+  "id": "CUSA08085",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "MAX-money-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82457800",
+          "on": "B9FFE0F5058948104883C428E9EF305AFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "809FA8F9",
+          "on": "E902CFA5019090",
+          "off": "8948104883C428"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-one-on-dont-off",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80659CB3",
+          "on": "7539",
+          "off": "7539"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80659CD2",
+          "on": "90909090",
+          "off": "41894620"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-SHELD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80659D62",
+          "on": "90909090",
+          "off": "41894628"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805FA8F9",
+          "on": "909090",
+          "off": "894810"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

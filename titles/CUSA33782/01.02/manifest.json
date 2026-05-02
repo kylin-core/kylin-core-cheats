@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA33782",
+  "version": "01.02",
+  "name": "Potion Permit",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA33782"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33782_01.02.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA33782_01.02.json",
+      "size": 2447,
+      "sha256": "9447ad725bd751463874149d65c1be8f0f33f23f1000f91d1d61438b5e12f66b",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33782_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA33782_01.02.shn",
+      "size": 2266,
+      "sha256": "169d130f424e15a47ae7bfe1b354c1766a331b86f9f06beb4c15e032474a9c44",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33782_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA33782_01.02.mc4",
+      "size": 3032,
+      "sha256": "9c1ad46c094cb410d6355dd697a2f258a6858fa918ecbfb8d5145b092092d4db",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33782_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

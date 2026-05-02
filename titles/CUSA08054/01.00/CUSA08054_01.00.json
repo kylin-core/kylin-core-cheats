@@ -1,0 +1,27 @@
+{
+  "name": "The Seven Deadly Sins Knights of Britannia",
+  "id": "CUSA08054",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297800",
+          "on": "F2440F5AF841837F1C020F852274687F9090909090E91D74687F",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8091EC2D",
+          "on": "E9CE8B9780",
+          "off": "F2440F5AF8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

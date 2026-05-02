@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08154",
+  "version": "01.02",
+  "name": "Tropico 6",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08154"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08154_01.02.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08154_01.02.json",
+      "size": 523,
+      "sha256": "277d65566e2a03e30338da5cf77c5d7dbb7f85fef85c4b893e666fc11a18f370",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08154_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08154_01.02.shn",
+      "size": 619,
+      "sha256": "4db72216d93bdaf36618dd2486cbccde50b5b9f182b24e7a7fea267fc4255b67",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08154_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08154_01.02.mc4",
+      "size": 832,
+      "sha256": "05f23c734c933c8d7401133b5dce49917c2917b11771bd2428fc6710812fdf9f",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08154_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

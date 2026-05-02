@@ -1,0 +1,60 @@
+{
+  "name": "Ninja Gaiden Ragebound",
+  "id": "CUSA53132",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82BD06E9",
+          "on": "9090909090",
+          "off": "C5F82E4068"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ki",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8269F176",
+          "on": "9090909090",
+          "off": "E895004700"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Points-1-buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "844A7800",
+          "on": "B8E70300004289443B0CE91B0001FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "814B7825",
+          "on": "E9D6FFFE02",
+          "off": "4289443B0C"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82B0F386",
+          "on": "450F4CFE",
+          "off": "450F4CE7"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08518",
+  "version": "01.01",
+  "name": "DRAGON QUEST XI: Echoes of an Elusive Age",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08518"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08518_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08518_01.01.json",
+      "size": 5506,
+      "sha256": "e9b7f9fcc45920c2b5cfa531a91ca0b994e9dd1c66611dc9103a83b0c686c3cf",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08518_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08518_01.01.shn",
+      "size": 5155,
+      "sha256": "4134af856ba39b715db34bf93048a2161ad4545e4a928fa020f72338ca3f7b98",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08518_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08518_01.01.mc4",
+      "size": 6892,
+      "sha256": "a65a1d24af44b6c88c3b67ceb2dada3fd5e88286c1e3f15378691fc936e6ef5c",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08518_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

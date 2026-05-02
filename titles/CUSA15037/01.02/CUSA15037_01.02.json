@@ -1,0 +1,60 @@
+{
+  "name": "Door Kickers Action Squad",
+  "id": "CUSA15037",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9B860",
+          "on": "909090909090909090",
+          "off": "C4C17A118730340000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock-All-stages",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CBBF1",
+          "on": "7518",
+          "off": "7418"
+        }
+      ]
+    },
+    {
+      "name": "Game-Speed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BF6E3",
+          "on": "9090909090",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BFBEF",
+          "on": "909090909090",
+          "off": "8986F40A0000"
+        },
+        {
+          "offset": "CA066",
+          "on": "9090",
+          "off": "8903"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

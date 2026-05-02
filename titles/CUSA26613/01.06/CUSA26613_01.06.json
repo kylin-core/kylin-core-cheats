@@ -1,0 +1,55 @@
+{
+  "name": "GTA3",
+  "id": "CUSA26613",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1193EDF",
+          "on": "90909090",
+          "off": "41894D0C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1193EC5",
+          "on": "90909090",
+          "off": "41894508"
+        }
+      ]
+    },
+    {
+      "name": "No Vehicle Collision Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1161BA6",
+          "on": "9090909090909090",
+          "off": "C5FA118328030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health (player and npc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10EAF95",
+          "on": "9090909090909090",
+          "off": "C5FA119330040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2pt"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09923",
+  "version": "01.00",
+  "name": "Digimon Story: Cyber Sleuth - Hackers Memory",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09923"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09923_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09923_01.00.json",
+      "size": 1282,
+      "sha256": "2455e115e2271bf80244fd0e2c962a894ea37ecc65731f0b2a31def86adf7baf",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09923_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09923_01.00.shn",
+      "size": 1287,
+      "sha256": "b4d1c7f13ef9c684ec0de2a1750200bb4347f8441bebe4f1d9d5558bddb5a9ef",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09923_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09923_01.00.mc4",
+      "size": 1728,
+      "sha256": "1261edfd51d3bdfcc49be08c2d94030a0e58f508b7955b4037a76b5ad8444d08",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09923_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

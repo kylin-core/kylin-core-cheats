@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Digimon World: Next Order" Moder="d01v" Cusa="CUSA05392" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Freeze Time">
+        <Cheatline>
+            <Offset>1107800</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-64-82-16-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gym HP result x2">
+        <Cheatline>
+            <Offset>1107807</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C8-02-48-8B-85-70-FF-FF-FF-89-48-20-E9-25-4A-2B-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gym MP result x2">
+        <Cheatline>
+            <Offset>110781A</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C8-02-48-8B-85-70-FF-FF-FF-89-48-24-E9-63-4A-2B-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gym STR result x4">
+        <Cheatline>
+            <Offset>110782D</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C8-04-48-8B-85-70-FF-FF-FF-89-48-28-E9-91-4A-2B-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gym STA result x4">
+        <Cheatline>
+            <Offset>1107840</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C8-04-48-8B-85-70-FF-FF-FF-89-48-2C-E9-BF-4A-2B-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gym WIS result x4">
+        <Cheatline>
+            <Offset>1107853</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C8-04-48-8B-85-70-FF-FF-FF-89-48-30-E9-ED-4A-2B-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gym SPD result x4">
+        <Cheatline>
+            <Offset>1107866</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C8-04-48-8B-85-70-FF-FF-FF-89-48-34-E9-1B-4B-2B-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Mood / Discipline / Curse / Fatigue 0">
+        <Cheatline>
+            <Offset>1107879</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BF-00-00-00-00-48-8B-44-24-08-44-89-38-E9-EC-46-13-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Mood, Discipline (Praise) / Curse, Fatigue (Eat) Full">
+        <Cheatline>
+            <Offset>110788D</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BF-63-00-00-00-48-8B-44-24-08-44-89-38-E9-D8-46-13-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Order Power Battle Start 999">
+        <Cheatline>
+            <Offset>11078A1</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-E7-03-00-00-41-89-87-EC-03-00-00-E9-C5-4C-1A-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Bits">
+        <Cheatline>
+            <Offset>11078B3</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-44-24-08-7F-96-98-00-E9-6A-0C-13-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max lvl (town / battle)">
+        <Cheatline>
+            <Offset>11078C1</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-44-24-10-C7-40-78-3F-42-0F-00-E9-07-07-13-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="TP">
+        <Cheatline>
+            <Offset>11078D3</Offset>
+            <Section>0</Section>
+            <ValueOn>48-63-44-24-10-4C-0F-4D-F0-E9-27-08-13-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Warehouse items 999">
+        <Cheatline>
+            <Offset>11078E2</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-45-34-E7-03-48-63-44-24-2C-E9-1A-B3-2A-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

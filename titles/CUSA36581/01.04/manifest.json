@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA36581",
+  "version": "01.04",
+  "name": "Prince of Persia The Lost Crown",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA36581"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA36581_01.04.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA36581_01.04.json",
+      "size": 7913,
+      "sha256": "884044ee03fd5c421aed79403e20bba1150d259493336cde360e40002041277e",
+      "cheatCount": 19,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA36581_01.04.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA36581_01.04.shn",
+      "size": 5885,
+      "sha256": "7a4070889cf32a9959f4717125e7e2da23331da63c0549ed4f4c983a71bc344b",
+      "cheatCount": 19,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA36581_01.04.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA36581_01.04.mc4",
+      "size": 7852,
+      "sha256": "b90dab4d05a22bd468058eba3e2c184fa25791de9afe15aaae1ccf4db92fe948",
+      "cheatCount": 19,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA36581_01.04.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

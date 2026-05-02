@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Salt and Sacrifice" Moder="Wander FW9.00" Cusa="CUSA33906" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FE9D400</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FC-02-75-0D-41-C7-87-CC-00-00-00-00-C0-79-44-EB-09-C4-C1-7A-11-97-CC-00-00-00-E9-59-7A-FF-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina (Attack)">
+        <Cheatline>
+            <Offset>749F81</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-07</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina (rolling)">
+        <Cheatline>
+            <Offset>114A5F7</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-80-D0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina (while throwing)">
+        <Cheatline>
+            <Offset>10A237A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-D0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina (sprinting)">
+        <Cheatline>
+            <Offset>1148702</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-80-D0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina (blocking)">
+        <Cheatline>
+            <Offset>7FE9D330</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-D0-00-00-00-00-C0-79-44-E9-18-20-FF-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Fall Damage">
+        <Cheatline>
+            <Offset>DF8BEE</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-CC-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All items/upgrade souls/throwables (do not decrease on use)">
+        <Cheatline>
+            <Offset>EA6922</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-29-78-1C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alot of Experience points (on gain)">
+        <Cheatline>
+            <Offset>7FE9D130</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-DA-9A-3D-01-C7-40-38-3F-42-0F-00-E9-BC-99-3D-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alot of money(on gain)">
+        <Cheatline>
+            <Offset>7FE9D620</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-E1-FB-2C-C8-C7-40-40-7F-96-98-00-E9-3C-7F-3A-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

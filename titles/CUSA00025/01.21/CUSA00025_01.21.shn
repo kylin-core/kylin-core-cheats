@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="COD: Ghosts (EX)" Moder="DeathRGH" Cusa="CUSA00025" Version="01.21" Process="default_mp.elf">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="All Client Infinite Ammo">
+        <Cheatline>
+            <Offset>526396</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>44-29-7C-81-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Client Godmode">
+        <Cheatline>
+            <Offset>6D6705</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-29-9C-24-DC-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Client ESP">
+        <Cheatline>
+            <Offset>200C590</Offset>
+            <Section>0</Section>
+            <ValueOn>10</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump">
+        <Cheatline>
+            <Offset>C29088</Offset>
+            <Section>0</Section>
+            <ValueOn>00-C0-79-44</ValueOn>
+            <ValueOff>00-00-1C-42</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="AFK Aliens">
+        <Cheatline>
+            <Offset>6B6AC0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-C0-01-00-00-00-C3-90</ValueOn>
+            <ValueOff>48-8D-05-39-91-72-01-31-C9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Free Teeth Upgrades">
+        <Cheatline>
+            <Offset>400015</Offset>
+            <Section>0</Section>
+            <ValueOn>30</ValueOn>
+            <ValueOff>30</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

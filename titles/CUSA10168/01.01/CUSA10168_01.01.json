@@ -1,0 +1,299 @@
+{
+  "name": "Sword art Online - Fatal Bullet",
+  "id": "CUSA10168",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E7B819",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E7B81A",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "248DFC",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BBC94",
+          "on": "9090",
+          "off": "29D8"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo on Pick",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BBC06",
+          "on": "909090",
+          "off": "0F4FD6"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A45F2",
+          "on": "909090",
+          "off": "0F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A45E4",
+          "on": "8B7770",
+          "off": "037770"
+        }
+      ]
+    },
+    {
+      "name": "Ignore Money on Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6607CE",
+          "on": "909090909090",
+          "off": "0F8F8F060000"
+        },
+        {
+          "offset": "77926C",
+          "on": "EB33",
+          "off": "7D33"
+        },
+        {
+          "offset": "78A36F",
+          "on": "31DB90909090",
+          "off": "81C3F4010000"
+        },
+        {
+          "offset": "786280",
+          "on": "9090",
+          "off": "7F11"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max Weapon Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18B2E2",
+          "on": "90909090",
+          "off": "C5FA5CC1"
+        },
+        {
+          "offset": "18F20B",
+          "on": "C5FA5F8004040000",
+          "off": "C5FA5D8004040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level on LevelUp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A3CB8",
+          "on": "909090",
+          "off": "0F4CC6"
+        }
+      ]
+    },
+    {
+      "name": "Max CP on LevelUp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A3D13",
+          "on": "909090",
+          "off": "0F4CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite CP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7CBAE2",
+          "on": "9090",
+          "off": "29C8"
+        },
+        {
+          "offset": "2A4467",
+          "on": "909090909090909090909090909090909090",
+          "off": "2B47382B473C2B47402B47442B47482B474C"
+        }
+      ]
+    },
+    {
+      "name": "Raise CP-Cap from 24520 to 65535",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A3D08",
+          "on": "B8FFFF000081F900000100",
+          "off": "B8C85F000081F9C95F0000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Quests",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "303933",
+          "on": "909090",
+          "off": "0F4EC7"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "668628",
+          "on": "9090",
+          "off": "29D8"
+        }
+      ]
+    },
+    {
+      "name": "20k XP each Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DF03D",
+          "on": "BB204E0000909090",
+          "off": "C5FA59C1C5FA2CD8"
+        }
+      ]
+    },
+    {
+      "name": "Max Medals on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F84F0",
+          "on": "90909090",
+          "off": "410F4CD4"
+        }
+      ]
+    },
+    {
+      "name": "Max Medals on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F3339",
+          "on": "909090",
+          "off": "0F4CFE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Medals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F3331",
+          "on": "89CE",
+          "off": "01CE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Chest-Loot",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "278CFA",
+          "on": "41C6465801",
+          "off": "41C6465800"
+        }
+      ]
+    },
+    {
+      "name": "Max Box Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BBC02",
+          "on": "9090",
+          "off": "29CA"
+        }
+      ]
+    },
+    {
+      "name": "All Stats 255",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E7B84D",
+          "on": "C74350FF000000C74354FF000000C74358FF000000C7435CFF000000C74360FF000000C74364FF000000C5F8104350E9B53392FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "79EC31",
+          "on": "E917CC6D05",
+          "off": "C5F8104350"
+        }
+      ]
+    },
+    {
+      "name": "All Stats 65535",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E7B84D",
+          "on": "C74350FFFF0000C74354FFFF0000C74358FFFF0000C7435CFFFF0000C74360FFFF0000C74364FFFF0000C5F8104350E9B53392FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "79EC31",
+          "on": "E917CC6D05",
+          "off": "C5F8104350"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

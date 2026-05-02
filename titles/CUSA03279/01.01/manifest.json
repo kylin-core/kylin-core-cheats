@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03279",
+  "version": "01.01",
+  "name": "Life is Strange",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03279"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03279_01.01.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03279_01.01.json",
+      "size": 720,
+      "sha256": "dc6a29a6b776744f86d555efb3740a6916557594c924960a138e820923d7b966",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03279_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03279_01.01.shn",
+      "size": 532,
+      "sha256": "7d786f3e93eaa9dc6c4b68a0e85cee86cfead190a7b492ef5391670b890a722c",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03279_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03279_01.01.mc4",
+      "size": 728,
+      "sha256": "489e93f0fcc10c4c07903d1d3794456a40866cb72d55db4ffed1823c8c89c8e9",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03279_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

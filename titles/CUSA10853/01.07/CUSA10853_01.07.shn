@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Outward" Moder="Wander FW9.00" Cusa="CUSA10853" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="coins">
+        <Cheatline>
+            <Offset>7FC5FDF0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-F0-03-00-00-3F-42-0F-00-E9-D6-FF-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="weight">
+        <Cheatline>
+            <Offset>7FC5FE30</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-FC-03-00-00-00-00-80-3F-E9-89-3D-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="max weight">
+        <Cheatline>
+            <Offset>7FC5FE80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-FC-03-00-00-00-3C-1C-46-C4-C1-7A-10-87-FC-03-00-00-E9-10-3D-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="maxxx">
+        <Cheatline>
+            <Offset>7FC5FE80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-FC-03-00-00-00-00-80-3F-C4-C1-7A-10-87-FC-03-00-00-E9-10-3D-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="maxi">
+        <Cheatline>
+            <Offset>7FC5FE80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-FC-03-00-00-CD-CC-CC-3D-C4-C1-7A-10-87-FC-03-00-00-E9-10-3D-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="maaaaax">
+        <Cheatline>
+            <Offset>7FC5FEC0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-FC-03-00-00-80-4F-C3-47-C4-C1-7A-10-8F-FC-03-00-00-E9-11-3D-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="mamax">
+        <Cheatline>
+            <Offset>7FC5FEC0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-FC-03-00-00-00-00-80-3F-C4-C1-7A-10-8F-FC-03-00-00-E9-11-3D-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="stm">
+        <Cheatline>
+            <Offset>7FC5FF10</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-D8-00-00-00-00-00-C8-42-E9-C2-E7-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="wronf thirst">
+        <Cheatline>
+            <Offset>7FC5FF40</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-70-02-00-00-00-00-C8-42-E9-7F-1C-D9-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Thirst ">
+        <Cheatline>
+            <Offset>7FC5FF40</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-70-02-00-00-00-00-7A-44-E9-7F-1C-D9-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Sleep">
+        <Cheatline>
+            <Offset>7FC5FD00</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-98-02-00-00-00-00-7A-44-E9-18-1F-D9-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Hunger">
+        <Cheatline>
+            <Offset>7FC5FCD0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-48-02-00-00-00-00-7A-44-E9-96-1E-D9-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="hp">
+        <Cheatline>
+            <Offset>46098</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-46-64</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="hp1">
+        <Cheatline>
+            <Offset>46129</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-46-64</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="health">
+        <Cheatline>
+            <Offset>7FC5FC60</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-64-00-00-C8-42-E9-31-E4-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="health 2">
+        <Cheatline>
+            <Offset>7FC5FC10</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-64-00-00-C8-42-E9-12-E5-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="COINS">
+        <Cheatline>
+            <Offset>7FC5FBD0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-F0-03-00-00-D0-07-00-00-E9-F6-01-04-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="coins on sell">
+        <Cheatline>
+            <Offset>7FC5FB20</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-F0-03-00-00-D0-07-00-00-E9-A1-FF-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="max stm">
+        <Cheatline>
+            <Offset>7FC5FF90</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-CC-00-00-00-00-00-C8-42-E9-8D-EB-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="max stm2">
+        <Cheatline>
+            <Offset>7FC5FF90</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-CC-00-00-00-00-00-00-00-E9-8D-EB-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HPPPPP1">
+        <Cheatline>
+            <Offset>7FC5FE40</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-64-00-00-C8-42-E9-88-F6-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="hpppp2">
+        <Cheatline>
+            <Offset>7FC5FE50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-64-00-00-C8-42-E9-D3-55-B6-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="max hp2">
+        <Cheatline>
+            <Offset>7FC5FE00</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-54-00-00-00-00-E9-93-0F-D2-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="inf hpp">
+        <Cheatline>
+            <Offset>7FC5FE70</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-BE-C8-00-00-00-01-75-0A-41-C7-46-64-00-00-C8-42-EB-06-C4-C1-7A-11-46-64-E9-A0-E2-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="durability">
+        <Cheatline>
+            <Offset>7FC5F940</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-74-01-00-00-00-00-96-43-E9-A9-34-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="NoCool down">
+        <Cheatline>
+            <Offset>7FC5FE30</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-E8-03-00-00-00-00-00-00-E9-99-B1-C0-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Tempetar">
+        <Cheatline>
+            <Offset>7FC5FD90</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-D8-C7-00-00-00-48-42-E9-0D-22-D9-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Mana">
+        <Cheatline>
+            <Offset>7FC5FD70</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-B0-00-00-00-00-00-48-43-E9-47-EA-D1-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="ammo">
+        <Cheatline>
+            <Offset>7FC5FD30</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-90-D8-01-00-00-41-C6-47-3C-14-E9-2B-B7-03-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

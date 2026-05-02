@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA33388",
+  "version": "01.10",
+  "name": "Resident Evil 4 Remake",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA33388"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA33388_01.10.mc4. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA33388_01.10.json",
+      "size": 4330,
+      "sha256": "9b3caa12fd52d5a24f2fc1daaa572659339e6c04f50ff90251814951f694c573",
+      "cheatCount": 15,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA33388_01.10.mc4. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA33388_01.10.shn",
+      "size": 4557,
+      "sha256": "41cb81af06852626271f0faa8328d6322b04a288d26b0bbeee33896177f9a9c7",
+      "cheatCount": 15,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA33388_01.10.mc4. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA33388_01.10.mc4",
+      "size": 6080,
+      "sha256": "26e3ca3715392807438154006cba3536914f1a90b345eb4828c04cd2469036b1",
+      "cheatCount": 15,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA33388_01.10.mc4. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

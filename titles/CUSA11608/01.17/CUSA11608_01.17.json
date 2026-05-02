@@ -1,0 +1,43 @@
+{
+  "name": "FIFA 19",
+  "id": "CUSA11608",
+  "version": "01.17",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Score (at training )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CEBB40",
+          "on": "01CAC740287F969800E94CC153FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "4227C95",
+          "on": "E9A63EAC02",
+          "off": "01CA895028"
+        }
+      ]
+    },
+    {
+      "name": "Max Budget (after buying a Player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6CEBE30",
+          "on": "F77918C707FFC99A3BE99833FCFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "4CAF1D1",
+          "on": "E95ACC0302",
+          "off": "F779182907"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

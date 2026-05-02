@@ -1,0 +1,139 @@
+{
+  "name": "Mortal Kombat X",
+  "id": "CUSA00967",
+  "version": "01.14",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "P1 Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD7819",
+          "on": "81FBF00665FF0F846D0237FDC5FA1193380A0000E9600237FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "147A8A",
+          "on": "E98AFDC802909090",
+          "off": "C5FA1193380A0000"
+        }
+      ]
+    },
+    {
+      "name": "P1 Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD7800",
+          "on": "81FBF00665FF0F84860237FDC5FA11B3380A0000E9790237FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "147A8A",
+          "on": "E971FDC802909090",
+          "off": "C5FA1193380A0000"
+        }
+      ]
+    },
+    {
+      "name": "P1 Infinite X-Ray",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD7832",
+          "on": "81FB00C0A816750FC7838C0200000000803FE95DA769FDC5FA11838C020000E950A769FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "471F9E",
+          "on": "E98F589602909090",
+          "off": "C5FA11838C020000"
+        }
+      ]
+    },
+    {
+      "name": "P1 Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD7856",
+          "on": "4181FF44C2A8160F8403936AFDC4C17A1107E9F9926AFD",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "480B61",
+          "on": "E9F06C9502",
+          "off": "C4C17A1107"
+        }
+      ]
+    },
+    {
+      "name": "Max Krypt Koins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD786D",
+          "on": "0F48DFBB7F96980041895908E90B7556FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "33ED82",
+          "on": "E9E68AA9029090",
+          "off": "0F48DF41895908"
+        }
+      ]
+    },
+    {
+      "name": "Max Fatality Koins + Skip Koins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD787E",
+          "on": "440F4EE9B97F969800E90EB27CFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "5A2A93",
+          "on": "E9E64D83029090",
+          "off": "440F4EE94429E9"
+        },
+        {
+          "offset": "2DD788C",
+          "on": "41BF7F9698004489BC98F4870A00E917B37CFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5A2BAE",
+          "on": "E9D94C8302909090",
+          "off": "4401BC98F4870A00"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer - Tower + Story",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "369432",
+          "on": "90909090909090",
+          "off": "41898F48190000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer - Test your Might",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EBD89F",
+          "on": "9090",
+          "off": "891A"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

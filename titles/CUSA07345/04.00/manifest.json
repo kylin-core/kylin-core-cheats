@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07345",
+  "version": "04.00",
+  "name": "Ni no Kuni™ II: Revenant Kingdom",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07345"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07345_04.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07345_04.00.json",
+      "size": 1675,
+      "sha256": "49ea374c571be82c7e3fca2702e8b86f452f317396b422b96a77223fcf536daa",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07345_04.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07345_04.00.shn",
+      "size": 1594,
+      "sha256": "97d02ac95518a30d20c554c36ce34288bd3c565c7d9f473ace085d0157443d98",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07345_04.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07345_04.00.mc4",
+      "size": 2136,
+      "sha256": "87d498eed107c2a2bd41349d98e3093c51e0221046185732ec3f4c7af3efe9f4",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07345_04.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

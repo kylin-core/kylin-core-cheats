@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04713",
+  "version": "01.00",
+  "name": "Super Robot Wars OG The Moon Dwellers",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04713"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04713_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04713_01.00.json",
+      "size": 812,
+      "sha256": "acb21daa031c6124fd9776909d474a3a3c2b66c2b888399add3ac9ef17cf0ee4",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04713_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04713_01.00.shn",
+      "size": 1103,
+      "sha256": "ec01dc0d8bf9126d0cb9249e3bb5cc9eb01dba2c8a79dac449a8cb5687ed55e2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04713_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04713_01.00.mc4",
+      "size": 1472,
+      "sha256": "904da4b09fb7f3163bb07a581c4fe625c356e8a7ec5fc7d750c93e5b58263745",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04713_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10738",
+  "version": "01.00",
+  "name": "Mega Man 11",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10738"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10738_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10738_01.00.json",
+      "size": 749,
+      "sha256": "534d0cf69caa1326a2f3ace8515457628ce89ad45d4d82e241ce3acd12fbe5c0",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10738_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10738_01.00.shn",
+      "size": 894,
+      "sha256": "f9d6924e25a841c229901ccc057d65e27cf0d780bf122a588e2928f5ae56afdc",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10738_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10738_01.00.mc4",
+      "size": 1196,
+      "sha256": "f7ea4f8e8a2cd6e59602642940cb242e5c544dec5f49a601349be64be0fe1745",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10738_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

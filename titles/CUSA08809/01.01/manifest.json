@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08809",
+  "version": "01.01",
+  "name": "SHADOW OF THE COLOSSUS™",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08809"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08809_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08809_01.01.json",
+      "size": 605,
+      "sha256": "507335078403550a36f6e9ebd0ec5d05030e4aa5da42e68a7690a0e30cdcb3cd",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08809_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08809_01.01.shn",
+      "size": 860,
+      "sha256": "006cbca636eee688df25acaafa8e8c68c65832aecedfdbaad6e8b5b18ecf1a20",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08809_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08809_01.01.mc4",
+      "size": 1152,
+      "sha256": "b1eb8a4a9e1788f504feaa4ef12025ff44cba53d1d7b230db900045fe3d4eb63",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08809_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

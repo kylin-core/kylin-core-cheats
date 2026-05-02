@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA26458",
+  "version": "01.06",
+  "name": "Saints Row",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA26458"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA26458_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA26458_01.06.json",
+      "size": 1463,
+      "sha256": "b0b49cd1b9d8e2cda400435c6d544d42bfbe85c3181309f34936be8218731c6b",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA26458_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA26458_01.06.shn",
+      "size": 1635,
+      "sha256": "2fd54ec91c4bd92aafc48daece8be83bac3664a92eb4c3fc671bcff20143a939",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA26458_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA26458_01.06.mc4",
+      "size": 2200,
+      "sha256": "745e89b4c84e493341e238d4385ae9f18b62e143856a33b615a0ed55ce78fcd5",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA26458_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

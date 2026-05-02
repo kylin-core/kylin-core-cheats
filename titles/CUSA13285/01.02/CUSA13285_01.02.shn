@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hollow Knight" Moder="Saso" Cusa="CUSA13285" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP">
+        <Cheatline>
+            <Offset>1567DD0</Offset>
+            <Section>0</Section>
+            <ValueOn>89-C1-C1-F9-1F-41-8B-46-30-E9-6B-C4-C8-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Geos">
+        <Cheatline>
+            <Offset>1567E40</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-FF-FF-00-00-89-79-60-E9-42-08-9F-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

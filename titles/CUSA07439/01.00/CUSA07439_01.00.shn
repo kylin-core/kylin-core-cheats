@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DARK SOULS™ III: The Fire Fades™ Edition" Moder="Shiningami+Rizla" Cusa="CUSA07439" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>473F824</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-88-DC-00-00-00</ValueOn>
+            <ValueOff>8B-88-D8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic">
+        <Cheatline>
+            <Offset>473F80C</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-88-E8-00-00-00</ValueOn>
+            <ValueOff>8B-88-E4-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>473F818</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-88-F4-00-00-00</ValueOn>
+            <ValueOff>8B-88-F0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>473F83C</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-80-C0-18-00-00-48-8B-40-18-48-3B-05-B2-47-4C-FB-0F-84-8E-95-AA-FC-C7-80-D8-00-00-00-02-00-00-00-E9-7F-95-AA-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Souls">
+        <Cheatline>
+            <Offset>473F863</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-FF-C9-9A-3B-89-50-74-29-CA-E9-86-77-91-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Weapon Durability">
+        <Cheatline>
+            <Offset>473F884</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-00-00-00-00-89-77-14-C3-90-E9-62-75-B6-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Armour Durability">
+        <Cheatline>
+            <Offset>473F8E6</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-00-00-00-00-89-77-14-C3-90-E9-30-6D-B6-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items on Use">
+        <Cheatline>
+            <Offset>473F872</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BD-63-00-00-00-44-89-6B-08-45-85-ED-E9-D8-7B-50-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Effects">
+        <Cheatline>
+            <Offset>473F893</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-DF-B9-E7-03-00-00-89-4B-10-E9-6F-AF-8C-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

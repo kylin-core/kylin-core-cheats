@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05725",
+  "version": "04.00",
+  "name": "The Witcher 3 Wild Hunt",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05725"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_04.00.json. Other candidate files skipped: 4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05725_04.00.json",
+      "size": 13265,
+      "sha256": "415242148652b71377029b074da22d0bb01619e8e49c3c16fa1a6fd0b5bff838",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_04.00.json. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05725_04.00.shn",
+      "size": 10538,
+      "sha256": "d40eff5a6166606e350c02383fbac267183d837de8f90f05e66c9bbaf3ef3dbb",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_04.00.json. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05725_04.00.mc4",
+      "size": 14060,
+      "sha256": "dcd884a5785bf0e828206bcb66d819b914ad628ffb5e77533554988a06a183db",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_04.00.json. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

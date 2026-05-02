@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00326",
+  "version": "01.06",
+  "name": "Oddworld: Abe's Oddysee - New 'n' Tasty",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00326"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00326_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00326_01.06.json",
+      "size": 594,
+      "sha256": "a4a50e4215908c8b179178342adf3900fb558a3436804a521cef32058e4190cc",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00326_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00326_01.06.shn",
+      "size": 845,
+      "sha256": "53864cbf2175dbe85e9a946ad2d43a886a17de6c97502940b444a2fb589c8b47",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00326_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00326_01.06.mc4",
+      "size": 1132,
+      "sha256": "81660a6e9518f9839c43994ba6adba1badbdfe17920d655256de6be5def7a054",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00326_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

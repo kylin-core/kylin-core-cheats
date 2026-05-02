@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10811",
+  "version": "01.05",
+  "name": "Graveyard Keeper",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10811"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10811_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10811_01.05.json",
+      "size": 1960,
+      "sha256": "cc489460c6e50222eac2b49dbbab50bafa6f0b0fd087f64e29c35bbc00be0617",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10811_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10811_01.05.shn",
+      "size": 1904,
+      "sha256": "ddf919c82026a8d1eb9b33033c330ba56729a939bc5a5c8f9504f2d526983d41",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10811_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10811_01.05.mc4",
+      "size": 2560,
+      "sha256": "b7b1d000ebaa7eda7555af9e3fb58de5f5dacd4223cda1650cc8f0373595c6d9",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10811_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

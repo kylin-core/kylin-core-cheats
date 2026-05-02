@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05933",
+  "version": "01.04",
+  "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+  "process": "kingdom1.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05933"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05933_01.04_kingdom1.elf.json. Other candidate files skipped: 5.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05933_01.04.json",
+      "size": 2828,
+      "sha256": "dd9ea6bfd9397a33bdb80316475d8bb7571987a71ccc5ec343fca24a78cefd63",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05933_01.04_kingdom1.elf.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05933_01.04.shn",
+      "size": 2912,
+      "sha256": "0a0fc42ccc1cd2ed15caa3c4f93751343c5398aec72477d8e9de20e26f82305e",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05933_01.04_kingdom1.elf.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05933_01.04.mc4",
+      "size": 3904,
+      "sha256": "adca1d0d330a6f558a898039e1d98d1bc05d63c910c1187f3fafb6c74dcdc0a8",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05933_01.04_kingdom1.elf.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

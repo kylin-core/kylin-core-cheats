@@ -1,0 +1,54 @@
+{
+  "name": "Assault Android Cactus",
+  "id": "CUSA01193",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125FAC0",
+          "on": "41C785A00100000000C040E96BF4EC7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8012EF32",
+          "on": "E9890B138190909090",
+          "off": "C4C17A1185A0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Battery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125FDB0",
+          "on": "41C78424BC00000000004842E9388A0D7F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "803387EF",
+          "on": "E9BC75F2809090909090",
+          "off": "C4C17A118424BC000000"
+        }
+      ]
+    },
+    {
+      "name": "No Coodown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C519B",
+          "on": "9090909090909090",
+          "off": "C5FA1183C0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

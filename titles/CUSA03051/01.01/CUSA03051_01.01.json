@@ -1,0 +1,70 @@
+{
+  "name": "GUNS GORE AND CANNOLI",
+  "id": "CUSA03051",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "227B894",
+          "on": "41837E6C02750BF3450F107E0CE904D4B1FEF3450F11BE18030000E9F6D3B1FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D98CA1",
+          "on": "E9EE2B4E0190909090",
+          "off": "F3450F11BE18030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Health-One-Hit-Kill-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "227B91F",
+          "on": "41837E6C02750BF3450F107E0CE979D3B1FEF3410F118618030000E96BD3B1FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D98CA1",
+          "on": "E9792C4E01",
+          "off": "E9572C4E01"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DD06F",
+          "on": "90909090",
+          "off": "49637F20"
+        },
+        {
+          "offset": "9DC92D",
+          "on": "90909090",
+          "off": "4189471C"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "998C89",
+          "on": "909090909090",
+          "off": "F30F10442408"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

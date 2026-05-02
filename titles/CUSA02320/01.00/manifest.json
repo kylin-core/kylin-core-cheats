@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02320",
+  "version": "01.00",
+  "name": "Uncharted: The Nathan Drake Collection™",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02320"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02320_01.00.json. Other candidate files skipped: 5.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02320_01.00.json",
+      "size": 1410,
+      "sha256": "7d212cb7192bf8fc18d3f0b7f8288eb3b7c3423cfcf4a55e124a3b2fe7544a80",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02320_01.00.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02320_01.00.shn",
+      "size": 1625,
+      "sha256": "a98408e1b6843fe07afedf297c4506cbdf03fc31324a43b22bda5a563bd0bd1a",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02320_01.00.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02320_01.00.mc4",
+      "size": 2176,
+      "sha256": "afb8d6bc3ff618bd8832e201ec13c0c398894faaa77f197448c24e51d03b2be7",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02320_01.00.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Shantae Riskys Revenge Directors Cut",
+  "id": "CUSA01587",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FBFF8",
+          "on": "9090909090",
+          "off": "E8A370F5FF"
+        }
+      ]
+    },
+    {
+      "name": "MAX-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C1B800",
+          "on": "6641B8FFE0664489447704E9558886FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "48405F",
+          "on": "E99C77790090",
+          "off": "664489447704"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

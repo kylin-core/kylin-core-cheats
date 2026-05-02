@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA17602",
+  "version": "01.00",
+  "name": "Planet Coaster",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA17602"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17602_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA17602_01.00.json",
+      "size": 521,
+      "sha256": "ba492e6b5d4b681a2b0aaea0d8ee409cbd184f806335918dcaaf5dbb9552eaa2",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17602_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA17602_01.00.shn",
+      "size": 623,
+      "sha256": "4ee80d5a5ef08b70aa022bd34b1b59efb80689036d399abb2b38b9c76a257b74",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17602_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA17602_01.00.mc4",
+      "size": 832,
+      "sha256": "f001841a6f71ebf81fb861333c8b69dccbf3e0493daddfeb71784b320097945b",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17602_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

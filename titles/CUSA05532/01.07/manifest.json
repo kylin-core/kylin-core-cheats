@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05532",
+  "version": "01.07",
+  "name": "FINAL FANTASY Ⅻ THE ZODIAC AGE",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05532"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05532_01.07.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05532_01.07.json",
+      "size": 10124,
+      "sha256": "79b48bce6200eac6cd9c80dbcbe302585230679efbf2dabffe89561d855f4831",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05532_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05532_01.07.shn",
+      "size": 9496,
+      "sha256": "0f9e4c030af2082cfa79233b7f03667891d440b400e58a92802963322a4a147d",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05532_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05532_01.07.mc4",
+      "size": 12672,
+      "sha256": "2c4d590b5ba5bb032b1cc6481c3e146e1a22d7d81d87f1b5b4fa73a40b1d1ae2",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05532_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

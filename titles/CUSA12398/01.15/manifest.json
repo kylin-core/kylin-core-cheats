@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12398",
+  "version": "01.15",
+  "name": "The Forest",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12398"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12398_01.15.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12398_01.15.json",
+      "size": 6514,
+      "sha256": "9e17c860aaf94b02b9a1bac3bf06eaaf3dba808a4fb5ec5504c1de173079647c",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12398_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12398_01.15.shn",
+      "size": 4611,
+      "sha256": "de5c5600af93d643aec48c99341c912ee7ce82e80873ccb8ecc8237e1de6d3e6",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12398_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12398_01.15.mc4",
+      "size": 6168,
+      "sha256": "730fca69a4becff1c49d4dfde740e97be37f24a2c7728834597d6b1ed511f214",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12398_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

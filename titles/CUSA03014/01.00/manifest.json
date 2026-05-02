@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03014",
+  "version": "01.00",
+  "name": "Bloodborne",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03014"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03014_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03014_01.00.json",
+      "size": 385,
+      "sha256": "7c3685876e7b4075e8638989c698835d83e9d55d32bbfd817bf337493ab27a81",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03014_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03014_01.00.shn",
+      "size": 568,
+      "sha256": "747652be42a053f3352c63157f223f74c9891ac5d1306d655102e217ca7aeef7",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03014_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03014_01.00.mc4",
+      "size": 768,
+      "sha256": "88af08a86f369e339685d7904fe98068f9f6883b51f6dd2394bfaeeea10e9d81",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03014_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

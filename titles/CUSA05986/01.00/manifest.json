@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05986",
+  "version": "01.00",
+  "name": "Need for Speed Payback",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05986"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05986_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05986_01.00.json",
+      "size": 1478,
+      "sha256": "9b70984758fc229c043be63c921dc52af0fd1edd7a04e6c76dcf1f2cd81b0aab",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05986_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05986_01.00.shn",
+      "size": 1509,
+      "sha256": "4f54a4635db2854216a6863eee83cb23f223af3a2e3f928f01c7f8fecac6bf1c",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05986_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05986_01.00.mc4",
+      "size": 2028,
+      "sha256": "21bc01a34ae812df81b4c23f1fe3547684ef9526ef4b5492ee6ef1991c53169c",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05986_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

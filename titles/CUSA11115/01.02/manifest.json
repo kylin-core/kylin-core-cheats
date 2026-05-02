@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11115",
+  "version": "01.02",
+  "name": "Team Sonic Racing",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11115"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11115_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11115_01.02.json",
+      "size": 1448,
+      "sha256": "5c03ae15a9531a221c44f0fb1c02728bd137887bff17df5bce4f1161fd22a3bb",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11115_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11115_01.02.shn",
+      "size": 1728,
+      "sha256": "e6c88e76850cf18524241fa10ab3f2ba39b810f6ac58e58c26ee4ce849751531",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11115_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11115_01.02.mc4",
+      "size": 2328,
+      "sha256": "6224e34cadf84b0f5859c9cc4fa15943b15d742b73d1743e576a0bb1de96d7ab",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11115_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

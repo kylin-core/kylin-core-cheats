@@ -1,0 +1,76 @@
+{
+  "name": "Senran Kagura - Peach Beach Splash",
+  "id": "CUSA08343",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CF826",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CF827",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Water",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A2FCD",
+          "on": "90909090",
+          "off": "C5FA5CC1"
+        },
+        {
+          "offset": "1B1DB5",
+          "on": "EB129090",
+          "off": "C5F82EC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lifes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CF800",
+          "on": "B80F270000898774070000C3",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "13B620",
+          "on": "E9DB41790090",
+          "off": "8B8774070000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9DACD",
+          "on": "898808400000",
+          "off": "89B808400000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

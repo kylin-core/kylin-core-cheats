@@ -1,0 +1,43 @@
+{
+  "name": "STAR WARS Jedi: Survivor?",
+  "id": "CUSA33778",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4317DF0",
+          "on": "817B0848000400750FC7838C01000000009643E9B6493EFCC5FA11838C010000E9A9493EFC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6FC7B6",
+          "on": "E935B6C103909090",
+          "off": "C5FA11838C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Force (when pushing and pulling)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4317E60",
+          "on": "C7834C01000000007A43E95977D2FC57616E646572204657392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "103F5C0",
+          "on": "E99B882D03909090",
+          "off": "C5FA11834C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

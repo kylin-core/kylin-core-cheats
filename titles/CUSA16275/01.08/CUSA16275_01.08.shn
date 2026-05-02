@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blasphemous" Moder="Celogamez" Cusa="CUSA16275" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>157FEA0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-F4-B2-7F-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Invincibility">
+        <Cheatline>
+            <Offset>157FF40</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-73-36-80-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Fervor">
+        <Cheatline>
+            <Offset>157FE00</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-53-FC-82-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Health/Fervor/Blood Penitence On Use">
+        <Cheatline>
+            <Offset>157FF50</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-F9-90-4D-75-0C-C7-47-48-00-3C-1C-46-E9-CD-8F-67-7F-C5-FA-11-47-48-E9-C3-8F-67-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

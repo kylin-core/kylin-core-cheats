@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00309",
+  "version": "01.07",
+  "name": "inFAMOUS Second Son",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00309"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00309_01.07.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00309_01.07.json",
+      "size": 2115,
+      "sha256": "3922986695e794a82983fc551a769e193b0392aa2ff80d2ed21ccdc14f6e21be",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00309_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00309_01.07.shn",
+      "size": 2023,
+      "sha256": "8d3a5b49af391b193629ec9a4ce7a6c76a4bcc705900d794a3ab043e48afee2c",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00309_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00309_01.07.mc4",
+      "size": 2712,
+      "sha256": "7844af7969cd15ba70e543d22bfbdbf72fe27c640f903adf96ad35a55cea28b6",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00309_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

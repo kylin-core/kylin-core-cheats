@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03005",
+  "version": "01.00",
+  "name": "Call of Duty®: Black Ops III",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03005"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03005_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03005_01.00.json",
+      "size": 362,
+      "sha256": "dd3ee1b36b335a2a252a58002d93183cb0bb93b40b7b0591a0889b6a9f91decc",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03005_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03005_01.00.shn",
+      "size": 557,
+      "sha256": "572f1a3dd3314a20fe7747d52d856220350523933bc6483717f9b26f30608187",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03005_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03005_01.00.mc4",
+      "size": 748,
+      "sha256": "e332842cb5720b1d52b2325b66e0486fcf1511751e10089685435f497b7667ec",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03005_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

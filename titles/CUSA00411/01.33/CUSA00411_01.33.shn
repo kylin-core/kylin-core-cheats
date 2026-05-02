@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto V" Moder="k0s0ng" Cusa="CUSA00411" Version="01.33" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Invincible [On]">
+        <Cheatline>
+            <Offset>02E55140</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-58-01-00-00-FC-09-40-00-C4-C1-78-2E-86-50-02-00-00-E9-F8-4A-E2-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Invincible [Off]">
+        <Cheatline>
+            <Offset>02E55140</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-58-01-00-00-0C-00-40-00-C4-C1-78-2E-86-50-02-00-00-E9-F8-4A-E2-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Full Player Health">
+        <Cheatline>
+            <Offset>02E55159</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-80-54-02-00-00-C5-FA-11-80-50-02-00-00-E9-B7-64-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Full Player Armor">
+        <Cheatline>
+            <Offset>14409C</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-B7-64-14-00-00</ValueOn>
+            <ValueOff>C5-FA-10-87-64-14-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Full Player Special Ability">
+        <Cheatline>
+            <Offset>02E5516E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-3C-C5-FA-11-4B-34-E9-B2-8C-96-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Full Player Oxygen">
+        <Cheatline>
+            <Offset>02E5517D</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-46-10-C4-C1-7A-11-46-04-E9-34-98-92-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Player Stamina">
+        <Cheatline>
+            <Offset>02E5518E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-8B-84-0C-00-00-C5-FA-11-8B-80-0C-00-00-E9-CF-DA-96-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>02E551A3</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-DA-4F-6A-FF-66-C7-41-1C-E8-03-8B-41-1C-E9-A7-4F-6A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>015E1830</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Vehicle Engine Durable [On]">
+        <Cheatline>
+            <Offset>02E55287</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-58-01-00-00-FC-09-40-00-C5-FA-10-93-98-08-00-00-E9-85-AF-62-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Vehicle Engine Durable [Off]">
+        <Cheatline>
+            <Offset>02E55287</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-58-01-00-00-0C-00-40-00-C5-FA-10-93-98-08-00-00-E9-85-AF-62-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Run Speed Faster [1.5]">
+        <Cheatline>
+            <Offset>02E55225</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-B8-05-00-00-00-00-C0-3F-C5-FA-10-83-50-02-00-00-E9-77-B2-96-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Swim Speed Faster [2.5]">
+        <Cheatline>
+            <Offset>02E552B4</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-BC-05-00-00-00-00-20-40-C5-FA-10-80-54-02-00-00-E9-6D-63-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Powerful Shot [On]">
+        <Cheatline>
+            <Offset>02E55255</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-94-0C-00-00-00-00-80-7F-C4-C1-7A-10-84-24-84-0C-00-00-E9-E9-04-97-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Shot Power [Normal-Off]">
+        <Cheatline>
+            <Offset>02E55255</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-94-0C-00-00-00-00-80-3F-C4-C1-7A-10-84-24-84-0C-00-00-E9-E9-04-97-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Power Punch [On]">
+        <Cheatline>
+            <Offset>02E55270</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-A4-0C-00-00-00-50-C3-47-C5-FA-10-87-84-0C-00-00-E9-5C-6A-D9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Power Punch [Normal-Off]">
+        <Cheatline>
+            <Offset>02E55270</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-A4-0C-00-00-00-00-80-3F-C5-FA-10-87-84-0C-00-00-E9-5C-6A-D9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Wanted Star Level">
+        <Cheatline>
+            <Offset>02E551B7</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-44-87-98-00-00-00-83-BF-98-00-00-00-00-75-05-E9-FF-B6-24-FD-C7-87-90-00-00-00-00-00-00-00-C7-87-94-00-00-00-00-00-00-00-C7-87-98-00-00-00-00-00-00-00-E9-DC-B6-24-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Remove Noise On Wanted">
+        <Cheatline>
+            <Offset>63C380</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Have 2.1 B Money [Dont Freez It]">
+        <Cheatline>
+            <Offset>02E551EF</Offset>
+            <Section>0</Section>
+            <ValueOn>81-F9-70-DB-01-00-74-12-81-F9-20-16-00-00-74-0A-81-F9-80-CF-03-00-74-02-EB-10-48-8D-47-0C-C7-47-0C-FF-4F-44-64-33-47-0C-EB-00-48-8D-47-0C-33-47-0C-E9-52-D2-63-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump {On}">
+        <Cheatline>
+            <Offset>02E5529E</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-86-68-10-00-00-C7-80-20-02-00-00-00-40-00-00-E9-96-05-BC-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Explosive Ammo {On}">
+        <Cheatline>
+            <Offset>02E5529E</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-86-68-10-00-00-C7-80-20-02-00-00-00-08-00-00-E9-96-05-BC-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump-Expl. Ammo {On}">
+        <Cheatline>
+            <Offset>02E5529E</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-86-68-10-00-00-C7-80-20-02-00-00-00-48-00-00-E9-96-05-BC-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05282",
+  "version": "01.00",
+  "name": "COD: Infinite Warfare",
+  "process": "default.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05282"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05282_01.00_default.elf.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05282_01.00.json",
+      "size": 1769,
+      "sha256": "8497a4f89c034351467871b47bcc770bb3e62568628a76b174a51da5cafe988e",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05282_01.00_default.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05282_01.00.shn",
+      "size": 2072,
+      "sha256": "10e374258d79e612fa29b91cc94dac4ab16e64e8a5eccd483715ce1dad37b2f8",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05282_01.00_default.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05282_01.00.mc4",
+      "size": 2776,
+      "sha256": "dcbd3a80d4c5c3e1d4744f67783f7ec95d8d0c7811e0b856c423ffb0c8a2a790",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05282_01.00_default.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

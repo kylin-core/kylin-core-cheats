@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA27043",
+  "version": "01.10",
+  "name": "Dead Island 2 Gold Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA27043"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27043_01.10.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA27043_01.10.json",
+      "size": 3320,
+      "sha256": "f9407a8c6da2cae4fbe4575584a849aa64b103035a657feba1b36ae0f896af21",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27043_01.10.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA27043_01.10.shn",
+      "size": 3167,
+      "sha256": "c4a2075159d311a973c21f00cde2a879944122616de592bf430d2a16e24eba49",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27043_01.10.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA27043_01.10.mc4",
+      "size": 4224,
+      "sha256": "c8738103d0039a33a1c1d8b9349adc91749f12079563be5337ceb87cf6039fdf",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27043_01.10.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

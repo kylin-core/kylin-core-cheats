@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA14000",
+  "version": "01.00",
+  "name": "Ghoulboy",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA14000"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14000_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA14000_01.00.json",
+      "size": 2131,
+      "sha256": "6681567a4c7e70a14848bde8fca67a74f6a6dab39dc5b2f0e2d2672c69817782",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14000_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA14000_01.00.shn",
+      "size": 2025,
+      "sha256": "ebfdf3501b593bb4077856a49f8d50b889de40233cb37f6e66116daba74e131d",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14000_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA14000_01.00.mc4",
+      "size": 2712,
+      "sha256": "0c0e478d5d702d5ab4b0029517100689f533454d0f1ff3e28fe26712630332d0",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14000_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

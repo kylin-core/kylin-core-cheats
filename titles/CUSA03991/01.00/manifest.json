@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03991",
+  "version": "01.00",
+  "name": "Dying Light",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03991"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03991_01.00.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03991_01.00.json",
+      "size": 2150,
+      "sha256": "4b4d8fad05f7d7e6d1f81355cf6f2e9f1db3ab5873a2288d9356668ef97a2061",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03991_01.00.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03991_01.00.shn",
+      "size": 2307,
+      "sha256": "36a622a448bb743c3a7ec109335e4818eb41b475ff2e814556121a1de475dbb3",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03991_01.00.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03991_01.00.mc4",
+      "size": 3096,
+      "sha256": "4151f1ad89a7a0a0ba586a4b6b41da44fdd467cc24272b66c01a8f9fb759026a",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03991_01.00.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

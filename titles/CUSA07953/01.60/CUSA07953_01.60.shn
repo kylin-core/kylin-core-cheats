@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodstained Ritual of the Night" Moder="Bandicootmonito " Cusa="CUSA07953" Version="01.60" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health + One hit kill">
+        <Cheatline>
+            <Offset>CFDF800</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F9-00-0F-85-8F-E1-E4-F8-B8-00-00-00-00-89-83-40-02-00-00-E9-7F-E1-E4-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic">
+        <Cheatline>
+            <Offset>CFDF81C</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-44-02-00-00-3F-42-0F-00-E9-8B-FB-E4-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Gold x999999">
+        <Cheatline>
+            <Offset>CFDF82D</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-30-04-00-00-3F-42-0F-00-E9-1B-87-ED-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items x99 (Need 2 to work)">
+        <Cheatline>
+            <Offset>CFDF83E</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-42-48-63-00-00-00-E9-F3-F2-E0-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Bullets x99">
+        <Cheatline>
+            <Offset>CFDF84C</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-48-63-00-00-00-E9-29-43-E1-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

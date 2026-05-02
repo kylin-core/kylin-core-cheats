@@ -1,0 +1,65 @@
+{
+  "name": "Skul the Hero Slayer",
+  "id": "CUSA27430",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "199BDB0",
+          "on": "837F4C00740690E9844CE97EE8EF4CE97EE97A4CE97E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80830A3B",
+          "on": "E970B31681",
+          "off": "E870000000"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6EDB1F",
+          "on": "90909090",
+          "off": "41894710"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52E4F2",
+          "on": "909090",
+          "off": "FF4048"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Coins/Crystals/Bones (Disable After Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "199BBC0",
+          "on": "41C744241C9F860100E9CEFAA07F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "813AB697",
+          "on": "E924055F80",
+          "off": "458974241C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

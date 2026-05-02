@@ -1,0 +1,219 @@
+{
+  "name": "Spider-man miles morales",
+  "id": "CUSA17722",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max XP (use once)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F83800",
+          "on": "BB3C6D010041899EF0B90000E98F4902FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "FA8199",
+          "on": "E962B6FD039090",
+          "off": "41899EF0B90000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F83813",
+          "on": "81BBD00000000000803F751B4983FC087515C5FA109380000000C5FA119388000000E90EC934FDC5FA119388000000E901C934FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22D0140",
+          "on": "E9CE36CB02909090",
+          "off": "C5FA119388000000"
+        }
+      ]
+    },
+    {
+      "name": "Max skill points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F83849",
+          "on": "B8630000008981F8B90000E9452402FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "FA5C98",
+          "on": "E9ACDBFD0390",
+          "off": "2981F8B90000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Web-shooters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F8385B",
+          "on": "B81000000041894738E9D90338FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2303C39",
+          "on": "E91DFCC70290909090",
+          "off": "4189473841804F0804"
+        }
+      ]
+    },
+    {
+      "name": "Inf Finisher",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F8387A",
+          "on": "B80100000041894760E96AFDC0FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "B935EA",
+          "on": "E98B023F04909090",
+          "off": "45896678418B4760"
+        }
+      ]
+    },
+    {
+      "name": "Invincible ON",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F8388A",
+          "on": "41C6455101C4C1782E4551E9F690C8FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "C0C987",
+          "on": "E9FE6E370490909090",
+          "off": "C4C1782E8588000000"
+        }
+      ]
+    },
+    {
+      "name": "Invincible OFF (only use after turning off Invincible ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F8388A",
+          "on": "41C6455100C4C1782E4551E9F690C8FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "C0C987",
+          "on": "E9FE6E370490909090",
+          "off": "C4C1782E8588000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F8389C",
+          "on": "C74038E7030000E922ED38FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "23125C2",
+          "on": "E9D512C702909090",
+          "off": "4489683880480804"
+        }
+      ]
+    },
+    {
+      "name": "Inf Venom Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F838AA",
+          "on": "51B90000C842660F6EE159C4C17A11A4C50C010000E9DC3FC6FB",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BE7896",
+          "on": "E90FC039049090909090",
+          "off": "C4C17A11A4C50C010000"
+        }
+      ]
+    },
+    {
+      "name": "travesal challenge time set to 20 sec",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F838C6",
+          "on": "41C7010000A041C4C17A1001E9033EECFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E476D5",
+          "on": "E9ECC11303",
+          "off": "C4C17A1101"
+        }
+      ]
+    },
+    {
+      "name": "Inf Combat Challenge Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F838D9",
+          "on": "C7436400006C42C5FA104B64E90217A4FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "9C4FE7",
+          "on": "E9EDE85B04",
+          "off": "C5FA104B64"
+        }
+      ]
+    },
+    {
+      "name": "Inf Camouflage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F838EC",
+          "on": "41C786880100000000A041C4C17A108E88010000E918B3C3FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBEC14",
+          "on": "E9D34C3C0490909090",
+          "off": "C4C17A108E88010000"
+        }
+      ]
+    },
+    {
+      "name": "Instant camouflage refill ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F83907",
+          "on": "C4C17A1087A8010000C4C17A1187A0010000E9E0C6C3FB",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBFFF5",
+          "on": "E90D393C0490909090",
+          "off": "C4C17A1187A0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
+}

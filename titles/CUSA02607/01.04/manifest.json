@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02607",
+  "version": "01.04",
+  "name": "Sword Art Online - Hollow Fragment",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02607"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02607_01.04.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02607_01.04.json",
+      "size": 3510,
+      "sha256": "1fe69f15453f7aae9d71769faa42745b4b06cf5abf5e97604996d0cb8f7fa891",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02607_01.04.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02607_01.04.shn",
+      "size": 3498,
+      "sha256": "3911a7aaccb1eb5533799f036adb2100c7e06bf3bd70590e0dcfc6dfd7baa044",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02607_01.04.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02607_01.04.mc4",
+      "size": 4672,
+      "sha256": "e771093de7eda736f8a068116a1a94dce949d8f55e5c87ab427d85d913acade7",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02607_01.04.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

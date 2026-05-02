@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08877",
+  "version": "01.00",
+  "name": "FINAL FANTASY IX",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08877"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08877_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08877_01.00.json",
+      "size": 5052,
+      "sha256": "00b97e7939f15138e679a161fc136a42aa4f4a7c7d67e85397e850b11fad453f",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08877_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08877_01.00.shn",
+      "size": 2764,
+      "sha256": "4099cb71f66718adb6e6b9ebeec824346f5c88e3e03c587b12396f7b019c2834",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08877_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08877_01.00.mc4",
+      "size": 3692,
+      "sha256": "618b2b37bba0d17624a96e23dd8cc4834c4ca2fa4e1e8fdad158a6c836bc7003",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08877_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

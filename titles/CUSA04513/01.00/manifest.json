@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04513",
+  "version": "01.00",
+  "name": "Dead Rising",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04513"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04513_01.00.json. Other candidate files skipped: 3.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04513_01.00.json",
+      "size": 627,
+      "sha256": "0b90d888fd10b638624054879c84fabcbd1a7c385a34e1e78afd9f9fe4c82cd3",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04513_01.00.json. Other candidate files skipped: 3.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04513_01.00.shn",
+      "size": 834,
+      "sha256": "0a4314bd51cb802aed3b0afb8230ab85fc497aa2ff189ea067cd3827c4ccd071",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04513_01.00.json. Other candidate files skipped: 3.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04513_01.00.mc4",
+      "size": 1132,
+      "sha256": "b1afed9c03d9abe341f0859913edab5d14705307cf2fd6b187c51b124d18cb40",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04513_01.00.json. Other candidate files skipped: 3.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

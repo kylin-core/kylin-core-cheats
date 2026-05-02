@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bioshock Infinite: The Complete Edition" Moder="Celogamez" Cusa="CUSA03980" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max/Infinite Health">
+        <Cheatline>
+            <Offset>7FC5BFC0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-58-05-75-0F-C7-83-C0-35-00-00-00-00-FA-44-E9-08-18-C7-80-C5-FA-11-83-C0-35-00-00-E9-FB-17-C7-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Health+1 Hit Kill">
+        <Cheatline>
+            <Offset>7FC5BFC0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-58-05-75-0F-C7-83-C0-35-00-00-00-00-FA-44-E9-08-18-C7-80-C7-83-C0-35-00-00-00-00-00-00-E9-F9-17-C7-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>7FC5B340</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-87-1C-0A-00-00-63-E9-5A-0A-EE-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Salt">
+        <Cheatline>
+            <Offset>7FC5B9F0</Offset>
+            <Section>0</Section>
+            <ValueOn>29-D8-41-8B-47-68-E9-A3-A0-1B-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Money On Buy (Don't Take More Money)">
+        <Cheatline>
+            <Offset>7FC5B9D0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-64-9F-86-01-00-E9-06-9F-1B-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Lockpicks On Use">
+        <Cheatline>
+            <Offset>7FC5B910</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-89-FF-C7-43-74-E7-03-00-00-E9-ED-B4-1B-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,27 @@
+{
+  "name": "Teenage Mutant Ninja Turtles Mutants Unleashed",
+  "id": "CUSA44075",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8599F800",
+          "on": "4183BEF4000000027509458B6E0CE942F663FB4589AE84000000E936F663FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80FDEE4E",
+          "on": "E9AD099C049090",
+          "off": "4589AE84000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

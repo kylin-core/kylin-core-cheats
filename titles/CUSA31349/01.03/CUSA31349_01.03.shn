@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CRISIS CORE FINAL FANTASY VII REUNION" Moder="WanderFW9.00" Cusa="CUSA31349" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>5FBB970</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-BE-04-02-00-00-00-75-0D-41-C7-86-E8-01-00-00-0F-27-00-00-EB-07-41-89-86-E8-01-00-00-E9-75-61-D6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite MP">
+        <Cheatline>
+            <Offset>5FBB9C0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-F0-01-00-00-0F-27-00-00-E9-C9-4E-D6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite AP">
+        <Cheatline>
+            <Offset>5FBBA10</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-F8-01-00-00-0F-27-00-00-E9-49-4F-D6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Items (when use)">
+        <Cheatline>
+            <Offset>5FBBAD0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4F-C8-C6-46-02-0A-E9-34-4D-D6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gil (when Buying)">
+        <Cheatline>
+            <Offset>5FBBA50</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-3F-42-0F-00-03-B9-90-85-00-00-E9-6D-EB-D9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max SP (after first battle)">
+        <Cheatline>
+            <Offset>5FBBB10</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-8B-00-02-00-00-C7-40-0C-7F-96-98-00-E9-F7-44-D7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fast Leveling up (after 2nd or 3rd fight)">
+        <Cheatline>
+            <Offset>5FBBB60</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-4F-E1-D9-FA-BB-FF-E3-0B-54-03-58-04-E9-FC-DF-D9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

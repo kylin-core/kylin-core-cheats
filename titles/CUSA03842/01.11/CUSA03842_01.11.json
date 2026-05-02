@@ -1,0 +1,44 @@
+{
+  "name": "Resident Evil 7 Biohazard",
+  "id": "CUSA03842",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "506361D",
+          "on": "9090909090",
+          "off": "C5FA115024"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BD15D9",
+          "on": "90909090",
+          "off": "41894524"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "187A820",
+          "on": "909090909090",
+          "off": "898688000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

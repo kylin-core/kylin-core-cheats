@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08543",
+  "version": "01.00",
+  "name": "Bloody Zombies",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08543"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08543_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08543_01.00.json",
+      "size": 2362,
+      "sha256": "01ed5f0000ce1da7ffcf6b55a44899f07243e48f1a536ff535869fec9f2ae379",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08543_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08543_01.00.shn",
+      "size": 2616,
+      "sha256": "58d5e642c6d70ea8a619a80bd92f09839bc6ef93f85f40e356f603a3e8b2e798",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08543_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08543_01.00.mc4",
+      "size": 3500,
+      "sha256": "c04b60487ed65d369d4169eb85381185ec8d32adfe28e404cf15d61229e874c8",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08543_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

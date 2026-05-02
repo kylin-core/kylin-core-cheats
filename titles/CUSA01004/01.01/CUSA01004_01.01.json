@@ -1,0 +1,186 @@
+{
+  "name": "Sleeping Dogs",
+  "id": "CUSA01004",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B3800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B3801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Instant Health Regeneration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5A154B",
+          "on": "C5FA5FC9",
+          "off": "C5FA5DC9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BBAC4",
+          "on": "90909090909090",
+          "off": "4429B0C4030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4BBAC4",
+          "on": "4489A0C4030000",
+          "off": "4429B0C4030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "569F63",
+          "on": "89F290",
+          "off": "0F4FD6"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "569841",
+          "on": "89D190",
+          "off": "0F4FCA"
+        }
+      ]
+    },
+    {
+      "name": "Never Wanted",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B63BB",
+          "on": "0F57C09090",
+          "off": "C5FA1045EC"
+        }
+      ]
+    },
+    {
+      "name": "Easy Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B3852",
+          "on": "488B9810180000C5F82E830C060000760AC5FA1005553DDBFFEB08C5FA5D054B3DDBFFE9832A20FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4B62F5",
+          "on": "E958D5DF00909090",
+          "off": "C5FA5D05CB12BB00"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B387A",
+          "on": "4883F81374204883F814741A4883F81574144883F81D74154883F81E740F4883F81F7410740EB80A000000EB0EB810270000EB07B8F0550000EB008984B1CC020000EB078B8481CC020000E946251EFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "495E09",
+          "on": "E96CDAE1009090",
+          "off": "8B8481CC020000"
+        }
+      ]
+    },
+    {
+      "name": "Game-Speed: Very Slow (0.1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B38CA",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Game-Speed: Slow (0.3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B38CA",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Game-Speed: Fast (2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B38CA",
+          "on": "03",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Day-Time: Midnight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B3912",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Day-Time: Noon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B3912",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

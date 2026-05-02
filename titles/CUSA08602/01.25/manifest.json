@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08602",
+  "version": "01.25",
+  "name": "Call of Duty® WWII (Campaign)",
+  "process": "default.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08602"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08602_01.25_default.elf.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08602_01.25.json",
+      "size": 2480,
+      "sha256": "c6066b62ccc288fa8fdb90258a0d69e6f89158ed100f48615f057b4d24dc298d",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08602_01.25_default.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08602_01.25.shn",
+      "size": 2657,
+      "sha256": "e72fc5a5d8ed80ac81f8afc47fd91e9f395a41f3cd313d8e56fe265138b37113",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08602_01.25_default.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08602_01.25.mc4",
+      "size": 3564,
+      "sha256": "22d8cd06715a54fe3b88da833e6437743d5fd4e3f94100863631aa5674c728c5",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08602_01.25_default.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

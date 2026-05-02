@@ -1,0 +1,104 @@
+{
+  "name": "Onimusha 2 Samurais Destiny",
+  "id": "CUSA49799",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "386590",
+          "on": "9090909090",
+          "off": "E8CB33DDFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Web-MAGIC",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "386B95",
+          "on": "9090909090",
+          "off": "E8C62DDDFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7C2671",
+          "on": "909090",
+          "off": "FE481C"
+        }
+      ]
+    },
+    {
+      "name": "MAX-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "170CF3A",
+          "on": "909090",
+          "off": "8B5DD4"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Souls-99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "133E84D",
+          "on": "909090909090",
+          "off": "81F99F860100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Arrow-Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7C2671",
+          "on": "909090",
+          "off": "FE481C"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7A57800",
+          "on": "81A810010000FFE0F505E90AEC67FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "20D6412",
+          "on": "E9E91398059090",
+          "off": "4429B010010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-shurikens-The-girl",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FA43E1",
+          "on": "909090",
+          "off": "FE481C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "fallout 4",
+  "id": "CUSA03701",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "skill inf",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21F7800",
+          "on": "40B6584088B7490B0000408875E0E9324C6FFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8EC43A",
+          "on": "E9C1B39001909090909090",
+          "off": "4088B7490B0000408875E0"
+        }
+      ]
+    },
+    {
+      "name": "max level(god mode)when u get xp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21F7813",
+          "on": "B89C0C410067C5FA1000C5FA114104E96A3267FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "86AA8C",
+          "on": "E982CD9801",
+          "off": "C5FA114104"
+        }
+      ]
+    },
+    {
+      "name": "inf ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8B32C9",
+          "on": "01D3",
+          "off": "89D3"
+        }
+      ]
+    },
+    {
+      "name": "x999999 item each use and deactivate",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21F7827",
+          "on": "8B4220B9A4C6AE00E972FBEEFD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "E73A0",
+          "on": "E98204110290",
+          "off": "8B42208B4F0C"
+        }
+      ]
+    },
+    {
+      "name": "x2 Item Each use (Use and deactivate)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E73B1",
+          "on": "014A20",
+          "off": "894A20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "cjwine"
+  ]
+}

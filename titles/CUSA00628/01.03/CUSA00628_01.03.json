@@ -1,0 +1,27 @@
+{
+  "name": "Shadow Warrior",
+  "id": "CUSA00628",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D73800",
+          "on": "483D20070000750C51488B4C03604839CA5972054889540360E9C422DBFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B25ADD",
+          "on": "E91EDD2400",
+          "off": "4889540360"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

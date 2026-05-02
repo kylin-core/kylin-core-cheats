@@ -1,0 +1,392 @@
+{
+  "name": "Shin Megami Tensei V Vengeance Digital Deluxe",
+  "id": "CUSA42502",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "BackPort 9 - 505 English Mod by CyB1K",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143531",
+          "on": "C390",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Battle Turn",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "475D81",
+          "on": "4C89BBE4040000",
+          "off": "488983E4040000"
+        }
+      ]
+    },
+    {
+      "name": "5 Step Ticks Daytime (x3 multiplier)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "736156",
+          "on": "C5FA58057A1F5D03",
+          "off": "C5FA5805761F5D03"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Daytime",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "736156",
+          "on": "9090909090909090",
+          "off": "C5FA5805761F5D03"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51432C1",
+          "on": "498D8415940000004883FB037F098B4804E97F8634FB90428D0C36E9758634FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "48B94A",
+          "on": "E97279CB0490909090909090",
+          "off": "498D841594000000428D0C36"
+        },
+        {
+          "offset": "6F3ADC",
+          "on": "909090909090",
+          "off": "899720020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51432F1",
+          "on": "4B8D84259C0000004883FB03770D448B7004448930E9E38634FB90448930E9DA8634FB90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "48B9E3",
+          "on": "E90979CB04909090909090",
+          "off": "4B8D84259C000000448930"
+        },
+        {
+          "offset": "6F3BD6",
+          "on": "909090909090",
+          "off": "899734020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magatsuhi Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4C0011",
+          "on": "0F4FC3",
+          "off": "0F4CC3"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Demon ID Modifier",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143321",
+          "on": "898380000000EB1990FF8398000000E9DAD241FB90FF8B98000000E9CED241FB90E9C8D241FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "560609",
+          "on": "E9132DBE0490",
+          "off": "898380000000"
+        }
+      ]
+    },
+    {
+      "name": "Increase Demon ID",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143327",
+          "on": "EB01",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "Decrease Demon ID",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143327",
+          "on": "EB0D",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "All Items x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58D82A",
+          "on": "C6040863",
+          "off": "803C0800"
+        }
+      ]
+    },
+    {
+      "name": "Run Speed (x3 multiplier)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143351",
+          "on": "4180BF1C020000007727EB01904180BF0402000001721A41C7875401000000002F45C4C17A108754010000E905A13AFB9041C7875401000000002F44C4C17A108754010000E9EBA03AFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4ED47D",
+          "on": "E9CF5EC50490909090",
+          "off": "C4C17A108754010000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump (x5 multiplier)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51433B1",
+          "on": "80BB1C020000017218C783480200000070AD45C5FA109B48020000E9A2B63AFB90C7834802000000C0C144C5FA109B48020000E98AB63AFB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4EEA6B",
+          "on": "E94149C504909090",
+          "off": "C5FA109B48020000"
+        }
+      ]
+    },
+    {
+      "name": "Super Leap (x5 multiplier)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143401",
+          "on": "4180BF1C02000001722D4180BF4002000001722341C787D401000000409C45C4C17A1087D4010000C4C17A1187D4010000E91FA03AFB9041C787D401000000007A44C4C17A1087D4010000C4C17A1187D4010000E9FC9F3AFB90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4ED44D",
+          "on": "E9AF5FC50490909090",
+          "off": "C4C17A1187D4010000"
+        }
+      ]
+    },
+    {
+      "name": "Player Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5552C3",
+          "on": "41897740",
+          "off": "41894740"
+        },
+        {
+          "offset": "5553A8",
+          "on": "41897744",
+          "off": "41894744"
+        },
+        {
+          "offset": "5552D5",
+          "on": "41897748",
+          "off": "41894748"
+        },
+        {
+          "offset": "5552E7",
+          "on": "4189774C",
+          "off": "4189474C"
+        }
+      ]
+    },
+    {
+      "name": "Demon Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "557E41",
+          "on": "4189742440",
+          "off": "4189442440"
+        },
+        {
+          "offset": "557E91",
+          "on": "4189742444",
+          "off": "4189442444"
+        },
+        {
+          "offset": "557E55",
+          "on": "4189742448",
+          "off": "4189442448"
+        },
+        {
+          "offset": "557E69",
+          "on": "418974244C",
+          "off": "418944244C"
+        },
+        {
+          "offset": "557E7D",
+          "on": "4189742450",
+          "off": "4189442450"
+        }
+      ]
+    },
+    {
+      "name": "Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143471",
+          "on": "C74360FFE0F5058B4360498B0EE95D9141FB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "55C5DA",
+          "on": "E9926EBE0490",
+          "off": "8B4360498B0E"
+        }
+      ]
+    },
+    {
+      "name": "Glory",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5143491",
+          "on": "C783840000009F8601008B8384000000E9B18944FB90",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "58BE51",
+          "on": "E93B76BB0490",
+          "off": "8B8384000000"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Exp Demon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434F1",
+          "on": "4503BD8C000000EB1990456BE432EB1290456BE464EB0B904569E4E8030000EB01904501A58C0000004503BD8C000000E9623542FB90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "566A81",
+          "on": "E96BCABD049090",
+          "off": "4503BD8C000000"
+        }
+      ]
+    },
+    {
+      "name": "multiplier x50",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434F8",
+          "on": "EB01",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "multiplier x100",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434F8",
+          "on": "EB08",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "multiplier x1000",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434F8",
+          "on": "EB0F",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "Master Code Exp Player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434B1",
+          "on": "4401740860EB1990456BF632EB1290456BF664EB0B904569F6E8030000EB01904401740860E922F741FB",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "562BF8",
+          "on": "E9B408BE04",
+          "off": "4401740860"
+        }
+      ]
+    },
+    {
+      "name": "multiplier x50",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434B6",
+          "on": "EB01",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "multiplier x100",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434B6",
+          "on": "EB08",
+          "off": "EB19"
+        }
+      ]
+    },
+    {
+      "name": "multiplier x1000",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51434B6",
+          "on": "EB0F",
+          "off": "EB19"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

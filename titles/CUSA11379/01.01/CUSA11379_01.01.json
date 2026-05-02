@@ -1,0 +1,43 @@
+{
+  "name": "Mortal Kombat 11",
+  "id": "CUSA11379",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "P1 Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFFFFFFFFC04000",
+          "on": "807B16000F8449223A03C5FA11834C230000E93C223A03",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2FA624B",
+          "on": "E9B0DDC5FC909090",
+          "off": "C5FA11834C230000"
+        }
+      ]
+    },
+    {
+      "name": "inf hp 1HK ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFFFFFFFFC04000",
+          "on": "807B16000F8449223A03C5FA118B4C230000E93C223A03",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2FA624B",
+          "on": "E9B0DDC5FC909090",
+          "off": "C5FA11834C230000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

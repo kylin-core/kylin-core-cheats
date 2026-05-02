@@ -1,0 +1,59 @@
+{
+  "name": "DC League of Super-Pets: The Adventures of Krypto and Ace",
+  "id": "CUSA30005",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "348F520",
+          "on": "80B8240100003A750CC7405000004843E9768BD4FCC5FA114050E96C8BD4FC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D80A6",
+          "on": "E975742B03",
+          "off": "C5FA114050"
+        }
+      ]
+    },
+    {
+      "name": "Ability Instant recharge ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "348F900",
+          "on": "C780180100000000A040E92F2B11FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5A2436",
+          "on": "E9C5D4EE02909090",
+          "off": "C5FA118018010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "348F3E0",
+          "on": "C6401063C390E9AC3CD4FC",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "1D3092",
+          "on": "E949C32B03",
+          "off": "894810C390"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

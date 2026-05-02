@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03778",
+  "version": "01.02",
+  "name": "Shadow Blade Reload",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03778"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03778_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03778_01.02.json",
+      "size": 898,
+      "sha256": "890de570985c22468690503ffda372bad4e818cd9ac63b76cb32d2d67631ce2a",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03778_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03778_01.02.shn",
+      "size": 947,
+      "sha256": "31416929da13121a3a4e6988572d8951893f459a559c56b69ac67259ad458334",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03778_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03778_01.02.mc4",
+      "size": 1280,
+      "sha256": "33ef7b2b903e204811048df72d06922325b99a36cbc5172ae423ae815f2cf3f5",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03778_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

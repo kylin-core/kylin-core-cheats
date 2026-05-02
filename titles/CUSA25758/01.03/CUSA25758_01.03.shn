@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4293-CUSA25758_00-7767648150072086" Moder="Wander / Reddevil82 / Talixme" Cusa="CUSA25758" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Exp">
+        <Cheatline>
+            <Offset>7FC5F000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BE-9F-86-01-00-44-01-73-1C-48-8B-38-E9-05-C2-8C-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Gold At Shop">
+        <Cheatline>
+            <Offset>7FC5F032</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BE-9F-86-01-00-44-89-73-20-48-8B-38-E9-53-C4-8C-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Gold">
+        <Cheatline>
+            <Offset>7FC5F064</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BE-9F-86-01-00-44-01-73-20-48-8B-38-E9-A1-C3-8C-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items">
+        <Cheatline>
+            <Offset>7FC5F096</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C1-01-89-48-18-0F-8E-1B-19-08-01-E9-0B-19-08-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Life">
+        <Cheatline>
+            <Offset>7FC5F0C7</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-24-00-00-80-3F-75-05-E9-DC-AE-9F-00-89-83-C0-00-00-00-E9-D1-AE-9F-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Magic">
+        <Cheatline>
+            <Offset>80ABF693</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-57-1C</ValueOn>
+            <ValueOff>41-89-47-1C</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

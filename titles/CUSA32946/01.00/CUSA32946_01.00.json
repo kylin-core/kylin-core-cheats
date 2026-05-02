@@ -1,0 +1,44 @@
+{
+  "name": "Final Vendetta",
+  "id": "CUSA32946",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80518DF3",
+          "on": "909090909090",
+          "off": "FF90F8020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805C8897",
+          "on": "9090909090",
+          "off": "E884820300"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805C998A",
+          "on": "909090909090",
+          "off": "FF8B94000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

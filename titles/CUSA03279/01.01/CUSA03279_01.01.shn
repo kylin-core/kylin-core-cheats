@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Life is Strange" Moder="illusion" Cusa="CUSA03279" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="60 FPS">
+        <Cheatline>
+            <Offset>8A2E77</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-00</ValueOn>
+            <ValueOff>B0-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,59 @@
+{
+  "name": "Zone of the Enders 2nd Runner MARS",
+  "id": "CUSA10576",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1123800",
+          "on": "448BBB240C00004489BB200C0000E9992E97FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A966A5",
+          "on": "E956D168009090",
+          "off": "4489BB200C0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Sub energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1123813",
+          "on": "C4C17A109FBC180000C4C17A119FB8180000E9D16A9AFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ACA2F2",
+          "on": "E91C95650090909090",
+          "off": "C4C17A119FB8180000"
+        }
+      ]
+    },
+    {
+      "name": "Fast leveling",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "112382A",
+          "on": "669C538B9948650000FFCB89D85B89813C650000669DE95DDB97FF",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AA139C",
+          "on": "E98924680090",
+          "off": "01813C650000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

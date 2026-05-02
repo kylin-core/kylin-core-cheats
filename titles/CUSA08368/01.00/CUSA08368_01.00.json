@@ -1,0 +1,368 @@
+{
+  "name": "theHunter: Call of the Wild",
+  "id": "CUSA08368",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F8DD",
+          "on": "418B86C80100004189862C020000E90ECCACFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16EC4F6",
+          "on": "E9E2335300909090",
+          "off": "410FBF86C8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1310CD6",
+          "on": "90909090909090",
+          "off": "899499C4100000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F800",
+          "on": "8BB72802000089B72C020000E9650C6FFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1310470",
+          "on": "E98BF3900090",
+          "off": "89B72C020000"
+        }
+      ]
+    },
+    {
+      "name": "HeartRate Always Calm",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F91D",
+          "on": "C74490040000803FC5FA10449004E9DF769AFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15C7009",
+          "on": "E90F89650090",
+          "off": "C5FA10449004"
+        }
+      ]
+    },
+    {
+      "name": "No Visability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F811",
+          "on": "41C7868010000000000000C4C17A108680100000E957709AFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15C6878",
+          "on": "E9948F650090909090",
+          "off": "C4C17A118680100000"
+        },
+        {
+          "offset": "1C1F85C",
+          "on": "41C7868C10000000000000C4C17A10868C100000E9F9739AFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15C6C65",
+          "on": "E9F28B650090909090",
+          "off": "C4C17A11868C100000"
+        },
+        {
+          "offset": "1C1F875",
+          "on": "41C7868C10000000000000E938739AFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "15C6BB2",
+          "on": "E9BE8C6500909090909090",
+          "off": "41C7868C1000000000803F"
+        }
+      ]
+    },
+    {
+      "name": "Silent Footsteps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F82A",
+          "on": "41C7869010000000000000C4C17A108690100000E94C749AFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15C6C86",
+          "on": "E99F8B650090909090",
+          "off": "C4C17A118690100000"
+        }
+      ]
+    },
+    {
+      "name": "No Background Noise",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F843",
+          "on": "41C786A010000000000000C4C17A1086A0100000E9C9719AFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15C6A1C",
+          "on": "E9228E650090909090",
+          "off": "C4C17A1186A0100000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP on Gain (Get XP Twice for Unlocks)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F8A0",
+          "on": "89C1BA087A0400895714E9BB909BFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "15D8965",
+          "on": "E9366F6400",
+          "off": "89C1895714"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F8AF",
+          "on": "29D6BE63000000897118E9BAD1B1FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "173CA73",
+          "on": "E9372E4E00",
+          "off": "29D6897118"
+        }
+      ]
+    },
+    {
+      "name": "x2 Skill Points on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "173CA73",
+          "on": "01D6",
+          "off": "29D6"
+        }
+      ]
+    },
+    {
+      "name": "Max SP/PP when Reset",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F8F0",
+          "on": "B86300000089411CE961D0B1FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "173C950",
+          "on": "E99B2F4E00",
+          "off": "740C01411C"
+        }
+      ]
+    },
+    {
+      "name": "x2 Perk Points on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "173CA55",
+          "on": "01D7",
+          "off": "29D7"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F90D",
+          "on": "BEFFC99A3B89B7A0000000E9F0A0A2FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1649A07",
+          "on": "E9015F5D0090",
+          "off": "01B7A0000000"
+        }
+      ]
+    },
+    {
+      "name": "x2 Money on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16DE705",
+          "on": "01C2",
+          "off": "29C2"
+        },
+        {
+          "offset": "173C87A",
+          "on": "01C1",
+          "off": "29C1"
+        },
+        {
+          "offset": "16E12F9",
+          "on": "01CA",
+          "off": "29CA"
+        },
+        {
+          "offset": "15C2464",
+          "on": "034F10",
+          "off": "2B4F10"
+        }
+      ]
+    },
+    {
+      "name": "No Skill Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F994",
+          "on": "C5FA108AF4000000C5FA118AF8000000E93566A2FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1645FD6",
+          "on": "E9B9995D00909090",
+          "off": "C5FA118AF8000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Backpack Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8514FA",
+          "on": "90909090",
+          "off": "4B89043E"
+        }
+      ]
+    },
+    {
+      "name": "No Bow Fatigue",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11AD124",
+          "on": "909090909090",
+          "off": "C4C17A114728"
+        },
+        {
+          "offset": "126436A",
+          "on": "9090909090",
+          "off": "C5FA114008"
+        }
+      ]
+    },
+    {
+      "name": "Inf Glowing Animals Once Spotted",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "149A77E",
+          "on": "90909090",
+          "off": "C5FA1103"
+        }
+      ]
+    },
+    {
+      "name": "Max Rifle Score (Get Rifle Kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F940",
+          "on": "BA1E150000418990B4000000E904FDABFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "16DF64E",
+          "on": "E9ED0254009090",
+          "off": "418B90B4000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Handgun Score (Get Handgun Kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F951",
+          "on": "BA1E150000418990B8000000E9FCFCABFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "16DF657",
+          "on": "E9F50254009090",
+          "off": "418B90B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Shotgun Score (Get Shotgun Kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F962",
+          "on": "BA1E150000418990BC000000E9F4FCABFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "16DF660",
+          "on": "E9FD0254009090",
+          "off": "418B90BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Arrow Score (Get Arrow Kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1F973",
+          "on": "BA1E150000418990C0000000E9ECFCABFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "16DF669",
+          "on": "E9050354009090",
+          "off": "418B90C0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

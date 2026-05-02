@@ -1,0 +1,360 @@
+{
+  "name": "Tomb Raider I–III Remastered",
+  "id": "CUSA43773",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinity Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF82799",
+          "on": "488B0066C74026E8030FB74026E936F9F4FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FED20DA",
+          "on": "E9BA060B009090",
+          "off": "488B000FB74026"
+        },
+        {
+          "offset": "83A12FA2",
+          "on": "488B0066C74026E8030FB74026E93132F4FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "839561DE",
+          "on": "E9BFCD0B009090",
+          "off": "488B000FB74026"
+        },
+        {
+          "offset": "83A12FD5",
+          "on": "488B0066C74026E8030FB74026E950EC9C03",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "873E1C30",
+          "on": "E9A01363FC9090",
+          "off": "488B000FB74026"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEDE780",
+          "on": "9090",
+          "off": "FFC9"
+        },
+        {
+          "offset": "839685CE",
+          "on": "9090",
+          "off": "FFC9"
+        },
+        {
+          "offset": "873FECF3",
+          "on": "9090",
+          "off": "FFC9"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Oxigen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEDEF58",
+          "on": "9090909090",
+          "off": "6641FF4F16"
+        },
+        {
+          "offset": "8396A5E9",
+          "on": "9090909090",
+          "off": "6641FF4F16"
+        },
+        {
+          "offset": "87401988",
+          "on": "90909090909090",
+          "off": "664183442416FA"
+        },
+        {
+          "offset": "8740189A",
+          "on": "909090909090",
+          "off": "6641FF4C2416"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Supplies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF827AB",
+          "on": "66C7044632000FBF1C464183C69CE97325F5FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FED4D29",
+          "on": "E97DDA0A00909090",
+          "off": "0FBF1C464183C69C"
+        },
+        {
+          "offset": "83A12FB4",
+          "on": "89C866C7044232000FBF1442E9995DF4FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "83958D58",
+          "on": "E957A20B0090",
+          "off": "89C80FBF1442"
+        },
+        {
+          "offset": "83A12FF9",
+          "on": "89C866C7044232000FBF1442E9E4249D03",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "873E54E8",
+          "on": "E90CDB62FC90",
+          "off": "89C80FBF1442"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF827BE",
+          "on": "410FB74702666BC002E99DC9F5FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "7FEDF164",
+          "on": "E955360A00",
+          "off": "410FB74702"
+        },
+        {
+          "offset": "83A12F90",
+          "on": "410FB74702666BC00266894324E95378F5FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8396A7EC",
+          "on": "E99F870A0090909090",
+          "off": "410FB7470266894324"
+        },
+        {
+          "offset": "83A12FE7",
+          "on": "410FB74602666BC00266894324E9BAEB9E03",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "87401BAA",
+          "on": "E9381461FC90909090",
+          "off": "410FB7460266894324"
+        }
+      ]
+    },
+    {
+      "name": "Slow Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEDF2FA",
+          "on": "83F8009090",
+          "off": "3D80000000"
+        },
+        {
+          "offset": "8396AA51",
+          "on": "83F8009090",
+          "off": "3D80000000"
+        },
+        {
+          "offset": "87401E34",
+          "on": "83F8009090",
+          "off": "3D80000000"
+        }
+      ]
+    },
+    {
+      "name": "Fly Hack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEDF2FA",
+          "on": "9090909090",
+          "off": "3D80000000"
+        },
+        {
+          "offset": "8396AA51",
+          "on": "9090909090",
+          "off": "3D80000000"
+        },
+        {
+          "offset": "87401E34",
+          "on": "9090909090",
+          "off": "3D80000000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FED431F",
+          "on": "4489BB10060000",
+          "off": "4401B310060000"
+        },
+        {
+          "offset": "8395830F",
+          "on": "4489BB0C060000",
+          "off": "4401B30C060000"
+        },
+        {
+          "offset": "873E49AF",
+          "on": "4489BBA8080000",
+          "off": "4401B3A8080000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FED431F",
+          "on": "4401BB62020000",
+          "off": "4401B310060000"
+        },
+        {
+          "offset": "8395830F",
+          "on": "4401BB0C060000",
+          "off": "4401B30C060000"
+        },
+        {
+          "offset": "873E49AF",
+          "on": "4401BBA8080000",
+          "off": "4401B3A8080000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Save Count to 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF827CC",
+          "on": "C784836407000001000000E91FDAF4FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7FED01F4",
+          "on": "E9D3250B009090",
+          "off": "FF848364070000"
+        },
+        {
+          "offset": "83A12FC5",
+          "on": "C784836407000001000000E98607F4FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "83953754",
+          "on": "E96CF80B009090",
+          "off": "FF848364070000"
+        },
+        {
+          "offset": "83A1300A",
+          "on": "C784836407000001000000E9E1B19C03",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "873DE1F4",
+          "on": "E9114E63FC9090",
+          "off": "FF848364070000"
+        }
+      ]
+    },
+    {
+      "name": "Change Outfit (Photomode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FF4DA2A",
+          "on": "9090909090909090",
+          "off": "C5F81180CC020000"
+        },
+        {
+          "offset": "839DB82A",
+          "on": "9090909090909090",
+          "off": "C5F81180CC020000"
+        },
+        {
+          "offset": "8748E0CA",
+          "on": "9090909090909090",
+          "off": "C5F81180CC020000"
+        }
+      ]
+    },
+    {
+      "name": "No Fall Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FED9602",
+          "on": "90909090",
+          "off": "66294326"
+        },
+        {
+          "offset": "8395F9EE",
+          "on": "90909090",
+          "off": "66294326"
+        },
+        {
+          "offset": "873F0619",
+          "on": "90909090",
+          "off": "66294326"
+        }
+      ]
+    },
+    {
+      "name": "No Fall Death",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FED95E0",
+          "on": "66C74326E803",
+          "off": "66C74326FFFF"
+        },
+        {
+          "offset": "8395F9CC",
+          "on": "66C74326E803",
+          "off": "66C74326FFFF"
+        },
+        {
+          "offset": "873F05F7",
+          "on": "66C74326E803",
+          "off": "66C74326FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Fast Forward Everything",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5288",
+          "on": "909090909090",
+          "off": "890DBE776300"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

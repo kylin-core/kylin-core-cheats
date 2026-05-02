@@ -1,0 +1,43 @@
+{
+  "name": "GTA V",
+  "id": "CUSA00419",
+  "version": "01.46",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30EFE60",
+          "on": "4183BEB407000002750EC4C17A108650020000E9FFB698FDC4C17A118650020000E9F1B698FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A7B56E",
+          "on": "E9ED48670290909090",
+          "off": "C4C17A118650020000"
+        }
+      ]
+    },
+    {
+      "name": "Muni??o Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15F8C5B",
+          "on": "9090909090",
+          "off": "6641897656"
+        },
+        {
+          "offset": "1620A5D",
+          "on": "90909090",
+          "off": "41894F1C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

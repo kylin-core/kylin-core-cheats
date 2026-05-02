@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00743",
+  "version": "01.01",
+  "name": "Peggle 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00743"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00743_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00743_01.01.json",
+      "size": 592,
+      "sha256": "0bb60f73a1692d1e957ba2eac595ac47f081b9968e02a163791fb3a140ccf89d",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00743_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00743_01.01.shn",
+      "size": 546,
+      "sha256": "a2cb57753eeb5aaea63827b07eedb24a922cdbced99a3dc53ba5fb91e046792d",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00743_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00743_01.01.mc4",
+      "size": 748,
+      "sha256": "af165f9e97e239a2cfe520d271de92f7fb157b904e72ba1167180ff2f2aa67be",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00743_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

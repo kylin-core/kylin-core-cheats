@@ -1,0 +1,139 @@
+{
+  "name": "Vampyr",
+  "id": "CUSA03293",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "MaX XP (use it for one kill then turn it off)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF800",
+          "on": "C780D00400007F699800E940A041FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1209845",
+          "on": "E9B65FBE039090909090",
+          "off": "C780D004000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF819",
+          "on": "90E946453DFC",
+          "off": "000000000000"
+        },
+        {
+          "offset": "11C3D5C",
+          "on": "E9B8BAC203",
+          "off": "E9B0BAC203"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF85E",
+          "on": "C780440400007F969800E9AC0E3CFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11B0713",
+          "on": "E946F1C30390",
+          "off": "01B044040000"
+        }
+      ]
+    },
+    {
+      "name": "inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF821",
+          "on": "90E9D2203DFC",
+          "off": "000000000000"
+        },
+        {
+          "offset": "11C18F1",
+          "on": "E92BDFC203909090",
+          "off": "C5FA1183FC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Blood",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF89A",
+          "on": "90E9F60552FC",
+          "off": "000000000000"
+        },
+        {
+          "offset": "130FE8E",
+          "on": "E907FAAD03909090",
+          "off": "C5FA1183FC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "49EF8A2",
+          "on": "B8E703000041898578080000E94B525FFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "FE4AF7",
+          "on": "E9A6ADA0039090",
+          "off": "41898578080000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Craft Recycle (on sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF8C7",
+          "on": "B96300000041898D70040000E9E3863CFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "11B7FB4",
+          "on": "E90E79C3039090",
+          "off": "41898D70040000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DEF8DA",
+          "on": "BA63000000899170040000E90D053CFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11AFDF1",
+          "on": "E9E4FAC30390",
+          "off": "899170040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
+}

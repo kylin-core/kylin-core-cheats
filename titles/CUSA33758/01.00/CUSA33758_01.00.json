@@ -1,0 +1,54 @@
+{
+  "name": "Soulcalibur Broken Destiny PS4",
+  "id": "CUSA33758",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "HP (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A4B800",
+          "on": "4881F94CF6BD0875048B440A0489040A0FB603E9D56DA9FF4881F90C63BF0875EC3D000070427EE5B800007042EBDE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E25E7",
+          "on": "E91492560090",
+          "off": "89040A0FB603"
+        }
+      ]
+    },
+    {
+      "name": "HP Opponent 25% (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A4B807",
+          "on": "750F",
+          "off": "7504"
+        }
+      ]
+    },
+    {
+      "name": "Stop Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A4B831",
+          "on": "4881F934BFBC0875048B440A1889040A0FB603E98468A9FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E20C7",
+          "on": "E96597560090",
+          "off": "89040A0FB603"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

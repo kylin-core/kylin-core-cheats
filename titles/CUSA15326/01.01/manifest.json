@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA15326",
+  "version": "01.01",
+  "name": "YAKUZA 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA15326"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15326_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA15326_01.01.json",
+      "size": 1612,
+      "sha256": "b47b60259700a8e0cc5390f1875e18f9730afd50c733073b3d6966d51d0e9dbb",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15326_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA15326_01.01.shn",
+      "size": 1944,
+      "sha256": "d0210852ed29a297f2db53902efc593d3e9085c2224b2c2ac3fe9fe3ac6aa3ab",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15326_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA15326_01.01.mc4",
+      "size": 2604,
+      "sha256": "c764aed83ba727e16259ff39caa519ac16370896df701bcbdb2e42b668a3d9f6",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15326_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

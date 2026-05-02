@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08397",
+  "version": "01.00",
+  "name": "dragon quest xi",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08397"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08397_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08397_01.00.json",
+      "size": 3820,
+      "sha256": "e746fac45b1c52830da91be7283151d2e0f2c90f511cef59d777d701d34c4d66",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08397_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08397_01.00.shn",
+      "size": 3778,
+      "sha256": "7bbe8fe2fe3f5251cdbe8f72e07ed2a9384cc9bca0d7a043a338b9050615251a",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08397_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08397_01.00.mc4",
+      "size": 5056,
+      "sha256": "2432c421b3c329a96f37245a3f6c192aea654a0b394f03b896de1a172a5c5bb6",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08397_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

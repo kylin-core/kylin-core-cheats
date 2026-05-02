@@ -1,0 +1,349 @@
+{
+  "name": "Gold Mining Simulator",
+  "id": "CUSA16668",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode [ Must be enabled for MC Cheats ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF00",
+          "on": "7F96184B",
+          "off": "7F96184B"
+        },
+        {
+          "offset": "7FC6FF04",
+          "on": "804FC347",
+          "off": "804FC347"
+        },
+        {
+          "offset": "7FC6FF08",
+          "on": "7F96184B",
+          "off": "7F96184B"
+        },
+        {
+          "offset": "7FC6FF0C",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF0E",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF10",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC5F000",
+          "on": "803D050F0100017510C5FA1005EF0E0100C5FA1180A0010000803DEE0E0100017510C5FA1005DA0E0100C5FA118078010000803DD70E0100017510C5FA1005C50E0100C5FA1180A4010000C5FA1080A0010000E94A51DF00",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A5419A",
+          "on": "E961AE20FF909090",
+          "off": "C5FA1080A0010000"
+        },
+        {
+          "offset": "7FC6FF14",
+          "on": "7F96184B",
+          "off": "7F96184B"
+        },
+        {
+          "offset": "7FC6FF18",
+          "on": "804FC347",
+          "off": "804FC347"
+        },
+        {
+          "offset": "7FC6FF1C",
+          "on": "7F96184B",
+          "off": "7F96184B"
+        },
+        {
+          "offset": "7FC6FF20",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF22",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF24",
+          "on": "0000",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC5F078",
+          "on": "803DA50E0100017510C5FA1005930E0100C5FA1180A0010000803D880E0100017510C5FA1005760E0100C5FA118078010000803D710E0100017510C5FA1005590E0100C5FA1180A4010000C5FA1080A0010000E95F50DF00",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A54127",
+          "on": "E94CAF20FF909090",
+          "off": "C5FA1080A0010000"
+        },
+        {
+          "offset": "7FC6FF28",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "7FC5F12D",
+          "on": "C4C17A10040EF30F5905ED0D0100E9F29FC000",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8086912C",
+          "on": "E9FC5F3FFF90",
+          "off": "C4C17A10040E"
+        },
+        {
+          "offset": "7FC6FF2C",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "7FC5F160",
+          "on": "C5FA104330F30F5905BF0D0100E94B8CC000",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80867DB8",
+          "on": "E9A3733FFF",
+          "off": "C5FA104330"
+        }
+      ]
+    },
+    {
+      "name": "Max Money [ MC - Normal Mode ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF0C",
+          "on": "0100",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF00",
+          "on": "7F96184B",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold [ MC - Normal Mode ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF0E",
+          "on": "0100",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF04",
+          "on": "804FC347",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Magnetite [ MC - Normal Mode ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF10",
+          "on": "0100",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF08",
+          "on": "7F96184B",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money [ MC - Hard Mode ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF24",
+          "on": "0100",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF1C",
+          "on": "7F96184B",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold [ MC - Hard Mode ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF20",
+          "on": "0100",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF18",
+          "on": "804FC347",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Magnetite [ MC - Hard Mode ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF22",
+          "on": "0100",
+          "off": "0000"
+        },
+        {
+          "offset": "7FC6FF14",
+          "on": "7F96184B",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F078",
+          "on": "C5FA108784000000C5FA118788000000C5FA108788000000E9694FC900",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "808F3FF6",
+          "on": "E97DB036FF909090",
+          "off": "C5FA108788000000"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF28",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF28",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 3 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF28",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 4 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF28",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 5 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF28",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF2C",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF2C",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 3 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF2C",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 4 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF2C",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 5 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF2C",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

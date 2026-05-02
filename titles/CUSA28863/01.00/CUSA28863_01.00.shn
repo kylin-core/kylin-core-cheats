@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring" Moder="Aran_9.00" Cusa="CUSA28863" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Items (Need 2 stock atleast)">
+        <Cheatline>
+            <Offset>38F3AB0</Offset>
+            <Section>0</Section>
+            <ValueOn>43-89-44-A7-0C-41-83-C6-01-44-89-31-E9-12-CC-4E-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Mana (FP:500)">
+        <Cheatline>
+            <Offset>38F3AD0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-F9-60-75-05-B8-00-02-00-00-41-89-85-54-01-00-00-E9-87-D9-7C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Mana (FP=100)">
+        <Cheatline>
+            <Offset>38F3AD0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-F9-60-75-15-4C-89-C8-48-25-FF-0F-00-00-3D-60-09-00-00-75-05-B8-64-00-00-00-41-89-85-54-01-00-00-E9-77-D9-7C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (HP=500 fix)">
+        <Cheatline>
+            <Offset>38F3B00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-F9-60-75-15-4C-89-C8-48-25-FF-0F-00-00-3D-60-09-00-00-75-05-B8-F4-01-00-00-41-89-86-48-01-00-00-E9-F8-D3-7C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (HP=1000)">
+        <Cheatline>
+            <Offset>38F3B00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-F9-60-75-15-4C-89-C8-48-25-FF-0F-00-00-3D-60-09-00-00-75-05-B8-E8-03-00-00-41-89-86-48-01-00-00-E9-F8-D3-7C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (HP=2000)">
+        <Cheatline>
+            <Offset>38F3B00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-F9-60-75-15-4C-89-C8-48-25-FF-0F-00-00-3D-60-09-00-00-75-05-B8-D0-07-00-00-41-89-86-48-01-00-00-E9-F8-D3-7C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

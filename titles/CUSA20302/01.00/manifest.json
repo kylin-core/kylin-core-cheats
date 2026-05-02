@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA20302",
+  "version": "01.00",
+  "name": "New Super Luckys Tale",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA20302"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20302_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA20302_01.00.json",
+      "size": 1689,
+      "sha256": "d9aa4f65b82302b09b54c7c64f7865a103225883d260389c5d14f357efbf5e13",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20302_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA20302_01.00.shn",
+      "size": 1805,
+      "sha256": "8b7adfb79c509ec1744ddd7424fbe987c714f19d4c8f49b420729b73f689799f",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20302_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA20302_01.00.mc4",
+      "size": 2412,
+      "sha256": "9509565d6ebef44ad3d2b54f2655c0173d63bc2f6df1bcf2e3d04ec90807ae1b",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20302_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

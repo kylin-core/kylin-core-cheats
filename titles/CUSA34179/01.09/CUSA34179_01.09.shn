@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="WWE2K23" Moder="DJFlameDat" Cusa="CUSA34179" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP (CHEATS DON'T WORK ON MY RISE MODE BUT LAST ONE)">
+        <Cheatline>
+            <Offset>397B800</Offset>
+            <Section>0</Section>
+            <ValueOn>83-BB-0C-0C-00-00-15-75-04-F3-0F-10-DA-C5-FA-11-5B-10-E9-F5-0F-70-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Recovery Bar (On Gain, the bar is invisible, restart match to make it appear otherwise ignore)">
+        <Cheatline>
+            <Offset>397B819</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-BF-C4-04-00-00-00-00-A7-08-75-04-F3-0F-10-DA-C4-C1-7A-11-5F-20-E9-D8-F8-6F-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Finisher (On Gain)">
+        <Cheatline>
+            <Offset>397B888</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-BF-1C-0B-00-00-1C-75-04-F3-0F-10-D3-C4-C1-7A-11-57-10-E9-C3-A1-6F-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>397B852</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-BE-CC-0A-00-00-1C-75-04-F3-0F-10-C3-C4-C1-7A-11-46-18-E9-B9-B0-73-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Stun (On Gain)">
+        <Cheatline>
+            <Offset>397B86D</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BB-C8-0A-00-00-01-00-A7-00-75-03-0F-57-DB-C5-FA-11-5B-44-E9-81-20-C9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Out of Ring Timer">
+        <Cheatline>
+            <Offset>397B8A3</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-B8-01-00-00-00-00-00-00-E9-5C-81-DE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Pin Timer">
+        <Cheatline>
+            <Offset>397B8B6</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-B8-01-00-00-01-00-00-00-E9-66-59-DE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Superstar Attribute Points (On Use)">
+        <Cheatline>
+            <Offset>397B8C7</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-F8-05-00-00-0F-27-00-00-E9-2B-E6-7C-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

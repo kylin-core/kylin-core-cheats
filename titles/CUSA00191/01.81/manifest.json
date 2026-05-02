@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00191",
+  "version": "01.81",
+  "name": "Killzone Shadow Fall",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00191"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00191_01.81.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00191_01.81.json",
+      "size": 576,
+      "sha256": "8e3ef6efd1915f1e9d5a753afb811c346e5293c1de41c19614644169ebbc49be",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00191_01.81.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00191_01.81.shn",
+      "size": 825,
+      "sha256": "fb33428e36529ddf5a9149ca8884b24e0651e35ef5178bae38d5d5c1ca2526d7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00191_01.81.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00191_01.81.mc4",
+      "size": 1112,
+      "sha256": "8728e4528e6ace63777aaaafbe4ebad5116cb8d812d4c301e23e6aa0b978f117",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00191_01.81.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

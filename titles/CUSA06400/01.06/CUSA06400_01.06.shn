@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MARVEL VS. CAPCOM: INFINITE" Moder="DJFlameDat" Cusa="CUSA06400" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP">
+        <Cheatline>
+            <Offset>4BC3800</Offset>
+            <Section>0</Section>
+            <ValueOn>83-BF-00-03-00-00-00-75-06-8B-B7-B8-06-00-00-89-B7-BC-06-00-00-E9-37-E0-53-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Super (On Gain)">
+        <Cheatline>
+            <Offset>4BC3836</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-68-00-75-03-8B-50-10-89-50-0C-E9-CD-9C-56-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stone Meter (On Gain)">
+        <Cheatline>
+            <Offset>4BC3849</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-CA-41-52-49-BA-F0-FF-FF-FF-0F-00-00-00-49-09-C2-66-41-83-FA-FC-41-5A-75-0B-C7-00-10-27-00-00-E9-70-C5-53-FB-89-08-E9-69-C5-53-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Timer">
+        <Cheatline>
+            <Offset>4BC3829</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-63-41-88-47-5E-E9-CF-9B-58-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

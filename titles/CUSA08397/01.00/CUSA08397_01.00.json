@@ -1,0 +1,161 @@
+{
+  "name": "dragon quest xi",
+  "id": "CUSA08397",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "god mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF800",
+          "on": "410F4DDEBEFFFFFFFF4139B7D40500000F84986844FA41895F54E98F6844FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F360A6",
+          "on": "E95597BB05909090",
+          "off": "410F4DDE41895F54"
+        }
+      ]
+    },
+    {
+      "name": "money max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF81F",
+          "on": "0F8CF1A4E4FAB87F96980041894550E9E9A4E4FA",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1939D16",
+          "on": "E9045B1B0590",
+          "off": "7C0441894550"
+        }
+      ]
+    },
+    {
+      "name": "one hit kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF833",
+          "on": "BEFFFFFFFF4139B7D4050000740841C747540000000029D84429EBE9606844FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F360AE",
+          "on": "E98097BB05",
+          "off": "29D84429EB"
+        }
+      ]
+    },
+    {
+      "name": "inf mp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F36211",
+          "on": "90909090",
+          "off": "41894658"
+        }
+      ]
+    },
+    {
+      "name": "max lv99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF853",
+          "on": "41BDFFC99A3B4489AB88000000E9CA1F44FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F31828",
+          "on": "E926E0BB059090",
+          "off": "4489AB88000000"
+        }
+      ]
+    },
+    {
+      "name": "add point after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1025302",
+          "on": "41299590000000",
+          "off": "41899590000000"
+        }
+      ]
+    },
+    {
+      "name": "item buy get max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF865",
+          "on": "BA630000004189D641895118E902B64AFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "F9AE71",
+          "on": "E9EF49B5059090",
+          "off": "4189D641895118"
+        }
+      ]
+    },
+    {
+      "name": "item  used get more",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF875",
+          "on": "440F4DF2B86300000041894518E991C54AFA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F9BE11",
+          "on": "E9603AB505909090",
+          "off": "440F4DF241894518"
+        }
+      ]
+    },
+    {
+      "name": "SPPED UP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF887",
+          "on": "817E1080E90E07750AC786840100000000C040C5F8109680010000E9E2698BFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43A6281",
+          "on": "E901967402909090",
+          "off": "C5F8109680010000"
+        }
+      ]
+    },
+    {
+      "name": "fly to sky (wall pass)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6AEF8A7",
+          "on": "817E1080E90E07750AC786780100000050C346C5F8108670010000E92F1C89FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43814EE",
+          "on": "E9B4E37602909090",
+          "off": "C5F8108670010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "cjwine"
+  ]
+}

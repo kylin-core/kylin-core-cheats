@@ -1,0 +1,101 @@
+{
+  "name": "Raiden V Directors Cut",
+  "id": "CUSA07673",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "293806",
+          "on": "0F84D8E0EBFFB0038807E9D5E0EBFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1518E4",
+          "on": "E91D1F140090",
+          "off": "7404FEC88807"
+        }
+      ]
+    },
+    {
+      "name": "Max Player Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "293815",
+          "on": "0F47C1B8F6C99A3B894714E95082E4FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DBA6F",
+          "on": "E9A17D1B0090",
+          "off": "0F47C1894714"
+        }
+      ]
+    },
+    {
+      "name": "Max Stage Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "293825",
+          "on": "45896F0CBFF6C99A3B41897F08E9D754EAFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "138D06",
+          "on": "E91AAB1500909090",
+          "off": "45896F0C41897F08"
+        }
+      ]
+    },
+    {
+      "name": "Max Cheer Call Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "293837",
+          "on": "0F46C8B920AA4400890FE97AF5EBFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "152DBB",
+          "on": "E9770A1400",
+          "off": "0F46C8890F"
+        },
+        {
+          "offset": "293846",
+          "on": "0573DFFFFFB820AA44008907E954F5EBFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "152DA4",
+          "on": "E99D0A14009090",
+          "off": "0573DFFFFF8907"
+        }
+      ]
+    },
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "293857",
+          "on": "BF9A9907004189B8BC460000E9AC9DEEFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "17D60D",
+          "on": "E9456211009090",
+          "off": "4189B8BC460000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

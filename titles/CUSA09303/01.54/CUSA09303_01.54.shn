@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed® Odyssey" Moder="ADI+Saso" Cusa="CUSA09303" Version="01.54" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>88195A0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-8F-34-01-00-00-89-8F-30-01-00-00-E9-87-E9-25-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Adrenaline">
+        <Cheatline>
+            <Offset>88196A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-9E-AC-02-00-00-41-89-9E-A8-02-00-00-E9-3E-8F-24-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>4C1900</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-00-00-00-00-89-B3-30-01-00-00-E9-70-F1-58-03</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen">
+        <Cheatline>
+            <Offset>8819750</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-80-EC-05-00-00-C5-FA-11-80-F0-05-00-00-E9-BD-87-36-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Res (On Spend)">
+        <Cheatline>
+            <Offset>8819560</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-7F-96-98-00-41-89-47-F8-E9-09-49-A1-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ability Points">
+        <Cheatline>
+            <Offset>8819600</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-41-10-0F-27-8B-41-10-03-41-14-E9-AB-C3-6D-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Abilities Cooldown">
+        <Cheatline>
+            <Offset>8819800</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-B0-00-00-00-00-00-00-00-E9-E5-95-B4-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Quick Lvl Up+Engrave(Disable After Unlock Mastery)">
+        <Cheatline>
+            <Offset>48ACADF</Offset>
+            <Section>0</Section>
+            <ValueOn>01-BA-84-06-00-00</ValueOn>
+            <ValueOff>89-BA-84-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ship Health (Dont Use With 1 Hit)">
+        <Cheatline>
+            <Offset>88197A0</Offset>
+            <Section>0</Section>
+            <ValueOn>85-DB-83-78-78-00-74-10-8B-58-04-89-18-0F-89-16-DD-45-FD-E9-D0-DC-45-FD-89-18-0F-89-09-DD-45-FD-E9-C3-DC-45-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ship Adrenaline+Ram Speed">
+        <Cheatline>
+            <Offset>8819A00</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-50-8B-43-50-41-89-46-1C-E9-33-FA-5A-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ship Health /1 Hit Kill">
+        <Cheatline>
+            <Offset>88197A0</Offset>
+            <Section>0</Section>
+            <ValueOn>85-DB-83-78-78-00-74-10-8B-58-04-89-18-0F-89-16-DD-45-FD-E9-D0-DC-45-FD-31-DB-89-18-0F-89-07-DD-45-FD-E9-C1-DC-45-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

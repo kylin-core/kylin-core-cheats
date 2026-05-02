@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07052",
+  "version": "01.02",
+  "name": "Final Fantasy 7 Remake",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07052"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07052_01.02.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07052_01.02.json",
+      "size": 9881,
+      "sha256": "af5a7446e313a2bb41bcc0eb5efaf0020ecc2ef1f036e17a7735810c23e840ba",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07052_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07052_01.02.shn",
+      "size": 9002,
+      "sha256": "25b4e017f8f84049a184a17063581665de4e89bf0ec62c6c8ee8a979eef01a9a",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07052_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07052_01.02.mc4",
+      "size": 12012,
+      "sha256": "37f92c6999b2457ada28cf2534b6042b6cbc2efc8f18211deaf7140079871d9f",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07052_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

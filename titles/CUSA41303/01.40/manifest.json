@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA41303",
+  "version": "01.40",
+  "name": "Metal Gear Solid 2_Sons of Liberty",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA41303"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41303_01.40.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA41303_01.40.json",
+      "size": 570,
+      "sha256": "f7e86d0adf1e1a756ee83983036758faeb6fb9696296f5143ed00e7ba89c5279",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41303_01.40.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA41303_01.40.shn",
+      "size": 809,
+      "sha256": "9f747b2c48953e90480d2d1d29f8049c964402f7acbbc0b636341173a437939d",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41303_01.40.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA41303_01.40.mc4",
+      "size": 1088,
+      "sha256": "9ec41dbed5a42541c5bebd538b029689daeb238c31e17dcce92d423708797b9b",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41303_01.40.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "name": "Watch Dogs 2",
+  "id": "CUSA04294",
+  "version": "01.17",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F8F800",
+          "on": "817B1C0000C8427405C5FA114318E9B545D0FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C93DC3",
+          "on": "E938BA2F03",
+          "off": "C5FA114318"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Botnet",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E4CBDC",
+          "on": "9090909090",
+          "off": "C5FA114774"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13812C5",
+          "on": "909090909090",
+          "off": "FF8BA0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "133CFBA",
+          "on": "909090",
+          "off": "894110"
+        }
+      ]
+    },
+    {
+      "name": "Stealth",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FA8FB",
+          "on": "909090909090",
+          "off": "C4C17A114D30"
+        },
+        {
+          "offset": "8FD5FD",
+          "on": "C7433000000000",
+          "off": "C743300000803F"
+        }
+      ]
+    },
+    {
+      "name": "Never Wanted",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F8F813",
+          "on": "BB00000000891FE9763BA2FA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "9B3390",
+          "on": "E97EC45D05",
+          "off": "0F4EDA891F"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Gain/Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F8F81F",
+          "on": "48C7C1FFC99A3B49898EA0060000E93D978DFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1868F68",
+          "on": "E9B26872049090",
+          "off": "498B8EA0060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Followers on 2nd Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F8F832",
+          "on": "48C7C1F039580049898EB8060000E9DF998DFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "186921D",
+          "on": "E9106672049090",
+          "off": "498B8EB8060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Followers After Missions",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F8F845",
+          "on": "B8FFC99A3B894714E9459140FB",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1398992",
+          "on": "E9AE6EBF04",
+          "off": "75038B4714"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH, Rizla"
+  ]
+}

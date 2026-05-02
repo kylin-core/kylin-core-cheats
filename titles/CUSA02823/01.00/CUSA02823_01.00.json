@@ -1,0 +1,137 @@
+{
+  "name": "Sword Art Online - Lost Song",
+  "id": "CUSA02823",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FCDB0",
+          "on": "C5F25FC0",
+          "off": "C5F25DC0"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "ADAF7",
+          "on": "0F57D290",
+          "off": "C5F25CD0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite AP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A1D35",
+          "on": "90909090",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EEB69",
+          "on": "C5F828C1",
+          "off": "C5F25CC0"
+        },
+        {
+          "offset": "EEB8E",
+          "on": "C5F25FC8",
+          "off": "C5F25DC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Yuld",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CCFC6",
+          "on": "9090",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Yuld",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CBC48",
+          "on": "90909090",
+          "off": "410F46C7"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CC899",
+          "on": "909090",
+          "off": "4429F1"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7055A",
+          "on": "418930",
+          "off": "418900"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Union Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "304B0A",
+          "on": "C5F828C1",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Max Union Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EF14D",
+          "on": "C5F25FC0",
+          "off": "C5F25DC0"
+        }
+      ]
+    },
+    {
+      "name": "Max Skills via Menu",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70376",
+          "on": "B9E8030000894F3089C8",
+          "off": "8B4F3031C085C90F49C1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

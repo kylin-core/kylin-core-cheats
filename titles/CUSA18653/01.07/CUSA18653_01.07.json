@@ -1,0 +1,107 @@
+{
+  "name": "Hunting Simulator 2",
+  "id": "CUSA18653",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70335B0",
+          "on": "41C785A00B00000000C842E92D45E6F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "E97AE4",
+          "on": "E9C7BA190690909090",
+          "off": "C4C17A1185A00B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7033640",
+          "on": "41C78424480800000A000000E97A5CF5F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "F892C3",
+          "on": "E978A30A06909090",
+          "off": "41FF8C2448080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70333A0",
+          "on": "C78718060000FFC99A3BE9E90DECF9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "EF4192",
+          "on": "E909F2130690",
+          "off": "898718060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows clips",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "704F820",
+          "on": "C7835008000064000000E97666F0F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "F55E9F",
+          "on": "E97C990F0690",
+          "off": "898350080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite items use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "70973A0",
+          "on": "C74481080F000000E94746C2F9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "CBB9EF",
+          "on": "E9ACB93D06",
+          "off": "4489748108"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items Effect",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7097470",
+          "on": "41C785200900000000C843E922FDDFF9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "E97199",
+          "on": "E9D202200690909090",
+          "off": "C4C17A118520090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

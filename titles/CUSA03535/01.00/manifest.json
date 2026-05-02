@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03535",
+  "version": "01.00",
+  "name": "ZOMBI",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03535"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03535_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03535_01.00.json",
+      "size": 2434,
+      "sha256": "d8ef51d91332a5b4c4e6c067fcb0675fe7f7518e4d6e265fddd95adfcd46a207",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03535_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03535_01.00.shn",
+      "size": 2314,
+      "sha256": "81cadf38ce44397426a95d0d823f5de11b5f2490588f4aec748b2d9fde273ffd",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03535_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03535_01.00.mc4",
+      "size": 3096,
+      "sha256": "bbbb396f2d5b3c5f67698fc8da89f4355146736ff126d8fd940f56fa13d79903",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03535_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

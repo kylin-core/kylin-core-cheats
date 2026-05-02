@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA37028",
+  "version": "01.11",
+  "name": "Wo Long Fallen Dynasty",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA37028"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37028_01.11.json. Other candidate files skipped: 4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA37028_01.11.json",
+      "size": 8445,
+      "sha256": "875b58a6762afd5e6e3a2308a333ceb7abf4e70972719f1db96728066af7a58a",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37028_01.11.json. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA37028_01.11.shn",
+      "size": 7564,
+      "sha256": "01195fd6c545014b2e22ae2ede732c429505b49465fef9ebc042f7e872a433b0",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37028_01.11.json. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA37028_01.11.mc4",
+      "size": 10092,
+      "sha256": "977fc11357b81168f6d55002fca4b85373295fc6310d82efd14ed6028ffa470e",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37028_01.11.json. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

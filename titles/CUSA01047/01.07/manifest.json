@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01047",
+  "version": "01.07",
+  "name": "Ratchet & Clank™",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01047"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01047_01.07.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01047_01.07.json",
+      "size": 1595,
+      "sha256": "36a2492ec0f6b7fbaaea099dbb71ce89283aefe9350e679e4854c405462c8b58",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01047_01.07.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01047_01.07.shn",
+      "size": 1787,
+      "sha256": "e6adc01e39fecb247cd2d814622a96afe49b3fda9fd34f46e4b1d03a2aaa1c93",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01047_01.07.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01047_01.07.mc4",
+      "size": 2392,
+      "sha256": "490c9807c3cbd66065c5ef6c36bee72b10ff5d3bae9a7691a7ca0aac64a5d300",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01047_01.07.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "One Piece - Unlimited World (Red Deluxe Edition)",
+  "id": "CUSA08306",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F3800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F3801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F3802",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (Storage)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18954D",
+          "on": "9090",
+          "off": "89F3"
+        },
+        {
+          "offset": "1883CD",
+          "on": "9090",
+          "off": "89FA"
+        }
+      ]
+    },
+    {
+      "name": "Max Items (Inventory)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "46F9C",
+          "on": "9090",
+          "off": "89D0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items (Sale)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1898AD",
+          "on": "9090",
+          "off": "89F8"
+        }
+      ]
+    },
+    {
+      "name": "Max Berry on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F3875",
+          "on": "B9FFC99A3B894E08C6460408E92350B9FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1888A2",
+          "on": "E9CEAF46009090",
+          "off": "894E08C6460408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Berry",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1896C4",
+          "on": "9090",
+          "off": "29F2"
+        }
+      ]
+    },
+    {
+      "name": "Max Pirate Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141401",
+          "on": "89FA90",
+          "off": "0F42D7"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

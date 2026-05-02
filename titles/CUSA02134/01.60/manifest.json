@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02134",
+  "version": "01.60",
+  "name": "Killing Floor 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02134"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02134_01.60.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02134_01.60.json",
+      "size": 932,
+      "sha256": "4578e08ba617bfa3cedc611f7d97eb8bc31b4142f1d28d78199321ed0f6233ea",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02134_01.60.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02134_01.60.shn",
+      "size": 1009,
+      "sha256": "435ba7e0f77236e9ec7ee5611a9f7b4d0ed6f288bc9d5e3e805ea9598c1f00d7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02134_01.60.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02134_01.60.mc4",
+      "size": 1368,
+      "sha256": "aef11fd99744e7cd2b24a0aaf83fab6365127d4feb2caacdf68ba7c48fe941ec",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02134_01.60.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

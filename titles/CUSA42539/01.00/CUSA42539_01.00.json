@@ -1,0 +1,38 @@
+{
+  "name": "RedRaptor",
+  "id": "CUSA42539",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80700C5E",
+          "on": "9090909090",
+          "off": "E8ADD0F1FF"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81557800",
+          "on": "B8FFC99A3B4189471CE91D6F5AFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80AFE723",
+          "on": "E9D890A500909090",
+          "off": "4189471C45017744"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BLUE REFLECTION: Second Light" Moder="Wander FW9.00" Cusa="CUSA25335" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>141B5C0</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BB-34-01-00-00-01-75-0F-C7-83-14-01-00-00-E7-03-00-00-E9-ED-62-F8-FE-89-83-14-01-00-00-E9-E2-62-F8-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite EP (turn off at the tutorial)">
+        <Cheatline>
+            <Offset>141B9B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-50-08-00-00-80-4F-C3-47-E9-EF-22-F8-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Experience Multiplier by 500">
+        <Cheatline>
+            <Offset>141B950</Offset>
+            <Section>0</Section>
+            <ValueOn>69-F6-F4-01-00-00-01-77-08-48-89-FB-E9-5B-8C-18-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Experience Multiplier by 10000 (disable previous one)">
+        <Cheatline>
+            <Offset>141B950</Offset>
+            <Section>0</Section>
+            <ValueOn>69-F6-10-27-00-00-01-77-08-48-89-FB-E9-5B-8C-18-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="80 items (on pickup and Craft)">
+        <Cheatline>
+            <Offset>141BBD0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-47-06-50-00-C3-E9-49-B1-F0-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="90 TP (on spend )">
+        <Cheatline>
+            <Offset>141BC10</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-47-02-5A-00-C3-E9-69-3A-DE-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

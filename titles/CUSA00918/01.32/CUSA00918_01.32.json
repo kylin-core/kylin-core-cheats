@@ -1,0 +1,33 @@
+{
+  "name": "Uncharted 4",
+  "id": "CUSA00918",
+  "version": "01.32",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Debug Menu",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F54C2",
+          "on": "C680792E000001",
+          "off": "80B8792E000000"
+        }
+      ]
+    },
+    {
+      "name": "Debug menu Display",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F54C9",
+          "on": "EB04",
+          "off": "0F84"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Tekken 7",
+  "id": "CUSA06014",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52A3800",
+          "on": "483D40420F007D0748C7C040420F004839037D03488903E93399ABFB",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D5D143",
+          "on": "E9B8665404",
+          "off": "488903EB07"
+        },
+        {
+          "offset": "D5D148",
+          "on": "90909090909090",
+          "off": "48C70300000000"
+        }
+      ]
+    },
+    {
+      "name": "Player 1: Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52A381C",
+          "on": "1",
+          "off": "0"
+        }
+      ]
+    },
+    {
+      "name": "Player 2: Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52A381C",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Player 1: 1-Hit K.O.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52A381D",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Player 2: 1-Hit K.O.",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52A381D",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

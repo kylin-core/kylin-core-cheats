@@ -1,0 +1,44 @@
+{
+  "name": "Resident Evil 3",
+  "id": "CUSA14123",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C164FC",
+          "on": "9090909090",
+          "off": "E85FA2BAFE"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22DB20A",
+          "on": "909090",
+          "off": "895120"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2347D0C",
+          "on": "90909090",
+          "off": "44897120"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game=".hack//G.U Last Recode [Vol.1 Rebirth]" Moder="Weysincha" Cusa="CUSA07691" Version="01.00" Process="hackGU_vol1.elf">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>74E498</Offset>
+            <Section>0</Section>
+            <ValueOn>66-01-8B-CC-01-00-00</ValueOn>
+            <ValueOff>66-89-8B-CC-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite FP">
+        <Cheatline>
+            <Offset>757EE6</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-01-85-CE-01-00-00</ValueOn>
+            <ValueOff>66-41-89-85-CE-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite GS/Money">
+        <Cheatline>
+            <Offset>912C05</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-7F-96-98-00</ValueOn>
+            <ValueOff>29-D1-0F-48-CE</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Chims">
+        <Cheatline>
+            <Offset>911EE0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-BA-E7-03</ValueOn>
+            <ValueOff>66-0F-49-D1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items not decrease ">
+        <Cheatline>
+            <Offset>90E126</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>88-94-87-A2-16-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fast EXP/leveling ">
+        <Cheatline>
+            <Offset>7D7C8F</Offset>
+            <Section>0</Section>
+            <ValueOn>66-45-01-7E-02</ValueOn>
+            <ValueOff>66-45-89-7E-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Set Arena SP to 1090">
+        <Cheatline>
+            <Offset>27BEA58C4</Offset>
+            <Section>0</Section>
+            <ValueOn>42-04</ValueOn>
+            <ValueOff>42-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

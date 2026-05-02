@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DOOM Eternal" Moder="Celogamez" Cusa="CUSA13338" Version="01.25" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health/Shield">
+        <Cheatline>
+            <Offset>3357E80</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-68-0A-38-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Lives On Gain">
+        <Cheatline>
+            <Offset>3357CE0</Offset>
+            <Section>0</Section>
+            <ValueOn>84-D2-C6-47-38-63-E9-00-80-0C-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo/No Reload/Fuel">
+        <Cheatline>
+            <Offset>3357DF0</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-89-F7-41-8B-46-38-E9-F3-88-0C-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Dash">
+        <Cheatline>
+            <Offset>3357DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-08-E9-FB-4D-C6-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Radiation/Dive Suit">
+        <Cheatline>
+            <Offset>3357D60</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-08-00-00-80-3F-E9-4E-53-C6-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Grenades">
+        <Cheatline>
+            <Offset>3357ED0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-FF-5E-E5-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Flame Belch">
+        <Cheatline>
+            <Offset>3357EF0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-90-5E-E5-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Blood Punch">
+        <Cheatline>
+            <Offset>3357F50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-18-01-00-00-00-00-00-40-C4-C1-7A-10-87-18-01-00-00-E9-3A-03-0B-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Crucible Sword">
+        <Cheatline>
+            <Offset>3357BF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-08-00-00-40-40-E9-9F-2D-C6-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Sentinel Hammer">
+        <Cheatline>
+            <Offset>3357F10</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-74-04-00-00-00-00-F0-42-C5-FA-10-87-74-04-00-00-E9-6D-D4-0A-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jumps">
+        <Cheatline>
+            <Offset>33578E0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-80-41-00-00-01-00-00-00-83-BB-80-41-00-00-02-E9-DA-7E-EA-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Inf Weapons/Praetorian Points/Mastery Tokens/Sentinel Batteries">
+        <Cheatline>
+            <Offset>3357EB0</Offset>
+            <Section>0</Section>
+            <ValueOn>42-C6-84-BF-94-CA-04-00-63-E9-FD-EA-E3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

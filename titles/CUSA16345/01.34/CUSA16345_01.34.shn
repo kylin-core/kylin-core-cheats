@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Immortals Fenyx Rising ™" Moder="Wander" Cusa="CUSA16345" Version="01.34" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Potions/Arrows">
+        <Cheatline>
+            <Offset>37B350D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>41-89-46-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fruits/Upgrade Materials Multiplier (On Gain)">
+        <Cheatline>
+            <Offset>37B2D71</Offset>
+            <Section>0</Section>
+            <ValueOn>01-10</ValueOn>
+            <ValueOff>89-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>3220686</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-85-D0-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Everreach - Project Eden" Moder="Reddevil82" Cusa="CUSA18934" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC5F000</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-18-C5-FA-11-4B-44-E9-08-B3-AB-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Shield">
+        <Cheatline>
+            <Offset>7FC5F02F</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-5B-24-C5-FA-11-5B-40-E9-6C-B3-AB-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>7FC5F05E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-2C-C5-FA-11-43-3C-E9-B2-74-AB-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo Riffle">
+        <Cheatline>
+            <Offset>7FC6FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo Clip Riffle">
+        <Cheatline>
+            <Offset>7FC6FF04</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo Pistol">
+        <Cheatline>
+            <Offset>7FC6FF08</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo Pistol Clip">
+        <Cheatline>
+            <Offset>7FC6FF0C</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Liquid Nitrogen">
+        <Cheatline>
+            <Offset>7FC6FF10</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max EM Coil">
+        <Cheatline>
+            <Offset>7FC6FF14</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Energy Cell">
+        <Cheatline>
+            <Offset>7FC6FF18</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Skillpoints">
+        <Cheatline>
+            <Offset>7FC6FF1C</Offset>
+            <Section>0</Section>
+            <ValueOn>E7-03-00-00</ValueOn>
+            <ValueOff>E7-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level">
+        <Cheatline>
+            <Offset>7FC6FF20</Offset>
+            <Section>0</Section>
+            <ValueOn>63-00-00-00</ValueOn>
+            <ValueOff>63-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Walk Speed Multiplier Mastercode">
+        <Cheatline>
+            <Offset>7FC5F29E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-C4-00-00-00-F3-0F-59-05-76-0C-01-00-E9-E4-42-A2-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Walk Multiplier x 1 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF24</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-3F</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Walk Multiplier x 2 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF24</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Walk Multiplier x 3 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF24</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-40-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Walk Multiplier x 4 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF24</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Walk Multiplier x 5 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF24</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-A0-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

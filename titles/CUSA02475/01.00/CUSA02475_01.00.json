@@ -1,0 +1,76 @@
+{
+  "name": "Matterfall",
+  "id": "CUSA02475",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Score after 1 Kill (Do not use with other cheats)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "461F800",
+          "on": "B8FFE0F5058907E9F14CB3FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "31544F7",
+          "on": "E904B34C0190",
+          "off": "740A8B068907"
+        }
+      ]
+    },
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A3D0",
+          "on": "909090909090909090",
+          "off": "C4C17A118D00010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Overcharge on Pickup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8AEE2",
+          "on": "C5FA1193FC000000",
+          "off": "C5FA118BFC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Overcharge Keep Pressin UP to deplete",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "461F800",
+          "on": "5148B98883400008000000488B094883E1107512C5F25DCAC5FA1193FC00000059E987E3A8FBC5F25DCAC5FA118BFC00000059E975E3A8FB",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ADBA5",
+          "on": "E9561C5704909090",
+          "off": "C5FA118BFC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Special Weapons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8ADC0",
+          "on": "C5FA58C9",
+          "off": "C5FA5CC9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

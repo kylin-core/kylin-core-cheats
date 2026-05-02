@@ -1,0 +1,59 @@
+{
+  "name": "Enter The Gungeon",
+  "id": "CUSA01608",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24D3800",
+          "on": "90E9273860FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "AD7026",
+          "on": "E9D5C79F019090",
+          "off": "41898778010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24D3808",
+          "on": "904C89F6E9D13A60FE",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "AD72DC",
+          "on": "E927C59F0190",
+          "off": "FF40144C89F6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Blanks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24D3813",
+          "on": "90E9FE6DCEFD",
+          "off": "000000000000"
+        },
+        {
+          "offset": "1BA60D",
+          "on": "E9019231029090909090",
+          "off": "FFC84189842410020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Jesca"
+  ]
+}

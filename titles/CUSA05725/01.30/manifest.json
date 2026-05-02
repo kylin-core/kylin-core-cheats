@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05725",
+  "version": "01.30",
+  "name": "The Witcher III: GOTY Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05725"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_01.30.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05725_01.30.json",
+      "size": 888,
+      "sha256": "51cb1adbe1ad920a99eab9043020a4f5c3f60926454f8823238b789e56fcfc71",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_01.30.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05725_01.30.shn",
+      "size": 1193,
+      "sha256": "edc350d400f12f198579a24f5fad7f745485350e639bc568ca0a2fff4c5a8385",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_01.30.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05725_01.30.mc4",
+      "size": 1600,
+      "sha256": "d51bbaafc100b7df7d3cbc9f21e5a35620615fc4dc4c85a8f6a1cdd5729863df",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05725_01.30.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

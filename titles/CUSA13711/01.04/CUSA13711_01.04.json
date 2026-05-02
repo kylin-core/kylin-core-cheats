@@ -1,0 +1,44 @@
+{
+  "name": "Windstorm An Unexpected Arrival",
+  "id": "CUSA13711",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vigor Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5E9FD8",
+          "on": "9090909090909090",
+          "off": "C5FA118310020000"
+        }
+      ]
+    },
+    {
+      "name": "Velocidade Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32B3E8",
+          "on": "909090909090",
+          "off": "C4C17A114618"
+        }
+      ]
+    },
+    {
+      "name": "Frutas Infinitas",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D4AE6",
+          "on": "9090909090909090",
+          "off": "41899424F0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

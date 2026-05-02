@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA28863",
+  "version": "01.15",
+  "name": "Elden Ring",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA28863"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28863_01.15.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA28863_01.15.json",
+      "size": 34897,
+      "sha256": "bf8567138477e7c2556171ecfeec5be6767f1309ad96b8bf8b6bcb0bfb13ef24",
+      "cheatCount": 68,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28863_01.15.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA28863_01.15.shn",
+      "size": 30660,
+      "sha256": "2c14184c583a6a51200ca5fb56749c74d38c8ae0605f45a05147476dbe89e26f",
+      "cheatCount": 68,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28863_01.15.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA28863_01.15.mc4",
+      "size": 40896,
+      "sha256": "2ff229b10c4424bbe467b3c7e741138da5664466c2582a287809230ac0ee260b",
+      "cheatCount": 68,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28863_01.15.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

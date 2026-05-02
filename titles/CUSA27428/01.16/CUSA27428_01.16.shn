@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Skul" Moder="Wander d01v FW9.00" Cusa="CUSA27428" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Coins/Crystal/Bones (on gain and use)">
+        <Cheatline>
+            <Offset>7FC5DDA0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-1C-0F-27-00-00-E9-4E-6F-12-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Skill cooldown">
+        <Cheatline>
+            <Offset>7FC5DDF0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-50-00-00-00-00-E9-14-E5-C5-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>1999200</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FB-10-80-88-00-00-00-C5-FB-11-80-80-00-00-00-E9-C6-5E-CB-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,59 @@
+{
+  "name": "STREETS OF RAGE 4",
+  "id": "CUSA16221",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(Master-Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3623800",
+          "on": "4183BC24AC00000002750A418B44240CE97B2609FD4189442420E9712609FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6B5E8B",
+          "on": "E970D9F602",
+          "off": "4189442420"
+        },
+        {
+          "offset": "3623821",
+          "on": "4183BC24380200000075E9418B44240CE95A2609FD4189442420E9502609FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6B5E8B",
+          "on": "E991D9F602",
+          "off": "E970D9F602"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AFD38",
+          "on": "90909090",
+          "off": "FF4C0338"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-stars-Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "281331",
+          "on": "90909090",
+          "off": "4489783C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

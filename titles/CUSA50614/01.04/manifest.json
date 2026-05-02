@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA50614",
+  "version": "01.04",
+  "name": "Elden Ring Nightreign",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA50614"
+  ],
+  "updatedAt": "2026-05-02T10:01:34Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA50614_01.04.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA50614_01.04.json",
+      "size": 11729,
+      "sha256": "683d2469b1f099d2d1d828c327a68e223e3fe360b36a9c87df8d47ba49ee8dcb",
+      "cheatCount": 28,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA50614_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA50614_01.04.shn",
+      "size": 8476,
+      "sha256": "c09c5453e526701daa773f494b4a4a7d4544ef4529441537f017371080ef39b9",
+      "cheatCount": 28,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA50614_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA50614_01.04.mc4",
+      "size": 11308,
+      "sha256": "20b15428b4066554a9ce40423e80ac79acf392843fdec68acc002bd9c675c1c8",
+      "cheatCount": 28,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA50614_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

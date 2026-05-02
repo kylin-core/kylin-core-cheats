@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA31855",
+  "version": "01.02",
+  "name": "STAR OCEAN THE DIVINE FORCE",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA31855"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31855_01.02.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA31855_01.02.json",
+      "size": 2901,
+      "sha256": "ee17a51a94bad099611e00dc833c1ba1fdc7d7f46e83522caa67ee97860e0ab0",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31855_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA31855_01.02.shn",
+      "size": 2687,
+      "sha256": "54262e9549368d842b7d44a7f0ff9011218ea48092bd39284fc2fc4bd7f69703",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31855_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA31855_01.02.mc4",
+      "size": 3584,
+      "sha256": "5a1083ec3a9dc1cbf9f60dfcb5912aa6d5db0e50fd1c9ae113f361fafc77ff6a",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31855_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

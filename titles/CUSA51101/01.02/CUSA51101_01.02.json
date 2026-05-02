@@ -1,0 +1,109 @@
+{
+  "name": "Terminator 2D: NO FATE",
+  "id": "CUSA51101",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "819CB800",
+          "on": "C6832A01000001E986B141FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80DE6989",
+          "on": "E9724EBE009090",
+          "off": "0F94832A010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80E17ACE",
+          "on": "420F18243390",
+          "off": "FF8B94000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80E18A40",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80DE6433",
+          "on": "4529FF",
+          "off": "4529E7"
+        },
+        {
+          "offset": "80ED7324",
+          "on": "31C0",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Special Weapons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80E10263",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Continues",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80FD5B7D",
+          "on": "420F18241890",
+          "off": "FF88A0020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf  Mission Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80F1764C",
+          "on": "C5FB104120",
+          "off": "C5FB104920"
+        }
+      ]
+    },
+    {
+      "name": "Inf Vehicle HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80E296EC",
+          "on": "0F18A068030000",
+          "off": "412B8668030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

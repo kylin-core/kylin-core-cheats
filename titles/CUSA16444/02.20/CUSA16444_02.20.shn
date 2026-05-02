@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aeterno Blade 2" Moder="Reddevil82" Cusa="CUSA16444" Version="02.20" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>59F3000</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-80-54-09-00-00-C5-FA-11-80-50-09-00-00-E9-6C-D5-02-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill">
+        <Cheatline>
+            <Offset>59F3035</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FA-01-74-03-0F-57-C0-C5-FA-11-80-50-09-00-00-E9-2C-53-F3-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite SP">
+        <Cheatline>
+            <Offset>59F30AA</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-64-09-00-00-C5-FA-11-87-60-09-00-00-E9-EF-70-02-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite MP [ on use ]">
+        <Cheatline>
+            <Offset>59F30DF</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-5C-09-00-00-C5-FA-11-87-58-09-00-00-E9-63-50-03-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Time Skill">
+        <Cheatline>
+            <Offset>59F3114</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-57-C0-C5-FA-11-80-2C-26-00-00-E9-AB-50-03-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Special Moves">
+        <Cheatline>
+            <Offset>59F3144</Offset>
+            <Section>0</Section>
+            <ValueOn>31-C9-89-88-9C-1E-00-00-E9-09-8A-02-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Yellow Orbs">
+        <Cheatline>
+            <Offset>66D7F04</Offset>
+            <Section>0</Section>
+            <ValueOn>9F-86-01-00</ValueOn>
+            <ValueOff>9F-86-01-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items [ Quick Slot ]">
+        <Cheatline>
+            <Offset>66D7F08</Offset>
+            <Section>0</Section>
+            <ValueOn>63-00-00-00</ValueOn>
+            <ValueOff>63-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jumps">
+        <Cheatline>
+            <Offset>A3CE93</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-38-18-00-00-01-00-00-00</ValueOn>
+            <ValueOff>C7-80-38-18-00-00-02-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Damage Multiplier Mastercode">
+        <Cheatline>
+            <Offset>66D7F00</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-3F</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Damage Multiplier x 2 [ MC ]">
+        <Cheatline>
+            <Offset>66D7F00</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Damage Multiplier x 4 [ MC ]">
+        <Cheatline>
+            <Offset>66D7F00</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Damage Multiplier x 6 [ MC ]">
+        <Cheatline>
+            <Offset>66D7F00</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-C0-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Damage Multiplier x 8 [ MC ]">
+        <Cheatline>
+            <Offset>66D7F00</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-41</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

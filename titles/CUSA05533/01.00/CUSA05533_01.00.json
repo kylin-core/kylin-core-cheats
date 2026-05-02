@@ -1,0 +1,59 @@
+{
+  "name": "The King of Fighters XIV",
+  "id": "CUSA05533",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health 1P",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A2B818",
+          "on": "415641837F1C0075074501B77C060000415EE9D7FA77FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AB2FF",
+          "on": "E9140588009090",
+          "off": "498D9F7C060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Inf Power Bar on Hit 1P",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A2B800",
+          "on": "41837C241C0075074181C600004040E922F977FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AB12F",
+          "on": "E9CC0688009090",
+          "off": "41C1E6104C89E7"
+        }
+      ]
+    },
+    {
+      "name": "Inf SuperMode 1P (Press R3 to deplete)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A2B82F",
+          "on": "5148B98883400008000000488B094883E104740A89CA89C259E9A29477FF89CA59E99A9477FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A4CE3",
+          "on": "E9476B8800909090",
+          "off": "488D044048C1E810"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

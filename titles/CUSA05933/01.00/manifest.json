@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05933",
+  "version": "01.00",
+  "name": "Kingdom Hearts Birth by Sleep",
+  "process": "khBBS.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05933"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA05933_01.00_khBBS.elf.shn. Other candidate files skipped: 3.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05933_01.00.json",
+      "size": 16753,
+      "sha256": "e57059759a62afbb0054df10466cddd0f0445f3bd0729a81c06e39fa33aadca5",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA05933_01.00_khBBS.elf.shn. Other candidate files skipped: 3.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05933_01.00.shn",
+      "size": 22190,
+      "sha256": "bfffbe69eac59b45730675a25094a2261c40fa365ac37b17095bdfffd4e1e7ae",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA05933_01.00_khBBS.elf.shn. Other candidate files skipped: 3.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05933_01.00.mc4",
+      "size": 29592,
+      "sha256": "87af028e9fc77a3695941f5be0bfdcce6abf7a96d2b01d9da00debdaffa38797",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA05933_01.00_khBBS.elf.shn. Other candidate files skipped: 3.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

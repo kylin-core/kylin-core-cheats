@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05392",
+  "version": "01.00",
+  "name": "Digimon World: Next Order",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05392"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05392_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05392_01.00.json",
+      "size": 5573,
+      "sha256": "be48a2b41c2e624d3f972751800bce6feed19c1aa43301c9d87514fec18b6d37",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05392_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05392_01.00.shn",
+      "size": 4882,
+      "sha256": "0c55c6b55a086bbf1fc0d8a67bc698f222a1fdc9e720b068d6c2664c27a76516",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05392_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05392_01.00.mc4",
+      "size": 6528,
+      "sha256": "190bfb95a62a2ecaf131c223ce8ff3c4c0a74fd8c5a11925c39b00555dbce6df",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05392_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

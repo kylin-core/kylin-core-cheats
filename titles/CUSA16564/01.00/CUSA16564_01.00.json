@@ -1,0 +1,43 @@
+{
+  "name": "The Ninja Saviors: Return of the Warriors",
+  "id": "CUSA16564",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81DEFE90",
+          "on": "C780A801000000009643E90D5479FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "805852A3",
+          "on": "E9E8AB860190909090",
+          "off": "F3440F11B8A8010000"
+        }
+      ]
+    },
+    {
+      "name": "Battery instant charge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81DEFE20",
+          "on": "41C787F40100000000F041E9E10E79FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80580D08",
+          "on": "E913F1860190909090",
+          "off": "F3450F11BFF4010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

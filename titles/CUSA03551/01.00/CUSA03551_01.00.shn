@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bully" Moder="DeathRGH" Cusa="CUSA03551" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>8031C69748</Offset>
+            <Section>0</Section>
+            <ValueOn>00-24-F4-49-00-24-F4-49</ValueOn>
+            <ValueOff>00-00-48-43-00-00-48-43</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

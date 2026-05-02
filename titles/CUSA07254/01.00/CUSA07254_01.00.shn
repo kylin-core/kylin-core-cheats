@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Stellaris: Console Edition" Moder="d01v_9.00" Cusa="CUSA07254" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Stellaris Game Version 04.02">
+        <Cheatline>
+            <Offset>111C9F</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Resources">
+        <Cheatline>
+            <Offset>7FEA1CB1</Offset>
+            <Section>0</Section>
+            <ValueOn>41-52-49-BA-FF-E7-76-48-17-00-00-00-4D-89-55-08-4D-89-55-10-4D-89-55-18-4D-89-55-20-4D-89-55-28-4D-89-55-30-4D-89-55-38-4D-89-55-40-4D-89-55-48-4D-89-55-50-4D-89-55-58-4D-89-55-60-4D-89-55-68-4D-89-55-70-4D-89-55-78-4D-89-95-80-00-00-00-4D-89-95-88-00-00-00-41-5A-C4-C1-7C-10-44-D5-00-E9-92-33-92-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

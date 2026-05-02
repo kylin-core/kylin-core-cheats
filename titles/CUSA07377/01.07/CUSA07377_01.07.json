@@ -1,0 +1,193 @@
+{
+  "name": "Wolfenstein II: The New Colossus",
+  "id": "CUSA07377",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FFB800",
+          "on": "C5FA104718C5FA114710E9E601EAFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "E9B9F0",
+          "on": "E90BFE1502",
+          "off": "C5FA104710"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armour",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FFB80F",
+          "on": "C4C17A10442430C4C17A11442428E9DF70E8FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E828FA",
+          "on": "E9108F17029090",
+          "off": "C4C17A10442428"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "117BDB4",
+          "on": "89C0",
+          "off": "29F8"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "118FCBF",
+          "on": "89D2",
+          "off": "39D6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "118FC62",
+          "on": "83EE00",
+          "off": "017330"
+        },
+        {
+          "offset": "118FC88",
+          "on": "83E800",
+          "off": "894330"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FFB873",
+          "on": "41C744071400000000C4C17A10440714E99D6BE2FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E2241E",
+          "on": "E950941D029090",
+          "off": "C4C17A11440714"
+        }
+      ]
+    },
+    {
+      "name": "Max Enigma Codes/Upgrades on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FFB888",
+          "on": "48C1E104BAE70300008954080CE98C2F88FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "87E81E",
+          "on": "E965D07702909090",
+          "off": "48C1E1040154080C"
+        }
+      ]
+    },
+    {
+      "name": "Venus Suit Never Overheats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FFB89A",
+          "on": "C783984400000000C842C5FA108B98440000E96963EEFD",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EE1C12",
+          "on": "E9839C1102909090",
+          "off": "C5FA118B98440000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (3D Minigame)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11C6667",
+          "on": "4589C0",
+          "off": "4129C8"
+        },
+        {
+          "offset": "11C6E27",
+          "on": "4589C0",
+          "off": "4129C0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives (3D Minigame)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11E3595",
+          "on": "FFC0",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo (3D Minigame)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11C5EAA",
+          "on": "41FFC0",
+          "off": "41FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Max Score on Gain (3D Minigame)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FFB89A",
+          "on": "B83F420F008983947B0700E930841CFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11C3CD4",
+          "on": "E9C17BE30190",
+          "off": "8983947B0700"
+        },
+        {
+          "offset": "2FFB8AA",
+          "on": "B83F420F008983947B0700E9A2641CFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11C1D56",
+          "on": "E94F9BE30190",
+          "off": "8983947B0700"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

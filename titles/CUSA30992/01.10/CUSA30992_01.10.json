@@ -1,0 +1,22 @@
+{
+  "name": "Teenage Mutant Ninja Turtles Shredders",
+  "id": "CUSA30992",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BC20",
+          "on": "909090",
+          "off": "89776C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

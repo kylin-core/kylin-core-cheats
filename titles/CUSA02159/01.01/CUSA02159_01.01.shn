@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Onechanbara Z2: Chaos" Moder="GamerX2" Cusa="CUSA02159" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Money and Skill points">
+        <Cheatline>
+            <Offset>545F9988</Offset>
+            <Section>0</Section>
+            <ValueOn>99-91-94-66</ValueOn>
+            <ValueOff>99-91-94-66</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Cure Gem">
+        <Cheatline>
+            <Offset>545F92E8</Offset>
+            <Section>0</Section>
+            <ValueOn>99</ValueOn>
+            <ValueOff>99</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Goddess Statue Shard">
+        <Cheatline>
+            <Offset>545F92FC</Offset>
+            <Section>0</Section>
+            <ValueOn>99</ValueOn>
+            <ValueOff>99</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Power Gem">
+        <Cheatline>
+            <Offset>545F92EC</Offset>
+            <Section>0</Section>
+            <ValueOn>99</ValueOn>
+            <ValueOff>99</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

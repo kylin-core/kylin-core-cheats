@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last Stand: Aftermath" Moder="Wander" Cusa="CUSA29192" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>8D9CA2</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-46-3C</ValueOn>
+            <ValueOff>C4-C1-7A-11-4E-3C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>2BB49AA</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>42-89-4C-E8-30</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>978BB9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-44-24-5C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Knowledge Points Multiplier (On Gain)">
+        <Cheatline>
+            <Offset>F48E92</Offset>
+            <Section>0</Section>
+            <ValueOn>41-01-47-28</ValueOn>
+            <ValueOff>41-89-47-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Items/Antivirus">
+        <Cheatline>
+            <Offset>A3EA06</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>41-89-47-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Supply Points Multiplier">
+        <Cheatline>
+            <Offset>F4FD16</Offset>
+            <Section>0</Section>
+            <ValueOn>41-01-46-18</ValueOn>
+            <ValueOff>41-89-46-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Knownledge Multiplier(On Spend)">
+        <Cheatline>
+            <Offset>8AE316</Offset>
+            <Section>0</Section>
+            <ValueOn>41-01-46-28</ValueOn>
+            <ValueOff>41-89-46-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Melee Weapon Durability">
+        <Cheatline>
+            <Offset>49C0B9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-47-58</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

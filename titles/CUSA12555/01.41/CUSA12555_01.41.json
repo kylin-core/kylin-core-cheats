@@ -1,0 +1,183 @@
+{
+  "name": "Dying Light 2 Stay Human",
+  "id": "CUSA12555",
+  "version": "01.41",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "695FDB0",
+          "on": "80BF780100002A750FC5FA104714C5FA114704E997517FFBC5FA114704E98D517FFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2154F5A",
+          "on": "E951AE8004",
+          "off": "C5FA114704"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina/Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "331902F",
+          "on": "90909090909090",
+          "off": "C4C17A11442410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Arrows/Craft On Use (Need 2 To work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3291C78",
+          "on": "9090909090",
+          "off": "E86355AFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3291F80",
+          "on": "9090909090",
+          "off": "E85B52AFFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload Crossbow/Boomstick",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34CF62D",
+          "on": "9090909090",
+          "off": "E8AE7B8BFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "695FB30",
+          "on": "C783A800000000803B45E92E965EFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2F49165",
+          "on": "E9C669A103909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Immunity/Chemical Area",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "695F9F0",
+          "on": "C4C17A104720C4C17A11472CE9821399FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "32F0D7D",
+          "on": "E96EEC660390",
+          "off": "C4C17A11472C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite UV Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "695FCB0",
+          "on": "41C784248001000000006041E96D61E5FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "27B5E24",
+          "on": "E9879E1A049090909090",
+          "off": "C4C17A11842480010000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "695F8A0",
+          "on": "0F4CD1C74734FFC99A3BE93BFF92FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "328F7E4",
+          "on": "E9B7006D0390",
+          "off": "0F4CD1895734"
+        },
+        {
+          "offset": "695FBF0",
+          "on": "29D8C74734FFC99A3BE9FFFD92FC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "328F9F8",
+          "on": "E9F3016D03",
+          "off": "29D8894734"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time Missions (Disable B4 Finishing)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3821F78",
+          "on": "9090909090",
+          "off": "C5FA114378"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Level/Inhibitors (Use After Escaping Waltz)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34FF23E",
+          "on": "41897D18",
+          "off": "49894518"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time For Parkour And Fighting Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "695FB90",
+          "on": "90E90B0EEBFB",
+          "off": "000000000000"
+        },
+        {
+          "offset": "2810998",
+          "on": "E9F3F1140490909090",
+          "off": "C4C17A118648030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

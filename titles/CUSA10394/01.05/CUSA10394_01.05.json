@@ -1,0 +1,43 @@
+{
+  "name": "Windstorm The Game Start of a Great Friendship",
+  "id": "CUSA10394",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vigor Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D6645",
+          "on": "9090909090",
+          "off": "C5FA114078"
+        },
+        {
+          "offset": "4DC866",
+          "on": "9090909090",
+          "off": "C5FA114078"
+        }
+      ]
+    },
+    {
+      "name": "Energia Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4823DD0",
+          "on": "41C787F000000000004842E99F1BCDFB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "4F5976",
+          "on": "E955E4320490909090",
+          "off": "C4C17A1187F0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

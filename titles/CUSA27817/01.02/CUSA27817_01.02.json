@@ -1,0 +1,43 @@
+{
+  "name": "Marsupilami Hoobadventure",
+  "id": "CUSA27817",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BC3800",
+          "on": "C7403C63000000E97B7A9CFA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "58B282",
+          "on": "E979856305",
+          "off": "89483CC390"
+        }
+      ]
+    },
+    {
+      "name": "Time always 00:00:00 on time trials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BC3800",
+          "on": "0F57C0C5FA114018E95E3A9CFA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "587266",
+          "on": "E995C56305",
+          "off": "C5FA114018"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito "
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Resident Evil 2 R.P.D Demo",
+  "id": "CUSA17975",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5ACCE11",
+          "on": "909090",
+          "off": "894858"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "154E15E",
+          "on": "909090",
+          "off": "4429F2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "RexXxy"
+  ]
+}

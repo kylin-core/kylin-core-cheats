@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Maneater" Moder="DeathRGH" Cusa="CUSA14538" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>D27DF0</Offset>
+            <Section>0</Section>
+            <ValueOn>55-48-89-E5-C5-FA-11-47-0C</ValueOn>
+            <ValueOff>55-48-89-E5-C5-FA-11-47-0C</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,91 @@
+{
+  "name": "Bloodstained Ritual of the Night",
+  "id": "CUSA07953",
+  "version": "01.60",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health + One hit kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFDF800",
+          "on": "4983F9000F858FE1E4F8B800000000898340020000E97FE1E4F8",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5E2D993",
+          "on": "E9681E1B0790",
+          "off": "898340020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFDF81C",
+          "on": "C783440200003F420F00E98BFBE4F8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5E2F3B0",
+          "on": "E967041B0790",
+          "off": "898B44020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold x999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFDF82D",
+          "on": "C787300400003F420F00E91B87EDF8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5EB7F51",
+          "on": "E9D778120790",
+          "off": "89B730040000"
+        }
+      ]
+    },
+    {
+      "name": "Items x99 (Need 2 to work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFDF83E",
+          "on": "C7424863000000E9F3F2E0F8",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "5DEEB33",
+          "on": "E9060D1F079090909090",
+          "off": "44896A480F88F2010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bullets x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CFDF84C",
+          "on": "41C7474863000000E92943E1F8",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "5DF3B77",
+          "on": "E9D0BC1E07909090909090",
+          "off": "4189474880BDECFCFFFF00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito "
+  ]
+}

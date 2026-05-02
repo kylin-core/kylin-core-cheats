@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="YAKUZA 5" Moder="Wander FW9.00" Cusa="CUSA15363" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Yen (on spend)">
+        <Cheatline>
+            <Offset>7FC5EAF0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-86-08-C8-00-00-FF-E0-F5-05-E9-97-D7-AA-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Abilities Points Multiplier(on use)">
+        <Cheatline>
+            <Offset>707B7F</Offset>
+            <Section>0</Section>
+            <ValueOn>00-47-3C</ValueOn>
+            <ValueOff>88-47-3C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Heat/dragon spirit use (after the first fill)">
+        <Cheatline>
+            <Offset>7FC5E950</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-1C-00-40-1C-46-E9-30-5B-B4-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

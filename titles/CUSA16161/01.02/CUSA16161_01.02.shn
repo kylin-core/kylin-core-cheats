@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Vanquish" Moder="Reddevil82 - FW 9.00" Cusa="CUSA16161" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>1477800</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-8D-48-04-00-00-41-89-8D-40-04-00-00-41-8B-8D-40-04-00-00-E9-46-6E-CD-FE-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>1477830</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-A4-7D-00-00-00-00-7A-44-E9-B3-B3-D2-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill">
+        <Cheatline>
+            <Offset>1477875</Offset>
+            <Section>0</Section>
+            <ValueOn>31-C0-89-87-40-04-00-00-E9-48-35-EC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo ( Weapon right )">
+        <Cheatline>
+            <Offset>14778DC</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-58-6C-01-00-E7-03-44-0F-BF-98-58-6C-01-00-E9-C2-9D-D5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo ( Weapon up )">
+        <Cheatline>
+            <Offset>14778F4</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-38-6C-01-00-E7-03-0F-BF-88-38-6C-01-00-E9-B2-9D-D5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo ( Weapon down )">
+        <Cheatline>
+            <Offset>147790B</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-78-6C-01-00-E7-03-44-0F-BF-90-78-6C-01-00-E9-FE-9D-D5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Grenades">
+        <Cheatline>
+            <Offset>14778AD</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-98-6C-01-00-E7-03-44-0F-BF-98-98-6C-01-00-E9-96-9E-D5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max EMP Grenades">
+        <Cheatline>
+            <Offset>1477923</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-B8-6C-01-00-E7-03-44-0F-BF-98-B8-6C-01-00-E9-66-9E-D5-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>1477884</Offset>
+            <Section>0</Section>
+            <ValueOn>66-8B-51-0C-66-89-51-0E-83-7F-1C-00-E9-8F-57-D0-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Total Score ( after Level finished )">
+        <Cheatline>
+            <Offset>1477897</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-10-FF-E0-F5-05-8B-4B-10-BA-81-69-67-FF-E9-45-4A-0B-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

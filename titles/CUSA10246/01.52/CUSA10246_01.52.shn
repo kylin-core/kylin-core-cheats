@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CODE VEIN" Moder="Reddevil82 " Cusa="CUSA10246" Version="01.52" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Mastercode: Infinite Health / One Hit Kill ( must be activated )">
+        <Cheatline>
+            <Offset>668BDF0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-81-FC-E0-ED-75-15-C5-FA-11-83-FC-01-00-00-C5-FA-11-83-FC-01-00-00-E9-3F-3B-8C-FA-C5-FA-11-83-FC-01-00-00-C5-FA-11-83-FC-01-00-00-E9-2A-3B-8C-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health [MC]">
+        <Cheatline>
+            <Offset>668BDF8</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-08-02-00-00</ValueOn>
+            <ValueOff>C5-FA-11-83-FC-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill [MC]">
+        <Cheatline>
+            <Offset>668BE0D</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-57-C0-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-FC-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>668BE30</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-80-3F-41-89-86-40-03-00-00-E9-3A-2E-22-FC-52-65-64-64-65-76-69-6C-38-32-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Focus">
+        <Cheatline>
+            <Offset>668BE53</Offset>
+            <Section>0</Section>
+            <ValueOn>3D-20-5A-CB-06-75-17-C4-C1-7A-10-86-24-04-00-00-C4-C1-7A-11-86-20-04-00-00-E9-C6-A2-8B-FA-C4-C1-7A-11-86-20-04-00-00-E9-B8-A2-8B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items ( on gain / use )">
+        <Cheatline>
+            <Offset>668BDB0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-8C-77-2A-AD-FA-8B-43-04-89-03-E9-0B-23-AD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Haze ( on gain )">
+        <Cheatline>
+            <Offset>668BDC0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-8B-4C-05-00-00-89-8B-48-05-00-00-E9-D1-2A-AB-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ichor">
+        <Cheatline>
+            <Offset>668BDD1</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-97-04-05-00-00-C4-C1-7A-11-97-00-05-00-00-E9-98-10-AC-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

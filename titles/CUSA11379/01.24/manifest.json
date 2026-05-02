@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11379",
+  "version": "01.24",
+  "name": "Mortal Kombat 11",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11379"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11379_01.24.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11379_01.24.json",
+      "size": 2061,
+      "sha256": "43df8ce535ba02cca69491e109ed8ba45c99aeb4fba0a13f28332fff4622bfac",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11379_01.24.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11379_01.24.shn",
+      "size": 2144,
+      "sha256": "838b144d26a86c311256691954cf54c078cff4bbb630d232a819943e1f1ba7c1",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11379_01.24.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11379_01.24.mc4",
+      "size": 2880,
+      "sha256": "8278575290fe006e74d1dabee643f3e0ef6d52ec5d04e23568816efc29f9c142",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11379_01.24.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

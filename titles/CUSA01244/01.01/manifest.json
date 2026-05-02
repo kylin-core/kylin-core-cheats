@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01244",
+  "version": "01.01",
+  "name": "FINAL FANTASY X/X-2 HD Remaster",
+  "process": "ffx_phyreApp.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01244"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01244_01.01_ffx_phyreApp.elf.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01244_01.01.json",
+      "size": 8324,
+      "sha256": "564c51d77e1b199a96d7654ef3034d28d010e4f7b50b8a1fa3770ef37a4a0377",
+      "cheatCount": 20,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01244_01.01_ffx_phyreApp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01244_01.01.shn",
+      "size": 8214,
+      "sha256": "1ca3b65a28d645ca1b5b04992e25411e4ff54a73444b3127f7fda4a7249c8683",
+      "cheatCount": 20,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01244_01.01_ffx_phyreApp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01244_01.01.mc4",
+      "size": 10968,
+      "sha256": "c0895e6b9996aa84e52638f8912933a75074fd5e11b2faeb2e30b8f27268d199",
+      "cheatCount": 20,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01244_01.01_ffx_phyreApp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

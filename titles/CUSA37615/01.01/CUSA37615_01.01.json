@@ -1,0 +1,33 @@
+{
+  "name": "Deathwish Enforcers",
+  "id": "CUSA37615",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "max-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8056F11A",
+          "on": "909090909090",
+          "off": "8B8080000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805EC822",
+          "on": "909090909090",
+          "off": "8988B0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

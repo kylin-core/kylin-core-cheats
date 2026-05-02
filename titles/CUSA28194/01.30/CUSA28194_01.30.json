@@ -1,0 +1,301 @@
+{
+  "name": "SONIC FRONTIER",
+  "id": "CUSA28194",
+  "version": "01.30",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Rings on hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBA90",
+          "on": "01CA66C74028E703E90809F7FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "134C3A0",
+          "on": "E9EBF60801",
+          "off": "01CA895028"
+        }
+      ]
+    },
+    {
+      "name": "Max rings (on Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBAE0",
+          "on": "4C89E766C74028E703E96D1BE0FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "11DD655",
+          "on": "E986E41F0190",
+          "off": "4C89E7894828"
+        }
+      ]
+    },
+    {
+      "name": "Max Hearts/Koco (on get claim 2 )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBB20",
+          "on": "42C784B8001400000F270000E95AECCDFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "10BA783",
+          "on": "E998133201909090",
+          "off": "4689B4B800140000"
+        }
+      ]
+    },
+    {
+      "name": "Max Blue seeds (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBD80",
+          "on": "41C787B40000000F270000E9BF1CE0FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11DDA48",
+          "on": "E933E31F019090",
+          "off": "41898FB4000000"
+        }
+      ]
+    },
+    {
+      "name": "Max red Seeds (On get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBDE0",
+          "on": "41C787B00000000F270000E9951BE0FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11DD97E",
+          "on": "E95DE41F019090",
+          "off": "41898FB0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )(collect 1 each At least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DB2E0",
+          "on": "C684080010000063448AA40800100000E9E1F8CDFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10BABCE",
+          "on": "E90D073201909090",
+          "off": "448AA40800100000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points (activate and die)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DB9A0",
+          "on": "66C783D0000000E7030FB793D0000000E99841F1FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EFB46",
+          "on": "E955BE0E029090",
+          "off": "0FB793D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Purple Coins (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DB2A0",
+          "on": "41C785B80000000F270000E96728E0FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "11DDB0F",
+          "on": "E98CD71F01909090",
+          "off": "6641898DB8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stars (on collect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DB240",
+          "on": "66C78110010000E703E9343006FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "143E27C",
+          "on": "E9BFCFF90090",
+          "off": "018110010000"
+        }
+      ]
+    },
+    {
+      "name": "Max golden tickets ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DB180",
+          "on": "6641C78424BC000000E703E93130ADFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EAE1B8",
+          "on": "E9C3CF520190909090",
+          "off": "6641898424BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Fish Token (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DB1F0",
+          "on": "6641C78424BA000000E703E9902FADFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "EAE187",
+          "on": "E964D0520190909090",
+          "off": "6641898424BA000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Super Sonic Rings",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBC90",
+          "on": "01CF66C74228E703E91026F3FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "130E2A8",
+          "on": "E9E3D90C01",
+          "off": "01CF897A28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBA40",
+          "on": "41C7453C0000C842E9A8F1F2FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "130ABEF",
+          "on": "E94C0E0D0190",
+          "off": "C4C17A11453C"
+        }
+      ]
+    },
+    {
+      "name": "Family reunion Infinite Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F5FEAD",
+          "on": "9090909090",
+          "off": "C5FA114B38"
+        }
+      ]
+    },
+    {
+      "name": "Springs in the air Infinite Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F7907A",
+          "on": "909090909090",
+          "off": "C4C17A114D38"
+        }
+      ]
+    },
+    {
+      "name": "Koco round up Infinite timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F6695D",
+          "on": "9090909090",
+          "off": "C5FA114838"
+        }
+      ]
+    },
+    {
+      "name": "The best defence Infinite Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F56A97",
+          "on": "909090909090",
+          "off": "C4C17A114D38"
+        }
+      ]
+    },
+    {
+      "name": "Mechanical collectible Infinite Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F544B0",
+          "on": "909090909090",
+          "off": "C4C17A114D38"
+        }
+      ]
+    },
+    {
+      "name": "Bridge the gap Infinite Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F5976B",
+          "on": "9090909090",
+          "off": "C5FA114838"
+        }
+      ]
+    },
+    {
+      "name": "Clear the game in the ruins MAX SCORE",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23DBC20",
+          "on": "41C783A8020000FFE0F505E998BEC3FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1017AC1",
+          "on": "E95A413C019090",
+          "off": "450183A8020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

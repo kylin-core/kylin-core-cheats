@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mega Man Battle Network Legacy Collection Vol. 1" Moder="Wander FW9.00" Cusa="CUSA31426" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (Battle Network 1)">
+        <Cheatline>
+            <Offset>4F0F8F0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C0-20-80-7C-02-64-00-75-08-66-C7-04-02-E7-03-EB-04-66-89-0C-02-E9-44-C5-19-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Zennys (Battle Network 1)">
+        <Cheatline>
+            <Offset>4F0F940</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C1-74-C7-04-0A-FF-E0-F5-05-E9-8F-5E-1F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Uses for items and powerups (have 2) (Battle Network 1)">
+        <Cheatline>
+            <Offset>4F0F990</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-E2-C0-41-C6-04-01-63-E9-DD-89-3F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (battle network 2)">
+        <Cheatline>
+            <Offset>4F0FA00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-04-09-E7-E9-17-AE-95-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Zenny (battle Network 2)">
+        <Cheatline>
+            <Offset>4F0FA40</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C1-74-C7-04-0A-FF-E0-F5-05-E9-7E-EA-85-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Subchips (have 2) Battle network 2">
+        <Cheatline>
+            <Offset>4F0FA80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-57-08-41-C6-04-10-0A-E9-60-8B-B2-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (Battle network 3)">
+        <Cheatline>
+            <Offset>4F0F7A0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-8B-04-09-E9-47-DE-20-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Zennys (Battle Network 3)">
+        <Cheatline>
+            <Offset>4F0FAE0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C1-74-C7-04-0A-FF-E0-F5-05-E9-3E-52-14-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Subchip (battle network 3)">
+        <Cheatline>
+            <Offset>4F0FB30</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-57-08-41-C6-04-10-0A-E9-09-44-48-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Bugfrag (battle network 3)">
+        <Cheatline>
+            <Offset>4F0FBB0</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C1-78-C7-04-0A-FF-E0-F5-05-E9-DE-58-14-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

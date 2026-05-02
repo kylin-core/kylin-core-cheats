@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Trials Rising(TM)" Moder="Talixme" Cusa="CUSA09435" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Stop Timer">
+        <Cheatline>
+            <Offset>1D134D1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-8C-24-B0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Restart Counter">
+        <Cheatline>
+            <Offset>3147000</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-35-12-00-00-00-44-89-B3-E8-0C-00-00-0F-84-57-C0-B3-FE-E9-F3-BF-B3-FE-00-00-00-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="--number">
+        <Cheatline>
+            <Offset>3147019</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Multiplier Gold">
+        <Cheatline>
+            <Offset>3147041</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-35-0A-00-00-00-01-77-6C-31-F6-E9-24-B6-0C-FF-3F-42-0F-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="--gold">
+        <Cheatline>
+            <Offset>3147051</Offset>
+            <Section>0</Section>
+            <ValueOn>3F-42-0F-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy Exp">
+        <Cheatline>
+            <Offset>3147079</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-35-0B-00-00-00-44-01-33-41-89-C7-E9-00-F1-0A-FF-96-00-00-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="--exper">
+        <Cheatline>
+            <Offset>314708B</Offset>
+            <Section>0</Section>
+            <ValueOn>3F-42-0F-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

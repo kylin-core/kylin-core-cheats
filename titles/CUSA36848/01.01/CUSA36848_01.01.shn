@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lies Of Pi" Moder="Celogamez" Cusa="CUSA36848" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health+Stamina+Fable+Legion">
+        <Cheatline>
+            <Offset>69B7DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FB-0C-74-16-43-83-7C-FD-34-64-74-0E-43-C7-44-FD-0C-00-00-FA-43-E9-46-68-BF-FA-43-89-4C-FD-0C-E9-3C-68-BF-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health+Stamina+Fable+Legion+1 Hit Kill">
+        <Cheatline>
+            <Offset>69B7DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FB-0C-74-18-43-83-7C-FD-34-64-74-10-43-C7-44-FD-0C-00-00-FA-43-E9-46-68-BF-FA-31-C0-43-C7-44-FD-0C-00-00-00-00-E9-36-68-BF-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items On Pick Up (x2 To Work)">
+        <Cheatline>
+            <Offset>69B75D0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-3F-C7-47-40-62-00-00-00-8B-77-40-E9-F8-73-C6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Items on Use">
+        <Cheatline>
+            <Offset>69B78D0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-83-E4-46-C7-FA-C7-43-40-64-00-00-00-8B-73-40-E9-9B-46-C7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Weapons Durability">
+        <Cheatline>
+            <Offset>69B7850</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-20-4E-00-00-41-89-85-DC-00-00-00-E9-1F-77-C7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ergo">
+        <Cheatline>
+            <Offset>69B7690</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-FF-C9-9A-3B-89-88-A4-00-00-00-E9-7E-1B-EB-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

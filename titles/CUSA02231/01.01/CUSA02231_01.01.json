@@ -1,0 +1,249 @@
+{
+  "name": "Dishonored (Definitive Edition)",
+  "id": "CUSA02231",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3813",
+          "on": "01",
+          "off": "00"
+        },
+        {
+          "offset": "6CD4F9",
+          "on": "909090",
+          "off": "4129C6"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3814",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6D7AD8",
+          "on": "909090",
+          "off": "0F4FCE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6F3651",
+          "on": "C5F828D0",
+          "off": "C5FA5CD2"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CC0D4",
+          "on": "909090",
+          "off": "4429F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88C200",
+          "on": "909090",
+          "off": "4429F2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88C076",
+          "on": "9090909090909090",
+          "off": "41FF8C8508010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88CE7D",
+          "on": "9090",
+          "off": "29FE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88CE7F",
+          "on": "BE1400000090",
+          "off": "85F6410F4EF0"
+        }
+      ]
+    },
+    {
+      "name": "Stealth",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3875",
+          "on": "B8000000008887F0000000E982BBADFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "78F400",
+          "on": "E9704452019090",
+          "off": "0FB687F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dark Vision",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86EC4C",
+          "on": "90909090",
+          "off": "C5F25CC8"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown: Blink",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8725B2",
+          "on": "90909090909090909090",
+          "off": "C783AC01000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Possession",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "87A37D",
+          "on": "90909090",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Instant Choke",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6691E7",
+          "on": "0F57C09090",
+          "off": "C5FA1045B4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Adrenaline",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6DF189",
+          "on": "90909090",
+          "off": "C5F25CC0"
+        },
+        {
+          "offset": "6DAA50",
+          "on": "90909090909090909090",
+          "off": "C787A80B000000000000"
+        },
+        {
+          "offset": "6CF525",
+          "on": "9090909090",
+          "off": "C5FA1045E4"
+        },
+        {
+          "offset": "6CF52A",
+          "on": "C5F828C890909090",
+          "off": "C5FA588BA80B0000"
+        }
+      ]
+    },
+    {
+      "name": "Wheels Instant Turn",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB384B",
+          "on": "C783D00300000000803FC5FA1083D0030000E930D998FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "64118A",
+          "on": "E9BC266701909090",
+          "off": "C5FA5883D0030000"
+        }
+      ]
+    },
+    {
+      "name": "Safe always Open",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3862",
+          "on": "8B8FF400000089C88987F0000000E9D73D65FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1307646",
+          "on": "E917C29A0090",
+          "off": "8B8FF4000000"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3885",
+          "on": "4883F800741A4883F80374144883F806740E4883F80974084883F80C7402EB050F57C0EB06C5FA58448104E9A159A0FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6B9250",
+          "on": "E930A65F0190",
+          "off": "C5FA58448104"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

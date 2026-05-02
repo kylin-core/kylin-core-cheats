@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11147",
+  "version": "01.00",
+  "name": "鬼武者",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11147"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11147_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11147_01.00.json",
+      "size": 809,
+      "sha256": "d93127b344888527751c88043b992e6990b67905cd4d6b7804bfef59d42f2bf2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11147_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11147_01.00.shn",
+      "size": 1108,
+      "sha256": "9468e3e5e8a6a3aabb73c868b8cdf65efe35275c22379599f38c4a2adbbab116",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11147_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11147_01.00.mc4",
+      "size": 1496,
+      "sha256": "e709fa39453ebac623383ef01498a85e78b032fcc2a28b5e331d7ddf077fc37a",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11147_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

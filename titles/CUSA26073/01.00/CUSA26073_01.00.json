@@ -1,0 +1,109 @@
+{
+  "name": "Natsuki Chronicles",
+  "id": "CUSA26073",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible-ARCADE-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "298389",
+          "on": "909090909090",
+          "off": "FF9088010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-SHELD-ARCADE-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2983DA",
+          "on": "9090909090909090",
+          "off": "C5FA5805F27E6900"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-credits-ARCADE-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36F86D",
+          "on": "909090909090",
+          "off": "FF8B48010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-SP-ARCADE-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29D7B0",
+          "on": "9090909090909090",
+          "off": "C5FA11871C070000"
+        },
+        {
+          "offset": "29D7C6",
+          "on": "909090909090",
+          "off": "89871C070000"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-STORY-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28A571",
+          "on": "909090909090",
+          "off": "FF9088010000"
+        },
+        {
+          "offset": "DAFF6",
+          "on": "9090909090",
+          "off": "E8F51FFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-SHELD-STORY-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28A5CE",
+          "on": "90909090",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-SP-STORY-Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28FF40",
+          "on": "9090909090909090",
+          "off": "C5FA11871C070000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-CR-Points-STORY-Mode-1-buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "40DAF1",
+          "on": "909090909090",
+          "off": "81F900E1F505"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA28907",
+  "version": "01.02",
+  "name": "The Legend of Heroes: Trails into Reverie",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA28907"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28907_01.02.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA28907_01.02.json",
+      "size": 3996,
+      "sha256": "8f9fc260349efbce6701daee0066849c0be36c72695488af8430eb7f19f47883",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28907_01.02.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA28907_01.02.shn",
+      "size": 3666,
+      "sha256": "3fda40400c6404668138da605160b978a5ba19ed3b7a54cb63833819bf571409",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28907_01.02.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA28907_01.02.mc4",
+      "size": 4908,
+      "sha256": "2df5295549f5a1f38e4e0354cd21557218da6fadb266229e239a59cd7adee6de",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA28907_01.02.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

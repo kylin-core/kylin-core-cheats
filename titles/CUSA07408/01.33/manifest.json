@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07408",
+  "version": "01.33",
+  "name": "God of War",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07408"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07408_01.33.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07408_01.33.json",
+      "size": 3267,
+      "sha256": "d95e73c8f47f37ba5e57e2f28f60b76240c1ca55f311adf17b68ac387d4f5298",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07408_01.33.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07408_01.33.shn",
+      "size": 3275,
+      "sha256": "0a1af95f5b165d6d3114f385e9969f38225a12252850008f5ef44af71f55acf9",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07408_01.33.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07408_01.33.mc4",
+      "size": 4376,
+      "sha256": "21fcdcb0e592449a049ec22e59eee27b28a4b1de2f6f75ebd0d2f725c601e994",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07408_01.33.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

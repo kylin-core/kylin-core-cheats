@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA34388",
+  "version": "05.01",
+  "name": "God of War Ragnarok (+Valhalla DLC compatibility)",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA34388"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34388_05.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA34388_05.01.json",
+      "size": 8831,
+      "sha256": "f711c378b12387fab4baf30f5f6b7c17d8092fb5288d5871f62ce6c9fae05d48",
+      "cheatCount": 19,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34388_05.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA34388_05.01.shn",
+      "size": 6601,
+      "sha256": "50329a840d5c3232e46da91392104e4ffea82e12f324518b52a1b0c1f639dfd3",
+      "cheatCount": 19,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34388_05.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA34388_05.01.mc4",
+      "size": 8812,
+      "sha256": "e26c6e20d879ee361fb3149cf573cc03a5bc3d08a2791fdcb28c39d0bd695190",
+      "cheatCount": 19,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34388_05.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

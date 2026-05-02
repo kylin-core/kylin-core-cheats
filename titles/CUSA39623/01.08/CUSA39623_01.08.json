@@ -1,0 +1,33 @@
+{
+  "name": "Skinny and Franko Fists of Violence",
+  "id": "CUSA39623",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80EECFD2",
+          "on": "9090909090",
+          "off": "E8497EDCFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B5F8AA",
+          "on": "90909090",
+          "off": "41895F1C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

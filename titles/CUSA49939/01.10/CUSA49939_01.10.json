@@ -1,0 +1,219 @@
+{
+  "name": "Pirate Yakuza",
+  "id": "CUSA49939",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "5 Mil Reputation (on gain or spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2553905",
+          "on": "7416",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "5 Mil Money (on gain or spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "255390B",
+          "on": "7406",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Inf Item (on gain or use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "255385D",
+          "on": "41C701E8030000E96C4619FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "6E7E25",
+          "on": "E933BAE601909090",
+          "off": "418911E9A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16678D3",
+          "on": "90909090",
+          "off": "48894808"
+        }
+      ]
+    },
+    {
+      "name": "Inf Heat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2553879",
+          "on": "41C746280000803FE9416DFBFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "150A5C1",
+          "on": "E9B392040190",
+          "off": "C4C17A114628"
+        }
+      ]
+    },
+    {
+      "name": "Inf Madness",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25538EF",
+          "on": "C743480000803FE97182FBFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "150BB67",
+          "on": "E9837D0401",
+          "off": "C5FA114348"
+        }
+      ]
+    },
+    {
+      "name": "Ship Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25538DB",
+          "on": "498B064C89F748893D18776F01E987D6E4FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A0F6E",
+          "on": "E968291B0290",
+          "off": "498B064C89F7"
+        },
+        {
+          "offset": "2553888",
+          "on": "48893D71776F01FF9040010000E971ACDBFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "30E505",
+          "on": "E97E53240290",
+          "off": "FF9040010000"
+        },
+        {
+          "offset": "255389C",
+          "on": "4155415649C7C500B004044D8B7500415D4D39F7415E740EC4C17A118F58020000E94FF4E3FD4156458BB7540200004589B758020000415EE938F4E3FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "392D08",
+          "on": "E98F0B1C0290909090",
+          "off": "C4C17A118F58020000"
+        }
+      ]
+    },
+    {
+      "name": "Ship Inf Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2553800",
+          "on": "C7838C0300000000803FE98AAAE3FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "38E291",
+          "on": "E96A551C02909090",
+          "off": "C5FA11838C030000"
+        }
+      ]
+    },
+    {
+      "name": "Pool Inf One Shot Challenge Attempts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2553811",
+          "on": "C780740C00000A00000041BF0A000000E96288A7FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FCC081",
+          "on": "E98B7758009090",
+          "off": "448BB8740C0000"
+        }
+      ]
+    },
+    {
+      "name": "Baseball Inf Cannonball",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "207A61A",
+          "on": "909090909090",
+          "off": "FF8B74110000"
+        }
+      ]
+    },
+    {
+      "name": "Golf Closest to the Pin 5000 points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2553828",
+          "on": "C7477088130000488B4730E9B8DAA1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1F712E9",
+          "on": "E93A255E009090",
+          "off": "897770488B4730"
+        }
+      ]
+    },
+    {
+      "name": "Golf Inf Bingo Attempts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "255383A",
+          "on": "C74774010000004C89F7E96ADEA1FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F716AD",
+          "on": "E988215E0090",
+          "off": "8957744C89F7"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Delivery 100k Points Per Trick",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "255384B",
+          "on": "418187D8000000A0860100E9A6DC65FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1BB14FA",
+          "on": "E94C239A009090",
+          "off": "4501A7D8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2pt"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Rogue Stormers",
+  "id": "CUSA06072",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4ABC09",
+          "on": "C4C17A118560030000",
+          "off": "C4C17A1195600300"
+        }
+      ]
+    },
+    {
+      "name": "Inf Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BF800",
+          "on": "BE7F96980089B308010000E9CEE628FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "54DED8",
+          "on": "E92319D70090",
+          "off": "01B308010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Max EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12BF810",
+          "on": "0F8367B922FF49C7C67F96980045897748E9E7B822FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4EB107",
+          "on": "E90447DD0090",
+          "off": "737A45017748"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B8D8F",
+          "on": "9090909090909090",
+          "off": "C5FA1183C8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

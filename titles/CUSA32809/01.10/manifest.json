@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA32809",
+  "version": "01.10",
+  "name": "SWORD ART ONLINE Last Recollection",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA32809"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32809_01.10.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA32809_01.10.json",
+      "size": 889,
+      "sha256": "12b9bd3b61d68f3cec0871a77b1e22a0583c47523be98fb3fafb56c434f04a61",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32809_01.10.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA32809_01.10.shn",
+      "size": 938,
+      "sha256": "b07186f60a45fd8bd5d601592bfdf516d5f361eae6d8eba77cb81d924c1180b7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32809_01.10.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA32809_01.10.mc4",
+      "size": 1260,
+      "sha256": "1fafaf95f8724fd73b5caef97cb2874529e67720bf73359930f4493413c77110",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32809_01.10.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

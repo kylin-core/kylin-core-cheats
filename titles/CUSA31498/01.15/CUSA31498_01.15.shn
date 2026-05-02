@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP0102-CUSA31498_00-STREETFIGHTER006" Moder="Talixme" Cusa="CUSA31498" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="TRAINER INFO (read only)">
+        <Cheatline>
+            <Offset>CE92FFF</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Life">
+        <Cheatline>
+            <Offset>CE93000</Offset>
+            <Section>0</Section>
+            <ValueOn>83-B8-98-03-00-00-00-0F-84-F4-D6-52-F7-89-98-F8-03-00-00-E9-E9-D6-52-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Money">
+        <Cheatline>
+            <Offset>CE93038</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-3F-42-0F-00-89-48-14-0F-85-5C-F8-B2-F6-E9-96-F7-B2-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items">
+        <Cheatline>
+            <Offset>CE9306B</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C0-01-41-89-45-20-E9-B9-29-39-F9-E9-1E-2C-39-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill">
+        <Cheatline>
+            <Offset>CE9309C</Offset>
+            <Section>0</Section>
+            <ValueOn>83-B8-98-03-00-00-00-0F-84-58-D6-52-F7-C7-80-F8-03-00-00-00-00-00-00-E9-49-D6-52-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

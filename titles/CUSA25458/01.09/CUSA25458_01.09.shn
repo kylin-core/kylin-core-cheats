@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="R-TYPE FINAL 2" Moder="Broken Angel" Cusa="CUSA25458" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="2 Hit Kill">
+        <Cheatline>
+            <Offset>64D1670</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-04-88-00-00-80-3F-E9-FF-28-A4-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Life">
+        <Cheatline>
+            <Offset>64D14C0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-87-44-02-00-00-C7-87-44-02-00-00-63-00-00-00-E9-05-95-5F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Score">
+        <Cheatline>
+            <Offset>64D1500</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-87-4C-02-00-00-C7-87-4C-02-00-00-7F-96-98-00-C7-87-50-02-00-00-7F-96-98-00-E9-9B-95-5F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coin">
+        <Cheatline>
+            <Offset>64D1540</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-E5-8B-47-34-C7-47-34-FF-C9-9A-3B-C7-87-70-73-01-00-FF-C9-9A-3B-C7-87-74-73-01-00-FF-C9-9A-3B-C7-87-78-73-01-00-FF-C9-9A-3B-E9-F7-05-AC-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="High Beam Shooter Always Max">
+        <Cheatline>
+            <Offset>64D15E0</Offset>
+            <Section>0</Section>
+            <ValueOn>31-C0-41-8B-4E-04-41-C7-46-04-00-00-48-43-E9-75-5C-DC-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Dose is always full and available">
+        <Cheatline>
+            <Offset>64D1630</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-CC-07-00-00-C7-87-CC-07-00-00-80-4F-C3-47-E9-85-A6-A9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

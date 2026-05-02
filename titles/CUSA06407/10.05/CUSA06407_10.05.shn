@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cities: Skylines" Moder="Echo Stretch" Cusa="CUSA06407" Version="10.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Money On Spend">
+        <Cheatline>
+            <Offset>805EE4D6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-7F-87-A8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

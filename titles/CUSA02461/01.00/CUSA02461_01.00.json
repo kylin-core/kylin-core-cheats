@@ -1,0 +1,59 @@
+{
+  "name": "Tales of Zestiria",
+  "id": "CUSA02461",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "113B800",
+          "on": "0F4EDA89DA837904010F850FFC27FF909090E90AFC27FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3BB419",
+          "on": "E9E203D800",
+          "off": "0F4EDA89DA"
+        }
+      ]
+    },
+    {
+      "name": "Inf EXP / Max LvL",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "113B817",
+          "on": "BAFFE0F5050F4ED1BA7F969800E997F934FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "48B1B8",
+          "on": "E95A06CB00909090",
+          "off": "BAFFE0F5050F4ED1"
+        }
+      ]
+    },
+    {
+      "name": "Inf Glad/Money (On Buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4793CA",
+          "on": "BEFFC99A3B90",
+          "off": "81FEFFC99A3B"
+        },
+        {
+          "offset": "4793D5",
+          "on": "909090",
+          "off": "0F4ECE"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

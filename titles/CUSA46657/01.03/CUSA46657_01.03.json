@@ -1,0 +1,81 @@
+{
+  "name": "Tails of Iron 2 Whiskers of Winter Deluxe Edition",
+  "id": "CUSA46657",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B4DBD4",
+          "on": "9090909090",
+          "off": "E8B711FFFF"
+        },
+        {
+          "offset": "80B4EBDF",
+          "on": "9090909090",
+          "off": "E8AC01FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80844A59",
+          "on": "9090909090",
+          "off": "C5FA114020"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Cost-GOLD + INF-99999-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8392F800",
+          "on": "B99F8601008948144883C408E9995E31FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80C456A3",
+          "on": "E958A1CE029090",
+          "off": "8948144883C408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80837032",
+          "on": "90909090",
+          "off": "41294514"
+        },
+        {
+          "offset": "80835741",
+          "on": "9090909090",
+          "off": "4129442414"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808437EC",
+          "on": "909090909090",
+          "off": "898830010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

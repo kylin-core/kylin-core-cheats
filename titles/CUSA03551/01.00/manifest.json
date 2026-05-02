@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03551",
+  "version": "01.00",
+  "name": "Bully",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03551"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03551_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03551_01.00.json",
+      "size": 378,
+      "sha256": "7bbbba5bd151723455a5c531aabb3c9b111840bf92988ce5c1d2a08033d1935b",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03551_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03551_01.00.shn",
+      "size": 563,
+      "sha256": "33ec99a334bb5c23c2841cfcbd21ae85653831cddebb06e6fb17a67659c49823",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03551_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03551_01.00.mc4",
+      "size": 768,
+      "sha256": "a652bf3b9fa146e44e4f52641076869469a5638bd9fe0b3cae3b720a0d2bf8cf",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03551_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

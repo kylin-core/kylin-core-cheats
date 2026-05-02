@@ -1,0 +1,124 @@
+{
+  "name": "Atomfall Deluxe Edition",
+  "id": "CUSA42503",
+  "version": "01.22",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14DF81F",
+          "on": "4983F8010F846FE49CFFE822DE9FFFE965E49CFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EADC93",
+          "on": "E9871B6300",
+          "off": "E8B8F90200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14DF800",
+          "on": "83BBC400000000750AC5FA104B0CE9879526FFC5FA114B68E97D9526FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "748D95",
+          "on": "E9666AD900",
+          "off": "C5FA114B68"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C2A0C0",
+          "on": "9090909090",
+          "off": "E84B90FFFF"
+        }
+      ]
+    },
+    {
+      "name": "MAX-SkillS-Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14DF84B",
+          "on": "B80F2700008983A8070000E945828CFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "DA7A9A",
+          "on": "E9AC7D730090",
+          "off": "8983A8070000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14DF85D",
+          "on": "BEE70300008970044189DEE921BCBAFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "108B488",
+          "on": "E9D043450090",
+          "off": "8970044189DE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C81307",
+          "on": "9090909090",
+          "off": "E834A10000"
+        }
+      ]
+    },
+    {
+      "name": "Rapid-Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C1198E",
+          "on": "9090909090",
+          "off": "E8CD860100"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14DF835",
+          "on": "4983F8010F846D9526FFC5F82E4368E9639526FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "748DA7",
+          "on": "E9896AD900",
+          "off": "C5F82E4368"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

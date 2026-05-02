@@ -1,0 +1,319 @@
+{
+  "name": "Everreach - Project Eden",
+  "id": "CUSA18934",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "C5FA104B18C5FA114B44E908B3AB00",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8071A312",
+          "on": "E9E94C54FF",
+          "off": "C5FA114B44"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F02F",
+          "on": "C5FA105B24C5FA115B40E96CB3AB00",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8071A3A5",
+          "on": "E9854C54FF",
+          "off": "C5FA115B40"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F05E",
+          "on": "C5FA10432CC5FA11433CE9B274AB00",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8071651A",
+          "on": "E93F8B54FF",
+          "off": "C5FA11433C"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Riffle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF00",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F08D",
+          "on": "4150448B056A0E0100448980F40300004158C5F22A80F4030000E967A59D00",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8063960B",
+          "on": "E97D5A62FF909090",
+          "off": "C5F22A80F4030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Clip Riffle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF04",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F0CC",
+          "on": "4150448B052F0E0100448980EC0300004158C5FA2A80EC030000E919A59D00",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806395FC",
+          "on": "E9CB5A62FF909090",
+          "off": "C5FA2A80EC030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Pistol",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF08",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F10B",
+          "on": "4150448B05F40D0100448980F00300004158C5FA2A88F0030000E952A59D00",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80639674",
+          "on": "E9925A62FF909090",
+          "off": "C5FA2A88F0030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Pistol Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF0C",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F14A",
+          "on": "4150448B05B90D0100448980E80300004158C5FA2A90E8030000E9FFA49D00",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80639660",
+          "on": "E9E55A62FF909090",
+          "off": "C5FA2A90E8030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Liquid Nitrogen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF10",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F189",
+          "on": "518B0D800D0100418988E801000059413998E8010000E9EB7C9500",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805B6E88",
+          "on": "E9FC826AFF9090",
+          "off": "413998E8010000"
+        }
+      ]
+    },
+    {
+      "name": "Max EM Coil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF14",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F1C4",
+          "on": "518B0D490D0100418988EC01000059453988EC010000E9B97C9500",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805B6E91",
+          "on": "E92E836AFF9090",
+          "off": "453988EC010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Energy Cell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF18",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F1FF",
+          "on": "518B0D120D0100418988F001000059453990F0010000E9877C9500",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805B6E9A",
+          "on": "E960836AFF9090",
+          "off": "453990F0010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF1C",
+          "on": "E7030000",
+          "off": "E7030000"
+        },
+        {
+          "offset": "7FC5F23A",
+          "on": "8B35DC0C0100E923769D00",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "80636861",
+          "on": "E9D48962FF9090",
+          "off": "418BB754010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF20",
+          "on": "63000000",
+          "off": "63000000"
+        },
+        {
+          "offset": "7FC5F265",
+          "on": "8B35B50C01004189B750010000418BB750010000E96C739D00",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806365E3",
+          "on": "E97D8C62FF9090",
+          "off": "418BB750010000"
+        }
+      ]
+    },
+    {
+      "name": "Walk Speed Multiplier Mastercode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F29E",
+          "on": "C5FA1083C4000000F30F5905760C0100E9E442A200",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8068358F",
+          "on": "E90ABD5DFF909090",
+          "off": "C5FA1083C4000000"
+        }
+      ]
+    },
+    {
+      "name": "Walk Multiplier x 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF24",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Walk Multiplier x 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF24",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Walk Multiplier x 3 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF24",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Walk Multiplier x 4 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF24",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Walk Multiplier x 5 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC6FF24",
+          "on": "0000A040",
+          "off": "0000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

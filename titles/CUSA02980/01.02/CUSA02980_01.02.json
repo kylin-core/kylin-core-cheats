@@ -1,0 +1,87 @@
+{
+  "name": "Borderlands THC Borderlands 2",
+  "id": "CUSA02980",
+  "version": "01.02",
+  "process": "MAGNOLIA.elf",
+  "mods": [
+    {
+      "name": "Instant lvl 72 - Inf Ammo - Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73DD6A",
+          "on": "C5FA119BA0000000",
+          "off": "C5FA1193A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Credits-Eridium-Seraph-Torgue",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EC380E",
+          "on": "41C7848678040000FFE0F505418B848678040000E97A55DAFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C68D99",
+          "on": "E970AA2501909090",
+          "off": "418B848678040000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Skill Points - Badass Tokens On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BBFB",
+          "on": "0345C8",
+          "off": "2B45C8"
+        }
+      ]
+    },
+    {
+      "name": "Increase Redeem Taken By 20%",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EC3827",
+          "on": "49FF47288B030500010000FFC0E9FC8219FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5BB2D",
+          "on": "E9F57CE601909090",
+          "off": "49FF47288B03FFC0"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo - Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73DD32",
+          "on": "90909090",
+          "off": "C5F25CCA"
+        }
+      ]
+    },
+    {
+      "name": "No Reload- Inf Ammo must be On",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B77E",
+          "on": "909090",
+          "off": "41890E"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

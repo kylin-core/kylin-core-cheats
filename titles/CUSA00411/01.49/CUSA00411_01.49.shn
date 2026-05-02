@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto V 侠盗猎车手5" Moder="k0s0ng & Rizla & FLiNG" Cusa="CUSA00411" Version="01.49" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health | 无限生命">
+        <Cheatline>
+            <Offset>26F07E0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-54-02-00-00-80-4F-C3-47-C5-FA-10-80-54-02-00-00-C5-FA-11-80-50-02-00-00-E9-F6-6A-24-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo | 无限弹药">
+        <Cheatline>
+            <Offset>26F08F0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-A3-C3-C9-FF-66-C7-41-1C-E7-03-8B-41-1C-E9-6A-C3-C9-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload | 无需装弹">
+        <Cheatline>
+            <Offset>149FD50</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina | 无限耐力">
+        <Cheatline>
+            <Offset>26F08D0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-8B-38-0D-00-00-C5-FA-11-8B-34-0D-00-00-E9-1D-23-F9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen | 无限氧气">
+        <Cheatline>
+            <Offset>26F08B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-46-10-C4-C1-7A-11-46-04-E9-E1-F2-F4-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Special Ability | 无限特殊能力">
+        <Cheatline>
+            <Offset>26F08A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-3C-C5-FA-11-4B-34-E9-10-C1-F8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Vehicle Durable | 无限载具耐久度">
+        <Cheatline>
+            <Offset>26F0800</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-E0-08-00-00-00-00-7A-44-C5-FA-10-80-E0-08-00-00-E9-E0-63-C1-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump | 超级跳">
+        <Cheatline>
+            <Offset>26F0990</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-86-38-10-00-00-C7-80-B0-02-00-00-00-40-00-00-E9-54-EF-1C-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Invincible Mode (On) | 无敌模式 (开)">
+        <Cheatline>
+            <Offset>26F0880</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-58-01-00-00-FC-09-40-00-C4-C1-78-2E-86-50-02-00-00-E9-68-39-44-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Invincible Mode (Off) | 无敌模式 (关)">
+        <Cheatline>
+            <Offset>26F0880</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-58-01-00-00-0C-00-40-00-C4-C1-78-2E-86-50-02-00-00-E9-68-39-44-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Wanted Star Level | 重置通缉星级">
+        <Cheatline>
+            <Offset>26F0950</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-44-87-B8-00-00-00-83-BF-B8-00-00-00-00-75-05-E9-69-A2-9A-FD-C7-87-B0-00-00-00-00-00-00-00-C7-87-B4-00-00-00-00-00-00-00-C7-87-B8-00-00-00-00-00-00-00-E9-46-A2-9A-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Remove Noise On Wanted | 消除通缉噪音">
+        <Cheatline>
+            <Offset>4EDFC0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Swim Speed Multiply 2 | 游泳速度 2 倍">
+        <Cheatline>
+            <Offset>26F0930</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-BC-05-00-00-00-00-00-40-C5-FA-10-80-54-02-00-00-E9-C1-69-24-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Swim Speed Multiply 3 | 游泳速度 3 倍">
+        <Cheatline>
+            <Offset>26F0930</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-BC-05-00-00-00-00-40-40-C5-FA-10-80-54-02-00-00-E9-C1-69-24-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Money 999999999 | 金钱 999999999">
+        <Cheatline>
+            <Offset>26F0840</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-63-F0-85-C0-74-1D-8B-0D-B3-B6-76-01-85-C9-74-13-48-8D-47-0C-48-31-C1-89-08-C7-05-9C-B6-76-01-00-00-00-00-48-8B-83-80-02-00-00-E9-81-7A-98-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

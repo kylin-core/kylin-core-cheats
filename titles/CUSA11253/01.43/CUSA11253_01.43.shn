@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Cells" Moder="Celogamez" Cusa="CUSA11253" Version="01.43" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max/Infinite Health/1 Hit Kill (Master Code)">
+        <Cheatline>
+            <Offset>1767E70</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-60-00-75-17-41-89-84-24-64-01-00-00-41-89-84-24-64-01-00-00-E9-94-90-93-FE-31-C0-41-89-84-24-64-01-00-00-E9-85-90-93-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Health (Need MC)">
+        <Cheatline>
+            <Offset>1767E78</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-84-24-6C-01-00-00</ValueOn>
+            <ValueOff>41-89-84-24-64-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill Need MC)">
+        <Cheatline>
+            <Offset>1767E76</Offset>
+            <Section>0</Section>
+            <ValueOn>75-15</ValueOn>
+            <ValueOff>75-17</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Arrows">
+        <Cheatline>
+            <Offset>3ED634</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-6B-30</ValueOn>
+            <ValueOff>44-89-6B-30</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Money">
+        <Cheatline>
+            <Offset>1767EB0</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-40-42-0F-00-89-70-48-E9-47-B5-BC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Cells">
+        <Cheatline>
+            <Offset>1767ED0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-AC-04-00-00-40-42-0F-00-E9-9A-C7-BC-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Cooldown Ability">
+        <Cheatline>
+            <Offset>1767F90</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-53-57-9A-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jumps">
+        <Cheatline>
+            <Offset>1767F30</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-99-FC-C0-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

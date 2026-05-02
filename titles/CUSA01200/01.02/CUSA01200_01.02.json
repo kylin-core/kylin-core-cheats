@@ -1,0 +1,88 @@
+{
+  "name": "Street Fighter V",
+  "id": "CUSA01200",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "P1: Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AEB800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "P1: 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AEB800",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "P2: Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AEB801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "P2: 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AEB801",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Instant Regeneration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FD80",
+          "on": "89C190",
+          "off": "0F4FC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Critical Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "801E9",
+          "on": "909090",
+          "off": "0F4EC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite V-Trigger Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "806A0",
+          "on": "909090",
+          "off": "0F4EC8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

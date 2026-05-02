@@ -1,0 +1,49 @@
+{
+  "name": "heart &amp; slash",
+  "id": "CUSA04531",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "god mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "508A7F",
+          "on": "90909090909090",
+          "off": "4589BE44020000"
+        }
+      ]
+    },
+    {
+      "name": "max screw on pick",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "110F800",
+          "on": "4863442408B86400000041894614E9BFA34D7F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805E9BC9",
+          "on": "E9325CB28090909090",
+          "off": "486344240841894614"
+        }
+      ]
+    },
+    {
+      "name": "bullet inf",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B0036",
+          "on": "90909090909090",
+          "off": "418987FC030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "cjwine"
+  ]
+}

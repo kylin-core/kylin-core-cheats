@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed® IV Black Flag" Moder="Saso" Cusa="CUSA00009" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>3E25D00</Offset>
+            <Section>0</Section>
+            <ValueOn>66-8B-93-AC-00-00-00-66-89-93-AA-00-00-00-E9-DC-89-17-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen">
+        <Cheatline>
+            <Offset>1F976EC</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-80-E0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Money/Ammo/Consumables/Ship Ammo">
+        <Cheatline>
+            <Offset>3E25CA0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-47-10-80-7F-08-01-75-0A-B8-3F-42-0F-00-E9-17-37-94-FE-B8-0F-27-00-00-E9-0D-37-94-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>1B45AEB</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>29-F1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ship Health">
+        <Cheatline>
+            <Offset>3E25C20</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-3C-24-E0-05-9B-04-75-15-41-83-BC-24-80-01-00-00-00-75-0A-C4-C1-7A-10-9C-24-30-01-00-00-C4-C1-7A-11-9C-24-58-01-00-00-E9-D1-EE-5F-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Cargo">
+        <Cheatline>
+            <Offset>3E25C60</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-4F-10-B9-D0-07-00-00-E9-87-3A-94-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Swivel Ammo">
+        <Cheatline>
+            <Offset>3E25CD0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-47-10-41-BE-05-00-00-00-44-89-70-40-E9-AB-40-C8-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

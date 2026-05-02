@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wo Long: Fallen Dynasty" Moder="wander FW9.00" Cusa="CUSA36986" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health/Invisible">
+        <Cheatline>
+            <Offset>32EE170</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-BF-14-03-00-00-02-75-0A-41-C7-47-10-00-C0-79-44-EB-06-C4-C1-7C-11-47-10-E9-FF-A9-21-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Buff duration ">
+        <Cheatline>
+            <Offset>3357AA0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-88-00-00-00-00-00-FA-44-E9-62-88-12-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="NoStun/infinite spell(reach max lvl in morals and character)">
+        <Cheatline>
+            <Offset>32EF930</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-22-F3-20-FD-C7-40-10-68-9C-2F-4D-8B-48-10-E9-10-F3-20-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Morals (on losing 1 moral)">
+        <Cheatline>
+            <Offset>32E82F0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-10-40-78-7D-01-E9-F3-6E-1F-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Accolades (on buy)">
+        <Cheatline>
+            <Offset>3357870</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-CF-C7-40-0C-FF-C9-9A-3B-E9-EC-74-D7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="99 Dragon cure potion(on use)">
+        <Cheatline>
+            <Offset>3357A20</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-AD-A6-00-00-63-E9-82-4A-D7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Genuine Qi (on get)">
+        <Cheatline>
+            <Offset>3357980</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-D1-C7-00-7F-96-98-00-E9-33-E1-D6-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coppers (on get)">
+        <Cheatline>
+            <Offset>32EB210</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-CF-C7-40-08-FF-C9-9A-3B-E9-A9-3A-DE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="99 Wizardy spell (on spend)">
+        <Cheatline>
+            <Offset>331E990</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-84-81-D4-01-00-00-63-E9-BC-9A-DA-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="99 Throwables/items (on use/spend)">
+        <Cheatline>
+            <Offset>3357A50</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-47-08-63-89-F0-E9-60-9D-9F-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Beast power charge (after1 hit done to enemies)">
+        <Cheatline>
+            <Offset>3357B40</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-50-00-00-7A-44-E9-26-34-1B-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Tiger Beast duration">
+        <Cheatline>
+            <Offset>32E3E30</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-41-70-0F-27-00-00-8B-49-70-39-4B-38-E9-10-48-E8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

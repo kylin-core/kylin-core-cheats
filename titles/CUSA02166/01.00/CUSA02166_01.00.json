@@ -1,0 +1,55 @@
+{
+  "name": "Mitsurugi Kamae Hikae",
+  "id": "CUSA02166",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DF1F",
+          "on": "8B8378080000",
+          "off": "898378080000"
+        }
+      ]
+    },
+    {
+      "name": "Max SP on Pickup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D1E9",
+          "on": "018330080000",
+          "off": "01B330080000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Katana Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13A7F",
+          "on": "89C390",
+          "off": "0F4ED8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17ADE",
+          "on": "4589F490",
+          "off": "450F48E5"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

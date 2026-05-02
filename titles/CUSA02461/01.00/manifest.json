@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02461",
+  "version": "01.00",
+  "name": "Tales of Zestiria",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02461"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA02461_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02461_01.00.json",
+      "size": 1248,
+      "sha256": "534fdc9d792b6aea04d3f7fe0a43f25b83fbf2bc772ccfd7bbc4e94a9bb10c8d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA02461_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02461_01.00.shn",
+      "size": 1262,
+      "sha256": "f147b3ae64323e51dc607b3bc62789f99f9a3e88a9c5b695fa48d7c6f5bbf350",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA02461_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02461_01.00.mc4",
+      "size": 1688,
+      "sha256": "da1d2eb92ab3b0b2e5b9a7179b2c9bd8250cc8a72b1ffed09b638c837b017db4",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA02461_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

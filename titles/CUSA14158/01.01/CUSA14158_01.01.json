@@ -1,0 +1,134 @@
+{
+  "name": "Crocs World",
+  "id": "CUSA14158",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFDB0",
+          "on": "B86300000041898704040000E9A87AACFD526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "197862",
+          "on": "E9498553029090",
+          "off": "49638704040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFDD5",
+          "on": "41C7861404000000C07944E90A4BABFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1848E6",
+          "on": "E9EAB4540290909090",
+          "off": "F3410F118614040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gems",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFDE5",
+          "on": "41C7870004000063000000E9A7A8ADFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1AA695",
+          "on": "E94B5752029090",
+          "off": "41898700040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stones - [ Infinite Health ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFDF5",
+          "on": "B8E703000041898710040000E9D57CACFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "197AD4",
+          "on": "E91C8353029090",
+          "off": "49638710040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFE06",
+          "on": "B87F969800418987F0030000E91C79ACFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "19772C",
+          "on": "E9D58653029090",
+          "off": "498B87F0030000"
+        }
+      ]
+    },
+    {
+      "name": "Moon Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A8467",
+          "on": "C6403000",
+          "off": "C6403001"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Stages [ World 1 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFE17",
+          "on": "C740241E000000486340244D85F6E925FBAEFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BF948",
+          "on": "E9CA0451029090",
+          "off": "486340244D85F6"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Stages [ World 2 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26CFE2A",
+          "on": "C740281E000000486340284D85F6E946FBAEFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BF97C",
+          "on": "E9A90451029090",
+          "off": "486340284D85F6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

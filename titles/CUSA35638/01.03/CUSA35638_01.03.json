@@ -1,0 +1,86 @@
+{
+  "name": "The Last Faith",
+  "id": "CUSA35638",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82DFE030",
+          "on": "4181FB0000118075168B472CE9F38E32FE807F285075088B472CE9E58E32FE89472C0F84F78E32FEE9D78E32FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81126F2F",
+          "on": "E9FC70CD01",
+          "off": "89472C741B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Power (M)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82DFE037",
+          "on": "7508",
+          "off": "7516"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82DFEB70",
+          "on": "8B482C0F84A08232FEE9808232FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "81126DF9",
+          "on": "E9727DCD01",
+          "off": "89482C741B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items (on use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82DFFB40",
+          "on": "6641C74630DF03498B4620E92E9F59FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "81399A76",
+          "on": "E9C560A601909090",
+          "off": "41894630498B4620"
+        }
+      ]
+    },
+    {
+      "name": "Max Nycrux (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82DFFA60",
+          "on": "41C74630FFE0F505498B4620E9FB9E59FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81399964",
+          "on": "E9F760A601909090",
+          "off": "41894630498B4620"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

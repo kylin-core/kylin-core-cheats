@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03979",
+  "version": "01.00",
+  "name": "BioShock : The Collection",
+  "process": "LaunchOrbis.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03979"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03979_01.00_LaunchOrbis.elf.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03979_01.00.json",
+      "size": 1730,
+      "sha256": "a03adf66f0edbbe3008a76d593d5e2edf136f1e6957926def2d1edc1fdb33fc8",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03979_01.00_LaunchOrbis.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03979_01.00.shn",
+      "size": 1813,
+      "sha256": "1f1831bd85cf5938a08d1189b87eb1181573c488d9eed2df567de18e273120bd",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03979_01.00_LaunchOrbis.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03979_01.00.mc4",
+      "size": 2432,
+      "sha256": "ec69eb1c4825137440cb7aba373f7ab8edc76cfca04b30de628109470db4ad70",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03979_01.00_LaunchOrbis.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

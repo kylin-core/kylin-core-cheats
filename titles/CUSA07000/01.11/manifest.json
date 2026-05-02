@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07000",
+  "version": "01.11",
+  "name": "Indivisible",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07000"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07000_01.11.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07000_01.11.json",
+      "size": 838,
+      "sha256": "52faa94f9ce33f9268b30dd3afe347fa37025a830f3c377afd6fab1bb63e444d",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07000_01.11.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07000_01.11.shn",
+      "size": 1014,
+      "sha256": "a26273fe688d5cd4e2801a772a27f30b5c13ede0dfa90f2a12191087827709f7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07000_01.11.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07000_01.11.mc4",
+      "size": 1368,
+      "sha256": "c05ba25694bfeade2dddba3afe9cf03bd345a9e187f8ec8aff8be2aaa013b697",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07000_01.11.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

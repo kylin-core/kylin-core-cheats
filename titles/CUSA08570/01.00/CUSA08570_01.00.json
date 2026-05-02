@@ -1,0 +1,27 @@
+{
+  "name": "Ys VIII: Lacrimosa of DANA",
+  "id": "CUSA08570",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F3800",
+          "on": "669C83F8047415669D4154C4C17A11AC2460100000415CE923C2C6FF669DC4C17A118C2460100000E912C2C6FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25FA35",
+          "on": "E9C63D39009090909090",
+          "off": "C4C17A118C2460100000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

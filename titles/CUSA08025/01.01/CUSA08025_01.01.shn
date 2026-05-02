@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands® 3" Moder="Mogu" Cusa="CUSA08025" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="money never decrease">
+        <Cheatline>
+            <Offset>4EE8B4D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>4C-38-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

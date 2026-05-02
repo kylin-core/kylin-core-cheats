@@ -1,0 +1,93 @@
+{
+  "name": "inFAMOUS: First Light",
+  "id": "CUSA01064",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Skill Point 999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0022419D",
+          "on": "4989D6BBE7030000",
+          "off": "85F64989D60F49DE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Player Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00261AFB",
+          "on": "5F",
+          "off": "5C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neon Energy Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00257D96",
+          "on": "5F",
+          "off": "5C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neon Singularity Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "002C3248",
+          "on": "95",
+          "off": "94"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Melee Finisher Ammo Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "002254C9",
+          "on": "97",
+          "off": "B7"
+        }
+      ]
+    },
+    {
+      "name": "Easy to Complete Challenges",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00225EEA",
+          "on": "BAF0A29A3B9090",
+          "off": "0394C74C090000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Abilities",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00221903",
+          "on": "9090E91619B900",
+          "off": "8B84870C010000"
+        },
+        {
+          "offset": "00DB3220",
+          "on": "C784870C01000007000000B807000000C3",
+          "off": "0000000000000000000000000000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Fullcodes������ԭ����"
+  ]
+}

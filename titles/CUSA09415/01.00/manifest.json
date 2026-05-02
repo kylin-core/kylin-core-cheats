@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09415",
+  "version": "01.00",
+  "name": "Undertale",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09415"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09415_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09415_01.00.json",
+      "size": 812,
+      "sha256": "e7362548fc697c568a1e62a7bbf454856016afec55f57173c051859c81714892",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09415_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09415_01.00.shn",
+      "size": 979,
+      "sha256": "32287dc13219d43c0b9bebfd2a7f0da9cabc9ea88a3ca7eff7ec67e4ca03c00d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09415_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09415_01.00.mc4",
+      "size": 1324,
+      "sha256": "dde46663dbc6579d2e85c76d4b0e355f896597013f80c7aed56e3ba8f31b583a",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09415_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

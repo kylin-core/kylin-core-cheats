@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01345",
+  "version": "01.00",
+  "name": "Zombie Army Trilogy",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01345"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01345_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01345_01.00.json",
+      "size": 608,
+      "sha256": "2b0f2879f6c69ad454d22f2b7ef37c15528e52bba7b245667f14f21cfa62f820",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01345_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01345_01.00.shn",
+      "size": 809,
+      "sha256": "ee75570f9dc4167e2678feedc722fe9f7aee508c9b910b82ca53d23ece140710",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01345_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01345_01.00.mc4",
+      "size": 1088,
+      "sha256": "3205e55798f61c137025e7bc292a797dc35e865fe22189c3b3c8e35a62e3ccc7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01345_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

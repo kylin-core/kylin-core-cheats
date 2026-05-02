@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA33874",
+  "version": "01.01",
+  "name": "Persona 4 Golden",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA33874"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33874_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA33874_01.01.json",
+      "size": 7394,
+      "sha256": "1ec2ac8e6822a4d9e4c2fa27976624c5aeb4caeb6e3b2527b9948ea561c96fdc",
+      "cheatCount": 20,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33874_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA33874_01.01.shn",
+      "size": 7865,
+      "sha256": "37ae01bdd076790fc59bb1cf0aaed5ccdf5a899da369c874c6a6ec24e93e4dde",
+      "cheatCount": 20,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33874_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA33874_01.01.mc4",
+      "size": 10496,
+      "sha256": "13dd740f1a0371f04f60bffc79a350d00c667969b14397a91530f03ab1253d31",
+      "cheatCount": 20,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA33874_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

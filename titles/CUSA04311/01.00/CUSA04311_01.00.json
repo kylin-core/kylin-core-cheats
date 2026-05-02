@@ -1,0 +1,75 @@
+{
+  "name": "South Park The Fractured But Whole",
+  "id": "CUSA04311",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Quick Special",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "326F800",
+          "on": "51B90000C842660F6EC959C5FA114F08E934C818FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13FC044",
+          "on": "E9B737E701",
+          "off": "C5FA114F08"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "326F815",
+          "on": "488B4DA0C7420C769698008B420CE94D73A0FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C76B6E",
+          "on": "E9A28C5F029090",
+          "off": "488B4DA08B420C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "326F828",
+          "on": "C7400C630000008B400C8B4DACE91F70A0FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C76853",
+          "on": "E9D08F5F0290",
+          "off": "8B400C8B4DAC"
+        }
+      ]
+    },
+    {
+      "name": "Quicky Level Up Crafting ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "326F83A",
+          "on": "BEE70D000089B3DC000000E9EA8D16FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "13D862E",
+          "on": "E90772E90190",
+          "off": "89B3DC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

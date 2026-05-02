@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War Ragnarok" Moder="JustGotenks" Cusa="CUSA34390" Version="02.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>172F000</Offset>
+            <Section>0</Section>
+            <ValueOn>48-81-FF-30-FC-4D-04-74-0B-C5-FA-10-4C-24-60-E9-8D-DD-FA-FE-B8-E0-FC-FF-FF-F3-0F-2A-C8-C5-FA-11-4C-24-60-EB-EA-90-90-90</ValueOn>
+            <ValueOff>48-81-FF-30-FC-4D-04-74-0B-C5-FA-10-4C-24-60-E9-8D-DD-FA-FE-B8-E0-FC-FF-FF-F3-0F-2A-C8-C5-FA-11-4C-24-60-EB-EA-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Rage">
+        <Cheatline>
+            <Offset>172F0F0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-FC-49-14-7C-D6-74-0A-C5-EA-58-43-28-E9-41-E4-3D-FF-BE-F4-01-00-00-F3-0F-2A-C6-C5-FA-11-43-28-EB-E6-90</ValueOn>
+            <ValueOff>41-81-FC-49-14-7C-D6-74-0A-C5-EA-58-43-28-E9-41-E4-3D-FF-BE-F4-01-00-00-F3-0F-2A-C6-C5-FA-11-43-28-EB-E6-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant R3">
+        <Cheatline>
+            <Offset>172F0A0</Offset>
+            <Section>0</Section>
+            <ValueOn>56-66-81-FE-8B-A7-74-0C-C4-C1-7A-10-56-28-5E-E9-87-C9-02-FF-BE-64-00-00-00-F3-0F-2A-C6-EB-E9-90</ValueOn>
+            <ValueOff>56-66-81-FE-8B-A7-74-0C-C4-C1-7A-10-56-28-5E-E9-87-C9-02-FF-BE-64-00-00-00-F3-0F-2A-C6-EB-E9-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Cooldown">
+        <Cheatline>
+            <Offset>A47B02</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4D-80-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-10-4C-24-38</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Projectiles">
+        <Cheatline>
+            <Offset>172F220</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-32-00-00-00-F3-0F-2A-CF-C5-FA-11-08-48-89-C7-E9-BB-EE-F0-FE-90-90-90</ValueOn>
+            <ValueOff>BF-32-00-00-00-F3-0F-2A-CF-C5-FA-11-08-48-89-C7-E9-BB-EE-F0-FE-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Resources up (on craft/sell)">
+        <Cheatline>
+            <Offset>172F190</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-C4-D7-4E-FF-66-9C-85-D2-78-0A-F0-01-16-66-9D-E9-B0-D7-4E-FF-F7-DA-EB-F2-90-90</ValueOn>
+            <ValueOff>0F-84-C4-D7-4E-FF-66-9C-85-D2-78-0A-F0-01-16-66-9D-E9-B0-D7-4E-FF-F7-DA-EB-F2-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="XP/HS/Resource Multiplier (on get) (default: 2x)">
+        <Cheatline>
+            <Offset>172F260</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-0D-BA-02-00-00-41-0F-AF-4D-08-41-89-4D-08-89-D1-41-8B-55-08-E9-32-60-16-FF-90-90</ValueOn>
+            <ValueOff>8B-0D-BA-02-00-00-41-0F-AF-4D-08-41-89-4D-08-89-D1-41-8B-55-08-E9-32-60-16-FF-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="5x">
+        <Cheatline>
+            <Offset>172F520</Offset>
+            <Section>0</Section>
+            <ValueOn>05-00-00-00</ValueOn>
+            <ValueOff>05-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="10x">
+        <Cheatline>
+            <Offset>172F520</Offset>
+            <Section>0</Section>
+            <ValueOn>0A-00-00-00</ValueOn>
+            <ValueOff>0A-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="25x">
+        <Cheatline>
+            <Offset>172F520</Offset>
+            <Section>0</Section>
+            <ValueOn>19-00-00-00</ValueOn>
+            <ValueOff>19-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Damage Multiplier (default: 2x)">
+        <Cheatline>
+            <Offset>172F050</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-FB-F0-72-0B-C5-FA-11-4C-24-60-E9-06-C9-FA-FE-80-3D-98-04-00-00-00-74-EC-C5-F2-59-0D-9E-04-00-00-EB-E2</ValueOn>
+            <ValueOff>41-80-FB-F0-72-0B-C5-FA-11-4C-24-60-E9-06-C9-FA-FE-80-3D-98-04-00-00-00-74-EC-C5-F2-59-0D-9E-04-00-00-EB-E2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="* 0.5x">
+        <Cheatline>
+            <Offset>172F510</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-3F</ValueOn>
+            <ValueOff>00-00-00-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="* 3x">
+        <Cheatline>
+            <Offset>172F510</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-40-40</ValueOn>
+            <ValueOff>00-00-40-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="* 5x">
+        <Cheatline>
+            <Offset>172F510</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-A0-40</ValueOn>
+            <ValueOff>00-00-A0-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

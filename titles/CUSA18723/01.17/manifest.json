@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18723",
+  "version": "01.17",
+  "name": "Elden Ring - Shadow of the Erdtree",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18723"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18723_01.17.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18723_01.17.json",
+      "size": 16340,
+      "sha256": "d8e12401868022dd0264448565398f28cd0cb5458bdb49e55f05a6594c066702",
+      "cheatCount": 40,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18723_01.17.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18723_01.17.shn",
+      "size": 12461,
+      "sha256": "fb901fa63f1a992ac05291747a0f7e52ca7fd46054e6c1ffe8800d3b3aeacab3",
+      "cheatCount": 40,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18723_01.17.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18723_01.17.mc4",
+      "size": 16620,
+      "sha256": "fb2f3ec5ef8dc28df24d314f4331b5165c333b7d5a9ef67bf24c164655240786",
+      "cheatCount": 40,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18723_01.17.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP4062-CUSA17774_00-0000000000000000" Moder="Talixme" Cusa="CUSA17774" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Life">
+        <Cheatline>
+            <Offset>7FC5F000</Offset>
+            <Section>0</Section>
+            <ValueOn>81-FA-E0-5B-82-84-0F-84-B9-1B-A8-00-C4-C1-79-7E-46-28-E9-AE-1B-A8-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>7FC5F037</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-46-10-C4-C1-7A-11-46-10-E9-01-5A-CC-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Resistance">
+        <Cheatline>
+            <Offset>7FC5F068</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-46-14-C4-C1-7A-11-46-14-E9-95-5A-CC-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items">
+        <Cheatline>
+            <Offset>7FC5F099</Offset>
+            <Section>0</Section>
+            <ValueOn>83-C6-01-41-89-F0-83-C6-01-41-89-76-18-E9-23-01-E9-02</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

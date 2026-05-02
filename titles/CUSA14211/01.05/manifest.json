@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA14211",
+  "version": "01.05",
+  "name": "GreedFall",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA14211"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14211_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA14211_01.05.json",
+      "size": 1636,
+      "sha256": "c2f8f17a0b57cbb7be7558e90aae05180cf2a6846fa896178e87ac8eb2c6396d",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14211_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA14211_01.05.shn",
+      "size": 1559,
+      "sha256": "38bc18f0705edaf670b46940cfb563716fbd5a265e9187e886d5a715cdfed308",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14211_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA14211_01.05.mc4",
+      "size": 2092,
+      "sha256": "6cf3e463d4b571b54be4d9403ae72d33dd42896006215af94ad10f1c2553a23d",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14211_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

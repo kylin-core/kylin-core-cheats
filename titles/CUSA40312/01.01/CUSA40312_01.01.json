@@ -1,0 +1,49 @@
+{
+  "name": "Raiden III x MIKADO MANIAX",
+  "id": "CUSA40312",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A6F1D",
+          "on": "909090",
+          "off": "418907"
+        }
+      ]
+    },
+    {
+      "name": "MAX-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57B800",
+          "on": "B863000000418907BF09000000E917B7F2FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4A6F21",
+          "on": "E9DA480D00909090",
+          "off": "418907BF09000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A7FC8",
+          "on": "9090909090909090",
+          "off": "41FF8C2490000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

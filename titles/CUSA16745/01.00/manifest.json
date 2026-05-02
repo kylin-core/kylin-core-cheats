@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA16745",
+  "version": "01.00",
+  "name": "Yakuza: Like A Dragon",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA16745"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16745_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA16745_01.00.json",
+      "size": 8728,
+      "sha256": "9a776861485118ddedc6a9294ea24f7539e4cfe2bf8c64cd8144097ff1cea936",
+      "cheatCount": 24,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16745_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA16745_01.00.shn",
+      "size": 8058,
+      "sha256": "09a812b899f09949dd1c20cbf056f7a75a8db8073b77ad1a8f83eadaad3abadc",
+      "cheatCount": 24,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16745_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA16745_01.00.mc4",
+      "size": 10752,
+      "sha256": "4466fcf22940b4ea7830553baf3ff4d81914110763d73f791c7111005abdb5d8",
+      "cheatCount": 24,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16745_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

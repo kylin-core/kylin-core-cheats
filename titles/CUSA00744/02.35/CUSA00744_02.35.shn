@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Minecraft" Moder="NELUxP MoDz" Cusa="CUSA00744" Version="02.35" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="[] Reach 14 Attack & Blocks">
+        <Cheatline>
+            <Offset>6C19254</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-60-41-00-00-60-41-00-00-60-41-00-00-60-41-00-00-60-41</ValueOn>
+            <ValueOff>66-66-B6-40-33-33-B3-40-00-00-40-41-66-66-D6-40-00-00-E0-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Unfair Attack ">
+        <Cheatline>
+            <Offset>6C1957C</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-40</ValueOn>
+            <ValueOff>CD-CC-CC-3D</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Rapid Hit & Fast Place">
+        <Cheatline>
+            <Offset>6A19FB2</Offset>
+            <Section>0</Section>
+            <ValueOn>88-50-08</ValueOn>
+            <ValueOff>88-50-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Hidden Attack">
+        <Cheatline>
+            <Offset>5A6FE60</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Player Speed x2 & Low Gravity ">
+        <Cheatline>
+            <Offset>24FBD7A</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-05-36-D1-71-04-48-83-C4-40-5B-41-5C-41-5E-41-5F-5D-C3-E8-10-CC-57-04-0F-0B-E8-49-CC-19-FE-0F-0B-90-90-90</ValueOn>
+            <ValueOff>C5-F8-28-C1-48-83-C4-40-5B-41-5C-41-5E-41-5F-5D-C3-E8-10-CC-57-04-0F-0B-E8-49-CC-19-FE-0F-0B-90-90-90-90-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Velocity Off XYZ">
+        <Cheatline>
+            <Offset>2607aa0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>8B-06-89-87-90-05-00-00-8B-46-04-89-87-94-05-00-00-8B-46-08-89-87-98-05-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Forward jump x4">
+        <Cheatline>
+            <Offset>6C18D88</Offset>
+            <Section>0</Section>
+            <ValueOn>33-33-33-40</ValueOn>
+            <ValueOff>CD-CC-4C-3E</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Multi jump">
+        <Cheatline>
+            <Offset>8B63000</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-08-02-00-00-01-80-B8-08-02-00-00-00-C6-80-08-02-00-00-01-E9-51-F4-4C-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Zero Gravity & Speed">
+        <Cheatline>
+            <Offset>24FBD7A</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-05-36-D1-71-04-48-83-C4-40-5B-41-5C-41-5E-41-5F-5D-C3-E8-10-CC-57-04-0F-0B-E8-49-CC-19-FE-0F-0B-90-90-90</ValueOn>
+            <ValueOff>C5-F8-28-C1-48-83-C4-40-5B-41-5C-41-5E-41-5F-5D-C3-E8-10-CC-57-04-0F-0B-E8-49-CC-19-FE-0F-0B-90-90-90-90-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Smooth Walk">
+        <Cheatline>
+            <Offset>2032444</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-7C-02-00-00-00-00-80-3F-C3-90</ValueOn>
+            <ValueOff>C5-FA-11-80-7C-02-00-00-C3-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Fast Break">
+        <Cheatline>
+            <Offset>6C175f4</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-C8-42</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] No Fog">
+        <Cheatline>
+            <Offset>06C1DFCC</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-C8-42</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Critical attack(Host Only)">
+        <Cheatline>
+            <Offset>1FEBF51</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>76-2D</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] One Punchman(Host Only)">
+        <Cheatline>
+            <Offset>06C17390</Offset>
+            <Section>0</Section>
+            <ValueOn>CD-CC-CC-3F-CD-CC-8C-3F-9A-99-99-3F-00-00-80-41-00-00-80-41-00-00-C0-41-9A-99-99-41-00-00-80-41-17-B7-D1-38-CD-CC-CC-41-00-00-00-00-CD-CC-4C-41</ValueOn>
+            <ValueOff>CD-CC-CC-BE-CD-CC-8C-BF-9A-99-99-BF-00-00-80-3F-00-00-80-3F-00-00-C0-3F-9A-99-99-3E-00-00-80-3F-17-B7-D1-38-CD-CC-CC-3E-00-00-00-00-CD-CC-4C-3E</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Change Specified Color To Red">
+        <Cheatline>
+            <Offset>9489590</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-20-41</ValueOn>
+            <ValueOff>00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Change Specified Color To Green">
+        <Cheatline>
+            <Offset>9489594</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-20-41</ValueOn>
+            <ValueOff>00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Change Specified Color To Blue">
+        <Cheatline>
+            <Offset>9489598</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-20-41</ValueOn>
+            <ValueOff>00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Set Entity Color Aqua">
+        <Cheatline>
+            <Offset>9489620</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-00-00-00-20-41-00-00-20-41-00-00-00-40</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Show Dev Strings">
+        <Cheatline>
+            <Offset>12ae8da</Offset>
+            <Section>0</Section>
+            <ValueOn>75-43</ValueOn>
+            <ValueOff>74-43</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Change Minecraft Platform Xbox/One/X/S">
+        <Cheatline>
+            <Offset>34E5AC0</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-01</ValueOn>
+            <ValueOff>B8-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Bypass Signin">
+        <Cheatline>
+            <Offset>6d0f54</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-95</ValueOn>
+            <ValueOff>0F-94</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[] Enable LAN Play">
+        <Cheatline>
+            <Offset>34E2620</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-00</ValueOn>
+            <ValueOff>B0-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

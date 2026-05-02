@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02927",
+  "version": "01.02",
+  "name": "Rogue Aces",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02927"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02927_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02927_01.02.json",
+      "size": 1689,
+      "sha256": "8ce1b937696ca1ea265ba6bbbfac6eba61a07a66cee7f5c2a93e6f1eb70e6a4e",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02927_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02927_01.02.shn",
+      "size": 1794,
+      "sha256": "beeb167302c8e8060606d802e61f0c1786fa62804894bc721c168b7af0011693",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02927_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02927_01.02.mc4",
+      "size": 2412,
+      "sha256": "4772108dd6359813ace7eb1a0aa4ea7992adb00a17f2a5aad282c7e3c48e84e1",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02927_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

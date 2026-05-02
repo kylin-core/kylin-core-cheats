@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 3" Moder="KevinTamvan" Cusa="CUSA14168" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Speed Master Code">
+        <Cheatline>
+            <Offset>6DFFF5D</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-85-BA-C3-3E-FA-49-8B-46-58-41-C7-46-70-00-00-80-3F-E9-9B-C3-3E-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Health Player">
+        <Cheatline>
+            <Offset>68FDB0D</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-FF-30-B9-FB-8B-58-54-89-58-58-E9-F8-30-B9-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf. Health Player+ No Bleeding">
+        <Cheatline>
+            <Offset>3140F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy Kill">
+        <Cheatline>
+            <Offset>6D00002</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-81-88-01-00-00-C7-42-58-00-00-00-00-E9-DB-76-D2-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Clip Ammo">
+        <Cheatline>
+            <Offset>1E3203A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>89-51-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="20 Inventory Slot">
+        <Cheatline>
+            <Offset>6DFFE35</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BC-14-00-00-00-44-89-A0-90-00-00-00-E9-6D-B3-80-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inc. Speed [x2.0]">
+        <Cheatline>
+            <Offset>6DFFF67</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-70-00-00-00-40</ValueOn>
+            <ValueOff>41-C7-46-70-00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inc. Speed [x2.7]">
+        <Cheatline>
+            <Offset>6DFFF67</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-70-CD-CC-2C-40</ValueOn>
+            <ValueOff>41-C7-46-70-00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inc. Speed [x1.5]">
+        <Cheatline>
+            <Offset>6DFFF67</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-70-00-00-C0-3F</ValueOn>
+            <ValueOff>41-C7-46-70-00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fire Resistance">
+        <Cheatline>
+            <Offset>325260</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Swap HandGun Ammo To:">
+        <Cheatline>
+            <Offset>712E139</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-10-1F-0F-84-E1-D0-4E-F9-E9-28-D0-4E-F9-C7-43-10-00-00-00-00-C7-43-14-1F-00-00-00-E9-15-D0-4E-F9-C7-43-10-00-00-00-00-C7-43-14-07-00-00-00-E9-02-D0-4E-F9-C7-43-10-00-00-00-00-C7-43-14-0B-00-00-00-E9-EF-CF-4E-F9-C7-43-10-00-00-00-00-C7-43-14-16-00-00-00-E9-DC-CF-4E-F9-C7-43-10-00-00-00-00-C7-43-14-20-00-00-00-E9-C9-CF-4E-F9-C7-43-10-00-00-00-00-C7-43-14-2A-00-00-00-E9-B6-CF-4E-F9-C7-43-10-00-00-00-00-C7-43-14-30-00-00-00-E9-A3-CF-4E-F9-C7-43-10-00-00-00-00-C7-43-14-31-00-00-00-E9-90-CF-4E-F9-C7-43-10-97-00-00-00-E9-84-CF-4E-F9-C7-43-10-98-00-00-00-E9-78-CF-4E-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="44 AE Lightning Hawk">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-09-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite MUP Handgun">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-1C-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Shotgun">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-2F-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite CQBR Assault Rifle">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-42-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="RAI-DEN">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-55-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Grenade Launcher">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-68-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HOT DOGGER">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>74-7B-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Rocket Launcher">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-8A-00-00-00</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lock_Pick">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-9D-00-00-00</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Bolt_Cutters">
+        <Cheatline>
+            <Offset>712E13D</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-A9-00-00-00</ValueOn>
+            <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Gameplay Timer [Dont Freez It]">
+        <Cheatline>
+            <Offset>712E1F8</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-E4-6B-A7-FA-48-31-DB-48-89-58-18-E9-31-6B-A7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Prevent Zombie To Grab Player">
+        <Cheatline>
+            <Offset>314310</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90-90-90</ValueOn>
+            <ValueOff>48-8B-47-50</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

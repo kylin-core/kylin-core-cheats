@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10633",
+  "version": "01.01",
+  "name": "Valkyria Chronicles 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10633"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10633_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10633_01.01.json",
+      "size": 783,
+      "sha256": "c974806db60b163d1ce5069fdb9cb0d14b8e0a80f6d835ef8d201af125fa1739",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10633_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10633_01.01.shn",
+      "size": 1076,
+      "sha256": "06f29ea4fc2de3a4bca9635c43afcb1f6cc5e1f1b8a19e51503746440a7d1de6",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10633_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10633_01.01.mc4",
+      "size": 1452,
+      "sha256": "a55d01f5af3c75a7369fe422f7c69aed62aaa0f0133dfef8f180ba7e71ef4d56",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10633_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Söldner-X 2 Final Prototype Definitive",
+  "id": "CUSA14451",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3AD63",
+          "on": "9090909090",
+          "off": "E8C85E0400"
+        },
+        {
+          "offset": "3AE06",
+          "on": "9090909090",
+          "off": "E8253D0400"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F9EA",
+          "on": "909090909090",
+          "off": "89B3D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "613BC",
+          "on": "909090909090",
+          "off": "8997D4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

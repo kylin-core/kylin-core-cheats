@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01126",
+  "version": "01.01",
+  "name": "Trine Enchanted Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01126"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01126_01.01.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01126_01.01.json",
+      "size": 972,
+      "sha256": "8864c024efe8b016982cb55fe706fa834c415e852efc9d9cbac6b62e571968e2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01126_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01126_01.01.shn",
+      "size": 1179,
+      "sha256": "4b43fbc4c24e87242726fca08e377e7cc116f872c054d14c06d42002d15feae4",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01126_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01126_01.01.mc4",
+      "size": 1580,
+      "sha256": "c70fbfa5418e714ae011519ff0752cea2c5cae33af4d3e24c1c272aacc3b2d3c",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01126_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

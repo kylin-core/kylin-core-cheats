@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10853",
+  "version": "01.07",
+  "name": "Outward",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10853"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10853_01.07.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10853_01.07.json",
+      "size": 10746,
+      "sha256": "7a1eb6275d90254dff8700f24c47c487a7f4a5974cc11cf7741967809bc25bdf",
+      "cheatCount": 29,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10853_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10853_01.07.shn",
+      "size": 9436,
+      "sha256": "c8bd26d34172a67a0aa029849b1b834b6a84d141ef988ec06518dae827b7544f",
+      "cheatCount": 29,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10853_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10853_01.07.mc4",
+      "size": 12588,
+      "sha256": "4de6ba0fadff9c56d7b7299758dac70efb0f4985a65f9bd41ab377f91bd3caa5",
+      "cheatCount": 29,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10853_01.07.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

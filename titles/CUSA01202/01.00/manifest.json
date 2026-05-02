@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01202",
+  "version": "01.00",
+  "name": "Costume Quest 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01202"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01202_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01202_01.00.json",
+      "size": 1432,
+      "sha256": "b6e9c014ce5981dc8ef4c2774f569089399f33162913745d52d20403d11ec3b7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01202_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01202_01.00.shn",
+      "size": 945,
+      "sha256": "92f78c9cb5b68cb77b87894f5cadc21110d03b2253d80553a4a737bd2b0ace16",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01202_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01202_01.00.mc4",
+      "size": 1280,
+      "sha256": "316c12f368daa75490b3ba3033e2c6ceecc67d7c5e26def748d9b25c5029dae6",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01202_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

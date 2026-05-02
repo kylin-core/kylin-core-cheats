@@ -1,0 +1,112 @@
+{
+  "name": "Just Cause 4",
+  "id": "CUSA09254",
+  "version": "01.32",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "310FDB0",
+          "on": "83BF54020000107513668BB7240400006689B724040000E90B0C82FE6689B724040000E9FF0B82FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19309D0",
+          "on": "E9DBF37D019090",
+          "off": "6689B724040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "310F960",
+          "on": "41C6848748020000E7E96D9884FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "19591D3",
+          "on": "E988677B01909090",
+          "off": "4589AC8748020000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "310F820",
+          "on": "C7815405000063000000448BB154050000E9D39645FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2568F02",
+          "on": "E91969BA009090",
+          "off": "448BB154050000"
+        },
+        {
+          "offset": "310F5A0",
+          "on": "C78354050000E7030000448BBB54050000E9016691FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A25BB0",
+          "on": "E9EB996E019090",
+          "off": "448BBB54050000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time (Disable For Time To Run Out)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "310F700",
+          "on": "90E9928AC1FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "1D2818F",
+          "on": "E96C753E0190909090",
+          "off": "C4C17A1187B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wingsuit Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20367B4",
+          "on": "90909090909090",
+          "off": "C4C17A11548708"
+        },
+        {
+          "offset": "20367CF",
+          "on": "909090909090",
+          "off": "0F83E5000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wingsuit Missiles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2036E78",
+          "on": "9090909090909090",
+          "off": "41C7473000000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "shantae and the pirate's curse",
+  "id": "CUSA01609",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15597",
+          "on": "90909090",
+          "off": "66897858"
+        }
+      ]
+    },
+    {
+      "name": "MAX-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "723800",
+          "on": "C7808C110000E7030000E95163E9FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5B9B5A",
+          "on": "E9A19C160090",
+          "off": "89908C110000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

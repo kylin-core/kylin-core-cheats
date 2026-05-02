@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11275",
+  "version": "02.01",
+  "name": "Horizon Chase Turbo",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11275"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11275_02.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11275_02.01.json",
+      "size": 863,
+      "sha256": "4ae33a2f0df33bff4803e3d45799c4302bc03d75330620fadc6bb22fa5a5697c",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11275_02.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11275_02.01.shn",
+      "size": 906,
+      "sha256": "ac08fc7a14dd3af179ea69063e9b8a3ff27a8e6ac63845e2cd2afe949ff00095",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11275_02.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11275_02.01.mc4",
+      "size": 1216,
+      "sha256": "a6b9e4db886a09e97b903a6133919f557e4c8fa3619f26b4bd0742ec79c5c3a6",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11275_02.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

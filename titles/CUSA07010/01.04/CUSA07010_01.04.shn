@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Mania" Moder="Reddevil82_9.00" Cusa="CUSA07010" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="All Emeralds / Activate Super Sonic with X + Triangle">
+        <Cheatline>
+            <Offset>3C7EF0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-40-20-C7-40-70-7F-00-00-00-8B-70-70-E9-36-FE-D4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Lives">
+        <Cheatline>
+            <Offset>7ADEF</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-63-00-00-00-90-90</ValueOn>
+            <ValueOff>41-8B-8D-00-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Rings / No loose after hit">
+        <Cheatline>
+            <Offset>30A4D</Offset>
+            <Section>0</Section>
+            <ValueOn>89-8B-F4-00-00-00</ValueOn>
+            <ValueOff>89-B3-F4-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Invincibility">
+        <Cheatline>
+            <Offset>3C6120</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-28-01-00-00-09-00-00-00-41-8B-87-28-01-00-00-E9-8E-B0-D4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Score">
+        <Cheatline>
+            <Offset>2DF73</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4C-C0</ValueOn>
+            <ValueOff>0F-4C-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill ( Boss )">
+        <Cheatline>
+            <Offset>17131B</Offset>
+            <Section>0</Section>
+            <ValueOn>7D-43</ValueOn>
+            <ValueOff>7C-43</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Set Timer to 0">
+        <Cheatline>
+            <Offset>3C7E90</Offset>
+            <Section>0</Section>
+            <ValueOn>01-D1-C7-40-44-00-00-00-00-E9-08-1F-EF-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Unlimited Breathe Under Water">
+        <Cheatline>
+            <Offset>3C7ED0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-85-24-01-00-00-00-41-8B-85-24-01-00-00-E9-EC-C7-C5-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic )">
+        <Cheatline>
+            <Offset>3C7380</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-8B-68-20-41-C7-45-70-7F-00-00-00-41-8B-45-70-E9-0D-3F-D1-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Ring Timer ( Bonus Game )">
+        <Cheatline>
+            <Offset>3C7F50</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-E7-03-00-00-89-50-24-E9-D3-63-D1-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode )">
+        <Cheatline>
+            <Offset>D1F28</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-C4-25-01-00-20-00-00-00-90</ValueOn>
+            <ValueOff>45-89-A5-C4-25-01-00-E8-9C-E1-F2-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Only 1 Blue Sphere ( Bonus Game )">
+        <Cheatline>
+            <Offset>3C7EB0</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C9-B9-00-00-00-00-89-48-08-E9-32-1E-D1-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

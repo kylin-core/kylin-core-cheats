@@ -1,0 +1,113 @@
+{
+  "name": "Dragon Ball Xenoverse 2",
+  "id": "CUSA05350",
+  "version": "01.37",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1923DB0",
+          "on": "41807F3000751AC4C17A108750010000C4C17A1187F0000000E9F08578FE0F57C0C4C17A1187F0000000E9DF8578FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AC3B5",
+          "on": "E9F679870190909090",
+          "off": "C4C17A1187F0000000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1923DB5",
+          "on": "7517",
+          "off": "751A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1923A00",
+          "on": "C4C17A108660010000C4C17A11865C010000E9018D78FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AC70F",
+          "on": "E9EC72870190909090",
+          "off": "C4C17A11865C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ki",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1923870",
+          "on": "C4C17A109760010000C4C17A1197FC000000E9E69876FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8D164",
+          "on": "E90767890190909090",
+          "off": "C4C17A1197FC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Zeni",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A1A8B",
+          "on": "BB00CA9A3B90",
+          "off": "81FB00CA9A3B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite TP On Activation",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1923920",
+          "on": "C747708861263A8B4F70894F6C394F6C90E9C4E1F7FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8A1AF4",
+          "on": "E9271E080190",
+          "off": "8B4F70394F6C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Attribute Points (Activate/Exit/Enter)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1923A50",
+          "on": "41C7860002000058020000E93E1EC4FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "565897",
+          "on": "E9B4E13B019090",
+          "off": "4589BE00020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

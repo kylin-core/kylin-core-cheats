@@ -1,0 +1,91 @@
+{
+  "name": "Warriors Orochi 4 Ultimate",
+  "id": "CUSA12641",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1303800",
+          "on": "833F007509C7471000805444EB05C5FA114710E9CA00FDFE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D38DD",
+          "on": "E91EFF0201",
+          "off": "C5FA114710"
+        }
+      ]
+    },
+    {
+      "name": "Ko count easy max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1303800",
+          "on": "6BDB02899F9C010000E9AA42FCFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2C7AB2",
+          "on": "E949BD030190",
+          "off": "899F9C010000"
+        }
+      ]
+    },
+    {
+      "name": "Growth points x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1303800",
+          "on": "6BC9028988D8000000E92109EEFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1E4129",
+          "on": "E9D2F6110190",
+          "off": "8988D8000000"
+        }
+      ]
+    },
+    {
+      "name": "skill points x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1303810",
+          "on": "666BC90266894878418B0EE9E59DEDFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1DD5FE",
+          "on": "E90D6212019090",
+          "off": "66894878418B0E"
+        }
+      ]
+    },
+    {
+      "name": "weapon Gems x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1303822",
+          "on": "6BC9028988CC000000E90670EFFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1FA830",
+          "on": "E9ED8F100190",
+          "off": "8988CC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Q8Despair"
+  ]
+}

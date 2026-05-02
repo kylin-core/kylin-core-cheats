@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11300",
+  "version": "01.00",
+  "name": "Onimusha Warlords",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11300"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11300_01.00.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11300_01.00.json",
+      "size": 1237,
+      "sha256": "b86e51ed5cefdcf9dafbca498f9adc941293699b91c8e90fc9b94bff5b084a15",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11300_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11300_01.00.shn",
+      "size": 1344,
+      "sha256": "2238165a03a5d0ca5a91f58263ee57dbbd8bcbd43b39da0bd54181219f0605d7",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11300_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11300_01.00.mc4",
+      "size": 1816,
+      "sha256": "3cee9af3074bfa2798b16b5243e456659f8cf330444a51c4e00f53996a2c4492",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11300_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

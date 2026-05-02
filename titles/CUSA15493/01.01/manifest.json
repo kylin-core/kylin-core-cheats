@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA15493",
+  "version": "01.01",
+  "name": "Ghostbusters: The Video Game Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA15493"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15493_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA15493_01.01.json",
+      "size": 1268,
+      "sha256": "a4754496d155e7579d258e1f0fd0a94dc42f24fa397fdb54343f76ce88925b64",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15493_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA15493_01.01.shn",
+      "size": 1158,
+      "sha256": "2be81946d4759b574db141b045a979e9d70782b71efd71ff74419e8913ba096e",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15493_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA15493_01.01.mc4",
+      "size": 1560,
+      "sha256": "917406e253c7b0f834fc28f4412a7507ee1bbf00336f1f3d41ffe653609cd5f6",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15493_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

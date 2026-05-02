@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Digimon Story Cyber Sleuth" Moder="Molly" Cusa="CUSA02966" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Quick Rank Up &quot;After Gained&quot;">
+        <Cheatline>
+            <Offset>84B800</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-7F-96-98-00-89-4F-4C-E9-10-18-81-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Zen &quot;After Gained&quot;">
+        <Cheatline>
+            <Offset>84B80D</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-7F-96-98-00-89-4B-48-E9-7A-17-81-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Quick Level Up">
+        <Cheatline>
+            <Offset>84B81A</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-FF-E0-F5-05-41-89-46-70-E9-DB-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Hp &quot;After Level Up&quot;">
+        <Cheatline>
+            <Offset>84B828</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-E8-03-00-00-41-89-86-80-00-00-00-E9-2D-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Sp &quot;After Level Up&quot;">
+        <Cheatline>
+            <Offset>84B839</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-E9-03-00-00-41-89-86-8C-00-00-00-E9-29-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max ATK &quot;After Level Up&quot;">
+        <Cheatline>
+            <Offset>84B84A</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B8-E7-03-66-41-89-86-92-00-00-00-E9-27-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max DEF &quot;After Level Up&quot;">
+        <Cheatline>
+            <Offset>84B85B</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B8-E7-03-66-41-89-86-96-00-00-00-E9-25-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max INT &quot;After Level Up&quot;">
+        <Cheatline>
+            <Offset>84B86C</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B8-E7-03-66-41-89-86-9A-00-00-00-E9-23-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max SPD &quot;After Level Up&quot;">
+        <Cheatline>
+            <Offset>84B87D</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B8-E7-03-66-41-89-86-9E-00-00-00-E9-21-07-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max ABI &quot;After Digivolve Or De-Digivolve&quot;">
+        <Cheatline>
+            <Offset>84B88E</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B9-E7-03-66-41-89-8D-A2-00-00-00-E9-DC-02-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max CAM &quot;After Battle&quot;">
+        <Cheatline>
+            <Offset>84B89F</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B9-C8-00-66-41-89-8F-A4-00-00-00-E9-7E-01-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Item &quot;After Used&quot; ">
+        <Cheatline>
+            <Offset>84B8B0</Offset>
+            <Section>0</Section>
+            <ValueOn>B2-63-88-50-14-E9-4C-F7-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Quick DigiConvert">
+        <Cheatline>
+            <Offset>84B8C1</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B9-C8-00-66-89-48-02-E9-54-BA-7F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

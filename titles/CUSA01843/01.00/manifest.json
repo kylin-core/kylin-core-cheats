@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01843",
+  "version": "01.00",
+  "name": "Teenage Mutant Ninja Turtles™: Mutants in Manhattan",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01843"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01843_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01843_01.00.json",
+      "size": 1593,
+      "sha256": "55e6a9d0acd8c1178228e58b30a8b95f63e4f40240a83a2620a5d62dee8420cd",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01843_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01843_01.00.shn",
+      "size": 1679,
+      "sha256": "b38ba2bfaeeb5dd19d549a4163e0088f361c5af96a58422c4edb7b627a98b589",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01843_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01843_01.00.mc4",
+      "size": 2240,
+      "sha256": "b3818c86e5028e6758fef62b072af1de8d280297e5aa3d749e4e4daab796b134",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01843_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

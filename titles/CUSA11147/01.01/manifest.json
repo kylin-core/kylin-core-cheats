@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11147",
+  "version": "01.01",
+  "name": "Onimusha",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11147"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA11147_01.01.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11147_01.01.json",
+      "size": 773,
+      "sha256": "26a736e2942d287695cff42eef1112176b5bbf891704a75a6d0644b5fce0fefc",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA11147_01.01.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11147_01.01.shn",
+      "size": 1062,
+      "sha256": "1b1d00373875120645734b0dbba231710df54a5fb9200e10d478b04d1806d3d1",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA11147_01.01.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11147_01.01.mc4",
+      "size": 1432,
+      "sha256": "0823a5b871b63a1337e977d540d4f824ed65bfba861ccc96ede577153f569331",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA11147_01.01.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

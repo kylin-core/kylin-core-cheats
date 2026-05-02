@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08116",
+  "version": "01.08",
+  "name": "Final Fantasy XII The Zodiac Age 最终幻想12 黄道纪元",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08116"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08116_01.08.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08116_01.08.json",
+      "size": 2135,
+      "sha256": "88c9ee325c5e5a4aabd72a028a5cb7fcebfe3613ffd65159401c7360ba8b859f",
+      "cheatCount": 9,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08116_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08116_01.08.shn",
+      "size": 2626,
+      "sha256": "ce1548848dc473ba6ce690cd033cafe430244f9f969a098291d0fa26ab4ec9ef",
+      "cheatCount": 9,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08116_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08116_01.08.mc4",
+      "size": 3520,
+      "sha256": "2dcc1f504be8aee53d5fad9b9873dbfc69bf7fc3268edaa0b44d511191e5a5bc",
+      "cheatCount": 9,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08116_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

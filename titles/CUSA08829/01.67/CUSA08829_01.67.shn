@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty Modern Warfare 2019" Moder="DEv_ShOoTz" Cusa="CUSA08829" Version="01.67" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Dev Features">
+        <Cheatline>
+            <Offset>6AB0EF0</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-53-53-52-52-53-4D-4E-4D-52-20-31-00</ValueOn>
+            <ValueOff>4C-53-53-52-52-53-4D-4E-4D-52-20-30-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Gamemodes">
+        <Cheatline>
+            <Offset>6AB0EF0</Offset>
+            <Section>0</Section>
+            <ValueOn>51-54-51-52-51-50-4C-4E-4B-20-31-00</ValueOn>
+            <ValueOff>51-54-51-52-51-50-4C-4E-4B-20-30-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Third Person">
+        <Cheatline>
+            <Offset>6AB0EF0</Offset>
+            <Section>0</Section>
+            <ValueOn>4E-4F-53-4C-52-4E-54-52-4B-4C-20-31-00</ValueOn>
+            <ValueOff>4E-4F-53-4C-52-4E-54-52-4B-4C-20-30-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fov">
+        <Cheatline>
+            <Offset>6AB0EF0</Offset>
+            <Section>0</Section>
+            <ValueOn>51-54-53-50-54-4E-4C-4F-4C-20-31-31-30-00</ValueOn>
+            <ValueOff>51-54-53-50-54-4E-4C-4F-4C-20-36-35-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

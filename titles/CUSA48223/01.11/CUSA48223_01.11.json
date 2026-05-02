@@ -1,0 +1,75 @@
+{
+  "name": "Ender Magnolia: Bloom in the Mist",
+  "id": "CUSA48223",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C5BC15",
+          "on": "80BFB800000001750FC7873C01000088130000E9E436F9FD89873C010000E9D936F9FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3BEF30B",
+          "on": "E905C9060290",
+          "off": "89873C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Healing Ward",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C5BBDE",
+          "on": "C787FC00000005000000E960D6F7FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3BD9247",
+          "on": "E99229080290",
+          "off": "898FFC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C5BBEF",
+          "on": "C7838C010000FFC99A3BE9FDCEF4FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3BA8AF5",
+          "on": "E9F5300B0290",
+          "off": "89838C010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C5BC00",
+          "on": "C701FFE0F50529C20F8E6B4701FEE9A84801FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3C704B1",
+          "on": "E94AB7FE019090909090",
+          "off": "891129C20F8EBEFEFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW900"
+  ]
+}

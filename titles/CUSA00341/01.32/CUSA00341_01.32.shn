@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted 4: A Thief’s End™" Moder="hejran7" Cusa="CUSA00341" Version="01.32" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="L3 + Upper L or Upper R Touch Pad">
+        <Cheatline>
+            <Offset>2053800</Offset>
+            <Section>0</Section>
+            <ValueOn>53-48-BB-88-83-40-00-08-00-00-00-48-8B-1B-48-83-E3-02-75-0D-C6-80-79-2E-00-00-00-5B-E9-A8-1C-1A-FE-C6-80-79-2E-00-00-01-5B-E9-9B-1C-1A-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

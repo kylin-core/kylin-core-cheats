@@ -1,0 +1,130 @@
+{
+  "name": "Wolfenstein - The New Order",
+  "id": "CUSA00320",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83650B",
+          "on": "C5F828C1",
+          "off": "C5F25CC2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health OverCharge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8363FC",
+          "on": "90909090",
+          "off": "C5EA5CD3"
+        }
+      ]
+    },
+    {
+      "name": "Instant Health Regeneration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8363E1",
+          "on": "C5F828D1",
+          "off": "C5EA5DD4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Vehicle Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "105607F",
+          "on": "90909090",
+          "off": "C5F25CC8"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C64075",
+          "on": "909090",
+          "off": "294320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C60C0E",
+          "on": "9090909090",
+          "off": "41295C2420"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Armor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8364C5",
+          "on": "C5F828CA",
+          "off": "C5EA5CC9"
+        }
+      ]
+    },
+    {
+      "name": "Easy Perks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BCFDCA",
+          "on": "89C890",
+          "off": "0F4FC1"
+        },
+        {
+          "offset": "BD0D46",
+          "on": "89C890",
+          "off": "0F4FC1"
+        }
+      ]
+    },
+    {
+      "name": "Set Perk Conditions to Max",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "170B800",
+          "on": "4489C143898C26B42D0000E9B05940FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B111B8",
+          "on": "E943A6BF00909090",
+          "off": "438B8C26B42D0000"
+        },
+        {
+          "offset": "170B810",
+          "on": "4489C143898C26B82D0000E9895A40FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B112A1",
+          "on": "E96AA5BF00909090",
+          "off": "438B8C26B82D0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

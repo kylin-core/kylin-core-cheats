@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA41300",
+  "version": "01.02",
+  "name": "Metal Gear Solid",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA41300"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA41300_01.02.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA41300_01.02.json",
+      "size": 18029,
+      "sha256": "83cf243225d5dee2c2e7158d8e303a234bd8d58f37543e39c8df41ad5982a254",
+      "cheatCount": 35,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA41300_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA41300_01.02.shn",
+      "size": 20964,
+      "sha256": "025e59f4fcaa6491f21d74b9d5a0bce53f8e16ced0520556b316f0686553f98a",
+      "cheatCount": 35,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA41300_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA41300_01.02.mc4",
+      "size": 27968,
+      "sha256": "6651a510588b300e011b3d6a056230380e6213843eb521f0039810a3b43ec910",
+      "cheatCount": 35,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA41300_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

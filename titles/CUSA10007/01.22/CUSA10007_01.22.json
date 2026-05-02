@@ -1,0 +1,169 @@
+{
+  "name": "Friday The 13Th The Game",
+  "id": "CUSA10007",
+  "version": "01.22",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Instant Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5357",
+          "on": "9090",
+          "off": "7208"
+        }
+      ]
+    },
+    {
+      "name": "Inf Traps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "100810F",
+          "on": "9090909090909090",
+          "off": "41FF8C2408170000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Knifes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101159E",
+          "on": "909090909090",
+          "off": "FF8BAC150000"
+        }
+      ]
+    },
+    {
+      "name": "Instant All Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFA130",
+          "on": "C4C17A10849400120000",
+          "off": "C4C17A5D849400120000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Shift Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFA216",
+          "on": "90909090909090909090",
+          "off": "C4C17A118424F8130000"
+        },
+        {
+          "offset": "FF9476",
+          "on": "C4C17A58848438120000",
+          "off": "C4C17A58848434120000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Morph Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFA2F6",
+          "on": "C4C17A58848438120000",
+          "off": "C4C17A58848434120000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stalker Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FF96D6",
+          "on": "C4C17A10942400170000",
+          "off": "C4C17A109424FC160000"
+        },
+        {
+          "offset": "FF9476",
+          "on": "C4C17A58848438120000",
+          "off": "C4C17A58848434120000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Sense Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFAFD0",
+          "on": "C4C17A58842424130000",
+          "off": "C4C17A5884241C130000"
+        },
+        {
+          "offset": "FF9476",
+          "on": "C4C17A58848438120000",
+          "off": "C4C17A58848434120000"
+        }
+      ]
+    },
+    {
+      "name": "Knifes Instant Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FDD8A0",
+          "on": "909090909090",
+          "off": "8983E4150000"
+        }
+      ]
+    },
+    {
+      "name": "All Skills Instant Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFA300",
+          "on": "C4817A1084B410120000",
+          "off": "C4817A5D84B410120000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Offline Bots Countdown Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F5C712",
+          "on": "90909090909090",
+          "off": "41898EFC030000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Challenges Countup Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F5C796",
+          "on": "90909090909090",
+          "off": "41FF86F8030000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Out of Bound 15 Sec Warning Test",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FA73A2",
+          "on": "9090909090909090",
+          "off": "41898424C0050000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

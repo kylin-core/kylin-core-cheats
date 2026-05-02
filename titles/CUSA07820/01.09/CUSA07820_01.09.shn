@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last of Us™ Part II" Moder="Celogamez_9.00" Cusa="CUSA07820" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Enable Dev Menu">
+        <Cheatline>
+            <Offset>7FC5FAA0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-A1-3A-00-00-01-E9-9B-49-A3-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

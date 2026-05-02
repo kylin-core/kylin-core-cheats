@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03388",
+  "version": "01.15",
+  "name": "Dark Souls III",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03388"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03388_01.15.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03388_01.15.json",
+      "size": 5047,
+      "sha256": "5846bcf1e5aa11895f00dd1b45d584746baf98121648bc616eb29f70f6678d53",
+      "cheatCount": 17,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03388_01.15.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03388_01.15.shn",
+      "size": 4943,
+      "sha256": "e6f45366f21b0ea0a802523bf0b0ff875559ff16702fd914bb9444c840fb9cf6",
+      "cheatCount": 17,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03388_01.15.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03388_01.15.mc4",
+      "size": 6592,
+      "sha256": "6b780eddcd51ef5b66a5798a95d6cfe47dd4a2bf891f23bff1bc073d1d7346eb",
+      "cheatCount": 17,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03388_01.15.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

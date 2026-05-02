@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GUNDAM BREAKER 3 BREAK EDITION" Moder="Reddevil82 " Cusa="CUSA07651" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>A5F892</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-79-CF-F9-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Kill all Enemies in Stage ( Reboot Ally after use !!! )">
+        <Cheatline>
+            <Offset>2E578E4</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FA-01-75-09-C4-C1-7A-10-87-94-07-00-00-E9-BF-74-BA-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Boost">
+        <Cheatline>
+            <Offset>2E57870</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-04-48-00-00-00-60-EA-46-C5-FA-10-80-04-48-00-00-E9-AA-FA-61-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Repair Kits ( Armor )">
+        <Cheatline>
+            <Offset>2E5783F</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-8C-0F-F8-48-00-00-E9-38-F7-C0-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Special Attacks">
+        <Cheatline>
+            <Offset>A67526</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-11</ValueOn>
+            <ValueOff>C4-C1-7A-11-09</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Energy ( Quick Menu )">
+        <Cheatline>
+            <Offset>2E5784E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-8C-0F-F8-48-00-00-E9-A2-F7-C0-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Energy ( Rocket Launcher )">
+        <Cheatline>
+            <Offset>2E578C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-94-11-F8-48-00-00-E9-63-03-C1-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Burst ( Special Attack L3 + R3 )">
+        <Cheatline>
+            <Offset>2E578A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-68-01-00-00-00-40-1C-45-C5-FA-10-83-68-01-00-00-C5-FA-11-83-68-01-00-00-E9-9C-C5-B9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max GP">
+        <Cheatline>
+            <Offset>2E57887</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-94-F2-02-00-FF-E0-F5-05-44-8B-B0-94-F2-02-00-E9-37-27-B1-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ace Points ( on gain )">
+        <Cheatline>
+            <Offset>BE755C</Offset>
+            <Section>0</Section>
+            <ValueOn>89-54-83-08</ValueOn>
+            <ValueOff>89-4C-83-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Tickets">
+        <Cheatline>
+            <Offset>2E578D0</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-B5-CB-D7-FD-FF-4B-1C-C7-43-1C-04-00-00-00-E9-5F-59-D3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

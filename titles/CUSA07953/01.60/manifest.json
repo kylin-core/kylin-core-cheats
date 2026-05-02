@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07953",
+  "version": "01.60",
+  "name": "Bloodstained Ritual of the Night",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07953"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07953_01.60.shn. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07953_01.60.json",
+      "size": 2098,
+      "sha256": "8adea8f234e1be88c82deaea90f2e3b8b7a6e05b6731b13095beaffd15abbd18",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07953_01.60.shn. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07953_01.60.shn",
+      "size": 1969,
+      "sha256": "08f12ad255de8ce004fa39be92867fa8fb1f65649d12560119dd5594158413da",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07953_01.60.shn. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07953_01.60.mc4",
+      "size": 2648,
+      "sha256": "f58b857a93b977bf5b386707f84df599acf9315abae5891eba27179e1d0391c2",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07953_01.60.shn. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

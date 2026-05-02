@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Asterix & Obelix XXL2" Moder="Reddevil82_9.00" Cusa="CUSA13367" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>E63FD0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-CF-B9-1C-00-00-00-41-89-4F-5C-E9-D4-16-89-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Helmets">
+        <Cheatline>
+            <Offset>6F5A71</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-C9</ValueOn>
+            <ValueOff>0F-42-CA</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

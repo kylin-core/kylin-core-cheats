@@ -1,0 +1,204 @@
+{
+  "name": "Rage 2",
+  "id": "CUSA10300",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Player Infinity HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE924A",
+          "on": "4C893DAFDEA200498DB70E03000066C70606270FBF36E95D3973FD",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "261CBBA",
+          "on": "E98BC68C02909090",
+          "off": "410FBFB70E030000"
+        }
+      ]
+    },
+    {
+      "name": "Player Infinity Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE928D",
+          "on": "B8E703000089412085C0E9BA8F76FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3652251",
+          "on": "E937708901",
+          "off": "8B412085C0"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE9224",
+          "on": "8BB70C04000089B708040000E9F160B6FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A4F320",
+          "on": "E9FF9E490290",
+          "off": "89B708040000"
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Infinity Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE929C",
+          "on": "0F84E93279FEC742200F270000E94A3679FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "367C8F2",
+          "on": "E9A5C9860190",
+          "off": "0F8499FCFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Infinity HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE9265",
+          "on": "66C7810E03000006270FBF810E030000E9E92B79FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "367BE5C",
+          "on": "E904D486019090",
+          "off": "0FBF810E030000"
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Infinity Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "382E1E2",
+          "on": "C5FA5FC1",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Machine Gun No Overheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A5E7D0",
+          "on": "C4C17A5C8728060000",
+          "off": "C4C17A588728060000"
+        }
+      ]
+    },
+    {
+      "name": "Instant OverDirve",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE91FE",
+          "on": "C783700F00000000803FC5FA1083700F0000E90C9276FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3652419",
+          "on": "E9E06D8901909090",
+          "off": "C5FA1083700F0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash Open Game Menu",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE9215",
+          "on": "C74220FFC99A3B8B4220E9E4B36AFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "35959C9",
+          "on": "E947389501909090",
+          "off": "8B4220E937ECFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Vendor Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36CC0B5",
+          "on": "909090",
+          "off": "4429F9"
+        },
+        {
+          "offset": "34F4A95",
+          "on": "418B460C",
+          "off": "418B4608"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Items\\Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2698BFF",
+          "on": "90909090",
+          "off": "44896820"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Upgrade Material",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE9235",
+          "on": "0F84FB8C7CFDC742209F8601008B4220E9228D7CFD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "26B1F67",
+          "on": "E9C9728302",
+          "off": "74D38B4220"
+        }
+      ]
+    },
+    {
+      "name": "Infinity Project Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE927A",
+          "on": "0F844CFE6DFEB89F860100894220E9EE016EFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35C9472",
+          "on": "E903FE910190909090",
+          "off": "0F845AFCFFFF8B4220"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

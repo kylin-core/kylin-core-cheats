@@ -1,0 +1,108 @@
+{
+  "name": "Assassin's Creed Mirage",
+  "id": "CUSA33151",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD8204",
+          "on": "898F68010000",
+          "off": "899768010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3266B90",
+          "on": "C5FA105310",
+          "off": "C5FA595310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mount Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3267A67",
+          "on": "C4C17A11450C",
+          "off": "C4C17A11550C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B4F80F",
+          "on": "C783780200000000FA43E9B32639FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2EE1EC9",
+          "on": "E941D9C603909090",
+          "off": "C5FA118378020000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B4F83C",
+          "on": "669C83FE007E05BE0000000089B768010000669DE937ED25FC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DAE586",
+          "on": "E9B112DA0390",
+          "off": "89B768010000"
+        }
+      ]
+    },
+    {
+      "name": "(99) Skill Points / Level (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B4F820",
+          "on": "488B87B80B0000C7401063000000C7401400000000E965DFD1FD",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "486D798",
+          "on": "E983202E029090",
+          "off": "488B87B80B0000"
+        }
+      ]
+    },
+    {
+      "name": "(9999) Resources (On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B4F800",
+          "on": "2B4584B80F270000E9C20D85FC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "33A05C9",
+          "on": "E932F27A0390",
+          "off": "2B45840F42C1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

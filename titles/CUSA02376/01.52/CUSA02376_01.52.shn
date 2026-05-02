@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed® Syndicate" Moder="Saso" Cusa="CUSA02376" Version="01.52" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP & Easy Kill">
+        <Cheatline>
+            <Offset>14D1890</Offset>
+            <Section>0</Section>
+            <ValueOn>89-07</ValueOn>
+            <ValueOff>89-07</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>5543800</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-28-3F-42-0F-00-E9-B2-21-57-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Resources">
+        <Cheatline>
+            <Offset>554380E</Offset>
+            <Section>0</Section>
+            <ValueOn>31-C0-C3-66-C7-47-28-0F-27-E9-F2-C6-57-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Ammo">
+        <Cheatline>
+            <Offset>554381C</Offset>
+            <Section>0</Section>
+            <ValueOn>44-0F-42-F8-41-89-46-28-E9-B4-C1-57-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

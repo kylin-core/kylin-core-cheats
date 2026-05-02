@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto: San Andreas – The Definitive Edition" Moder="AngelDavil88_9.00" Cusa="CUSA26619" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (WIP/Experimental) (Works only on PS4 Trainer/G.C.M.)">
+        <Cheatline>
+            <Offset>11A1143</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-97-04-07-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Vehicles No Damage (They can explode if hit by bullets) (Works only on PS4 Trainer/G.C.M.)">
+        <Cheatline>
+            <Offset>146635F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-8A-C4-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Armour On Gain">
+        <Cheatline>
+            <Offset>11A0BFE</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-5C-C2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo/No Reload">
+        <Cheatline>
+            <Offset>14E673C</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>41-89-50-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money Instantly">
+        <Cheatline>
+            <Offset>1175DA0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-86-E8-00-00-00</ValueOn>
+            <ValueOff>41-8B-86-E8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Wanted Level (Kill anyone to reset)">
+        <Cheatline>
+            <Offset>5B87DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-2C-00-00-00-00-E9-E5-16-61-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

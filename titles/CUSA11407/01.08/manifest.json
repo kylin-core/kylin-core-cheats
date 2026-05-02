@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11407",
+  "version": "01.08",
+  "name": "Metro Exodus",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11407"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11407_01.08.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11407_01.08.json",
+      "size": 7548,
+      "sha256": "8033805424d924a3a4c0abe662ce89a5cedc8b2c5a69d226ff5a200444e4dffd",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11407_01.08.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11407_01.08.shn",
+      "size": 7350,
+      "sha256": "00f1751a7426ac18091c1f28dc29f58931acb39defe9291982318129957fd6b1",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11407_01.08.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11407_01.08.mc4",
+      "size": 9816,
+      "sha256": "a92448bb2bd9187d7d1d7cbad5107a921966d458b22736ebf2525f379b2e2032",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11407_01.08.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

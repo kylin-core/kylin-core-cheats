@@ -1,0 +1,119 @@
+{
+  "name": "Devil May Cry 5 Deluxe Edition",
+  "id": "CUSA08161",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max-Red-Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8E47800",
+          "on": "B8FFE0F5054189442460E91A832EF8",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "112FB24",
+          "on": "E9D77CD107",
+          "off": "4189442460"
+        }
+      ]
+    },
+    {
+      "name": "Max-Gold-Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8E47811",
+          "on": "B83F420F0041898798000000E9C0DE30F8",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "11556DB",
+          "on": "E93121CF079090",
+          "off": "41898798000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B684CA",
+          "on": "90909090909090",
+          "off": "4489B3CC170000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-evil-Trigger-Virgil-(V)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "268A66C",
+          "on": "9090909090909090",
+          "off": "C5FA5D8310110000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-evil-Trigger2-Dante",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2B97697",
+          "on": "9090909090909090",
+          "off": "C5FA1183141A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Gun-Blade-Charge-Virgil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "38A0CDD",
+          "on": "9090909090",
+          "off": "4189442458"
+        },
+        {
+          "offset": "3B4F9F2",
+          "on": "909090",
+          "off": "895858"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8E47800",
+          "on": "4183BE1401000000750BC4C17A10460CE9BBF255F9C4C17A114610E9B0F255F9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23A6ACA",
+          "on": "E9310DAA0690",
+          "off": "C4C17A114610"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Red-Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D2FB24",
+          "on": "9090909090",
+          "off": "4189442460"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

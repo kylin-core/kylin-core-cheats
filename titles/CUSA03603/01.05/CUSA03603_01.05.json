@@ -1,0 +1,228 @@
+{
+  "name": "Dishonored 2",
+  "id": "CUSA03603",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307F812",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307F813",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18ACAAE",
+          "on": "C5FA114F20",
+          "off": "C5FA114720"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B88E96",
+          "on": "C5F828C1",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15F2F29",
+          "on": "9090",
+          "off": "FFCE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15AF58A",
+          "on": "909090",
+          "off": "4429F3"
+        },
+        {
+          "offset": "15AF58D",
+          "on": "909090",
+          "off": "0F4ED8"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo/Items on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15AF33A",
+          "on": "4189C690",
+          "off": "440F4FF0"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307F8A8",
+          "on": "41C7876C0100009F860100E959FF52FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "15AF80A",
+          "on": "E99900AD019090",
+          "off": "4501B76C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dark-Vision",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11E1F2C",
+          "on": "0F57C09090",
+          "off": "C5FA1045C4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Doppelgaenger",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11F1607",
+          "on": "0F57C0909090909090",
+          "off": "C5FA108408F0752E00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bend-Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "274560D",
+          "on": "C5F828C1",
+          "off": "C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Possession",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B2F234",
+          "on": "C4C17A1087E8030000",
+          "off": "C4C17A5887E8030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shadow Walk",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15C7F98",
+          "on": "909090909090909090",
+          "off": "C5FA5C8401F0752E00"
+        },
+        {
+          "offset": "1B4299B",
+          "on": "9090909090909090",
+          "off": "41FF8C24C80D0000"
+        },
+        {
+          "offset": "1B429DC",
+          "on": "909090909090",
+          "off": "89B1F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Traits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12FBEE3",
+          "on": "90909090",
+          "off": "FF443304"
+        }
+      ]
+    },
+    {
+      "name": "Movement Speed x5",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307F84E",
+          "on": "B800009041660F6EC0E9D56EB6FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1BE672B",
+          "on": "E91E91490190",
+          "off": "C4C16A594564"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "307F85C",
+          "on": "4883F90B74324883F90C742C4883F90D74264883F90E74204883F928741A4883F90F74144883F915740E4883F92B74084883F90A7402EB0A4D31ED45896C8E44EB0544016C8804E9EAC764FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16CC08D",
+          "on": "E9CA379B01",
+          "off": "44016C8804"
+        }
+      ]
+    },
+    {
+      "name": "Zero Chaos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24F395F",
+          "on": "31C090",
+          "off": "8B4008"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

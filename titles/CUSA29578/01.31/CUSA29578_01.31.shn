@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="STRANGER OF PARADISE FINAL FANTASY ORIGIN" Moder="Wander FW9.00" Cusa="CUSA29578" Version="01.31" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>33DB860</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F0-57-C9-80-BB-18-02-00-00-00-75-08-66-C7-43-10-E8-03-EB-04-48-89-4B-10-E9-6E-0A-CE-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic">
+        <Cheatline>
+            <Offset>33DB920</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-E0-13-00-00-00-80-3B-45-E9-AE-20-CA-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="infinite Job points (On use)">
+        <Cheatline>
+            <Offset>33DB8D0</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-63-00-00-00-89-10-C6-07-01-E9-EE-D0-18-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite item use">
+        <Cheatline>
+            <Offset>33DB990</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4F-D6-C6-40-04-63-E9-DE-68-CB-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

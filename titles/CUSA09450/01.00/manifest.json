@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09450",
+  "version": "01.00",
+  "name": "MLB® The Show™ 18",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09450"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09450_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09450_01.00.json",
+      "size": 2399,
+      "sha256": "df49836ec05b904962d1f2af239cf89fd43d98fba91d06870ed76849a1385fd5",
+      "cheatCount": 9,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09450_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09450_01.00.shn",
+      "size": 2901,
+      "sha256": "8f517095e6ca4bbc9302b60e987a3a605fe462f9ae8dd93479329c9473cb20c4",
+      "cheatCount": 9,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09450_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09450_01.00.mc4",
+      "size": 3884,
+      "sha256": "7a5f38f56f83685b6921c0d54e874f21028d0eac153d77d8c86fab52bdb08359",
+      "cheatCount": 9,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09450_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

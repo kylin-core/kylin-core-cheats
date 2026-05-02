@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00806",
+  "version": "01.02",
+  "name": "EP0082-CUSA00806_00-LARACROFT2OSIRIS",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00806"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00806_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00806_01.02.json",
+      "size": 1433,
+      "sha256": "17f4f7b9b46088f03473ce78a92d52f8659ded806b835b858eb3b934e96ddad5",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00806_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00806_01.02.shn",
+      "size": 1166,
+      "sha256": "0116bf6a0b84a79418bd3e860cfe4ab1e04400a1706c869b5ff74a2492333dcf",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00806_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00806_01.02.mc4",
+      "size": 1560,
+      "sha256": "1922b29784b424dca4e50aca0fc4acad0e3cce5f08da3e6c5c9d03393aa24320",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00806_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

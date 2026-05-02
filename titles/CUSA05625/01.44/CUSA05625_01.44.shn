@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed® Origins" Moder="Saso" Cusa="CUSA05625" Version="01.44" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>3558223</Offset>
+            <Section>0</Section>
+            <ValueOn>89-C1-90</ValueOn>
+            <ValueOff>0F-4E-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>663A230</Offset>
+            <Section>0</Section>
+            <ValueOn>45-89-FE-44-89-F6-44-89-FA-E9-6B-47-F1-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen">
+        <Cheatline>
+            <Offset>663A2A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-80-40-05-00-00-C5-FA-11-80-44-05-00-00-E9-F8-01-67-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>663A250</Offset>
+            <Section>0</Section>
+            <ValueOn>80-7B-03-06-75-0F-C7-83-D4-00-00-00-00-00-00-00-E9-B9-2D-F0-FC-89-B3-D4-00-00-00-E9-AE-2D-F0-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Res (On Spend)">
+        <Cheatline>
+            <Offset>663A2D0</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-3F-42-0F-00-41-89-44-24-F0-E9-D1-C2-40-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Abilities Points (On Spend)">
+        <Cheatline>
+            <Offset>663A300</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-8C-02-00-00-E7-03-8B-98-8C-02-00-00-E9-B0-8B-BB-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fast Lvl Up / XP">
+        <Cheatline>
+            <Offset>663A340</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C3-44-89-CE-41-BA-0F-27-00-00-E9-54-61-74-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

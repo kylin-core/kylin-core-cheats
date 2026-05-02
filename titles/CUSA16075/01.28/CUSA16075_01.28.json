@@ -1,0 +1,124 @@
+{
+  "name": "Sniper Elite 5",
+  "id": "CUSA16075",
+  "version": "01.28",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health/1 Shot Kills (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1277DB0",
+          "on": "80BB84000000017512C5FA114B60C5FA114B60E9A1AD09FF0F57C9C5FA114B60E994AD09FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "312B64",
+          "on": "E94752F600",
+          "off": "C5FA114B60"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Health (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1277DB9",
+          "on": "C5FA104B64",
+          "off": "C5FA114B60"
+        }
+      ]
+    },
+    {
+      "name": "1 Shot Kills (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1277DB7",
+          "on": "750F",
+          "off": "7512"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina (For Running)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E07C5E",
+          "on": "909090909090",
+          "off": "C4C17A114F10"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12777B0",
+          "on": "4883FA177511C4C17A104714C4C17A114710E95DF6B8FFC4C17A114710E952F6B8FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E06E1E",
+          "on": "E98D09470090",
+          "off": "C4C17A114710"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ammo/Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12777E0",
+          "on": "85F6C7432CFA000000E93A349CFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "C3AC23",
+          "on": "E9B8CB6300",
+          "off": "85F689432C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1277780",
+          "on": "0F46FE8B7940E900CD99FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "C14485",
+          "on": "E9F632660090",
+          "off": "0F46FE897940"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Levels/Skill Points On Gain (Disable/Restart The Game)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1277760",
+          "on": "498B460841C745083F420F00E99DBF46FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "6E3706",
+          "on": "E95540B900909090",
+          "off": "498B460849894508"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

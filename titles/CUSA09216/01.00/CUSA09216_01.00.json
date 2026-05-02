@@ -1,0 +1,43 @@
+{
+  "name": "Sims 4",
+  "id": "CUSA09216",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Simoleon -Load Your House-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F57800",
+          "on": "41838ED40000001048C7C07F96980049894630E99B923A7E",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80300AA7",
+          "on": "E9546DC58190909090909090",
+          "off": "41838ED40000001049894630"
+        }
+      ]
+    },
+    {
+      "name": "Max Aspiration Points -Load Your House-",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F57818",
+          "on": "B89F8601004189442440E947AE3F7E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80352669",
+          "on": "E9AA51C081",
+          "off": "4189442440"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

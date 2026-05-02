@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BloodRayne Betrayal Flesh bites" Moder="Celogamez" Cusa="CUSA26608" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max/Infinite Health/2 Hits Kills (Master Code)">
+        <Cheatline>
+            <Offset>6EBDB0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BF-AC-0E-00-00-00-00-80-3F-75-18-C5-FA-10-87-80-02-00-00-C5-FA-11-87-7C-02-00-00-E9-7A-25-AD-FF-0F-57-C0-C5-FA-11-87-7C-02-00-00-E9-6A-25-AD-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="2 Hits Kills">
+        <Cheatline>
+            <Offset>6EBDBA</Offset>
+            <Section>0</Section>
+            <ValueOn>75-15</ValueOn>
+            <ValueOff>75-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>6EBE50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-84-24-10-0D-00-00-05-E9-13-E5-9F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Score">
+        <Cheatline>
+            <Offset>6EBE10</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-04-08-00-00-7F-96-98-00-E9-01-8F-A1-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

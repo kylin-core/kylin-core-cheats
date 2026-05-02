@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="TheLongDark" Moder="Reddevil82 " Cusa="CUSA09690" Version="01.98" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>1903DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-1C-C5-FA-11-43-18-E9-D6-83-F7-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>1903DD3</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-78-E9-22-A6-EC-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Backpack Weight ( must be activated )">
+        <Cheatline>
+            <Offset>1903DDD</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-60-00-00-00-00-C5-FA-10-40-60-E9-43-95-DF-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items">
+        <Cheatline>
+            <Offset>1903DEE</Offset>
+            <Section>0</Section>
+            <ValueOn>41-57-41-BF-63-00-00-00-44-89-78-18-41-5F-C5-E2-2A-40-18-E9-D7-E0-E1-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

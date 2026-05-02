@@ -1,0 +1,234 @@
+{
+  "name": "Evil Below",
+  "id": "CUSA29504",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987EB0",
+          "on": "41C74678003C1C46E99993E47E526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "807D1250",
+          "on": "E95B6C1B8190",
+          "off": "C4C17A114678"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987ED1",
+          "on": "C5FA118380000000C5FA108B80000000E962A7FE7E",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80972640",
+          "on": "E98C580181909090",
+          "off": "C5FA108B80000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987EE6",
+          "on": "C744C8306300000041FF442424E912D9F67F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "818F5805",
+          "on": "E9DC260980",
+          "off": "41FF442424"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987EF8",
+          "on": "8B8320010000FFC88B8324010000898320010000E9225E1F7F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B7DD2B",
+          "on": "E9C8A1E080909090",
+          "off": "8B8320010000FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Player Walk Speed [ x 2 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F11",
+          "on": "41B80000804066410F6EC0E947C2E47E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D4160",
+          "on": "E9AC3D1B81909090",
+          "off": "C5FA1083CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Player Walk Speed [ x 3 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F21",
+          "on": "41B80000C04066410F6EC0E937C2E47E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D4160",
+          "on": "E9BC3D1B81909090",
+          "off": "C5FA1083CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Player Walk Speed [ x 4 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F31",
+          "on": "41B80000004166410F6EC0E927C2E47E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D4160",
+          "on": "E9CC3D1B81909090",
+          "off": "C5FA1083CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Player Run Speed [ x 2 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F41",
+          "on": "41B80000C04066410F6EC0E9D6BAE47E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D3A1F",
+          "on": "E91D451B81909090",
+          "off": "C5FA1083D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Player Run Speed [ x 3 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F51",
+          "on": "41B80000104166410F6EC0E9C6BAE47E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D3A1F",
+          "on": "E92D451B81909090",
+          "off": "C5FA1083D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Player Run Speed [ x 4 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F61",
+          "on": "41B80000404166410F6EC0E9B6BAE47E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D3A1F",
+          "on": "E93D451B81909090",
+          "off": "C5FA1083D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Player Jump Height [ x 2 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F71",
+          "on": "41B80000604166410F6EC0E92D0BE57E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D8AA6",
+          "on": "E9C6F41A81909090",
+          "off": "C5FA1083D4000000"
+        },
+        {
+          "offset": "511243",
+          "on": "9090909090",
+          "off": "C5FA5C45DC"
+        }
+      ]
+    },
+    {
+      "name": "Player Jump Height [ x 3 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F81",
+          "on": "41B80000A84166410F6EC0E91D0BE57E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D8AA6",
+          "on": "E9D6F41A81909090",
+          "off": "C5FA1083D4000000"
+        },
+        {
+          "offset": "511243",
+          "on": "9090909090",
+          "off": "C5FA5C45DC"
+        }
+      ]
+    },
+    {
+      "name": "Player Jump Height [ x 4 ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1987F91",
+          "on": "41B80000E04166410F6EC0E90D0BE57E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "807D8AA6",
+          "on": "E9E6F41A81909090",
+          "off": "C5FA1083D4000000"
+        },
+        {
+          "offset": "511243",
+          "on": "9090909090",
+          "off": "C5FA5C45DC"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

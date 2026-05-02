@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10812",
+  "version": "01.06",
+  "name": "A Plague Tale: Innocence",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10812"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10812_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10812_01.06.json",
+      "size": 359,
+      "sha256": "75a238ccedef922088a88902d294c7c6fd510026cab8bc8f932db45e9c588b1b",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10812_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10812_01.06.shn",
+      "size": 556,
+      "sha256": "c08dc9a9a6d824c37ac0406f7b4021390e97b61615fbc528affab0029531a648",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10812_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10812_01.06.mc4",
+      "size": 748,
+      "sha256": "1bbb767995d4cba1ac4139723963d1567112b48332f690a725890217a674b846",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10812_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

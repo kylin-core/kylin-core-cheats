@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00025",
+  "version": "01.00",
+  "name": "Call of Duty® Ghosts",
+  "process": "default_mp.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00025"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.00_default_mp.elf.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00025_01.00.json",
+      "size": 603,
+      "sha256": "50498334af698a0987c4ae36f93a91113712aa6c8f6dd514a6bbf58c40d99ad0",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.00_default_mp.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00025_01.00.shn",
+      "size": 852,
+      "sha256": "3625bf9519dab1fa04cb5bdc2666eb07fd6eebd63397b34fcab0c83afe047ae0",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.00_default_mp.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00025_01.00.mc4",
+      "size": 1152,
+      "sha256": "af63cf95093d4da3f0453c6574ffe220059867e3b4dcd092419a3ddfe4b4f89d",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.00_default_mp.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09263",
+  "version": "01.00",
+  "name": "Devil May Cry™ HD Collection",
+  "process": "dmc2.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09263"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09263_01.00_dmc2.elf.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09263_01.00.json",
+      "size": 587,
+      "sha256": "5f8b19908e9e08a95523c0a1c1b2ce84afdb8cdb42e04d3e016f61e8be2ab8dd",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09263_01.00_dmc2.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09263_01.00.shn",
+      "size": 824,
+      "sha256": "06419f116179818d8f15ea0b75c7364f8d90fe96bb5727640bcbe6263c5b14a9",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09263_01.00_dmc2.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09263_01.00.mc4",
+      "size": 1112,
+      "sha256": "f22b74864fa7db9cfb36cf911eb380a1256e48c24de641e39eec1ae468879004",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09263_01.00_dmc2.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

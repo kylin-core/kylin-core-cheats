@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12025",
+  "version": "01.06",
+  "name": "KINGDOM HEARTS Ⅲ",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12025"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12025_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12025_01.06.json",
+      "size": 1646,
+      "sha256": "7ef3aa76c9b2902994623a904b291749a986d1018a45181f82210c2637388c99",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12025_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12025_01.06.shn",
+      "size": 1597,
+      "sha256": "5b9145371556e46f300110b3893d9f3210baa5761218035c2751c0ce5c4d2008",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12025_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12025_01.06.mc4",
+      "size": 2136,
+      "sha256": "154b6014286428695e4eebb53bb226ca31888d716e8cff8be558a2125ddf770f",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12025_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

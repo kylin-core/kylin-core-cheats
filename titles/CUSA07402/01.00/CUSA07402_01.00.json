@@ -1,0 +1,60 @@
+{
+  "name": "Crash Bandicoot N Sane Trilogy",
+  "id": "CUSA07402",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "god-mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FD05E",
+          "on": "9090909090",
+          "off": "E87D0EB600"
+        }
+      ]
+    },
+    {
+      "name": "MAX-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23EB813",
+          "on": "BEE70300004189760CE9393A1EFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "5CF254",
+          "on": "E9BAC5E10190",
+          "off": "4189760C8B38"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CF254",
+          "on": "90909090",
+          "off": "4189760C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-MASK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FCD63",
+          "on": "9090909090",
+          "off": "E828010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

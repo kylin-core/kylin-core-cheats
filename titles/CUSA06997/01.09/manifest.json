@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06997",
+  "version": "01.09",
+  "name": "Yakuza Kiwami",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06997"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06997_01.09.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06997_01.09.json",
+      "size": 7103,
+      "sha256": "d62a065bd68f7a9fbb8778cedb4e08405a515573b869f8b8753c3299eaaecbe2",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06997_01.09.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06997_01.09.shn",
+      "size": 8124,
+      "sha256": "b2fc37fb082d8f24abbbd5399fe448f36c640eda5c31c5121758c3ff48ee1c58",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06997_01.09.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06997_01.09.mc4",
+      "size": 10840,
+      "sha256": "d138f0e52cdf3193e1cbe6ba20b868935939dd80992f0f715ef4b30f1f2d60d7",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06997_01.09.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

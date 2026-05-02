@@ -1,0 +1,33 @@
+{
+  "name": "Outbreak Lost Hope",
+  "id": "CUSA24067",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15AE44",
+          "on": "06",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15AE44",
+          "on": "06",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

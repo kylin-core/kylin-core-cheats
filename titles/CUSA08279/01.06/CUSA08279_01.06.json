@@ -1,0 +1,157 @@
+{
+  "name": "Gintama Rumble",
+  "id": "CUSA08279",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C9958",
+          "on": "90909090",
+          "off": "C5FC1100"
+        }
+      ]
+    },
+    {
+      "name": "Max Special Moves Gauge after 1 hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DF64D",
+          "on": "C5FA1193F8150000",
+          "off": "C5FA1183F8150000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Special Moves Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DF690",
+          "on": "9090909090909090",
+          "off": "C5FA1187F8150000"
+        }
+      ]
+    },
+    {
+      "name": "Max Awakening Rumble Gauge after 1 hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DABDA",
+          "on": "C5FA118BF0150000",
+          "off": "C5FA1183F0150000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Awakening Rumble Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DF519",
+          "on": "909090909090",
+          "off": "8987F0150000"
+        }
+      ]
+    },
+    {
+      "name": "Awakening always ON after 1 hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7830",
+          "on": "51B90000C842660F6EC1C4C17A118424E415000059E9DC2173FF",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D9A1E",
+          "on": "E90DDE8C00909090",
+          "off": "C5F857C0C5FA5FC1"
+        }
+      ]
+    },
+    {
+      "name": "Awakening always Active",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DF3B5",
+          "on": "9090909090909090",
+          "off": "C5FA1183E4150000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Pachi after Shop (USE IT ALONE)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7800",
+          "on": "BE9F86010001B04000020089B040000200E972B687FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "222E82",
+          "on": "E97949780090",
+          "off": "0F4FF24585F6"
+        }
+      ]
+    },
+    {
+      "name": "Max CP After Level-Up (USE IT ALONE)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7800",
+          "on": "66BE0F276601B401F89102006689B401F8910200E9FA2671FF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B9F0C",
+          "on": "E9EFD88E009090",
+          "off": "4863C748C1E005"
+        }
+      ]
+    },
+    {
+      "name": "Max Combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7819",
+          "on": "66B8FF7F6601832416000066898324160000E9A55673FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DCECF",
+          "on": "E945A98C0090",
+          "off": "8D4101C1E910"
+        }
+      ]
+    },
+    {
+      "name": "Max Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7800",
+          "on": "0F42C2B89F860100018304390000E9ECCC75FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1044FA",
+          "on": "E901338A00",
+          "off": "B8FFFFFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

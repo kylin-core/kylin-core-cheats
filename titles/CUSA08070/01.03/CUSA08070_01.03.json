@@ -1,0 +1,194 @@
+{
+  "name": "Nanatsu no Taizai (Seven Deadly Sins) - Knights of Britannia",
+  "id": "CUSA08070",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297800",
+          "on": "F30F104004F30F1100F30F5AC0E942B6437F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806D2E4C",
+          "on": "E9AF49BC80909090",
+          "off": "F30F1000F30F5AC0"
+        },
+        {
+          "offset": "8369B8",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6032E5",
+          "on": "0F57C090F30F1100",
+          "off": "F30F1000F30F5AC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84D4A8",
+          "on": "90909090",
+          "off": "F20F5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Score x1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297812",
+          "on": "C740200000803FF30F105020E9B3ED437F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806D65D1",
+          "on": "E93C12BC80",
+          "off": "F30F105020"
+        }
+      ]
+    },
+    {
+      "name": "Score x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297812",
+          "on": "C7402000000040F30F105020E9B3ED437F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806D65D1",
+          "on": "E93C12BC80",
+          "off": "F30F105020"
+        }
+      ]
+    },
+    {
+      "name": "Score x10",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297812",
+          "on": "C7402000002041F30F105020E9B3ED437F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806D65D1",
+          "on": "E93C12BC80",
+          "off": "F30F105020"
+        }
+      ]
+    },
+    {
+      "name": "Score x20",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297812",
+          "on": "C740200000A041F30F105020E9B3ED437F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806D65D1",
+          "on": "E93C12BC80",
+          "off": "F30F105020"
+        }
+      ]
+    },
+    {
+      "name": "Score x100",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297812",
+          "on": "C740200000C842F30F105020E9B3ED437F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806D65D1",
+          "on": "E93C12BC80",
+          "off": "F30F105020"
+        }
+      ]
+    },
+    {
+      "name": "Max Items for Collection Quests",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "605FF4",
+          "on": "B86300000090",
+          "off": "49634760FFC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F5E49",
+          "on": "90909090",
+          "off": "F20F5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Max Magic Crystalls on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61F1B9",
+          "on": "48C7C13F420F00",
+          "off": "486308034C2408"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Magic Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1297823",
+          "on": "488D448820C70001000000E94C2B577F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8080A37A",
+          "on": "E9A4D4A880",
+          "off": "488D448820"
+        }
+      ]
+    },
+    {
+      "name": "99x Combo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "90CBEA",
+          "on": "48C7C163000000",
+          "off": "486389C0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

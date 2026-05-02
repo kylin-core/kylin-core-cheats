@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06400",
+  "version": "01.06",
+  "name": "MARVEL VS. CAPCOM: INFINITE",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06400"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06400_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06400_01.06.json",
+      "size": 1780,
+      "sha256": "94c8ae16765f8aa6bab2710893344f6f61b63f3407cf443d37053023d2c3c1a7",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06400_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06400_01.06.shn",
+      "size": 1806,
+      "sha256": "f70d5071151f1534e90d2a5476459f1f5082c9da7607f40207516ba2d7cd9255",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06400_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06400_01.06.mc4",
+      "size": 2412,
+      "sha256": "6e3d179193018b23d695eb4b6f1092d740756fe6f67f2cc1338d0c077f499014",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06400_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

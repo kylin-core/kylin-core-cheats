@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Achilles: Legends Untold" Moder="wander fw 90" Cusa="CUSA43394" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite usables">
+        <Cheatline>
+            <Offset>5C93CF6</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-F4-63-00-00-00-89-50-F8-E9-B7-58-0F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level,Gold,Skill points, upgrade items">
+        <Cheatline>
+            <Offset>5C93CF6</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-40-F8-FF-E0-F5-05-44-89-28-E9-96-43-0F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

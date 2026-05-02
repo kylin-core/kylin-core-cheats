@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="#KILLALLZOMBIES" Moder="Saso_Fw_9.00" Cusa="CUSA00849" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health / Armor / Ammo (Master Code)">
+        <Cheatline>
+            <Offset>9D2000</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-10-C0-ED-8C-10-75-37-48-B8-00-00-00-00-00-40-8F-40-EB-2B-90-81-7B-10-A0-ED-8C-10-75-21-48-B8-00-00-00-00-00-40-8F-40-EB-15-81-7B-10-70-23-75-10-75-0C-48-B8-00-00-00-00-00-C0-58-40-90-90-48-89-03-8B-41-08-E9-71-30-88-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-75-37-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-75-21-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Armor">
+        <Cheatline>
+            <Offset>9D2007</Offset>
+            <Section>0</Section>
+            <ValueOn>75-0D</ValueOn>
+            <ValueOff>75-37</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>9D201D</Offset>
+            <Section>0</Section>
+            <ValueOn>75-0C</ValueOn>
+            <ValueOff>75-21</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,152 @@
+{
+  "name": "Huntdown",
+  "id": "CUSA12064",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible-1-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803F395E",
+          "on": "9090909090",
+          "off": "E80DB40000"
+        },
+        {
+          "offset": "804EBACB",
+          "on": "9090909090",
+          "off": "E88069F1FF"
+        },
+        {
+          "offset": "803F962E",
+          "on": "9090909090",
+          "off": "E8ED5D0000"
+        },
+        {
+          "offset": "804F504A",
+          "on": "9090909090",
+          "off": "E801ACF0FF"
+        },
+        {
+          "offset": "803FFD6D",
+          "on": "9090909090",
+          "off": "E8AEF6FFFF"
+        },
+        {
+          "offset": "8061315E",
+          "on": "9090909090",
+          "off": "E8EDCADEFF"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-2-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803FEFCC",
+          "on": "9090909090",
+          "off": "E84F040000"
+        },
+        {
+          "offset": "80402CAE",
+          "on": "9090909090",
+          "off": "E89DCFFFFF"
+        },
+        {
+          "offset": "803F962E",
+          "on": "9090909090",
+          "off": "E8ED5D0000"
+        },
+        {
+          "offset": "804034ED",
+          "on": "9090909090",
+          "off": "E82EBFFFFF"
+        },
+        {
+          "offset": "8061315E",
+          "on": "9090909090",
+          "off": "E8EDCADEFF"
+        },
+        {
+          "offset": "803FFD6D",
+          "on": "9090909090",
+          "off": "E8AEF6FFFF"
+        },
+        {
+          "offset": "804027BC",
+          "on": "9090909090",
+          "off": "E85FCCFFFF"
+        },
+        {
+          "offset": "8040293A",
+          "on": "9090909090",
+          "off": "E8E1CAFFFF"
+        },
+        {
+          "offset": "803F395E",
+          "on": "9090909090",
+          "off": "E80DB40000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803FF78B",
+          "on": "9090909090909090",
+          "off": "41898424A0020000"
+        },
+        {
+          "offset": "804034ED",
+          "on": "9090909090",
+          "off": "E82EBFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8042DF6C",
+          "on": "909090909090",
+          "off": "FF8BFC020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "804DFDA8",
+          "on": "909090909090",
+          "off": "FF88C4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803FE1C2",
+          "on": "909090909090",
+          "off": "89830C030000"
+        },
+        {
+          "offset": "80479A1B",
+          "on": "909090",
+          "off": "897730"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

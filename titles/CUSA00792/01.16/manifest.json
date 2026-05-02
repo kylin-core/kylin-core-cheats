@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00792",
+  "version": "01.16",
+  "name": "The Binding of Isaac: Rebirth",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00792"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00792_01.16.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00792_01.16.json",
+      "size": 3257,
+      "sha256": "9ccc4765e2712211fa6e3dc51306894662736e6f8c2d0881b2d790370bacfa0c",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00792_01.16.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00792_01.16.shn",
+      "size": 3316,
+      "sha256": "c03b85a207b4c2d4cd36a1255434fcdda16e93453cb3a4fd0c98be827cebcc91",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00792_01.16.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00792_01.16.mc4",
+      "size": 4440,
+      "sha256": "3aef853210f486cdac80667065900f7a5c0b7f52023329d3cbebfd3c907d44c2",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00792_01.16.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mickey Storm and the Cursed Mask" Moder="Reddevil82 " Cusa="CUSA25924" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Invincible">
+        <Cheatline>
+            <Offset>18D7DF2</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-80-11-D6-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Blue Lightning ( on gain )">
+        <Cheatline>
+            <Offset>18D7DCA</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-4C-24-F4-B9-3F-42-0F-00-89-48-18-E9-CA-3E-DE-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Hearts - Battery ( on gain )">
+        <Cheatline>
+            <Offset>18D7DE0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-4C-24-F4-B9-06-00-00-00-89-48-1C-E9-54-F8-83-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Timer">
+        <Cheatline>
+            <Offset>18D7DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-D5-1A-84-7F-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08025",
+  "version": "01.00",
+  "name": "Borderlands 3",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08025"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08025_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08025_01.00.json",
+      "size": 1941,
+      "sha256": "003a30a4c0aa5dac149cd655f84dbaa4245d814174e624d7872fd84f41ce1820",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08025_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08025_01.00.shn",
+      "size": 1827,
+      "sha256": "531b4bf4fc3279f8c76b654708e5a1da721d92c7ee798bd0a1c92b546c03a290",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08025_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08025_01.00.mc4",
+      "size": 2456,
+      "sha256": "2b53daca2a6d63cd1131f4dfb6119df4c065005f56dbc13f2b7a94862dcfe7a2",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08025_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

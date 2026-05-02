@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA27145",
+  "version": "01.08",
+  "name": "Psychonauts 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA27145"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27145_01.08.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA27145_01.08.json",
+      "size": 925,
+      "sha256": "99ed39396095523e285e87ea35627266291549e71dd4b1d7245bf9be1f14308f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27145_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA27145_01.08.shn",
+      "size": 974,
+      "sha256": "a67758dab63cae284190786c32ebbb33538d7c8415c1dd8e41de89c375f0db69",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27145_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA27145_01.08.mc4",
+      "size": 1304,
+      "sha256": "c8fb073e6c3f100afc1140fc34f9f5e9833b9583e7ae8653c9d52daeb9e3bf8f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27145_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

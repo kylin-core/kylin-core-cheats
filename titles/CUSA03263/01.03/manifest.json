@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03263",
+  "version": "01.03",
+  "name": "Mount & Blade: Warband",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03263"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03263_01.03.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03263_01.03.json",
+      "size": 1363,
+      "sha256": "ebb57d80136436b9af9e83545416cff1f00ff9267c44cc6ab150c1b870e458a9",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03263_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03263_01.03.shn",
+      "size": 1762,
+      "sha256": "9dedcd5c32d84ba6223d330ba1f582b07cd320d94bff6ef31e111778acf32e2a",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03263_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03263_01.03.mc4",
+      "size": 2368,
+      "sha256": "7fe4519f781cb77899ea1e16c47393092e7cbc2e0a8d98add4449300f89c26c6",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03263_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

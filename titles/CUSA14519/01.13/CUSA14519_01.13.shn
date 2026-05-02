@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Maneater" Moder="TylerMods_9.00" Cusa="CUSA14519" Version="01.13" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="9,999,999 Protein on Gain">
+        <Cheatline>
+            <Offset>5941550</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-80-03-00-00-7F-96-98-00-E9-11-27-3B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Fats on Gain">
+        <Cheatline>
+            <Offset>59415A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-84-03-00-00-7F-96-98-00-E9-8A-27-3B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Minerals on Gain">
+        <Cheatline>
+            <Offset>59415F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-88-03-00-00-7F-96-98-00-E9-11-28-3B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="9,999,999 Mutagens on Gain">
+        <Cheatline>
+            <Offset>59416D0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-8C-03-00-00-7F-96-98-00-E9-08-28-3B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable HUD (Pause, then unpause to fix when disabled)">
+        <Cheatline>
+            <Offset>13CC4CA</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7C-11-4F-10</ValueOn>
+            <ValueOff>C4-C1-7C-11-47-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Sky effects (weird screen during Sonar)">
+        <Cheatline>
+            <Offset>2E28643</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-7A-11-43-10</ValueOn>
+            <ValueOff>C5-FA-11-43-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max XP/Level on Gain">
+        <Cheatline>
+            <Offset>59417F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-90-03-00-00-7F-96-98-00-E9-87-24-3B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen">
+        <Cheatline>
+            <Offset>5941900</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-E8-07-00-00-00-00-C6-42-E9-2A-B5-2D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

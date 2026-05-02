@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03185",
+  "version": "01.06",
+  "name": "DIGIMON STORY CYBER SLEUTH",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03185"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03185_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03185_01.06.json",
+      "size": 558,
+      "sha256": "2645bd8eddcb968b04b9f384f2330565bc316e1973479c5b671cc0119fc8aceb",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03185_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03185_01.06.shn",
+      "size": 795,
+      "sha256": "942b7f459a78e9959ff0a9a742b30a8d2bad90cb205e8fe883260925b7fefba3",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03185_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03185_01.06.mc4",
+      "size": 1068,
+      "sha256": "ab2ffff9b083d230094fb519bf6209e4a90f30d81145baa486ba084df63e11a2",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03185_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

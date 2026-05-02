@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 2" Moder="KevinTamvan" Cusa="CUSA09171" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Run-Shoot Speed Master Code">
+        <Cheatline>
+            <Offset>7E2B81F</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-7E-54-01-74-58-7F-56-EB-66-41-83-7E-54-02-74-17-41-83-7E-54-04-74-10-41-83-7E-54-08-74-1B-41-83-7E-54-10-74-26-EB-48-81-78-1C-00-00-C0-3F-74-3F-C7-40-1C-00-00-C0-3F-EB-36-81-78-1C-00-00-40-40-74-2D-C7-40-1C-00-00-40-40-EB-24-81-78-1C-00-00-E0-40-74-1B-C7-40-1C-00-00-E0-40-EB-12-81-78-1C-00-00-80-3F-74-09-C7-40-1C-00-00-80-3F-EB-00-C5-FA-10-40-1C-E9-4E-BD-4F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health Player">
+        <Cheatline>
+            <Offset>1D5E4F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Zombie Can't Grab">
+        <Cheatline>
+            <Offset>3151E90</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy Kill">
+        <Cheatline>
+            <Offset>7E2B800</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4C-F1-BA-00-00-00-00-E9-42-69-32-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Clip Ammo">
+        <Cheatline>
+            <Offset>2FBB459</Offset>
+            <Section>0</Section>
+            <ValueOn>83-EA-00</ValueOn>
+            <ValueOff>44-29-F2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Item On Use">
+        <Cheatline>
+            <Offset>2FBB2AB</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-20-54-33-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="20 Inventory Slot">
+        <Cheatline>
+            <Offset>7E2B80D</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BC-14-00-00-00-44-89-A0-90-00-00-00-E9-2E-89-06-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inc Run Speed-Shoot Speed">
+        <Cheatline>
+            <Offset>7E2B826</Offset>
+            <Section>0</Section>
+            <ValueOn>7F-02</ValueOn>
+            <ValueOff>7F-56</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freez Countdown Timer">
+        <Cheatline>
+            <Offset>10A7D18</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-5D-FA-FF-FF-90</ValueOn>
+            <ValueOff>0F-85-5C-FA-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Timer [Don't Freez It]">
+        <Cheatline>
+            <Offset>7E2B89A</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-3B-59-A8-F9-48-31-D2-48-89-51-18-E9-B9-57-A8-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Dup Ammo When Store On Storage">
+        <Cheatline>
+            <Offset>7E2B8AC</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-89-D4-01-00-00-83-68-20-00-E9-C1-AB-07-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Main-Swap HandGun Ammo On Storage To:">
+        <Cheatline>
+            <Offset>7E2B8BB</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-10-0F-0F-84-AE-EC-C7-F8-E9-5B-EC-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-76-00-00-00-E9-48-EC-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-7C-00-00-00-E9-35-EC-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-51-00-00-00-E9-22-EC-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-20-00-00-00-E9-0F-EC-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-21-00-00-00-E9-FC-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-4D-00-00-00-E9-E9-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-4F-00-00-00-E9-D6-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-50-00-00-00-E9-C3-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-52-00-00-00-E9-B0-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-53-00-00-00-E9-9D-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-54-00-00-00-E9-8A-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-56-00-00-00-E9-77-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-57-00-00-00-E9-64-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-58-00-00-00-E9-51-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-5D-00-00-00-E9-3E-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-5E-00-00-00-E9-2B-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-5F-00-00-00-E9-18-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-66-00-00-00-E9-05-EB-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-70-00-00-00-E9-F2-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-77-00-00-00-E9-DF-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-78-00-00-00-E9-CC-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-7E-00-00-00-E9-B9-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-7F-00-00-00-E9-A6-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-80-00-00-00-E9-93-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-81-00-00-00-E9-80-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-82-00-00-00-E9-6D-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-83-00-00-00-E9-5A-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-84-00-00-00-E9-47-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-85-00-00-00-E9-34-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-86-00-00-00-E9-21-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-87-00-00-00-E9-0E-EA-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-88-00-00-00-E9-FB-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-9F-00-00-00-E9-E8-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-A0-00-00-00-E9-D5-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-A9-00-00-00-E9-C2-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-B0-00-00-00-E9-AF-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-B3-00-00-00-E9-9C-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-B4-00-00-00-E9-89-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-B5-00-00-00-E9-76-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-B7-00-00-00-E9-63-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-BA-00-00-00-E9-50-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-BB-00-00-00-E9-3D-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-BC-00-00-00-E9-2A-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-BD-00-00-00-E9-17-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-BE-00-00-00-E9-04-E9-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-BF-00-00-00-E9-F1-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C2-00-00-00-E9-DE-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C3-00-00-00-E9-CB-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C4-00-00-00-E9-B8-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C5-00-00-00-E9-A5-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C6-00-00-00-E9-92-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C7-00-00-00-E9-7F-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C8-00-00-00-E9-6C-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-C9-00-00-00-E9-59-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-CA-00-00-00-E9-46-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-E6-00-00-00-E9-33-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-F0-00-00-00-E9-20-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-F1-00-00-00-E9-0D-E8-C7-F8-C7-40-14-FF-FF-FF-FF-C7-40-10-F4-00-00-00-E9-FA-E7-C7-F8-C7-40-14-17-00-00-00-C7-40-10-00-00-00-00-E9-E7-E7-C7-F8-C7-40-14-1F-00-00-00-C7-40-10-00-00-00-00-E9-D4-E7-C7-F8-C7-40-14-2F-00-00-00-C7-40-10-00-00-00-00-E9-C1-E7-C7-F8-C7-40-14-52-00-00-00-C7-40-10-00-00-00-00-E9-AE-E7-C7-F8-C7-40-14-DE-00-00-00-C7-40-10-00-00-00-00-E9-9B-E7-C7-F8-C7-40-14-F2-00-00-00-C7-40-10-00-00-00-00-E9-88-E7-C7-F8-C7-40-14-FC-00-00-00-C7-40-10-00-00-00-00-E9-75-E7-C7-F8-C7-40-14-01-00-00-00-C7-40-10-00-00-00-00-E9-62-E7-C7-F8-C7-40-14-02-00-00-00-C7-40-10-00-00-00-00-E9-4F-E7-C7-F8-C7-40-14-03-00-00-00-C7-40-10-00-00-00-00-E9-3C-E7-C7-F8-C7-40-14-04-00-00-00-C7-40-10-00-00-00-00-E9-29-E7-C7-F8-C7-40-14-07-00-00-00-C7-40-10-00-00-00-00-E9-16-E7-C7-F8-C7-40-14-08-00-00-00-C7-40-10-00-00-00-00-E9-03-E7-C7-F8-C7-40-14-09-00-00-00-C7-40-10-00-00-00-00-E9-F0-E6-C7-F8-C7-40-14-0B-00-00-00-C7-40-10-00-00-00-00-E9-DD-E6-C7-F8-C7-40-14-29-00-00-00-C7-40-10-00-00-00-00-E9-CA-E6-C7-F8-C7-40-14-2A-00-00-00-C7-40-10-00-00-00-00-E9-B7-E6-C7-F8-C7-40-14-2B-00-00-00-C7-40-10-00-00-00-00-E9-A4-E6-C7-F8-C7-40-14-2C-00-00-00-C7-40-10-00-00-00-00-E9-91-E6-C7-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Sub Gun - LE 5 (Infinite)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-66-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="MAG - Lightning Hawk">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-79-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Combat knife (Infinite)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-8C-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - Samurai Edge (Infinite)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-9F-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="ATM-4 (Infinite)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-B2-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Anti-tank Rocket (Infinite)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-C5-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Minigun (Infinite)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-D8-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - Matilda">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-EB-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - M19">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-FE-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - JMB Hp3">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-11-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - Quickdraw Army Rev">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-24-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - MUP">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-37-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - Broom Hc">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-4A-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun - SLS 60">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-5D-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Shotgun - W-870">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-70-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="EMF Visualizer">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-83-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Grenade Launcher - GM 79">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-96-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Chemical Flamethrower">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-A9-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stun Gun - Spark Shot">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-BC-05-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lion Medallion">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-09-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Maiden Medallion">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-1C-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Unicorn Medallion">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-2F-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Club Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-78-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Heart Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-8B-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Diamond Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-6E-01-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Boxed Electronic Part 1">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-3F-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Boxed Electronic Part 2">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-52-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Ink Ribbon">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-42-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Wooden Board">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-55-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Storage Room Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-68-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Mechanic Jack Handle">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>74-7B-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Square Crank">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-8A-00-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Spade Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-9D-00-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Weapons Locker Key Card">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-C3-00-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Round Handle">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-D6-00-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="S.T.A.R.S. Badge">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-E9-00-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fuse (Main Hall)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-2D-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fuse (Break Room Hallway)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-40-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Bolt Cutter">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-53-04-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="T-Bar Valve Handle">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-9E-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Spare Key (key pad)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-5B-01-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rook Plug">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-22-01-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="King Plug">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-35-01-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Queen Plug">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-2C-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Signal Modulator">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-36-03-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Trophy 1">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-49-03-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Trophy 2">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-5C-03-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Sewers Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-6F-03-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="ID Wristband (Senior Staff)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-A8-03-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Dispersal Cartridge (Solution)">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-C4-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Courtyard Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-F3-01-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Orphanage Key">
+        <Cheatline>
+            <Offset>7E2B8BF</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-65-02-00-00</ValueOn>
+            <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Swap Caliber HandGun Ammo Claire ( Main-Swap HandGun Ammo Must Enable)">
+        <Cheatline>
+            <Offset>7E2B8BB</Offset>
+            <Section>0</Section>
+            <ValueOn>83-78-10-1A</ValueOn>
+            <ValueOff>83-78-10-0F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

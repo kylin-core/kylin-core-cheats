@@ -1,0 +1,107 @@
+{
+  "name": "Lies Of Pi",
+  "id": "CUSA36848",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health+Stamina+Fable+Legion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7DB0",
+          "on": "4983FB0C741643837CFD3464740E43C744FD0C0000FA43E94668BFFA43894CFD0CE93C68BFFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15AE60D",
+          "on": "E99E974005",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health+Stamina+Fable+Legion+1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7DB0",
+          "on": "4983FB0C741843837CFD3464741043C744FD0C0000FA43E94668BFFA31C043C744FD0C00000000E93668BFFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15AE60D",
+          "on": "E99E974005",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Pick Up (x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B75D0",
+          "on": "498B3FC74740620000008B7740E9F873C6FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "161E9D4",
+          "on": "E9F78B390590",
+          "off": "498B3F8B7740"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B78D0",
+          "on": "0F83E446C7FAC74340640000008B7340E99B46C7FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "162BF7B",
+          "on": "E950B93805",
+          "off": "73438B7340"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7850",
+          "on": "B8204E0000418985DC000000E91F77C7FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "162EF79",
+          "on": "E9D28838059090",
+          "off": "418985DC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ergo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69B7690",
+          "on": "B9FFC99A3B8988A4000000E97E1BEBFA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1869218",
+          "on": "E973E4140590",
+          "off": "8988A4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

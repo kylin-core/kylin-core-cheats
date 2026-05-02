@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA32740",
+  "version": "01.05",
+  "name": "Sonic Superstars",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA32740"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32740_01.05.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA32740_01.05.json",
+      "size": 1335,
+      "sha256": "336c523037f4a8fefc64a3375b6e881a431b620fd4f35580b622716cccbb1671",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32740_01.05.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA32740_01.05.shn",
+      "size": 1308,
+      "sha256": "9be7d23ec0548cee6b5197155545f77ffb3a9fb884f35deb3303c908830aca54",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32740_01.05.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA32740_01.05.mc4",
+      "size": 1752,
+      "sha256": "0fdaa1f03d4af26d29997d7cade504f56b37686174e311882efc8323752c8d96",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA32740_01.05.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

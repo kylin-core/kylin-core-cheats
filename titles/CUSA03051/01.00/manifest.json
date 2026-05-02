@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03051",
+  "version": "01.00",
+  "name": "Guns, Gore and Cannoli",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03051"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03051_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03051_01.00.json",
+      "size": 1021,
+      "sha256": "beff7af48d9ef8560ce65c5e609adb266f4901b7469936403f4f62c8c279f050",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03051_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03051_01.00.shn",
+      "size": 1239,
+      "sha256": "431173b80d7225a74f1059b5b5473a90b415eeeafcddfd31f460edf3266a48d6",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03051_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03051_01.00.mc4",
+      "size": 1664,
+      "sha256": "aa0e398caa8a700593bb23fa3fc760f8350ac8c73ce57a176f59f3314f26e6d2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03051_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

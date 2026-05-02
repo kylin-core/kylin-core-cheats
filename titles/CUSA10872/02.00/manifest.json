@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10872",
+  "version": "02.00",
+  "name": "Shadow of the Tomb Raider",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10872"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10872_02.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10872_02.00.json",
+      "size": 1733,
+      "sha256": "752ebcc2cdfa3e1d119b3eee005c8294d1883887818ddbf4dfc8c8defadb8557",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10872_02.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10872_02.00.shn",
+      "size": 1556,
+      "sha256": "3c194d56df36718ba33a6ddffab056fcdee0976311ca7389bb559c4c0136a46b",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10872_02.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10872_02.00.mc4",
+      "size": 2092,
+      "sha256": "6103b46bb62a59b5fbc7bd0de8c07c657e2dde93f5e60b36f72be2f57c5502d8",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10872_02.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

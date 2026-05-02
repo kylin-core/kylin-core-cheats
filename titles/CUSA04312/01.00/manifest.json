@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04312",
+  "version": "01.00",
+  "name": "Ghostbusters",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04312"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04312_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04312_01.00.json",
+      "size": 551,
+      "sha256": "7bd1c708f975bfbb9cb197b8ac9bcecb0e608a5c66428064714457d1b04ec3fe",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04312_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04312_01.00.shn",
+      "size": 626,
+      "sha256": "856cc1c5bc547cb000a362ae5fdc5a11ad52c59aff8303dbde72f23d03ee5165",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04312_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04312_01.00.mc4",
+      "size": 856,
+      "sha256": "0ec47387b47c7f12d0fb738800c4d197d07ee81386dd5c8386a13c3c1830ddc0",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04312_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

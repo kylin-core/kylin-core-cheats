@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12824",
+  "version": "01.05",
+  "name": "Hogwarts Legacy",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12824"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12824_01.05.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12824_01.05.json",
+      "size": 16596,
+      "sha256": "a531bffb3aef4a4c699203633879e1d5915ae5c1f3a94d903092c3e16846260e",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12824_01.05.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12824_01.05.shn",
+      "size": 9852,
+      "sha256": "a630f273f5a000e1af860ca09c6d157764c148a6a011854f4a207fae4ad5348a",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12824_01.05.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12824_01.05.mc4",
+      "size": 13144,
+      "sha256": "99d64242e7f7c4b7ebc4021dd86959b0abda3adfb1ef007f48d30774540a77fd",
+      "cheatCount": 31,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12824_01.05.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

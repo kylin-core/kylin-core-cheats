@@ -1,0 +1,171 @@
+{
+  "name": "The Legend of Heroes: Trails into Reverie",
+  "id": "CUSA28907",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3E920",
+          "on": "41807C245800751141C784241404000050C30000E91B7B15FF41899C2414040000E90E7B15FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9644C",
+          "on": "E9CF84EA00909090",
+          "off": "41899C2414040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite EP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F730",
+          "on": "66C7831C0400000F27E98ADE15FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "9D5C1",
+          "on": "E96A21EA009090",
+          "off": "66898B1C040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite CP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F9B0",
+          "on": "66C78320040000E703E91A6B15FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "964D1",
+          "on": "E9DA94EA009090",
+          "off": "66898B20040000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F310",
+          "on": "41C78664030000FF3F7A10E982391FFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "132C9B",
+          "on": "E970C6E0009090",
+          "off": "41898664030000"
+        }
+      ]
+    },
+    {
+      "name": "Fast Quarz Level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F010",
+          "on": "C7836C030000FFE30B54E9AF131FFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1303C8",
+          "on": "E943ECE00090",
+          "off": "89836C030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Mira (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F650",
+          "on": "C78040F67A00FFE0F505E9EE514EFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "424847",
+          "on": "E904AEB10090",
+          "off": "898840F67A00"
+        }
+      ]
+    },
+    {
+      "name": "Max Exchange Items (in spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F530",
+          "on": "C78488A0F57A009F860100E94B524EFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "424784",
+          "on": "E9A7ADB1009090",
+          "off": "89B488A0F57A00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items (In battle have 2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3F1D0",
+          "on": "C7015A0000004584F6E97AAD4DFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "419F53",
+          "on": "E97852B200",
+          "off": "89014584F6"
+        }
+      ]
+    },
+    {
+      "name": "Max Purple Shards (on spent in the Corridor)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3E680",
+          "on": "C7017F9698004584F6E9B4B94DFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "41A03D",
+          "on": "E93E46B200",
+          "off": "89014584F6"
+        }
+      ]
+    },
+    {
+      "name": "Max U Materials (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F3EA70",
+          "on": "C7444804FFE0F5054883C108E9D5A24DFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "418D4E",
+          "on": "E91D5DB200909090",
+          "off": "895448044883C108"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

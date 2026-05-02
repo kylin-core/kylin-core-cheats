@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA16596",
+  "version": "01.61",
+  "name": "Cyberpunk 2077",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA16596"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16596_01.61.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA16596_01.61.json",
+      "size": 22249,
+      "sha256": "295dd62c0d0204f75ad3af2da44d6ebce1ba33e44a469979144848ade9d79e58",
+      "cheatCount": 60,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16596_01.61.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA16596_01.61.shn",
+      "size": 20443,
+      "sha256": "0eee46f10ce5fa9b3dc05397157cb2ee1d183fbfb1ed691a1fd80890d770db4a",
+      "cheatCount": 60,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16596_01.61.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA16596_01.61.mc4",
+      "size": 27264,
+      "sha256": "3b74799a83e187ff436604ca0937d81820f912e6b066dc60761819aae45db515",
+      "cheatCount": 60,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16596_01.61.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hellpoint" Moder="Rizla" Cusa="CUSA17801" Version="01.25" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="HP Pointer (Must Be ON)">
+        <Cheatline>
+            <Offset>80C723D6</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-03-48-89-DF</ValueOn>
+            <ValueOff>48-8B-03-48-89-DF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Pointer (Must Be ON)">
+        <Cheatline>
+            <Offset>80E59124</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-40-20</ValueOn>
+            <ValueOff>C5-FA-10-40-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HP Master (Must Be ON)">
+        <Cheatline>
+            <Offset>80A94115</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-85-58-FF-FF-FF</ValueOn>
+            <ValueOff>C5-FA-11-85-58-FF-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>1DC7124</Offset>
+            <Section>0</Section>
+            <ValueOn>51-B9-00-00-00-00-66-0F-6E-C1-59</ValueOn>
+            <ValueOff>C5-FA-11-85-58-FF-FF-FF-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill">
+        <Cheatline>
+            <Offset>1DC710F</Offset>
+            <Section>0</Section>
+            <ValueOn>51-B9-80-4F-C3-47-66-0F-6E-C1-59</ValueOn>
+            <ValueOff>C5-FA-10-85-58-FF-FF-FF-90-90-90</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Invincible">
+        <Cheatline>
+            <Offset>80A95476</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FC-11-04-24</ValueOn>
+            <ValueOff>C5-FC-11-04-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Fall Damage">
+        <Cheatline>
+            <Offset>80A95BEA</Offset>
+            <Section>0</Section>
+            <ValueOn>80-78-1C-01</ValueOn>
+            <ValueOff>80-78-1C-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic">
+        <Cheatline>
+            <Offset>80A97E55</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-38</ValueOn>
+            <ValueOff>C5-FA-11-43-38</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>81664F3E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-54</ValueOn>
+            <ValueOff>C5-FA-11-43-54</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Heal">
+        <Cheatline>
+            <Offset>8165D6B1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-43-2C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Heal on Gain">
+        <Cheatline>
+            <Offset>81046C57</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-2C</ValueOn>
+            <ValueOff>C5-FA-11-43-2C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="0 Weight">
+        <Cheatline>
+            <Offset>816662EF</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-85-A8-00-00-00</ValueOn>
+            <ValueOff>41-89-85-A8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Heat+Freeze Increase">
+        <Cheatline>
+            <Offset>81665344</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-EA-5F-D3-C5-F8-2E-D1</ValueOn>
+            <ValueOff>C5-EA-5F-D3-C5-F8-2E-D1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Toxic Increase">
+        <Cheatline>
+            <Offset>8166548D</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-EA-5F-D3-C5-F8-2E-D0</ValueOn>
+            <ValueOff>C5-EA-5F-D3-C5-F8-2E-D0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Axions when Infuse">
+        <Cheatline>
+            <Offset>8165EA48</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8B-47-18-49-89-46-18</ValueOn>
+            <ValueOff>49-8B-47-18-49-89-46-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Axions on Get">
+        <Cheatline>
+            <Offset>80A9822F</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-01-B7-B8-00-00-00</ValueOn>
+            <ValueOff>4D-01-B7-B8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Axions">
+        <Cheatline>
+            <Offset>80A9AC67</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>49-89-8E-B8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Keep Axions after Death">
+        <Cheatline>
+            <Offset>80C848A6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>48-89-B7-B8-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="99999 Crafting Resources on Get">
+        <Cheatline>
+            <Offset>810AB3D3</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-34-9F-86-01-00</ValueOn>
+            <ValueOff>44-89-73-34-44-89-F1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Crafting Resources">
+        <Cheatline>
+            <Offset>810AB502</Offset>
+            <Section>0</Section>
+            <ValueOn>45-31-F6</ValueOn>
+            <ValueOff>44-29-F1</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hogwarts Legacy" Moder="Wander FW9.00" Cusa="CUSA12771" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>8443CD0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-7C-24-18-82-01-11-00-75-0E-41-C7-84-24-A4-01-00-00-00-3C-1C-46-EB-0A-C4-C1-7A-11-84-24-A4-01-00-00-E9-9E-2F-B7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Special power">
+        <Cheatline>
+            <Offset>8443E50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-08-3D-00-00-00-00-7A-44-E9-21-14-2E-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Broom boost">
+        <Cheatline>
+            <Offset>8443660</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-40-00-00-96-43-E9-70-93-9C-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Spells No Cooldown (in Fight only)">
+        <Cheatline>
+            <Offset>272687A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-F8-11-42-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level After Doing few Experience tasks ">
+        <Cheatline>
+            <Offset>8443C50</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-8D-B0-FE-FF-FF-41-C7-46-38-FF-E0-F5-05-E9-51-88-72-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="infinite Gold/Items">
+        <Cheatline>
+            <Offset>7B4ACD</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>48-0F-BE-07</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Talent Points do not decrease when spent">
+        <Cheatline>
+            <Offset>84431C0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-A4-34-9C-FE-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Potions do not decrease when drinking them">
+        <Cheatline>
+            <Offset>8442DA0</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-03-1A-9C-FE-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

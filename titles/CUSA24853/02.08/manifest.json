@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA24853",
+  "version": "02.08",
+  "name": "Kena: Bridge of Spirits",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA24853"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24853_02.08.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA24853_02.08.json",
+      "size": 4207,
+      "sha256": "f64e9809b92908405a035eba51992cc36fedd3f92a8f5ea6dbf14b3dc427a538",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24853_02.08.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA24853_02.08.shn",
+      "size": 3436,
+      "sha256": "958cafec6ffc6c93e47effe06ea2a29be8389dcc0380d296c69993e55e4ea65d",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24853_02.08.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA24853_02.08.mc4",
+      "size": 4588,
+      "sha256": "f28c4eb5d98c9db0da41d1ec7965c2f82eb2f1a3b45b2b9f61264428b5a109dd",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24853_02.08.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

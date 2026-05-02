@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA37321",
+  "version": "01.08",
+  "name": "Atomic Heart",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA37321"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37321_01.08.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA37321_01.08.json",
+      "size": 1354,
+      "sha256": "ad0ec7c4994bef90dadd37eac08b24fc942b5423748f580fab2f3d8d8d596002",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37321_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA37321_01.08.shn",
+      "size": 1403,
+      "sha256": "fe7e492220fcbc7b68bc36f20033c9fdbf0dd88122260695f4937e6d33c24102",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37321_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA37321_01.08.mc4",
+      "size": 1880,
+      "sha256": "aaa7362a6a18a27e8980e76584440f636188308126e78c378d06fd86b7198507",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37321_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

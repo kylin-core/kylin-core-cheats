@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08364",
+  "version": "01.00",
+  "name": "Okami HD",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08364"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08364_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08364_01.00.json",
+      "size": 1557,
+      "sha256": "1f497882503b89f1daee8178526ed24b24a2fe6a0435357afdad45eb2a208c25",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08364_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08364_01.00.shn",
+      "size": 1740,
+      "sha256": "0f8591c0267d611838ba40671da7ae4215ba43f2cadb750fbc053eb1c53cf5af",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08364_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08364_01.00.mc4",
+      "size": 2328,
+      "sha256": "598954810a3b1bc285ca899103fadd6396bbf27ce6c886996bb623cc28d8dcc2",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA08364_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

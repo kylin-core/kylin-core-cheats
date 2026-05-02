@@ -1,0 +1,382 @@
+{
+  "name": "Aeterna Noctis Virtuoso",
+  "id": "CUSA32236",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Player Pointer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01B17500",
+          "on": "00488905E88A4C00C6404100803DEDFFFFFF017504C64041014869C189888888E9C6C9CD7E",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "807F3EE4",
+          "on": "E9183632819090",
+          "off": "4869C189888888"
+        },
+        {
+          "offset": "8072E8AC",
+          "on": "9090",
+          "off": "7556"
+        }
+      ]
+    },
+    {
+      "name": "Invulnerable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01B17500",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8088D465",
+          "on": "B97F96980090",
+          "off": "8B8B90000000"
+        }
+      ]
+    },
+    {
+      "name": "Easy LevelUp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8088E3B9",
+          "on": "8B880C01000090",
+          "off": "418B8E90000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinte Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807F7758",
+          "on": "909090909090",
+          "off": "29881C010000"
+        },
+        {
+          "offset": "81C36ED1",
+          "on": "31C09090",
+          "off": "418D4501"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumping",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D3BB17",
+          "on": "B8FF00000090",
+          "off": "8B8338010000"
+        },
+        {
+          "offset": "80D3BB23",
+          "on": "9090",
+          "off": "7528"
+        }
+      ]
+    },
+    {
+      "name": "Dashing: No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D30F16",
+          "on": "0F57C09090909090",
+          "off": "C5FA108010010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Air Dashing",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D30B62",
+          "on": "909090909090",
+          "off": "0F84D3010000"
+        },
+        {
+          "offset": "80D2F3F9",
+          "on": "9090",
+          "off": "742A"
+        }
+      ]
+    },
+    {
+      "name": "Ignore Bloodcosts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807F7548",
+          "on": "0F57C090",
+          "off": "C5FA58C1"
+        }
+      ]
+    },
+    {
+      "name": "Hard Attack: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C25A74",
+          "on": "909090909090",
+          "off": "0F84D9F7FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Hard Attack: No Incantation",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C2F4D9",
+          "on": "909090909090",
+          "off": "0F83D1010000"
+        }
+      ]
+    },
+    {
+      "name": "Hard Attack: No Blood Cost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C2EE45",
+          "on": "90909090909090909090",
+          "off": "C4C17A108424B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Hard Attack: No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C2EE27",
+          "on": "C4C17A108424B0000000",
+          "off": "C4C17A108424B4000000"
+        }
+      ]
+    },
+    {
+      "name": "Scythe: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C2525B",
+          "on": "909090909090",
+          "off": "0F847C090000"
+        }
+      ]
+    },
+    {
+      "name": "Scythe: No Blood Cost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C32BC4",
+          "on": "90909090909090909090",
+          "off": "C4C17A1084241C010000"
+        }
+      ]
+    },
+    {
+      "name": "Dark Shield: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C26002",
+          "on": "909090909090",
+          "off": "0F849F000000"
+        }
+      ]
+    },
+    {
+      "name": "Dark Shield: No cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C2EAB5",
+          "on": "909090909090909090",
+          "off": "C4C17A1085F0020000"
+        }
+      ]
+    },
+    {
+      "name": "Shuriken: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C26215",
+          "on": "909090909090",
+          "off": "0F84F0F9FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Shuriken: No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C36C3D",
+          "on": "0F57C09090909090",
+          "off": "C5FA108364020000"
+        }
+      ]
+    },
+    {
+      "name": "Shuriken: No Blood Cost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C36C5B",
+          "on": "0F57C09090909090",
+          "off": "C5FA108368020000"
+        }
+      ]
+    },
+    {
+      "name": "Katana Slash: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C264FA",
+          "on": "909090909090",
+          "off": "0F8484F7FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Katana Feint: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C267AC",
+          "on": "909090909090",
+          "off": "0F8400F5FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Katana: No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C31680",
+          "on": "0F57C090909090909090",
+          "off": "C4C17A108424D4010000"
+        }
+      ]
+    },
+    {
+      "name": "Katana: No Blood Cost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C31730",
+          "on": "0F57C090909090909090",
+          "off": "C4C17A108424D8010000"
+        }
+      ]
+    },
+    {
+      "name": "Spear: Always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C26A5E",
+          "on": "909090909090",
+          "off": "0F84F2F1FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Spear: No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C3501D",
+          "on": "0F57C0909090909090",
+          "off": "C4C17A10875C010000"
+        }
+      ]
+    },
+    {
+      "name": "Spear: No Blood Cost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C23CF6",
+          "on": "0F57C0909090909090",
+          "off": "C4C17A108664010000"
+        }
+      ]
+    },
+    {
+      "name": "Bow: No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8076E612",
+          "on": "C5F828C190",
+          "off": "C5FA5845D4"
+        }
+      ]
+    },
+    {
+      "name": "Bow: Light Arrow always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80769247",
+          "on": "9090",
+          "off": "741A"
+        }
+      ]
+    },
+    {
+      "name": "Bow: Crystal Arrow always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80767318",
+          "on": "EB10",
+          "off": "7510"
+        }
+      ]
+    },
+    {
+      "name": "Bow: Dark Arrow always available",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807693DF",
+          "on": "909090909090",
+          "off": "0F8435010000"
+        },
+        {
+          "offset": "80766894",
+          "on": "9090",
+          "off": "740B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

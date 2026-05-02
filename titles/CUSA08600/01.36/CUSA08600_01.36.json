@@ -1,0 +1,43 @@
+{
+  "name": "The Crew 2",
+  "id": "CUSA08600",
+  "version": "01.36",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53D3AE0",
+          "on": "41C7865C030000FFE0F505E9703007FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "446B59",
+          "on": "E982CFF8049090",
+          "off": "41899E5C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitro Turbo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53D39B0",
+          "on": "C743340000C842C5FA106B34E92DEF5AFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "29828E9",
+          "on": "E9C210A502",
+          "off": "C5FA106B34"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

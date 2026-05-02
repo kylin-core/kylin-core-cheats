@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ys IX: Monstrum Nox" Moder="Wander" Cusa="CUSA20414" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Items Multiply On Sell(sell 1)">
+        <Cheatline>
+            <Offset>30F470</Offset>
+            <Section>0</Section>
+            <ValueOn>66-43-01-84-66-84-95-16-00</ValueOn>
+            <ValueOff>66-43-89-84-66-84-95-16-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Money Multiplier When Fighting Monsters">
+        <Cheatline>
+            <Offset>325AFE</Offset>
+            <Section>0</Section>
+            <ValueOn>01-8F-7C-94-16-00</ValueOn>
+            <ValueOff>89-8F-7C-94-16-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

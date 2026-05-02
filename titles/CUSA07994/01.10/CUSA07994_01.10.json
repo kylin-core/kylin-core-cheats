@@ -1,0 +1,59 @@
+{
+  "name": "FIFA 18",
+  "id": "CUSA07994",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Score (in Training) (Journey Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C9B940",
+          "on": "C786588402007F969800E9EC5F84FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "34E1935",
+          "on": "E906A07B0390",
+          "off": "019658840200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points (Journey Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C9B9B0",
+          "on": "0F44C841C6475014E9D597F3FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "4BD518B",
+          "on": "E920680C029090",
+          "off": "0F44C841014F50"
+        }
+      ]
+    },
+    {
+      "name": "Max Budget (after Buying a player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C9BA30",
+          "on": "488B543588C702FFC99A3BE93B918DFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "5574B74",
+          "on": "E9B76E72019090",
+          "off": "488B5435888902"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

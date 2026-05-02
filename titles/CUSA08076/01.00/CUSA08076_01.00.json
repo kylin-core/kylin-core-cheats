@@ -1,0 +1,33 @@
+{
+  "name": "Sine Mora EX",
+  "id": "CUSA08076",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Sub Weapons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A587",
+          "on": "909090909090",
+          "off": "FE881A030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AFA22",
+          "on": "9090909090909090",
+          "off": "C5FA11871C030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "ThankachanSmith"
+  ]
+}

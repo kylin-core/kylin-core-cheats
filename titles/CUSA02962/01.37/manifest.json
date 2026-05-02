@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02962",
+  "version": "01.37",
+  "name": "Fallout 4 Game of the Year Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02962"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02962_01.37.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02962_01.37.json",
+      "size": 19909,
+      "sha256": "331185e299a49769848f44506cfeb598620c483bcbd2b2292b921b4e510eb928",
+      "cheatCount": 52,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02962_01.37.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02962_01.37.shn",
+      "size": 15417,
+      "sha256": "afc2c9071fa85de8fc9830e635ea5ca28e7a0ccd463e754b1b380ba6ded420f0",
+      "cheatCount": 52,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02962_01.37.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02962_01.37.mc4",
+      "size": 20568,
+      "sha256": "c20592b89ba78e5f8a7e383d1190521ff269b40be8dee271493c999827658b21",
+      "cheatCount": 52,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02962_01.37.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

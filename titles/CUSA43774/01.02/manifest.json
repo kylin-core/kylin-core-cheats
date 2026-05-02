@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA43774",
+  "version": "01.02",
+  "name": "Tomb Raider 1,2,3 Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA43774"
+  ],
+  "updatedAt": "2026-05-02T10:01:34Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.02.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA43774_01.02.json",
+      "size": 7304,
+      "sha256": "dc4270e060edb8318802592eeaa5368b17e48331e49c942a3e910fbda574a1de",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA43774_01.02.shn",
+      "size": 3664,
+      "sha256": "70905dac748ac2c7463ac380a6ebf813c1aad4513281f3219677e81706cd19b8",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA43774_01.02.mc4",
+      "size": 4908,
+      "sha256": "97967178afddc67173ee1b0dede1e2395e9e86ac2daf38161eda642fbea9646e",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.02.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

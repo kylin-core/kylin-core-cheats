@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hell Warders" Moder="Wander+d01v_9.00" Cusa="CUSA13537" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Units Point Multiplier (upgrade/add soldier)">
+        <Cheatline>
+            <Offset>19BA8A0</Offset>
+            <Section>0</Section>
+            <ValueOn>01-77-18</ValueOn>
+            <ValueOff>89-77-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Skill points x999 (will take effect after the fight)">
+        <Cheatline>
+            <Offset>7FC5FDF0</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-95-E4-72-01-66-C7-43-20-E7-03-E9-C1-63-A8-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health/Sphere">
+        <Cheatline>
+            <Offset>7FC5D362</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FA-00-75-17-49-83-FD-00-75-11-C7-40-18-00-3C-1C-46-C5-FA-10-40-18-E9-B3-19-F2-01-C5-FA-10-40-18-E9-A9-19-F2-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

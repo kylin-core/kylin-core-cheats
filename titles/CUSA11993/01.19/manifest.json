@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11993",
+  "version": "01.19",
+  "name": "Marvel's Spider-Man",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11993"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11993_01.19.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11993_01.19.json",
+      "size": 5993,
+      "sha256": "e2275c98c49b7b5b6b040d2049a2dc1f2181c7e222f80270177ff3354472fce8",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11993_01.19.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11993_01.19.shn",
+      "size": 4983,
+      "sha256": "6e93960d57b32710333f580bd2e751f2d63838b009058afeb72b9ae34cb700d7",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11993_01.19.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11993_01.19.mc4",
+      "size": 6656,
+      "sha256": "c24943ea11a92eb0a57888ab514d1b7486f3bcd78ca88a792802f4859e742768",
+      "cheatCount": 14,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11993_01.19.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

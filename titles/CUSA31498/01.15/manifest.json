@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA31498",
+  "version": "01.15",
+  "name": "EP0102-CUSA31498_00-STREETFIGHTER006",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA31498"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31498_01.15.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA31498_01.15.json",
+      "size": 2123,
+      "sha256": "15852968ed29ee5d407e5a13a3b0a267c4fd6bec0658ae4c136c66d32ead56c7",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31498_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA31498_01.15.shn",
+      "size": 1963,
+      "sha256": "c57e96d83564a27ff82451e834a71e7c459ff1e16e5bb3f59b5fd1921334fa78",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31498_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA31498_01.15.mc4",
+      "size": 2624,
+      "sha256": "ea8536b0ffefa151fb108bcd505203e34c51a3143ff1a22fbbb40290f122cb95",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA31498_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA30202",
+  "version": "01.06",
+  "name": "SIFU",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA30202"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA30202_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA30202_01.06.json",
+      "size": 968,
+      "sha256": "c20a70a84cce22f0cf049cb968ae88a26b5e5cd97205fc48a31a3484c204bbe9",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA30202_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA30202_01.06.shn",
+      "size": 1047,
+      "sha256": "233ab6ddcce216c64e97c69ff0418b39661faeaf68b71f9c67239be65a5441ee",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA30202_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA30202_01.06.mc4",
+      "size": 1408,
+      "sha256": "42f6545eff073bacb6a05d834a9655d38867a805edc0f0ab9cb2eeaf2f983d46",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA30202_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

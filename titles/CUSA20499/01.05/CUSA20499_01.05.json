@@ -1,0 +1,75 @@
+{
+  "name": "Cuphead",
+  "id": "CUSA20499",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01587DB0",
+          "on": "440F49E3458B667045896674E9D29E3A7F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80931C8B",
+          "on": "E92061C580909090",
+          "off": "440F49E345896674"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Extra Special",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01587A50",
+          "on": "C7839800000000004842E9999D3A7F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "809317F0",
+          "on": "E95B62C580909090",
+          "off": "C5FA118398000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Plane Extra Special",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01587770",
+          "on": "C7839800000000004842E979A03A7F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "809317F0",
+          "on": "E97B5FC580909090",
+          "off": "C5FA118398000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "015878E0",
+          "on": "0F84E081FE7EC740103C00000048635810E9437EFE7E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8056F72F",
+          "on": "E9AC8101819090909090",
+          "off": "0F849703000048635810"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

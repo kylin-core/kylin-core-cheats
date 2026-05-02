@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03522",
+  "version": "01.02",
+  "name": "Call of Duty®: Modern Warfare® Remastered",
+  "process": "default.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03522"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03522_01.02_default.elf.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03522_01.02.json",
+      "size": 1543,
+      "sha256": "fff4cb136ed11710a017a8e326e89f881478c4a341bcea6a612a82362a868fa2",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03522_01.02_default.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03522_01.02.shn",
+      "size": 1871,
+      "sha256": "64c5d5d3acc2b1a2d7ed6663cefdbd7445e8548ab4706f3516c7ce51eb13670d",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03522_01.02_default.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03522_01.02.mc4",
+      "size": 2496,
+      "sha256": "849df34ca6d38e697d50bd1d24968dcc45540ee2f7996d7816533d6ea7366aaa",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03522_01.02_default.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

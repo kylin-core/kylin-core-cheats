@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wolfenstein® II: The New Colossus™" Moder="Dioniso" Cusa="CUSA07384" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>2FFB800</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-10-8B-43-1C-89-43-10-89-43-18-31-C0-E9-1A-72-E8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Shield">
+        <Cheatline>
+            <Offset>2FFB815</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-44-DE-10-41-8B-44-DE-1C-41-89-44-DE-10-E9-08-73-E8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Bullets">
+        <Cheatline>
+            <Offset>2FFB83D</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-43-70-3D-FE-FF-FF-01-74-2C-8B-83-E0-00-00-00-83-F8-FF-75-17-8B-83-C4-00-00-00-83-F8-00-75-06-8B-83-A4-00-00-00-89-83-C0-00-00-00-39-D6-0F-4E-D6-E9-5A-44-19-FE-39-D6-0F-4E-D6-31-C0-85-F6-E9-47-44-19-FE-90</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Laser + Granades + Hatchets (100)">
+        <Cheatline>
+            <Offset>2FFB7F3</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-64-00-00-00-89-43-30-E9-8B-44-19-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Upgrade Kits + Enigma Codes (99)">
+        <Cheatline>
+            <Offset>2FFB7E5</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-63-00-00-00-89-44-01-0C-E9-FA-2F-88-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Enemy Doesnt Shoot (except Uebersoldaten)">
+        <Cheatline>
+            <Offset>2FFB882</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-43-70-3D-FE-FF-FF-01-74-0B-8B-93-A4-00-00-00-E9-26-44-19-FE-31-C0-E9-2F-44-19-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA27670",
+  "version": "01.04",
+  "name": "UnMetal",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA27670"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27670_01.04.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA27670_01.04.json",
+      "size": 1234,
+      "sha256": "20521c68099335e19f97397a83ba85b18e2a931a2b59ff0d99d9f1ef8fdc918d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27670_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA27670_01.04.shn",
+      "size": 1219,
+      "sha256": "422ba83d6ddb7bef64ec0a59e256353803b5e9ff4e0af15b0409a07d88e35992",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27670_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA27670_01.04.mc4",
+      "size": 1644,
+      "sha256": "9ab9277aa275cd619c667fec6b896e27043d02337c1c3ffb5d82bbd8dcb61141",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA27670_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Battlefield 4" Moder="DeathRGH" Cusa="CUSA00049" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>174C17E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-1C</ValueOn>
+            <ValueOff>C5-FA-11-43-1C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>10289A4</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Recoil / Spread">
+        <Cheatline>
+            <Offset>6C6E10</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Wire Frame Rendering">
+        <Cheatline>
+            <Offset>186EF10</Offset>
+            <Section>0</Section>
+            <ValueOn>89-F1-83-E1-07</ValueOn>
+            <ValueOff>89-F1-83-E1-07</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze FX">
+        <Cheatline>
+            <Offset>2350110</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Draw Debug Strings">
+        <Cheatline>
+            <Offset>144CB50</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Small Hud">
+        <Cheatline>
+            <Offset>C031B6</Offset>
+            <Section>0</Section>
+            <ValueOn>48-B8-00-00-00-00-00-00-00-40</ValueOn>
+            <ValueOff>48-B8-00-00-00-00-00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Climb">
+        <Cheatline>
+            <Offset>2787B94</Offset>
+            <Section>0</Section>
+            <ValueOn>F0-23-74-49</ValueOn>
+            <ValueOff>00-00-20-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Always Able To Climb">
+        <Cheatline>
+            <Offset>993B9D</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-85-EB-FD-FF-FF-01</ValueOn>
+            <ValueOff>C6-85-EB-FD-FF-FF-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch V1">
+        <Cheatline>
+            <Offset>993A81</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E9-8F-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 1">
+        <Cheatline>
+            <Offset>993A81</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E9-8F-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 2">
+        <Cheatline>
+            <Offset>993A5B</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-85-B4-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 3">
+        <Cheatline>
+            <Offset>993A51</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-85-BE-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 4">
+        <Cheatline>
+            <Offset>993A2B</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-85-E4-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 5">
+        <Cheatline>
+            <Offset>993F68</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E9-E5-07-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 6">
+        <Cheatline>
+            <Offset>993E71</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-C3-0C-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 7">
+        <Cheatline>
+            <Offset>993BA6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-8E-0F-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 8">
+        <Cheatline>
+            <Offset>993A05</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-0A-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 9 (Get Stuck)">
+        <Cheatline>
+            <Offset>9939FA</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-84-E4-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 10">
+        <Cheatline>
+            <Offset>9939DF</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>0F-83-30-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 11">
+        <Cheatline>
+            <Offset>993890</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-20</ValueOn>
+            <ValueOff>80-7B</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 12 (Inside Trace Function)">
+        <Cheatline>
+            <Offset>995142</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>73-0B</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Teleport Patch 13 (Change 4 to 8)">
+        <Cheatline>
+            <Offset>9962B2</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-5C-47-08</ValueOn>
+            <ValueOff>C4-C1-7A-5C-47-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

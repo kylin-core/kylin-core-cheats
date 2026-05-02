@@ -1,0 +1,53 @@
+{
+  "name": "Tchia",
+  "id": "CUSA34306",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Energia Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5A1BDF0",
+          "on": "C7874C01000000009841E97EB517FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B97375",
+          "on": "E9764AE804909090",
+          "off": "C5FA118F4C010000"
+        },
+        {
+          "offset": "5A1BDF0",
+          "on": "C7874C01000000009841E97EB517FB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B97375",
+          "on": "E9764AE804909090",
+          "off": "C5FA118F4C010000"
+        }
+      ]
+    },
+    {
+      "name": "Medidor de Alma Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5A1BE50",
+          "on": "41C7878C04000000002043E9C59917FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B9581C",
+          "on": "E92F66E80490909090",
+          "off": "C4C17A11878C040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

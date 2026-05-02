@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08495",
+  "version": "01.03",
+  "name": "DARK SOULS™: REMASTERED",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08495"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08495_01.03.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08495_01.03.json",
+      "size": 6175,
+      "sha256": "1cbe05d5e557ea2feff2e1bb23a9ac98c4ee97971602caf96c07a3ad0460cf12",
+      "cheatCount": 22,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08495_01.03.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08495_01.03.shn",
+      "size": 6894,
+      "sha256": "9060c06f4462911f75c279fa127df18df3f26d9fcd593adf6338ebe9772cc230",
+      "cheatCount": 22,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08495_01.03.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08495_01.03.mc4",
+      "size": 9196,
+      "sha256": "a378ae88c5e216f86b118df7bdca49f7bef83b1fc8324afba4d36f59ace6597c",
+      "cheatCount": 22,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08495_01.03.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

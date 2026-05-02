@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10126",
+  "version": "01.01",
+  "name": "Nioh: Complete Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10126"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10126_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10126_01.01.json",
+      "size": 8998,
+      "sha256": "aaccc7eca961132fa3bc88b2568d9d0b74c09320f64ffc87a28cab849bcacd73",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10126_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10126_01.01.shn",
+      "size": 7764,
+      "sha256": "456e82bcefe3ee739780b587f8c7e963789efe168ceb363b407710c649510afa",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10126_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10126_01.01.mc4",
+      "size": 10368,
+      "sha256": "92760c53d103846dcb1034867165a163e58c7d7f61899076104c059dc4556f49",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10126_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

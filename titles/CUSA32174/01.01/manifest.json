@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA32174",
+  "version": "01.01",
+  "name": "Like a Dragon Ishin",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA32174"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA32174_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA32174_01.01.json",
+      "size": 11325,
+      "sha256": "83b099a7d1742df485ded90b9f2ffa2298a0f9f04e3cc85d2889def57117ad0c",
+      "cheatCount": 28,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA32174_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA32174_01.01.shn",
+      "size": 10046,
+      "sha256": "011c9c21ae494973218330c884dd32ba68e9b199517ba55c4090560308880c44",
+      "cheatCount": 28,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA32174_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA32174_01.01.mc4",
+      "size": 13400,
+      "sha256": "0d2bd0136851b026b857316b576ff8b2566ef1dbfad387b970ca577e5dc6c044",
+      "cheatCount": 28,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA32174_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

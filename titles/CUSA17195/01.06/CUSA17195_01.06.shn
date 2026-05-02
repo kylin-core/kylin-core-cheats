@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP0700-CUSA17195_00-PS4TOARISE000001" Moder="Talixme" Cusa="CUSA17195" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Life">
+        <Cheatline>
+            <Offset>679F000</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-39-C8-74-0B-89-93-6C-02-00-00-E9-2A-D2-1D-FB-BA-9F-86-01-00-89-93-6C-02-00-00-E9-1A-D2-1D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>679F040</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-74-02-00-00-00-00-96-42-C5-FA-10-83-74-02-00-00-C5-FA-11-83-74-02-00-00-E9-A8-DA-1D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Easy Exp">
+        <Cheatline>
+            <Offset>679F07F</Offset>
+            <Section>0</Section>
+            <ValueOn>81-C1-3F-42-0F-00-41-89-4C-24-50-E9-99-F3-2E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Sp">
+        <Cheatline>
+            <Offset>679F0AF</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-0F-27-00-00-89-50-70-39-D1-E9-FB-FB-6B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items">
+        <Cheatline>
+            <Offset>679F0DE</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-C6-01-45-89-34-24-44-39-F0-E9-0B-B9-3D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Money">
+        <Cheatline>
+            <Offset>679F10E</Offset>
+            <Section>0</Section>
+            <ValueOn>BB-7F-96-98-00-41-89-9F-A8-00-00-00-E9-2F-A4-6B-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

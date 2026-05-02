@@ -1,0 +1,27 @@
+{
+  "name": "Trine 5: A Clockwork Conspiracy",
+  "id": "CUSA41223",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EE37D0",
+          "on": "6A0E448B712044893481415EC5BA2A0C81E96112E7FD57616E646572204657392E3030",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D54A42",
+          "on": "E989ED1802",
+          "off": "C5BA2A0C81"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

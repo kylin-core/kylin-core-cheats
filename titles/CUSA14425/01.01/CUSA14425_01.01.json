@@ -1,0 +1,27 @@
+{
+  "name": "Lost Artifacts Time Machine",
+  "id": "CUSA14425",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Recursos Infinitos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18C3E60",
+          "on": "8B749120C7449020E7030000E92A4AB47E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80408893",
+          "on": "E9C8B54B81909090",
+          "off": "8B74912029749020"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

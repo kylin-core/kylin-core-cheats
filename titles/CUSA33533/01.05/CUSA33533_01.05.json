@@ -1,0 +1,115 @@
+{
+  "name": "UP3864-CUSA33533_00-GHOSTSONG000000A",
+  "id": "CUSA33533",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28BB7A",
+          "on": "9090909090909090",
+          "off": "C5FA1180E8020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Life",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27517D",
+          "on": "9090909090909090",
+          "off": "C5FA118884000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Modules Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16D7D8F",
+          "on": "909090909090",
+          "off": "01885C030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5F000",
+          "on": "C7802C030000FFC99A3BE931502301",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "BD403A",
+          "on": "E9C1AFDCFE90",
+          "off": "01902C030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29FF5D",
+          "on": "9090909090909090",
+          "off": "C5FA1180E8020000"
+        }
+      ]
+    },
+    {
+      "name": "No Increment the Suit Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30D1E9",
+          "on": "90909090909090",
+          "off": "41FF8758030000"
+        }
+      ]
+    },
+    {
+      "name": "No Overheating",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B1B51F",
+          "on": "9090909090909090",
+          "off": "C5FA118090000000"
+        }
+      ]
+    },
+    {
+      "name": "No Requires Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "30D29A",
+          "on": "C4417A11BF68020000",
+          "off": "C4C17A118768020000"
+        }
+      ]
+    },
+    {
+      "name": "No Collision",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C8CB88",
+          "on": "9090909090",
+          "off": "E8A33AD27F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Talixme"
+  ]
+}

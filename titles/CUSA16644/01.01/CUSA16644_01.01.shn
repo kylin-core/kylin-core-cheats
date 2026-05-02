@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="9 Monkeys of Shaolin" Moder="Saso" Cusa="CUSA16644" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Health">
+        <Cheatline>
+            <Offset>5800000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-BD-FC-00-00-00-10-75-19-41-C7-85-00-0A-00-00-00-40-9C-44-C4-C1-7A-10-85-00-0A-00-00-E9-F1-25-BC-FA-C4-C1-7A-10-85-00-0A-00-00-E9-E3-25-BC-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Auto Fill Qi energy">
+        <Cheatline>
+            <Offset>5800100</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-04-0A-00-00-00-00-40-40-E9-63-CE-B9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Rewadrs">
+        <Cheatline>
+            <Offset>392A17</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>01-54-08-68</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Green Tea">
+        <Cheatline>
+            <Offset>5800180</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-0A-00-00-00-89-B7-44-03-00-00-E9-0A-4A-B9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Red Tea">
+        <Cheatline>
+            <Offset>5800140</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-0A-00-00-00-89-B7-4C-03-00-00-E9-6A-4A-B9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf White Tea">
+        <Cheatline>
+            <Offset>58001C0</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-0A-00-00-00-89-B7-50-03-00-00-E9-DA-49-B9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Yellow Tea">
+        <Cheatline>
+            <Offset>5800200</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-0A-00-00-00-89-B7-48-03-00-00-E9-BA-49-B9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

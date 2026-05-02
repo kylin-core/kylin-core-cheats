@@ -1,0 +1,107 @@
+{
+  "name": "God Of War Ragnarok",
+  "id": "CUSA34388",
+  "version": "04.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "(Kratos)Infinite Health/Rage (Disable Health Atreus)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1777DB0",
+          "on": "4983FF1F750CC4C17A104C2428E9050729FFC4C17A114C2428E9F90629FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A084C0",
+          "on": "E9EBF8D6009090",
+          "off": "C4C17A114C2428"
+        }
+      ]
+    },
+    {
+      "name": "(Atreus) Infinite Health/Arrows/Rage (Disable Health Kratos)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17777D0",
+          "on": "4983FF09750CC4C17A104C2428E9E50C29FFC4C17A114C2428E9D90C29FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A084C0",
+          "on": "E90BF3D6009090",
+          "off": "C4C17A114C2428"
+        }
+      ]
+    },
+    {
+      "name": "Instant Infinite Rage On First Hit Kratos/Atreus (Disable Health Both)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1777980",
+          "on": "4883FA03750E41C74424280000C842E9330B29FFC4C17A114C2428E9270B29FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A084C0",
+          "on": "E9BBF4D6009090",
+          "off": "C4C17A114C2428"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite XP/HS/Resources On Pick Up/Buy/Sell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1777A90",
+          "on": "898D40FFFFFFC7063F420F00E92DC04BFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "C33AC6",
+          "on": "E9C53FB400909090",
+          "off": "898D40FFFFFF890E"
+        }
+      ]
+    },
+    {
+      "name": "Crystalline Fragment (100/Use Only For It)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1777AC0",
+          "on": "898D40FFFFFFC70664000000E9FDBF4BFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "C33AC6",
+          "on": "E9F53FB400909090",
+          "off": "898D40FFFFFF890E"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1777BB0",
+          "on": "C5FA104D80E97FE32EFF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "A65F32",
+          "on": "E9791CD1009090",
+          "off": "C4C17A104C2438"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

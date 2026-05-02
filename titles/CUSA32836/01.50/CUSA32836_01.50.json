@@ -1,0 +1,75 @@
+{
+  "name": "Naruto x Boruto Ultimate Ninja Storm Connections Ultimate Edition",
+  "id": "CUSA32836",
+  "version": "01.50",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health - Green Bar (Player 1 only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258B800",
+          "on": "83781800750CC740380000C842E9D63185FEC5FA114038E9CC3185FE",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DDE9E3",
+          "on": "E918CE7A01",
+          "off": "C5FA114038"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic / Chakra - Blue Bar (Player 1 only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "258B81E",
+          "on": "83783402750CC740400000C842E9783885FEC5FA114040E96E3885FE",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DDF0A3",
+          "on": "E976C77A01",
+          "off": "C5FA114040"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown - On D-pad Items (Player 1 only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "218B83C",
+          "on": "90909090909090E9D34F85FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "9E0813",
+          "on": "E924B07A01909090",
+          "off": "C744C70C00000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money (Ryo)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "218B84A",
+          "on": "BA7F96980089534889C2E97B86A1FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "BA3ECF",
+          "on": "E976795E01",
+          "off": "89534889C2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}

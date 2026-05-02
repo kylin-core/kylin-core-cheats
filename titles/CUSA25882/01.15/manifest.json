@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA25882",
+  "version": "01.15",
+  "name": "WWE 2K22",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA25882"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25882_01.15.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA25882_01.15.json",
+      "size": 946,
+      "sha256": "00c23bd0a3cdad27a8da1d8aeb5b4dd6fb9a2da662bb65e3be678a972800510f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25882_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA25882_01.15.shn",
+      "size": 1032,
+      "sha256": "9528746406192784a2235f35c36f9a9a0c8a75de8aa1afe50a01e7104ca690d0",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25882_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA25882_01.15.mc4",
+      "size": 1388,
+      "sha256": "dfb777662a24e4ea3436ffcb4263d5711da5bea0bc605de8c0f00b86dbe80cf4",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25882_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

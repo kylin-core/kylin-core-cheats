@@ -1,0 +1,130 @@
+{
+  "name": "Dishonored Definite Edition",
+  "id": "CUSA02230",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3DB0",
+          "on": "41837E6C2F75154189860004000041898600040000E9C9734BFE31C041898600040000E9BB734BFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16B18C",
+          "on": "E91F8CB4019090",
+          "off": "41898600040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3DB7",
+          "on": "418B8604040000",
+          "off": "41898600040000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3DB5",
+          "on": "7513",
+          "off": "7515"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health Elixirs/Spiritual Remedy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88F9F6",
+          "on": "9090909090909090",
+          "off": "41FF8C8508010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88FB85",
+          "on": "909090",
+          "off": "8914CB"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Powers",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3AF0",
+          "on": "8B8B6C0D0000898B680D0000E9F046A2FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "6D81EB",
+          "on": "E900B95D0190",
+          "off": "898B680D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6F7512",
+          "on": "9090909090909090",
+          "off": "C5FA1193F00D0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money/Runes on gain (x2 Runes To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3990",
+          "on": "488B4598C74418083F420F00E91DD4BDFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "890DB6",
+          "on": "E9D52B4201909090",
+          "off": "488B459801541808"
+        }
+      ]
+    },
+    {
+      "name": "Increase Jump Height",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CB3BA0",
+          "on": "C4C17A108718020000C4C17A118718020000E9F4535BFE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "268FA2",
+          "on": "E9F9ABA40190909090",
+          "off": "C4C17A118718020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

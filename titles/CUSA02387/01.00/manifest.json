@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02387",
+  "version": "01.00",
+  "name": "Battlefield 1",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02387"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02387_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02387_01.00.json",
+      "size": 381,
+      "sha256": "73bc5aa6599a43e2df7552cc007c8dd495e11caa667674a5374065b86a69b42a",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02387_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02387_01.00.shn",
+      "size": 562,
+      "sha256": "15a8fc1e062b3b6e185c2ec691733334ee9dc25f17bde755a592e0d4ea8977fe",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02387_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02387_01.00.mc4",
+      "size": 768,
+      "sha256": "522eca60d5cafa063bce31b45a3e3db1068393a2812b7fb0d2c66529a1be6bd7",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02387_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Darksiders 2 Deathinitive Edition MERGED",
+  "id": "CUSA02419",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Horse Bursts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39D52C",
+          "on": "8B872C0E0000",
+          "off": "89872C0E0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Pickup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18AB800",
+          "on": "41BC9F86010044016330E992A2A0FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2B5A9A",
+          "on": "E9615D5F019090",
+          "off": "49C1FC254101C4"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AAB58",
+          "on": "C5FA584120",
+          "off": "C5FA5C4120"
+        }
+      ]
+    },
+    {
+      "name": "Inf Upgrade Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2BACB3",
+          "on": "90909090",
+          "off": "44897344"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3D768E",
+          "on": "41FF85CC030000",
+          "off": "41FF8DCC030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level UP after one Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18AB80F",
+          "on": "B80000270FE9D8F9A0FE",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "2BB1EC",
+          "on": "E91E065F01",
+          "off": "01C88945C8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Wrath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24D597",
+          "on": "C5FA104304",
+          "off": "C5FA114304"
+        }
+      ]
+    },
+    {
+      "name": "Inf Death Morph",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2474B6",
+          "on": "C5FA114008",
+          "off": "C5FA115008"
+        }
+      ]
+    },
+    {
+      "name": "Gain Vulgrim Coins after Shop",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D93D7",
+          "on": "017030",
+          "off": "297030"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

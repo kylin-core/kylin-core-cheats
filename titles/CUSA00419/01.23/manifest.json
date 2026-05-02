@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00419",
+  "version": "01.23",
+  "name": "Grand Theft Auto V",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00419"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00419_01.23.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00419_01.23.json",
+      "size": 8685,
+      "sha256": "715c9f262ec9479c073261bf35ac416b6f0b49fe2bc2b5c3a5fee80832c47791",
+      "cheatCount": 23,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00419_01.23.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00419_01.23.shn",
+      "size": 8328,
+      "sha256": "b36b60ef022f839283fd104f9fee8e1a72476ffb2175c02df1c6d90443f43a02",
+      "cheatCount": 23,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00419_01.23.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00419_01.23.mc4",
+      "size": 11116,
+      "sha256": "d072c8ce0495ef0f5fd336e518b656e69a4a43fc0a30a00f045f7787219f0912",
+      "cheatCount": 23,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00419_01.23.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

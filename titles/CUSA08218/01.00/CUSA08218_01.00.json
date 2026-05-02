@@ -1,0 +1,22 @@
+{
+  "name": "Serious Sam Collection",
+  "id": "CUSA08218",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33D1D1",
+          "on": "9090909090",
+          "off": "E82AD4DAFF0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="妖怪ウォッチ4++" Moder="Broken Angel" Cusa="CUSA17589" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Money (Max)">
+        <Cheatline>
+            <Offset>13A9F30</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-80-78-57-00-00-C7-40-3C-7F-96-98-00-48-63-70-3C-E9-C2-63-4F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Money">
+        <Cheatline>
+            <Offset>13A9F50</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4D-D6-C7-41-3C-7F-96-98-00-E9-2C-6A-9F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Moon Jump">
+        <Cheatline>
+            <Offset>13AA250</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-EC-02-00-00-00-00-C0-40-E9-08-82-39-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed">
+        <Cheatline>
+            <Offset>13AA270</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-BC-24-B4-00-00-00-00-00-80-3F-74-0F-C4-C1-7A-10-BC-24-B0-0A-00-00-E9-C9-47-39-FF-41-C7-84-24-B0-0A-00-00-00-00-70-41-C4-C1-7A-10-BC-24-B0-0A-00-00-E9-AE-47-39-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Skill Points (Max)">
+        <Cheatline>
+            <Offset>13A9FF0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-81-94-00-00-00-E7-03-8B-81-98-00-00-00-E9-5D-96-9F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skill Points">
+        <Cheatline>
+            <Offset>13AA010</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-98-00-00-00-00-00-E9-50-95-6F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Health">
+        <Cheatline>
+            <Offset>13AA050</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-87-4F-9A-FF-C7-44-01-04-E7-03-00-00-C7-04-01-E7-03-00-00-C7-84-01-60-03-00-00-E7-03-00-00-C7-84-01-6C-03-00-00-E7-03-00-00-8B-54-01-04-E9-47-4F-9A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte YP">
+        <Cheatline>
+            <Offset>13A9FC0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-8C-01-64-03-00-00-C7-84-01-64-03-00-00-00-C0-79-44-E9-01-50-9A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stats (Max)">
+        <Cheatline>
+            <Offset>13AA400</Offset>
+            <Section>0</Section>
+            <ValueOn>48-0F-45-D0-0F-B7-41-76-66-C7-41-76-0F-27-66-C7-41-78-0F-27-66-C7-41-7A-0F-27-66-C7-41-7C-0F-27-66-C7-41-7E-0F-27-66-C7-81-80-00-00-00-0F-27-E9-4F-5B-47-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="EXP (Max)">
+        <Cheatline>
+            <Offset>13AA230</Offset>
+            <Section>0</Section>
+            <ValueOn>48-0F-44-F2-41-BC-FF-E0-F5-05-44-89-24-31-E9-11-AC-6F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Stamina">
+        <Cheatline>
+            <Offset>13AA160</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4F-0C-C7-47-0C-00-00-FA-42-E9-6C-2C-8A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Enegry Bar">
+        <Cheatline>
+            <Offset>13AA0C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-88-68-03-00-00-C7-80-68-03-00-00-00-00-16-43-E9-A4-58-9A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Cleaning Mode Bar Full">
+        <Cheatline>
+            <Offset>13AA030</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-8C-00-00-00-00-00-C8-42-E9-CA-87-AD-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Gacha Gashapon">
+        <Cheatline>
+            <Offset>13AA3D0</Offset>
+            <Section>0</Section>
+            <ValueOn>44-0F-B6-B4-01-88-02-00-00-C6-84-01-88-02-00-00-63-C6-84-01-89-02-00-00-63-E9-0D-65-48-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items 99">
+        <Cheatline>
+            <Offset>13A9F70</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-52-18-66-C7-40-0C-63-00-0F-B7-40-0C-E9-86-B7-5B-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Weapon Items 99">
+        <Cheatline>
+            <Offset>13AA2C0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-47-0C-63-00-45-0F-B7-6F-0C-E9-CE-DF-5B-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Items">
+        <Cheatline>
+            <Offset>13AA210</Offset>
+            <Section>0</Section>
+            <ValueOn>66-85-C9-C6-40-0C-63-E9-92-E5-6F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items Yokai (999)">
+        <Cheatline>
+            <Offset>13AA300</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-34-D7-5C-FF-66-C7-40-0C-E7-03-8B-40-0C-E9-22-D7-5C-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Yokai Items">
+        <Cheatline>
+            <Offset>13AA320</Offset>
+            <Section>0</Section>
+            <ValueOn>66-85-C9-66-C7-40-0C-E7-03-E9-0F-E6-6F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Yokai Soul (999)">
+        <Cheatline>
+            <Offset>13AA360</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-D4-D6-5C-FF-66-C7-40-0C-E7-03-66-C7-40-0E-E7-03-66-C7-40-10-E7-03-8B-40-0C-E9-B6-D6-5C-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Yokai Soul">
+        <Cheatline>
+            <Offset>13AA390</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C2-66-C7-40-0C-E7-03-66-C7-40-0E-E7-03-66-C7-40-10-E7-03-E9-33-E2-5C-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

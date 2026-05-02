@@ -1,0 +1,27 @@
+{
+  "name": "Wonder Boy",
+  "id": "CUSA07029",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37F800",
+          "on": "81E3FF1F00004881FB520F0000740444883418E9BC94CFFF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "78CCA",
+          "on": "E9316B30009090909090",
+          "off": "81E3FF1F000044883418"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

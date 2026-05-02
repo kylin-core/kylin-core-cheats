@@ -1,0 +1,60 @@
+{
+  "name": "Far Cry 5",
+  "id": "CUSA05904",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03633977",
+          "on": "90909090909090",
+          "off": "4489BB88010000"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "03253AC9",
+          "on": "90909090",
+          "off": "44896838"
+        },
+        {
+          "offset": "0362F500",
+          "on": "909090909090909090",
+          "off": "C4C17A11871C010000"
+        }
+      ]
+    },
+    {
+      "name": "Get Perk Points For Spending Them",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "031F9C3C",
+          "on": "4401BBD8000000",
+          "off": "4429BBD8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwable Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1130057",
+          "on": "909090",
+          "off": "89434C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DeathRGH, TLH"
+  ]
+}

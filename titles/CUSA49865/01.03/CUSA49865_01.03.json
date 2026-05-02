@@ -1,0 +1,44 @@
+{
+  "name": "The Thing Remastered",
+  "id": "CUSA49865",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C4529",
+          "on": "9090909090909090",
+          "off": "C5FA1187EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-NO-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A5646",
+          "on": "909090",
+          "off": "296820"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6A5355",
+          "on": "909090",
+          "off": "897024"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

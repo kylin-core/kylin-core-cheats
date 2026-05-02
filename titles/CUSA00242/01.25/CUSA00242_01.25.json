@@ -1,0 +1,27 @@
+{
+  "name": "Diablo III Eternal Collection",
+  "id": "CUSA00242",
+  "version": "01.25",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Gold after Shop and Max Items after Smith",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12D7800",
+          "on": "48C7C1FFC99A3B4A898CF8289D0000E9D85A28FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "55D2E0",
+          "on": "E91BA5D70090909090909090",
+          "off": "4A8BB4F8289D00004A8D0C36"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

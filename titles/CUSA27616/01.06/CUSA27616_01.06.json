@@ -1,0 +1,22 @@
+{
+  "name": "Mayhem Brawler",
+  "id": "CUSA27616",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8066B7F3",
+          "on": "90909090",
+          "off": "C5F057C9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

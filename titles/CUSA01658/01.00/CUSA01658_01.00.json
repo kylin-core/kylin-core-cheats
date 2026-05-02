@@ -1,0 +1,59 @@
+{
+  "name": "Tina's Toy Factory",
+  "id": "CUSA01658",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Moves",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BEF800",
+          "on": "66C7402A6300E9D725BFFE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "7E1DD9",
+          "on": "E922DA400190909090",
+          "off": "6689482AE937110000"
+        }
+      ]
+    },
+    {
+      "name": "max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BEF80D",
+          "on": "C7003F420F00E967F2C4FE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "83EA78",
+          "on": "E9900D3B019090",
+          "off": "8908E99C000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Time (time Challenge)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BEF81A",
+          "on": "C70000009643F3440F1038E958AFBEFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7DA77D",
+          "on": "E998504101",
+          "off": "F3440F1138"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
+}

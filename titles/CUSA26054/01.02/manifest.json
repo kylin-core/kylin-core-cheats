@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA26054",
+  "version": "01.02",
+  "name": "SaGa Frontier Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA26054"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA26054_01.02.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA26054_01.02.json",
+      "size": 2050,
+      "sha256": "b1c0f9c32f34c2ed4ec43bf49f7c27a5a979faaab152f66abe6ba602dc00e57a",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA26054_01.02.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA26054_01.02.shn",
+      "size": 1920,
+      "sha256": "08a9abb3d910bcdce197b7079bdfc579544b819e96f0441bc3fe5d8afa5dd948",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA26054_01.02.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA26054_01.02.mc4",
+      "size": 2584,
+      "sha256": "f7e8c06a45791ac90560905cc9608c13d50e59827ab2701cc42d2116e95a6041",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA26054_01.02.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA15717",
+  "version": "01.09",
+  "name": "Far Cry 6",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA15717"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15717_01.09.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA15717_01.09.json",
+      "size": 4814,
+      "sha256": "df777ad780ae413690acd711b58729c46c39fac68db4ab0e86db949e218e81c7",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15717_01.09.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA15717_01.09.shn",
+      "size": 4175,
+      "sha256": "5b55a9531e43725c31f36679b30b26139a8fc4215dbe829d3faebe830fdb2bbd",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15717_01.09.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA15717_01.09.mc4",
+      "size": 5568,
+      "sha256": "3df9b47123fbd38fc4c39b4b1ef866ddbd196ddcfc105049b3b17255164df2b8",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15717_01.09.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

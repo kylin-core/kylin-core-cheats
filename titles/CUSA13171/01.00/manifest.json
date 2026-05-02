@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA13171",
+  "version": "01.00",
+  "name": "Disgaea 1 Complete",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA13171"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA13171_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA13171_01.00.json",
+      "size": 3486,
+      "sha256": "4806ea6ad1daa14ee51ce39eccc60d80016d95b15e3f1799f99bfc03a6af0fda",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA13171_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA13171_01.00.shn",
+      "size": 2988,
+      "sha256": "ccb38f27765c8b193bc678c0651e4a27072a41a3bf9cfe02662ee045b3ee1c0e",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA13171_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA13171_01.00.mc4",
+      "size": 3992,
+      "sha256": "3c234b71623f7e77eddf02bae8a7e241b5217218cb43c5a0b083040ecb9370a0",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA13171_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

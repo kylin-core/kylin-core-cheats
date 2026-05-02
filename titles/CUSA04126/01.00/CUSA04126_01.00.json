@@ -1,0 +1,27 @@
+{
+  "name": "Hitman Go",
+  "id": "CUSA04126",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "No Moves",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11DF800",
+          "on": "B800000000418986C8000000E95C80FE7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "801C7866",
+          "on": "E9957F01819090",
+          "off": "418986C8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

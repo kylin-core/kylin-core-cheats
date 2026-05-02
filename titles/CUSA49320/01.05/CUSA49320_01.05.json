@@ -1,0 +1,54 @@
+{
+  "name": "Night Slashers Remake",
+  "id": "CUSA49320",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible-1-DEAD-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808E5F2B",
+          "on": "9090909090",
+          "off": "E8E0F4FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471B817",
+          "on": "4983FF010F8424D564FCFF90C8010000E919D564FC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D68D3F",
+          "on": "E9D32A9B03",
+          "off": "FF90C80100"
+        }
+      ]
+    },
+    {
+      "name": "MAX-lives-1-DEAD-99-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8471B800",
+          "on": "41BE6300000044897330488B7B10E9DEFE5FFC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D1B6E9",
+          "on": "E91201A003909090",
+          "off": "44897330488B7B10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

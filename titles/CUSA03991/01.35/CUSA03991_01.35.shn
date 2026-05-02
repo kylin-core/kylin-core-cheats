@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light: The Following – Enhanced Edition" Moder="Celogamez_9.00" Cusa="CUSA03991" Version="01.35" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC5C790</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-34-12-00-00-00-00-C8-42-E9-98-A0-FF-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Endurance (For Fight)">
+        <Cheatline>
+            <Offset>7FC5C7C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-10-E9-3A-66-13-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Breathe (For Run)">
+        <Cheatline>
+            <Offset>7FC5C7F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-10-E9-86-68-12-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite/Dupe Items (Need 2/Disable after you have enough)">
+        <Cheatline>
+            <Offset>760058</Offset>
+            <Section>0</Section>
+            <ValueOn>45-01-37</ValueOn>
+            <ValueOff>45-89-37</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Infinite Items (Disable B4 Buy/Create Weapons)">
+        <Cheatline>
+            <Offset>760058</Offset>
+            <Section>0</Section>
+            <ValueOn>45-89-3F</ValueOn>
+            <ValueOff>45-89-37</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo/No Reload/Arrows/Throwables">
+        <Cheatline>
+            <Offset>7FC5C8E0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-C6-45-8B-37-E9-70-37-B0-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Melee Durability">
+        <Cheatline>
+            <Offset>7FC5C840</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-04-E9-36-3C-B0-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite UV Flashlight">
+        <Cheatline>
+            <Offset>7FC5C920</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F8-2E-C8-C5-FA-10-0F-E9-66-B7-0C-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Grappling Hook Stamina">
+        <Cheatline>
+            <Offset>7FC5C900</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-46-40-E9-1F-7F-1C-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Camouflage">
+        <Cheatline>
+            <Offset>7FC5C8A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-14-E9-78-1E-12-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level All Skill Points On Gain">
+        <Cheatline>
+            <Offset>7FC5C820</Offset>
+            <Section>0</Section>
+            <ValueOn>45-84-E4-C7-00-FF-C9-9A-3B-E9-CC-93-07-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Infinite Money On Gain Or Buy">
+        <Cheatline>
+            <Offset>7FC5C860</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4E-D1-C7-47-3C-FF-C9-9A-3B-E9-62-68-11-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,87 @@
+{
+  "name": "God Of War",
+  "id": "CUSA07410",
+  "version": "01.36",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Rage/Arrows (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFDB0",
+          "on": "90664181FB00EC7512C4C17A115E20C4C17A115E20E93B8B4FFF90664181FE88A7750CC4C17A115E20E9278B4FFF906681F920F275D9C4C17A115E20EBCB90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F88FF",
+          "on": "E9AC74B00090",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFDB9",
+          "on": "C4C17A105E20",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFDD3",
+          "on": "C4C17A116620",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFDE6",
+          "on": "C4C17A105E20",
+          "off": "C4C17A115E20"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "75D7AC",
+          "on": "9090909090",
+          "off": "C5FA114348"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Hacksilver/Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFB20",
+          "on": "41C7443630FFC99A3B418B443630E96F668CFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8C619C",
+          "on": "E97F99730090",
+          "off": "41837C363000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

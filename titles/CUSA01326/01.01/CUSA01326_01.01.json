@@ -1,0 +1,43 @@
+{
+  "name": "dust an elysian tail",
+  "id": "CUSA01326",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26BF800",
+          "on": "8378540075088B480CE9D8673EFF89889C010000E9CD673EFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AA5FE0",
+          "on": "E91B98C10090",
+          "off": "89889C010000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26BF81B",
+          "on": "B97F969800898864010000E9E6E860FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1CCE10B",
+          "on": "E90B179F0090",
+          "off": "898864010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

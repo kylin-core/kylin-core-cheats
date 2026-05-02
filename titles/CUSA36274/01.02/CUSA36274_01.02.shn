@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="OCTOPATH TRAVELER II" Moder="ran" Cusa="CUSA36274" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="INFINTE  HP turns off INF SP AND BP">
+        <Cheatline>
+            <Offset>5C4EC00</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-16-81-FE-C4-65-FF-EE-75-09-83-7E-F4-00-74-03-8B-56-F4-89-17-5D-E9-0D-F7-17-7A</ValueOn>
+            <ValueOff>8B-16-81-FE-C4-65-FF-EE-75-03-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="INFINTE SP AND BP turns off INF HP">
+        <Cheatline>
+            <Offset>5C4EC00</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-16-81-FE-AC-88-FF-EE-75-09-80-7E-04-B0-75-03-8B-56-F4-81-FE-FC-76-FF-EE-75-0E-81-7E-E4-00-78-FF-EE-75-05-BA-05-00-00-00-89-17-5D-E9-F7-F6-17-7A</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="INFINTE  MONEY BUY/SELL TURN OFF AFTER USE">
+        <Cheatline>
+            <Offset>AA0901</Offset>
+            <Section>0</Section>
+            <ValueOn>45-89-A4-24-E8-02-00-00</ValueOn>
+            <ValueOff>41-89-84-24-E8-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="INF ITEM BUY SELL">
+        <Cheatline>
+            <Offset>5C4F800</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-12-48-89-14-3B-C6-44-3B-04-63-E9-5F-3C-53-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

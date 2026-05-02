@@ -1,0 +1,33 @@
+{
+  "name": "Tony Hawks Pro Skater 5",
+  "id": "CUSA02852",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A72D",
+          "on": "909090",
+          "off": "2B45C8"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A72A",
+          "on": "B8FFC99A3B90",
+          "off": "418B072B45C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

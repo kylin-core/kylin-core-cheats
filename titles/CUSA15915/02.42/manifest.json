@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA15915",
+  "version": "02.42",
+  "name": "SAMURAI SHODOWN",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA15915"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15915_02.42.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA15915_02.42.json",
+      "size": 547,
+      "sha256": "47ebd2d3f17b8d8e64acce211abfa1b31e900dfafa4f9039c64c12db6add0bf5",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15915_02.42.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA15915_02.42.shn",
+      "size": 663,
+      "sha256": "4f2bc3fa66208f7a4d53fcc66ca14e54fb5ce0a41f1b6954da6ca1c2c7dbb54d",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15915_02.42.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA15915_02.42.mc4",
+      "size": 896,
+      "sha256": "c788930e8f1268c6655c86e445ef462148e6ab01f8afea9e96b91c6dfa857b17",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15915_02.42.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

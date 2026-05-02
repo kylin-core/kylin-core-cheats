@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08519",
+  "version": "01.24",
+  "name": "Red Dead Redemption 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08519"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08519_01.24.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08519_01.24.json",
+      "size": 586,
+      "sha256": "349918a533004913b1c9aa9cadb569c5f1d5b8c097791233fd71a8b9fdd3af9f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08519_01.24.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08519_01.24.shn",
+      "size": 825,
+      "sha256": "def7f702bf05b42406cf5d252ffb2ffe458cd728de51c729c1268922f594b4bd",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08519_01.24.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08519_01.24.mc4",
+      "size": 1112,
+      "sha256": "a2eb591d0c4825892bdcdf8e7ca52ce69ce16101619d30cf6a4607fea5cb9d64",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08519_01.24.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

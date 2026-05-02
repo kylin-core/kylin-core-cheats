@@ -1,0 +1,55 @@
+{
+  "name": "Souldiers",
+  "id": "CUSA31798",
+  "version": "02.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807D2AF8",
+          "on": "909090909090",
+          "off": "FF9080010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "804019C2",
+          "on": "9090909090",
+          "off": "E8C94C0900"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-COINS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3B6C",
+          "on": "90909090909090",
+          "off": "418987F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "803FA87E",
+          "on": "90909090909090",
+          "off": "4429B3D4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

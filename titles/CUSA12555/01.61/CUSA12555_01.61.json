@@ -1,0 +1,82 @@
+{
+  "name": "Dying Light 2 Stay Human",
+  "id": "CUSA12555",
+  "version": "01.61",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "214F964",
+          "on": "9090909090",
+          "off": "E847FFF0FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "347A4D9",
+          "on": "9090909090",
+          "off": "E8622B2FFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34AA429",
+          "on": "9090909090",
+          "off": "C5FA114310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "341D78C",
+          "on": "9090909090",
+          "off": "E83FF7ABFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Immunity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3482DCE",
+          "on": "9090909090",
+          "off": "C5FA11432C"
+        }
+      ]
+    },
+    {
+      "name": "max-gold + Infinite",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7143800",
+          "on": "B87F969800894734E935786DFC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "381B03A",
+          "on": "E9C1879203909090",
+          "off": "894734E81EFFFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

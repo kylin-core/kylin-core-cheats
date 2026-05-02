@@ -1,0 +1,107 @@
+{
+  "name": "Call Of Duty Modern Warfare",
+  "id": "CUSA15240",
+  "version": "01.09",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "Infinite Health (Campaign)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01F07E00",
+          "on": "488B034881F986120000750C41C707E7030000E9843DB9FE498907E97C3DB9FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A9BB96",
+          "on": "E965C2460190",
+          "off": "488B03498907"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Multiplayer)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDB0",
+          "on": "4883FE00751041C786B8010000C8000000E95DA5C580412986B8010000E951A5C580",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8BA31C",
+          "on": "E98F5A3A7F9090",
+          "off": "412986B8010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01F07EB0",
+          "on": "4401F14883FE00750CB9E70300008908E9C7AD8DFE8908E9C0AD8DFE",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7E2C87",
+          "on": "E924527201",
+          "off": "4401F18908"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01F07E50",
+          "on": "488B95A0FDFFFFB963000000894C9050E9C6F68AFE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7B7520",
+          "on": "E92B097501909090909090",
+          "off": "488B95A0FDFFFF894C9050"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01F07E80",
+          "on": "FFC9B963000000894850E90F9D8AFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7B1B99",
+          "on": "E9E2627501",
+          "off": "FFC9894850"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01F07EE0",
+          "on": "90E97E5986FE",
+          "off": "000000000000"
+        },
+        {
+          "offset": "76D85B",
+          "on": "E980A6790190909090",
+          "off": "C4C17A5886EC060000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

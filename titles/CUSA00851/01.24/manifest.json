@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00851",
+  "version": "01.24",
+  "name": "COD: Advanced Warfare",
+  "process": "default_mp.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00851"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00851_01.24_default_mp.elf.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00851_01.24.json",
+      "size": 639,
+      "sha256": "e1f0b5458055a4f9de77e659294dde620293178e5c474c7c0e4a0393e11d9979",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00851_01.24_default_mp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00851_01.24.shn",
+      "size": 846,
+      "sha256": "b209c3ac4e90b5deda2068b9aa9fad1515a78df8d4c8bd8d1aab6549a67e4949",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00851_01.24_default_mp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00851_01.24.mc4",
+      "size": 1132,
+      "sha256": "2ebcf33a6a225e5c837691e89e242b8b187b68848824021bdccdedc7d4ca9076",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00851_01.24_default_mp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

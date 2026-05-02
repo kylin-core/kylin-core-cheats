@@ -1,0 +1,155 @@
+{
+  "name": "Wasteland 3",
+  "id": "CUSA13339",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Iinfinite Health (1 player)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB270",
+          "on": "89774880BF4004000004750866C74738E703EB03897738E9FA4EC9FC",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80790180",
+          "on": "E9EBB0360390",
+          "off": "897748897738"
+        }
+      ]
+    },
+    {
+      "name": "Infinite AP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB8F0",
+          "on": "41C687100100001EE9CD1FB1FC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "8060D8C3",
+          "on": "E928E04E039090",
+          "off": "41898710010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill points (when confirming)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB9F0",
+          "on": "66C78378030000E703E98C54AFFC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "805F0E84",
+          "on": "E967AB500390",
+          "off": "298378030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Attribute points (spend and turn off and spend to take effect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB7A0",
+          "on": "66C7808C030000E703E96951CCFC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "807C0911",
+          "on": "E98AAE330390",
+          "off": "8B988C030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite ammo (have ammo)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB470",
+          "on": "8B83B4000000E9C44CF6FC",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "80A60139",
+          "on": "E932B3090390",
+          "off": "8983B4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Perks points (spend and turn off and spend to take effect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB730",
+          "on": "66C74048E703498B5E30E9EEA0C1FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80715826",
+          "on": "E9055F3E039090",
+          "off": "8B4048498B5E30"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB990",
+          "on": "41C7842464030000FFC99A3BE987FAAEFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "805EB420",
+          "on": "E96B055103909090",
+          "off": "4189942464030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Cash (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB3D0",
+          "on": "31D241C74710FFE0F505E9BCFD1AFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80CAB195",
+          "on": "E93602E50290",
+          "off": "31D241894710"
+        }
+      ]
+    },
+    {
+      "name": "999 Items (when spent/gained turn off if game paused)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83AFB670",
+          "on": "4439F066C74318E703E906673DFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80ED1D7E",
+          "on": "E9ED98C20290",
+          "off": "4439F0894318"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

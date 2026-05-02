@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05987",
+  "version": "01.09",
+  "name": "EP0149-CUSA05987_00-DEATHSGAMBITEU00",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05987"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05987_01.09.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05987_01.09.json",
+      "size": 1106,
+      "sha256": "611802e2ff7d447280bf118917dfdc3e64f64b66ab1d77139415e5ce7d41896f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05987_01.09.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05987_01.09.shn",
+      "size": 1154,
+      "sha256": "1ea52c35d41db3e2ea5432579272d44e55a8d875a36e5835cd061ec6be4ab9bf",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05987_01.09.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05987_01.09.mc4",
+      "size": 1560,
+      "sha256": "7ac34bbdc7c2881c0e3c2e181bdc0922833f494cd3fb6401ece229a1c8853077",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05987_01.09.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

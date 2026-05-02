@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA29102",
+  "version": "01.01",
+  "name": "Tales of Symphonia Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA29102"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA29102_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA29102_01.01.json",
+      "size": 2070,
+      "sha256": "dd3739c2fb1adc405686fdc0d95422f8e05c83cd7432b3acdc3dfcbd632754d8",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA29102_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA29102_01.01.shn",
+      "size": 1998,
+      "sha256": "c50d73069afffd80d048edec8fd6440d8b87bf1487fc3cd85a799551d6430e5f",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA29102_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA29102_01.01.mc4",
+      "size": 2668,
+      "sha256": "0446220b796a86776aad18db068d873910a9a1a5a8d09894dd9b40c68f8284aa",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA29102_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

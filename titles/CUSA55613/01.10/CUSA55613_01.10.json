@@ -1,0 +1,107 @@
+{
+  "name": "Plants vs Zombies Replanted",
+  "id": "CUSA55613",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Sun x9990",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53E3800",
+          "on": "909090909090C7401006270000E9651098FC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D6486E",
+          "on": "E98DEF670390909090",
+          "off": "44296810E994000000"
+        }
+      ]
+    },
+    {
+      "name": "Plants Recharge Instantly",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53E3838",
+          "on": "B83F420F008943703B4374E931C89EFC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1DD0073",
+          "on": "E9C037610390",
+          "off": "8943703B4374"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money x999990",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53E385C",
+          "on": "909090C740509F8601004883C408E95A94B3FC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F1CCC2",
+          "on": "E9956B4C039090",
+          "off": "0158504883C408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fertilizer x20",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53E3871",
+          "on": "9090904889DFE9AB4C9FFC",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "1DD8521",
+          "on": "E94BB3600390",
+          "off": "FF48584889DF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Spray x20",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53E3871",
+          "on": "909090E9AB4C9FFCE9784C9FFC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "1DD84F1",
+          "on": "E97BB36003",
+          "off": "FF485CEB2E"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tree Food x10",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "53E3880",
+          "on": "909090E997E59AFC",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "1D91E19",
+          "on": "E9621A650390",
+          "off": "FF8890000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}

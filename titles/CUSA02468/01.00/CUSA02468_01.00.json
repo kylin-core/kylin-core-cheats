@@ -1,0 +1,256 @@
+{
+  "name": "Lords of the Fallen",
+  "id": "CUSA02468",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "GOD MODE",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB38C7",
+          "on": "BE43A6D63541397424200F841CDF77FEC4C17A11542474E910DF77FE",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2317EC",
+          "on": "E9D62088019090",
+          "off": "C4C17A11542474"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "231E31",
+          "on": "9090909090",
+          "off": "C5FA115B7C"
+        }
+      ]
+    },
+    {
+      "name": "MAX XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB381F",
+          "on": "41C787B8000000F0237449C4C17A1087B8000000C4C17A1187B8000000E939F377FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "232B71",
+          "on": "E9A90C880190909090",
+          "off": "C4C17A1187B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB3841",
+          "on": "C5FA109570FFFFFFC5FA5DDAC743780000803FC5FA105B78E928ED77FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23257A",
+          "on": "E9C212880190909090909090",
+          "off": "C5FA109570FFFFFFC5FA5DDA"
+        }
+      ]
+    },
+    {
+      "name": "ap max after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB385E",
+          "on": "C780E8000000E7030000E99E20C7FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "725905",
+          "on": "E954DF380190",
+          "off": "8988E8000000"
+        }
+      ]
+    },
+    {
+      "name": "sp max after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB386D",
+          "on": "C780EC000000E7030000E9A020C7FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "725916",
+          "on": "E952DF380190",
+          "off": "8988EC000000"
+        }
+      ]
+    },
+    {
+      "name": "max luck after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB387C",
+          "on": "C787980000003F420F00E93BE877FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2320C0",
+          "on": "E9B717880190",
+          "off": "89B798000000"
+        }
+      ]
+    },
+    {
+      "name": "MAX Agility after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB388B",
+          "on": "C7878C000000AF253333E9ACE877FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "232140",
+          "on": "E94617880190",
+          "off": "89B78C000000"
+        }
+      ]
+    },
+    {
+      "name": "max Strength after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB389A",
+          "on": "C7878800000082FFFF7FE93DE877FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2320E0",
+          "on": "E9B517880190",
+          "off": "89B788000000"
+        }
+      ]
+    },
+    {
+      "name": "max Faith after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB38A9",
+          "on": "C787940000008093DC14E9EEE777FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2320A0",
+          "on": "E90418880190",
+          "off": "89B794000000"
+        }
+      ]
+    },
+    {
+      "name": "max Life Force after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB38B8",
+          "on": "C78780000000363B0200E99FE777FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "232060",
+          "on": "E95318880190",
+          "off": "89B780000000"
+        }
+      ]
+    },
+    {
+      "name": "Runes 999 after used",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB38E3",
+          "on": "0F4EC1C74740E7030000E98BC090FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "3BF977",
+          "on": "E9673F6F0190",
+          "off": "0F4EC1894740"
+        }
+      ]
+    },
+    {
+      "name": "SPEED RUN",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB38F2",
+          "on": "BE43A6D6353973207523C783660100005CFF3544C5F82E8366010000720FC7837401000000803B45E905F26AFEC5FA118374010000E9F8F16AFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "162B1C",
+          "on": "E9D10D9501909090",
+          "off": "C5FA118374010000"
+        }
+      ]
+    },
+    {
+      "name": "FLY MODE(jumper fly turn off down then turn on walk air down)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB392C",
+          "on": "C7830001000004000000E9CF7177FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "22AB04",
+          "on": "E9238E880190",
+          "off": "898300010000"
+        },
+        {
+          "offset": "1AB393B",
+          "on": "4183FD047F0344892B4183FD090F84A97B6BFEE9C17A6BFE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16B407",
+          "on": "E92F8594019090",
+          "off": "44892B4183FD09"
+        }
+      ]
+    },
+    {
+      "name": "one hit kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AB3953",
+          "on": "BE43A6D6354139742420740941C744247400000000C4C17A10442474E9D8DF77FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "231945",
+          "on": "E9092088019090",
+          "off": "C4C17A10442474"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "cjwine"
+  ]
+}

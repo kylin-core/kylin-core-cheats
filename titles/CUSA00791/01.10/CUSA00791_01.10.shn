@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP8918-CUSA00791_00-NPPGAMENPPGAMENP" Moder="jwhy" Cusa="CUSA00791" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="God">
+        <Cheatline>
+            <Offset>45EF000</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-2A-4F-E0-FB</ValueOn>
+            <ValueOff>00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Jumps">
+        <Cheatline>
+            <Offset>45EF025</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-9C-24-90-01-00-00-E9-1A-46-E0-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Time">
+        <Cheatline>
+            <Offset>45EF0B4</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-60-7E-00-00-00-00-00-00-C7-80-64-7E-00-00-00-80-66-40-E9-95-8B-A9-FD-C5-FB-11-80-60-7E-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="L1R1_Complete_Lvl">
+        <Cheatline>
+            <Offset>45EF0F5</Offset>
+            <Section>0</Section>
+            <ValueOn>50-48-8B-05-9B-7A-01-00-80-B8-AE-01-00-00-01-75-23-80-B8-AF-01-00-00-01-75-1A-58-C7-87-D0-00-00-00-08-00-00-00-83-BF-D0-00-00-00-08-0F-94-C0-E9-0D-1B-E0-FB-58-83-BF-D0-00-00-00-08-0F-94-C0-E9-FD-1A-E0-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

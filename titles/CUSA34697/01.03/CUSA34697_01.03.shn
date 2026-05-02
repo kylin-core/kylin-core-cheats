@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="sand land" Moder="Q8Despair" Cusa="CUSA34697" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Health">
+        <Cheatline>
+            <Offset>5FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3B-D8-96-51-09-75-0C-C7-83-A8-0D-00-00-F6-09-00-00-EB-06-89-8B-A8-0D-00-00-E9-34-44-38-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="XP x2">
+        <Cheatline>
+            <Offset>8CA7800</Offset>
+            <Section>0</Section>
+            <ValueOn>45-6B-E4-02-45-89-67-30-E9-C9-89-32-F9-E9-BD-89-32-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Money x2">
+        <Cheatline>
+            <Offset>8CA7814</Offset>
+            <Section>0</Section>
+            <ValueOn>6B-C0-02-89-47-48-0F-84-90-CE-71-F9-E9-68-CE-71-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items x99">
+        <Cheatline>
+            <Offset>8CA7837</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-03-63-00-00-00-45-84-E4-E9-A1-C1-71-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

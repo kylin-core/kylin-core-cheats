@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="My Name is Mayo 2" Moder="b2ag" Cusa="CUSA25283" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="10000 Clicks">
+        <Cheatline>
+            <Offset>96F91C</Offset>
+            <Section>0</Section>
+            <ValueOn>10-27-00-00</ValueOn>
+            <ValueOff>00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Love">
+        <Cheatline>
+            <Offset>219D6D416</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-40</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Dreams">
+        <Cheatline>
+            <Offset>219D6CA16</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-40</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Myself">
+        <Cheatline>
+            <Offset>219D6C016</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-40</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Money">
+        <Cheatline>
+            <Offset>219D6B616</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-40</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

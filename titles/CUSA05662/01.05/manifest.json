@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05662",
+  "version": "01.05",
+  "name": "METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE",
+  "process": "gz.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05662"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05662_01.05_gz.elf.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05662_01.05.json",
+      "size": 1660,
+      "sha256": "abd324f468a7f94c12c193cb6dbcd7b1a5bda3fb9ef53a0127ce4adb62dac93b",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05662_01.05_gz.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05662_01.05.shn",
+      "size": 1853,
+      "sha256": "5bc6f5362fcf42649706f6206e64b4ffa1fc87831ec4d9aadd217c4fed050df1",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05662_01.05_gz.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05662_01.05.mc4",
+      "size": 2476,
+      "sha256": "227b6b94240a6b19ed5dbc01c6153f6f0dd76af8c969f7500de709f133d3e54c",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05662_01.05_gz.elf.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

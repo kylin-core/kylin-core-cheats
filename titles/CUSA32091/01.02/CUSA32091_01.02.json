@@ -1,0 +1,49 @@
+{
+  "name": "Pyramid Quest",
+  "id": "CUSA32091",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "42C216",
+          "on": "9090909090",
+          "off": "E805000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "40F548",
+          "on": "8B8714020000",
+          "off": "8B8718020000"
+        },
+        {
+          "offset": "40F552",
+          "on": "FFC0",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Knives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "40F430",
+          "on": "8B8718020000",
+          "off": "8B8714020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

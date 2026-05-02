@@ -1,0 +1,43 @@
+{
+  "name": "Imp Of The Sun",
+  "id": "CUSA31561",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Sun Power (for healing only)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5DDC0",
+          "on": "4883C7046681FDF0A07505B800008C42418903E9159A0E81",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D477E6",
+          "on": "E9D565F17E9090",
+          "off": "4883C704418903"
+        }
+      ]
+    },
+    {
+      "name": "Max Embers (on collect)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "579FB90",
+          "on": "8B074883C2FC6681FD90940F85457C5AFB4883C704B89F860100418903E93B7C5AFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D477E0",
+          "on": "E9AB83A50490",
+          "off": "8B074883C2FC"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Anon  Wander FW9.00"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA14020",
+  "version": "01.12",
+  "name": "Just Dance® 2019 (Demo)",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA14020"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14020_01.12.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA14020_01.12.json",
+      "size": 1000,
+      "sha256": "172973e5d454f9e2549ada2271eea19d1ae8aec11ef99a752fd55c5b2c84479d",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14020_01.12.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA14020_01.12.shn",
+      "size": 1321,
+      "sha256": "b1872e9b53359a64fb271fc60bd4e2d4077e0194eee1fb22a3562b92ce239220",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14020_01.12.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA14020_01.12.mc4",
+      "size": 1772,
+      "sha256": "4d69bbd0eac3932ece969447973b688ffbbfad925539d559ae86a01def56a868",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14020_01.12.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DOOM Eternal" Moder="Dioniso" Cusa="CUSA13275" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (Slayer+Revenant) + Shield">
+        <Cheatline>
+            <Offset>330DF70</Offset>
+            <Section>0</Section>
+            <ValueOn>50-48-83-FE-01-75-15-8B-47-20-3D-00-00-FA-44-74-05-B8-00-00-48-43-89-47-1C-89-47-7C-58-C5-FA-10-47-1C-E9-AE-7B-29-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo + Fuel">
+        <Cheatline>
+            <Offset>330E031</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-63-00-00-00-89-43-38-5B-41-5E-E9-C5-BF-10-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Crucible Sword">
+        <Cheatline>
+            <Offset>330DFA0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-43-08-B8-00-00-40-40-89-43-08-E9-39-4A-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jump">
+        <Cheatline>
+            <Offset>330E150</Offset>
+            <Section>0</Section>
+            <ValueOn>50-B8-01-00-00-00-89-83-80-41-00-00-58-83-BB-80-41-00-00-02-E9-F6-66-EF-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jumping Dash">
+        <Cheatline>
+            <Offset>330E135</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FA-01-75-0D-50-B8-00-00-C8-42-89-47-08-89-47-0C-58-C5-FA-10-47-08-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>330E0CD</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FE-00-75-0B-50-B8-00-00-00-00-89-47-1C-90-58-C5-FA-58-47-1C-E9-01-7C-29-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Radiation/Dive Suit">
+        <Cheatline>
+            <Offset>330DFD0</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-80-3F-89-43-08-89-43-0C-C5-FA-10-43-08-E9-13-77-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="666 Keys + 6 Empyrean Keys">
+        <Cheatline>
+            <Offset>330E058</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-06-00-00-00-89-87-D8-C3-03-00-B8-9A-02-00-00-89-87-C4-C3-03-00-E9-E4-2C-8C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Show The Complete Menu">
+        <Cheatline>
+            <Offset>330E000</Offset>
+            <Section>0</Section>
+            <ValueOn>50-48-C7-C0-FF-FF-FF-FF-48-89-86-60-01-00-00-58-48-63-96-60-01-00-00-E9-22-2E-8C-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

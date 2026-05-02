@@ -1,0 +1,43 @@
+{
+  "name": "Soulstice",
+  "id": "CUSA41712",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "635F400",
+          "on": "80BBC802000001750DC7430C00401C46E9EB6A97FA90C5FA11430CE9E06A97FA57616E646572204657392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CD5EFB",
+          "on": "E900956805",
+          "off": "C5FA11430C"
+        }
+      ]
+    },
+    {
+      "name": "Max Crimson/Cobalt tears on get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "635F660",
+          "on": "C703FFC99A3B408875E0E9ACA4A2FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D89B15",
+          "on": "E9465B5D0590",
+          "off": "8903408875E0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

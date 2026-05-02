@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00025",
+  "version": "01.20",
+  "name": "COD: Ghosts (MP)",
+  "process": "default_mp.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00025"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.20_default_mp.elf.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00025_01.20.json",
+      "size": 638,
+      "sha256": "356183b53901b863c010f3eedc3e390ec7a1e860a861c40bbda4633176c9f4b3",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.20_default_mp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00025_01.20.shn",
+      "size": 847,
+      "sha256": "4abdd6f556bc9999690843c14fcb43837c812206689bfdf43854f0c56b223c03",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.20_default_mp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00025_01.20.mc4",
+      "size": 1132,
+      "sha256": "b01559b1dd239737f088aee7b4c0cf174be65b9bcbb3944ddea2f4a832d98cf6",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00025_01.20_default_mp.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Slime Rancher",
+  "id": "CUSA11650",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "High Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF800",
+          "on": "B8FFC99A3B4189842454010000E9A0F9F27E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803EF1AA",
+          "on": "E951060D81909090",
+          "off": "4189842454010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items ~Gain 2 Of The Same~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF812",
+          "on": "0F844DEEF17EB96300000089481CE925E8F17E",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803DE041",
+          "on": "E9CC170E8190909090",
+          "off": "0F842406000089481C"
+        }
+      ]
+    },
+    {
+      "name": "99 Keys ~After Gain~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF825",
+          "on": "B86300000041898760010000E96CFDF27E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "803EF59B",
+          "on": "E985020D819090",
+          "off": "41898760010000"
+        }
+      ]
+    },
+    {
+      "name": "99 Water ~After Gain~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF836",
+          "on": "0F845BEEF17EB96300000089481CE9AFE7F17E",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803DDFEF",
+          "on": "E942180E8190909090",
+          "off": "0F84A806000089481C"
+        }
+      ]
+    },
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF849",
+          "on": "51B900007A4366440F6EF959F3450F11BE4C010000E9EEF4F27E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803EED48",
+          "on": "E9FC0A0D8190909090",
+          "off": "F3450F11BE4C010000"
+        }
+      ]
+    },
+    {
+      "name": "High Energy ~After Use~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF863",
+          "on": "51B9F023744966440F6EF959F3450F11BF48010000E963DFF27E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803ED7D7",
+          "on": "E987200D8190909090",
+          "off": "F3450F11BF48010000"
+        }
+      ]
+    },
+    {
+      "name": "Never Get Rad",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BF87D",
+          "on": "51B90000000066440F6EF959F3450F11BF50010000E9DFEFF27E",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "803EE86D",
+          "on": "E90B100D8190909090",
+          "off": "F3450F11BF50010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

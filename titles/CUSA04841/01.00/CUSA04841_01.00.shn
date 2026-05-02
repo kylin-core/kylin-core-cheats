@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No Mans Sky" Moder="Wander_9.00" Cusa="CUSA04841" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="999 Minerals (on gain)">
+        <Cheatline>
+            <Offset>7FC5E2F0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-75-BC-66-C7-43-18-E7-03-E9-BE-00-77-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="999 Minerals (on use)">
+        <Cheatline>
+            <Offset>7FC5E340</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-5D-A0-66-41-C7-45-18-E7-03-E9-34-81-77-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="999 (on consume for food deactivate to discard items)">
+        <Cheatline>
+            <Offset>7FC5EBC0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-46-78-30-C7-43-18-E7-03-00-00-E9-F7-DD-76-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="999 Salvaged Data (on spend)">
+        <Cheatline>
+            <Offset>7FC5EB80</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-46-78-30-41-C7-46-18-E7-03-00-00-E9-C8-DF-76-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite jetpack">
+        <Cheatline>
+            <Offset>7FC5DE80</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-54-22-00-00-00-00-A0-40-E9-62-DE-4E-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Sprint">
+        <Cheatline>
+            <Offset>7FC5DF20</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-E0-42-00-00-00-00-A0-40-E9-8F-E6-4E-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="999999999 Units (on gain)">
+        <Cheatline>
+            <Offset>7FEA3DE0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-CC-01-00-00-FF-C9-9A-3B-E9-A8-FC-4F-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="999999999 Nanites (on gain">
+        <Cheatline>
+            <Offset>7FEA3E40</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-D0-01-00-00-FF-C9-9A-3B-E9-58-5E-52-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Ammo">
+        <Cheatline>
+            <Offset>1226F9F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>47-29-AC-B4-D0-14-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Pet Sprint">
+        <Cheatline>
+            <Offset>7FC5F590</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-F0-05-00-00-00-00-A0-40-E9-33-95-4E-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite ExoMech Jetpack">
+        <Cheatline>
+            <Offset>149D866</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-86-14-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="999999999 Quicksilver (on spend)">
+        <Cheatline>
+            <Offset>7FC5FE70</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-D4-01-00-00-FF-C9-9A-3B-E9-84-C8-77-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

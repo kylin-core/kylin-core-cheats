@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01140",
+  "version": "01.16",
+  "name": "Metal Gear Solid V: Phantom Pain",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01140"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01140_01.16.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01140_01.16.json",
+      "size": 4708,
+      "sha256": "03bf1ce32a3fca36bf1b3be4417bdc18a82181540e43d977eea3c5bf6702c746",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01140_01.16.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01140_01.16.shn",
+      "size": 5275,
+      "sha256": "18d53752f17625952c02c45b7fc4b551b931d431b40ac0fdaca83487d8a78e52",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01140_01.16.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01140_01.16.mc4",
+      "size": 7040,
+      "sha256": "fde1c4a30a63d79c605255575e6a029c8fd2225c38c49905d8e4cfe925f97b76",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01140_01.16.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

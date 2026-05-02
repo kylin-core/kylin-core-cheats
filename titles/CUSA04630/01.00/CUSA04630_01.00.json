@@ -1,0 +1,143 @@
+{
+  "name": "Grand Kingdom",
+  "id": "CUSA04630",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707800",
+          "on": "B9FFC99A3B898824A00500E93A7B99FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "9F344",
+          "on": "E9B784660090",
+          "off": "898824A00500"
+        },
+        {
+          "offset": "707810",
+          "on": "B9FFC99A3B898824A00500E9F87A99FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "9F312",
+          "on": "E9F984660090",
+          "off": "898824A00500"
+        }
+      ]
+    },
+    {
+      "name": "Max Action Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707820",
+          "on": "B8E703000041898604020000E906C9B4FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "254130",
+          "on": "E9EB364B009090",
+          "off": "41898604020000"
+        }
+      ]
+    },
+    {
+      "name": "Have All Items ~After Buy No Weapos Or Gear~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707831",
+          "on": "B8630000004389443E18E9EFF3D6FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "476C2A",
+          "on": "E9020C2900",
+          "off": "4389443E18"
+        }
+      ]
+    },
+    {
+      "name": "Max Tp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707840",
+          "on": "B964000000898C37C8000000E928D0B4FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "254872",
+          "on": "E9C92F4B009090",
+          "off": "898C37C8000000"
+        },
+        {
+          "offset": "707851",
+          "on": "B96300000041898C17C8000000E9C7CEB4FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "254722",
+          "on": "E92A314B00909090",
+          "off": "41898C17C8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Morale",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707863",
+          "on": "BF6400000089BC3164FA0300E90DA799FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "A1F7A",
+          "on": "E9E45866009090",
+          "off": "89BC3164FA0300"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bonus Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707887",
+          "on": "83EA014101972C010000E92FB1D6FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "4729BE",
+          "on": "E9C44E29009090",
+          "off": "4101972C010000"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "707896",
+          "on": "41C7466863000000C4C17C104668E91DB399FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A2BC0",
+          "on": "E9D14C660090",
+          "off": "C4C17C104668"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

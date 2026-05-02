@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00242",
+  "version": "01.45",
+  "name": "Diablo 3",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00242"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA00242_01.45.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00242_01.45.json",
+      "size": 2246,
+      "sha256": "2d45f22082096d5b3715e90d9f08409a33c913119d2c0722853b8983bee7938f",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA00242_01.45.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00242_01.45.shn",
+      "size": 2489,
+      "sha256": "6cd3214ac58dccf2d9b8590e009de11fdea6438578f6c4cfca6ed22e73ca4aa6",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA00242_01.45.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00242_01.45.mc4",
+      "size": 3328,
+      "sha256": "a50a2be5bb5ad3d08598293df929ae2115959a611b2a8d3c1af8bd7a11bcd560",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA00242_01.45.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="PAYDAY 2: CRIMEWAVE EDITION" Moder="Saso_9.00" Cusa="CUSA01761" Version="01.52" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Master Code /Health /Ammo / Skill/Money/Ins_Drill">
+        <Cheatline>
+            <Offset>DBE900</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FE-01-75-38-48-83-F9-04-75-32-49-BB-00-00-00-00-00-80-FD-FF-4D-33-5A-08-41-81-7B-1B-61-6C-74-68-75-1A-49-83-7B-20-00-75-13-49-BB-00-00-00-00-00-38-8F-40-4D-89-1A-E9-60-AD-36-FF-90-4C-8B-1C-CA-4D-89-1A-E9-53-AD-36-FF-90-48-83-F9-03-75-ED-49-BB-00-00-00-00-00-80-FD-FF-4D-33-5A-08-41-81-7B-18-70-6F-69-6E-75-D5-66-41-81-7B-1C-74-73-75-CC-49-BB-00-00-80-FF-64-CD-CD-41-4D-89-1A-E9-19-AD-36-FF-90-66-83-FE-FB-75-B3-48-83-F9-02-75-AD-49-BB-00-00-00-00-00-80-FD-FF-4D-33-5A-08-41-81-7B-19-61-6D-6D-6F-75-95-4D-8B-1A-EB-94-90-49-83-FC-05-75-89-49-BB-00-00-00-00-00-80-FD-FF-4D-33-5A-08-41-81-7B-18-74-6F-74-61-0F-85-6D-FF-FF-FF-49-BB-00-00-80-FF-64-CD-CD-41-4D-89-1A-E9-BA-AC-36-FF-48-83-F9-05-75-40-49-83-F8-20-75-3A-49-83-FC-04-75-34-49-BB-00-00-00-00-00-80-FD-FF-4D-33-5A-08-41-81-7B-21-74-69-6D-65-75-1C-41-81-7A-04-00-00-14-40-7E-12-49-BB-00-00-00-00-00-00-F0-3F-4D-89-1A-E9-74-AC-36-FF-4C-8B-1C-CA-4D-89-1A-E9-68-AC-36-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo /No Reload">
+        <Cheatline>
+            <Offset>DBE904</Offset>
+            <Section>0</Section>
+            <ValueOn>75-7F</ValueOn>
+            <ValueOff>75-38</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Skill Points">
+        <Cheatline>
+            <Offset>DBE90A</Offset>
+            <Section>0</Section>
+            <ValueOn>75-3F</ValueOn>
+            <ValueOff>75-32</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money (999999999)">
+        <Cheatline>
+            <Offset>DBE967</Offset>
+            <Section>0</Section>
+            <ValueOn>75-46</ValueOn>
+            <ValueOff>75-D5</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Drill ">
+        <Cheatline>
+            <Offset>DBE989</Offset>
+            <Section>0</Section>
+            <ValueOn>75-58</ValueOn>
+            <ValueOff>75-B3</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,22 @@
+{
+  "name": "The Karate Kid Street Rumble",
+  "id": "CUSA47364",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825E6EAE",
+          "on": "909090909090",
+          "off": "898800010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

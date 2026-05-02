@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FIFA22" Moder="Wander" Cusa="CUSA27106" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Budget (Use the budget slider to adjust)">
+        <Cheatline>
+            <Offset>7DE3640</Offset>
+            <Section>0</Section>
+            <ValueOn>48-03-58-08</ValueOn>
+            <ValueOff>48-63-58-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

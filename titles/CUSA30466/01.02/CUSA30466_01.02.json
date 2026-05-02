@@ -1,0 +1,33 @@
+{
+  "name": "The Legend of Tianding",
+  "id": "CUSA30466",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80A0EAF0",
+          "on": "9090909090",
+          "off": "E8BBA4BAFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80986956",
+          "on": "90909090",
+          "off": "44897B44"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

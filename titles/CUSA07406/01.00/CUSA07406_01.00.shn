@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Berserk and the Band of the Hawk" Moder="Vampirexx" Cusa="CUSA07406" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="God Mode">
+        <Cheatline>
+            <Offset>9A785A</Offset>
+            <Section>0</Section>
+            <ValueOn>51-49-81-FA-00-20-09-00-75-07-B9-0F-27-00-00-89-CA-41-89-97-54-0C-00-00-59-E9-0F-1E-88-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Frenzy Mode after 1 hit">
+        <Cheatline>
+            <Offset>9A788B</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-00-40-9C-45-66-0F-6E-D1-C4-C1-7A-11-95-74-0C-00-00-E9-58-7A-87-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Frenzy Mode hold CIRCLE to Deplete">
+        <Cheatline>
+            <Offset>9A78A2</Offset>
+            <Section>0</Section>
+            <ValueOn>51-48-B9-88-83-40-00-08-00-00-00-48-8B-09-48-81-E1-00-20-00-00-75-12-C5-F8-28-D0-C5-FA-11-97-74-0C-00-00-59-E9-C0-D8-88-FF-C5-F8-28-D3-C5-FA-11-97-74-0C-00-00-59-E9-AE-D8-88-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Death Blown after 1 hit">
+        <Cheatline>
+            <Offset>9A7800</Offset>
+            <Section>0</Section>
+            <ValueOn>BA-00-00-7A-44-66-0F-6E-C2-E9-08-33-89-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Death Blown">
+        <Cheatline>
+            <Offset>B89F</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-F2-5C-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Ammo Secondary Weapon">
+        <Cheatline>
+            <Offset>233EA3</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-EA-58-D0</ValueOn>
+            <ValueOff>C5-EA-5C-D0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Secondary Objects">
+        <Cheatline>
+            <Offset>2340DE</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-0A</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Endless Powerup Items">
+        <Cheatline>
+            <Offset>41596C</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-F2-5C-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Cooldown Berserk Weapon">
+        <Cheatline>
+            <Offset>234019</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-48-04</ValueOn>
+            <ValueOff>C5-FA-11-40-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No cooldown Weapons / items">
+        <Cheatline>
+            <Offset>233B15</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-5E-04</ValueOn>
+            <ValueOff>C5-FA-11-66-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Money on Level Up">
+        <Cheatline>
+            <Offset>1820D7</Offset>
+            <Section>0</Section>
+            <ValueOn>01-CA</ValueOn>
+            <ValueOff>29-CA</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gain Money after Shop">
+        <Cheatline>
+            <Offset>18D6B5</Offset>
+            <Section>0</Section>
+            <ValueOn>01-C1</ValueOn>
+            <ValueOff>29-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Maximize Item after Level UP Slot1">
+        <Cheatline>
+            <Offset>9A7800</Offset>
+            <Section>0</Section>
+            <ValueOn>80-C2-FD-E9-98-B4-7E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Maximize Item after Level UP Slot2">
+        <Cheatline>
+            <Offset>9A788B</Offset>
+            <Section>0</Section>
+            <ValueOn>80-C2-FD-E9-34-B4-7E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Maximize Item after Level UP Slot3">
+        <Cheatline>
+            <Offset>9A78B8</Offset>
+            <Section>0</Section>
+            <ValueOn>80-C2-FD-E9-2E-B4-7E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Enhancements Stones">
+        <Cheatline>
+            <Offset>1929B7</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-88-84-0F-70-36-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

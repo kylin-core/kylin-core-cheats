@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Order: 1886" Moder="Wander_9.00" Cusa="CUSA00785" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC4BDC0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-81-7C-24-30-20-F5-75-0E-41-C7-84-24-D0-00-00-00-00-00-16-44-EB-0A-C4-C1-7A-11-84-24-D0-00-00-00-E9-BE-47-DC-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo/No reload">
+        <Cheatline>
+            <Offset>70C038</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>29-82-10-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Throwables">
+        <Cheatline>
+            <Offset>7FC4BE30</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-87-14-03-00-00-09-E9-D7-BD-A9-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

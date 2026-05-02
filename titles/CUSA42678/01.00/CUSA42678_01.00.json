@@ -1,0 +1,91 @@
+{
+  "name": "Harvest Moon: The Winds of Anthos",
+  "id": "CUSA42678",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Hearts/Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "898FF640",
+          "on": "488B8548FFFFFF66C74034E803E9423369FB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "84F9298A",
+          "on": "E9B1CC96049090909090",
+          "off": "488B8548FFFFFF894834"
+        }
+      ]
+    },
+    {
+      "name": "99 Water (while watering)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "898FF970",
+          "on": "488B45F8C6403863E96938B6FC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "864631DF",
+          "on": "E98CC749039090",
+          "off": "488B45F8894838"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins (On sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "898FF670",
+          "on": "488B4588C740307F969800E9F7D868FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "84F8CF70",
+          "on": "E9FB2697049090",
+          "off": "488B4588894830"
+        }
+      ]
+    },
+    {
+      "name": "Skip a day (effect on each time being activated)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "898FEA30",
+          "on": "C7404000009644E929B5A5FA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "84359F60",
+          "on": "E9CB4A5A05",
+          "off": "C5FA114040"
+        }
+      ]
+    },
+    {
+      "name": "90 Items (On pick up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "898FF330",
+          "on": "8B4DF0C640085AE9C4C749F7",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80D9BAFA",
+          "on": "E93138B60890",
+          "off": "8B4DF0894808"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

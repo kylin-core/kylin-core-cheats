@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DORAEMON STORY OF SEASONS" Moder="Reddevil82 " Cusa="CUSA18501" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>157FDB0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-5C-24-14-41-89-5C-24-10-E9-14-AC-62-7F-52-65-64-64-65-76-69-6C-38-32-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>157FDF0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-3E-86-49-7F-C7-40-48-FF-C9-9A-3B-44-8B-70-48-E9-A2-85-49-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items">
+        <Cheatline>
+            <Offset>157FDD1</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-D4-6B-54-7F-C6-43-18-63-8B-73-18-E9-BA-C0-54-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Water">
+        <Cheatline>
+            <Offset>157FE10</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-06-00-00-80-3F-E9-94-02-70-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

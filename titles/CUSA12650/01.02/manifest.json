@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12650",
+  "version": "01.02",
+  "name": "Hitman Absolution HD",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12650"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12650_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12650_01.02.json",
+      "size": 1110,
+      "sha256": "da83b0752b3d47e5eae27df3964aacb4281c1c0d604ec2aa5373f2d5ad845fe1",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12650_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12650_01.02.shn",
+      "size": 1187,
+      "sha256": "bd058c71f8ee612530959fbe2563559560166531b56c000d6b5f2507908bf8ae",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12650_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12650_01.02.mc4",
+      "size": 1600,
+      "sha256": "9cd2d870b22103d76a7596ac5e02915c8bdfa59fea774af2fe84f6f6c2a4a2bf",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12650_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

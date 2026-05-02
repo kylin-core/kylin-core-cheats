@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA20133",
+  "version": "01.08",
+  "name": "Mortal Shell",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA20133"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20133_01.08.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA20133_01.08.json",
+      "size": 2264,
+      "sha256": "9bceb445f10645f38578b64e6d1c4f81a441ac30a28b5ea8ccb156b41de01f74",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20133_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA20133_01.08.shn",
+      "size": 2865,
+      "sha256": "86bb3f8247be7987a9191d4ba96d57043140e3edf30960c08b46789619920e45",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20133_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA20133_01.08.mc4",
+      "size": 3840,
+      "sha256": "1b6cdc54c8652786c1351de10b26b34271de06936e758a95e00e0c738ef33001",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20133_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

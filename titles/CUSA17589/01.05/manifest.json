@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA17589",
+  "version": "01.05",
+  "name": "妖怪ウォッチ4++",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA17589"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17589_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA17589_01.05.json",
+      "size": 8699,
+      "sha256": "c693070120c17963e704f0e0619f6d7c1294d5a1f495c8d0684a0db432dcbfe8",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17589_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA17589_01.05.shn",
+      "size": 8085,
+      "sha256": "0760be88f3c5b5b956d22abe44b8faeb909b10c68272df06f2e16cd8186a97b2",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17589_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA17589_01.05.mc4",
+      "size": 10796,
+      "sha256": "1e6856dd3814539dddc1532e3bc0fa4a4829657031857efc77631ecd7729ac28",
+      "cheatCount": 21,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17589_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

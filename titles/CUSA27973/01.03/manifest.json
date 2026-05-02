@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA27973",
+  "version": "01.03",
+  "name": "Hades",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA27973"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA27973_01.03.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA27973_01.03.json",
+      "size": 5124,
+      "sha256": "56c87a348d66508636b659ccd7066339c12b7a783122d68e0adf60055d4a7055",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA27973_01.03.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA27973_01.03.shn",
+      "size": 6253,
+      "sha256": "2a188f589d42415534b81d528e9be8b92dd1ea4bcded0c10695bde860ae89cf2",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA27973_01.03.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA27973_01.03.mc4",
+      "size": 8344,
+      "sha256": "1abe846ed3597b43e7e18637c0a3afaa1a1af827eef466a3015386ade9d42816",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA27973_01.03.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Trine Enchanted Edition",
+  "id": "CUSA01126",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36AEA",
+          "on": "9090909090",
+          "off": "E831853400"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Skill-Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25C3816",
+          "on": "C787EC0100000F270000660F182400E9EC7DA4FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "100B610",
+          "on": "E901825B0190",
+          "off": "89B7EC010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Breath)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18687B",
+          "on": "9090909090909090",
+          "off": "C5FA1183D0030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

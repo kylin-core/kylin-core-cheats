@@ -1,0 +1,187 @@
+{
+  "name": "DEAD CELLS",
+  "id": "CUSA11253",
+  "version": "01.39",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB800",
+          "on": "41837C245009750D418B842461010000E9CC0B9FFE418984245C010000E9BF0B9FFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "49C3D9",
+          "on": "E922F46001909090",
+          "off": "418984245C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Cells on spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB830",
+          "on": "BE3F420F004189B6A4040000E9942DCAFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "74E5CE",
+          "on": "E95DD235019090",
+          "off": "4189B6A4040000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money on spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB8D1",
+          "on": "BE3F420F00897048E9D91FCAFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "74D8B2",
+          "on": "E91AE03501",
+          "off": "29DE897048"
+        }
+      ]
+    },
+    {
+      "name": "Inf Kill Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB843",
+          "on": "BA3F420F00895174E9A7CCA1FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "4C84F1",
+          "on": "E94D335E0190",
+          "off": "8951748B7178"
+        }
+      ]
+    },
+    {
+      "name": "Inf Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB852",
+          "on": "C74730E7030000E9E8D8D5FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80913B",
+          "on": "E912272A01909090909090",
+          "off": "837F3000C745C800000000"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB860",
+          "on": "48C7C000000000488983A0000000E986C1A5FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5079F2",
+          "on": "E9693E5A019090",
+          "off": "488983A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB875",
+          "on": "41C7878803000000000000E96A4BCEFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7903E8",
+          "on": "E988B431019090",
+          "off": "41FF8788030000"
+        }
+      ]
+    },
+    {
+      "name": "Survival scroll upgrade x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB887",
+          "on": "B863000000898390010000E9B3DAC9FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "749344",
+          "on": "E93E25360190",
+          "off": "898390010000"
+        }
+      ]
+    },
+    {
+      "name": "Tactics scroll upgrade x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB899",
+          "on": "B863000000898388010000E97EDAC9FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "749321",
+          "on": "E97325360190",
+          "off": "898388010000"
+        }
+      ]
+    },
+    {
+      "name": "Brutality scroll upgrade x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB8AB",
+          "on": "B86300000089838C010000E9B2DAC9FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "749367",
+          "on": "E93F25360190",
+          "off": "89838C010000"
+        }
+      ]
+    },
+    {
+      "name": "Play lvl Time freeze ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AAB8BD",
+          "on": "48C7403814000000C5FB104038E97B0EE1FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8BC745",
+          "on": "E973F11E01",
+          "off": "C5FB114038"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
+}

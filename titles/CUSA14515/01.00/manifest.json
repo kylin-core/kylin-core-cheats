@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA14515",
+  "version": "01.00",
+  "name": "Gladiator: Blades of Fury",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA14515"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14515_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA14515_01.00.json",
+      "size": 1387,
+      "sha256": "d0feef33687fb1efcfe30207f307b9f26e1aa29adad1d9a5d4ef30c76abaa87c",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14515_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA14515_01.00.shn",
+      "size": 1423,
+      "sha256": "8d6c02fc5586d6f51263642a14096424b06a99eb89390bb89ed11117d79ee77e",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14515_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA14515_01.00.mc4",
+      "size": 1900,
+      "sha256": "d1897a697dc970cbdce879dcc693191ff8c4f799103e0742ff45c783bd7ccf88",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14515_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

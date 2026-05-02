@@ -1,0 +1,71 @@
+{
+  "name": "Syndrome",
+  "id": "CUSA06636",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "812620",
+          "on": "418B87F4080000",
+          "off": "418987F4080000"
+        },
+        {
+          "offset": "814557",
+          "on": "418B87F4080000",
+          "off": "418987F4080000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39CF7E",
+          "on": "F3450F10BF28010000",
+          "off": "F3450F11BF28010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo Gun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3B5789",
+          "on": "418B864C020000",
+          "off": "41898640020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo ShotGun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81C22B",
+          "on": "418B8644090000",
+          "off": "41898644090000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo Bazooka",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81C351",
+          "on": "418B862C090000",
+          "off": "4189862C090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Slime Rancher" Moder="Wander_9.00" Cusa="CUSA11650" Version="01.20" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Coins (on gain)">
+        <Cheatline>
+            <Offset>7FC5E850</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-A1-2F-83-00-81-40-6C-FF-E0-F5-05-E9-2A-2F-83-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>7FC5E870</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-43-60-00-C0-E9-E4-FC-A0-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC5E890</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-47-64-00-C0-E9-07-FD-A0-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All items x30 (on spend)">
+        <Cheatline>
+            <Offset>18B2A00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-44-24-14-1E-E9-76-78-D0-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Keys x99 (on use)">
+        <Cheatline>
+            <Offset>7FC5E470</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C9-C6-40-7C-63-E9-7E-34-83-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

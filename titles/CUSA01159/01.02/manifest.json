@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01159",
+  "version": "01.02",
+  "name": "戦国BASARA4 皇",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01159"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01159_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01159_01.02.json",
+      "size": 1978,
+      "sha256": "75e3226913830f52a1c3c542874b67c19dc916bccc6a72df32f5e838c77f1d2d",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01159_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01159_01.02.shn",
+      "size": 1839,
+      "sha256": "f651a54e37a1bc7b3863e77ee8a0ccc062cfabebf31333a87066610cc0c78f01",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01159_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01159_01.02.mc4",
+      "size": 2456,
+      "sha256": "fdfe6bb7511b8a6264126892891ec8f79861edb7f92f3a849b63cc3dca02549d",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01159_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

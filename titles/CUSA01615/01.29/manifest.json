@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01615",
+  "version": "01.29",
+  "name": "FINAL FANTASY XV",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01615"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01615_01.29.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01615_01.29.json",
+      "size": 2100,
+      "sha256": "66502c4b45584a8569c15deb9160a50a6c09efb3135441fe4251f380a6ce3a4a",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01615_01.29.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01615_01.29.shn",
+      "size": 2379,
+      "sha256": "454d2be052517e19900eec1d7c8bec1df865a924c1ed9fcc2f0b30b7c33b5362",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01615_01.29.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01615_01.29.mc4",
+      "size": 3180,
+      "sha256": "d7f318fb429180a982be091407107038b9ad140ebc4ef4fbc22853e671b09be1",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01615_01.29.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

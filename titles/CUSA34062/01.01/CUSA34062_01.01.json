@@ -1,0 +1,82 @@
+{
+  "name": "Itorah",
+  "id": "CUSA34062",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8213F800",
+          "on": "41837F6001750BC4C17A10470CE911FB88FEC4C17A114724E906FB88FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "809CF31D",
+          "on": "E9DE04770190",
+          "off": "C4C17A114724"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805C1380",
+          "on": "9090909090",
+          "off": "C5FA114328"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill-us-inf-hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805CF2E5",
+          "on": "909090909090",
+          "off": "C4C17A104F24"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-1-HIT",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "805CF32A",
+          "on": "909090909090",
+          "off": "C4C17A104628"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Healing-Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8175D63F",
+          "on": "90909090",
+          "off": "41FF4E28"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Gems + blue-Crystal-items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8077BB9B",
+          "on": "90909090",
+          "off": "41894718"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

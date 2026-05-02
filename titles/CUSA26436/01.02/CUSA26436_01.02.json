@@ -1,0 +1,33 @@
+{
+  "name": "Cotton Reboot",
+  "id": "CUSA26436",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B5D63",
+          "on": "9090909090",
+          "off": "E8E8040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B657B",
+          "on": "9090",
+          "off": "8901"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

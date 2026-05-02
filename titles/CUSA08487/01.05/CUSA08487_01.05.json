@@ -1,0 +1,22 @@
+{
+  "name": "Life is Strange - Before the Storm",
+  "id": "CUSA08487",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "60 FPS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E53DAA",
+          "on": "400F94C6",
+          "off": "400F95C6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "illusion, TLH"
+  ]
+}

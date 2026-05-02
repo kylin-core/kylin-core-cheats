@@ -1,0 +1,70 @@
+{
+  "name": "Atomic Heart",
+  "id": "CUSA37321",
+  "version": "01.16",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Energy/Dash/Shock",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "720BDB0",
+          "on": "4983FA1E740690E9BD1DECF8E8CF16ECF8E9B31DECF8",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "CDB74",
+          "on": "E937E21307",
+          "off": "E817F9FFFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "49D7213",
+          "on": "909090909090",
+          "off": "FF8B50050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neuropolymer/Resources (On Pick Up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "720B780",
+          "on": "4584C9B8E7030000418900E9C3EF35FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "156A74D",
+          "on": "E92E10CA0590",
+          "off": "4584C9418900"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neuropolymer/Resources (On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "720B840",
+          "on": "0F85B0DB39FAC74330E70300008B4B3085C9E93BDB39FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15A938D",
+          "on": "E9AE24C605",
+          "off": "756D8B4B30"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

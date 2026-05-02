@@ -1,0 +1,123 @@
+{
+  "name": "Red Dead Redemption",
+  "id": "CUSA36843",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FBDB0",
+          "on": "4983FA00750FC5FA104324C5FA114320E9793865FFC5FA114320E96F3865FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F4F639",
+          "on": "E972C79A00",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FB8F0",
+          "on": "C4C17A105540C4C17A11553CE958286AFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "F9E153",
+          "on": "E998D7950090",
+          "off": "C4C17A11553C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FB9F0",
+          "on": "C704880000C642E90FFEB1FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "41B806",
+          "on": "E9E5014E01",
+          "off": "C5FA110C88"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FBB60",
+          "on": "C4C17A10862C010000C4C17A11862C010000E9FFABB1FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "41676D",
+          "on": "E9EE534E0190909090",
+          "off": "C4C17A11862C010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FB6A0",
+          "on": "4983F800751041C787A000000063000000E92718CDFE41FF8FA0000000E91B18CDFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5CCED6",
+          "on": "E9C5E732019090",
+          "off": "41FF8FA0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Dead Eye On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FB870",
+          "on": "C5FA1083D4030000C5FA1183D0030000E9B465C6FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "561E31",
+          "on": "E93A9A3901909090",
+          "off": "C5FA1183D0030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money On Buy (Disable After Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "018FB840",
+          "on": "C744C108F0237449E9F39C89FEE9C8AA89FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "196315",
+          "on": "E926557601",
+          "off": "E926F2FFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

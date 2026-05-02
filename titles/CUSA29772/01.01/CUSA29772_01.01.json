@@ -1,0 +1,82 @@
+{
+  "name": "River City Girls Zero",
+  "id": "CUSA29772",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP / 1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60F800",
+          "on": "41504C8D8407C0010000664181F8E421741C664181F8E6217414664181F8E821740C664181F8EA217404EB02B2FF4158889407C0010000C3664181F8EC21741A664181F8EE217412664181F8F021740A664181F8F2217402EBD430D2EBD0",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F1B42",
+          "on": "E9B9DC11009090",
+          "off": "889407C0010000"
+        }
+      ]
+    },
+    {
+      "name": "Kunio (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60F810",
+          "on": "741A",
+          "off": "741C"
+        }
+      ]
+    },
+    {
+      "name": "Riki (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60F818",
+          "on": "7412",
+          "off": "7414"
+        }
+      ]
+    },
+    {
+      "name": "Misako (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60F820",
+          "on": "740A",
+          "off": "740C"
+        }
+      ]
+    },
+    {
+      "name": "Kyoko (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60F828",
+          "on": "7402",
+          "off": "7404"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "60F82A",
+          "on": "EB0C",
+          "off": "EB02"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

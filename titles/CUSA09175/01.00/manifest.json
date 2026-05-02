@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09175",
+  "version": "01.00",
+  "name": "DAYS GONE",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09175"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09175_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09175_01.00.json",
+      "size": 1671,
+      "sha256": "6b4d6b6ee9a2a932dfc0fd247ba401dc979b62521c8472a2e57f104eea0be8b6",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09175_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09175_01.00.shn",
+      "size": 2009,
+      "sha256": "dd76844d47970ac22f5730ad2523b2a7facec8e1a8f34fee70100bc394b735e1",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09175_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09175_01.00.mc4",
+      "size": 2688,
+      "sha256": "3be97ab48a90022e6cba1592bf79d62952547175e28830a6bb8af54ab19c867b",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09175_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

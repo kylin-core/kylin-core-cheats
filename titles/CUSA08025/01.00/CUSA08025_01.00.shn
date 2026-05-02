@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands 3" Moder="DeathRGH" Cusa="CUSA08025" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>93EB000</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7F-1C-00-74-05-E9-BD-2A-9E-FB-C5-FA-11-8B-A0-00-00-00-E9-B0-2A-9E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>4DCEF6A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-8B-A0-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Money">
+        <Cheatline>
+            <Offset>52E8B4B</Offset>
+            <Section>0</Section>
+            <ValueOn>4A-89-44-38-18</ValueOn>
+            <ValueOff>42-89-4C-38-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="5000x XP">
+        <Cheatline>
+            <Offset>93EB018</Offset>
+            <Section>0</Section>
+            <ValueOn>69-D2-88-13-00-00-89-93-C4-01-00-00-E9-69-54-02-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skillpoints">
+        <Cheatline>
+            <Offset>93EB029</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-60-01-00-00-10-27-00-00-E9-F0-BC-9A-F7</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,133 @@
+{
+  "name": "Little Dragons Cafe",
+  "id": "CUSA12126",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Unlock All Ingredients",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB811",
+          "on": "0F8470FAFF7EC7461063000000837E1000E962FAFF7E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "802CB283",
+          "on": "E98905008190",
+          "off": "7408837E1000"
+        },
+        {
+          "offset": "12CB800",
+          "on": "C6401063448B6010488B5A18E9D2C5027F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "802F7DDB",
+          "on": "E9203AFD80909090",
+          "off": "448B6010488B5A18"
+        }
+      ]
+    },
+    {
+      "name": "Dragons Hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB827",
+          "on": "0F85B139F67E41C7472064000000458B7720E95E39F67E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8022F196",
+          "on": "E98CC6098190",
+          "off": "754C458B7720"
+        }
+      ]
+    },
+    {
+      "name": "Char Walk Speed x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB83E",
+          "on": "41C7471800000040C4C17A104718E9376C0A7F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80372482",
+          "on": "E9B793F58090",
+          "off": "C4C17A104718"
+        }
+      ]
+    },
+    {
+      "name": "High Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB851",
+          "on": "41C7472400002041C4C17A104724E938710A7F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80372996",
+          "on": "E9B68EF58090",
+          "off": "C4C17A104724"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB851",
+          "on": "41C747240000C842C4C17A104724E938710A7F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80372996",
+          "on": "E9B68EF58090",
+          "off": "C4C17A104724"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Walk Speed X2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB864",
+          "on": "41C7471800000040C4C17A104718E994FFF47E",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8021B805",
+          "on": "E95A000B8190",
+          "off": "C4C17A104718"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dragon Manure",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12CB877",
+          "on": "0F845D05F87EC740106300000083781000E9ED04F87E",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8024BD74",
+          "on": "E9FEFA078190",
+          "off": "746A83781000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Evil Below" Moder="Reddevil82 - FW 9.00" Cusa="CUSA29504" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>1987EB0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-46-78-00-3C-1C-46-E9-99-93-E4-7E-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>1987ED1</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-83-80-00-00-00-C5-FA-10-8B-80-00-00-00-E9-62-A7-FE-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items ( on use )">
+        <Cheatline>
+            <Offset>1987EE6</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-44-C8-30-63-00-00-00-41-FF-44-24-24-E9-12-D9-F6-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>1987EF8</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-83-20-01-00-00-FF-C8-8B-83-24-01-00-00-89-83-20-01-00-00-E9-22-5E-1F-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Walk Speed [ x 2 ]">
+        <Cheatline>
+            <Offset>1987F11</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-80-40-66-41-0F-6E-C0-E9-47-C2-E4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Walk Speed [ x 3 ]">
+        <Cheatline>
+            <Offset>1987F21</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-C0-40-66-41-0F-6E-C0-E9-37-C2-E4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Walk Speed [ x 4 ]">
+        <Cheatline>
+            <Offset>1987F31</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-00-41-66-41-0F-6E-C0-E9-27-C2-E4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Run Speed [ x 2 ]">
+        <Cheatline>
+            <Offset>1987F41</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-C0-40-66-41-0F-6E-C0-E9-D6-BA-E4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Run Speed [ x 3 ]">
+        <Cheatline>
+            <Offset>1987F51</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-10-41-66-41-0F-6E-C0-E9-C6-BA-E4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Run Speed [ x 4 ]">
+        <Cheatline>
+            <Offset>1987F61</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-40-41-66-41-0F-6E-C0-E9-B6-BA-E4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Jump Height [ x 2 ]">
+        <Cheatline>
+            <Offset>1987F71</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-60-41-66-41-0F-6E-C0-E9-2D-0B-E5-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Jump Height [ x 3 ]">
+        <Cheatline>
+            <Offset>1987F81</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-A8-41-66-41-0F-6E-C0-E9-1D-0B-E5-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Jump Height [ x 4 ]">
+        <Cheatline>
+            <Offset>1987F91</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B8-00-00-E0-41-66-41-0F-6E-C0-E9-0D-0B-E5-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SUPER ROBOT WARS V" Moder="squall3032" Cusa="CUSA06124" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Money Gain on Spend">
+        <Cheatline>
+            <Offset>445155</Offset>
+            <Section>0</Section>
+            <ValueOn>01-11</ValueOn>
+            <ValueOff>89-11</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="TacP Gain when enemy killed during battle">
+        <Cheatline>
+            <Offset>445214</Offset>
+            <Section>0</Section>
+            <ValueOn>01-50-18</ValueOn>
+            <ValueOff>89-50-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="TacP Gain on Spend">
+        <Cheatline>
+            <Offset>445296</Offset>
+            <Section>0</Section>
+            <ValueOn>01-51-18</ValueOn>
+            <ValueOff>89-51-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

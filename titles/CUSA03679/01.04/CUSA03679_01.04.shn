@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat XL" Moder="Saso_9.00" Cusa="CUSA03679" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (Master Code)">
+        <Cheatline>
+            <Offset>2DCCCC0</Offset>
+            <Section>0</Section>
+            <ValueOn>52-48-8B-93-20-0A-00-00-81-BA-08-03-00-00-C0-81-A8-16-5A-75-2C-C5-FA-11-8B-38-0A-00-00-E9-B0-AD-37-FD-90-81-BB-38-0A-00-00-00-00-80-3E-7E-12-C7-83-38-0A-00-00-00-00-80-3E-C5-FA-10-93-38-0A-00-00-C5-FA-11-93-38-0A-00-00-E9-84-AD-37-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Super Meter bars (Master Code)">
+        <Cheatline>
+            <Offset>2DD7839</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BF-08-03-00-00-C0-81-A8-16-75-0F-C7-83-8C-02-00-00-00-00-80-3F-E9-82-A7-69-FD-C5-FA-11-83-8C-02-00-00-E9-75-A7-69-FD-C7-83-8C-02-00-00-00-00-00-00-E9-66-A7-69-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Opponent Health (25%) (MC)">
+        <Cheatline>
+            <Offset>2DCCCD3</Offset>
+            <Section>0</Section>
+            <ValueOn>75-0E</ValueOn>
+            <ValueOff>75-2C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Opponent Super Meter bars (0) (MC)">
+        <Cheatline>
+            <Offset>2DD7843</Offset>
+            <Section>0</Section>
+            <ValueOn>75-1C</ValueOn>
+            <ValueOff>75-0F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

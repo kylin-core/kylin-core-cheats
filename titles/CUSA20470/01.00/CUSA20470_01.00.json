@@ -1,0 +1,98 @@
+{
+  "name": "Max and the book of chaos",
+  "id": "CUSA20470",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25A598",
+          "on": "909090909090",
+          "off": "899FC0000000"
+        },
+        {
+          "offset": "26BE9A",
+          "on": "90909090",
+          "off": "41894500"
+        }
+      ]
+    },
+    {
+      "name": "5000 Moedas",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "185FDC0",
+          "on": "4401F3C70088130000E9BBB1CA7E",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "8050AF84",
+          "on": "E9374E3581",
+          "off": "4401F38918"
+        }
+      ]
+    },
+    {
+      "name": "Bala Especial Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EEFF3",
+          "on": "9090",
+          "off": "8918"
+        }
+      ]
+    },
+    {
+      "name": "Power UP Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2156B7",
+          "on": "9090909090909090",
+          "off": "C5FA1183C4010000"
+        }
+      ]
+    },
+    {
+      "name": "Power Down Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21571F",
+          "on": "9090909090909090",
+          "off": "C5FA1183C0010000"
+        }
+      ]
+    },
+    {
+      "name": "Arma Raio Eletrico Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4EE0CA",
+          "on": "90909090",
+          "off": "C5F25CC8"
+        }
+      ]
+    },
+    {
+      "name": "Paralisar o Tempo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25195A",
+          "on": "909090909090",
+          "off": "C4C17A114624"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Salt and Sanctuary",
+  "id": "CUSA02353",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C2242",
+          "on": "F3440F10B8F8000000",
+          "off": "F3440F11B8F8000000"
+        },
+        {
+          "offset": "2969BA",
+          "on": "F3440F10B8F8000000",
+          "off": "F3440F11B8F8000000"
+        },
+        {
+          "offset": "296A90",
+          "on": "F3440F10B8F8000000",
+          "off": "F3440F11B8F8000000"
+        },
+        {
+          "offset": "296947",
+          "on": "F3440F10B8F8000000",
+          "off": "F3440F11B8F8000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C2425",
+          "on": "F3440F10B83C010000",
+          "off": "F3440F11B83C010000"
+        },
+        {
+          "offset": "279329",
+          "on": "F3450F10BD3C010000",
+          "off": "F3450F11BD3C010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Salt on Pickup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D37DFC",
+          "on": "B8FFC99A3B4189873C010000E9B6EE8CFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "606CBD",
+          "on": "E93A11730290",
+          "off": "0F84E3000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Pickup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D37E0D",
+          "on": "B8FFC99A3B4189852C010000E953247CFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4FA26B",
+          "on": "E99DDB830290",
+          "off": "0F8451030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items and Weapons (L3 Pressed while save to avoid freeze)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D37E1E",
+          "on": "5348BB8883400008000000488B1B4883E3027504486348285BE92D3D91FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "64BB63",
+          "on": "E9B6C26E0290",
+          "off": "0F84FA030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Upgrade Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64AEC4",
+          "on": "4401F9",
+          "off": "412BCF"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D37E3C",
+          "on": "81B8C4000000ACA96B0E7509F3440F10B8C4000000E98EAB58FD",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C29DF",
+          "on": "E95854A702",
+          "off": "F2440F5AF8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

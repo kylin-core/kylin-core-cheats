@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02980",
+  "version": "01.02",
+  "name": "Borderlands THC Borderlands 2",
+  "process": "MAGNOLIA.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02980"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02980_01.02_MAGNOLIA.elf.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02980_01.02.json",
+      "size": 1878,
+      "sha256": "5d35b932068754d4128e22de59045368fe46632e13daffeb80615f07016a2fec",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02980_01.02_MAGNOLIA.elf.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02980_01.02.shn",
+      "size": 2114,
+      "sha256": "f532de5e00011fd0e586f37f9155d5988eb21bbb34d1d6600d7aeba5084db171",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02980_01.02_MAGNOLIA.elf.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02980_01.02.mc4",
+      "size": 2840,
+      "sha256": "edd137b0b32324b1f14b4d699d4c71b652300af7ca7733aedd0fcb5664df436d",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02980_01.02_MAGNOLIA.elf.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

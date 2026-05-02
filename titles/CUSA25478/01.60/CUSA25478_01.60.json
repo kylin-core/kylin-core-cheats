@@ -1,0 +1,75 @@
+{
+  "name": "ScourgeBringer",
+  "id": "CUSA25478",
+  "version": "01.60",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "275FDB0",
+          "on": "C7816C010000E7030000E9392AFFFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7527F2",
+          "on": "E9B9D5000290",
+          "off": "89816C010000"
+        }
+      ]
+    },
+    {
+      "name": "Gota de Sangue Vermelha Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "275FDE0",
+          "on": "C781800100009F860100E9CF3EFFFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "753CB8",
+          "on": "E923C1000290",
+          "off": "898180010000"
+        }
+      ]
+    },
+    {
+      "name": "Sangue de Juiz Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2000000",
+          "on": "C781500200009F860100E9FF3F75FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "754008",
+          "on": "E9F3BF8A0190",
+          "off": "898150020000"
+        }
+      ]
+    },
+    {
+      "name": "Municao Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "275FDF0",
+          "on": "C780A0010000E7030000E9DD2DFFFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "752BD6",
+          "on": "E915D2000290",
+          "off": "8988A0010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

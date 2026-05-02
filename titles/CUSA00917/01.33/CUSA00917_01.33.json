@@ -1,0 +1,27 @@
+{
+  "name": "Uncharted 4 Dev Menu",
+  "id": "CUSA00917",
+  "version": "01.33",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Dev Menu (L3 + Upper L or R Touch Pad)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2053800",
+          "on": "538B1D52E86E0080E3408898792E000080B8792E0000005BE9AC1C1AFE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F54C2",
+          "on": "E939E3E5019090",
+          "off": "80B8792E000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

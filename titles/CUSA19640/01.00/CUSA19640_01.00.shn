@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 5 Striker" Moder="SunRise01(Creator), kemalsanli(Tester and Editor)" Cusa="CUSA19640" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Unlimited PP">
+        <Cheatline>
+            <Offset>82EAE5</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>83-C1-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Unlimited Bond Point">
+        <Cheatline>
+            <Offset>8C00E6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>44-89-80-80-5B-5E-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Unlimited SP">
+        <Cheatline>
+            <Offset>2EAF3D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-88-38-0C-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HP(seems not working but worth to try)">
+        <Cheatline>
+            <Offset>2EACE2</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-83-94-0A-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Unlimited Items">
+        <Cheatline>
+            <Offset>7E7AF8</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-C9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money (buy something and go to menu)">
+        <Cheatline>
+            <Offset>7D258C</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>0F-4C-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

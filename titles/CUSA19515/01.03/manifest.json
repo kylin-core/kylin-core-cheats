@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA19515",
+  "version": "01.03",
+  "name": "Mass Effect - Legendary Edition",
+  "process": "LTCG-BioGame.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA19515"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19515_01.03_LTCG-BioGame.elf.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA19515_01.03.json",
+      "size": 20703,
+      "sha256": "5dc0d8cfadd718d4571b313292b8b572e5d59e8ee7d7f0a3e4f61992644b9b6d",
+      "cheatCount": 42,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19515_01.03_LTCG-BioGame.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA19515_01.03.shn",
+      "size": 21633,
+      "sha256": "11124889b7c7251f42fb2437b9fc60b109d8de4c761f5892d5c122181fd11b11",
+      "cheatCount": 42,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19515_01.03_LTCG-BioGame.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA19515_01.03.mc4",
+      "size": 28864,
+      "sha256": "926b78a9c6d118705451cc2a7a58e4a8ecfdac78225df88e28425fee5ce73a79",
+      "cheatCount": 42,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19515_01.03_LTCG-BioGame.elf.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

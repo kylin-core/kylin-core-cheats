@@ -1,0 +1,193 @@
+{
+  "name": "Earth\\'s Dawn",
+  "id": "CUSA05087",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1113815",
+          "on": "B80F270000898328030000E9B0A4FC7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "800DDCCF",
+          "on": "E9415B038190",
+          "off": "8B8328030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Exceed Gauge (Gain for Max)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111387C",
+          "on": "41C7863403000000007A44C4C17A108634030000E98D44E37E",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FF47D19",
+          "on": "E95EBB1C8190909090",
+          "off": "C4C17A118634030000"
+        },
+        {
+          "offset": "1113895",
+          "on": "41C7863403000000007A44C4C17A108634030000E9A446E37E",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FF47F49",
+          "on": "E947B91C8190909090",
+          "off": "C4C17A118634030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E0128",
+          "on": "FFC6",
+          "off": "FFCE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1113800",
+          "on": "418B8C241003000041898C2414030000E9CCA5E57E",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FF6DDD9",
+          "on": "E9225A1A81909090",
+          "off": "41898C2414030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C6661",
+          "on": "44297048",
+          "off": "44017048"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1113825",
+          "on": "B80000000041898528030000E907CEE47E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FF60636",
+          "on": "E9EA311B819090",
+          "off": "418B8528030000"
+        }
+      ]
+    },
+    {
+      "name": "Max EXP on Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1113836",
+          "on": "B9FFE0F505894830B9FFE0F505894834E9BD6BE27E",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FF3A402",
+          "on": "E92F941D8190",
+          "off": "014830014834"
+        }
+      ]
+    },
+    {
+      "name": "Max LVL on LVL Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111384B",
+          "on": "FFC3BB6300000041895F2CE93345E57E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "7FF67D88",
+          "on": "E9BEBA1A8190",
+          "off": "FFC341895F2C"
+        }
+      ]
+    },
+    {
+      "name": "Max EN Points on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111385B",
+          "on": "BBFFE0F50541899EA0000000E9C9EAF97E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "800B232E",
+          "on": "E9281506819090",
+          "off": "41899EA0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max All Current Materials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "111386C",
+          "on": "BB63000000895C812089D8E94F9AFD7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "800ED2C5",
+          "on": "E9A265028190",
+          "off": "8B5C812089D8"
+        }
+      ]
+    },
+    {
+      "name": "x2 Materials on Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "24C97D",
+          "on": "4429648820",
+          "off": "4401648820"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Counteroffensive Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A1BB0",
+          "on": "9090909090909090",
+          "off": "C5FA1183AC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

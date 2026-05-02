@@ -1,0 +1,147 @@
+{
+  "name": "Dead Rising 2 Off The Record",
+  "id": "CUSA04273",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCB800",
+          "on": "51B900C07944660F6EC159C5FA1187C4010000E9303176FE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "32E940",
+          "on": "E9BBCE8901909090",
+          "off": "C5FA1187C4010000"
+        },
+        {
+          "offset": "1BCB830",
+          "on": "41BDE703000045896E28E9192357FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "13DB51",
+          "on": "E9DADCA8019090",
+          "off": "41FFCD45896E28"
+        },
+        {
+          "offset": "1BCB818",
+          "on": "51B900C07944660F6EC159C5FA118718010000E9F80D5CFE",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "18C620",
+          "on": "E9F3F1A301909090",
+          "off": "C5FA118718010000"
+        }
+      ]
+    },
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCB83F",
+          "on": "51B900009644660F6EC159C5FA114744E98D9CA0FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D54DC",
+          "on": "E95E635F01",
+          "off": "C5FA114744"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCB854",
+          "on": "41BFFFC99A3B4489BB88000000E9CA57A0FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5D1029",
+          "on": "E926A85F019090",
+          "off": "4401BB88000000"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCB866",
+          "on": "41BFFFC99A3B45897C243CE97839A0FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "5CF1E9",
+          "on": "E978C65F01",
+          "off": "45017C243C"
+        },
+        {
+          "offset": "1BCB876",
+          "on": "41BFFFC99A3B45897C2440E96D39A0FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "5CF1EE",
+          "on": "E983C65F01",
+          "off": "45017C2440"
+        }
+      ]
+    },
+    {
+      "name": "Fast Zombie Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCB886",
+          "on": "4181442450D0070000E95C35A0FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "5CEDEB",
+          "on": "E996CA5F01",
+          "off": "41FF442450"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Attack And 3x Throw &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BCB894",
+          "on": "FFC0B8FFC99A3B89476CE9EA41A0FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5CFA88",
+          "on": "E907BE5F01",
+          "off": "FFC089476C"
+        },
+        {
+          "offset": "1BCB8A3",
+          "on": "FFC0B80F00000089477CE99B42A0FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5CFB48",
+          "on": "E956BD5F01",
+          "off": "FFC089477C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly "
+  ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands® 3" Moder="AhmadCH" Cusa="CUSA08025" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite
+ shield+health">
+        <Cheatline>
+            <Offset>4C3287C</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-10-53-5C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="max mony">
+        <Cheatline>
+            <Offset>5183A82</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>48-83-C2-40</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite ammo">
+        <Cheatline>
+            <Offset>52957D4</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>4C-89-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="no reload [use ammo]">
+        <Cheatline>
+            <Offset>52957CD</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-87-B0-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite skill points">
+        <Cheatline>
+            <Offset>9A443A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-8E-60-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Grenades">
+        <Cheatline>
+            <Offset>12267C1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>4C-89-E7</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

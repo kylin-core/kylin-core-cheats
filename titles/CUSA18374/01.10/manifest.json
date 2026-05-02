@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18374",
+  "version": "01.10",
+  "name": "SWORD ART ONLINE Alicization Lycoris",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18374"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18374_01.10.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18374_01.10.json",
+      "size": 1748,
+      "sha256": "3c56d23b936556964285b4cc4ad61dcfc2f219c7bc1344a7a2f1855da0daffdf",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18374_01.10.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18374_01.10.shn",
+      "size": 1899,
+      "sha256": "dc348dffa13612c144d6a1f1daf52006265e0dd5940f4fde978b159c1e2700aa",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18374_01.10.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18374_01.10.mc4",
+      "size": 2540,
+      "sha256": "2f1eee926d80fa0560060e9ac8893d6dd345e00bac3690841691c1d98e4a77ad",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18374_01.10.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

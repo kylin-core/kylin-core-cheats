@@ -1,0 +1,43 @@
+{
+  "name": "Sakura wars",
+  "id": "CUSA16429",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17DF800",
+          "on": "B80025000090E96C4465FF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "E33C70",
+          "on": "E98BBB9A009090",
+          "off": "41898680000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Special Guage ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17DF800",
+          "on": "41C747780000C842E9BE9E5EFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "DC96C5",
+          "on": "E93661A10090",
+          "off": "C4C17A114778"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Q8despair"
+  ]
+}

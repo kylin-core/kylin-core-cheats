@@ -1,0 +1,48 @@
+{
+  "name": "Double Dragon Gaiden",
+  "id": "CUSA42936",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86D63800",
+          "on": "83782C0375088B480CE97963EEFA8988A0010000E96E63EEFA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81C49B81",
+          "on": "E97A9C110590",
+          "off": "8988A0010000"
+        },
+        {
+          "offset": "86D6382D",
+          "on": "8378580075088B480CE94C63EEFA8988A0010000E94163EEFA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81C49B81",
+          "on": "E9A79C1105",
+          "off": "E97A9C1105"
+        }
+      ]
+    },
+    {
+      "name": "MAX-cash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82BC6047",
+          "on": "8988F2000000",
+          "off": "8988F0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

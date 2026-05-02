@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prince of Persia: The Lost Crown" Moder="Wander FW9.00" Cusa="CUSA36582" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>847179D0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-28-F4-01-00-00-48-83-C4-08-E9-1B-6C-82-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Athra surge charge ">
+        <Cheatline>
+            <Offset>847173B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-E0-00-00-00-00-00-FA-43-E9-B1-82-51-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Currencies (on get)">
+        <Cheatline>
+            <Offset>84717850</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-44-C1-30-C7-40-14-9F-86-01-00-E9-2F-A8-D2-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Athra surge Cooldown">
+        <Cheatline>
+            <Offset>84717220</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-68-01-00-00-2A-87-06-BC-E9-51-2D-2F-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Arrows/Potions(on Shoot/Consume)">
+        <Cheatline>
+            <Offset>84716FD0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-44-C1-30-C6-40-14-0A-E9-02-BC-D2-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

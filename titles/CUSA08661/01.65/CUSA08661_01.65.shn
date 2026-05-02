@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="theHunter: Call of the Wild" Moder="Wander" Cusa="CUSA08661" Version="01.65" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>142A60D</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>89-74-C1-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="XP multiplier">
+        <Cheatline>
+            <Offset>18A2214</Offset>
+            <Section>0</Section>
+            <ValueOn>41-01-BD-08-03-00-00</ValueOn>
+            <ValueOff>41-89-BD-08-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Skill Points Multiplier">
+        <Cheatline>
+            <Offset>1A156A3</Offset>
+            <Section>0</Section>
+            <ValueOn>01-87-34-03-00-00</ValueOn>
+            <ValueOff>89-87-34-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Perk Points Multiplier">
+        <Cheatline>
+            <Offset>1A1567D</Offset>
+            <Section>0</Section>
+            <ValueOn>01-87-38-03-00-00</ValueOn>
+            <ValueOff>89-87-38-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Money Multiplier (On Buy)">
+        <Cheatline>
+            <Offset>19B0B85</Offset>
+            <Section>0</Section>
+            <ValueOn>01-82-C0-03-00-00</ValueOn>
+            <ValueOff>89-82-C0-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Consumables">
+        <Cheatline>
+            <Offset>18E4FFB</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-84-98-C0-13-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02560",
+  "version": "01.00",
+  "name": "SWORD ART ONLINE Re: Hollow Fragment",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02560"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02560_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02560_01.00.json",
+      "size": 1873,
+      "sha256": "52ee8f28f417ed42b62b48d52aba95e25791a8a4667204bd280d40d02df79cd4",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02560_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02560_01.00.shn",
+      "size": 1973,
+      "sha256": "ad3f572d2daf6193302245ee7b12bb75a885edd54c1c2f3661d88f00567dcd7d",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02560_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02560_01.00.mc4",
+      "size": 2648,
+      "sha256": "1da5f6330fdfecc1c713b70405837ad457c2d03d99510b746f135f64c8b02978",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02560_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

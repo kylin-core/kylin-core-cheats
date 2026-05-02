@@ -1,0 +1,27 @@
+{
+  "name": "Lost Artifacts Soulstone",
+  "id": "CUSA13717",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Recursos Infinitos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13B7DB0",
+          "on": "8B7C9120C7449020E7030000E96A690F7F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "804AE723",
+          "on": "E98896F080909090",
+          "off": "8B7C9120017C9020"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

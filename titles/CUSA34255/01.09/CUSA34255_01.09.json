@@ -1,0 +1,59 @@
+{
+  "name": "LEGO 2K Drive",
+  "id": "CUSA34255",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Turbo Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DB7DD0",
+          "on": "41C78424DC0600000000803FE992CB10FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EC4969",
+          "on": "E96234EF059090909090",
+          "off": "C4C17A118424DC060000"
+        }
+      ]
+    },
+    {
+      "name": "Grana Infinita - Ativar uma unica vez para pegar o valor e depois desative!",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DB7C10",
+          "on": "8B4604C747043F420F00E92C550AFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1E5D145",
+          "on": "E9C6AAF50590",
+          "off": "8B4604894704"
+        }
+      ]
+    },
+    {
+      "name": "Nivel Maximo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DB7EF0",
+          "on": "4839F7C7073F420F00E947520AFA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1E5D140",
+          "on": "E9ABADF505",
+          "off": "4839F78907"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

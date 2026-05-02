@@ -1,0 +1,22 @@
+{
+  "name": "Catmaze",
+  "id": "CUSA35217",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health + Coins keys",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C7A4A",
+          "on": "9090909090",
+          "off": "E8F12EE1FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

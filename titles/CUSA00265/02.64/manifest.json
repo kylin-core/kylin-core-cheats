@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00265",
+  "version": "02.64",
+  "name": "Minecraft",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00265"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00265_02.64.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00265_02.64.json",
+      "size": 4587,
+      "sha256": "70611c38ce57ad2be3504caccdc0377f0fe28afee94f9873a2cad5bf454702b7",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00265_02.64.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00265_02.64.shn",
+      "size": 5136,
+      "sha256": "57e170d555697d464fe9a1f2cfaa2a48db7deb070f86042229dab69dda294c66",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00265_02.64.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00265_02.64.mc4",
+      "size": 6872,
+      "sha256": "f5c159bbaa207263559ac132804a12bd369465642413bdcec5ebf35ac6d552e3",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00265_02.64.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

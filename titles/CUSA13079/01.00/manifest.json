@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA13079",
+  "version": "01.00",
+  "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA13079"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13079_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA13079_01.00.json",
+      "size": 1459,
+      "sha256": "816593ceb2d265c63adc4dbfc117337426cea72d30d449559e868da17c0e789e",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13079_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA13079_01.00.shn",
+      "size": 1515,
+      "sha256": "3e2ea162d0e1e56e0edb6422b0baa88d4cda736e2c2108ef5b5752d338f4c306",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13079_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA13079_01.00.mc4",
+      "size": 2028,
+      "sha256": "bda647e6053e5786bb6c285bbb4572589f3c195d163a2581115d5c46e93c8d55",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13079_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

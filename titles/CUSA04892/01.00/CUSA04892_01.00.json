@@ -1,0 +1,22 @@
+{
+  "name": "Mighty Morphin Power Rangers Mega Battle",
+  "id": "CUSA04892",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4D16E1",
+          "on": "909090909090",
+          "off": "FF9010050000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

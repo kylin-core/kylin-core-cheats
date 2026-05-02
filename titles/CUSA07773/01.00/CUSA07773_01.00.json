@@ -1,0 +1,59 @@
+{
+  "name": "Cursed Castilla",
+  "id": "CUSA07773",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DF800",
+          "on": "669CC5F92E4DF048B8000000000000084050F20F10042458C5FB1103669DE9587ADCFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A7272",
+          "on": "E98985230090909090",
+          "off": "C5F92E4DF0C5FB1103"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DF823",
+          "on": "B86300000041890683FB00E9017ADCFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1A722E",
+          "on": "E9F085230090",
+          "off": "41890683FB00"
+        }
+      ]
+    },
+    {
+      "name": "Max Score on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DF833",
+          "on": "B83F420F008901B0015DE9CB79DCFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1A7208",
+          "on": "E926862300",
+          "off": "8901B0015D"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla+Weysincha"
+  ]
+}

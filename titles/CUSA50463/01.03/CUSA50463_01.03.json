@@ -1,0 +1,38 @@
+{
+  "name": "Retro-Realms",
+  "id": "CUSA50463",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8069282A",
+          "on": "9090909090",
+          "off": "C5FA114740"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82BD7800",
+          "on": "C7402C0F270000E9E5E1E8FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80A659E7",
+          "on": "E9141E17029090909090",
+          "off": "01482C803DB3927E0200"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

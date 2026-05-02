@@ -1,0 +1,44 @@
+{
+  "name": "TimeSplitters",
+  "id": "CUSA49387",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "max-ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808078C000",
+          "on": "270F",
+          "off": "1515"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8080769878",
+          "on": "FFFFFF",
+          "off": "FFFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "MAX-AMMO-2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808078C0F8",
+          "on": "FFFF",
+          "off": "0505"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

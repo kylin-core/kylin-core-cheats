@@ -1,0 +1,103 @@
+{
+  "name": "Assassins Creed? Freedom Cry",
+  "id": "CUSA00416",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23EE018",
+          "on": "668983AA000000",
+          "off": "668993AA000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23E75A4",
+          "on": "C5FA1080E4000000",
+          "off": "C5FA1080E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money/Ammo/Consumables/Ship Ammo (On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "423B825",
+          "on": "8B4710807F0801750AB83F420F00E9DDD397FEB80F270000E9D3D397FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2BB8C10",
+          "on": "E9102C6801",
+          "off": "8B471029F0"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F9548B",
+          "on": "01F1",
+          "off": "29F1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ship Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "423B800",
+          "on": "483D70A29B04751283BF88010000007509C5FA108730010000C3C5FA108758010000C3",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "35088F0",
+          "on": "E90B2FD300909090",
+          "off": "C5FA108758010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Swivel Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EF9BAA",
+          "on": "44894840",
+          "off": "44897040"
+        }
+      ]
+    },
+    {
+      "name": "Max Cargo (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "423B844",
+          "on": "8B4F10B90F270000E9F1D697FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2BB8F3D",
+          "on": "E902296801",
+          "off": "8B4F1029F1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

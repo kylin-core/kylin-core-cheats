@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Slitterhead" Moder="Sondio" Cusa="CUSA47980" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Master Code (MC)">
+        <Cheatline>
+            <Offset>5EC48A0</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-8B-B0-D8-02-00-00-49-83-F9-00-0F-85-E0-00-00-00-49-83-FB-01-0F-85-D6-00-00-00-41-51-41-53-80-3D-D8-FF-FF-FF-01-75-23-49-BB-00-00-00-00-00-C0-62-40-4D-89-9E-18-07-00-00-49-C7-86-20-07-00-00-00-00-00-00-4D-89-9E-28-07-00-00-80-3D-AC-FF-FF-FF-01-75-0C-49-BB-00-00-00-00-80-87-C3-40-EB-0A-49-BB-00-00-00-00-00-00-F0-3F-4D-89-9E-40-0C-00-00-4D-89-9E-50-0C-00-00-80-3D-7F-FF-FF-FF-01-75-33-4D-8B-8E-88-01-00-00-4D-85-C9-74-27-4D-8B-09-4D-8B-99-40-03-00-00-4D-89-99-38-03-00-00-49-C7-81-70-03-00-00-00-00-00-00-49-C7-81-78-03-00-00-00-00-00-00-80-3D-43-FF-FF-FF-01-75-15-4D-8B-8E-D0-02-00-00-4D-8B-99-B0-0A-00-00-4D-89-99-A8-0A-00-00-80-3D-25-FF-FF-FF-01-75-0A-41-C6-86-44-0B-00-00-01-EB-08-41-C6-86-44-0B-00-00-00-41-5B-41-59-E9-FB-66-DE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Health (Enable MC)">
+        <Cheatline>
+            <Offset>5EC48BF</Offset>
+            <Section>0</Section>
+            <ValueOn>80-3D-D8-FF-FF-FF-00</ValueOn>
+            <ValueOff>80-3D-D8-FF-FF-FF-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill (Enable MC)">
+        <Cheatline>
+            <Offset>5EC48EB</Offset>
+            <Section>0</Section>
+            <ValueOn>80-3D-AC-FF-FF-FF-00</ValueOn>
+            <ValueOff>80-3D-AC-FF-FF-FF-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Weapon Health (Enable MC)">
+        <Cheatline>
+            <Offset>5EC4918</Offset>
+            <Section>0</Section>
+            <ValueOn>80-3D-7F-FF-FF-FF-00</ValueOn>
+            <ValueOff>80-3D-7F-FF-FF-FF-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Mana (Enable MC)">
+        <Cheatline>
+            <Offset>5EC4954</Offset>
+            <Section>0</Section>
+            <ValueOn>80-3D-43-FF-FF-FF-00</ValueOn>
+            <ValueOff>80-3D-43-FF-FF-FF-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Ignored by the Enemy (Enable MC)">
+        <Cheatline>
+            <Offset>5EC4972</Offset>
+            <Section>0</Section>
+            <ValueOn>80-3D-25-FF-FF-FF-00</ValueOn>
+            <ValueOff>80-3D-25-FF-FF-FF-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins">
+        <Cheatline>
+            <Offset>5EC499C</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-16-49-83-F8-01-75-20-49-83-F9-65-75-1A-49-83-FA-65-75-14-49-81-FB-06-02-00-00-75-0B-49-83-FD-00-75-05-BA-7F-96-98-00-89-17-5D-E9-9C-84-EE-79</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

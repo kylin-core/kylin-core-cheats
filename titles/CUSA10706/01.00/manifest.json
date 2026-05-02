@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10706",
+  "version": "01.00",
+  "name": "YAKUZA KIWAMI 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10706"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10706_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10706_01.00.json",
+      "size": 1652,
+      "sha256": "858bcc94cc87f87610ee06d1f348fed9d40523544957b1bfef26150fa2810a64",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10706_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10706_01.00.shn",
+      "size": 1593,
+      "sha256": "aa1ff813ea849daec5028ba09f1edde547cb8dedee899d99410bb0078ccfd652",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10706_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10706_01.00.mc4",
+      "size": 2136,
+      "sha256": "fde38ab547f898c68e7073852abd2357b49f4f994eeb6080746d3942b8bc0e9d",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10706_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

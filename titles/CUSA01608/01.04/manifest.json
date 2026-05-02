@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01608",
+  "version": "01.04",
+  "name": "Enter The Gungeon",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01608"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01608_01.04.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01608_01.04.json",
+      "size": 385,
+      "sha256": "48155d14f706238afdbb9a731e4c3bc7f17d9eb96ef30ddedd753f28401f3ac1",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01608_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01608_01.04.shn",
+      "size": 568,
+      "sha256": "5483f865869486130023fa12c3b1483d5976f88c425596f9cd5494f9fc1acc43",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01608_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01608_01.04.mc4",
+      "size": 768,
+      "sha256": "f75bdfe2d8def886a9cdafa593e221e49e6c47784a192604f6eacb084ce76949",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01608_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

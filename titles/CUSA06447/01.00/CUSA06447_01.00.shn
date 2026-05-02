@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Euro Fishing" Moder="PS4Guru" Cusa="CUSA06447" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Buy An Item Money Doubles">
+        <Cheatline>
+            <Offset>5D1F70</Offset>
+            <Section>0</Section>
+            <ValueOn>44-01-70-40-B9-01-00-00</ValueOn>
+            <ValueOff>44-29-70-40-B9-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Click On Gain XP Before Releasing Fish Click Off And On">
+        <Cheatline>
+            <Offset>61FEED</Offset>
+            <Section>0</Section>
+            <ValueOn>01-F3-83-7F-58-00-74-08</ValueOn>
+            <ValueOff>89-F3-83-7F-58-00-74-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

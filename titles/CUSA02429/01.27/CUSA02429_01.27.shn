@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Battlefield 1" Moder="Celogamez" Cusa="CUSA02429" Version="01.27" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="God Mode">
+        <Cheatline>
+            <Offset>3BE3DB0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F8-00-75-0F-C5-FA-10-43-20-C5-FA-11-43-1C-E9-79-41-C9-FD-C5-FA-11-43-1C-E9-6F-41-C9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite ammo">
+        <Cheatline>
+            <Offset>3BE38D0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-86-24-02-00-00-E7-E9-E9-2B-6D-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload/Grenades/Tank Cannon/Plane Missiles">
+        <Cheatline>
+            <Offset>3BE3920</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-20-02-00-00-E7-03-00-00-E9-71-3D-6D-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Damage For Tank">
+        <Cheatline>
+            <Offset>3BE3990</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F9-05-75-0C-C7-47-08-00-80-89-44-E9-86-0A-30-FD-C5-FA-11-4F-08-E9-7C-0A-30-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Damage For Plane (Disable For Tank)">
+        <Cheatline>
+            <Offset>3BE34E0</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F9-05-75-0C-C7-47-08-00-80-89-44-E9-36-0F-30-FD-C5-FA-11-4F-08-E9-2C-0F-30-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

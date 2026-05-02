@@ -1,0 +1,191 @@
+{
+  "name": "Wonder Boy Anniversary Collection",
+  "id": "CUSA32586",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master code",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "502050",
+          "on": "41534C8D1C074981FB36B67A030F84AA0000004981FBBCAA7A030F849D0000004981FBB8AA7A030F84900000004981FB7DB97A030F84830000004981FB7BB97A03747A4981FB79B97A0374714981FB77B97A0374684981FBBD1B3103745F4981FB99AB7A0374564981FB2DAB7A03744D4981FB52B97A0374444981FB86533103743BEB3940B60CEB3440B614EB2F6683C603EB2940B607EB2440B608EB1F40B605EB1A40B608EB1540B60AEB1040B601EB0B40B605EB0666BEE004EB00415B40883407C3",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16588E",
+          "on": "E9BDC73900",
+          "off": "40883407C3"
+        }
+      ]
+    },
+    {
+      "name": "wonder boy in monster land Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50206A",
+          "on": "746D90909090",
+          "off": "0F849D000000"
+        }
+      ]
+    },
+    {
+      "name": "wonder boy in monster land Infinite bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "502084",
+          "on": "745E90909090",
+          "off": "0F8483000000"
+        }
+      ]
+    },
+    {
+      "name": "wonder boy in monster land Infinite Turnado",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "502091",
+          "on": "7456",
+          "off": "747A"
+        }
+      ]
+    },
+    {
+      "name": "wonder boy in monster land Infinite Fire ball",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5020A3",
+          "on": "7449",
+          "off": "7468"
+        }
+      ]
+    },
+    {
+      "name": "wonder boy in monster land Infinite Thunder",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50209A",
+          "on": "7457",
+          "off": "7471"
+        }
+      ]
+    },
+    {
+      "name": "Wonder Boy Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "50205D",
+          "on": "747590909090",
+          "off": "0F84AA000000"
+        }
+      ]
+    },
+    {
+      "name": "Wonder Boy Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5020BE",
+          "on": "7442",
+          "off": "744D"
+        }
+      ]
+    },
+    {
+      "name": "Master Code for Monster Lair/monster world III/IV",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5031A0",
+          "on": "41534C8D1C084981FB0065310374459090909090904981FB7765310374364981FB7D653103742D4981FB8653310374244981FBBD1B3103741BEB1941B603EB1441B603EB0F41B60AEB0A41B603EB0541B60AEB00415B448834085BE997B7C4FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14E992",
+          "on": "E909483B00",
+          "off": "448834085B"
+        }
+      ]
+    },
+    {
+      "name": "WonderBoy Monster Lair Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5031D7",
+          "on": "740C",
+          "off": "741B"
+        }
+      ]
+    },
+    {
+      "name": "Monster Lair Infinite Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5031CE",
+          "on": "740B",
+          "off": "7424"
+        }
+      ]
+    },
+    {
+      "name": "Wonder Boy in Monster World III Infinite health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5031AD",
+          "on": "743B",
+          "off": "7445"
+        }
+      ]
+    },
+    {
+      "name": "Wonder boy in Monster World IV Max Crystals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5031C5",
+          "on": "7428",
+          "off": "742D"
+        }
+      ]
+    },
+    {
+      "name": "Wonder Boy in Monster World IV infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5031BC",
+          "on": "7422",
+          "off": "7436"
+        }
+      ]
+    },
+    {
+      "name": "Monster World II Infinite health (No need a Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "502D40",
+          "on": "41534C8D1C084981FB52B97A03415B750C40B6A040883408E92A2CC6FF408834080FB7F6E91E2CC6FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "165980",
+          "on": "E9BBD339009090",
+          "off": "408834080FB7F6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

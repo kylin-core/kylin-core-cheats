@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA24095",
+  "version": "01.01",
+  "name": "NINJA GAIDEN 3: Razors Edge",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA24095"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24095_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA24095_01.01.json",
+      "size": 1232,
+      "sha256": "db61f674aa9994ddde2d5d0d702e38fbb68905b54a6b7ff46694538ca0e9f9c2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24095_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA24095_01.01.shn",
+      "size": 1411,
+      "sha256": "7b75cc87b7016dedb947fcaecc68ab614e90ac7b3816265d9af48d5c008428c2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24095_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA24095_01.01.mc4",
+      "size": 1900,
+      "sha256": "3e82cb4bc2b6a43b3f70e50e58999d666fab045fa508455b48b4db1e8b0beffa",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24095_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "name": "Asterix & Obelix - XXXL",
+  "id": "CUSA34526",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode ( must be activated for [ MC ] Cheats )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F818",
+          "on": "803DB147D30001750F83BBC80000000175068B931001000083BBC800000001740E803D9147D300017505BA00000000899314010000E95A493CFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9241A6",
+          "on": "E96DB6C30490",
+          "off": "899314010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6293FD0",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6293FD1",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F971",
+          "on": "41C785441000000000FA44C4C17A108D44100000E9C5D039FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8FCA46",
+          "on": "E9262FC60490909090",
+          "off": "C4C17A108D44100000"
+        }
+      ]
+    },
+    {
+      "name": "Endless Power Move [ after hit or gain ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F98C",
+          "on": "41C785441000000000FA44C4C17A108544100000C4C17A118544100000E93CF539FB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8FEEE1",
+          "on": "E9A60AC60490909090",
+          "off": "C4C17A118544100000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score [ on gain ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F800",
+          "on": "415541BDFFC99A3B4489ABE8030000415DE9052B3CFB",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "922314",
+          "on": "E9E7D4C3049090",
+          "off": "4401B3E8030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score [ Battle - on gain ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F86B",
+          "on": "415049C7C03F420F00F3490F2AC0C4C17A1187D40200004158E9162B3CFB",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "922396",
+          "on": "E9D0D4C30490909090",
+          "off": "C4C17A1187D4020000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Lose Lives [ Battle ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F854",
+          "on": "C780D8020000000000008B80D8020000E92B9643FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "998E8E",
+          "on": "E9C169BC0490",
+          "off": "8B80D8020000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "948CE4",
+          "on": "C5FA118FD0020000",
+          "off": "C5FA1187D0020000"
+        }
+      ]
+    },
+    {
+      "name": "Special Moves Score [ Beat up Romans - Battle ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F8A7",
+          "on": "4503BE0404000041BFE70300004589BE04040000E9FCD443FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99CDB5",
+          "on": "E9ED2ABC049090",
+          "off": "4503BE04040000"
+        }
+      ]
+    },
+    {
+      "name": "Special Moves Score [ Throw rubber rings - Battle ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F93B",
+          "on": "41BFE70300004589BEDC020000458BBEDC020000E9A9D543FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99CEF6",
+          "on": "E9402ABC049090",
+          "off": "458BBEDC020000"
+        }
+      ]
+    },
+    {
+      "name": "Special Moves Score [ Hit a Thrower - Battle ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F8C2",
+          "on": "41BFE70300004589BEE8020000458BBEE8020000E9DAD643FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99CFAE",
+          "on": "E90F29BC049090",
+          "off": "458BBEE8020000"
+        }
+      ]
+    },
+    {
+      "name": "Special Moves Score [ Points with Romans ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F8DD",
+          "on": "41BFE70300004589BEE0020000458BBEE0020000E93FD743FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99D02E",
+          "on": "E9AA28BC049090",
+          "off": "458BBEE0020000"
+        }
+      ]
+    },
+    {
+      "name": "Special Moves Score [ Romans into the air ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F920",
+          "on": "41BFE70300004589BEE4020000458BBEE4020000E98ED743FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99D0C0",
+          "on": "E95B28BC049090",
+          "off": "458BBEE4020000"
+        }
+      ]
+    },
+    {
+      "name": "Special Moves Score [ Ultimate Attack - Battle ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F956",
+          "on": "41C786EC0200000000C642C4417A2CBEEC020000E9EBD743FB",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "99D151",
+          "on": "E90028BC0490909090",
+          "off": "C4417A2CBEEC020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score - Roman Games [ Hit the Figure - on gain ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F8F8",
+          "on": "41BEE70300004401B328020000E993C941FB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "97C296",
+          "on": "E95D36BE049090",
+          "off": "4401B328020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score - Roman Games [ Hit the Shield - on gain ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "555F90C",
+          "on": "41BEE70300004401B328020000E9E3D642FB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "98CFFA",
+          "on": "E90D29BD049090",
+          "off": "4401B328020000"
+        }
+      ]
+    },
+    {
+      "name": "Walk Speed x 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6293FD6",
+          "on": "00009644",
+          "off": "00000000"
+        },
+        {
+          "offset": "293F227",
+          "on": "C5FA1005A74D950390",
+          "off": "C5FA1084838C010000"
+        }
+      ]
+    },
+    {
+      "name": "Walk Speed x 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6293FDA",
+          "on": "0000E144",
+          "off": "00000000"
+        },
+        {
+          "offset": "293F227",
+          "on": "C5FA1005AB4D950390",
+          "off": "C5FA1084838C010000"
+        }
+      ]
+    },
+    {
+      "name": "Walk Speed x 4",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6293FD2",
+          "on": "00001645",
+          "off": "00000000"
+        },
+        {
+          "offset": "293F227",
+          "on": "C5FA1005A34D950390",
+          "off": "C5FA1084838C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

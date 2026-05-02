@@ -1,0 +1,59 @@
+{
+  "name": "Raiden IV x Mikado Remix",
+  "id": "CUSA35028",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83B0F",
+          "on": "9090",
+          "off": "8901"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86F2F",
+          "on": "909090909090",
+          "off": "FF89C8000000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "697800",
+          "on": "C780280100000F270000E996F0DEFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "48689F",
+          "on": "E95C0F210090",
+          "off": "FF8028010000"
+        },
+        {
+          "offset": "697822",
+          "on": "C7802C0100000F270000E965F0DEFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "486890",
+          "on": "E98D0F210090",
+          "off": "FF802C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

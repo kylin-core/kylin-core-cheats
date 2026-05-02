@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04099",
+  "version": "01.00",
+  "name": "Sniper Elite 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04099"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04099_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04099_01.00.json",
+      "size": 1204,
+      "sha256": "0029137093b8353a6204ffe3a56697ead7ec97d35388ca873ac7d92f83288c96",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04099_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04099_01.00.shn",
+      "size": 1589,
+      "sha256": "ccc403b8409b837d3b2fea67197615a94ba5fc971cc08395defcde2e15ca7d70",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04099_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04099_01.00.mc4",
+      "size": 2136,
+      "sha256": "67a879293bb86fd24f1d04f8f0163588b4cb8e0c96334e02fcc18bfa07f8c053",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04099_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

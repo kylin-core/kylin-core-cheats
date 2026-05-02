@@ -1,0 +1,222 @@
+{
+  "name": "Berserk and the Band of the Hawk",
+  "id": "CUSA07406",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A785A",
+          "on": "514981FA002009007507B90F27000089CA418997540C000059E90F1E88FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "229680",
+          "on": "E9D5E177009090",
+          "off": "4D89EC410F4DD3"
+        }
+      ]
+    },
+    {
+      "name": "Max Frenzy Mode after 1 hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A788B",
+          "on": "B900409C45660F6ED1C4C17A1195740C0000E9587A87FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "21F2F4",
+          "on": "E99285780090",
+          "off": "7604C5F828D3"
+        }
+      ]
+    },
+    {
+      "name": "Inf Frenzy Mode hold CIRCLE to Deplete",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A78A2",
+          "on": "5148B98883400008000000488B094881E1002000007512C5F828D0C5FA1197740C000059E9C0D888FFC5F828D3C5FA1197740C000059E9AED888FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "235185",
+          "on": "E91827770090",
+          "off": "7604C5F828D3"
+        }
+      ]
+    },
+    {
+      "name": "Max Death Blown after 1 hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7800",
+          "on": "BA00007A44660F6EC2E9083389FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "23AB0E",
+          "on": "E9EDCC7600909090",
+          "off": "66448B805A0C0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Death Blown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B89F",
+          "on": "90909090",
+          "off": "C5F25CC8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo Secondary Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "233EA3",
+          "on": "C5EA58D0",
+          "off": "C5EA5CD0"
+        }
+      ]
+    },
+    {
+      "name": "Inf Secondary Objects",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2340DE",
+          "on": "90909090",
+          "off": "C5FA110A"
+        }
+      ]
+    },
+    {
+      "name": "Endless Powerup Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "41596C",
+          "on": "90909090",
+          "off": "C5F25CC8"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown Berserk Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "234019",
+          "on": "C5FA114804",
+          "off": "C5FA114004"
+        }
+      ]
+    },
+    {
+      "name": "No cooldown Weapons / items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "233B15",
+          "on": "C5FA115E04",
+          "off": "C5FA116604"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money on Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1820D7",
+          "on": "01CA",
+          "off": "29CA"
+        }
+      ]
+    },
+    {
+      "name": "Gain Money after Shop",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18D6B5",
+          "on": "01C1",
+          "off": "29C1"
+        }
+      ]
+    },
+    {
+      "name": "Maximize Item after Level UP Slot1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A7800",
+          "on": "80C2FDE998B47EFF",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "192C99",
+          "on": "E9624B81009090",
+          "off": "888C18001D0000"
+        }
+      ]
+    },
+    {
+      "name": "Maximize Item after Level UP Slot2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A788B",
+          "on": "80C2FDE934B47EFF",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "192CC0",
+          "on": "E9C64B81009090",
+          "off": "888419011D0000"
+        }
+      ]
+    },
+    {
+      "name": "Maximize Item after Level UP Slot3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9A78B8",
+          "on": "80C2FDE92EB47EFF",
+          "off": "0000000000000000"
+        },
+        {
+          "offset": "192CE7",
+          "on": "E9CC4B81009090",
+          "off": "888419021D0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Enhancements Stones",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1929B7",
+          "on": "9090909090909090",
+          "off": "4188840F70360000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

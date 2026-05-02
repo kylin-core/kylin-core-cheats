@@ -1,0 +1,76 @@
+{
+  "name": "GeneRain",
+  "id": "CUSA12092",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AE6F2",
+          "on": "909090909090",
+          "off": "F3450F117F38"
+        }
+      ]
+    },
+    {
+      "name": "Velocidade Infinita ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AE572",
+          "on": "909090909090",
+          "off": "F3450F117F3C"
+        }
+      ]
+    },
+    {
+      "name": "Armas Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43A638",
+          "on": "90909090909090",
+          "off": "4189869C000000"
+        }
+      ]
+    },
+    {
+      "name": "Engrenagem Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13D7DB0",
+          "on": "0F84CE4F447FC74038E7030000E9764D447F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8081CB2F",
+          "on": "E97CB2BB8090909090",
+          "off": "0F8455020000894838"
+        }
+      ]
+    },
+    {
+      "name": "Nucleo Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13D7EC0",
+          "on": "0F84048F447FC74014E7030000E9018E447F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80820CCA",
+          "on": "E9F171BB8090909090",
+          "off": "0F8400010000894814"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

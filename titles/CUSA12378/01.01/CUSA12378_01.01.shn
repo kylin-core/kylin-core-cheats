@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hungry Shark® World" Moder="Wander FW9.00" Cusa="CUSA12378" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>7FC5C900</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-6C-00-00-00-40-E9-86-CB-5C-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max coins (on gain activate once alone)">
+        <Cheatline>
+            <Offset>7FE7BE70</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-16-8E-39-00-C7-00-FF-E0-F5-05-E9-45-89-39-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Experience (on second round)">
+        <Cheatline>
+            <Offset>7FE7BEC0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-A7-EE-4B-00-C7-40-2C-7F-96-98-00-E9-93-EE-4B-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health(underwater)">
+        <Cheatline>
+            <Offset>7FC5DE50</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FE-0D-75-0D-41-C7-87-88-00-00-00-00-00-48-43-EB-09-F3-45-0F-11-BF-88-00-00-00-E9-5F-9F-5C-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

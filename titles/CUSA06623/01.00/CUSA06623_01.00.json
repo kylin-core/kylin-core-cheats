@@ -1,0 +1,49 @@
+{
+  "name": "outlast2",
+  "id": "CUSA06623",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": " bandage  inf",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A8C16B",
+          "on": "909090909090",
+          "off": "8990E00C0000"
+        }
+      ]
+    },
+    {
+      "name": "Battery time inf",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1ABB4F8",
+          "on": "909090909090909090",
+          "off": "C4C17A118F1C8300"
+        }
+      ]
+    },
+    {
+      "name": "god mode(not close)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A8C0A8",
+          "on": "909090909090",
+          "off": "89B0D80C0000"
+        },
+        {
+          "offset": "1A3AB2F",
+          "on": "41898758690000",
+          "off": "418B8758690000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "cjwine"
+  ]
+}

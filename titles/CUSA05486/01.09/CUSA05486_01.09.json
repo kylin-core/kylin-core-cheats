@@ -1,0 +1,206 @@
+{
+  "name": "The Elder Scrolls - V - Skyrim (Special Edition)",
+  "id": "CUSA05486",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D1781F",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17820",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17821",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Enemy Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17822",
+          "on": "02",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17822",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "No Enemy Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17823",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "No Enemy Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17824",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13EB9F",
+          "on": "90909090",
+          "off": "41294610"
+        }
+      ]
+    },
+    {
+      "name": "Max Items on Move",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D17800",
+          "on": "B89F8601004189442410E91F4142FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "13B929",
+          "on": "E9D2BEBD01",
+          "off": "4189442410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Talentpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A6DA3B",
+          "on": "909090909090",
+          "off": "8888310A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Talentpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D1790F",
+          "on": "C680310A0000FF0FB698310A0000E9C800D5FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A679E3",
+          "on": "E927FF2A019090",
+          "off": "0FB698310A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D1780F",
+          "on": "B89F8601004189461085C0E9EFE242FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "145B08",
+          "on": "E9021DBD0190",
+          "off": "418B461085C0"
+        }
+      ]
+    },
+    {
+      "name": "Max Legendary",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D178D0",
+          "on": "53BBFF000000899CB0E000000089D85BE9AA53B2FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "83CC88",
+          "on": "E943AC4D019090",
+          "off": "8B84B0E0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D178E5",
+          "on": "66C74710FF000FB74710F6470880E9803E3CFE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "DB770",
+          "on": "E970C1C301909090",
+          "off": "0FB74710F6470880"
+        }
+      ]
+    },
+    {
+      "name": "Max Stats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D178F8",
+          "on": "4883F9167F07C7048E00401C46C5FA10048EE98A66A4FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "75DF94",
+          "on": "E95F995B01",
+          "off": "C5FA10048E"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

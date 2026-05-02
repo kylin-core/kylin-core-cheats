@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Doom 3" Moder="Celogamez_9.00" Cusa="CUSA16286" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC5D330</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-68-01-00-00-64-E9-FF-B2-88-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Endurence">
+        <Cheatline>
+            <Offset>7FC5EAC0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-8C-24-A8-28-00-00-E9-CF-41-88-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Infinite Ammo/No Reload">
+        <Cheatline>
+            <Offset>7FC5F540</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-84-24-34-10-00-00-E9-12-A3-8B-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Granades">
+        <Cheatline>
+            <Offset>7FC5DDA0</Offset>
+            <Section>0</Section>
+            <ValueOn>42-03-B4-FB-08-0A-00-00-E9-3E-40-87-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Flashlight Battery">
+        <Cheatline>
+            <Offset>7FC5E050</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-94-24-10-28-00-00-E9-E9-02-88-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

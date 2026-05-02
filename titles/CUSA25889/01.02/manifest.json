@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA25889",
+  "version": "01.02",
+  "name": "NINJA GAIDEN Σ",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA25889"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25889_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA25889_01.02.json",
+      "size": 2345,
+      "sha256": "4f183c0ba662330e57a70130acfe5d4276622c5e106a46f8d2c2a9f331eb82fd",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25889_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA25889_01.02.shn",
+      "size": 2778,
+      "sha256": "1d1dbbad5f04f17ac2a7b34b5b3c35c02dc31ebb47905b1338121a2f4a2ebaa7",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25889_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA25889_01.02.mc4",
+      "size": 3712,
+      "sha256": "cf723062b1a33cf8f118f89be4b5e7323c9549d7e146cb66fc75a3fe5df54a47",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25889_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

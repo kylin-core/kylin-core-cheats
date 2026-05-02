@@ -1,0 +1,70 @@
+{
+  "name": "River City Girls",
+  "id": "CUSA15883",
+  "version": "01.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81092340",
+          "on": "8B4760909090",
+          "off": "8B8738020000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8354B800",
+          "on": "8B873802000083F8017E05B801000000C3",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F61740",
+          "on": "E9BBA05E0290",
+          "off": "8B8738020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8354B813",
+          "on": "C7402CF0237449E9AD88C0FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "811540C7",
+          "on": "E947773F02",
+          "off": "C5FA11402C"
+        }
+      ]
+    },
+    {
+      "name": "Fast Lvl Up / EXP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8354B821",
+          "on": "0FAFDB89582C498B5718E98C9EB4FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "810956B5",
+          "on": "E967614B029090",
+          "off": "89582C498B5718"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

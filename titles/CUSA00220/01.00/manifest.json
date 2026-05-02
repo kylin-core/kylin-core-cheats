@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00220",
+  "version": "01.00",
+  "name": "Dragon Age™: Inquisition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00220"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00220_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00220_01.00.json",
+      "size": 1266,
+      "sha256": "73f54cab6b11bc6a5103c1a0ead0edd461a78bcfa948b06d4caa498592e70c89",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00220_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00220_01.00.shn",
+      "size": 1412,
+      "sha256": "3dfc2cf395729d9dab79a485a49799b123b55f7a9e21f3e25cb01db1972f17c6",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00220_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00220_01.00.mc4",
+      "size": 1900,
+      "sha256": "0aeff805d560fab8d66deace3de6f0b0f6584f62d653ec51663ef667c8d3c7c0",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00220_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

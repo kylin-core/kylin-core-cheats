@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA34766",
+  "version": "01.11",
+  "name": "Granblue Fantasy Link",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA34766"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34766_01.11.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA34766_01.11.json",
+      "size": 7419,
+      "sha256": "ad9f848cc0fe99758de4ead58b4dbb378aaf48b6b8a8e1467b8280b03177d024",
+      "cheatCount": 18,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34766_01.11.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA34766_01.11.shn",
+      "size": 7027,
+      "sha256": "480c53f759208db623f0da27b65ae704a4ab5f3cc0ba58019c39a43f668b4f94",
+      "cheatCount": 18,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34766_01.11.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA34766_01.11.mc4",
+      "size": 9388,
+      "sha256": "4e2b9cc5eacb86ee3145d3837e3b4af3a3789ca8222e25796e16ae271de06604",
+      "cheatCount": 18,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA34766_01.11.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

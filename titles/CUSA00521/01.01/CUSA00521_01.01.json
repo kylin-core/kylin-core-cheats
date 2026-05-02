@@ -1,0 +1,118 @@
+{
+  "name": "SteamWorld Dig",
+  "id": "CUSA00521",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44FE10",
+          "on": "4983F800750FC4C17A108424C8010000E99B8DBEFFC4C17A118424C8010000E98C8DBEFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38BB6",
+          "on": "E9557241009090909090",
+          "off": "C4C17A118424C8010000"
+        }
+      ]
+    },
+    {
+      "name": "Dinheiro Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44F6D0",
+          "on": "C781E40400000F270000E982FCC2FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7F35B",
+          "on": "E970033D0090",
+          "off": "0191E4040000"
+        }
+      ]
+    },
+    {
+      "name": "Nivel Maximo - Venda tesouros pelo menos 2 vezes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44FF30",
+          "on": "C780940500009F860100E9E7EEC2FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7EE20",
+          "on": "E90B113D0090",
+          "off": "898894050000"
+        }
+      ]
+    },
+    {
+      "name": "Luz Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34FFE",
+          "on": "90909090",
+          "off": "C5FA5C01"
+        }
+      ]
+    },
+    {
+      "name": "Perola Azul Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44FEC0",
+          "on": "C783E8040000E7030000E9550BC4FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "90A1E",
+          "on": "E99DF43B0090",
+          "off": "2983E8040000"
+        }
+      ]
+    },
+    {
+      "name": "Itens Infinitos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B3570",
+          "on": "909090",
+          "off": "FF4828"
+        }
+      ]
+    },
+    {
+      "name": "Poderes Infinitos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A5EB",
+          "on": "90909090",
+          "off": "C5F25CCB"
+        },
+        {
+          "offset": "3B4AC",
+          "on": "9090909090909090",
+          "off": "C5FA5C802C030000"
+        },
+        {
+          "offset": "399C8",
+          "on": "9090909090909090",
+          "off": "C5FA1183CC010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

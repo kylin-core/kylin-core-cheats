@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01004",
+  "version": "01.02",
+  "name": "Sleeping Dogs: Definitive Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01004"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01004_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01004_01.02.json",
+      "size": 2083,
+      "sha256": "66f4fe859a1f7ac76f82431d844f3027541fb7a448ea3ef3abf6fd1cbfc3ec23",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01004_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01004_01.02.shn",
+      "size": 1591,
+      "sha256": "65b15c90e0f093213312f85d6a606c3c23f7fb014569c8f3f2b0f9d39ad6aaa7",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01004_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01004_01.02.mc4",
+      "size": 2136,
+      "sha256": "63e05245fc9f7681f5d3ce5831c707fe8791facd911e83f5d107214eb8386cf5",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01004_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

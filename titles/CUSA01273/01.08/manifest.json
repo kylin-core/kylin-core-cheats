@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01273",
+  "version": "01.08",
+  "name": "Chasm",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01273"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01273_01.08.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01273_01.08.json",
+      "size": 1578,
+      "sha256": "05afe81146472cd3a8d26a795b9ccb0fecd33e0e30b4febed8d4a35953f79a2a",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01273_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01273_01.08.shn",
+      "size": 1517,
+      "sha256": "b767bfbdfb3180458896ead394154be4c19b27762a5e649066b78c86046609f0",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01273_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01273_01.08.mc4",
+      "size": 2028,
+      "sha256": "9029056bd1cd747faeae12fc1d55903edc3a13ecca669ee9f6d0a354490ed79a",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01273_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

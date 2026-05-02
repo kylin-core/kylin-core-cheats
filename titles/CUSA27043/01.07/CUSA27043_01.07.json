@@ -1,0 +1,167 @@
+{
+  "name": "Dead Island 2",
+  "id": "CUSA27043",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5BDB0",
+          "on": "4983FC00751341C7867801000000E02B45E9B20A4DF90F57C0C4C17A118678010000E9A10A4DF9",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F2C86F",
+          "on": "E93CF5B20690909090",
+          "off": "C4C17A118678010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Activate After Killing The First Zombie)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5BDB4",
+          "on": "7510",
+          "off": "7513"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5B7C0",
+          "on": "C7831401000000001643E959F4A0F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "246AC20",
+          "on": "E99B0B5F06909090",
+          "off": "C5FA118B14010000"
+        }
+      ]
+    },
+    {
+      "name": "Medkits Don't Decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "654CAF8",
+          "on": "9090909090",
+          "off": "E8A3C2FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6548DE3",
+          "on": "909090",
+          "off": "895620"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "241C110",
+          "on": "909090909090",
+          "off": "898704010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5BB10",
+          "on": "C787F80B00000000C842E9FD8DBAF9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2604914",
+          "on": "E9F7714506909090",
+          "off": "C5FA1187F80B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Gain (Disable To Keep Money At Max Or Don't Take It)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5B9A0",
+          "on": "4983FE0A740E43C744E72063000000E98ED0AEFD43894CE720E984D0AEFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6548A3D",
+          "on": "E95E2F5102",
+          "off": "43894CE720"
+        }
+      ]
+    },
+    {
+      "name": "Max Money On Sell (Sell N Disable)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5B710",
+          "on": "4983FE01740E43C744E7207F969800E91ED3AEFD43894CE720E914D3AEFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6548A3D",
+          "on": "E9CE2C5102",
+          "off": "43894CE720"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Fury On Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5B460",
+          "on": "4983F800750FC780800000000000803FE9EBDECAF9C5FA118080000000E9DEDECAF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2709358",
+          "on": "E903213506909090",
+          "off": "C5FA118080000000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A5B720",
+          "on": "C681B0000000014983FF1475004189C5E9A07ECEF9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27435CA",
+          "on": "E951813106909090909090",
+          "off": "C681B00000000144896878"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

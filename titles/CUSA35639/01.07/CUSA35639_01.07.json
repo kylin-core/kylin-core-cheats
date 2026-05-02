@@ -1,0 +1,54 @@
+{
+  "name": "The Last Faith",
+  "id": "CUSA35639",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health + Inf-Web",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EDF800",
+          "on": "837F640075088B470CE9F68BA7FD89472CE9EE8BA7FD",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9583FF",
+          "on": "E9FC735802",
+          "off": "89472C741B"
+        }
+      ]
+    },
+    {
+      "name": "MAX-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EDF818",
+          "on": "41C74630FFE0F505498B4620E9F3C7E3FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "D1C014",
+          "on": "E9FF371C02909090",
+          "off": "41894630498B4620"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80FDC126",
+          "on": "90909090",
+          "off": "41894630"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

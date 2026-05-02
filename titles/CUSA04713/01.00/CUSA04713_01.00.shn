@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Super Robot Wars OG The Moon Dwellers" Moder="squall3032" Cusa="CUSA04713" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Money Gain on spend">
+        <Cheatline>
+            <Offset>EB997</Offset>
+            <Section>0</Section>
+            <ValueOn>01-87-38-0A-00-00</ValueOn>
+            <ValueOff>89-87-38-0A-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="AP Gain on spend">
+        <Cheatline>
+            <Offset>F41DC</Offset>
+            <Section>0</Section>
+            <ValueOn>01-87-40-0A-00-00</ValueOn>
+            <ValueOff>89-87-40-0A-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="PP Gain on spend">
+        <Cheatline>
+            <Offset>12DD64</Offset>
+            <Section>0</Section>
+            <ValueOn>66-44-01-68-0A</ValueOn>
+            <ValueOff>66-44-89-68-0A</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

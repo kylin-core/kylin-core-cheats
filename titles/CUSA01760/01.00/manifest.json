@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01760",
+  "version": "01.00",
+  "name": "DARK SOULS II - Scholar of the First Sin",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01760"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01760_01.00.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01760_01.00.json",
+      "size": 4163,
+      "sha256": "19c026fce19bd2c86126d216b52fbe4c15566bd7643660a1dac878df845ea80f",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01760_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01760_01.00.shn",
+      "size": 4641,
+      "sha256": "b6a9c692be251898d6f863b24f7c34880c0ab0c43e35f0d355c1e16bf4cdc116",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01760_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01760_01.00.mc4",
+      "size": 6208,
+      "sha256": "a4c1d6baf2af5f8333d1b4b9aefd88e03a57e10416f359d34feec2a12011b1f4",
+      "cheatCount": 16,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01760_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

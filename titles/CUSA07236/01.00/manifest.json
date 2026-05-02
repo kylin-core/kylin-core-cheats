@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07236",
+  "version": "01.00",
+  "name": "Double Dragon 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07236"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07236_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07236_01.00.json",
+      "size": 720,
+      "sha256": "27cfec659c5c5d44d72cb0be749a39eadd33d2910adbc0c7f9308f835235a950",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07236_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07236_01.00.shn",
+      "size": 868,
+      "sha256": "facf9ba9edca694e36c6dfe1feef62a669805eb95bc3d9a21fba0891d236bc9e",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07236_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07236_01.00.mc4",
+      "size": 1176,
+      "sha256": "9e24ec897a8c89dd630fb0b99f7ff4b3b9bca1ce7149597d445573ab5e6ea78a",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07236_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

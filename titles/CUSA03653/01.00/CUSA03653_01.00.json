@@ -1,0 +1,91 @@
+{
+  "name": "Earth Defense Force 5",
+  "id": "CUSA03653",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6B800",
+          "on": "53C5FA108008020000C5FA11800C0200005BE9244B6BFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "520333",
+          "on": "E9C8B49400909090",
+          "off": "C5FA10800C020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wing Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6B867",
+          "on": "53C5FA109718020000C5FA11971C0200005BE9DCBB46FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D7452",
+          "on": "E91044B900909090",
+          "off": "C5FA11971C020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo + Rapid Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6B82E",
+          "on": "B8E70300004189842418090000B8E703000041898424D0010000B801000000418984240C030000B8000000004189842418030000E91E9D52FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "39557D",
+          "on": "E9AC62AD00909090",
+          "off": "4189842418090000"
+        }
+      ]
+    },
+    {
+      "name": "Max Armor Upgrades [Have to open each classes Armor screen]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6B87E",
+          "on": "41BE642E50094489B4B70C320000E947EB6FFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "56A3D0",
+          "on": "E9A9149000909090",
+          "off": "448BB4B70C320000"
+        }
+      ]
+    },
+    {
+      "name": "Max All Weapon Star Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E6B891",
+          "on": "49C7C70A0A0A0A498B8484F8AE0000498B8484FCAE0000E9EBC31FFF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "67C90",
+          "on": "E9FC3BE000909090",
+          "off": "498B8484F8AE0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Stray" Moder="Wander FW9.00" Cusa="CUSA24899" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite health">
+        <Cheatline>
+            <Offset>7FE9E660</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-FA-03-75-0C-C7-83-04-01-00-00-00-00-C8-42-EB-08-C5-FA-11-93-04-01-00-00-E9-22-9C-E7-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

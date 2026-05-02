@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Toukiden 2" Moder="DJFlameDat" Cusa="CUSA05797" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf HP">
+        <Cheatline>
+            <Offset>D7F800</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-86-8C-01-00-00-C4-C1-7A-11-86-90-01-00-00-C4-C1-7A-10-86-90-01-00-00-E9-8D-4B-5F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stam">
+        <Cheatline>
+            <Offset>D7F822</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-8C-01-00-00-C5-FA-11-83-A0-01-00-00-C5-FA-10-83-A0-01-00-00-E9-EB-D0-64-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Money (On Buy)">
+        <Cheatline>
+            <Offset>D7F841</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-94-C5-04-00-7F-96-98-00-E9-A2-DC-9B-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Items (On Sell need 2+)">
+        <Cheatline>
+            <Offset>D7F852</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-44-8F-02-63-00-E9-10-FD-6E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

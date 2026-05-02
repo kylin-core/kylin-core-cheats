@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA25502",
+  "version": "01.17",
+  "name": "Hot Wheels Unleashed",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA25502"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25502_01.17.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA25502_01.17.json",
+      "size": 1559,
+      "sha256": "382ab7c9987e46f52e649a7263f8c3a773818af363a068ee8e115348cabcb00c",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25502_01.17.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA25502_01.17.shn",
+      "size": 1569,
+      "sha256": "97378a359a90b4b3403efb8e44e4a9f7a89e91248c43dcb444908fdaf9414a7e",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25502_01.17.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA25502_01.17.mc4",
+      "size": 2112,
+      "sha256": "fa65d464235f144aca228e4c5a969042970b52aff4d725ee452953db8168312b",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25502_01.17.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="COD: Black Ops Cold War" Moder="DeathRGH" Cusa="CUSA15010" Version="01.27" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="All Client Godmode">
+        <Cheatline>
+            <Offset>1253e30</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Client Infinite Ammo">
+        <Cheatline>
+            <Offset>f03440</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Client Infinite Points">
+        <Cheatline>
+            <Offset>12e438e</Offset>
+            <Section>0</Section>
+            <ValueOn>89-89-24-5D-00-00</ValueOn>
+            <ValueOff>89-81-24-5D-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Client 1-Hit Kill">
+        <Cheatline>
+            <Offset>14f6bf7</Offset>
+            <Section>0</Section>
+            <ValueOn>29-C0-90</ValueOn>
+            <ValueOff>44-29-F8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Recoil">
+        <Cheatline>
+            <Offset>f3bc54</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-0E</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Gun Shake">
+        <Cheatline>
+            <Offset>e69ad9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>89-8C-F0-78-0E-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rapid Fire">
+        <Cheatline>
+            <Offset>e652e6</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>89-32</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Vehicle Godmode">
+        <Cheatline>
+            <Offset>12d72dc</Offset>
+            <Section>0</Section>
+            <ValueOn>89-81-90-03-00-00</ValueOn>
+            <ValueOff>89-81-90-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Objective Godmode">
+        <Cheatline>
+            <Offset>74b221</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-87-90-03-00-00</ValueOn>
+            <ValueOff>41-89-87-90-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Objective Godmode (OLD)">
+        <Cheatline>
+            <Offset>74b21e</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>44-29-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Movement Speed 500">
+        <Cheatline>
+            <Offset>751c3c0</Offset>
+            <Section>0</Section>
+            <ValueOn>67-5F-73-70-65-65-64-20-35-30-30-00</ValueOn>
+            <ValueOff>67-5F-73-70-65-65-64-20-35-30-30-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Movement Speed 1000">
+        <Cheatline>
+            <Offset>751c3c0</Offset>
+            <Section>0</Section>
+            <ValueOn>67-5F-73-70-65-65-64-20-31-30-30-30-00</ValueOn>
+            <ValueOff>67-5F-73-70-65-65-64-20-31-30-30-30-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Movement Speed">
+        <Cheatline>
+            <Offset>751c3c0</Offset>
+            <Section>0</Section>
+            <ValueOn>72-65-73-65-74-20-67-5F-73-70-65-65-64-00</ValueOn>
+            <ValueOff>72-65-73-65-74-20-67-5F-73-70-65-65-64-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Give Porters X2 Ray Gun">
+        <Cheatline>
+            <Offset>ad38380</Offset>
+            <Section>0</Section>
+            <ValueOn>D7-01-00-00-00-00-00-00</ValueOn>
+            <ValueOff>D7-01-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Give CRBR-S">
+        <Cheatline>
+            <Offset>ad38380</Offset>
+            <Section>0</Section>
+            <ValueOn>03-00-00-00-00-00-00-00</ValueOn>
+            <ValueOff>03-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Give RAI K-84">
+        <Cheatline>
+            <Offset>ad38380</Offset>
+            <Section>0</Section>
+            <ValueOn>3A-00-00-00-00-00-00-00</ValueOn>
+            <ValueOff>3A-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Force Start Match">
+        <Cheatline>
+            <Offset>751c3c0</Offset>
+            <Section>0</Section>
+            <ValueOn>6C-6F-62-62-79-5F-73-74-61-72-74-67-61-6D-65-00</ValueOn>
+            <ValueOff>6C-6F-62-62-79-5F-73-74-61-72-74-67-61-6D-65-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Restart Match">
+        <Cheatline>
+            <Offset>751c3c0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-61-73-74-5F-72-65-73-74-61-72-74-00</ValueOn>
+            <ValueOff>66-61-73-74-5F-72-65-73-74-61-72-74-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disconnect">
+        <Cheatline>
+            <Offset>751c3c0</Offset>
+            <Section>0</Section>
+            <ValueOn>64-69-73-63-6F-6E-6E-65-63-74-00</ValueOn>
+            <ValueOff>64-69-73-63-6F-6E-6E-65-63-74-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Draw Lobby Debug">
+        <Cheatline>
+            <Offset>81bc29</Offset>
+            <Section>0</Section>
+            <ValueOn>EB</ValueOn>
+            <ValueOff>75</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

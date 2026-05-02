@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA13285",
+  "version": "01.02",
+  "name": "Hollow Knight",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA13285"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13285_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA13285_01.02.json",
+      "size": 846,
+      "sha256": "89a4e2989cf09c42ad3652ea691632609d1f5b260d3798247886248fd279d31f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13285_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA13285_01.02.shn",
+      "size": 893,
+      "sha256": "f68ff6cccf224a5312fe2cb93c8c9c64828aa7eeb658b8c29e43d6e15c41e249",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13285_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA13285_01.02.mc4",
+      "size": 1196,
+      "sha256": "4ef5dc89cddd491ea05e7b1d8131cd17fe464a8d84ac6e95998cd35ed3421199",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13285_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

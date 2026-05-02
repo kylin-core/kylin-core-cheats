@@ -1,0 +1,139 @@
+{
+  "name": "Have a Nice Death",
+  "id": "CUSA43438",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9B8C0",
+          "on": "817B58A02E48BC7510C5FA104334C5FA114330E979D07C7F90837B5C0275EFEBE8",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8126894C",
+          "on": "E96F2F8380",
+          "off": "C5FA114330"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Soulary/Ingots/Prismium/Curse-Reroll/Anti-Penalty",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9BBD0",
+          "on": "C740103F420F00488B3B83BFE000000000E91ECF0D7F",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B78AFD",
+          "on": "E9CE30F2809090",
+          "off": "44297010488B3B"
+        },
+        {
+          "offset": "1A9BA70",
+          "on": "C740103F420F00488B3B83BFE000000000E996CC0D7F",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B78715",
+          "on": "E95633F2809090",
+          "off": "44017010488B3B"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Frenzy On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9B900",
+          "on": "C7475800001643E908CCA57F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "814F850F",
+          "on": "E9EC335A80",
+          "off": "C5F8134758"
+        }
+      ]
+    },
+    {
+      "name": "Max Frenzy (Hit Enemy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9B950",
+          "on": "41C7475C00004843E902C5A57F90",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "814F7E59",
+          "on": "E9F23A5A8090",
+          "off": "C4C17A114758"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9B7E0",
+          "on": "C5FA10433CC5FA114338E99D0A227F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80CBC287",
+          "on": "E954F5DD80",
+          "off": "C5FA114338"
+        }
+      ]
+    },
+    {
+      "name": "Gold Anima Don't Decrease",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9F43F1",
+          "on": "90909090",
+          "off": "41FF4F5C"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Levels",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A9BAF0",
+          "on": "01CA41C746243F420F00E9F3CA1B7F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80C585EC",
+          "on": "E9FF34E48090",
+          "off": "01CA41895624"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9F807D",
+          "on": "909090909090",
+          "off": "C4C17A11462C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

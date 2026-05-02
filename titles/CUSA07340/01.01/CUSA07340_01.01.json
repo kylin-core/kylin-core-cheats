@@ -1,0 +1,247 @@
+{
+  "name": "Dragon\\'s Dogma: Dark Arisen",
+  "id": "CUSA07340",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F867",
+          "on": "C5FA104010C5FA11400CE9184B0CFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B34389",
+          "on": "E9D9B4F300",
+          "off": "C5FA10400C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Pawn Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F876",
+          "on": "C5FA104010C5FA11400CE96D4C0CFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B344ED",
+          "on": "E984B3F300",
+          "off": "C5FA10400C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F84A",
+          "on": "C5FA1080B0020000F30F5880B4020000C5FA1180AC020000E9684B0CFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B343C7",
+          "on": "E97EB4F300909090",
+          "off": "C5FA1080AC020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Pawn Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F885",
+          "on": "C5FA1081B0020000F30F5881B4020000C5FA1181AC020000E9557668FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F6EEF",
+          "on": "E991899701909090",
+          "off": "C5FA1081AC020000"
+        }
+      ]
+    },
+    {
+      "name": "Player/Pawn Level Up on XP Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F835",
+          "on": "418BB424CC0200004189B424C8020000E9881E92FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3916CA",
+          "on": "E966E16D01909090",
+          "off": "4101B424C8020000"
+        }
+      ]
+    },
+    {
+      "name": "One/Two Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F946",
+          "on": "C7400C00000000C5FA10400CE98459FFFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "A652D6",
+          "on": "E96BA60001",
+          "off": "C5FA10400C"
+        }
+      ]
+    },
+    {
+      "name": "Player/Pawn 0 Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F8B9",
+          "on": "41C786AC03000000000000C4C17A1086AC030000E95F79ACFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "537228",
+          "on": "E98C86530190909090",
+          "off": "C4C17A1186AC030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F938",
+          "on": "66BB63006641895D1AE92881ACFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "537A69",
+          "on": "E9CA7E5301",
+          "off": "6641895D1A"
+        }
+      ]
+    },
+    {
+      "name": "x2 Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "537A5F",
+          "on": "4401FB",
+          "off": "4429FB"
+        }
+      ]
+    },
+    {
+      "name": "Max RC on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F957",
+          "on": "B8FFE0F505898750030000E94C2392FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "391CAD",
+          "on": "E9A5DC6D0190",
+          "off": "898750030000"
+        }
+      ]
+    },
+    {
+      "name": "x2 RC on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "391CA8",
+          "on": "01F0",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F8F5",
+          "on": "B8FFE0F50589874C030000E9EE2392FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "391CED",
+          "on": "E903DC6D0190",
+          "off": "89874C030000"
+        }
+      ]
+    },
+    {
+      "name": "x2 Gold on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "391CE8",
+          "on": "01F0",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "Player/Pawn Max Vocation Rank on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F8E3",
+          "on": "B809000000438984BED0020000E9CB8E16FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BD87B8",
+          "on": "E92671E900909090",
+          "off": "438984BED0020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Discipline on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A6F927",
+          "on": "B83F420F0041898648030000E92A9408FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "AF8D5B",
+          "on": "E9C76BF7009090",
+          "off": "41298648030000"
+        }
+      ]
+    },
+    {
+      "name": "x2 Discipline on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AF8D5B",
+          "on": "41018648030000",
+          "off": "41298648030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

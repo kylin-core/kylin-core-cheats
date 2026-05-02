@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00781",
+  "version": "01.00",
+  "name": "WWE 2K15",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00781"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00781_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00781_01.00.json",
+      "size": 916,
+      "sha256": "153d62c9205cce3b2dc4588852e979a9be51c5fe73eac1fe8b6ba027f841c9cc",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00781_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00781_01.00.shn",
+      "size": 966,
+      "sha256": "84597a86796bd97317e10c3a25cec316b726ece42f5bf60826c5bdbfa66eaab5",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00781_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00781_01.00.mc4",
+      "size": 1304,
+      "sha256": "ef05a25833b3affdea91652e05e72527d26dc6328effe55ee37c79d18f6f2043",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00781_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

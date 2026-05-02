@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12982",
+  "version": "01.02",
+  "name": "MediEvil",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12982"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12982_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12982_01.02.json",
+      "size": 1282,
+      "sha256": "6d92777137e1bef39b29d8e88165e2a13615bad4916e8fb9dd18cc7c9604ae6b",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12982_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12982_01.02.shn",
+      "size": 1529,
+      "sha256": "996b36636b059bb523877902fc37fa89e7242eef03c3bfda2a55c384e2214302",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12982_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12982_01.02.mc4",
+      "size": 2048,
+      "sha256": "32a5a6db14e109072fd4912716c97d7c1180c5e937184d5f51d78cc5136fa6b8",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12982_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

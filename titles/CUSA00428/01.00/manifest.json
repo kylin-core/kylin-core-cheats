@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00428",
+  "version": "01.00",
+  "name": "Toy Soldiers War Chest",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00428"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00428_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00428_01.00.json",
+      "size": 867,
+      "sha256": "c127ffe8b2ec4fd758d08e09955bf263e39c717e0c46ce3c2d037ee8e29a9791",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00428_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00428_01.00.shn",
+      "size": 918,
+      "sha256": "f483dd07487d4c758c34f78c6b2674322925569eb4c368266b1f5ab2e09e7ebe",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00428_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00428_01.00.mc4",
+      "size": 1240,
+      "sha256": "9b92a753574ed41f5947a247a23c3618aaa4ba19428fc2a2a8d79c9141ea9b63",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00428_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

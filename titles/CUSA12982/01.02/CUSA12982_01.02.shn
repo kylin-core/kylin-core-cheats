@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MediEvil" Moder="Saso" Cusa="CUSA12982" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Health / Gold">
+        <Cheatline>
+            <Offset>4C6D000</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-7C-0B-04-2C-01-00-00-75-0D-BF-2C-01-00-00-41-89-3C-0B-48-83-C1-04-41-81-7C-0B-04-05-01-00-00-75-12-BF-60-B7-47-00-41-89-3C-0B-48-83-C1-04-E9-7B-D3-E0-FB-41-89-3C-0B-48-83-C1-04-E9-6E-D3-E0-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Shield / Daggers / Bow">
+        <Cheatline>
+            <Offset>4C6D100</Offset>
+            <Section>0</Section>
+            <ValueOn>83-3C-3A-0B-75-0A-C6-44-3A-04-63-C5-F8-10-04-3A-83-3C-3A-01-75-0A-C6-44-3A-04-96-C5-F8-10-04-3A-83-3C-3A-0E-75-0F-C6-44-3A-04-C8-C5-F8-10-04-3A-E9-E0-D5-E0-FB-C5-F8-10-04-3A-E9-D6-D5-E0-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

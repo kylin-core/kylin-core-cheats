@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA39420",
+  "version": "01.04",
+  "name": "Hollow Knight Silksong",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA39420"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA39420_01.04.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA39420_01.04.json",
+      "size": 2899,
+      "sha256": "dd4235aa71f5151bda10846d5f514b85fd05dd5bdf3eb7cb720702a1c0e6fd79",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA39420_01.04.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA39420_01.04.shn",
+      "size": 2529,
+      "sha256": "4ca49259cee09a3dabc73c81153930155f2d0110c4085a37609ef648e6499680",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA39420_01.04.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA39420_01.04.mc4",
+      "size": 3392,
+      "sha256": "65f8fddab71929224d57b0375b37f78e85e75dc7863b53ccaaca44222d34e66f",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA39420_01.04.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

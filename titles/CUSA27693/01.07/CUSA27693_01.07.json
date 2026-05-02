@@ -1,0 +1,59 @@
+{
+  "name": "Tank Mechanic Simulator",
+  "id": "CUSA27693",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18B3DB0",
+          "on": "C78310010000FFC99A3BE9CA01C67E526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80513F83",
+          "on": "E928FE398190",
+          "off": "89B310010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Reputation Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18B3DD3",
+          "on": "41BDE80300004489A814010000E95E23D47E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805F613C",
+          "on": "E992DC2B819090",
+          "off": "448BA814010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Crafting Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18B3DE5",
+          "on": "41BF0F2700004489B818010000E982A9DF7E",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806AE772",
+          "on": "E96E5620819090",
+          "off": "448BB818010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

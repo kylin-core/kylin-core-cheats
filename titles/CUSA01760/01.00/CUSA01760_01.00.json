@@ -1,0 +1,207 @@
+{
+  "name": "DARK SOULS II - Scholar of the First Sin",
+  "id": "CUSA01760",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077847",
+          "on": "C781F005000001000000",
+          "off": "C781F005000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077808",
+          "on": "418B8778010000",
+          "off": "90909090909090"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077806",
+          "on": "7513",
+          "off": "7515"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077829",
+          "on": "663D20660F84376F31FEC5FA1188B4010000E92A6F31FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38E6E7",
+          "on": "E93D91CE019090909090",
+          "off": "C5FA1188B4010000EB79"
+        }
+      ]
+    },
+    {
+      "name": "Inf Spells",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E0CC4",
+          "on": "4189C590",
+          "off": "440F4FE8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "107CDF9",
+          "on": "7231",
+          "off": "7631"
+        },
+        {
+          "offset": "107CE11",
+          "on": "909090",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "Inf Shop Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1ED0DE",
+          "on": "9090909090909090",
+          "off": "4528B4C7F38FFDFF"
+        },
+        {
+          "offset": "1ED119",
+          "on": "9090909090909090",
+          "off": "4528B4C7F38FFDFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DF840",
+          "on": "9090909090",
+          "off": "C5FA114320"
+        }
+      ]
+    },
+    {
+      "name": "Inf Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "403C50",
+          "on": "909090",
+          "off": "0F46C8"
+        },
+        {
+          "offset": "403B9E",
+          "on": "8987EC000000",
+          "off": "898FEC000000"
+        }
+      ]
+    },
+    {
+      "name": "Pass Through Any Door",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "207788E",
+          "on": "C7822C06000001000000",
+          "off": "C7822C06000000000000"
+        }
+      ]
+    },
+    {
+      "name": "No Souls loss Upon Death",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AC503",
+          "on": "90909090909090909090",
+          "off": "C780EC00000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Memory Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "403BCF",
+          "on": "909090909090",
+          "off": "8987F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Memory Souls to 125",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "403BCF",
+          "on": "89B7F4000000",
+          "off": "8987F4000000"
+        }
+      ]
+    },
+    {
+      "name": "Speed Hack 1.25",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077870",
+          "on": "C783B00200000000A03F",
+          "off": "C783B00200000000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Hack 1.50",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077870",
+          "on": "C783B00200000000C03F",
+          "off": "C783B00200000000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Hack 2.00",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2077870",
+          "on": "C783B002000000000040",
+          "off": "C783B00200000000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

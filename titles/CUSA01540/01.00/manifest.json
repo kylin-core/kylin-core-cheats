@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01540",
+  "version": "01.00",
+  "name": "Wolfenstein®: The Old Blood",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01540"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01540_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01540_01.00.json",
+      "size": 1931,
+      "sha256": "272f975f1a8e3cf4de972ed9a448c8a99764520b4f55a5a677718c036631a49e",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01540_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01540_01.00.shn",
+      "size": 1791,
+      "sha256": "e8a4365839fa05946b762e5d7d0908f4e12188da0d4665a16d4d7feee8831161",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01540_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01540_01.00.mc4",
+      "size": 2392,
+      "sha256": "1aee38607e6d46c34a2bf27f61244929768abb9325c8c48fc1abbf7db46b5642",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01540_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "L.A. Noire",
+  "id": "CUSA09172",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18C7000",
+          "on": "C4C17A1087D40B0000C4C17A1187D80B0000C4C17A1087D80B0000E9312868FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F49848",
+          "on": "E9B3D7970090909090",
+          "off": "C4C17A1087D80B0000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BAFDA8",
+          "on": "9090909090909090",
+          "off": "C5FA5805B433A200"
+        }
+      ]
+    },
+    {
+      "name": "Max Intuition",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1CDFF00",
+          "on": "05000000",
+          "off": "05000000"
+        },
+        {
+          "offset": "18C7040",
+          "on": "4150448B05B78E41004489412C8B512C41584939D4E96C0432FF",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BE74C0",
+          "on": "E97BFBCD0090",
+          "off": "8B512C4939D4"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Lies Of P",
+  "id": "CUSA36848",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill/Stamina/Fable/Legion (MASTERCODE/MUST BE ON",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFDB0",
+          "on": "4383BCFDFC0000000C751443894CFD0CE9AD03BDFA43894CFD0CE9A303BDFA4983FB0C750A43894CFD0CE99303BDFA4983FF05750A43894CFD0CE98303BDFA4983FF0A750A43894CFD0CE97303BDFA4983FF1475C043894CFD0CE96303BDFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15B016D",
+          "on": "E93EFC4205",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (hold L1 T Max)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFDBB",
+          "on": "43897CFD0C",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFDD5",
+          "on": "4F897CFD0C",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFDE5",
+          "on": "438B4CFD0C",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFDF5",
+          "on": "43897CFD0C",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Legion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFE05",
+          "on": "43897CFD0C",
+          "off": "43894CFD0C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Pick Up (x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFA30",
+          "on": "498B3FC74740620000008B7740E9A812C4FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1620CE4",
+          "on": "E947ED3B0590",
+          "off": "498B3F8B7740"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFB60",
+          "on": "0F83B4D3C4FAC74340640000008B7340E96BD3C4FA",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "162CEDB",
+          "on": "E9802C3B05",
+          "off": "73438B7340"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Sharpness Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DF6E0",
+          "on": "B8204E0000418985DC000000E93F08C5FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "162FF29",
+          "on": "E9B2F73A059090",
+          "off": "418985DC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ergo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DF910",
+          "on": "B9FFC99A3B8988A4000000E92E03E9FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "186FC48",
+          "on": "E9C3FC160590",
+          "off": "8988A4000000"
+        }
+      ]
+    },
+    {
+      "name": "Zero Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69DFD00",
+          "on": "0F85D3E2D9FA4883FE457507C7470C000000008B470CE9C2E2D9FA",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "177DFD8",
+          "on": "E9231D2605",
+          "off": "75058B470C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

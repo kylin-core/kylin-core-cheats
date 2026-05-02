@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA15090",
+  "version": "01.00",
+  "name": "Need for Speed™ Heat",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA15090"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15090_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA15090_01.00.json",
+      "size": 1219,
+      "sha256": "9615325d4b7d477ddb670ce8f4c802792aa9050685594257cf18a579357c9abc",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15090_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA15090_01.00.shn",
+      "size": 1370,
+      "sha256": "50556c246a06e98a77ca4121b85b01521e3ba70a5b349e4211accea01f4b38be",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15090_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA15090_01.00.mc4",
+      "size": 1836,
+      "sha256": "f313aba9c30524169bd5b16359d04fe5b1c77cc60cb88ae5ea31dcfa80e02472",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15090_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

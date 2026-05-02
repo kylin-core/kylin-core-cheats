@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DeadCraft" Moder="Sondio & The Fallen One" Cusa="CUSA29850" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Health (MC)">
+        <Cheatline>
+            <Offset>63F3B73</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-F8-00-7F-0F-EB-18-41-C7-87-00-01-00-00-00-00-00-00-EB-0B-41-C7-87-F8-00-00-00-00-00-EB-43-49-83-BF-78-02-00-00-00-E9-C4-04-7B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Two Hit Kill (Enable MC)">
+        <Cheatline>
+            <Offset>63F3B79</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>EB-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Stamina">
+        <Cheatline>
+            <Offset>63F3BE7</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-83-68-04-00-00-89-83-64-04-00-00-E9-98-FE-86-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items x10 On Get">
+        <Cheatline>
+            <Offset>63F3BFF</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-E5-C7-07-0A-00-00-00-E9-89-4C-BA-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items x99 On Use">
+        <Cheatline>
+            <Offset>63F3C13</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-E5-C7-07-63-00-00-00-E9-85-4C-BA-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Thirst">
+        <Cheatline>
+            <Offset>63F3C27</Offset>
+            <Section>0</Section>
+            <ValueOn>50-8B-83-90-04-00-00-89-83-8C-04-00-00-58-E9-51-2A-87-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Hungry">
+        <Cheatline>
+            <Offset>63F3C40</Offset>
+            <Section>0</Section>
+            <ValueOn>50-8B-83-7C-04-00-00-89-83-78-04-00-00-58-E9-08-28-87-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>63F3C59</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-7F-96-98-00-E9-2E-69-BA-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Skill Points">
+        <Cheatline>
+            <Offset>63F3C69</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-FF-E0-F5-05-E9-9B-91-B8-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Fuel">
+        <Cheatline>
+            <Offset>63F3C79</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-D8-00-00-00-00-40-9C-46-E9-2A-6F-8F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

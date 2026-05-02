@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00069",
+  "version": "01.00",
+  "name": "Rayman Legends",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00069"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00069_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00069_01.00.json",
+      "size": 668,
+      "sha256": "548c2ef98dfd50e97963a73e45563b3128da3d82943b8f941e07b1934b541001",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00069_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00069_01.00.shn",
+      "size": 883,
+      "sha256": "096efa8212ba264f822af7d91d566480b89b04093226095bd97df6327a27981e",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00069_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00069_01.00.mc4",
+      "size": 1196,
+      "sha256": "610beb0afadc6201b3ed39a9e1822b24d26534e13f9e91f0b47984a19d7a8f9a",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00069_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

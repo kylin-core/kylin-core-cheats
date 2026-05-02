@@ -1,0 +1,87 @@
+{
+  "name": "Okami HD",
+  "id": "CUSA08364",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "INF HEALTH",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36C6C9",
+          "on": "89C9",
+          "off": "39D1"
+        },
+        {
+          "offset": "36C6CF",
+          "on": "909090",
+          "off": "668910"
+        }
+      ]
+    },
+    {
+      "name": "INF INK",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DD1A0",
+          "on": "909090",
+          "off": "895008"
+        }
+      ]
+    },
+    {
+      "name": "NEVER LOSE INK POWER",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DD17A",
+          "on": "909090",
+          "off": "894808"
+        }
+      ]
+    },
+    {
+      "name": "INF UPGRADE POINTS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "366B67",
+          "on": "4101D9",
+          "off": "4129D9"
+        },
+        {
+          "offset": "366DA7",
+          "on": "4101DA",
+          "off": "4129DA"
+        }
+      ]
+    },
+    {
+      "name": "MAX COINS ON PICKUP / SHOP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DCA21",
+          "on": "89D2",
+          "off": "39C2"
+        }
+      ]
+    },
+    {
+      "name": "MAX DEMON FANGS ON PICK UP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DC8E7",
+          "on": "89DB",
+          "off": "39C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

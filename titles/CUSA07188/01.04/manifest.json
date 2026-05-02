@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07188",
+  "version": "01.04",
+  "name": "EP0290-CUSA07188_00-BULLETSTORMFC000",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07188"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07188_01.04.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07188_01.04.json",
+      "size": 868,
+      "sha256": "fff37e1cc1b6fd2eb4ca8b798fc67be011932f605b0bd81638f478bc5dbb683d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07188_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07188_01.04.shn",
+      "size": 1084,
+      "sha256": "4ce12f3d4d750e673b4bfd4e84c28ea4d32a2f92b67834b249f9ea0b0a924aca",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07188_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07188_01.04.mc4",
+      "size": 1452,
+      "sha256": "3835d2ccc5c667f4bea1e663303e5d3965d1d10fd35f5f5e73f75b8eff13ccc1",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07188_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

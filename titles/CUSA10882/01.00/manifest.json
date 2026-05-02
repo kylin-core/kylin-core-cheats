@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10882",
+  "version": "01.00",
+  "name": "Shining Resonance Refrain",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10882"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10882_01.00.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10882_01.00.json",
+      "size": 9095,
+      "sha256": "eca6c47be1621354f014361c6e051b1a6b807c8d9a6e71bb0117c4192169415f",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10882_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10882_01.00.shn",
+      "size": 8808,
+      "sha256": "3c5379549526086e084373249a29ff24e612bbfc2a24095e2342e4f264f3f8ff",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10882_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10882_01.00.mc4",
+      "size": 11756,
+      "sha256": "7611fbd7e00724f6010d89a3e94c857ef79062bf3eb44363c5e5e5c60f274f49",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10882_01.00.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

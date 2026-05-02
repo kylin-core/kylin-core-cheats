@@ -1,0 +1,171 @@
+{
+  "name": "Devil May Cry 4 Special Edition",
+  "id": "CUSA01599",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59EC9A",
+          "on": "9090909090",
+          "off": "E82184CFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EB800",
+          "on": "83BB8402000002750AC5FA105B0CE95EBA3AFFC5FA115B40E954BA3AFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "69726C",
+          "on": "E98F45C500",
+          "off": "C5FA115B40"
+        }
+      ]
+    },
+    {
+      "name": "Max-Red-Orbs-99999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EB81F",
+          "on": "B8FFE0F505898384010000E9349931FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "60515D",
+          "on": "E9BD66CE0090",
+          "off": "898384010000"
+        }
+      ]
+    },
+    {
+      "name": "Max-Proud-Sovl-99999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EB831",
+          "on": "B9FFE0F50541898FC0030000E9575E33FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "621692",
+          "on": "E99AA1CC009090",
+          "off": "41898FC0030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2210FB",
+          "on": "90909090",
+          "off": "41895734"
+        },
+        {
+          "offset": "22106B",
+          "on": "90909090",
+          "off": "41895730"
+        },
+        {
+          "offset": "2212AB",
+          "on": "90909090",
+          "off": "41895740"
+        },
+        {
+          "offset": "22118B",
+          "on": "90909090",
+          "off": "41895738"
+        },
+        {
+          "offset": "22121B",
+          "on": "90909090",
+          "off": "4189573C"
+        },
+        {
+          "offset": "220FDB",
+          "on": "90909090",
+          "off": "4189572C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Red-Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20515D",
+          "on": "909090909090",
+          "off": "898384010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Proud-Sovl",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "221692",
+          "on": "90909090909090",
+          "off": "41898FC0030000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-evil-Trigger-vergil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "598F14",
+          "on": "9090909090909090",
+          "off": "C5FA1083682A0000"
+        },
+        {
+          "offset": "598E1D",
+          "on": "9090909090909090",
+          "off": "C5FA118B642A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-evil-Trigger-Lady-Trish",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "599BFF",
+          "on": "9090909090909090",
+          "off": "C5FA118B642A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max-Proud-Sovl-Nero",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12EB813",
+          "on": "B9FFE0F50541898F10020000E9F75D33FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "621614",
+          "on": "E9FAA1CC00",
+          "off": "E9E7A1CC00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

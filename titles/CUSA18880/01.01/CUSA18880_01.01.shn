@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ELDEN RING™ Network Test Ver." Moder="Aran" Cusa="CUSA18880" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Soul Point">
+        <Cheatline>
+            <Offset>13554E8</Offset>
+            <Section>0</Section>
+            <ValueOn>89-40-6C</ValueOn>
+            <ValueOff>89-78-6C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Item">
+        <Cheatline>
+            <Offset>DDF530</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-11</ValueOn>
+            <ValueOff>44-89-31</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

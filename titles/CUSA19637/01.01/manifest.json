@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA19637",
+  "version": "01.01",
+  "name": "The Legend of Heroes: Trails of Cold Steel IV",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA19637"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19637_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA19637_01.01.json",
+      "size": 753,
+      "sha256": "5cea2d999b4b5c65d39f82c71703bab283298b6164d6ea173885266a7b5f59ca",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19637_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA19637_01.01.shn",
+      "size": 1028,
+      "sha256": "32b3fdb8f8b5e03dd0037c64cf3ff0958cb3113f73ff3135299061021cb0f577",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19637_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA19637_01.01.mc4",
+      "size": 1388,
+      "sha256": "f8ff5e83ca2e28e9f324cf4f0474f46f70d45d82fdafee1dc80d4ac3a9446317",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19637_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

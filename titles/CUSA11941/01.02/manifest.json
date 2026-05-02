@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11941",
+  "version": "01.02",
+  "name": "Starlit Adventures",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11941"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11941_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11941_01.02.json",
+      "size": 765,
+      "sha256": "2633fb74c66c979f9d9e525ada7a59139f64a6003cbfd80f2cf8d2543e52d144",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11941_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11941_01.02.shn",
+      "size": 878,
+      "sha256": "cdedb492ba7b38367bf847b78dee7043f8f338d47f91b88fa39c71e7d8115a08",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11941_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11941_01.02.mc4",
+      "size": 1176,
+      "sha256": "54bb1a08d49a513522f512caa1301e87be2f9a4fd3169c9e05bbe9cd2a04c12c",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11941_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

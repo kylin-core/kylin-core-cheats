@@ -1,0 +1,97 @@
+{
+  "name": "Agents of Mayhem",
+  "id": "CUSA03067",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15C14",
+          "on": "9090909090",
+          "off": "66440F43FE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AEB800",
+          "on": "B8804FC34789038945C4E981EE79FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "28A68B",
+          "on": "E970118601",
+          "off": "8B038945C4"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shields",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AEB80F",
+          "on": "C703804FC347C5FA1003C5FA5E4308E9ED45F3FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A1FE0B",
+          "on": "E9FFB90C01",
+          "off": "C5FA5E4308"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill (Use with InfiniteHealth)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AEB823",
+          "on": "41813C24804FC3477504C5F828C1E9F74BF3FE",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A20425",
+          "on": "E9F9B30C01909090",
+          "off": "C5F2588544FBFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Max Items/XP on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9BD480",
+          "on": "41BC3F420F00",
+          "off": "41BCFFFFFFFF"
+        },
+        {
+          "offset": "9BD488",
+          "on": "90909090",
+          "off": "440F43E0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3380B3",
+          "on": "909090909090",
+          "off": "FF8884000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

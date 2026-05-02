@@ -1,0 +1,103 @@
+{
+  "name": "Warm Snow",
+  "id": "CUSA44689",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A340ED",
+          "on": "9090909090909090",
+          "off": "C5FA118384010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Rage Burst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F4FA65",
+          "on": "9090909090",
+          "off": "C5FA5D4768"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "22BF169",
+          "on": "9090909090909090",
+          "off": "C5FA108388060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A96860",
+          "on": "BE7F96980089B7CC060000E96259007F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80A9C1CC",
+          "on": "E98FA6FF8090",
+          "off": "89B7CC060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Red Souls On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97B60",
+          "on": "C787C806000063000000E92346007F",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80A9C18C",
+          "on": "E9CFB9FF8090",
+          "off": "89B7C8060000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10C32B4",
+          "on": "9090909090",
+          "off": "C5FA114324"
+        }
+      ]
+    },
+    {
+      "name": "Reset Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A97940",
+          "on": "C7432400000000E96DB98E7F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "813832B4",
+          "on": "E987467180",
+          "off": "C5FA114324"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

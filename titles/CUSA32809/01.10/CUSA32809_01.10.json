@@ -1,0 +1,43 @@
+{
+  "name": "SWORD ART ONLINE Last Recollection",
+  "id": "CUSA32809",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Cash (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6477860",
+          "on": "C780E4A80300FFE0F505E9975599FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "E0CE00",
+          "on": "E95BAA660590",
+          "off": "8990E4A80300"
+        }
+      ]
+    },
+    {
+      "name": "90 Items (on sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "64777B0",
+          "on": "66C743505A00E92B7D99FA",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "E0F4E1",
+          "on": "E9CA826605",
+          "off": "6644897B50"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

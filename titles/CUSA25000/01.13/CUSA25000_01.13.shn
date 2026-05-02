@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kena: Bridge of Spirits" Moder="Wander" Cusa="CUSA25000" Version="01.13" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="max upgrade points">
+        <Cheatline>
+            <Offset>1E8A5AC</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-08</ValueOn>
+            <ValueOff>C5-FA-11-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="when buying from rot shop the crystal amount increase disable when u dont need it">
+        <Cheatline>
+            <Offset>1E3FF2C</Offset>
+            <Section>0</Section>
+            <ValueOn>44-01-11</ValueOn>
+            <ValueOff>44-89-11</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

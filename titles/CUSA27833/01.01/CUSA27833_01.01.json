@@ -1,0 +1,60 @@
+{
+  "name": "BloodRayne ReVamped",
+  "id": "CUSA27833",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible-for-attack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "823A26F7",
+          "on": "909090909090",
+          "off": "FF90B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822C9E4F",
+          "on": "909090909090909090",
+          "off": "C4C17A118E18060000"
+        },
+        {
+          "offset": "822C9E8E",
+          "on": "909090909090909090",
+          "off": "C4C17A118E18060000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Rage-Power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822C79FE",
+          "on": "909090909090909090",
+          "off": "C4C17A118690610000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8229C901",
+          "on": "90909090909090",
+          "off": "41898FDC020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

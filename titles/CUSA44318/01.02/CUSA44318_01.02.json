@@ -1,0 +1,87 @@
+{
+  "name": "Blasphemous 2",
+  "id": "CUSA44318",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health+Fervor+Bile Flask (MASTER CODE)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FDB0",
+          "on": "83B81401000064751C898898000000898898000000E9D62D9A03898898000000E9CB2D9A0383B814010000107511898898000000898898000000E9B12D9A0381B8140100009600000075CF898898000000898898000000E9942D9A03",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "83602B9A",
+          "on": "E911D265FC90",
+          "off": "898898000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FDB9",
+          "on": "B95E01000090",
+          "off": "898898000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fervor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FDDE",
+          "on": "B95E01000090",
+          "off": "898898000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flasks",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FDFB",
+          "on": "B91027000090",
+          "off": "898898000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Marks Of Martyrdom/Tears",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5FB50",
+          "on": "488B45A8C740783F420F00E946F2D703",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "839DED9F",
+          "on": "E9AC0D28FC9090",
+          "off": "488B45A8894878"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DD672A",
+          "on": "9090909090909090",
+          "off": "C5FA1080D0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

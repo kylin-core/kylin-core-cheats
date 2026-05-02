@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07713",
+  "version": "15.21",
+  "name": "Monster Hunter World Iceborne",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07713"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07713_15.21.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07713_15.21.json",
+      "size": 15613,
+      "sha256": "8e87cdf77ca3467e7a5f04536b56b0f991a7d5df582916c011aecf95442b5c27",
+      "cheatCount": 42,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07713_15.21.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07713_15.21.shn",
+      "size": 14064,
+      "sha256": "0e4e57e262a93ed55f1fe8c00a58939ba98e458864615cf2335e2bf171b46111",
+      "cheatCount": 42,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07713_15.21.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07713_15.21.mc4",
+      "size": 18776,
+      "sha256": "358ea0934bfc8ffb2c89391668590e7627946d169eb3eeeda0e3dfc9e51af8f7",
+      "cheatCount": 42,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07713_15.21.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

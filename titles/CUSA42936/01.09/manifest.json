@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA42936",
+  "version": "01.09",
+  "name": "Double Dragon Gaiden",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA42936"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42936_01.09.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA42936_01.09.json",
+      "size": 1080,
+      "sha256": "371e0ab7c925df4da734becdd87d6617d09b42092286c652c30c4e8bcbf9e887",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42936_01.09.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA42936_01.09.shn",
+      "size": 942,
+      "sha256": "c01c5fbacb39cba6f3e21f36bd40173db40dca2f112e4cab6be43587b48d2a48",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42936_01.09.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA42936_01.09.mc4",
+      "size": 1260,
+      "sha256": "799870b0921b5473173b1fa6330247244b682c154970e9b6ec9f0e76e9ad0292",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42936_01.09.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

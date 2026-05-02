@@ -1,0 +1,97 @@
+{
+  "name": "Persona 5",
+  "id": "CUSA05877",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Main Hero)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1283E70",
+          "on": "0F4FD841837E2001750D41C7460C0F270000E9FCD661FF41895E0CE9F3D661FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8A157C",
+          "on": "E9EF289E009090",
+          "off": "0F4FD841895E0C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1283D20",
+          "on": "0F4FD86641C746100F27E984D861FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "8A15AC",
+          "on": "E96F279E009090",
+          "off": "0F4FD841895E10"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience (main hero)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1283C60",
+          "on": "C7401C7F9698004883C408E9AE0D61FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "894A17",
+          "on": "E944F29E009090",
+          "off": "89581C4883C408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A3C2F",
+          "on": "90909090909090",
+          "off": "66898F94020000"
+        }
+      ]
+    },
+    {
+      "name": "Items x90 (On use/get/buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1283860",
+          "on": "42C68438000A00005AE968BC60FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "88F4CE",
+          "on": "E98D439F00909090",
+          "off": "42889C38000A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Yen (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "886A3A",
+          "on": "909090909090",
+          "off": "81FF7F969800"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

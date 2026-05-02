@@ -1,0 +1,27 @@
+{
+  "name": "AdVenture Capitalist",
+  "id": "CUSA03234",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Gain Money Fast",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "126B800",
+          "on": "41814714007D0000458B77144C8B7DC8E9957B237F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "804A33A2",
+          "on": "E95984DC80909090",
+          "off": "458B77144C8B7DC8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

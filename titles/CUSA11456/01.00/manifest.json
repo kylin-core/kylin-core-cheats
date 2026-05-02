@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11456",
+  "version": "01.00",
+  "name": "Ghost of Tsushima",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11456"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11456_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11456_01.00.json",
+      "size": 1360,
+      "sha256": "fdb852e5568d9c3b72c8e8b051137188f3ce41ccc5469345aaa117af083ff188",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11456_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11456_01.00.shn",
+      "size": 1117,
+      "sha256": "145abf8d65983b7cf4b501856772bbac1b7a1c4f0f8f034130bd86886bb83a51",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11456_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11456_01.00.mc4",
+      "size": 1496,
+      "sha256": "4f32873b8da71d100992cd6bbae953ad8b29798f996c12fa77027f4d1f04eaf4",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11456_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00377",
+  "version": "01.03",
+  "name": "Lords of the Fallen",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00377"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00377_01.03.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00377_01.03.json",
+      "size": 3237,
+      "sha256": "2c79c4cf6fa95b69a43d006abaf73969791b9c9f97d78bc1011af6b8a751f97c",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00377_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00377_01.03.shn",
+      "size": 3153,
+      "sha256": "5e8bfc010a5008a6901b53caac5c5a071ae17a6ea581360c6b1a477eaa09fa09",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00377_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00377_01.03.mc4",
+      "size": 4224,
+      "sha256": "65c03792a051fec8cc28e41a9e6b25edbe07548aebbec8329489ab2a8969c7b5",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00377_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

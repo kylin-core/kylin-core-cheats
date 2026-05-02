@@ -1,0 +1,65 @@
+{
+  "name": "Onimusha Warlords",
+  "id": "CUSA11300",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "271C06",
+          "on": "9090909090909090",
+          "off": "66418988DCB90000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-MAGIC",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26D8AB",
+          "on": "90909090909090",
+          "off": "66298840AF0000"
+        },
+        {
+          "offset": "26D537",
+          "on": "90909090909090",
+          "off": "6629883EAF0000"
+        },
+        {
+          "offset": "26DA6D",
+          "on": "90909090909090",
+          "off": "66298842AF0000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B507",
+          "on": "909090909090",
+          "off": "81F9A0860100"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B51F",
+          "on": "909090909090",
+          "off": "81F9A0860100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

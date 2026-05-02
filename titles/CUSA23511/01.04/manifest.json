@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA23511",
+  "version": "01.04",
+  "name": "Crash Bandicoot 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA23511"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23511_01.04.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA23511_01.04.json",
+      "size": 4437,
+      "sha256": "a511fa2691fe6ba6b5dba1d44e3da82533178c16a36ebfb7c727a45ecc026927",
+      "cheatCount": 13,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23511_01.04.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA23511_01.04.shn",
+      "size": 4371,
+      "sha256": "f7d2a1d3a5fc231fa5be84ff3cf9cc896c6752eab3a543e345ec86da7f3bf0ea",
+      "cheatCount": 13,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23511_01.04.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA23511_01.04.mc4",
+      "size": 5848,
+      "sha256": "5fce0f5f2311b85dd2d2dae19fb0d90ec0de58018b60cca5cb86b0b608462c2d",
+      "cheatCount": 13,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA23511_01.04.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

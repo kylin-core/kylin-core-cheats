@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry 5" Moder="Gatot Kaca_KevinTamvan" Cusa="CUSA08161" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Master Code Speed">
+        <Cheatline>
+            <Offset>858B38F</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-28-11-00-00-00-00-80-3F-C4-C1-7A-10-86-28-11-00-00-E9-B6-83-E7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lots of Red Orbs">
+        <Cheatline>
+            <Offset>858B3D0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-0F-44-C1-B9-7F-96-98-00-89-08-E9-7A-C8-11-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Gold Orbs, Blue Fragments, Purple Fragments A lot">
+        <Cheatline>
+            <Offset>858B420</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-63-00-00-00-41-89-8F-98-00-00-00-41-89-8F-88-00-00-00-41-89-4F-78-E9-DC-C9-11-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Time In Bloody Palace is Unlimited">
+        <Cheatline>
+            <Offset>858B630</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-40-10-C7-40-10-00-C0-79-44-C7-40-14-00-C0-79-44-C7-40-1C-00-C0-79-44-E9-05-AB-B9-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( NERO ) All 99 Devil Breakers Equipment ( Activate in Shop only )">
+        <Cheatline>
+            <Offset>858B480</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-50-1C-BB-63-00-00-00-89-59-20-89-59-24-89-59-28-89-59-2C-89-59-30-89-59-34-89-59-38-89-59-3C-89-59-40-89-59-44-89-59-48-89-59-4C-89-59-50-89-59-54-89-59-58-89-59-5C-E9-25-D1-42-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( NERO ) Unlimited Devil Breakers">
+        <Cheatline>
+            <Offset>858B4A0</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-07-00-00-00-41-89-B5-CC-17-00-00-E9-B9-BC-49-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( NERO ) Infinite Devil Trigger">
+        <Cheatline>
+            <Offset>858B650</Offset>
+            <Section>0</Section>
+            <ValueOn>48-0F-44-D1-C5-FA-10-02-C7-02-00-40-1C-46-E9-49-A6-03-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( NERO ) Exceed Once Filled Direct Full [ Version 1 ]">
+        <Cheatline>
+            <Offset>858B550</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-20-00-00-7A-44-E9-A8-5E-A3-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( NERO ) Exceed Maksimum [ ver 2]">
+        <Cheatline>
+            <Offset>858B530</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-E2-1C-49-F8-BB-03-00-00-00-89-58-18-E9-A4-1B-49-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( NERO ) Unlimited Bullets">
+        <Cheatline>
+            <Offset>0858B37C</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-8F-24-03-00-00-41-89-8F-20-03-00-00-E9-59-94-03-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( V ) Infinite Devil Trigger">
+        <Cheatline>
+            <Offset>858B4C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-14-11-00-00-C5-FA-11-83-10-11-00-00-E9-C2-77-EA-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( V ) Unlimited Power Up Summon Duration">
+        <Cheatline>
+            <Offset>858B4E0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-88-6C-01-00-00-C7-80-6C-01-00-00-00-80-BB-44-C7-80-70-01-00-00-00-80-BB-44-E9-C0-07-E3-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( DANTE ) Unlimited Sin Devil Gauge Duration">
+        <Cheatline>
+            <Offset>858B5F0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F8-2E-8E-14-1A-00-00-C7-86-14-1A-00-00-00-40-1C-46-E9-E2-1E-39-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( DANTE ) Infinite Devil Trigger">
+        <Cheatline>
+            <Offset>858B570</Offset>
+            <Section>0</Section>
+            <ValueOn>48-0F-44-D1-C5-FA-10-02-C7-02-00-50-43-47-E9-5D-8B-BC-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( DANTE ) Unlimited Royal Guard">
+        <Cheatline>
+            <Offset>858B5B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-48-28-C7-40-28-00-50-43-47-E9-D7-3C-BC-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="( DANTE ) Dr. Fraust No Fee">
+        <Cheatline>
+            <Offset>858B610</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-60-7F-96-98-00-E9-4B-D7-11-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="SSS Rating During Battle">
+        <Cheatline>
+            <Offset>858B510</Offset>
+            <Section>0</Section>
+            <ValueOn>48-63-86-B0-00-00-00-C7-86-B0-00-00-00-07-00-00-00-C7-86-B4-00-00-00-20-BC-BE-4C-E9-FE-B0-F0-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>0858B360</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-40-14-C5-FA-11-40-10-E9-61-BB-E7-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Players Dont Shake ">
+        <Cheatline>
+            <Offset>034011C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy Enemy to Defeat">
+        <Cheatline>
+            <Offset>0858B36F</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-10-00-00-00-00-E9-03-EB-E3-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Higher [ Version 1 ]">
+        <Cheatline>
+            <Offset>858BEF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-72-5C-6F-24-41-C7-47-24-00-00-8C-C2-41-C7-47-34-00-00-8C-C2-E9-1D-BE-9B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Higher [ Version2 ] [Press X twice]">
+        <Cheatline>
+            <Offset>02F48821</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-4F-24</ValueOn>
+            <ValueOff>41-89-47-24</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [x2.0]">
+        <Cheatline>
+            <Offset>858B3A8</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-28-11-00-00-00-00-00-40-EB-E5</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [x3.0]">
+        <Cheatline>
+            <Offset>858B3A8</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-28-11-00-00-00-00-40-40-EB-E5</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

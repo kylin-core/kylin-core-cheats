@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Immortals Fenyx Rising ™" Moder="Saso" Cusa="CUSA16345" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Health">
+        <Cheatline>
+            <Offset>6D1A300</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-38-01-00-00-00-50-C3-48-E9-D9-A2-4E-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>6D1A3A0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-85-5C-01-00-00-C4-C1-7A-11-85-B8-01-00-00-E9-58-ED-4E-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Resources On Use">
+        <Cheatline>
+            <Offset>6D1A400</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-FF-FF-00-00-41-89-44-24-F8-E9-B4-06-AB-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

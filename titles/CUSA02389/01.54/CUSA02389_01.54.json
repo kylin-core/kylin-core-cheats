@@ -1,0 +1,113 @@
+{
+  "name": "Assassin?s Creed Syndicate",
+  "id": "CUSA02389",
+  "version": "01.54",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "552B800",
+          "on": "8B87E40000008987E0000000E9BC9EEEFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "14156C8",
+          "on": "E933611104",
+          "off": "E8F31B0F00"
+        }
+      ]
+    },
+    {
+      "name": "Skill Points (99)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "552B887",
+          "on": "C74108630000008B4108E979060FFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "161BF09",
+          "on": "E979F9F00390",
+          "off": "8B41082B410C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo / Knifs / Darts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AE4EF5",
+          "on": "4189C790",
+          "off": "440F42F8"
+        }
+      ]
+    },
+    {
+      "name": "No Relaod",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11B8E7D",
+          "on": "89CA90",
+          "off": "0F44D1"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money / Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "552B854",
+          "on": "41837C240801740E41C744242805000000E956F95AFC41C74424283F420F00E948F95AFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1ADB1BB",
+          "on": "E99406A503",
+          "off": "4189442428"
+        }
+      ]
+    },
+    {
+      "name": "Easy Kill (Affects Your Ally / Use Only in Fight Club)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "552B813",
+          "on": "4839DE7522817F20F0F018067502EB174181BECA00000003000500750A83FE017E05BE010000008937C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1507480",
+          "on": "E98E4302049090909090909090909090",
+          "off": "8937C3666666662E0F1F840000000000"
+        }
+      ]
+    },
+    {
+      "name": "Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "552B87A",
+          "on": "C7410863000000C7410C010000008B41082B410C8379100B0F8D77060FFCFF4110E96F060FFC",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "161BF09",
+          "on": "E96CF9F00390",
+          "off": "8B41082B410C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

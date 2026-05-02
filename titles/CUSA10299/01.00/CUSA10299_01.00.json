@@ -1,0 +1,54 @@
+{
+  "name": "de blob 2",
+  "id": "CUSA10299",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Color Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A8B800",
+          "on": "0F84655D5FFFBA0F270000418912E9595D5FFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81567",
+          "on": "E994A2A000",
+          "off": "7408418912"
+        }
+      ]
+    },
+    {
+      "name": "Max Color Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A8B813",
+          "on": "BA7F969800E92F306EFF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "16E844",
+          "on": "E9CACF9100909090",
+          "off": "430394F720020000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16E5A5",
+          "on": "909090909090",
+          "off": "C4C17A114608"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

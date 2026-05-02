@@ -1,0 +1,125 @@
+{
+  "name": "Friday The 13Th The Game",
+  "id": "CUSA10007",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Knife Keeper",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11ABDBF",
+          "on": "909090909090",
+          "off": "FF8B0C140000"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Knifing Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11ABD96",
+          "on": "909090909090",
+          "off": "89833C140000"
+        }
+      ]
+    },
+    {
+      "name": "Homemade Traps Locked",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1053F56",
+          "on": "90909090909090",
+          "off": "41FF8F40150000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Countdown Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F2F6C9",
+          "on": "90909090909090",
+          "off": "41898E14040000"
+        }
+      ]
+    },
+    {
+      "name": "Show Time Use After Time Disappear",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10B08AB",
+          "on": "90909090909090",
+          "off": "418B8614040000"
+        }
+      ]
+    },
+    {
+      "name": "Jason Instent Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10316AA",
+          "on": "9090",
+          "off": "724F"
+        }
+      ]
+    },
+    {
+      "name": "Jason Instant All Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1031442",
+          "on": "F3410F108494B8100000",
+          "off": "C4C17A5D849490100000"
+        },
+        {
+          "offset": "1031442",
+          "on": "F3410F10849490100000",
+          "off": "C4C17A5D849490100000"
+        }
+      ]
+    },
+    {
+      "name": "Jason Inf Skill Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "103337B",
+          "on": "90909090909090909090",
+          "off": "C4C17A118424AC110000"
+        },
+        {
+          "offset": "103342F",
+          "on": "90909090909090909090",
+          "off": "C4C17A11842458120000"
+        },
+        {
+          "offset": "103194D",
+          "on": "90909090909090909090",
+          "off": "C4C17A118C2434150000"
+        }
+      ]
+    },
+    {
+      "name": "Jason Instent Skill Colldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "103165E",
+          "on": "C4817A1084BCA0100000",
+          "off": "C4817A5D84BCA0100000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7 and Grim Doe"
+  ]
+}

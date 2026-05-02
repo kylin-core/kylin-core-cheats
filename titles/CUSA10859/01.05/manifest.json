@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10859",
+  "version": "01.05",
+  "name": "Adventure Time: Pirates of the Enchiridion",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10859"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10859_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10859_01.05.json",
+      "size": 1104,
+      "sha256": "c517a608c3b1235138a184f5d80e1d802b7d4798b9753350247ab21611261b9b",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10859_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10859_01.05.shn",
+      "size": 926,
+      "sha256": "4f32552c93c94be4b11308455f27fc31c23e4d891f1341977b549c004277f359",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10859_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10859_01.05.mc4",
+      "size": 1240,
+      "sha256": "312c103f747936c16fa6d527532ea5dbf236d400c7fc505ed7c97b2942eacc91",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10859_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

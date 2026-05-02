@@ -1,0 +1,59 @@
+{
+  "name": "Aliens: Dark Descent",
+  "id": "CUSA34370",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo (squad and turret)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83A7B60",
+          "on": "41C786D803000064000000E950D49EFA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2D94FB9",
+          "on": "E9A22B61059090",
+          "off": "418986D8030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite item use (on the mission)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83A7A50",
+          "on": "C744F008040000000F84AB3021FAE97F3021FA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25BAADC",
+          "on": "E96FCFDE0590",
+          "off": "8954F0087427"
+        }
+      ]
+    },
+    {
+      "name": "Max Materials (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83A76C0",
+          "on": "C74483089F860100E981FFF5F9",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2307649",
+          "on": "E972000A06",
+          "off": "4489448308"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

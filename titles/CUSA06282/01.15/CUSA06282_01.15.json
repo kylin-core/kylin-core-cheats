@@ -1,0 +1,27 @@
+{
+  "name": "Absolver Downfall",
+  "id": "CUSA06282",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "GodMode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4E07800",
+          "on": "4183BFFC000000027509C4C17A1087F4000000E91E7C3BFB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1BF42E",
+          "on": "E9CD83C404909090",
+          "off": "C5FA5FC1C5F057C9"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

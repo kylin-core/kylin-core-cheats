@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Quest Heroes II" Moder="Molly " Cusa="CUSA06740" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Quick Level Up ~Leave Area To See Effect~">
+        <Cheatline>
+            <Offset>F53800</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-FF-E0-F5-05-42-89-84-A3-1C-03-00-00-E9-BD-7B-3F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>F53822</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-7F-96-98-00-89-B8-04-2B-02-00-E9-4A-F9-30-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max MP">
+        <Cheatline>
+            <Offset>F53832</Offset>
+            <Section>0</Section>
+            <ValueOn>51-B9-00-C0-79-44-66-0F-6E-C1-59-C5-FA-11-83-30-02-00-00-E9-CF-19-2E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Skill Points">
+        <Cheatline>
+            <Offset>F5384A</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B8-E7-03-66-43-89-84-66-48-08-00-00-E9-D8-7E-3F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items">
+        <Cheatline>
+            <Offset>F5385C</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-C0-63-00-00-00-41-88-47-13-5B-E9-3B-B8-3F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Tension On Hit">
+        <Cheatline>
+            <Offset>F538A3</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-C0-84-03-00-00-66-41-89-85-54-02-00-00-E9-6E-C2-2D-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

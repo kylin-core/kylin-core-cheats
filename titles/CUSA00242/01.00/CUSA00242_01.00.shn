@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Diablo 3: Ultimate Evil Edition" Moder="DeathRGH" Cusa="CUSA00242" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Mana">
+        <Cheatline>
+            <Offset>922741</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-89-60-0C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Item / Kill Multiplier">
+        <Cheatline>
+            <Offset>B9C486</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-0F-27-00-00-90-90-90-90</ValueOn>
+            <ValueOff>81-F9-FF-FF-FF-00-0F-43-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Item Count">
+        <Cheatline>
+            <Offset>9227E1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>44-89-78-0C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>8873C9</Offset>
+            <Section>0</Section>
+            <ValueOn>4A-89-A4-E3-20-8D-00-00</ValueOn>
+            <ValueOff>4A-89-A4-E3-20-8D-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

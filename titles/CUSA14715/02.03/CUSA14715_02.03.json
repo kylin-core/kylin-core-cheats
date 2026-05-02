@@ -1,0 +1,123 @@
+{
+  "name": "Ultra Age",
+  "id": "CUSA14715",
+  "version": "02.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DD1BB6",
+          "on": "9090909090",
+          "off": "E89558B002="
+        },
+        {
+          "offset": "1EB5618",
+          "on": "9090909090",
+          "off": "E8331EA202"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7593800",
+          "on": "83BF440300000275088B470CE9C37EC3FA8987D4080000E9B87EC3FA",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "21CB6CE",
+          "on": "E92D813C0590",
+          "off": "8987D4080000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Health-One-Hit-Kill-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7593800",
+          "on": "83BF440300000275088B470CE9C37EC3FA8987D4080000E9B87EC3FA",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "21CB6CE",
+          "on": "E92D813C0590",
+          "off": "8987D4080000"
+        },
+        {
+          "offset": "759381E",
+          "on": "83BF440300000275088B470CE9A57EC3FAC787D408000000000000E9967EC3FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "21CB6CE",
+          "on": "E94B813C05",
+          "off": "E92D813C05"
+        }
+      ]
+    },
+    {
+      "name": "MAX-crystals-Fragments",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7593840",
+          "on": "B97F96980041898A28020000E973EABBFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "21522BD",
+          "on": "E97E1544059090",
+          "off": "41898A28020000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-items-Sword-Power-Gear-0x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7593853",
+          "on": "B863000000894730E981E5BBFA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2151DDA",
+          "on": "E9741A44059090",
+          "off": "894730837F7000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-crystals-Fragments",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D522BD",
+          "on": "90909090909090",
+          "off": "41898A28020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-items-Sword",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D51DDA",
+          "on": "909090",
+          "off": "894730"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

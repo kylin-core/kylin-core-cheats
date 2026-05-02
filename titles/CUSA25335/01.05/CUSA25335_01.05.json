@@ -1,0 +1,107 @@
+{
+  "name": "BLUE REFLECTION: Second Light",
+  "id": "CUSA25335",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141B5C0",
+          "on": "80BB3401000001750FC78314010000E7030000E9ED62F8FE898314010000E9E262F8FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A18BF",
+          "on": "E9FC9C070190",
+          "off": "898314010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite EP (turn off at the tutorial)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141B9B0",
+          "on": "C78350080000804FC347E9EF22F8FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "39DCA6",
+          "on": "E905DD0701909090",
+          "off": "C5FA118350080000"
+        }
+      ]
+    },
+    {
+      "name": "Experience Multiplier by 500",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141B950",
+          "on": "69F6F40100000177084889FBE95B8C18FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "5A45B6",
+          "on": "E99573E70090",
+          "off": "0177084889FB"
+        }
+      ]
+    },
+    {
+      "name": "Experience Multiplier by 10000 (disable previous one)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141B950",
+          "on": "69F6102700000177084889FBE95B8C18FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "5A45B6",
+          "on": "E99573E70090",
+          "off": "0177084889FB"
+        }
+      ]
+    },
+    {
+      "name": "80 items (on pickup and Craft)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141BBD0",
+          "on": "66C747065000C3E949B1F0FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "326D20",
+          "on": "E9AB4E0F01",
+          "off": "66897706C3"
+        }
+      ]
+    },
+    {
+      "name": "90 TP (on spend )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "141BC10",
+          "on": "66C747025A00C3E9693ADEFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "1FF680",
+          "on": "E98BC52101",
+          "off": "66894702C3"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

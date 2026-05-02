@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DYSMANTLE" Moder="Wander FW9.00" Cusa="CUSA15128" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (close combats only)">
+        <Cheatline>
+            <Offset>7FC5DC30</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FA-53-75-12-49-83-F9-12-75-0C-C7-83-54-04-00-00-00-00-48-42-EB-08-C5-FA-11-83-54-04-00-00-E9-C3-62-96-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Experience (On kill Activate once and turn off)">
+        <Cheatline>
+            <Offset>7FC5C980</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-86-88-00-00-00-7F-96-98-00-E9-31-AA-58-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alot of Items (on collect have 2 pieces of the item)">
+        <Cheatline>
+            <Offset>7FC5DB50</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-C0-41-C6-47-08-63-E9-30-4B-57-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

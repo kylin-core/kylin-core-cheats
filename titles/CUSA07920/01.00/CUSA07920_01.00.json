@@ -1,0 +1,125 @@
+{
+  "name": "Accel World vs. Sword Art Online",
+  "id": "CUSA07920",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BB7800",
+          "on": "C7875004000000401C46C5F82E8750040000E97A1F56FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "119789",
+          "on": "E972E0A901909090",
+          "off": "C5F82E8750040000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1BB7817",
+          "on": "C7805004000000000000E989455BFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "16BDA7",
+          "on": "E96BBAA401909090",
+          "off": "C5FA118850040000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15CCF5",
+          "on": "90909090",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C1AFF",
+          "on": "9090909090909090",
+          "off": "C5FA118BB81E0000"
+        },
+        {
+          "offset": "1C1B25",
+          "on": "9090909090909090",
+          "off": "C5FA1183B81E0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6815E2",
+          "on": "909090909090",
+          "off": "2B8558FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Max Yrd on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "68067D",
+          "on": "BEFFE0F5059090",
+          "off": "4181FEFFE0F505"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Yrd",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6820F6",
+          "on": "9090",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "Max BP on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "680774",
+          "on": "90909090",
+          "off": "410F46F6"
+        }
+      ]
+    },
+    {
+      "name": "Infinite BP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "680778",
+          "on": "909090909090",
+          "off": "89B344010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

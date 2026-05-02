@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 2" Moder="d01v" Cusa="CUSA09171" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Backport 5.05 ver 01.05">
+        <Cheatline>
+            <Offset>7E3A520</Offset>
+            <Section>0</Section>
+            <ValueOn>81-C3-64-30-31-76-90-90-EB-F6</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HP">
+        <Cheatline>
+            <Offset>7E3A530</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-71-54-89-71-58-80-B8-58-02-00-00-00-E9-9B-02-C1-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Zombies x Buddies">
+        <Cheatline>
+            <Offset>7FA2C8</Offset>
+            <Section>0</Section>
+            <ValueOn>75-33</ValueOn>
+            <ValueOff>74-33</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Weapon list on Vault">
+        <Cheatline>
+            <Offset>7E3A550</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-41-14-8B-51-18-49-83-F8-04-74-2F-49-83-F8-09-74-32-49-83-F8-0B-74-35-49-83-F8-15-74-38-49-83-F8-1F-74-3B-49-83-F8-2E-74-3E-49-83-F8-32-74-41-49-83-F8-42-74-44-90-75-4C-90-90-49-C7-C0-07-00-00-00-EB-47-49-C7-C0-0B-00-00-00-EB-3E-49-C7-C0-15-00-00-00-EB-35-49-C7-C0-1F-00-00-00-EB-2C-49-C7-C0-2A-00-00-00-EB-23-49-C7-C0-31-00-00-00-EB-1A-49-C7-C0-41-00-00-00-EB-11-49-C7-C0-01-00-00-00-EB-08-90-90-49-FF-C0-EB-01-90-4C-89-41-14-E9-0A-F7-83-F9-90-48-BB-64-20-30-20-31-20-76-20-90-E9-F9-F6-83-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Ammo No Reload">
+        <Cheatline>
+            <Offset>831389</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>44-29-F2</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

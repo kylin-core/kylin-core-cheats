@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01875",
+  "version": "01.01",
+  "name": "Final Fantasy 7",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01875"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01875_01.01.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01875_01.01.json",
+      "size": 17925,
+      "sha256": "3bf9fccd69ed34c63826ec9b9c39d6bb76a7c8660190097e7ad2959949d9f516",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01875_01.01.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01875_01.01.shn",
+      "size": 22401,
+      "sha256": "a0b00ba8f40b69090d5b826193e3eed938b50944703657e6262db7fba8b16086",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01875_01.01.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01875_01.01.mc4",
+      "size": 29888,
+      "sha256": "70f2bb069de7b23c2a9e3c8503f43aa040fdc2875d8e7b73fc0f651ffc75e5cd",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01875_01.01.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

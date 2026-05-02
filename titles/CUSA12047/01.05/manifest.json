@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12047",
+  "version": "01.05",
+  "name": "Sekiro™: Shadows Die Twice",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12047"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12047_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12047_01.05.json",
+      "size": 2308,
+      "sha256": "a463865ef90e86b8e213923bbf667e7caa31496cbe46c91f03774cd2584144e4",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12047_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12047_01.05.shn",
+      "size": 2323,
+      "sha256": "52bc19cd41477c961640cb000e7c2c105056f92b009e55fa06ae3ab47b8aa5f6",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12047_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12047_01.05.mc4",
+      "size": 3116,
+      "sha256": "2b15d9f518ea59ba4357e2637a7bf90cd83c45d5bbd430e155ecbf175be71ac2",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12047_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

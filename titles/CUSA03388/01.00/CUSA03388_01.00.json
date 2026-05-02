@@ -1,0 +1,216 @@
+{
+  "name": "Dark Souls III",
+  "id": "CUSA03388",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57FB807",
+          "on": "909090909090909090",
+          "off": "4429F80F886A8D8AFB"
+        },
+        {
+          "offset": "57FB817",
+          "on": "89C8909090",
+          "off": "39C10F4EC1"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57FB836",
+          "on": "9090909090",
+          "off": "E90C8D8AFB"
+        }
+      ]
+    },
+    {
+      "name": "Inf Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10F8C6E",
+          "on": "4189C590",
+          "off": "440F4EE8"
+        }
+      ]
+    },
+    {
+      "name": "Player inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57FB84E",
+          "on": "E9C4218FFB",
+          "off": "E9C2218FFB"
+        }
+      ]
+    },
+    {
+      "name": "Enemy 0 Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57FB853",
+          "on": "BB00000000",
+          "off": "39D80F4ED8"
+        }
+      ]
+    },
+    {
+      "name": "Pause The Game",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "278FFF7",
+          "on": "90909090909090",
+          "off": "4189851C010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Souls on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1303F31",
+          "on": "909090",
+          "off": "0F4ECA"
+        }
+      ]
+    },
+    {
+      "name": "Never Lose Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EC6976",
+          "on": "909090",
+          "off": "895074"
+        },
+        {
+          "offset": "88B3B3",
+          "on": "9090909090909090",
+          "off": "41C7457400000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Use..Pick..Move",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9C1FD2",
+          "on": "89430890",
+          "off": "44897308"
+        },
+        {
+          "offset": "9C30EB",
+          "on": "894308",
+          "off": "894B08"
+        }
+      ]
+    },
+    {
+      "name": "Dupe Anything In Storage Box",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9C1FC3",
+          "on": "4189C6",
+          "off": "4139C6"
+        }
+      ]
+    },
+    {
+      "name": "Inf Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "116EBD0",
+          "on": "909090",
+          "off": "897714"
+        }
+      ]
+    },
+    {
+      "name": "Inf Armour Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "116DCE0",
+          "on": "909090",
+          "off": "897714"
+        }
+      ]
+    },
+    {
+      "name": "Reduce Fall Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57FB85D",
+          "on": "807B1CFF0F84D8908BFB4429F00F88E6908BFBE9CA908BFB",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10B493A",
+          "on": "E91E6F7404",
+          "off": "4429F07817"
+        }
+      ]
+    },
+    {
+      "name": "Resistances Effects",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E7DBCF",
+          "on": "909090",
+          "off": "894A10"
+        },
+        {
+          "offset": "E7D94B",
+          "on": "909090",
+          "off": "894A14"
+        },
+        {
+          "offset": "E7DB9A",
+          "on": "909090",
+          "off": "894A18"
+        },
+        {
+          "offset": "E7DAB9",
+          "on": "909090",
+          "off": "894A1C"
+        },
+        {
+          "offset": "E7D6CF",
+          "on": "909090",
+          "off": "894220"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP Player + Enemy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10A4547",
+          "on": "90909090909090",
+          "off": "418986D8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

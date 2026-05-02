@@ -1,0 +1,97 @@
+{
+  "name": "Clunky Hero",
+  "id": "CUSA41026",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85E93800",
+          "on": "6681FC98477504C6401C018A401C24010FB6C0C3",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B3486A",
+          "on": "E991EF3505",
+          "off": "8A401C2401"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85E93816",
+          "on": "4983F80075154981F98720A601750C6681FC38457505F30F2A4024C5FA114018C3C5F857C0EBF490",
+          "off": "4983F80075154981F98720A601750C6681FC3845750B000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F30096",
+          "on": "E97B37F604",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85E9382A",
+          "on": "750B",
+          "off": "7505"
+        }
+      ]
+    },
+    {
+      "name": "Unlimited Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80F121FA",
+          "on": "B80100000090",
+          "off": "8B80D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85E93840",
+          "on": "B93F420F00898880000000C3",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80ADAE32",
+          "on": "E9098A3B0590",
+          "off": "898880000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Consumables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85E9384E",
+          "on": "B863000000C3",
+          "off": "000000000000"
+        },
+        {
+          "offset": "80B35FEA",
+          "on": "E95FD83505",
+          "off": "8B402CC390"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

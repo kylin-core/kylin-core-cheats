@@ -1,0 +1,71 @@
+{
+  "name": "Homefront:The Revolution",
+  "id": "CUSA00938",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Player Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00AC4CFD",
+          "on": "90E99DEF6F02",
+          "off": "338BA0020000"
+        },
+        {
+          "offset": "031C3CA0",
+          "on": "338BA8020000898BA0020000338BA4020000E94C1090FD",
+          "off": "0000000000000000000000000000000000000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Item and Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "021CBBAE",
+          "on": "4F",
+          "off": "4E"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00CCC92E",
+          "on": "9090909090",
+          "off": "4189540808"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Hack Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00BC9997",
+          "on": "C1",
+          "off": "C2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money and Unlock Points Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00E6B3A4",
+          "on": "909090",
+          "off": "4429E0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Fullcodes"
+  ]
+}

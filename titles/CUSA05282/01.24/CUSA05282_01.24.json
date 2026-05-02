@@ -1,0 +1,82 @@
+{
+  "name": "Call of Duty: Infinite Warfare",
+  "id": "CUSA05282",
+  "version": "01.24",
+  "process": "default.elf",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14BB800",
+          "on": "41C786E40100007F969800418B86E4010000418986E0010000E9382913FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5EE14F",
+          "on": "E9ACD6EC009090",
+          "off": "418B86E0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CEBD1",
+          "on": "909090",
+          "off": "4429E3"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8CE687",
+          "on": "89D290",
+          "off": "4429E2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Exo Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "315239",
+          "on": "9090909090909090",
+          "off": "C5F82E05F775FB00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8BF4E0",
+          "on": "89D290",
+          "off": "895014"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tactical Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BD5601",
+          "on": "4589F69090",
+          "off": "468974B814"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

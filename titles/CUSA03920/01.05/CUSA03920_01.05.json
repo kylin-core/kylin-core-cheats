@@ -1,0 +1,76 @@
+{
+  "name": "Snantae Haif Genie Hero",
+  "id": "CUSA03920",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "328E9D",
+          "on": "C5F057CA",
+          "off": "C5F057C9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-MAGIC",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1054DC",
+          "on": "909090909090",
+          "off": "C4C17A114744"
+        },
+        {
+          "offset": "106F26",
+          "on": "9090909090",
+          "off": "C5FA114344"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D93A8",
+          "on": "90909090",
+          "off": "884C0704"
+        }
+      ]
+    },
+    {
+      "name": "max-money-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B6F825",
+          "on": "BBE703000041891EE9CD8B96FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "4D83FA",
+          "on": "E926746900",
+          "off": "41891E89DE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D94B9",
+          "on": "9090",
+          "off": "8907"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

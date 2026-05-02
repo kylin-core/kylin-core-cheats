@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02231",
+  "version": "01.01",
+  "name": "Dishonored (Definitive Edition)",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02231"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02231_01.01.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02231_01.01.json",
+      "size": 5147,
+      "sha256": "8b8e1c810a81cc6978e88da8f0c53b39913e662e10cddecd6a31fc0d0d4b5cda",
+      "cheatCount": 18,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02231_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02231_01.01.shn",
+      "size": 5301,
+      "sha256": "73991ee0977f237f8b1a82c666d19bce0baaf53e200f677e81f1ed3443dce02d",
+      "cheatCount": 18,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02231_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02231_01.01.mc4",
+      "size": 7084,
+      "sha256": "33cfda08c88b28f462e9eb7adef72f24c384a3d0c663bc95f26f412dd9be21db",
+      "cheatCount": 18,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA02231_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

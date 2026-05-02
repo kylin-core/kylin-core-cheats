@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09052",
+  "version": "01.00",
+  "name": "Beast Quest",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09052"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA09052_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09052_01.00.json",
+      "size": 1374,
+      "sha256": "109a4d684efdce9ae46948d307b1c1456d4cb1142fef23704f1ac763cee94846",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA09052_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09052_01.00.shn",
+      "size": 1670,
+      "sha256": "3acd4b49764d438b8dc6cc602b337c0cc90f3ef6e573dbdfee04b5952eabd8a4",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA09052_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09052_01.00.mc4",
+      "size": 2240,
+      "sha256": "061f9807a2078e0a02042280fbc10ec792a19a2c358ca941fc245f62f6f4b839",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA09052_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

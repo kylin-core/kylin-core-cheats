@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04885",
+  "version": "01.01",
+  "name": "resident evil 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04885"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04885_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04885_01.01.json",
+      "size": 6570,
+      "sha256": "18a565e284c029b898461fd7bf30c07480174d94c9a3f4d54e67a5f1a3e6cead",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04885_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04885_01.01.shn",
+      "size": 6378,
+      "sha256": "eb4db07668c352b8566d1bba8e52d9ab43ec13861b64cee2b7cedcf89541282c",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04885_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04885_01.01.mc4",
+      "size": 8512,
+      "sha256": "61a58bb6a8bf11952413e20dbb55c1e138b917fbf1069a3f3d7c5ce9b5beb6e9",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04885_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

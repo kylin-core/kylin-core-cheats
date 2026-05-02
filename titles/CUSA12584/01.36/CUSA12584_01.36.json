@@ -1,0 +1,188 @@
+{
+  "name": "Dying Light 2 Stay Human",
+  "id": "CUSA12584",
+  "version": "01.36",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FBDB0",
+          "on": "80BF7801000026750FC5FA104714C5FA114704E9D709DEFBC5FA114704E9CD09DEFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1FDC79A",
+          "on": "E911F62104",
+          "off": "C5FA114704"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina/Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FB4B0",
+          "on": "C4C17A10442408C4C17A11442410E934C503FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "32379F0",
+          "on": "E9BB3AFC029090",
+          "off": "C4C17A11442410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Arrows/Craft On Use (Need 2 To work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "314B748",
+          "on": "9090909090",
+          "off": "E8B3F4ACFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "314BA50",
+          "on": "9090909090",
+          "off": "E8ABF1ACFF"
+        }
+      ]
+    },
+    {
+      "name": "No Reload Crossbow/Boomstick",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "338D724",
+          "on": "9090909090",
+          "off": "E8D7D488FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FB4E0",
+          "on": "C783A800000000803B45E9BE8ABDFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2DD3FA5",
+          "on": "E936754203909090",
+          "off": "C5FA1183A8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Immunity/Chemical Area",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FB570",
+          "on": "C4C17A104720C4C17A11472CE922EF00FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "320A49D",
+          "on": "E9CE10FF0290",
+          "off": "C4C17A11472C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite UV Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FB5C0",
+          "on": "41C784248001000000006041E9FD3646FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "265ECC4",
+          "on": "E9F7C8B9039090909090",
+          "off": "C4C17A11842480010000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Level/Inhibitors (Use After Escaping Waltz)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "33BC0E0",
+          "on": "41897C2418",
+          "off": "4989442418"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FB7E0",
+          "on": "0F4CD1C74734FFC99A3BE9CBDAF4FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "31492B4",
+          "on": "E927250B0390",
+          "off": "0F4CD1895734"
+        },
+        {
+          "offset": "61FB810",
+          "on": "29D8C74734FFC99A3BE9AFDCF4FC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "31494C8",
+          "on": "E943230B03",
+          "off": "29D8894734"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time Missions (Disable B4 Finishing)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37111C8",
+          "on": "9090909090",
+          "off": "C5FA114370"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time For Parkour And Fighting Challenge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "61FB8C0",
+          "on": "90E93BC24BFC",
+          "off": "000000000000"
+        },
+        {
+          "offset": "26B7AF8",
+          "on": "E9C33DB40390909090",
+          "off": "C4C17A118668030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

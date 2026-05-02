@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wo Long Fallen Dynasty" Moder="Pharaoh2k" Cusa="CUSA36986" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Master Code (Must always be enabled)">
+        <Cheatline>
+            <Offset>3623800</Offset>
+            <Section>0</Section>
+            <ValueOn>83-3F-02-0F-94-C0-83-BF-18-01-00-00-00-0F-85-03-40-DC-FC-48-83-EF-10-48-89-3D-F9-C7-3D-00-48-83-C7-10-E9-EF-3F-DC-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Ghost Mode">
+        <Cheatline>
+            <Offset>402B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="God Mode">
+        <Cheatline>
+            <Offset>362383E</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-BD-E0-FE-FF-FF-4C-89-EE-41-83-BD-50-01-00-00-00-0F-85-D5-9C-DA-FC-E9-D5-9C-DA-FC-E9-CB-9C-DA-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>3623860</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7C-11-47-10-4C-39-3D-AA-C7-3D-00-0F-85-9B-3E-F0-FC-52-41-8B-57-18-41-89-57-14-5A-E9-8C-3E-F0-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Morale">
+        <Cheatline>
+            <Offset>3623882</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-10-40-78-7D-01-44-8B-70-10-48-8D-BD-5C-FF-FF-FF-E9-79-48-C8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill">
+        <Cheatline>
+            <Offset>36238AE</Offset>
+            <Section>0</Section>
+            <ValueOn>48-81-C2-90-01-00-00-48-39-15-5B-C7-3D-00-74-0E-48-81-EA-90-01-00-00-31-C0-E9-50-77-DC-FC-48-81-EA-90-01-00-00-C4-E2-70-F2-C0-E9-3F-77-DC-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Spirit">
+        <Cheatline>
+            <Offset>36238DD</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FC-11-47-10-4C-39-2D-3E-C7-3D-00-0F-85-E7-7D-D2-FC-51-8B-4F-18-89-4F-10-59-E9-DA-7D-D2-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Genuine Qi">
+        <Cheatline>
+            <Offset>36238FC</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-00-FF-E0-F5-05-8B-10-B9-B4-C0-59-03-E9-5B-21-EC-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Buff Duration">
+        <Cheatline>
+            <Offset>36239D0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-88-00-00-00-00-00-FA-44-C4-C1-7A-10-87-88-00-00-00-E9-F0-52-E7-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="World Speed (Master-Code)">
+        <Cheatline>
+            <Offset>3623922</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-0D-23-C7-3D-00-C4-E1-FA-2A-C0-E9-05-42-A3-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="---x0.5 Speed">
+        <Cheatline>
+            <Offset>03A0004D</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-3F</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="---x2 Speed">
+        <Cheatline>
+            <Offset>03A0004D</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="---x3 Speed">
+        <Cheatline>
+            <Offset>03A0004D</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-40-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="---x4 Speed">
+        <Cheatline>
+            <Offset>03A0004D</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Accolades (On Buy)">
+        <Cheatline>
+            <Offset>3623938</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-CF-C7-40-0C-FF-C9-9A-3B-8B-48-0C-E9-E1-74-BD-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="99 Dragon Cure Potions (On use)">
+        <Cheatline>
+            <Offset>362394C</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-E5-A9-00-00-63-8A-88-E5-A9-00-00-E9-30-4E-BD-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Copper">
+        <Cheatline>
+            <Offset>362395E</Offset>
+            <Section>0</Section>
+            <ValueOn>42-C7-44-A0-08-63-00-00-00-42-8B-44-A0-08-E9-7A-4B-DE-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Wizardry Spells (On use)">
+        <Cheatline>
+            <Offset>3623971</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-81-D4-01-00-00-63-00-00-00-8B-B4-81-D4-01-00-00-E9-71-07-BD-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Throwables (On use)">
+        <Cheatline>
+            <Offset>362398A</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-47-08-63-89-F0-E9-D6-40-83-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Beast Power Charge">
+        <Cheatline>
+            <Offset>3623997</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-78-11-44-24-50-41-C7-44-24-50-00-00-7A-44-E9-48-61-F0-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Tiger Beast Duration">
+        <Cheatline>
+            <Offset>36239AE</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-41-70-0F-27-00-00-8B-49-70-39-4B-38-E9-D2-CE-C7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

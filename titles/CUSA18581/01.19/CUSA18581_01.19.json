@@ -1,0 +1,119 @@
+{
+  "name": "Elden Ring",
+  "id": "CUSA18581",
+  "version": "01.19",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3DB0",
+          "on": "4981F8C4BF1D03751F4189854801000041898548010000E921C094FD41898548010000E915C094FD4180F8F075EE4189854801000041898548010000E9FCBF94FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E3FDE6",
+          "on": "E9C53F6B029090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3DB9",
+          "on": "418B854C010000",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3DDE",
+          "on": "66B80100909090",
+          "off": "41898548010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E405F7",
+          "on": "90909090909090",
+          "off": "41898664010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite FP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3B20",
+          "on": "418B855C01000041898558010000E91BC994FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E40447",
+          "on": "E9D4366B029090",
+          "off": "41898558010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F3AE0",
+          "on": "438944EC0CC701E7030000E91D0D66FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "B54805",
+          "on": "E9D6F29902909090",
+          "off": "438944EC0C448931"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flasks (On Use/x2 To Work)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B547E9",
+          "on": "909090",
+          "off": "448931"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Runes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34F36D0",
+          "on": "8B09C7406CFFC99A3BE94A33C1FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1106A23",
+          "on": "E9A8CC3E02",
+          "off": "8B0989486C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

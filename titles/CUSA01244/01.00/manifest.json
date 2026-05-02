@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01244",
+  "version": "01.00",
+  "name": "Final Fantasy X",
+  "process": "ffx_phyreApp.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01244"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01244_01.00_ffx_phyreApp.elf.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01244_01.00.json",
+      "size": 8745,
+      "sha256": "a656d1aa1230aa2d894a9b7925c68df97b90b85ee7b6fdacbd8ad6666e3bb465",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01244_01.00_ffx_phyreApp.elf.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01244_01.00.shn",
+      "size": 9392,
+      "sha256": "3bc9ddd07fc459327dc8a86b185c2715dd14136b68fd450ae32987f6580f917e",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01244_01.00_ffx_phyreApp.elf.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01244_01.00.mc4",
+      "size": 12544,
+      "sha256": "954e1434817e3439ffb2c71ab38d034c31e55aef1c5a9937b7cb0a0f5eea6312",
+      "cheatCount": 10,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA01244_01.00_ffx_phyreApp.elf.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

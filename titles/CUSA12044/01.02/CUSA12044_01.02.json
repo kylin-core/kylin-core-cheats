@@ -1,0 +1,55 @@
+{
+  "name": "Fox N Forests",
+  "id": "CUSA12044",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D5EA37",
+          "on": "9090909090",
+          "off": "E864F0CBFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80651252",
+          "on": "909090",
+          "off": "897718"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Web",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B14A66",
+          "on": "9090909090909090",
+          "off": "C5FA118798010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-GOLD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D53072",
+          "on": "909090",
+          "off": "897714"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Resident Evil 2",
+  "id": "CUSA09171",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "49D28F1",
+          "on": "909090",
+          "off": "894858"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-All-Weapon-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5AF12B6",
+          "on": "909090",
+          "off": "895120"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

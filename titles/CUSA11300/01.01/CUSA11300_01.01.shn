@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Onimusha: Warlords" Moder="Wander FW9.00" Cusa="CUSA11300" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>567B50</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-80-DC-B9-00-00-C8-00-E9-01-D7-D0-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max red souls">
+        <Cheatline>
+            <Offset>567800</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-84-AD-00-00-FF-C9-9A-3B-E9-5F-3E-AA-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite blue sword magic">
+        <Cheatline>
+            <Offset>567811</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-3E-AF-00-00-C8-00-E9-0F-93-D0-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite red sword magic">
+        <Cheatline>
+            <Offset>567811</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-40-AF-00-00-C8-00-E9-83-96-D0-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Green spear">
+        <Cheatline>
+            <Offset>567D90</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-42-AF-00-00-C8-00-E9-C6-92-D0-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite items ">
+        <Cheatline>
+            <Offset>5677E0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-84-B4-11-27-00-00-50-E9-85-EE-D6-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Kunai throw Kaede">
+        <Cheatline>
+            <Offset>567821</Offset>
+            <Section>0</Section>
+            <ValueOn>42-C6-84-89-AD-AD-00-00-50-E9-DA-45-D7-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06314",
+  "version": "01.00",
+  "name": "Resident Evil Revelations 1",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06314"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06314_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06314_01.00.json",
+      "size": 1387,
+      "sha256": "7d3f83174a04a037cb64ab61422cc74bc1ac29079b06fd3340200d6ee80c1a31",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06314_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06314_01.00.shn",
+      "size": 1659,
+      "sha256": "be3bab610c30fd8620d245f002802494c913f7faea92b45088b54e118373ad46",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06314_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06314_01.00.mc4",
+      "size": 2220,
+      "sha256": "66368f9dc2c5daf3c9d948f1690f1be800ec6cd23840c9a8db6ac85f8fde96e4",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06314_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

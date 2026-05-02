@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atelier Ryza: Ever Darkness & the Secret Hideout" Moder="Wander FW9.00" Cusa="CUSA16458" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Stats (in battle keep it on)">
+        <Cheatline>
+            <Offset>7FC5F1A0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-81-84-85-90-00-00-00-E7-03-41-03-8C-85-90-00-00-00-E9-F8-88-83-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Alot of Stocked Items in shop (after buying)">
+        <Cheatline>
+            <Offset>7FC5F150</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8D-04-40-C6-04-41-63-E9-FD-68-8A-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins (on buy)">
+        <Cheatline>
+            <Offset>7FC5F180</Offset>
+            <Section>0</Section>
+            <ValueOn>BF-08-00-00-00-41-C7-07-7F-96-98-00-E9-44-FA-8A-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

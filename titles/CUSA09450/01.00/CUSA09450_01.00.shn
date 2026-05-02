@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MLB® The Show™ 18" Moder="thrill" Cusa="CUSA09450" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Always Homerun">
+        <Cheatline>
+            <Offset>11739b9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-F0-57-C9-C5-F8-2E-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Autohit 2000.0MPH Incline 19.0deg Azimuth 5.5deg">
+        <Cheatline>
+            <Offset>1173550</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-05-89-32-32-0B-01-48-C7-05-82-32-32-0B-00-00-98-41-48-C7-05-7B-32-32-0B-00-00-00-40-48-C7-05-90-15-7B-00-00-00-FA-44-48-C7-05-65-32-32-0B-00-00-B0-40-E9-78-00-00-00-90</ValueOn>
+            <ValueOff>41-83-BD-00-2F-00-00-03-0F-85-A2-00-00-00-4C-89-54-24-48-41-C7-85-00-2F-00-00-04-00-00-00-E8-4D-42-43-00-E8-48-42-43-00-48-39-05-89-FE-5D-08-74-7A-8A-05-E0-05-70-08-34-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Always Throw FB Middle">
+        <Cheatline>
+            <Offset>19FA222</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Always Swing and Miss">
+        <Cheatline>
+            <Offset>19FA220</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Always Strike and Contact No Fouls">
+        <Cheatline>
+            <Offset>19FA221</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stop the Ball (and steal)">
+        <Cheatline>
+            <Offset>11729E0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Just training (in calendar screen only)">
+        <Cheatline>
+            <Offset>9873B67</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Add score 31 runs per hit">
+        <Cheatline>
+            <Offset>AF79CD</Offset>
+            <Section>0</Section>
+            <ValueOn>41-B6-1F-90</ValueOn>
+            <ValueOff>44-8B-73-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Maximum hitspeed 3500MPH">
+        <Cheatline>
+            <Offset>1616204</Offset>
+            <Section>0</Section>
+            <ValueOn>00-A0-A5-45</ValueOn>
+            <ValueOff>00-00-02-43</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

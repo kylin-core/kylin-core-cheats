@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00740",
+  "version": "01.28",
+  "name": "Terraria",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00740"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00740_01.28.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00740_01.28.json",
+      "size": 1348,
+      "sha256": "560d734ee8853ae87b9a202500bdebc4658dcde6ce951a371c7bdc83afbf0915",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00740_01.28.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00740_01.28.shn",
+      "size": 1628,
+      "sha256": "5c11ae3e6b43c1301452a811cd23d13709d4f9b5bdc5edd65c9e4fc0137d64ce",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00740_01.28.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00740_01.28.mc4",
+      "size": 2176,
+      "sha256": "170067dfabe9eed87900c982a4f382e062726779427fdf58baf2345c2e45b4ee",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00740_01.28.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

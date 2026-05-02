@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA24919",
+  "version": "01.03",
+  "name": "Shin Megami Tensei III Nocturne HD Remaster",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA24919"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24919_01.03.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA24919_01.03.json",
+      "size": 1280,
+      "sha256": "cb745034e68b0a31db96c7d6715cf71b36be58052b21e71922046948f574a2d3",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24919_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA24919_01.03.shn",
+      "size": 1246,
+      "sha256": "7a06aed30c641c29926400f73f1dffb82c64c52fbf2b462d7a84a7cff5c141ec",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24919_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA24919_01.03.mc4",
+      "size": 1664,
+      "sha256": "87c202013378a703413e5e47d9bdad2c9da57802e160a5aef807abd249b25a60",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24919_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Kao the Kangaroo" Moder="Wander FW9.00" Cusa="CUSA30891" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>5B43B60</Offset>
+            <Section>0</Section>
+            <ValueOn>80-7B-70-01-75-06-C6-43-40-24-EB-06-89-43-40-48-8B-03-E9-35-BD-FD-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="infinite special attack bar">
+        <Cheatline>
+            <Offset>5B43A70</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-B4-02-00-00-00-00-C8-42-E9-AF-6E-E5-FA-57-61-6E-64-65-72-20-46-57-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins,Runes,Crystals,Scrolls">
+        <Cheatline>
+            <Offset>5B43A20</Offset>
+            <Section>0</Section>
+            <ValueOn>48-0F-44-C8-C7-01-3F-42-0F-00-E9-6D-1C-FE-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite lives (on gain)">
+        <Cheatline>
+            <Offset>5B40E00</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-48-0F-27-00-00-80-7F-32-00-E9-78-8F-E9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

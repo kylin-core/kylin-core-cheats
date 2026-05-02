@@ -1,0 +1,76 @@
+{
+  "name": "Curses N Chaos",
+  "id": "CUSA02638",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7320E",
+          "on": "9090909090",
+          "off": "E82D030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Hearts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "735D2",
+          "on": "9090",
+          "off": "8911"
+        }
+      ]
+    },
+    {
+      "name": "max-lives + Infinite-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85F812",
+          "on": "B963000000898828080000E9070AC1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "470223",
+          "on": "E9EAF53E0090",
+          "off": "898828080000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85F800",
+          "on": "BE7F96980089B7AC080000E9D2FAC1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "47F2DC",
+          "on": "E91F053E0090",
+          "off": "89B7AC080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "36BD0",
+          "on": "9090",
+          "off": "FF08"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

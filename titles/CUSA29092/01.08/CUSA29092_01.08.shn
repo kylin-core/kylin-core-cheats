@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty®: Vanguard" Moder="Saso" Cusa="CUSA29092" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (Campaign Mode)">
+        <Cheatline>
+            <Offset>10ADF3B</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-2C-C1</ValueOn>
+            <ValueOff>C5-FA-2C-C0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (Zombies Mode)">
+        <Cheatline>
+            <Offset>27AF240</Offset>
+            <Section>0</Section>
+            <ValueOn>45-31-C0-45-29-84-24-C0-01-00-00-E9-22-B7-DE-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo / No Reload">
+        <Cheatline>
+            <Offset>27AF100</Offset>
+            <Section>0</Section>
+            <ValueOn>39-F2-BB-63-00-00-00-E9-55-60-97-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Armor / Max Salvage (9999)">
+        <Cheatline>
+            <Offset>27AF2D0</Offset>
+            <Section>0</Section>
+            <ValueOn>43-81-7C-3D-0C-86-E2-00-00-75-08-66-41-C7-06-0F-27-EB-11-43-81-7C-3D-0C-86-C9-00-00-75-06-66-41-C7-06-20-03-49-8B-06-41-89-DE-E9-CF-E1-6A-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money (99999)">
+        <Cheatline>
+            <Offset>27AF1A0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BF-44-02-00-00-61-6D-6D-6F-75-0D-BA-9F-86-01-00-89-17-5D-E9-6F-38-62-7D-8B-16-89-17-5D-E9-65-38-62-7D</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

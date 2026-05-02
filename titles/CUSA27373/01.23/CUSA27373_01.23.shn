@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Callisto Protocol" Moder="Dioniso" Cusa="CUSA27373" Version="01.23" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="[Health] Immunity">
+        <Cheatline>
+            <Offset>7522380</Offset>
+            <Section>0</Section>
+            <ValueOn>48-85-C9-74-36-83-7B-24-10-72-30-83-7B-24-13-77-2A-50-48-8B-43-20-81-38-30-01-06-08-75-1C-F3-0F-2D-C2-83-F8-00-74-13-58-C5-FA-10-93-1C-01-00-00-C5-FA-11-93-18-01-00-00-EB-01-58-C5-F8-57-C0-C5-F8-2E-C8-C5-FA-11-93-18-01-00-00-E9-07-3C-33-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Weapon] 1 Hit Kill">
+        <Cheatline>
+            <Offset>75222C0</Offset>
+            <Section>0</Section>
+            <ValueOn>4D-85-FF-74-32-48-85-D2-74-2D-81-BF-1C-01-00-00-00-00-7A-43-74-21-83-7F-24-10-72-1B-83-7F-24-13-77-15-48-8B-47-20-81-38-30-01-06-08-74-09-B8-2D-01-00-00-66-0F-6E-C0-48-8B-45-D0-C5-FA-5D-8F-1C-01-00-00-E9-74-3C-33-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Weapon] Infinite Ammo">
+        <Cheatline>
+            <Offset>7522130</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-81-B8-00-00-00-9A-02-00-00-83-B9-B8-00-00-00-00-E9-F9-71-E9-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Weapon] Infinite GRP">
+        <Cheatline>
+            <Offset>7522190</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-87-BC-00-00-00-41-89-87-B8-00-00-00-C4-C1-7A-10-9F-B8-00-00-00-E9-E5-65-0F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Item] Infinite Credits">
+        <Cheatline>
+            <Offset>7522150</Offset>
+            <Section>0</Section>
+            <ValueOn>45-8B-7C-3C-10-41-8B-54-3C-18-81-FA-FF-FF-FF-7F-0F-85-41-95-10-FB-41-81-FF-AA-86-BC-27-0F-83-34-95-10-FB-41-BF-AA-86-BC-27-45-89-7C-3C-10-E9-24-95-10-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Game x0,5">
+        <Cheatline>
+            <Offset>7522200</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-F0-02-00-00-00-00-00-3F-C5-FA-10-87-F0-02-00-00-E9-35-57-37-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Game x1">
+        <Cheatline>
+            <Offset>7522200</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-F0-02-00-00-00-00-80-3F-C5-FA-10-87-F0-02-00-00-E9-35-57-37-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Game x2">
+        <Cheatline>
+            <Offset>7522200</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-F0-02-00-00-00-00-00-40-C5-FA-10-87-F0-02-00-00-E9-35-57-37-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Game x4">
+        <Cheatline>
+            <Offset>7522200</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-F0-02-00-00-00-00-80-40-C5-FA-10-87-F0-02-00-00-E9-35-57-37-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Player x0,5">
+        <Cheatline>
+            <Offset>7522220</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-30-01-06-08-74-0B-FF-90-B0-09-00-00-E9-E2-E2-0A-FB-C7-87-98-00-00-00-00-00-00-3F-EB-E9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Player x1">
+        <Cheatline>
+            <Offset>7522220</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-30-01-06-08-74-0B-FF-90-B0-09-00-00-E9-E2-E2-0A-FB-C7-87-98-00-00-00-00-00-80-3F-EB-E9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Player x2">
+        <Cheatline>
+            <Offset>7522220</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-30-01-06-08-74-0B-FF-90-B0-09-00-00-E9-E2-E2-0A-FB-C7-87-98-00-00-00-00-00-00-40-EB-E9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Player x3">
+        <Cheatline>
+            <Offset>7522220</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-30-01-06-08-74-0B-FF-90-B0-09-00-00-E9-E2-E2-0A-FB-C7-87-98-00-00-00-00-00-40-40-EB-E9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] Player x4">
+        <Cheatline>
+            <Offset>7522220</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3F-30-01-06-08-74-0B-FF-90-B0-09-00-00-E9-E2-E2-0A-FB-C7-87-98-00-00-00-00-00-80-40-EB-E9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] NME x0,25">
+        <Cheatline>
+            <Offset>7522290</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-81-10-04-00-00-66-41-83-7C-24-08-40-0F-85-1C-62-C8-FD-41-C7-84-24-98-00-00-00-00-00-80-3E-48-8B-81-10-04-00-00-E9-04-62-C8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] NME x0,5">
+        <Cheatline>
+            <Offset>7522290</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-81-10-04-00-00-66-41-83-7C-24-08-40-0F-85-1C-62-C8-FD-41-C7-84-24-98-00-00-00-00-00-00-3F-48-8B-81-10-04-00-00-E9-04-62-C8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] NME x1">
+        <Cheatline>
+            <Offset>7522290</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-81-10-04-00-00-66-41-83-7C-24-08-40-0F-85-1C-62-C8-FD-41-C7-84-24-98-00-00-00-00-00-80-3F-48-8B-81-10-04-00-00-E9-04-62-C8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Speed] NME x2">
+        <Cheatline>
+            <Offset>7522290</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-81-10-04-00-00-66-41-83-7C-24-08-40-0F-85-1C-62-C8-FD-41-C7-84-24-98-00-00-00-00-00-00-40-48-8B-81-10-04-00-00-E9-04-62-C8-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Player x0,5">
+        <Cheatline>
+            <Offset>75221C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-78-11-95-E0-01-00-00-66-41-83-7D-08-48-0F-85-80-08-8F-F9-B8-00-00-00-3F-41-89-85-E0-01-00-00-41-89-85-E4-01-00-00-41-89-85-E8-01-00-00-E9-61-08-8F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Player x1">
+        <Cheatline>
+            <Offset>75221C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-78-11-95-E0-01-00-00-66-41-83-7D-08-48-0F-85-80-08-8F-F9-B8-00-00-80-3F-41-89-85-E0-01-00-00-41-89-85-E4-01-00-00-41-89-85-E8-01-00-00-E9-61-08-8F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Player x2">
+        <Cheatline>
+            <Offset>75221C0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-78-11-95-E0-01-00-00-66-41-83-7D-08-48-0F-85-80-08-8F-F9-B8-00-00-00-40-41-89-85-E0-01-00-00-41-89-85-E4-01-00-00-41-89-85-E8-01-00-00-E9-61-08-8F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Ammo Counter x1">
+        <Cheatline>
+            <Offset>7522310</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-80-3F-89-83-EC-00-00-00-C4-E2-79-18-83-EC-00-00-00-E9-29-66-10-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Ammo Counter x2">
+        <Cheatline>
+            <Offset>7522310</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-00-40-89-83-EC-00-00-00-C4-E2-79-18-83-EC-00-00-00-E9-29-66-10-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Ammo Counter x4">
+        <Cheatline>
+            <Offset>7522310</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-80-40-89-83-EC-00-00-00-C4-E2-79-18-83-EC-00-00-00-E9-29-66-10-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[Size] Ammo Counter x8">
+        <Cheatline>
+            <Offset>7522310</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-00-41-89-83-EC-00-00-00-C4-E2-79-18-83-EC-00-00-00-E9-29-66-10-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[ONLY DLC] Puzzle: Timer Stopped">
+        <Cheatline>
+            <Offset>7522330</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BF-20-04-00-00-00-00-A0-41-74-08-C5-FA-11-8F-0C-02-00-00-E9-7F-F0-3E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="[ONLY DLC] Puzzle: Solved">
+        <Cheatline>
+            <Offset>7522350</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BF-20-04-00-00-00-00-A0-41-75-0A-C7-87-28-04-00-00-01-00-00-00-48-C7-45-C0-00-00-00-00-E9-5D-F0-3E-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

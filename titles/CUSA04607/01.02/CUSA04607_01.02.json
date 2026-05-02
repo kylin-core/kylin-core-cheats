@@ -1,0 +1,70 @@
+{
+  "name": "Batman Return to Arkham",
+  "id": "CUSA04607",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health / Armor / 1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44C3800",
+          "on": "6683FF34752A4181BF98000000D6520000751D4983BF80000000007413837DC8647D0DB810270000418907E9F94112FE2B45C8EBF341817F042C0100007DF131C0EBE5",
+          "off": "6683FF34752A4181BF98000000D6520000751D4983BF80000000007413837DC8647D0D0000000000000000000000000000000000000000000000000000007413000000"
+        },
+        {
+          "offset": "25E7A23",
+          "on": "E9D8BDED0190",
+          "off": "2B45C8418907"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44C381B",
+          "on": "7418",
+          "off": "7413"
+        }
+      ]
+    },
+    {
+      "name": "Upgrade Points (On Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44C3844",
+          "on": "8D48FF4983F90075274D39C8752249B900FFFFFF0F0000004D09F9664183F9A4750E817F08E5C400007505B91E00000041890FE9693D12FE90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25E75DF",
+          "on": "E960C2ED0190",
+          "off": "8D48FF41890F"
+        }
+      ]
+    },
+    {
+      "name": "Freez (Bomb Timer)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "44C387F",
+          "on": "4883F90675144983FA00750E817F08F02401007505E9712212FEC5FA5C45C8E9672212FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "25E5B05",
+          "on": "E975DDED01",
+          "off": "C5FA5C45C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

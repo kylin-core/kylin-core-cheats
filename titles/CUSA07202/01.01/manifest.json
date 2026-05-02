@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07202",
+  "version": "01.01",
+  "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07202"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07202_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07202_01.01.json",
+      "size": 401,
+      "sha256": "de051c374e984b314f4032f558a547776d4048ba4ee944adcc8a1f42ddda0d3b",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07202_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07202_01.01.shn",
+      "size": 600,
+      "sha256": "eb82184eceb5ebc64c811331c2dabee7d65708b23d8e5a5f5a118e35084eff64",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07202_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07202_01.01.mc4",
+      "size": 812,
+      "sha256": "63f4e4b00bb9b6ee37e38f124150c4f904f7caf6d070a05470fcc4e7e5dbcfbc",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07202_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

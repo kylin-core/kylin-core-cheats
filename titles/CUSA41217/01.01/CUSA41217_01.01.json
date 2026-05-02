@@ -1,0 +1,364 @@
+{
+  "name": "Transformers - Earthspark Expedition",
+  "id": "CUSA41217",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode [ must be enabled for MC Cheats ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB0B8",
+          "on": "4183BC24B0000000007508F30F590D0E000000C5FA5CC1E83C780DFCE9887F0DFC0000803F",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12C3058",
+          "on": "E95B80F20390909090",
+          "off": "C5FA5CC1E8AFF8FFFF"
+        },
+        {
+          "offset": "51EB13A",
+          "on": "48899D68FFFFFF41564883F8007517803D8000000001750E448A35690000004488740104EB5B4883F8107517803D6500000001750E448A354E0000004488740104EB3E4883F8207517803D4A00000001750E448A35350000004488740104EB214883F8307517803D2F00000001750E448A351C0000004488740104EB04FF4C0104415EE98EEA0DFC63006300000063000000630000000000000000000000",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12C9C45",
+          "on": "E9F014F203909090909090",
+          "off": "48899D68FFFFFFFF4C0104"
+        },
+        {
+          "offset": "51EB1F8",
+          "on": "48C1E2044883FA00751A803D680000000175118B0D5400000048C7C200000000894C16044883FA0A751A803D4A0000000175118B0D3800000048C7C20A000000894C16044883FA14751A803D2C0000000175118B0D1C00000048C7C214000000894C16048B4C1604E9883F08FC9F8601009F8601009F860100000000000000",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "126F1E5",
+          "on": "E90EC0F703909090",
+          "off": "48C1E2048B4C1604"
+        },
+        {
+          "offset": "51EB297",
+          "on": "C5FA108378010000F30F590505000000E92D0003FE0000803F",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "321B2D1",
+          "on": "E9C1FFFC01909090",
+          "off": "C5FA108378010000"
+        },
+        {
+          "offset": "51EB2D0",
+          "on": "C5FA108483E8010000F30F590505000000E9CA6B03FE0000803F",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3221EA7",
+          "on": "E92494FC0190909090",
+          "off": "C5FA108483E8010000"
+        }
+      ]
+    },
+    {
+      "name": "Immortal",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB000",
+          "on": "83BBB000000001750C80BBE001000001E941790DFC80BBE001000000E935790DFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12C294F",
+          "on": "E9AC86F2039090",
+          "off": "80BBE001000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB041",
+          "on": "83BBB0000000017508C5FA108378010000C5FA11837C010000E95C790DFC",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12C29B3",
+          "on": "E98986F203909090",
+          "off": "C5FA11837C010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Amor",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB07F",
+          "on": "C4C17A10942480010000C4C17A11942484010000E9727F0DFC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12C3000",
+          "on": "E97A80F2039090909090",
+          "off": "C4C17A11942484010000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB0D9",
+          "on": "0000C842",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Drive Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB0FD",
+          "on": "C5FA10870C030000C5FA118710030000C5FA10870C030000E9622C04FC",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "122DD74",
+          "on": "E984D3FB03909090",
+          "off": "C5FA108710030000"
+        }
+      ]
+    },
+    {
+      "name": "Enable Drive Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12B9495",
+          "on": "80BBA803000001",
+          "off": "80BBA803000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Small Medicine Pack [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB1C2",
+          "on": "6300",
+          "off": "0000"
+        },
+        {
+          "offset": "51EB1D0",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Big Medicine Pack [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB1C4",
+          "on": "63000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "51EB1D2",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Shield Pack [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB1CC",
+          "on": "63000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "51EB1D6",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Weapon Pack [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB1C8",
+          "on": "63000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "51EB1D4",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Scrap [ on gain - MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB265",
+          "on": "9F860100",
+          "off": "00000000"
+        },
+        {
+          "offset": "51EB271",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Canister [ on gain - MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB26D",
+          "on": "9F860100",
+          "off": "00000000"
+        },
+        {
+          "offset": "51EB275",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Decks [ on gain - MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB269",
+          "on": "9F860100",
+          "off": "00000000"
+        },
+        {
+          "offset": "51EB273",
+          "on": "0100",
+          "off": "0000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1312A48",
+          "on": "9090909090909090",
+          "off": "C5FA5883A8030000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1312A50",
+          "on": "9090909090909090",
+          "off": "C5FA1183A8030000"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2AC",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2AC",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Jump Multiplier x 3 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2AC",
+          "on": "00004040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2E6",
+          "on": "0000803F",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2E6",
+          "on": "00004842",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 3 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2E6",
+          "on": "0000C842",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Speed Multiplier x 4 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "51EB2E6",
+          "on": "00001643",
+          "off": "0000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

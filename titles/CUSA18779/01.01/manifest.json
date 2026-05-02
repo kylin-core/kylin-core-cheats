@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18779",
+  "version": "01.01",
+  "name": "Minecraft Dungeons",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18779"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18779_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18779_01.01.json",
+      "size": 1301,
+      "sha256": "840e530b8c0446130a7567452ab354fcac272728506980bac0132da0f49485c7",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18779_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18779_01.01.shn",
+      "size": 1078,
+      "sha256": "d2e64ab6e9eede18892163699666ba82715d64d40c4232ff2501ee7aba0affb1",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18779_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18779_01.01.mc4",
+      "size": 1452,
+      "sha256": "45ceb061d26b880e290e4b034bd3031356716105963c3d7c285f7b14d34cb7f3",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18779_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

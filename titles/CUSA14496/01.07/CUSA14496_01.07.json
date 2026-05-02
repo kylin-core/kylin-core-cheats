@@ -1,0 +1,49 @@
+{
+  "name": "Journey To The Savage Planet",
+  "id": "CUSA14496",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max+Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BBE7CD",
+          "on": "90909090",
+          "off": "C5FA5DC9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A30140",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Max Resources On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FFFFFFFFFFC04000",
+          "on": "41C744C2083F420F00E956BCE200",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "A2FC5F",
+          "on": "E99C431DFF",
+          "off": "450164C208"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2"
+  ]
+}

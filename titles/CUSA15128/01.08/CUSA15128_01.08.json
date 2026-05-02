@@ -1,0 +1,59 @@
+{
+  "name": "Dysmantle",
+  "id": "CUSA15128",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B676F0",
+          "on": "80BB140B000020750FC7839C0400000000F042E97073C0FFC5FA11839C040000E96373C0FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "76EA70",
+          "on": "E97B8C3F00909090",
+          "off": "C5FA11839C040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience gained",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B67990",
+          "on": "41C78688000000FFE30B54E901487BFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "31C19A",
+          "on": "E9F1B784009090",
+          "off": "41018688000000"
+        }
+      ]
+    },
+    {
+      "name": "100 items (on pick up have 1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B67A90",
+          "on": "C743086400000089430CE9385F79FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2FD9D1",
+          "on": "E9BAA0860090",
+          "off": "89430889430C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA14275",
+  "version": "01.00",
+  "name": "Back 4 Blood",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA14275"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14275_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA14275_01.00.json",
+      "size": 620,
+      "sha256": "25ed40832758e45f228534dfc860b1810701f9e941578df8d21b2e5bf73cb4d6",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14275_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA14275_01.00.shn",
+      "size": 873,
+      "sha256": "02987e44256a7c31f79abfa659bd3b2a1bca14799cc649cb4032413fffd43d03",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14275_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA14275_01.00.mc4",
+      "size": 1176,
+      "sha256": "cfaa64b613abeb1ba8c3d1e6caf45353f74c9a8da6bad1508d56a836496f27d7",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14275_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

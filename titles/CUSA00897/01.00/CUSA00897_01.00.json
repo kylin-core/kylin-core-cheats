@@ -1,0 +1,77 @@
+{
+  "name": "inFAMOUS - First Light",
+  "id": "CUSA00897",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2113B1",
+          "on": "90909090",
+          "off": "C5EA5CD1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "210432",
+          "on": "C5F25FC8",
+          "off": "C5F25DC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Singularity",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DAC9C",
+          "on": "C5F828C1909090909090",
+          "off": "C5F82EC10F8410010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Melee Finisher",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DAC30",
+          "on": "BE02000000909090",
+          "off": "39B7F80000007437"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Missiles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DABF0",
+          "on": "BE04000000909090",
+          "off": "39B7F40000007437"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D9BC1",
+          "on": "BBE703000090899FFC00000090",
+          "off": "899FFC00000080BF510D020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

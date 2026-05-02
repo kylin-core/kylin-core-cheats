@@ -1,0 +1,195 @@
+{
+  "name": "Mass Effect - Andromeda",
+  "id": "CUSA02491",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE7800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "2 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE7801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE788E",
+          "on": "4981FBA58C00007404C5FA5DC1E9554494FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "152BCED",
+          "on": "E99CBB6B02909090",
+          "off": "C5F25FCAC5FA5DC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Life Conservation",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE785A",
+          "on": "909090909090909090909090909041C744243000004843C4C17A10442430E9EAC1F2FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2B13A60",
+          "on": "E9F53D0D019090",
+          "off": "C4C17A10442430"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12247D1",
+          "on": "9090",
+          "off": "FFC9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12324F8",
+          "on": "909090",
+          "off": "4529EC"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energycells",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "10231DD",
+          "on": "9090",
+          "off": "29C3"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "100090A",
+          "on": "C5E057DB",
+          "off": "C5E25FD9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1006E41",
+          "on": "909090",
+          "off": "2B14B9"
+        }
+      ]
+    },
+    {
+      "name": "Max Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE787D",
+          "on": "BEE70300008930BA10000000E9215C42FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "100D4A8",
+          "on": "E9D0A3BD029090",
+          "off": "8B30BA10000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E9F8CC",
+          "on": "9090",
+          "off": "29C8"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits/Resources/Research Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE78A0",
+          "on": "488B442470BA3F420F004189571CE91F532BFD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E9CBC9",
+          "on": "E9D2ACD40290909090",
+          "off": "488B442470418B571C"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE78B3",
+          "on": "41BCF13E0F004589A6FC000000E90F6442FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "100DCCD",
+          "on": "E9E19BBD029090",
+          "off": "4501A6FC000000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Monolith Scanning",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE78D5",
+          "on": "C4C178114620B80300000041894630E95629F3FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2B1A235",
+          "on": "E99BD60C019090909090",
+          "off": "C4C17811462041894630"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

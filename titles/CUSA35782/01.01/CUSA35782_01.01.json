@@ -1,0 +1,49 @@
+{
+  "name": "Beholgar",
+  "id": "CUSA35782",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80820029",
+          "on": "9090909090",
+          "off": "E842000000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-GOLD-All-Items-Weapon-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82C4F800",
+          "on": "B8FFE0F5054189442438E9708AE5FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80AA827A",
+          "on": "E981751A02",
+          "off": "4189442438"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80966986",
+          "on": "909090",
+          "off": "894338"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

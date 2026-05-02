@@ -1,0 +1,33 @@
+{
+  "name": "Scar-Lead Salvation",
+  "id": "CUSA52790",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80D062E9",
+          "on": "9090909090",
+          "off": "E812F5F3FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C0F3B1",
+          "on": "9090909090",
+          "off": "E8DAEEFFFF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="XIII Remake" Moder="Saso" Cusa="CUSA19096" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Health">
+        <Cheatline>
+            <Offset>186C600</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-43-48-C5-FA-11-43-44-E9-22-C2-04-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Ammo/No Reload (Reload Once For Akimbo)">
+        <Cheatline>
+            <Offset>186C620</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-80-00-00-00-63-00-00-00-41-C7-85-84-00-00-00-63-00-00-00-BF-63-00-00-00-E9-10-84-D6-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Oxygen">
+        <Cheatline>
+            <Offset>186C660</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-5C-C1-C5-FA-10-00-C5-FA-11-00-E9-C5-E2-04-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

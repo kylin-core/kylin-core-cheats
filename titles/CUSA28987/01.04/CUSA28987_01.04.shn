@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="零 ～濡鴉之巫女～" Moder="d01v" Cusa="CUSA28987" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Camera Shutter Cooldown">
+        <Cheatline>
+            <Offset>12B7800</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-A4-00-00-00-00-00-80-3F-E9-EB-5A-21-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Camera Film Cooldown">
+        <Cheatline>
+            <Offset>12B7843</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-A4-00-00-00-00-00-80-3F-E9-97-60-21-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HP Refill When Damage">
+        <Cheatline>
+            <Offset>4E4E13</Offset>
+            <Section>0</Section>
+            <ValueOn>01-D1</ValueOn>
+            <ValueOff>29-D1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="HP Refill when Grab by Hand">
+        <Cheatline>
+            <Offset>5D26BF</Offset>
+            <Section>0</Section>
+            <ValueOn>7E-D4</ValueOn>
+            <ValueOff>7D-D4</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Time">
+        <Cheatline>
+            <Offset>12B7811</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-4C-00-00-00-00-E9-EC-24-2C-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Pause Time">
+        <Cheatline>
+            <Offset>579D04</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-4F-4C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Score + Points x2 (dont touch soul)">
+        <Cheatline>
+            <Offset>12B781E</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-0F-6B-C9-02-89-0F-41-89-4E-50-E9-08-64-12-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Score + Points + 99m (dont touch soul)">
+        <Cheatline>
+            <Offset>12B782F</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-0F-81-C1-FF-E0-F5-05-89-0F-41-89-4E-50-E9-F4-63-12-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="+1 Item">
+        <Cheatline>
+            <Offset>3DE4DD</Offset>
+            <Section>0</Section>
+            <ValueOn>8D-51-01</ValueOn>
+            <ValueOff>8D-51-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="+1 Film">
+        <Cheatline>
+            <Offset>3DF54B</Offset>
+            <Section>0</Section>
+            <ValueOn>8D-77-01</ValueOn>
+            <ValueOff>8D-77-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max item per use">
+        <Cheatline>
+            <Offset>3DE4F0</Offset>
+            <Section>0</Section>
+            <ValueOn>7E-02</ValueOn>
+            <ValueOff>7D-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Film per use">
+        <Cheatline>
+            <Offset>3DF55C</Offset>
+            <Section>0</Section>
+            <ValueOn>7D-02</ValueOn>
+            <ValueOff>7E-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

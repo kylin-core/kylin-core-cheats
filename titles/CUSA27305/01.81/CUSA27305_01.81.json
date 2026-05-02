@@ -1,0 +1,107 @@
+{
+  "name": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles",
+  "id": "CUSA27305",
+  "version": "01.81",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "invinsible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85BB800",
+          "on": "4183BEB8010000017505E955F6C1FAFF90B00B0000E94AF6C1FA",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "31DAE5E",
+          "on": "E99D093E0590",
+          "off": "FF90B00B0000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85BB81C",
+          "on": "41813C2448A34708741041C744245800000000C4C17A104C2458E9BA5BE2F9C4C17A114C2458E9AE5BE2F9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "23E13EE",
+          "on": "E929A41D069090",
+          "off": "C4C17A114C2458"
+        }
+      ]
+    },
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85BB849",
+          "on": "C4C17A1085CC000000C4C17A1185C8000000E97B94E8F9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2444CD2",
+          "on": "E9726B170690909090",
+          "off": "C4C17A1185C8000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85BB862",
+          "on": "C5FA10936C020000C5FA119368020000E98A1EECF9",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "247D6F9",
+          "on": "E964E11306909090",
+          "off": "C5FA119368020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Kimetsu Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81BB800",
+          "on": "410F4FCEC7003F420F00E981D693FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2AF8E8A",
+          "on": "E971296C0590",
+          "off": "410F4FCE8908"
+        }
+      ]
+    },
+    {
+      "name": "Freeze time in battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "85BB887",
+          "on": "C747380000C642C5FA104738E9FABAC1F9",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "21D738D",
+          "on": "E9F5443E06",
+          "off": "C5FA114738"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B"
+  ]
+}

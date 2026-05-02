@@ -1,0 +1,27 @@
+{
+  "name": "Goosebumps",
+  "id": "CUSA18430",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8049C2D2",
+          "on": "C5FA115318",
+          "off": "C5FA114318"
+        },
+        {
+          "offset": "8049C27C",
+          "on": "9090909090",
+          "off": "C5FA104318"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

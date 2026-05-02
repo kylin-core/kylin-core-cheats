@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08065",
+  "version": "01.02",
+  "name": "Bloons TD 5",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08065"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08065_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08065_01.02.json",
+      "size": 1810,
+      "sha256": "04f71b228da858efd3b96f6cfe2e3c7705c5765f70df02f518b23eed01842c27",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08065_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08065_01.02.shn",
+      "size": 1377,
+      "sha256": "2b78e85ffe0cb48499593828039fc3075fc38aef5edfd97585cbf36d316ea333",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08065_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08065_01.02.mc4",
+      "size": 1856,
+      "sha256": "86f3c7b0dacca1f97dd001140ea2f4bd98d3df73338e622f63c03f00817046a2",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08065_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

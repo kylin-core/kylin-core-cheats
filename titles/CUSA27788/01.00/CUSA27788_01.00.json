@@ -1,0 +1,103 @@
+{
+  "name": "BPM Bullets Per Minute",
+  "id": "CUSA27788",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C4B491",
+          "on": "909090909090",
+          "off": "FF9098050000"
+        },
+        {
+          "offset": "2C4B3BB",
+          "on": "909090909090",
+          "off": "FF9098050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B477C4",
+          "on": "909090909090909090",
+          "off": "C4C17A119FC4080000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-NO-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B72A04",
+          "on": "90909090909090",
+          "off": "41898D60060000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-coins-MC",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B83ADA",
+          "on": "B863000000418986D8080000E961B03FFB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "F7EB45",
+          "on": "E9904FC0049090",
+          "off": "418986D8080000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-keys-MC",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5B83AED",
+          "on": "C783DC08000063000000E9C2893CFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "F4C4B8",
+          "on": "E93076C30490",
+          "off": "89B3DC080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B7EB45",
+          "on": "90909090909090",
+          "off": "418986D8080000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-keys",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15AE44",
+          "on": "909090909090",
+          "off": "89B3DC080000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

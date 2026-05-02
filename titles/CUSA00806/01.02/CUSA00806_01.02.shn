@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP0082-CUSA00806_00-LARACROFT2OSIRIS" Moder="Talixme" Cusa="CUSA00806" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Life">
+        <Cheatline>
+            <Offset>589198</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-13-10-D6-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Ammo">
+        <Cheatline>
+            <Offset>120B033</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-40-0C-90-01-E9-E2-51-43-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Gems">
+        <Cheatline>
+            <Offset>120B05E</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-0C-9F-86-01-00-49-8B-4E-08-E9-35-C5-62-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

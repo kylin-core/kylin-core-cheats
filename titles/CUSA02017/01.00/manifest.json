@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02017",
+  "version": "01.00",
+  "name": "Risen 3: Titan Lords - Enhanced Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02017"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02017_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02017_01.00.json",
+      "size": 1311,
+      "sha256": "5428b9e6b48c1587d67cbe709c23322fd633ef16892f4e1c490b09f7d95c436d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02017_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02017_01.00.shn",
+      "size": 1303,
+      "sha256": "0b1db924e72d730a9b86fb2a697d59b53eca1325beb8f8f92af50f623e52fc72",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02017_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02017_01.00.mc4",
+      "size": 1752,
+      "sha256": "897abedfdcedf8434a288eb02877e5bf0bcf3e9c7e390a6cf583509e0121743d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02017_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Pathfinder: Wrath of the Righteous",
+  "id": "CUSA35021",
+  "version": "01.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Gold (On sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "864E76C0",
+          "on": "C780680100007F969800E94AFA74FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80C37112",
+          "on": "E9A9058B059090",
+          "off": "48019868010000"
+        }
+      ]
+    },
+    {
+      "name": "Minimum Weight (for inventory after picking items)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "864E7600",
+          "on": "41C7462C0000F042E98218F7FA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "81458E89",
+          "on": "E972E7080590",
+          "off": "C4C17A11462C"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience gained",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "864E7360",
+          "on": "418B44241841C74764FFC99A3BE9635715FB",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8163CACC",
+          "on": "E98FA8EA0490909090",
+          "off": "418B44241841014764"
+        }
+      ]
+    },
+    {
+      "name": "99 items (on use/Split/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "864E6D80",
+          "on": "C7437863000000E979460AFB",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8158B3FB",
+          "on": "E980B9F5049090909090",
+          "off": "8943784C8BB3B0000000"
+        }
+      ]
+    },
+    {
+      "name": "10 Action bar use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "864E6C00",
+          "on": "41894E20C640180AE9A190EFFA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "813DFCA7",
+          "on": "E9546F10059090",
+          "off": "41894E20295018"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

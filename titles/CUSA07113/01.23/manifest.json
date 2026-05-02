@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07113",
+  "version": "01.23",
+  "name": "Nioh",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07113"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07113_01.23.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07113_01.23.json",
+      "size": 2211,
+      "sha256": "66aa1dfdcbe05c33639332f614c56edd93715518b95496e42ec9ab82053713c6",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07113_01.23.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07113_01.23.shn",
+      "size": 2167,
+      "sha256": "43010a9a77ebccd651421a463472f671701d9699ae3eed99316943092547fbd5",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07113_01.23.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07113_01.23.mc4",
+      "size": 2904,
+      "sha256": "04dea6133ee38f7decc965159b8b4b1dfcbd6a7acd0cf00c851e1e25fef30345",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07113_01.23.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

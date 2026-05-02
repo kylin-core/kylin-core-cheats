@@ -1,0 +1,33 @@
+{
+  "name": "Sol Cresta",
+  "id": "CUSA26894",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-SHELD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80499293",
+          "on": "9090909090",
+          "off": "E848030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8054F644",
+          "on": "90909090",
+          "off": "44897330"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

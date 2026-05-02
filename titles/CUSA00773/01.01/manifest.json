@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00773",
+  "version": "01.01",
+  "name": "MONOPOLY PLUS",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00773"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00773_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00773_01.01.json",
+      "size": 343,
+      "sha256": "9ed4dbcd7a46c05c72e6d3317d72296451ab33c1538c2cb546a1abfd8a32208f",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00773_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00773_01.01.shn",
+      "size": 538,
+      "sha256": "5d7f8d736821e8eb03d602285efd5719262f17c2170569809ade446fd8cc7ee1",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00773_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00773_01.01.mc4",
+      "size": 728,
+      "sha256": "1f7db6d4791ae2170066f071069ffc534e91451283356c9c1f61a2766d192e93",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00773_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

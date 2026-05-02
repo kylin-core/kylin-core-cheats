@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA41744",
+  "version": "01.01",
+  "name": "EP5335-CUSA41744_00-ALISA00000000000",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA41744"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41744_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA41744_01.01.json",
+      "size": 1539,
+      "sha256": "aa1c09de1c07ffe98e2e95d56b4993d7b4da194c77fcdea095be2840ac634261",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41744_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA41744_01.01.shn",
+      "size": 1708,
+      "sha256": "17c6890a6c28df3c106dabd10391f90795146de5e6fd2942577f75854c6c52d3",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41744_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA41744_01.01.mc4",
+      "size": 2284,
+      "sha256": "e91232fa64d890f658a09c8b2524b9f13d2831b8e1ee4075424d4ebecb67a537",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA41744_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

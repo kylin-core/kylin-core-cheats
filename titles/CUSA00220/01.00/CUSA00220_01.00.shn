@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Age™: Inquisition" Moder="d01v" Cusa="CUSA00220" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite (HP,Stamina,Stats,Skill Points) (unbind)">
+        <Cheatline>
+            <Offset>31ED07F</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F8-0B-75-0A-41-C7-47-2C-00-3C-1C-46-EB-06-C4-C1-7A-11-47-2C-E9-6D-C4-7A-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Item Max (use/sell/discard x2)">
+        <Cheatline>
+            <Offset>6D2653</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4D-C1</ValueOn>
+            <ValueOff>0F-4E-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gold on Sell (Craft Mats and Valuables only)">
+        <Cheatline>
+            <Offset>31ED09C</Offset>
+            <Section>0</Section>
+            <ValueOn>49-83-F9-08-75-0C-B8-7F-96-98-00-41-89-44-24-28-EB-05-41-89-44-24-28-E9-FA-FF-37-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

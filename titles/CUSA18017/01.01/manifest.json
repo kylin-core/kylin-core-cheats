@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18017",
+  "version": "01.01",
+  "name": "Resident Evil Village",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18017"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18017_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18017_01.01.json",
+      "size": 13380,
+      "sha256": "426d5f1ff6f430a6b39fe9e9e595ce9283ecda647882531fb7b66af7eb2affde",
+      "cheatCount": 22,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18017_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18017_01.01.shn",
+      "size": 13169,
+      "sha256": "2af134e2139f27810cf7a649b300eeb67b66b400e2dc281c0da463eb467e02bc",
+      "cheatCount": 22,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18017_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18017_01.01.mc4",
+      "size": 17580,
+      "sha256": "a367c1acc7c71be04472573e9b9821181eb4e398ac0f373ea6358d8462ef253a",
+      "cheatCount": 22,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18017_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

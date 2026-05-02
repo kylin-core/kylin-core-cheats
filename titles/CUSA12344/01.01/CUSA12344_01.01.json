@@ -1,0 +1,69 @@
+{
+  "name": "FULL-BLAST",
+  "id": "CUSA12344",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FFB5EBD",
+          "on": "9090909090",
+          "off": "E80E67AA00"
+        },
+        {
+          "offset": "7FFA06CC",
+          "on": "9090909090",
+          "off": "E81F389100"
+        },
+        {
+          "offset": "7FFBE5ED",
+          "on": "9090909090",
+          "off": "E8DEDFA900"
+        },
+        {
+          "offset": "7FFE5997",
+          "on": "9090909090",
+          "off": "E8346CA700"
+        },
+        {
+          "offset": "7FFB29DF",
+          "on": "9090909090",
+          "off": "E8EC9BAA00"
+        },
+        {
+          "offset": "80CD1554",
+          "on": "9090909090",
+          "off": "E877B0D8FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808B37C4",
+          "on": "90909090",
+          "off": "41FF4E70"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808B2264",
+          "on": "909090",
+          "off": "894B74"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

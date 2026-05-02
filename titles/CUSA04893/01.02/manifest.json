@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04893",
+  "version": "01.02",
+  "name": "Assassin's Creed - The Ezio Collection [Assasins Creed 2]",
+  "process": "ScimitarAC2.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04893"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA04893_01.02_ScimitarAC2.elf.shn. Other candidate files skipped: 4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04893_01.02.json",
+      "size": 807,
+      "sha256": "74375fa6c1ae495a871f034f45898c0b3460c6d1ce6928e60f68cfa12090e1bc",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA04893_01.02_ScimitarAC2.elf.shn. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04893_01.02.shn",
+      "size": 1082,
+      "sha256": "e780761ce28cafaf12f8eae3523e528e962089a6bccaa5da46bc580c24340f18",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA04893_01.02_ScimitarAC2.elf.shn. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04893_01.02.mc4",
+      "size": 1452,
+      "sha256": "605b02ca239ea4083d2e47c36702f8107904ee3e097e1eb53bbc80c29f27cbac",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA04893_01.02_ScimitarAC2.elf.shn. Other candidate files skipped: 4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

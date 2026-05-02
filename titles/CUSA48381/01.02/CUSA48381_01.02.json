@@ -1,0 +1,117 @@
+{
+  "name": "Turbo Overkill",
+  "id": "CUSA48381",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8091F9DC",
+          "on": "9090909090",
+          "off": "E82F6BFFFF"
+        },
+        {
+          "offset": "80B13D64",
+          "on": "9090909090",
+          "off": "C5F85C45B0"
+        },
+        {
+          "offset": "80B2FE62",
+          "on": "9090909090",
+          "off": "E8A966DEFF"
+        },
+        {
+          "offset": "8098DF80",
+          "on": "9090909090",
+          "off": "E88B85F8FF"
+        },
+        {
+          "offset": "808A18BE",
+          "on": "9090909090",
+          "off": "E84D4C0700"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8091717A",
+          "on": "909090",
+          "off": "894334"
+        }
+      ]
+    },
+    {
+      "name": "Inf-All-Weapon-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "808D3721",
+          "on": "90909090",
+          "off": "41894630"
+        },
+        {
+          "offset": "808D3785",
+          "on": "90909090",
+          "off": "41894634"
+        },
+        {
+          "offset": "808D37E9",
+          "on": "90909090",
+          "off": "41894638"
+        }
+      ]
+    },
+    {
+      "name": "MAX-money-1-buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84163800",
+          "on": "41BC3F420F004589A7A0000000E9BA11B5FC",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80CB49C5",
+          "on": "E936EE4A039090",
+          "off": "4589A7A0000000"
+        }
+      ]
+    },
+    {
+      "name": "MAX + Inf-SHELD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84163814",
+          "on": "B8C8000000894338488B4B28E9A838BBFC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D170C6",
+          "on": "E949C744039090",
+          "off": "894338488B4B28"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-SHELD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "809170C6",
+          "on": "909090",
+          "off": "894338"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

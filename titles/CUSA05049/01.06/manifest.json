@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05049",
+  "version": "01.06",
+  "name": "UP2591-CUSA05049_00-SOTD000000000000",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05049"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05049_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05049_01.06.json",
+      "size": 1122,
+      "sha256": "7936c8573ae9a98d75115d0f443ad9ec05c996884d63ec8fb290fcec669e4ef3",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05049_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05049_01.06.shn",
+      "size": 1187,
+      "sha256": "9745e196f9b57ca5cf621a254210ce9de146484f64c6e7f0bce6ccdf2d7dcba0",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05049_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05049_01.06.mc4",
+      "size": 1600,
+      "sha256": "6938822d121e8bbb4da794f0afbcdbffd43490d7f9a931eb3f484c1218db5ea1",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05049_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

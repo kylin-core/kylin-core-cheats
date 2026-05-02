@@ -1,0 +1,107 @@
+{
+  "name": "Crash Bandicoot 4",
+  "id": "CUSA23470",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Death counter always 0 (modern mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "700F800",
+          "on": "BE0000000089B7A8050000E99AA205FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1069AA4",
+          "on": "E9575DFA0590",
+          "off": "01B7A8050000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "700F812",
+          "on": "41C7863803000000000000E9A5AF58F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "59A7C0",
+          "on": "E94D50A7069090",
+          "off": "41FF8638030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Boxes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "700F832",
+          "on": "8BB73004000089B738040000E9899605FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1068EC6",
+          "on": "E96769FA0590",
+          "off": "01B738040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Wumpa by hejran7",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "700F845",
+          "on": "458B8D0404000045898D00040000E9F1C614FA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "115BF42",
+          "on": "E9FE38EB059090",
+          "off": "45018D00040000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Lives in Retro + Invincible in Modern mode by hejran7",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "700F85A",
+          "on": "C683700100000180BB7001000003E90192FAF9",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FB8A67",
+          "on": "E9EE6D05069090",
+          "off": "80BB7001000003"
+        }
+      ]
+    },
+    {
+      "name": "Inf Trial Time by hejran 7",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "700F86F",
+          "on": "41BCE7030000C4C17A2AC4E90C0915FA",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1160186",
+          "on": "E9E4F6EA05",
+          "off": "C4C17A2AC4"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "2B, hejran7"
+  ]
+}

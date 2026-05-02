@@ -1,0 +1,118 @@
+{
+  "name": "Crocs World 3",
+  "id": "CUSA17858",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27A3DB0",
+          "on": "41BE630000004589B754050000E9F63AAEFD526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2878B1",
+          "on": "E9FAC451029090",
+          "off": "4D63B754050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27A3DD6",
+          "on": "41C7866405000000C07944E967DCACFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "271A44",
+          "on": "E98D23530290909090",
+          "off": "F3410F118664050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gems",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27A3DE6",
+          "on": "41C7875005000063000000E98645B0FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2A8375",
+          "on": "E96CBA4F029090",
+          "off": "41898750050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stones - [ Infinite Health ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27A3DF6",
+          "on": "B8E703000041898760050000E93C3DAEFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "287B3C",
+          "on": "E9B5C251029090",
+          "off": "49638760050000"
+        }
+      ]
+    },
+    {
+      "name": "Max Defeated Opponents",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27A3E07",
+          "on": "418B875805000041898748050000E9BB55B0FD",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2A93CE",
+          "on": "E934AA4F029090",
+          "off": "41898748050000"
+        }
+      ]
+    },
+    {
+      "name": "Moon Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A3D25",
+          "on": "C6403000",
+          "off": "C6403001"
+        }
+      ]
+    },
+    {
+      "name": "Max Stars [ World Map ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27A3E1A",
+          "on": "B8B400000041898748070000E9B2FCB2FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D3AD6",
+          "on": "E93F034D029090",
+          "off": "49638748070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

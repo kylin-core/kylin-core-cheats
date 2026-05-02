@@ -1,0 +1,148 @@
+{
+  "name": "Zombie Army Trilogy",
+  "id": "CUSA01837",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "913800",
+          "on": "C4A17A10442840C4A17A1144283CE92D32B3FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "446A39",
+          "on": "E9C2CD4C009090",
+          "off": "C4A1782E44283C"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "91389F",
+          "on": "42C744283C0AD7233CC4A17A1044283CE99C1AB3FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "445349",
+          "on": "E951E54C009090",
+          "off": "C4A1782E44283C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F6413",
+          "on": "01F1",
+          "off": "29F1"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "913828",
+          "on": "8B87C00100008987BC010000E96ACDBDFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4F059D",
+          "on": "E98632420090",
+          "off": "8987BC010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Equipment",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "913839",
+          "on": "8B7748897744E97584BEFF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "4FBCB4",
+          "on": "E9807B4100",
+          "off": "7503897744"
+        }
+      ]
+    },
+    {
+      "name": "No Spread",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "91385B",
+          "on": "41C70600000000C4C17A1006E961C5BCFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4DFDC8",
+          "on": "E98E3A4300",
+          "off": "C4C17A1106"
+        },
+        {
+          "offset": "913844",
+          "on": "C7838001000000000000C5FA108380010000E9ADE3BCFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4E1C00",
+          "on": "E93F1C4300909090",
+          "off": "C5FA118380010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "91386C",
+          "on": "C7431000007042C5FA104B10E992A0A3FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "34D90A",
+          "on": "E95D5F5C00",
+          "off": "C5FA114B10"
+        },
+        {
+          "offset": "91387D",
+          "on": "C7431000007042C5FA104310E9D29CA3FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "34D55B",
+          "on": "E91D635C00",
+          "off": "C5FA114310"
+        },
+        {
+          "offset": "91388E",
+          "on": "C7431000007042C5FA104B10E95F9FA3FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "34D7F9",
+          "on": "E990605C00",
+          "off": "C5FA114B10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

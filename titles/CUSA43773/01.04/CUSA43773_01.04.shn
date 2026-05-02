@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tomb Raider I–III Remastered" Moder="hejran7" Cusa="CUSA43773" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinity Health">
+        <Cheatline>
+            <Offset>7FF82799</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-00-66-C7-40-26-E8-03-0F-B7-40-26-E9-36-F9-F4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinity Ammo">
+        <Cheatline>
+            <Offset>7FEDE780</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>FF-C9</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinity Oxigen">
+        <Cheatline>
+            <Offset>7FEDEF58</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>66-41-FF-4F-16</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinity Supplies">
+        <Cheatline>
+            <Offset>7FF827AB</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-04-46-32-00-0F-BF-1C-46-41-83-C6-9C-E9-73-25-F5-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump">
+        <Cheatline>
+            <Offset>7FF827BE</Offset>
+            <Section>0</Section>
+            <ValueOn>41-0F-B7-47-02-66-6B-C0-02-E9-9D-C9-F5-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Slow Jump">
+        <Cheatline>
+            <Offset>7FEDF2FA</Offset>
+            <Section>0</Section>
+            <ValueOn>83-F8-00-90-90</ValueOn>
+            <ValueOff>3D-80-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fly Hack">
+        <Cheatline>
+            <Offset>7FEDF2FA</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>3D-80-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Timer">
+        <Cheatline>
+            <Offset>7FED431F</Offset>
+            <Section>0</Section>
+            <ValueOn>44-89-BB-10-06-00-00</ValueOn>
+            <ValueOff>44-01-B3-10-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Timer">
+        <Cheatline>
+            <Offset>7FED431F</Offset>
+            <Section>0</Section>
+            <ValueOn>44-01-BB-62-02-00-00</ValueOn>
+            <ValueOff>44-01-B3-10-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Reset Save Count to 1">
+        <Cheatline>
+            <Offset>7FF827CC</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-83-64-07-00-00-01-00-00-00-E9-1F-DA-F4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Change Outfit (Photomode)">
+        <Cheatline>
+            <Offset>7FF4DA2A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-F8-11-80-CC-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Fall Damage">
+        <Cheatline>
+            <Offset>7FED9602</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>66-29-43-26</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Fall Death">
+        <Cheatline>
+            <Offset>7FED95E0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-43-26-E8-03</ValueOn>
+            <ValueOff>66-C7-43-26-FF-FF</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fast Forward Everything">
+        <Cheatline>
+            <Offset>5288</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>89-0D-BE-77-63-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

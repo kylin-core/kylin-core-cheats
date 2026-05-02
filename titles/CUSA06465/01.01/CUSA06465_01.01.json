@@ -1,0 +1,59 @@
+{
+  "name": "Slain Back from Hell",
+  "id": "CUSA06465",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8018C56E",
+          "on": "9090909090",
+          "off": "E8FBFA1500"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Health-One-Hit-Kill-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8148F800",
+          "on": "4183BEF40000000175094963460CE9B59C11FF49634624E9AC9C11FF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805A94C0",
+          "on": "E93B63EE00909090",
+          "off": "4963462403442408"
+        },
+        {
+          "offset": "8148F81E",
+          "on": "4183BEF40000000075094963460CE9979C11FF49634624E98E9C11FF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805A94C0",
+          "on": "E95963EE00",
+          "off": "E93B63EE00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Web-MAGIC",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "801A9510",
+          "on": "90909090",
+          "off": "49634628"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

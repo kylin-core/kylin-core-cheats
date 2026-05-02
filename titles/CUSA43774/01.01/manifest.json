@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA43774",
+  "version": "01.01",
+  "name": "Tomb Raider I–III Remastered",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA43774"
+  ],
+  "updatedAt": "2026-05-02T10:01:34Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA43774_01.01.json",
+      "size": 7241,
+      "sha256": "834e7bdb52a966d338c57385e3f5f3537fe707c4da582bf466516eb106be4550",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA43774_01.01.shn",
+      "size": 7588,
+      "sha256": "cd9b0c1bcc6dbbe5bc358708c9743141bb95d62d4ba0918cb0fe508a199a4bbe",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA43774_01.01.mc4",
+      "size": 10136,
+      "sha256": "1a6626e16132ff07cab740cd52fbde8c293a0ce6f6fa7352bef7264d20383f42",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA43774_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

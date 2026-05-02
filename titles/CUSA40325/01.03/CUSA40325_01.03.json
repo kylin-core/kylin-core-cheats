@@ -1,0 +1,27 @@
+{
+  "name": "EA SPORTS FC 24",
+  "id": "CUSA40325",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Budget When buying Player",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D18B800",
+          "on": "48C74008A688FA71488B4008488903E9DE279DFD",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AB5DFEB",
+          "on": "E910D862029090",
+          "off": "488B4008488903"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

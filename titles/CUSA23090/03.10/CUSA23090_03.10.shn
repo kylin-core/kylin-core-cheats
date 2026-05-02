@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="House Flipper" Moder="Wander FW9.00" Cusa="CUSA23090" Version="03.10" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Money Balance (on spend)">
+        <Cheatline>
+            <Offset>189FA60</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-10-09-58-84-4E-E9-11-BC-F4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Skill points Multiplier (on spend)">
+        <Cheatline>
+            <Offset>189FBC0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-FF-44-24-54-E9-6D-5C-4E-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

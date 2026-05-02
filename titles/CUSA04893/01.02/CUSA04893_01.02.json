@@ -1,0 +1,44 @@
+{
+  "name": "Assassin's Creed - The Ezio Collection [Assasins Creed 2]",
+  "id": "CUSA04893",
+  "version": "01.02",
+  "process": "ScimitarAC2.elf",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B8F947",
+          "on": "4489F890",
+          "off": "410F4EC7"
+        }
+      ]
+    },
+    {
+      "name": "Max Money/Items on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DC8BC7",
+          "on": "89C390",
+          "off": "0F47D8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money/Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DC8BF3",
+          "on": "9090",
+          "off": "29F0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

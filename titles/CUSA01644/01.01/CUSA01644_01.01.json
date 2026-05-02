@@ -1,0 +1,141 @@
+{
+  "name": "Arcania: The Complete Tale",
+  "id": "CUSA01644",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1077820",
+          "on": "C5FA108738010000",
+          "off": "C5FA108730010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1077800",
+          "on": "C5FA108744010000",
+          "off": "C5FA10873C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1077810",
+          "on": "C5FA108750010000",
+          "off": "C5FA108748010000"
+        }
+      ]
+    },
+    {
+      "name": "Mana OHK (Works in Tutorial)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1077877",
+          "on": "C78330010000000080BFC5FA108B30010000E997F96FFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77721D",
+          "on": "E955069000909090",
+          "off": "C5FA108B30010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "718D65",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1077867",
+          "on": "BA7F9698008990E0010000E9428181FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "88F9B3",
+          "on": "E9AF7E7E0090",
+          "off": "8B90E0010000"
+        }
+      ]
+    },
+    {
+      "name": "Easy Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1077835",
+          "on": "C4C17A108C24D0010000C4C17A118C24CC010000E929E06FFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "77586D",
+          "on": "E9C31F90009090909090",
+          "off": "C4C17A118C24CC010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skill Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "107784E",
+          "on": "C7848730010000804FC347C5FA10848730010000E978D56FFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "774DD6",
+          "on": "E9732A900090909090",
+          "off": "C5FA58848730010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Crafting",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "718BFD",
+          "on": "909090",
+          "off": "4429F0"
+        }
+      ]
+    },
+    {
+      "name": "Always Move Faster (Rune of the Four Winds)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "724200",
+          "on": "909090909090",
+          "off": "C4C17A114508"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Rizla"
+  ]
+}

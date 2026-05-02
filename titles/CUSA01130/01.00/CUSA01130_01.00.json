@@ -1,0 +1,49 @@
+{
+  "name": "Gravity Rush Remastered",
+  "id": "CUSA01130",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Charge Gauge Never Drains",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "48169A",
+          "on": "9090909090909090",
+          "off": "C5FA1183780A0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Precious Gem On Pickup",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19E781A",
+          "on": "C703FFE0F505E9F2CEB1FE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "504711",
+          "on": "E904314E01",
+          "off": "E9F7304E01"
+        }
+      ]
+    },
+    {
+      "name": "Health Never Decreases",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2D2F44",
+          "on": "894F20",
+          "off": "895720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Skal"
+  ]
+}

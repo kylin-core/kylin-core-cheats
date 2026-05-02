@@ -1,0 +1,44 @@
+{
+  "name": "Onimusha",
+  "id": "CUSA11147",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Add red-orb when counsum",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE781",
+          "on": "4101BF5C160000",
+          "off": "4129BF5C160000"
+        }
+      ]
+    },
+    {
+      "name": "infinity red",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CE873",
+          "on": "90909090909090",
+          "off": "4129B75C160000"
+        }
+      ]
+    },
+    {
+      "name": "Infinity-HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "271C04",
+          "on": "01C1",
+          "off": "29C1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Muhanned"
+  ]
+}

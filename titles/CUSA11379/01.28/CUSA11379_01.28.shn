@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat 11" Moder="Saso_9.00" Cusa="CUSA11379" Version="01.28" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Health / Easy Win (Master Code)">
+        <Cheatline>
+            <Offset>494DA00</Offset>
+            <Section>0</Section>
+            <ValueOn>66-9C-81-BB-58-09-00-00-00-00-13-27-75-08-C5-FA-10-83-2C-0C-00-00-C5-FA-11-83-28-0C-00-00-66-9D-E9-B3-CB-D6-FC-81-BB-28-0C-00-00-9A-99-19-3E-7E-E5-C7-83-28-0C-00-00-9A-99-19-3E-C5-FA-10-83-28-0C-00-00-EB-D1</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1-Easy Win (MC) Opponent Health (15%)">
+        <Cheatline>
+            <Offset>14DA0C</Offset>
+            <Section>0</Section>
+            <ValueOn>75-17</ValueOn>
+            <ValueOff>75-F2</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="2-Easy Win (MC) Opponent Health (1%)">
+        <Cheatline>
+            <Offset>14DA0C</Offset>
+            <Section>0</Section>
+            <ValueOn>75-17</ValueOn>
+            <ValueOff>75-08</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Super Meter">
+        <Cheatline>
+            <Offset>49C5000</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-85-70-FF-FF-FF-41-81-BC-24-58-09-00-00-00-00-13-27-75-05-C5-FA-10-40-08-C5-FA-11-00-E9-5A-2C-05-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Opponent Super Meter (No Refill)">
+        <Cheatline>
+            <Offset>4994C00</Offset>
+            <Section>0</Section>
+            <ValueOn>81-BD-70-FF-FF-FF-00-00-13-27-75-13-C4-C1-7A-10-44-24-0C-C4-C1-7A-11-44-24-04-E9-ED-28-08-FD-C5-F8-57-C0-EB-EE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

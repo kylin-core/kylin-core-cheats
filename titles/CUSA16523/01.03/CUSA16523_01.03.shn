@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yaga" Moder="Wander FW9.00" Cusa="CUSA16523" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>181E380</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-40-00-00-FA-43-E9-FB-25-67-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Bones (on spend/gain)">
+        <Cheatline>
+            <Offset>181D120</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-2D-C5-58-7F-C7-40-54-9F-86-01-00-E9-94-C1-58-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins (on sell/buy)">
+        <Cheatline>
+            <Offset>181D150</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-02-BE-58-7F-C7-40-50-3F-42-0F-00-E9-94-B9-58-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max items (on use/sell)">
+        <Cheatline>
+            <Offset>181E010</Offset>
+            <Section>0</Section>
+            <ValueOn>44-29-F9-66-C7-40-18-E7-03-E9-CA-34-33-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Minimum Bad luck">
+        <Cheatline>
+            <Offset>181EDC0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-1C-00-00-80-3F-E9-BE-9E-67-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

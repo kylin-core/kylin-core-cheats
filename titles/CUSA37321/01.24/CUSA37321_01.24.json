@@ -1,0 +1,221 @@
+{
+  "name": "Atomic Heart",
+  "id": "CUSA37321",
+  "version": "01.24",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDB0",
+          "on": "817F28CDCC4C3E7519C5FA114708C5FA114708E911EDE1F8C5FA114708E907EDE1F8817F2800007042750AC5FA114708E9F4ECE1F84180F888750AC5FA114708E9E4ECE1F84180F848750AC5FA114708E9D4ECE1F881BFC80000000000803F750AC5FA114708E9BEECE1F8817F3800007A43759AC5FA114708E9ABECE1F8",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AAAD4",
+          "on": "E9D7121E07",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDB9",
+          "on": "C5FA104748",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDDB",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Polymeric Ability 1",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDEB",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Polymeric Ability 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDFB",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shock",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BE11",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BE24",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A30937",
+          "on": "909090909090",
+          "off": "FF8B40050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neuropolymer/Resources (On Pick Up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BA20",
+          "on": "4584C94983FD04750C41C700E7030000E92E782EFA418900E926782EFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "157325D",
+          "on": "E9BE87D10590",
+          "off": "4584C9418900"
+        },
+        {
+          "offset": "728B730",
+          "on": "41C7441E30E7030000458B7C1E308D91FFFF0000E9047A2EFA",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1573148",
+          "on": "E9E385D105",
+          "off": "458B7C1E30"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Neuropolymer/Resources On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728B830",
+          "on": "0F85006732FAC74330E70300008B4B3085C9E98B6632FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15B1ECD",
+          "on": "E95E99CD05",
+          "off": "756D8B4B30"
+        },
+        {
+          "offset": "728BA60",
+          "on": "0F85D06432FA4983FD01750FC74330E70300008B4B30E9576432FA8B4B30E94F6432FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15B1ECD",
+          "on": "E98E9BCD05",
+          "off": "756D8B4B30"
+        }
+      ]
+    },
+    {
+      "name": "(DLC Annihilation) Infinite Neuropolymer/Resources On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728B730",
+          "on": "0F85006832FAC74330E70300008B4B3085C9E98B6732FA",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15B1ECD",
+          "on": "E95E98CD05",
+          "off": "756D8B4B30"
+        }
+      ]
+    },
+    {
+      "name": "(DLC Limbo) - Infinite Health/Dash/Abilities (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDB0",
+          "on": "81BF480200000000C8427515C5FA114708E913EDE1F8C5FA114708E909EDE1F890837F5410750BC5FA114708E9F8ECE1F890817F580000C84275DBC5FA114708E9E4ECE1F890",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "AAAD4",
+          "on": "E9D7121E07",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDBC",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDD7",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Polymeric Ability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "728BDEB",
+          "on": "C5FA104708",
+          "off": "C5FA114708"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

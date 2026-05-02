@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07254",
+  "version": "06.00",
+  "name": "Stellaris: Console Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07254"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07254_06.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07254_06.00.json",
+      "size": 877,
+      "sha256": "ac804aa2d84e78d27ca0dde603b4a66efdf3d1d36739f0cfe71422410e8e10e5",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07254_06.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07254_06.00.shn",
+      "size": 1147,
+      "sha256": "ff042fbaf72310549d7c943064850a9b0eff9f3c483a1e4f6bb1ae6442014347",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07254_06.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07254_06.00.mc4",
+      "size": 1536,
+      "sha256": "13483cb71f23a7e2ea588daccccdc14b00468f05b08714400ca989bf0ae6daa4",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07254_06.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

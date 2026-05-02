@@ -1,0 +1,108 @@
+{
+  "name": "Killzone Shadow Fall",
+  "id": "CUSA00190",
+  "version": "01.81",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill/Drone (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D7DB0",
+          "on": "C5EA5CC04181FA44A1FFEE7515C5FA1100E9FEDA1BFF0F57C0C5FA1100E9F2DA1BFF4181FC6096B8807509C5FA1100E9E0DA1BFF4181FC6096B80075DCC5FA1100E9CEDA1BFF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6958BC",
+          "on": "E9EF24E400909090",
+          "off": "C5EA5CC0C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D7DBD",
+          "on": "90909090",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D7DBB",
+          "on": "7509",
+          "off": "7515"
+        }
+      ]
+    },
+    {
+      "name": "No Waiting Time For Use Drone",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D7DDB",
+          "on": "C5FA1000",
+          "off": "C5FA1100"
+        },
+        {
+          "offset": "14D7DED",
+          "on": "C5FA1000",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D7A20",
+          "on": "498B4560C74018E7030000E97DCB7AFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "C845A5",
+          "on": "E976348500909090",
+          "off": "498B456044297018"
+        }
+      ]
+    },
+    {
+      "name": "No Reload/Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CA5AFC",
+          "on": "90909090",
+          "off": "4529751C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Number Of Adrenaline (Health Regeneration)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "14D79E0",
+          "on": "41C6867402000002E9ECC674FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "C240D2",
+          "on": "E909398B009090",
+          "off": "41898E74020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

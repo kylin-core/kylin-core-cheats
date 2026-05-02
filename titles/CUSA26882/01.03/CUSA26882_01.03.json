@@ -1,0 +1,123 @@
+{
+  "name": "35MM",
+  "id": "CUSA26882",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode ( must be enable for MC Cheats )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F05D",
+          "on": "41514183BEA000000001750B448B0D944E010045894E1C4183BEA000000000750B448B0D7B4E010045894E1C4159458B761C4889C3E9D1CE8100",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8047BF61",
+          "on": "E9F7307EFF9090",
+          "off": "458B761C4889C3"
+        },
+        {
+          "offset": "7FC5F0B7",
+          "on": "4151448B0D484E010045894F2C415941837F2C00E9E0C97C00",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8042BAAB",
+          "on": "E9073683FF",
+          "off": "41837F2C00"
+        },
+        {
+          "offset": "7FC5F0F0",
+          "on": "4151448B0D134E010045894E1C4159458B761C4889C3E92D218600",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "804C1231",
+          "on": "E9BADE79FF9090",
+          "off": "458B761C4889C3"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F000",
+          "on": "41C787C80000000000C842E953777800",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "803E675A",
+          "on": "E9A18887FF90909090",
+          "off": "C4C17A118FC8000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F030",
+          "on": "41C7477C00003041E9F1647800",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "803E5528",
+          "on": "E9039B87FF90",
+          "off": "C4C17A11477C"
+        }
+      ]
+    },
+    {
+      "name": "Max Eat [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC73F04",
+          "on": "14000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max First Aid [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC73F00",
+          "on": "14000000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC73F08",
+          "on": "E7030000",
+          "off": "00000000"
+        }
+      ]
+    },
+    {
+      "name": "MaxBatteries [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC73F0C",
+          "on": "14000000",
+          "off": "00000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

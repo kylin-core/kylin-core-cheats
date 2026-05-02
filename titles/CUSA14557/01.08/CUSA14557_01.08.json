@@ -1,0 +1,251 @@
+{
+  "name": "Sairento VR",
+  "id": "CUSA14557",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817A80",
+          "on": "41C747240000C843E9A21F57FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80D89A29",
+          "on": "E952E0A80290",
+          "off": "C4C17A114F24"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jump power",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817660",
+          "on": "41C7461800004843E9AD4858FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80D9BF14",
+          "on": "E947B7A70290",
+          "off": "C4C17A114E18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite slow time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838176B0",
+          "on": "C7431800004843E9AC9F68FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "82EA1663",
+          "on": "E948609700",
+          "off": "C5FA114B18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite sword Charge usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817A10",
+          "on": "C7431800004843E9B16C42FD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80C3E6C8",
+          "on": "E94393BD02",
+          "off": "C5FA114B18"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Plasma Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817CD0",
+          "on": "41C785700100000000803FE956CE44FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80C64B2D",
+          "on": "E99E31BB0290909090",
+          "off": "C4C17A118D70010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Pistols/SMG/throwable",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817DF0",
+          "on": "C605EBE9E0020141C7463800000000E9E7AA89FD",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "810B28E0",
+          "on": "E90B557602909090909090",
+          "off": "C605EBE9E0020141FF4E38"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows Normal Shots",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817E60",
+          "on": "0F846B9152FDC7403840000000E91D9052FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D40E86",
+          "on": "E9D56FAD0290909090",
+          "off": "0F844B010000FF4838"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Multi Shot Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817EC0",
+          "on": "0F840B9152FDC7413840000000E9338D52FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D40BFC",
+          "on": "E9BF72AD0290909090",
+          "off": "0F84D5030000FF4938"
+        }
+      ]
+    },
+    {
+      "name": "99 skill points (on spent)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838176F0",
+          "on": "0F8455537DFDC6401463E934537DFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80FECA2E",
+          "on": "E9BDAC8202",
+          "off": "7421895814"
+        }
+      ]
+    },
+    {
+      "name": "Fast level up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838179C0",
+          "on": "0F84C5787DFDC7402CFFC99A3BE9A1787DFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80FEF26E",
+          "on": "E94D878202",
+          "off": "742189582C"
+        }
+      ]
+    },
+    {
+      "name": "Max Ducats (on buy/sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817950",
+          "on": "0F84EC427DFDC74028FFE0F505E9C8427DFD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80FEBC25",
+          "on": "E926BD8202",
+          "off": "7421895828"
+        }
+      ]
+    },
+    {
+      "name": "No cooldown for automatic SMG",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817C70",
+          "on": "41C785680100000000C841E9C8263FFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80C0A33F",
+          "on": "E92CD9C00290909090",
+          "off": "C4C17A118568010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Intel (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817F20",
+          "on": "0F84CC827DFD66C740440F27E9A9827DFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80FF01D5",
+          "on": "E9467D8202",
+          "off": "7421895844"
+        }
+      ]
+    },
+    {
+      "name": "Max Fabricant (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838177D0",
+          "on": "0F84CC467DFD66C7403C0F27E9A9467DFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80FEBE85",
+          "on": "E946B98202",
+          "off": "742189583C"
+        }
+      ]
+    },
+    {
+      "name": "Max Beacons (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "83817840",
+          "on": "0F842C457DFD66C740400F27E909457DFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80FEBD55",
+          "on": "E9E6BA8202",
+          "off": "7421895840"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

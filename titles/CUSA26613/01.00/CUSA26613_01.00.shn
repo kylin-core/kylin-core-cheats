@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto III – The Definitive Edition" Moder="AngelDavil88_9.00" Cusa="CUSA26613" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (WIP/Experimental)">
+        <Cheatline>
+            <Offset>10F1775</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-93-20-04-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Armour">
+        <Cheatline>
+            <Offset>10F1624</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-93-24-04-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo/No Reload">
+        <Cheatline>
+            <Offset>11976BF</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>41-89-4D-0C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Get $99.999.999 (Upon Mission Completion)">
+        <Cheatline>
+            <Offset>57CFEC0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-10-D8-00-00-00-FF-E0-F5-05-E9-81-60-7D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Money (for Pay N Spray/Ammu-Nation)">
+        <Cheatline>
+            <Offset>F85F16</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>89-15-5C-E5-2D-05</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

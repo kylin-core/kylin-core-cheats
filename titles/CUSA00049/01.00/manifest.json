@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00049",
+  "version": "01.00",
+  "name": "Battlefield 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00049"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00049_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00049_01.00.json",
+      "size": 7317,
+      "sha256": "56029cc5cf2e4837adac4056494ade30e2d08fa1f04917dfe91bc47b810314a3",
+      "cheatCount": 23,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00049_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00049_01.00.shn",
+      "size": 6135,
+      "sha256": "77539b8888ea2bf1a819ea48725c06018dc3a338e252af6e3de2e380423c6922",
+      "cheatCount": 23,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00049_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00049_01.00.mc4",
+      "size": 8192,
+      "sha256": "119325886c92a88b35481eee1c3f6e77b185009f359d49c46802353bf80b8756",
+      "cheatCount": 23,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00049_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA20413",
+  "version": "01.02",
+  "name": "Ys IX: Monstrum Nox",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA20413"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20413_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA20413_01.02.json",
+      "size": 1815,
+      "sha256": "cb89a92656f9ab9e2c5b27d57dd6ba0a6d69f756053940b2a960c8da37b16b88",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20413_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA20413_01.02.shn",
+      "size": 1812,
+      "sha256": "a7bda8a0ad9825b21fa71316b439db2406111eb8d40e86867784e219da981901",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20413_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA20413_01.02.mc4",
+      "size": 2432,
+      "sha256": "8c4f9884f1636ac6c6a822b6a5938eccb42234a34f9a6b0233329e477bd439f4",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA20413_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

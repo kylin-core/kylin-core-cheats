@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA42502",
+  "version": "01.01",
+  "name": "Shin Megami Tensei V Vengeance Digital Deluxe",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA42502"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42502_01.01.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA42502_01.01.json",
+      "size": 9464,
+      "sha256": "946d1d7d389607c5b1043c405af03fceb190a2bf39520d04ae286a1b54e47748",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42502_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA42502_01.01.shn",
+      "size": 9320,
+      "sha256": "4a65e514fc382e5ca1f1e0c039876043b293c66633fcb0ea6ad5a3ae47e03162",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42502_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA42502_01.01.mc4",
+      "size": 12440,
+      "sha256": "c17efde67b862444c9409ab0b0c31e1c970e9c099428cb7dc79956a3734320b1",
+      "cheatCount": 26,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42502_01.01.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

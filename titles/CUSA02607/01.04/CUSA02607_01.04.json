@@ -1,0 +1,156 @@
+{
+  "name": "Sword Art Online - Hollow Fragment",
+  "id": "CUSA02607",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F93800",
+          "on": "B9FFC99A3B8988B4060000E98C3433FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2C6C96",
+          "on": "E965CBCC0090",
+          "off": "8988B4060000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3ECD13",
+          "on": "9090",
+          "off": "8907"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F93810",
+          "on": "0FBE54016A4883F80B7505BAFF000000E906224CFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "455A26",
+          "on": "E9E5DDB300",
+          "off": "0FBE54016A"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F93836",
+          "on": "66B82C016689876C020000E92E4A0AFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "3826D",
+          "on": "E9C4B5F5009090",
+          "off": "6689876C020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items (Storage)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F93846",
+          "on": "4821FE4809D657488B394839F772034889FE5FE9F4FC32FF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2C354C",
+          "on": "E9F502CD0090",
+          "off": "4821FE4809D6"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max Weapon Mastery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "390A6",
+          "on": "66BE1027",
+          "off": "668B75C6"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F9385E",
+          "on": "664489828E020000B9FFC99A3BE9B8520AFF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "38B1D",
+          "on": "E93CADF500909090909090",
+          "off": "664489828E0200008B4DF0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F93870",
+          "on": "5348BBE020ED0A020000004839DF750C8B9F68020000899F640200005B8B8764020000E9587409FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2ACEA",
+          "on": "E9818BF60090",
+          "off": "8B8764020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Burst",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F93898",
+          "on": "6689D666C701F401E9236309FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "29BC2",
+          "on": "E9D19CF60090",
+          "off": "6689D6668931"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2C5A3A",
+          "on": "909090",
+          "off": "894804"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

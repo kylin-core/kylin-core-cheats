@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA15162",
+  "version": "01.01",
+  "name": "Toki",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA15162"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15162_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA15162_01.01.json",
+      "size": 2029,
+      "sha256": "168780e09f5c4be0e83e43231c9bde21f3d9ffd7e7750cdfac0c65c0787ce2dc",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15162_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA15162_01.01.shn",
+      "size": 2371,
+      "sha256": "9da66eda570fbc42be35755ffc34a7fb16732646ca6c1a0077e68fa670c266e4",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15162_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA15162_01.01.mc4",
+      "size": 3180,
+      "sha256": "41af8a74c7f5d486f227d920310b07f62363d18b20c27af73ffe9900103facc9",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA15162_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

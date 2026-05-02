@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA24172",
+  "version": "01.11",
+  "name": "Five Nights at Freddys: Security Breach",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA24172"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24172_01.11.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA24172_01.11.json",
+      "size": 603,
+      "sha256": "95540434311776b7fceacf47c344c2b1b51871471e8104a6a71afdd1f0e02a19",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24172_01.11.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA24172_01.11.shn",
+      "size": 852,
+      "sha256": "20c6d1777002cb798633ee9c22063287dc50b2b45c5668b60c632e0944f553b3",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24172_01.11.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA24172_01.11.mc4",
+      "size": 1152,
+      "sha256": "804a1afd31b34f9a16b3369ce528901e20d23e8763f2ecf908c51ba2039ea37d",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA24172_01.11.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18600",
+  "version": "01.01",
+  "name": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18600"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18600_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18600_01.01.json",
+      "size": 2515,
+      "sha256": "dfa3d8c6909c75c6e4d946bcd1982964847e81133278b920509f28a9e9f88eb3",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18600_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18600_01.01.shn",
+      "size": 2365,
+      "sha256": "9d8cf08a036344052ca1c56bb48d5450930e66191c3640abe920ff13f1aab914",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18600_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18600_01.01.mc4",
+      "size": 3160,
+      "sha256": "955509862c92765fb6878b789b253a2ce986e882c7eb0b596121a0cea7f8c81f",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18600_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

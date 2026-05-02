@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Racing: CrossWorlds" Moder="Bandicootmonito" Cusa="CUSA35016" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Money / Tickets x999999">
+        <Cheatline>
+            <Offset>5D83800</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-3F-42-0F-00-41-89-46-58-48-83-C4-08-E9-27-0B-68-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

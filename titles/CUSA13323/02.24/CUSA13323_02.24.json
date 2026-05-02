@@ -1,0 +1,102 @@
+{
+  "name": "Ghost of Tsushima Directors Cut",
+  "id": "CUSA13323",
+  "version": "02.24",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "148BDB0",
+          "on": "83BF000300000C7524C7873419000000C07944C5F82E8734190000E9ABA019FFC5F82E8734190000E99EA019FF83BF000300001175EAC5F82E8734190000E988A019FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "625E73",
+          "on": "E9385FE600909090",
+          "off": "C5F82E8734190000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "148BDE6",
+          "on": "C5FA118F34190000",
+          "off": "C5F82E8734190000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ghost stance",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "148AF00",
+          "on": "480F44C8C70107000000E9FBDB20FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "698B04",
+          "on": "E9F723DF0090",
+          "off": "480F44C88939"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resolve",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "148BB40",
+          "on": "C7875443000000002041E9543032FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "7AEB9B",
+          "on": "E9A0CFCD00909090",
+          "off": "C5FA118754430000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resources (On Pick Up)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "148BAA0",
+          "on": "42C744A8080F270000E9896D2CFF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "752832",
+          "on": "E96992D300",
+          "off": "42895CA808"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Technique Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "148BBE0",
+          "on": "42C644A05800E988992CFF",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "75556E",
+          "on": "E96D66D300",
+          "off": "420174A058"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

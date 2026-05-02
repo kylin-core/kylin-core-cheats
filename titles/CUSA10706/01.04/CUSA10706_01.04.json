@@ -1,0 +1,190 @@
+{
+  "name": "Yakuza Kiwami 2",
+  "id": "CUSA10706",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "418AB3",
+          "on": "90909090",
+          "off": "490F4FCE"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "40DA6F",
+          "on": "4831C990",
+          "off": "480F4FC8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Heat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CE8F6",
+          "on": "C5FA5F4004",
+          "off": "C5FA5D4004"
+        }
+      ]
+    },
+    {
+      "name": "Max Money, Skillpoints, Easy Completition",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "ED831F",
+          "on": "4889DA90",
+          "off": "480F4FD3"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "EC1E27",
+          "on": "90909090",
+          "off": "450F4EEC"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "164B360",
+          "on": "909090",
+          "off": "4501F5"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "F5ED1B",
+          "on": "909090909090",
+          "off": "2B8BC0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Enhancements",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DDAD2",
+          "on": "C5F25F0DF63DD601",
+          "off": "C5F25D0DF63DD601"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Challenge Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2F469E",
+          "on": "9090909090909090",
+          "off": "C5FA5C05FE2D4302"
+        }
+      ]
+    },
+    {
+      "name": "Golf: Easy Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11C2B1E",
+          "on": "83C678",
+          "off": "83C61E"
+        },
+        {
+          "offset": "11C2A29",
+          "on": "83C678",
+          "off": "83C632"
+        },
+        {
+          "offset": "11C24C9",
+          "on": "83C678",
+          "off": "83C664"
+        },
+        {
+          "offset": "11C2779",
+          "on": "83C678",
+          "off": "83C646"
+        }
+      ]
+    },
+    {
+      "name": "Golf: Perfect Swing",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11B6EE1",
+          "on": "0F57C090",
+          "off": "C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Golf: Slowdown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11B74C9",
+          "on": "BE0AD7A33B909090",
+          "off": "C5FA100DD3FF5601"
+        },
+        {
+          "offset": "11B74D1",
+          "on": "660F6ECE90909090",
+          "off": "C5F2590DB3E32C01"
+        }
+      ]
+    },
+    {
+      "name": "Casino: Max Wooden Tags",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "ED9751",
+          "on": "4889DE90",
+          "off": "480F4FF3"
+        }
+      ]
+    },
+    {
+      "name": "Koi-Koi: Max Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "23B3800",
+          "on": "41C740580F270000BE79040000E95866E2FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "11D9E65",
+          "on": "E996991D01",
+          "off": "BE79040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

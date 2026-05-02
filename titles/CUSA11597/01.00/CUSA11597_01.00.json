@@ -1,0 +1,81 @@
+{
+  "name": "SteamWorld Dig 2",
+  "id": "CUSA11597",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6B877",
+          "on": "4881FE6E5E9F0075214153504D8B5F084D8B5B2848B8706C617965725F684939037504C5EA58C058415BC4C17A114720E96A91A0FF90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "674A10",
+          "on": "E9626E5F0090",
+          "off": "C4C17A114720"
+        }
+      ]
+    },
+    {
+      "name": "Inf Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "69ABDC",
+          "on": "0F8504010000",
+          "off": "0F8404010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold / Gears (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6B84A",
+          "on": "81B8A00300000F2700007D0AC780A00300000F27000029B0A0030000C780A4030000E7030000E940D0A5FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6C88AF",
+          "on": "E9962F5A0090",
+          "off": "29B0A0030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6B83A",
+          "on": "01C0418987DC010000E97799A5FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "6C51B8",
+          "on": "E97D665A009090",
+          "off": "418987DC010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Pressure Bomb",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C892F",
+          "on": "C5EA58C0",
+          "off": "C5EA5CC0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

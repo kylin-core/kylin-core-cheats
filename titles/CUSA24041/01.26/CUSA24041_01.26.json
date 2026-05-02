@@ -1,0 +1,81 @@
+{
+  "name": "Call Of Duty Vanguard",
+  "id": "CUSA24041",
+  "version": "01.26",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Campaign Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "114B22B",
+          "on": "C5FA2CC1",
+          "off": "C5FA2CC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Zombie Mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28C7DB0",
+          "on": "31C02986C0010000E9458CD7FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "16409FC",
+          "on": "E9AF73280190",
+          "off": "2986C0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28C7800",
+          "on": "B9E7030000894844E99CE68FFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "11C5EA4",
+          "on": "E957197001",
+          "off": "29D9894844"
+        }
+      ]
+    },
+    {
+      "name": "No Reload/Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "28C7C90",
+          "on": "39F2BB63000000E975C28FFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "11C3F0C",
+          "on": "E97F3D7001",
+          "off": "39F20F4DDF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money (Make Money Before)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B05F8",
+          "on": "9090",
+          "off": "F3A6"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

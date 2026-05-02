@@ -1,0 +1,38 @@
+{
+  "name": "Shantae and The Seven Sirens",
+  "id": "CUSA18287",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9EF800",
+          "on": "4183BF1405000002750BC4C17A10470CE9CB3BCDFFC4C17A118770030000E9BD3BCDFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "6C33D7",
+          "on": "E924C4320090909090",
+          "off": "C4C17A118770030000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13C5E7",
+          "on": "909090909090",
+          "off": "81FEE7030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

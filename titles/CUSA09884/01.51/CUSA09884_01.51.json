@@ -1,0 +1,142 @@
+{
+  "name": "Soul Calibur 6",
+  "id": "CUSA09884",
+  "version": "01.51",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "P1 Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF865",
+          "on": "C783883D040000007043",
+          "off": "C5FA1193883D04009090"
+        }
+      ]
+    },
+    {
+      "name": "P2 Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF874",
+          "on": "C783883D040000007043",
+          "off": "C5FA1193883D04009090"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF874",
+          "on": "C783883D0400000080BF",
+          "off": "C5FA1193883D04009090"
+        }
+      ]
+    },
+    {
+      "name": "P1 Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF8BC",
+          "on": "0F846ABA23FE",
+          "off": "909090909090"
+        }
+      ]
+    },
+    {
+      "name": "P2 Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF8B0",
+          "on": "0F8476BA23FE",
+          "off": "909090909090"
+        }
+      ]
+    },
+    {
+      "name": "Max Inf Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF883",
+          "on": "C7437CFFC99A3B488B43784939DFE9D9197AFA",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "371268",
+          "on": "E916E685059090",
+          "off": "488B43784939DF"
+        }
+      ]
+    },
+    {
+      "name": "Max Soul Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF896",
+          "on": "BB3F420F0041895E38E9F05477FA",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "344D8C",
+          "on": "E905AB8805909090",
+          "off": "41035E3841895E38"
+        }
+      ]
+    },
+    {
+      "name": "P1 Inf Soul Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF83B",
+          "on": "7506",
+          "off": "EB06"
+        }
+      ]
+    },
+    {
+      "name": "P2 Inf Soul Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF849",
+          "on": "7504",
+          "off": "EB04"
+        }
+      ]
+    },
+    {
+      "name": "P1 Inf Soul Charge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF81F",
+          "on": "7506",
+          "off": "EB06"
+        }
+      ]
+    },
+    {
+      "name": "P2 Inf Soul Charge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5BCF82D",
+          "on": "7506",
+          "off": "EB06"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

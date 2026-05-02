@@ -1,0 +1,155 @@
+{
+  "name": "No Man's Sky",
+  "id": "CUSA04841",
+  "version": "05.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf. Run Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF800",
+          "on": "C78570FFFFFF0000C842E9DCAE6BFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "EAA6E3",
+          "on": "E918519401909090",
+          "off": "C5FA118570FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf. Life Support",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF841",
+          "on": "4401F189CEE92C306AFE",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "E92872",
+          "on": "E9CACF9501",
+          "off": "4429F189CE"
+        }
+      ]
+    },
+    {
+      "name": "Scan No Wait Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF822",
+          "on": "C743100000803FE91E315AFE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "D92947",
+          "on": "E9D6CEA501",
+          "off": "C5FA114310"
+        }
+      ]
+    },
+    {
+      "name": "Inf. JetPack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF811",
+          "on": "C7833431000000C07944E981976BFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "EA8F99",
+          "on": "E973689401909090",
+          "off": "C5FA118334310000"
+        }
+      ]
+    },
+    {
+      "name": "Inf. Water JetPack",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF830",
+          "on": "C7833431000000C07944E9E3E66CFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "EBDF1A",
+          "on": "E911199301909090",
+          "off": "C5FA118334310000"
+        }
+      ]
+    },
+    {
+      "name": "Item 999 On Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF85C",
+          "on": "41C74608E70300004C8B75C8E9BF68B5FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "346124",
+          "on": "E933974A02909090",
+          "off": "45017E084C8B75C8"
+        }
+      ]
+    },
+    {
+      "name": "Inf. Boltcaster Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF84D",
+          "on": "428984BFD0220000E9AB5967FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "E651FD",
+          "on": "E94BA69801909090",
+          "off": "4729A4BDD0220000"
+        }
+      ]
+    },
+    {
+      "name": "Splitting, Base Construct  and Selling Dont Cosume Item (Disable all other cheats before using)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF843",
+          "on": "41836F1800E9B347B5FD",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "343FFA",
+          "on": "E944B84A0290",
+          "off": "4129471829C3"
+        }
+      ]
+    },
+    {
+      "name": "Splitting Duplicate Item (Splitting Dont Cosume Code Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "27EF85D",
+          "on": "41836E1800E9C845B5FD",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "343E28",
+          "on": "E930BA4A029090",
+          "off": "45297E188B5DD0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Jesca"
+  ]
+}

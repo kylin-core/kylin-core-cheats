@@ -1,0 +1,86 @@
+{
+  "name": "Panzer Dragoon Remake",
+  "id": "CUSA19484",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "38BF1D",
+          "on": "2400",
+          "off": "2401"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E3DB0",
+          "on": "8B7424F48B775889775CE906F3D57E526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "806430BE",
+          "on": "E9ED0C2A819090",
+          "off": "8B7424F489775C"
+        }
+      ]
+    },
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E3DD3",
+          "on": "488B7C24F8C74758102700008B4758E936F8D57E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80643615",
+          "on": "E9B9072A81909090",
+          "off": "488B7C24F88B4758"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E3DE7",
+          "on": "8B7424F431F6897720E9F0E0CE7E",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "805D1EDE",
+          "on": "E9041F31819090",
+          "off": "8B7424F4897720"
+        }
+      ]
+    },
+    {
+      "name": "Max Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18E3DF5",
+          "on": "488B7C24F8C74744630000008B4744E964EBCC7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805B2965",
+          "on": "E98B143381909090",
+          "off": "488B7C24F88B4744"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

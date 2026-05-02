@@ -1,0 +1,66 @@
+{
+  "name": "Subdivision Infinity DX",
+  "id": "CUSA14245",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Escudo Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "527FE2",
+          "on": "9090909090909090",
+          "off": "C5FA119F2C010000"
+        }
+      ]
+    },
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5280DD",
+          "on": "9090909090909090",
+          "off": "C5FA1187FC000000"
+        }
+      ]
+    },
+    {
+      "name": "Velocidade Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "52D333",
+          "on": "9090909090909090",
+          "off": "C5FA118328010000"
+        }
+      ]
+    },
+    {
+      "name": "Arma Base Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "556D97",
+          "on": "909090",
+          "off": "894F58"
+        }
+      ]
+    },
+    {
+      "name": "Arma Pesada Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "54F77C",
+          "on": "909090909090",
+          "off": "8983C0030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

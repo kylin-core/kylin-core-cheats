@@ -1,0 +1,59 @@
+{
+  "name": "Disney Epic Mickey Rebrushed",
+  "id": "CUSA42649",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health / Hearts (Some traps and thinner rivers can hurts you)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63A3AEA",
+          "on": "4983FA20750CC747080000C040E90D8D52FAC5FA114708E9038D52FA",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8CC804",
+          "on": "E9E172AD05",
+          "off": "C5FA114708"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tickets x9999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5FA3B3B",
+          "on": "41C7067F9698000F841210FDFAE9BD0FFDFA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F74B05",
+          "on": "E931F00205",
+          "off": "4189067450"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Thinner and Paint",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "63A3B4F",
+          "on": "837F14007509C747080000C040EBA3C5FA114708EB9C",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "63A3AFC",
+          "on": "EB51",
+          "off": "C5FA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY X/X-2 HD Remaster" Moder="d01v_9.00" Cusa="CUSA01244" Version="01.01" Process="ffx_phyreApp.elf">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="--Final Fantasy X--">
+        <Cheatline>
+            <Offset>9DD151</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>9DD159</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-BB-DC-05-00-00-48-83-F8-00-75-09-8B-BB-A0-05-00-00-EB-04-90-44-29-F7-E9-B0-49-89-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Mana">
+        <Cheatline>
+            <Offset>9DD17C</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-83-AC-05-00-00-89-83-E0-05-00-00-90-E9-E5-18-89-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Overdrive">
+        <Cheatline>
+            <Offset>9DD194</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-4D-C8-8A-01-41-88-07-3A-01-E9-C7-97-8A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite AP">
+        <Cheatline>
+            <Offset>9DD1A8</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-01-E4-55-00-00-3F-42-0F-00-8B-84-01-E4-55-00-00-90-E9-A9-A0-8B-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Gil">
+        <Cheatline>
+            <Offset>297224</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4D-D6</ValueOn>
+            <ValueOff>0F-4E-D6</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Items x99 (auto sort item)">
+        <Cheatline>
+            <Offset>9DD1C8</Offset>
+            <Section>0</Section>
+            <ValueOn>88-0C-4B-C6-04-08-63-E9-B6-B5-9F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="4 slot Equips (open item equip list)">
+        <Cheatline>
+            <Offset>9DD1DC</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-47-0B-04-90-41-0F-B6-47-0B-E9-02-87-A1-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Blitzball Arena Max Stat (need breakthrough/enemies)">
+        <Cheatline>
+            <Offset>9DD1F4</Offset>
+            <Section>0</Section>
+            <ValueOn>48-81-FE-AB-10-00-0C-75-44-C6-83-7D-EF-FF-FF-63-C6-83-81-EF-FF-FF-63-66-C7-83-15-F0-FF-FF-0F-27-66-C7-83-19-F0-FF-FF-0F-27-66-C7-83-1D-F0-FF-FF-0F-27-66-C7-83-21-F0-FF-FF-0F-27-66-C7-83-25-F0-FF-FF-0F-27-66-C7-83-29-F0-FF-FF-0F-27-48-81-FE-0C-00-00-5C-75-1A-80-BB-71-0F-00-00-00-75-11-C6-43-24-63-48-63-04-81-48-01-C8-E9-79-E0-99-FF-90-48-63-04-81-48-01-C8-E9-6C-E0-99-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Blitzball Time 5:00">
+        <Cheatline>
+            <Offset>9DD280</Offset>
+            <Section>0</Section>
+            <ValueOn>44-89-23-48-81-FE-44-01-00-5C-75-0E-66-C7-03-2C-01-4D-89-FC-E9-9E-C1-99-FF-90-4D-89-FC-E9-95-C1-99-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disabled Battle Encounter">
+        <Cheatline>
+            <Offset>9DD2A8</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-9C-01-00-00-00-00-00-00-C4-C1-7A-58-86-9C-01-00-00-90-E9-A2-8C-88-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Encounter Battle">
+        <Cheatline>
+            <Offset>9DD2A8</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-9C-01-00-00-00-00-E1-43-C4-C1-7A-58-86-9C-01-00-00-90-E9-A2-8C-88-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="200 Lightning Dodge (dodge 1)">
+        <Cheatline>
+            <Offset>9DD2C8</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-C8-00-00-00-0F-4D-D8-90-E9-10-DE-99-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Chocobo Training Timer 0">
+        <Cheatline>
+            <Offset>9DD2DC</Offset>
+            <Section>0</Section>
+            <ValueOn>44-88-23-48-81-FE-B0-00-00-0C-75-0E-66-C7-03-00-00-4D-89-FC-E9-E4-BD-99-FF-90-4D-89-FC-E9-DB-BD-99-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Increase Time Butterfly Catch (turn off when done / wait)">
+        <Cheatline>
+            <Offset>9DD304</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7E-04-01-75-0B-FF-C3-41-89-1E-E9-3F-6A-98-FF-90-FF-CB-41-89-1E-E9-34-6A-98-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="--Final Fantasy X-2--">
+        <Cheatline>
+            <Offset>B2C2C4</Offset>
+            <Section>0</Section>
+            <ValueOn>C3-90</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (master code)">
+        <Cheatline>
+            <Offset>B2C2D0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-FF-02-77-2F-8B-88-A0-03-00-00-89-88-D0-03-00-00-3B-88-D0-03-00-00-75-0D-90-8B-88-D0-03-00-00-E9-6B-72-7C-FF-90-8B-88-A4-03-00-00-89-88-D4-03-00-00-EB-E6-8B-88-D0-03-00-00-E9-51-72-7C-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite MP (need MC)">
+        <Cheatline>
+            <Offset>B2C2E8</Offset>
+            <Section>0</Section>
+            <ValueOn>74-0D</ValueOn>
+            <ValueOff>75-0D</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gil buy / sell">
+        <Cheatline>
+            <Offset>B2C320</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-FF-C9-9A-3B-89-B1-D8-77-00-00-E9-EE-DA-7F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Items 99 (auto sort)">
+        <Cheatline>
+            <Offset>B2C340</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8A-54-8D-03-41-51-66-41-B9-00-20-41-54-49-C7-C4-00-00-00-00-66-46-89-0C-63-43-C6-04-27-63-66-41-FF-C1-41-FE-C4-49-83-FC-44-75-E9-41-59-41-5C-E9-49-51-97-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

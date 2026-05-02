@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07399",
+  "version": "01.07",
+  "name": "Crash Bandicoot N-Sane Trilogy",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07399"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07399_01.07.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07399_01.07.json",
+      "size": 2264,
+      "sha256": "a9c139ec7a5c1ccb11658db893e53c9cfbabdc335208ffc121d583139ac28596",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07399_01.07.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07399_01.07.shn",
+      "size": 2524,
+      "sha256": "2a2aa384366d785aa01ed41cc6d2556ee64283c1d750d54ad089a3a9fff3cd6d",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07399_01.07.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07399_01.07.mc4",
+      "size": 3372,
+      "sha256": "f71e6d74ea1da5096a7d06c9bd00bcd70bfa866c63bbddb028afbd78e957df7b",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA07399_01.07.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

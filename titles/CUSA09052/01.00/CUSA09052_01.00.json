@@ -1,0 +1,71 @@
+{
+  "name": "Beast Quest",
+  "id": "CUSA09052",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1397800",
+          "on": "5348C7C300008C434883FA01750566440F6EFB5BF3450F117F50E98A813B7F",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8074F9A3",
+          "on": "E9587EC48090",
+          "off": "F3450F117F50"
+        }
+      ]
+    },
+    {
+      "name": "Inf Brave Power Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "346B78",
+          "on": "F20F58C1",
+          "off": "F20F5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Inf PA Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323D4A",
+          "on": "909090",
+          "off": "894818"
+        }
+      ]
+    },
+    {
+      "name": "Inf Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "320F6A",
+          "on": "909090",
+          "off": "894820"
+        }
+      ]
+    },
+    {
+      "name": "Inf Health Potions",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "321995",
+          "on": "909090",
+          "off": "894810"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx-"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "name": "Vikings - Wolves of Midgard",
+  "id": "CUSA05032",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11CF800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11CF801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gift-Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B0137",
+          "on": "909090",
+          "off": "2B0C24"
+        }
+      ]
+    },
+    {
+      "name": "Instant Regeneration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11CF856",
+          "on": "41C787140300000050C347E96B772F7F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "804C6FC8",
+          "on": "E98988D08090909090",
+          "off": "F3450F11BF14030000"
+        }
+      ]
+    },
+    {
+      "name": "No Cooldown",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "509B6D",
+          "on": "0F57C090",
+          "off": "F30F5AC0"
+        },
+        {
+          "offset": "5094D9",
+          "on": "0F57C190",
+          "off": "F20F5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Heal-Skill Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "11CF841",
+          "on": "413986AC0600007D07418986AC060000E95EED2F7F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "804CE5AD",
+          "on": "E98F12D0809090",
+          "off": "418986AC060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FA24A2",
+          "on": "9090909090",
+          "off": "F3440F1138"
+        }
+      ]
+    },
+    {
+      "name": "Max Blood on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4AFE1D",
+          "on": "B9FFE0F50590",
+          "off": "8B08034C2408"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B02D6",
+          "on": "B99F860100",
+          "off": "8B08030C24"
+        }
+      ]
+    },
+    {
+      "name": "Max Iron on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B0429",
+          "on": "B99F860100",
+          "off": "8B08030C24"
+        }
+      ]
+    },
+    {
+      "name": "Max Wood on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B0579",
+          "on": "B99F860100",
+          "off": "8B08030C24"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Blood",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B0230",
+          "on": "90909090",
+          "off": "2B4C2408"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B039C",
+          "on": "909090",
+          "off": "2B0C24"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Iron",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B04EF",
+          "on": "909090",
+          "off": "2B0C24"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wood",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B063F",
+          "on": "909090",
+          "off": "2B0C24"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

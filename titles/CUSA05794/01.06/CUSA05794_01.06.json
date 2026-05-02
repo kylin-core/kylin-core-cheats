@@ -1,0 +1,179 @@
+{
+  "name": "Rise of the Tomb Raider 20 Year Celebration",
+  "id": "CUSA05794",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15CF800",
+          "on": "669C4983F906750E669DC747280000E143E9783FDDFE669DC5FA114F28E96C3FDDFE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3A3789",
+          "on": "E972C02201",
+          "off": "C5FA114F28"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo - Res",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "88750C",
+          "on": "C6400CFF",
+          "off": "6689580C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8EB253",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15CF830",
+          "on": "C7839004000000000000C783F004000000000000C783F804000000000000C5FA108B90040000E95F5032FF",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8F48B2",
+          "on": "E979AFCD00909090",
+          "off": "C5FA108B90040000"
+        }
+      ]
+    },
+    {
+      "name": "Rapid Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A09D41",
+          "on": "909090909090909090",
+          "off": "C4C17A1185FC100000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points on Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15CF822",
+          "on": "440F42F1B9FF000000E9521761FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "BE0F7B",
+          "on": "E9A2E89E009090",
+          "off": "440F42F14429F1"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15CF800",
+          "on": "C5F8294020837828000F8EA64463FF8178280000C8420F8D994463FF6800005040D94028D80C24D958284883C408E9824463FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C03CFB",
+          "on": "E94BBB9C00",
+          "off": "C5F8294020"
+        }
+      ]
+    },
+    {
+      "name": "Moon Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15CF800",
+          "on": "C5F8294020837828000F8E014563FF8178280000C8420F8DF44463FF680000A040D94028D80C24D958284883C408E9DD4463FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C03CFB",
+          "on": "E94BBB9C00",
+          "off": "C5F8294020"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bonus Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "90B8D9",
+          "on": "909090909090909090",
+          "off": "C4C17A1185C4020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Combo Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "908E36",
+          "on": "C5FA1193C8020000",
+          "off": "C5FA1183C8020000"
+        }
+      ]
+    },
+    {
+      "name": "Full Hunger Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F86F6",
+          "on": "9090909090",
+          "off": "C5FA114724"
+        }
+      ]
+    },
+    {
+      "name": "Full Cold Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8F7125",
+          "on": "9090909090",
+          "off": "C5FA114724"
+        }
+      ]
+    },
+    {
+      "name": "Full Hunger and Cold Meter",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DAA131",
+          "on": "909090909090",
+          "off": "898B3C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

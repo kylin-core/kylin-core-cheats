@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12153",
+  "version": "01.30",
+  "name": "DEAD OR ALIVE 6",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12153"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12153_01.30.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12153_01.30.json",
+      "size": 1635,
+      "sha256": "49e473f20621c358034d6a431644283455ec7833545c3bce5af16e4ed67287f3",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12153_01.30.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12153_01.30.shn",
+      "size": 1698,
+      "sha256": "0553f6f4fac223d75ff0e9ea09501a38a7b6f5d199c5c0adb9109d273ac1a45b",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12153_01.30.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12153_01.30.mc4",
+      "size": 2284,
+      "sha256": "56f46948ed04b244e7f7779492206c4c73f519f4fed53dbb160f873cf19a3843",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12153_01.30.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

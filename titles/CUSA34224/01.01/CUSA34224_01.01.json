@@ -1,0 +1,114 @@
+{
+  "name": "RWBY Arrowfell",
+  "id": "CUSA34224",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86ECF81B",
+          "on": "83B8940000000075088B480CE9B31C15FC894818E9AB1C15FC",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "830214D8",
+          "on": "E93EE3EA03",
+          "off": "E923E3EA03"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Health-One-Hit-Kill-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "86ECF836",
+          "on": "83B8940000000075088B480CE9981C15FCC7401800000000E98C1C15FC",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "830214D8",
+          "on": "E959E3EA03",
+          "off": "E93EE3EA03"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8329AFF5",
+          "on": "9090909090",
+          "off": "E8866498FF"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Energy-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82C21511",
+          "on": "909090",
+          "off": "89481C"
+        },
+        {
+          "offset": "82C213B8",
+          "on": "909090",
+          "off": "89481C"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Points-Remaining",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82DF0844",
+          "on": "8988BB000000",
+          "off": "8988B0000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Points-money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82FCE124",
+          "on": "909090",
+          "off": "894810"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82FCF6FF",
+          "on": "9090",
+          "off": "89C1"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82C214BB",
+          "on": "909090",
+          "off": "8B4018"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

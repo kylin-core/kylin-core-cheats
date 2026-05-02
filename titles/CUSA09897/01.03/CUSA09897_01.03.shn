@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LEGO® The Incredibles" Moder="TylerMods" Cusa="CUSA09897" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>2B96270</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-04-08-00-00-63-00-00-00-E9-61-55-2E-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Studs on Gain">
+        <Cheatline>
+            <Offset>2B7AF60</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-30-7F-96-98-00-4C-89-73-28-E9-15-5C-E3-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Max Combo">
+        <Cheatline>
+            <Offset>2B7B140</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-C8-00-00-00-0F-27-00-00-E9-9B-1B-A7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="x2 Combo">
+        <Cheatline>
+            <Offset>2B7B4A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-86-C8-00-00-00-02-E9-3E-18-A7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="x4 Combo">
+        <Cheatline>
+            <Offset>2B7B4A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-86-C8-00-00-00-04-E9-3E-18-A7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="x8 Combo">
+        <Cheatline>
+            <Offset>2B7B4A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-86-C8-00-00-00-08-E9-3E-18-A7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

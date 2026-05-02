@@ -1,0 +1,111 @@
+{
+  "name": "Battlefield 1",
+  "id": "CUSA02429",
+  "version": "01.27",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE3DB0",
+          "on": "4983F800750FC5FA104320C5FA11431CE97941C9FDC5FA11431CE96F41C9FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1877F39",
+          "on": "E972BE3602",
+          "off": "C5FA11431C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE38D0",
+          "on": "41C68624020000E7E9E92B6DFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "22B64BF",
+          "on": "E90CD492019090",
+          "off": "41898624020000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload/Grenades/Tank Cannon/Plane Missiles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE3920",
+          "on": "C78320020000E7030000E9713D6DFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "22B769A",
+          "on": "E981C2920190",
+          "off": "898320020000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage For Tank",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE3990",
+          "on": "4983F905750CC7470800808944E9860A30FDC5FA114F08E97C0A30FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EE4423",
+          "on": "E968F5CF02",
+          "off": "C5FA114F08"
+        },
+        {
+          "offset": "3BE39F0",
+          "on": "C5EA5DD34883F905750BC70700808944E980173AFDC5FA1117E977173AFD",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F8517D",
+          "on": "E96EE8C502909090",
+          "off": "C5EA5DD3C5FA1117"
+        }
+      ]
+    },
+    {
+      "name": "No Damage For Plane (Disable For Tank)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BE34E0",
+          "on": "4983F905750CC7470800808944E9360F30FDC5FA114F08E92C0F30FD",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "EE4423",
+          "on": "E9B8F0CF02",
+          "off": "C5FA114F08"
+        },
+        {
+          "offset": "3BE3550",
+          "on": "C5EA5DD36681FCD0C5750BC70700808944E91F1C3AFDC5FA1117E9161C3AFD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F8517D",
+          "on": "E9CEE3C502909090",
+          "off": "C5EA5DD3C5FA1117"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

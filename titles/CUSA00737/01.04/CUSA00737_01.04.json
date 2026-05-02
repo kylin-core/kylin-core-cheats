@@ -1,0 +1,156 @@
+{
+  "name": "Terraria",
+  "id": "CUSA00737",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26BD1D",
+          "on": "664401A35E2A0000",
+          "off": "664429A35E2A0000"
+        },
+        {
+          "offset": "25D35F",
+          "on": "909090909090909090",
+          "off": "664183865E2A0000FB"
+        },
+        {
+          "offset": "25D290",
+          "on": "9090909090909090",
+          "off": "664189865E2A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "270512",
+          "on": "909090909090909090",
+          "off": "6641898424602A0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Oxygen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "267ADF",
+          "on": "9090909090909090",
+          "off": "664189866C030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Take",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E470",
+          "on": "410FB7841EAE030000",
+          "off": "410FB7841EAC030000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "67F800",
+          "on": "41C785DC01000000000000E96BE0B6FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1ED874",
+          "on": "E9871F49009090",
+          "off": "41898DDC010000"
+        },
+        {
+          "offset": "67F810",
+          "on": "C7840FDC01000000000000E921E0B6FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1ED83A",
+          "on": "E9D11F49009090",
+          "off": "29B40FDC010000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E815B",
+          "on": "9090909090",
+          "off": "C5FA114304"
+        }
+      ]
+    },
+    {
+      "name": "Switch to Day Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "67F820",
+          "on": "C7430500004601E93489A6FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "E815B",
+          "on": "E9C0765900",
+          "off": "C5FA114304"
+        }
+      ]
+    },
+    {
+      "name": "Switch to Night Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "67F82C",
+          "on": "C7430500504701E92889A6FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "E815B",
+          "on": "E9CC765900",
+          "off": "C5FA114304"
+        }
+      ]
+    },
+    {
+      "name": "Hide Background",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "235F",
+          "on": "90909090",
+          "off": "488B5110"
+        }
+      ]
+    },
+    {
+      "name": "Freeze The Sun",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2358",
+          "on": "90909090909090",
+          "off": "4C8980C0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly+hejran7"
+  ]
+}

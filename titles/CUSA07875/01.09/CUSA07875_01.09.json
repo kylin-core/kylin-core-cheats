@@ -1,0 +1,38 @@
+{
+  "name": "Uncharted The Lost Legacy",
+  "id": "CUSA07875",
+  "version": "01.09",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Dev Menu (L3 + Upper L or R Touch Pad)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "219B800",
+          "on": "518B0D426A720080E14041888FF92E00004180BFF92E00000059E91F5A06FE",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "201236",
+          "on": "E9C5A5F901909090",
+          "off": "4180BFF92E000000"
+        }
+      ]
+    },
+    {
+      "name": "Hide All Dev Menu Details",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FE198",
+          "on": "80B8082F000001",
+          "off": "80B8082F000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

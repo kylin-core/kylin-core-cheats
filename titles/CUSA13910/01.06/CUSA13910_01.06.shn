@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sekiro™: Shadows Die Twice 只狼：影逝二度" Moder="Fullcodes & @hejran7" Cusa="CUSA13910" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Invincible Mode | 无敌模式">
+        <Cheatline>
+            <Offset>3CF7FF0</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Vitality | 无限 HP">
+        <Cheatline>
+            <Offset>3CF7FF1</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Posture Bar | 无限架势槽">
+        <Cheatline>
+            <Offset>3CF7FF2</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Spirit Emblems | 无限纸人">
+        <Cheatline>
+            <Offset>3CF7FFC</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Resurrection | 无限回生">
+        <Cheatline>
+            <Offset>3CF7FF7</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy to Deathblow | 轻松忍杀">
+        <Cheatline>
+            <Offset>3CF7FF3</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stealth Mode | 隐身模式">
+        <Cheatline>
+            <Offset>3CF7FF4</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump | 超级跳跃">
+        <Cheatline>
+            <Offset>3CF7FF5</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Drop Rate 100%% | 掉宝率 100%%">
+        <Cheatline>
+            <Offset>3CF7FF6</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Homeward Idol Instantly | 瞬间归佛">
+        <Cheatline>
+            <Offset>3CF7FFE</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Auto Acquire Loots | 自动获取敌人遗物">
+        <Cheatline>
+            <Offset>F78335</Offset>
+            <Section>0</Section>
+            <ValueOn>00</ValueOn>
+            <ValueOff>01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Show Enemies Location | 显示敌人位置">
+        <Cheatline>
+            <Offset>3CF7FF9</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Immune to All Negative Effects | 免疫全部异常状态">
+        <Cheatline>
+            <Offset>107B329</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9</ValueOn>
+            <ValueOff>0F-85</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Money and EXP Loss Upon Death | 死亡不会损失金钱和经验">
+        <Cheatline>
+            <Offset>1A4482F</Offset>
+            <Section>0</Section>
+            <ValueOn>44-89-CF-90-90-90-90</ValueOn>
+            <ValueOff>4C-8D-3D-8A-0A-14-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Money 999999999 | 金钱 999999999">
+        <Cheatline>
+            <Offset>10C448A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90</ValueOn>
+            <ValueOff>0F-4C-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Always Level Up | 总是升级">
+        <Cheatline>
+            <Offset>3CF7FFD</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="EXP Multiply 10 | 经验值 10 倍">
+        <Cheatline>
+            <Offset>3CF7FFA</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="EXP Multiply 100 | 经验值 100 倍">
+        <Cheatline>
+            <Offset>3CF7FFB</Offset>
+            <Section>0</Section>
+            <ValueOn>01</ValueOn>
+            <ValueOff>00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Speed Multiply 1.5 | 角色速度 1.5 倍">
+        <Cheatline>
+            <Offset>2D4ACEF</Offset>
+            <Section>0</Section>
+            <ValueOn>C0-3F</ValueOn>
+            <ValueOff>80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Player Speed Multiply 2 | 角色速度 2 倍">
+        <Cheatline>
+            <Offset>2D4ACEF</Offset>
+            <Section>0</Section>
+            <ValueOn>00-40</ValueOn>
+            <ValueOff>80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Enemy Speed Multiply 0.5 | 敌人速度 0.5 倍">
+        <Cheatline>
+            <Offset>2D4ACF9</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-3F</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Enemy Speed Multiply 0.2 | 敌人速度 0.2 倍">
+        <Cheatline>
+            <Offset>2D4ACF9</Offset>
+            <Section>0</Section>
+            <ValueOn>CD-CC-4C-3E</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

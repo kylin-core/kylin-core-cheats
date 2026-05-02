@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Boy and the Cursed Kingdom" Moder="Gatot Kaca And Wander" Cusa="CUSA05011" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="1 Hit Kills Boss">
+        <Cheatline>
+            <Offset>608E90</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-38-10-00-00-00-00-00-00-E9-4A-31-AD-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kills Enemy">
+        <Cheatline>
+            <Offset>608ED0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-38-10-00-00-00-00-00-00-E9-C2-00-B4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinte Health">
+        <Cheatline>
+            <Offset>608A20</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-88-40-99-00-00-C6-80-40-99-00-00-C8-C6-80-44-99-00-00-C8-E9-CF-ED-C5-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Oxygen">
+        <Cheatline>
+            <Offset>21CBD0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Flying Dragon Form Auto Charge">
+        <Cheatline>
+            <Offset>20DCA0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4C-C8</ValueOn>
+            <ValueOff>0F-4F-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Dash Human">
+        <Cheatline>
+            <Offset>608D90</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-63-00-00-00-E9-2C-DF-BF-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Dash Lion">
+        <Cheatline>
+            <Offset>608F10</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-64-00-00-00-41-89-87-EC-2E-00-00-E9-70-7B-BF-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jump ( Use Double Jump Boots )">
+        <Cheatline>
+            <Offset>1D7B29</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-FF-84-24-7C-B9-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coin">
+        <Cheatline>
+            <Offset>608A90</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-65-B6-A0-FF-B8-7F-96-98-00-89-01-E9-3C-85-BF-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Change Size Character To Big">
+        <Cheatline>
+            <Offset>608B20</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-D0-A6-74-0E-C4-C1-7A-10-9E-F8-00-00-00-E9-CE-2A-B4-FF-41-C7-86-F8-00-00-00-00-00-00-40-41-C7-86-FC-00-00-00-00-00-00-40-C4-C1-7A-10-9E-F8-00-00-00-E9-AA-2A-B4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Change Size Character To Normal">
+        <Cheatline>
+            <Offset>608AE0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-D0-A6-74-0E-C4-C1-7A-10-9E-F8-00-00-00-E9-0E-2B-B4-FF-41-C7-86-F8-00-00-00-00-00-80-3F-41-C7-86-FC-00-00-00-00-00-80-3F-C4-C1-7A-10-9E-F8-00-00-00-E9-EA-2A-B4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Character Movement Fast">
+        <Cheatline>
+            <Offset>608DF0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-40-A7-74-0E-C4-C1-7A-10-85-F4-0C-00-00-E9-B1-C9-B3-FF-41-C7-85-F4-0C-00-00-00-00-40-40-41-C7-85-C0-0A-00-00-00-00-C0-3F-C4-C1-7A-10-85-F4-0C-00-00-E9-8D-C9-B3-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Character Movement Normal">
+        <Cheatline>
+            <Offset>608E50</Offset>
+            <Section>0</Section>
+            <ValueOn>66-81-FC-40-A7-74-0E-C4-C1-7A-10-85-F4-0C-00-00-E9-51-C9-B3-FF-41-C7-85-F4-0C-00-00-00-00-80-3F-41-C7-85-C0-0A-00-00-00-00-80-3F-C4-C1-7A-10-85-F4-0C-00-00-E9-2D-C9-B3-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Have All Characters">
+        <Cheatline>
+            <Offset>608C50</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-3F-88-83-58-2F-00-00-E9-AF-2A-D4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Have All Weapons, Shields, Armor,Bracelets, Boots">
+        <Cheatline>
+            <Offset>608CE0</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-15-B4-A0-FF-B0-FF-88-01-88-41-08-88-41-10-88-41-18-E9-E4-65-D1-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Have All Talisman">
+        <Cheatline>
+            <Offset>608D30</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-C5-B3-A0-FF-41-50-41-B0-01-44-88-01-44-88-41-08-44-88-41-10-44-88-41-18-44-88-41-20-41-58-E9-7F-27-D4-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Multi Jump">
+        <Cheatline>
+            <Offset>1D889A</Offset>
+            <Section>0</Section>
+            <ValueOn>48-83-C8-01</ValueOn>
+            <ValueOff>48-83-C8-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Moon Jump">
+        <Cheatline>
+            <Offset>1D8886</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-50-02-00-00-90</ValueOn>
+            <ValueOff>0F-8E-4F-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic Cast">
+        <Cheatline>
+            <Offset>7FC5E360</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-84-83-D0-2E-00-00-63-00-E9-55-E6-56-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Potions x99(on buy)">
+        <Cheatline>
+            <Offset>7FC5EAB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-14-31-00-00-63-E9-1D-5E-6F-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Potion x147( on use)">
+        <Cheatline>
+            <Offset>7FC5FE40</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-14-31-00-00-93-00-00-00-E9-13-95-56-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Legendary gems x50 (on spent have 2 units)">
+        <Cheatline>
+            <Offset>7FC5EC80</Offset>
+            <Section>0</Section>
+            <ValueOn>49-8D-97-18-57-00-00-C6-02-32-E9-42-92-6C-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rain Drops x99 (on gain/buy)">
+        <Cheatline>
+            <Offset>7FEA7DD0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-A9-54-00-00-32-E9-E6-CE-4A-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rain Drops x99 (on spent for gold)">
+        <Cheatline>
+            <Offset>7FEA7E30</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-A9-54-00-00-63-E9-2F-E3-4A-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rain Drops x99 (on spent for treasure maps)">
+        <Cheatline>
+            <Offset>7FEA7EE0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-A9-54-00-00-63-E9-9A-E1-4A-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Power Gems x99 (on gain have 2 units)">
+        <Cheatline>
+            <Offset>7FEA5EC0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-A8-54-00-00-63-E9-07-0F-32-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Golden Gems x99 (on gain have 2 units)">
+        <Cheatline>
+            <Offset>7FEA7E10</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-22-57-00-00-63-E9-89-F1-31-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

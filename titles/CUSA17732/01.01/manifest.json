@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA17732",
+  "version": "01.01",
+  "name": "Empire of Sin",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA17732"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17732_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA17732_01.01.json",
+      "size": 2627,
+      "sha256": "bdd741cf8af8414cf665648cba03171704fa76dd01001831d2e27096a422884f",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17732_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA17732_01.01.shn",
+      "size": 3197,
+      "sha256": "4b8f5333649ea03ade21f6f9e94de970a45c89ef037929095eee002d372d4f61",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17732_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA17732_01.01.mc4",
+      "size": 4268,
+      "sha256": "1e26362c0994893e89014c5b83d0d2814f0a2c801706db10c2f710946d415a99",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA17732_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

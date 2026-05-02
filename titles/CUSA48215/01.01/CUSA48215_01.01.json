@@ -1,0 +1,70 @@
+{
+  "name": "wrath",
+  "id": "CUSA48215",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82D9B84B",
+          "on": "C787B40000000000C842C5FA1087B4000000C3",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81A68720",
+          "on": "E926313301909090",
+          "off": "C5FA1087B4000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82D9B830",
+          "on": "41C787240200000000C842C4C17A109724020000E9AA0ECDFE",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81A6C6EA",
+          "on": "E941F1320190909090",
+          "off": "C4C17A109724020000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81A7014C",
+          "on": "4401EA90",
+          "off": "03548820"
+        }
+      ]
+    },
+    {
+      "name": "Inf Artifact / Soul",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "82D9B860",
+          "on": "4863CEB805000000E917FACEFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "81A8B27D",
+          "on": "E9DE0531019090",
+          "off": "4863CE8B448820"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

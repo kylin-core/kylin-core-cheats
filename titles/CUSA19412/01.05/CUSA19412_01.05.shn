@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP4133-CUSA19412_00-0000000CURSEGAME" Moder="Talixme" Cusa="CUSA19412" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Life">
+        <Cheatline>
+            <Offset>10AB000</Offset>
+            <Section>0</Section>
+            <ValueOn>81-F9-10-13-66-01-0F-84-6D-79-5A-FF-81-F9-9F-03-00-00-0F-84-61-79-5A-FF-C4-C1-7A-11-8D-E8-01-00-00-E9-53-79-5A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>10AB046</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-83-70-76-00-00-C5-FA-11-83-70-76-00-00-E9-E1-93-76-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Gold">
+        <Cheatline>
+            <Offset>10AB0B0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-8C-00-00-00-F0-23-74-49-C4-C1-7A-10-84-24-8C-00-00-00-C4-C1-7A-11-84-24-8C-00-00-00-E9-44-DC-75-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Skulls">
+        <Cheatline>
+            <Offset>10AB0F5</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-5C-01-00-00-3F-42-0F-00-E9-F2-5D-62-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Rings">
+        <Cheatline>
+            <Offset>10AB124</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-64-01-00-00-3F-42-0F-00-E9-13-61-62-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Corruption">
+        <Cheatline>
+            <Offset>10AB153</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-4E-64-C4-C1-7A-11-4E-64-E9-5B-D7-75-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

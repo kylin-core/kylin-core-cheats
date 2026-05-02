@@ -1,0 +1,123 @@
+{
+  "name": "Onimusha: Warlords",
+  "id": "CUSA11300",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "567B50",
+          "on": "6641C780DCB90000C800E901D7D0FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "275258",
+          "on": "E9F3282F00909090",
+          "off": "66418988DCB90000"
+        }
+      ]
+    },
+    {
+      "name": "Max red souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "567800",
+          "on": "C78084AD0000FFC99A3BE95F3EAAFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "B668",
+          "on": "E993C1550090",
+          "off": "898884AD0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite blue sword magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "567811",
+          "on": "66C7803EAF0000C800E90F93D0FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "270B27",
+          "on": "E9E56C2F009090",
+          "off": "6629883EAF0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite red sword magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "567811",
+          "on": "66C78040AF0000C800E98396D0FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "270E9B",
+          "on": "E971692F009090",
+          "off": "66298840AF0000"
+        }
+      ]
+    },
+    {
+      "name": "Green spear",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "567D90",
+          "on": "66C78042AF0000C800E9C692D0FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "27105D",
+          "on": "E92E6D2F009090",
+          "off": "66298842AF0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite items ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5677E0",
+          "on": "41C684B41127000050E985EED6FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2D666B",
+          "on": "E970112900909090",
+          "off": "418894B411270000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Kunai throw Kaede",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "567821",
+          "on": "42C68489ADAD000050E9DA45D7FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "2DBE01",
+          "on": "E91BBA2800909090",
+          "off": "42888489ADAD0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

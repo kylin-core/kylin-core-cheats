@@ -1,0 +1,142 @@
+{
+  "name": "Hokuto ga Gotoku",
+  "id": "CUSA10053",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E37DB2",
+          "on": "48BBD0260B00020000004839C30F8544085AFE89D7E93D085AFE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3D8604",
+          "on": "E9A9F7A501",
+          "off": "0F4FF939D7"
+        }
+      ]
+    },
+    {
+      "name": "1 hit Max Aura",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E37DA4",
+          "on": "BA00C0DA45660F6EC2E9123556FE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "39B2BF",
+          "on": "E9E0CAA901",
+          "off": "C5FA5D45D0"
+        }
+      ]
+    },
+    {
+      "name": "Inf Aura",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "39BA82",
+          "on": "9090909090",
+          "off": "C5FA11400C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Hokuto Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "440724",
+          "on": "9090909090909090",
+          "off": "C5FA118B0C390000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skills Points after spent",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "995183",
+          "on": "B9E703000090",
+          "off": "81F9E7030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Fiches and Money after spent",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "999C7B",
+          "on": "4889F1",
+          "off": "4839F1"
+        }
+      ]
+    },
+    {
+      "name": "Inf items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "995F80",
+          "on": "90909090",
+          "off": "66897706"
+        }
+      ]
+    },
+    {
+      "name": "Inf Car Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C453EE",
+          "on": "C5FA109B0C0B0000",
+          "off": "C5FA11830C0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Car Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C4A5FE",
+          "on": "C4C17A10870C0B0000",
+          "off": "C4C17A11870C0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Car Fuel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99C620",
+          "on": "9090909090909090",
+          "off": "C5FA1187A4D30100"
+        }
+      ]
+    },
+    {
+      "name": "Inf Talismans Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99CA41",
+          "on": "C5FA114CC704",
+          "off": "C5FA1144C704"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Vampirexx"
+  ]
+}

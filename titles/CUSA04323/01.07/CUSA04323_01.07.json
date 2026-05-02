@@ -1,0 +1,91 @@
+{
+  "name": "South Park The Fractured But Whole",
+  "id": "CUSA04323",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Quick Special",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323B800",
+          "on": "51B90000C842660F6EC959C5FA114F08E994C217FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13B7AA4",
+          "on": "E9573DE801",
+          "off": "C5FA114F08"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323B815",
+          "on": "41B92544000044898FC8000000E910B213FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1376A30",
+          "on": "E9E04DEC019090",
+          "off": "44898FC8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323B827",
+          "on": "0F84854A9BFDC7400C3F420F008B400CE9794A9BFD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BF02B0",
+          "on": "E972B56402",
+          "off": "74068B400C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323B83C",
+          "on": "0F84A34D9BFDC7400C630000008B400CE9CE4A9BFD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BF0316",
+          "on": "E921B5640290909090",
+          "off": "0F84CF0200008B400C"
+        }
+      ]
+    },
+    {
+      "name": "Quickly Level Up Crafting",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323B851",
+          "on": "BEE70D000089B3DC000000E9337E15FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "139368E",
+          "on": "E9BE81EA0190",
+          "off": "89B3DC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

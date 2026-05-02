@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08070",
+  "version": "01.03",
+  "name": "Nanatsu no Taizai (Seven Deadly Sins) - Knights of Britannia",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08070"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08070_01.03.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08070_01.03.json",
+      "size": 4151,
+      "sha256": "2be2f615981173a01e20e9849a0350b996568216934aeba0643b0cbee3575912",
+      "cheatCount": 13,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08070_01.03.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08070_01.03.shn",
+      "size": 4156,
+      "sha256": "1195efe0c0d874c3d25523d0b360696eb1fc408e8438d6d663d0b40acc97f5d1",
+      "cheatCount": 13,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08070_01.03.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08070_01.03.mc4",
+      "size": 5548,
+      "sha256": "01c14627c759a0265e527d70a0197cf3827b47cb2f557ba408723fcbb7bf28ea",
+      "cheatCount": 13,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA08070_01.03.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

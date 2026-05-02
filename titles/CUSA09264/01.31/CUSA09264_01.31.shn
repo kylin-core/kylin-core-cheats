@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Just Cause 4" Moder="sili" Cusa="CUSA09264" Version="01.31" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="inf. health">
+        <Cheatline>
+            <Offset>203E2B9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C7-43-40-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="inf. secondary fire">
+        <Cheatline>
+            <Offset>19591E3</Offset>
+            <Section>0</Section>
+            <ValueOn>41-89-BC-87-48-02-00-00</ValueOn>
+            <ValueOff>45-89-AC-87-48-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Watch Dogs®: Legion" Moder="Gatot Kaca+KevinTamvan" Cusa="CUSA13115" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Master Code Player Health">
+        <Cheatline>
+            <Offset>085E3D58</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-43-70-00-8B-B3-AC-05-00-00-E9-EC-4F-66-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>085E3E03</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-1C-00-00-80-7F-C5-FA-10-47-1C-C5-FA-11-47-18-C4-C1-78-2E-87-88-0C-00-00-E9-D5-AF-A8-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Keeping Players Health">
+        <Cheatline>
+            <Offset>085E3D58</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-43-70-01</ValueOn>
+            <ValueOff>C6-43-70-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lots of Bullets">
+        <Cheatline>
+            <Offset>085E3D67</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BE-E7-03-00-00-4C-89-B0-10-01-00-00-E9-09-08-22-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lots of Magazine">
+        <Cheatline>
+            <Offset>085E3D79</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-0F-27-00-00-89-41-10-49-8B-0C-24-E9-56-DC-21-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Wanted Level [ Dont Lock ]">
+        <Cheatline>
+            <Offset>085E3E50</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-20-00-00-00-00-44-89-F0-E9-C8-51-07-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="A lot of Etto">
+        <Cheatline>
+            <Offset>085E3D8A</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-9A-E3-8D-FB-C7-40-24-FF-E0-F5-05-44-8B-70-24-44-89-70-20-E9-AA-E2-8D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lots of Tech Points">
+        <Cheatline>
+            <Offset>085E3DA4</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-00-48-85-C0-C7-40-30-E7-03-00-00-C7-40-2C-E7-03-00-00-E9-87-E2-8D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Hacking Without Cooldown">
+        <Cheatline>
+            <Offset>0163B87F</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-00-00-00-00</ValueOn>
+            <ValueOff>B8-01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Jam Turret">
+        <Cheatline>
+            <Offset>01E117B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Long Camouflage Duration">
+        <Cheatline>
+            <Offset>017C5E5E</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-1B</ValueOn>
+            <ValueOff>77-1B</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Camouflage">
+        <Cheatline>
+            <Offset>017C6E70</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Undetected By Enemy">
+        <Cheatline>
+            <Offset>B99DF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C3</ValueOn>
+            <ValueOff>55</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Cooldown Elec-Shock-Missl. Drone">
+        <Cheatline>
+            <Offset>010C3F58</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-53-0C</ValueOn>
+            <ValueOff>C5-FA-11-43-0C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [1.35]">
+        <Cheatline>
+            <Offset>085E3DF2</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-7C-CD-CC-AC-3F-C5-FB-10-40-78-E9-2A-B1-56-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [1.5]">
+        <Cheatline>
+            <Offset>085E3DF2</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-7C-00-00-C0-3F-C5-FB-10-40-78-E9-2A-B1-56-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [1.875]">
+        <Cheatline>
+            <Offset>085E3DF2</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-7C-00-00-F0-3F-C5-FB-10-40-78-E9-2A-B1-56-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [1.95]">
+        <Cheatline>
+            <Offset>085E3DF2</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-7C-9A-99-F9-3F-C5-FB-10-40-78-E9-2A-B1-56-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed [2.15]">
+        <Cheatline>
+            <Offset>085E3DF2</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-40-7C-9A-99-09-40-C5-FB-10-40-78-E9-2A-B1-56-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

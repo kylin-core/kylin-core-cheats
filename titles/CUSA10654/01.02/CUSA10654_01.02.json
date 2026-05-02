@@ -1,0 +1,53 @@
+{
+  "name": "Island Express",
+  "id": "CUSA10654",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Frutas Infinitas 999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "593E80",
+          "on": "418D041C41C707E7030000E98BE3C9FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "232214",
+          "on": "E9671C36009090",
+          "off": "418D041C418907"
+        },
+        {
+          "offset": "593DB0",
+          "on": "0F4FC141C707E7030000E99FE4C9FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "232258",
+          "on": "E9531B360090",
+          "off": "0F4FC1418907"
+        }
+      ]
+    },
+    {
+      "name": "Itens Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "593F20",
+          "on": "486BC078C7440148E7030000E92BABCDFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "26EA54",
+          "on": "E9C7543200909090",
+          "off": "486BC078FF440148"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

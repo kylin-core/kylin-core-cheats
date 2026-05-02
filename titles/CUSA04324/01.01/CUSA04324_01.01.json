@@ -1,0 +1,59 @@
+{
+  "name": "Zenith",
+  "id": "CUSA04324",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Heal Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B800",
+          "on": "0F8442CE327FB963000000894818E90DCC327F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80588417",
+          "on": "E9E433CD8090909090",
+          "off": "0F8431020000894818"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP (leave your max HP at 250)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B813",
+          "on": "669C4181BFA400000000007A437507669DE9B9E3307F669DF3450F11BF9C000000E9A9E3307F",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80569BD9",
+          "on": "E9351CCF8090909090",
+          "off": "F3450F11BF9C000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Money / Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B839",
+          "on": "B87F96980041898614010000E99B24327F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "8057DCDE",
+          "on": "E956DBCD809090",
+          "off": "41898614010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

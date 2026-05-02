@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ELDEN RING™" Moder="Celogamez" Cusa="CUSA18723" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max/Infinite Health">
+        <Cheatline>
+            <Offset>3943E60</Offset>
+            <Section>0</Section>
+            <ValueOn>49-81-F8-E4-63-4A-03-75-05-B8-34-08-00-00-41-89-85-48-01-00-00-E9-63-99-78-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Magic">
+        <Cheatline>
+            <Offset>7FC5FE50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-58-01-00-00-C2-01-00-00-E9-DE-DF-46-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Endurance">
+        <Cheatline>
+            <Offset>7FC5FF70</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-86-64-01-00-00-AA-00-00-00-E9-6E-E0-46-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Items/Potions/Arrows">
+        <Cheatline>
+            <Offset>7FC5FB70</Offset>
+            <Section>0</Section>
+            <ValueOn>43-89-44-A7-0C-C7-01-E7-03-00-00-E9-A3-7B-18-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Runes On Start">
+        <Cheatline>
+            <Offset>7FC5FFC0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-09-C7-40-6C-FF-C9-9A-3B-E9-9A-0C-71-81</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,43 @@
+{
+  "name": "OCEANHORN",
+  "id": "CUSA05010",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health (need at least 1 hearts)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58F800",
+          "on": "669C4883FA18750D669D57C5FA110F5FE97120C9FF669DC5FA1107C6470801E96220C9FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "22187E",
+          "on": "E97DDF3600909090",
+          "off": "C5FA1107C6470801"
+        }
+      ]
+    },
+    {
+      "name": "Inf Exp/Gold/Max Lvl",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58F824",
+          "on": "BE7F96980089771084D2E91222C9FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "221A40",
+          "on": "E9DFDD3600",
+          "off": "89771084D2"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

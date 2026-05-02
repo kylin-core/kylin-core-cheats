@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA16296",
+  "version": "01.01",
+  "name": "DOOM 64",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA16296"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16296_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA16296_01.01.json",
+      "size": 6178,
+      "sha256": "0cdc65fdece40f73256f1eced38e75ffe09f5b8bf9ca3372514b7315dfa3f00d",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16296_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA16296_01.01.shn",
+      "size": 4951,
+      "sha256": "29591cb74f385e9ad64ab0540a61100cf71f705e96f1910578a984490738c6a2",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16296_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA16296_01.01.mc4",
+      "size": 6616,
+      "sha256": "49628ce38161bea4f65b3e118932a47061569e8069ede082caa477a1d1492021",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16296_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

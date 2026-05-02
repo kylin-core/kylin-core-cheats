@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03803",
+  "version": "01.04",
+  "name": "UP4133-CUSA03803_00-THETECHNOMANCER0",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03803"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03803_01.04.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03803_01.04.json",
+      "size": 2757,
+      "sha256": "bfba3d1347237e431a3645705c34c8deffc1fa20540980b4678367116b4971fd",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03803_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03803_01.04.shn",
+      "size": 2609,
+      "sha256": "b4527ab6a2f2440ea051d02de92321835867c9e907ed4e5ce12a0bdd9aa6aa53",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03803_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03803_01.04.mc4",
+      "size": 3500,
+      "sha256": "a8cf2842e37da245e38aada9681463fb15a48ef51b35dbc975ad79facfd928ae",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03803_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

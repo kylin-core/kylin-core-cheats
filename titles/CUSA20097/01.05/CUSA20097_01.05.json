@@ -1,0 +1,75 @@
+{
+  "name": "Thief Simulator",
+  "id": "CUSA20097",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "158FDB0",
+          "on": "488B80A0000000C74004FFE0F5058B4004E9DF99ED7E526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8046979B",
+          "on": "E9106612819090909090",
+          "off": "488B80A00000008B4004"
+        }
+      ]
+    },
+    {
+      "name": "Max Skillpoints ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "158FDDA",
+          "on": "4C89F72901C7012A000000E9022EF07E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80492BE7",
+          "on": "E9EED10F81",
+          "off": "4C89F72901"
+        }
+      ]
+    },
+    {
+      "name": "Max Weight ( after Upgrade )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "158FDEA",
+          "on": "C74350003C1C46E95E85E97E",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "8042834F",
+          "on": "E9967A1681",
+          "off": "C5FA114350"
+        }
+      ]
+    },
+    {
+      "name": "No Noise Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "158FDF6",
+          "on": "C780CC01000000000000C5FA1088CC010000E9C5D0047F",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805DCECA",
+          "on": "E9272FFB80909090",
+          "off": "C5FA1088CC010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

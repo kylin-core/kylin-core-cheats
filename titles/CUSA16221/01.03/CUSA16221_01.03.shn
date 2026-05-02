@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Streets of Rage 4" Moder="Saso l TylerMods" Cusa="CUSA16221" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite HP All  Players (Master Code)">
+        <Cheatline>
+            <Offset>32602A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-38-00-75-20-41-80-7C-24-34-01-74-22-41-80-7C-24-34-02-74-1A-41-80-7C-24-34-03-74-12-41-80-7C-24-34-04-74-0A-41-89-6C-24-20-E9-A1-F7-05-FD-41-C6-44-24-22-64-E9-96-F7-05-FD-41-C7-44-24-20-00-00-00-00-E9-88-F7-05-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill (With Master Code) ">
+        <Cheatline>
+            <Offset>32602C8</Offset>
+            <Section>0</Section>
+            <ValueOn>EB-13-90-90-90</ValueOn>
+            <ValueOff>41-89-6C-24-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable P1 Infinite HP (With Master Code)">
+        <Cheatline>
+            <Offset>32602A8</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-34-00</ValueOn>
+            <ValueOff>41-80-7C-24-34-01</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable P2 Infinite HP (With Master Code)">
+        <Cheatline>
+            <Offset>32602B0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-34-00</ValueOn>
+            <ValueOff>41-80-7C-24-34-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable P3 Infinite HP (With Master Code)">
+        <Cheatline>
+            <Offset>32602B8</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-34-00</ValueOn>
+            <ValueOff>41-80-7C-24-34-03</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable P4 Infinite HP (With Master Code)">
+        <Cheatline>
+            <Offset>32602C0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-34-00</ValueOn>
+            <ValueOff>41-80-7C-24-34-04</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stars">
+        <Cheatline>
+            <Offset>3260300</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-40-44-03-41-FF-D6-E9-CC-82-02-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Lives">
+        <Cheatline>
+            <Offset>3260330</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-83-AF-97-05-FD-C7-44-03-38-06-00-00-00-E9-8C-94-05-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,149 @@
+{
+  "name": "Disgaea 1 Complete",
+  "id": "CUSA13171",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Quick Level Customer Rank",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263800",
+          "on": "48B8FF7FC6A47E8D0300488905EFF61E00E94BC8E7FF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E005A",
+          "on": "E9A13718009090",
+          "off": "482905EFF61E00"
+        }
+      ]
+    },
+    {
+      "name": "9999 Monsters Killed",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263816",
+          "on": "B80F2700008905D48C2A00E9928AE5FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "BC2B2",
+          "on": "E95F751A0090",
+          "off": "8905D48C2A00"
+        }
+      ]
+    },
+    {
+      "name": "Max Mana (After 1 Kill)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263826",
+          "on": "B90CBE4B0041898A2C060000E9D585E5FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBE05",
+          "on": "E91C7A1A009090",
+          "off": "41898A2C060000"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263837",
+          "on": "4805FFC99A3B4801C2490112E94D87E5FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "BBF8F",
+          "on": "E9A3781A0090",
+          "off": "4801C2490112"
+        }
+      ]
+    },
+    {
+      "name": "Quickly Level Up Weapons ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263848",
+          "on": "053F420F008984B708060000E9C212E2FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "84B14",
+          "on": "E92FED1D009090",
+          "off": "8984B708060000"
+        }
+      ]
+    },
+    {
+      "name": "Quickly Level Up Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "263859",
+          "on": "81C23F420F0001949F24030000E97E0BE2FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "843E2",
+          "on": "E972F41D009090",
+          "off": "01949F24030000"
+        }
+      ]
+    },
+    {
+      "name": "Quickly Gain Bonus Bar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26386B",
+          "on": "81C13F420F00890D888D2E00E9B883E1FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "7BC2D",
+          "on": "E9397C1E009090",
+          "off": "66890D888D2E00"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up Items ~Item World~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "26387C",
+          "on": "B80F2700008905759A3D00E9AB06E3FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "93F31",
+          "on": "E946F91C0090",
+          "off": "8905759A3D00"
+        },
+        {
+          "offset": "26388C",
+          "on": "B8E70300008905CBCB2C00E95D45E3FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "97DF2",
+          "on": "E995BA1C009090",
+          "off": "668905CBCB2C00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

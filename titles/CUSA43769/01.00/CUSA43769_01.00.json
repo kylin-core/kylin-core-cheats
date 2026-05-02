@@ -1,0 +1,65 @@
+{
+  "name": "Vostok 2061",
+  "id": "CUSA43769",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7B8538",
+          "on": "909090909090",
+          "off": "FF15027C7D01"
+        },
+        {
+          "offset": "811E2269",
+          "on": "9090909090",
+          "off": "E852010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "811E243F",
+          "on": "9090909090",
+          "off": "C5FA114318"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "810BD11D",
+          "on": "90909090",
+          "off": "41894634"
+        }
+      ]
+    },
+    {
+      "name": "MAX-SCORE",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "821BFF02",
+          "on": "8140200F270000E911FA30FF",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "814CF918",
+          "on": "E9E505CF009090",
+          "off": "014820488B4370"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

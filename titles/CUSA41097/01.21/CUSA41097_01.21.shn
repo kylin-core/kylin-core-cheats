@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Afterimage" Moder="Bandicootmonito" Cusa="CUSA41097" Version="01.21" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health + Invincible (Turn OFF when enter to the first boss, die is needed to continue the gameplay)">
+        <Cheatline>
+            <Offset>56DB800</Offset>
+            <Section>0</Section>
+            <ValueOn>83-B8-88-00-00-00-03-75-0C-C7-40-10-00-3C-1C-46-E9-3C-0D-1D-FB-C5-F9-7E-40-28-E9-32-0D-1D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Magic / Mana (You obtain magic when collect the Book of Hydro)">
+        <Cheatline>
+            <Offset>56DB821</Offset>
+            <Section>0</Section>
+            <ValueOn>83-B8-88-00-00-00-03-75-0F-C7-80-B8-00-00-00-00-3C-1C-46-E9-18-0D-1D-FB-C5-F9-7E-40-28-E9-0E-0D-1D-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Money (Dew) x999999">
+        <Cheatline>
+            <Offset>56DB845</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-BF-88-00-00-00-60-75-0D-41-C7-47-10-F0-23-74-49-E9-7B-F5-1C-FB-C4-C1-7A-11-47-10-E9-70-F5-1C-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

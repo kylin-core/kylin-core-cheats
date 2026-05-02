@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Red Dead Redemption 2" Moder="Theblues | Saso" Cusa="CUSA08519" Version="01.24" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite items and consumables">
+        <Cheatline>
+            <Offset>C6F3B3</Offset>
+            <Section>0</Section>
+            <ValueOn>49-89-46-18</ValueOn>
+            <ValueOff>4D-89-7E-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>C70146</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-43-18</ValueOn>
+            <ValueOff>48-89-4B-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

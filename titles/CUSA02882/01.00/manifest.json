@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02882",
+  "version": "01.00",
+  "name": "Resident Evil Origins 0",
+  "process": "bh0hd.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02882"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02882_01.00_bh0hd.elf.json. Other candidate files skipped: 5.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02882_01.00.json",
+      "size": 1034,
+      "sha256": "850a27839f41d8f169a8fbe8ecc0c5f51a349121687adf9293e01e039fd7dc8c",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02882_01.00_bh0hd.elf.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02882_01.00.shn",
+      "size": 1054,
+      "sha256": "74902d10ab2a90445b81e0ba018d33d189e0761a2148f0f4565043b0ac665f1d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02882_01.00_bh0hd.elf.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02882_01.00.mc4",
+      "size": 1408,
+      "sha256": "dfb90d87393a393c200a18d7612bd77ad6619a138db93f68687940b30cdedc28",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02882_01.00_bh0hd.elf.json. Other candidate files skipped: 5.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

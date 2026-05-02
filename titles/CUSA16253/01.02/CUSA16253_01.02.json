@@ -1,0 +1,22 @@
+{
+  "name": "Corpse Killer",
+  "id": "CUSA16253",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81205F32",
+          "on": "909090",
+          "off": "89777C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Huron_9.00"
+  ]
+}

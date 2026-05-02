@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03245",
+  "version": "01.00",
+  "name": "Deadpool",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03245"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03245_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03245_01.00.json",
+      "size": 2384,
+      "sha256": "2987f5cb972f726eef9d7f261613680c5f3ebdbdbae7f64ea2dcd0d94df9fe05",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03245_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03245_01.00.shn",
+      "size": 2427,
+      "sha256": "3cef65bd52c70191efa7e793298ede2ec5359e69f290a8c5c5b86d50d7685a02",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03245_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03245_01.00.mc4",
+      "size": 3244,
+      "sha256": "0f94a7b10ea995c156ef040f33db29ee4694e5ad087b997fdda92698dd0e71e8",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03245_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

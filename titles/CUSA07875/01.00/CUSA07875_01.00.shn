@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted The Lost Legacy" Moder="hejran7" Cusa="CUSA07875" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Dev Menu = L3 + L Touch Pad">
+        <Cheatline>
+            <Offset>1FDD35</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-F9-2E-00-00-01</ValueOn>
+            <ValueOff>C6-80-F9-2E-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

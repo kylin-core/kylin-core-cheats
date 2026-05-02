@@ -1,0 +1,38 @@
+{
+  "name": "Teenage Mutant Ninja Turtles Arcade Wrath of The Mutants",
+  "id": "CUSA45205",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "835EF800",
+          "on": "4183BEF400000000750BC4C17A10460CE9A7ED75FDC4C17A114668E99CED75FD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80D4E5B6",
+          "on": "E945128A0290",
+          "off": "C4C17A114668"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "809293DD",
+          "on": "909090",
+          "off": "FF4E60"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

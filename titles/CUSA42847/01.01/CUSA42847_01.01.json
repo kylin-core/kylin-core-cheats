@@ -1,0 +1,124 @@
+{
+  "name": "Slaps and Beans 2",
+  "id": "CUSA42847",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7BDB0",
+          "on": "81783C0000A040750AC5FA104044C5FA114040C5FA104040E96DB18D7F526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81356F35",
+          "on": "E9764E7280",
+          "off": "C5FA104040"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7BDE1",
+          "on": "C7406400007A44C5FA104064E959C68D7F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81358446",
+          "on": "E996397280",
+          "off": "C5FA104064"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7BE28",
+          "on": "41817E3C0000A040740B41C786AC000000003C1C46C4C17A5986AC000000E968025A7F",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8101C0AA",
+          "on": "E979FDA58090909090",
+          "off": "C4C17A5986AC000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7BE15",
+          "on": "41C746647F96184BC4C17A104664E9F8C88D7F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8135871A",
+          "on": "E9F636728090",
+          "off": "C4C17A104664"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boat Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13C285B",
+          "on": "9090",
+          "off": "FFC8"
+        }
+      ]
+    },
+    {
+      "name": "Mastercode Timer Settings ( must be activated for [ MC ] Cheats )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7BE50",
+          "on": "C5FA104D90803DC441380001740CC5F25CC0C5FA118368010000803DB041380001750AC7836801000000009643E947F77C7F9090",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8124B5B8",
+          "on": "E99308838090909090",
+          "off": "C5FA104D90C5F25CC0"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer Pelota [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E00020",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Set Timer to 5 Minutes Pelota [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E00021",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

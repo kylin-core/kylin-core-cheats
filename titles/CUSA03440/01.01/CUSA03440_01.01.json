@@ -1,0 +1,54 @@
+{
+  "name": "accc",
+  "id": "CUSA03440",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ABF800",
+          "on": "813BA07FC9027511F30F10D9C5FA119B640C0000E987B549FE813B0052C60275EBC5E057DBEBE5",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F5AD98",
+          "on": "E9634AB601909090",
+          "off": "C5FA119B640C0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2ABF980",
+          "on": "C787F00000000900000083BFF000000000E9E9312AFE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D62B78",
+          "on": "E903CED5019090",
+          "off": "83BFF000000000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Helix",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DCB9D4",
+          "on": "C4C17A1087F8000000",
+          "off": "C4C1725D87F8000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

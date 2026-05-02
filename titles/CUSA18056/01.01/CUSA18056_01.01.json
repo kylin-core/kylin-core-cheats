@@ -1,0 +1,214 @@
+{
+  "name": "Ys Memories of Celceta",
+  "id": "CUSA18056",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43F800",
+          "on": "664181FDC0FC751941C785580B0000003C1C46C4C17A109D580B0000E9D96ACAFFC4C17A119D580B0000E9CB6ACAFF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E62F1",
+          "on": "E90A95350090909090",
+          "off": "C4C17A119D580B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold On Gain| Battle",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC42",
+          "on": "B87F96184B418985B4560100E9CADCF0FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "34A916",
+          "on": "E927230F009090",
+          "off": "418985B4560100"
+        }
+      ]
+    },
+    {
+      "name": "Max+ Inf Gold On Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CCC0",
+          "on": "BA7F9698008991B4560100E97C16DDFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "20E346",
+          "on": "E975E9220090",
+          "off": "8991B4560100"
+        }
+      ]
+    },
+    {
+      "name": "Max Level | Kill  Few Monsters",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC00",
+          "on": "8183640B00007F96184BC5FA1083640B0000E9EE15CCFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "FE1FD",
+          "on": "E9FEE93300909090",
+          "off": "C5FA1183640B0000"
+        }
+      ]
+    },
+    {
+      "name": "Max SP Slots On Hit ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC19",
+          "on": "B810270000418985B8560100E92A7FCAFF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "E4B4D",
+          "on": "E9C78035009090",
+          "off": "418985B8560100"
+        }
+      ]
+    },
+    {
+      "name": "Instant EXTRA Skill Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CCAD",
+          "on": "BA003C1C46899488FCAB1D00E96B65D2FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "163222",
+          "on": "E9869A2D009090",
+          "off": "899488FCAB1D00"
+        }
+      ]
+    },
+    {
+      "name": "Instant Skill Level Up| Use Skill Once",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC55",
+          "on": "81C1E703000041894CB708E930EECCFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10BA90",
+          "on": "E9C0113300",
+          "off": "41894CB708"
+        }
+      ]
+    },
+    {
+      "name": "Freeze GamePlay Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57C26",
+          "on": "909090909090",
+          "off": "898FBC560100"
+        }
+      ]
+    },
+    {
+      "name": "Rest GamePlay Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC30",
+          "on": "B900000000898FBC560100E9ECAFC1FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "57C26",
+          "on": "E905503E0090",
+          "off": "898FBC560100"
+        }
+      ]
+    },
+    {
+      "name": "Max+ Inf  Items On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC67",
+          "on": "66B86300664189844EC8560100E91D4AD0FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "14168D",
+          "on": "E9D5B52F0090909090",
+          "off": "664189844EC8560100"
+        }
+      ]
+    },
+    {
+      "name": "Unlock All Weapons/Armour/Usable Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC7B",
+          "on": "66C78447C856010063000FB78447C8560100E9A381D3FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "174E2D",
+          "on": "E9497E2C00909090",
+          "off": "0FB78447C8560100"
+        }
+      ]
+    },
+    {
+      "name": "Max Consumables/Weapons/Minerals/Materials",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CC94",
+          "on": "66C78477C856010063000FBF8477C8560100E91D82D3FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "174EC0",
+          "on": "E9CF7D2C00909090",
+          "off": "0FBF8477C8560100"
+        }
+      ]
+    },
+    {
+      "name": "Max+ Inf Minerals and Materials | Blacksmith Shop",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "43CCD6",
+          "on": "66B8E7036643898466C8560100E95480D3FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "174D33",
+          "on": "E99E7F2C0090909090",
+          "off": "6643898466C8560100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "GamerX2"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Shadow of The Ninja Reborn",
+  "id": "CUSA46721",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80552085",
+          "on": "9090909090",
+          "off": "E8C6FCFFFF"
+        },
+        {
+          "offset": "80551CD5",
+          "on": "909090909090",
+          "off": "FF90A8020000"
+        },
+        {
+          "offset": "8061F4E7",
+          "on": "909090909090",
+          "off": "FF90A8020000"
+        },
+        {
+          "offset": "805520B9",
+          "on": "9090909090",
+          "off": "E892FCFFFF"
+        }
+      ]
+    },
+    {
+      "name": "MAX + Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "806531C1",
+          "on": "909090",
+          "off": "83F90C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "806531D1",
+          "on": "909090",
+          "off": "894818"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-All-Weapon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8054A0FE",
+          "on": "909090",
+          "off": "894814"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill-YOU",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "806531BC",
+          "on": "909090",
+          "off": "8B4818"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Coins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "828FF800",
+          "on": "C7401C3F420F00E98E4316FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "80A63B90",
+          "on": "E96BBCE9019090909090",
+          "off": "89501C803D61205C0200"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80674A61",
+          "on": "9090909090909090",
+          "off": "C5FA1180A4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

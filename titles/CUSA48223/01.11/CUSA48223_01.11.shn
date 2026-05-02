@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ender Magnolia: Bloom in the Mist" Moder="Wander FW900" Cusa="CUSA48223" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>5C5BC15</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BF-B8-00-00-00-01-75-0F-C7-87-3C-01-00-00-88-13-00-00-E9-E4-36-F9-FD-89-87-3C-01-00-00-E9-D9-36-F9-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Healing Ward">
+        <Cheatline>
+            <Offset>5C5BBDE</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-FC-00-00-00-05-00-00-00-E9-60-D6-F7-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max level">
+        <Cheatline>
+            <Offset>5C5BBEF</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-8C-01-00-00-FF-C9-9A-3B-E9-FD-CE-F4-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items">
+        <Cheatline>
+            <Offset>5C5BC00</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-01-FF-E0-F5-05-29-C2-0F-8E-6B-47-01-FE-E9-A8-48-01-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

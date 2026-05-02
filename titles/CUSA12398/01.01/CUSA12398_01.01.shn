@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Forest" Moder="Saso" Cusa="CUSA12398" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Health">
+        <Cheatline>
+            <Offset>82E90310</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-47-28-00-00-C8-42-E9-CC-46-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stamina">
+        <Cheatline>
+            <Offset>82E903E0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-43-30-00-00-C8-42-E9-46-2C-C4-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Energy">
+        <Cheatline>
+            <Offset>82E90340</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-24-00-00-C8-42-E9-FD-28-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Fullness">
+        <Cheatline>
+            <Offset>82E90360</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-6C-00-00-80-3F-E9-E8-FF-C2-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Thirst">
+        <Cheatline>
+            <Offset>82E90380</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-70-00-00-00-00-E9-86-0F-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Body Temp">
+        <Cheatline>
+            <Offset>82E903A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-18-00-00-14-42-E9-17-34-C3-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

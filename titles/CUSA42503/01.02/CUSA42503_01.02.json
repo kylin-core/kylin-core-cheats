@@ -1,0 +1,140 @@
+{
+  "name": "Atomfall Deluxe Edition",
+  "id": "CUSA42503",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "140B800",
+          "on": "83BBAC02000001750AC5FA104B0CE9683631FFC5FA114B68E95E3631FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "71EE76",
+          "on": "E985C9CE00",
+          "off": "C5FA114B68"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BC0328",
+          "on": "909090",
+          "off": "897004"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B67DB0",
+          "on": "9090909090",
+          "off": "E80BA8FFFF"
+        }
+      ]
+    },
+    {
+      "name": "MAX-SkillS-Points-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "140B833",
+          "on": "B80F2700008983E0070000E9FD4790FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D1003A",
+          "on": "E9F4B76F0090",
+          "off": "8983E0070000"
+        }
+      ]
+    },
+    {
+      "name": "Rapid-Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B54139",
+          "on": "9090909090",
+          "off": "E8123C0100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health-2-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "140B800",
+          "on": "83BBBC00000000750AC5FA104B0CE9683631FFC5FA114B68E95E3631FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "71EE76",
+          "on": "E985C9CE00",
+          "off": "C5FA114B68"
+        }
+      ]
+    },
+    {
+      "name": "MAX-All-Items-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "140B822",
+          "on": "C740040F2700004189DEE9FD4ABBFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "FC0328",
+          "on": "E9F5B44400",
+          "off": "E9D3B44400"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-1-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "140B845",
+          "on": "4983FB020F84A60CA5FF31D241FF5008E99E0CA5FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E5C4F1",
+          "on": "E94FF35A009090",
+          "off": "41FF500841B601"
+        }
+      ]
+    },
+    {
+      "name": "Invincibl-2-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "140B81F",
+          "on": "4983F9050F845D729FFFE80232A2FFE953729FFF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "E02A81",
+          "on": "E9998D6000",
+          "off": "E8AABF0200"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

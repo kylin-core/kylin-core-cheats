@@ -1,0 +1,81 @@
+{
+  "name": "Evil West",
+  "id": "CUSA25569",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B9FDB0",
+          "on": "817F1C0000C842750CC7470C00004843E9D4CD4DF9C5FA11470CE9CACD4DF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7CB94",
+          "on": "E91732B206",
+          "off": "C5FA11470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B9FE30",
+          "on": "81BF98000000000048C37511C7470C00004843C5FA10470CE93CCD4DF9C5FA10470CE932CD4DF9",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7CB84",
+          "on": "E9A732B206",
+          "off": "C5FA10470C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "149AF6F",
+          "on": "9090909090",
+          "off": "E84CD92B00"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Levels/Perks (Enable After Level 3)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "16C0F26",
+          "on": "89837C07000090",
+          "off": "4401B37C070000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money (On Pick)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B9F7E0",
+          "on": "4889E5C746507F9698008B7650E9257BBAFA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1747311",
+          "on": "E9CA84450590",
+          "off": "4889E58B7650"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

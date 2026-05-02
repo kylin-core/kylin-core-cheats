@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03450",
+  "version": "01.36",
+  "name": "Fallout 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03450"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03450_01.36.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03450_01.36.json",
+      "size": 1173,
+      "sha256": "1819bd3c167745e937820bc12f9e8cb61b478c371cb77a47700806ea738db50e",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03450_01.36.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03450_01.36.shn",
+      "size": 1143,
+      "sha256": "ae0e54dafd7e8b29dfd543ba0b5f4d14b6647246a69b7fc222243a179367ea0d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03450_01.36.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03450_01.36.mc4",
+      "size": 1536,
+      "sha256": "290cecd7d2296ef2bd5081f76cebeb9770170bf152d2f7a6fd60f6c3c715c69e",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03450_01.36.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

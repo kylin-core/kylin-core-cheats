@@ -1,0 +1,27 @@
+{
+  "name": "Spyro Reignited Trilogy",
+  "id": "CUSA12085",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4E55A00",
+          "on": "C787FC00000000008040E9DE0678FB57616E646572204657392E3030",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "5D60E7",
+          "on": "E914F9870490",
+          "off": "898FFC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

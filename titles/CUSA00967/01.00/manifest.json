@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00967",
+  "version": "01.00",
+  "name": "Mortal Kombat X",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00967"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00967_01.00.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00967_01.00.json",
+      "size": 3461,
+      "sha256": "314cbd2a4a87a6d2a2513bbb45ed54c6cf24a9f6f6bb53e00d214252bb5046ed",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00967_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00967_01.00.shn",
+      "size": 3264,
+      "sha256": "1286d467a96bc21ccefbdd4d5e60401d8cf5438272412591bef56018cb434f45",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00967_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00967_01.00.mc4",
+      "size": 4376,
+      "sha256": "0e796e171b30867bdfed8e23a1d2f3566ab30da01709c249bd00307510152731",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00967_01.00.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

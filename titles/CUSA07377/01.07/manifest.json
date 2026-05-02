@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07377",
+  "version": "01.07",
+  "name": "Wolfenstein II: The New Colossus",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07377"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07377_01.07.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07377_01.07.json",
+      "size": 4209,
+      "sha256": "4f31e305c859c422c7b89a8b37cec2238ab0f4429f9c6b714b89c82f303bf5cc",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07377_01.07.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07377_01.07.shn",
+      "size": 3835,
+      "sha256": "62658e9f48c004af462db2842d4471d2fac7791a5a418dc019ce95fd24997257",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07377_01.07.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07377_01.07.mc4",
+      "size": 5120,
+      "sha256": "02727da500d873edd497ba832f777051e7939e3f70def58d8796f454b9726d6e",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA07377_01.07.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

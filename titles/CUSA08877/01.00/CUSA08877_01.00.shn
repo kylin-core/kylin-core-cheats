@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY IX" Moder="Molly" Cusa="CUSA08877" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>129B800</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-FF-E0-F5-05-89-48-1C-E9-F2-2D-32-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Items "After Buy/Use" ">
+        <Cheatline>
+            <Offset>129B80D</Offset>
+            <Section>0</Section>
+            <ValueOn>B0-63-88-45-11-E9-B1-DE-FA-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Quick Level Up">
+        <Cheatline>
+            <Offset>129B817</Offset>
+            <Section>0</Section>
+            <ValueOn>05-7F-96-98-00-41-89-45-6C-E9-34-71-24-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf. Magic Stones "After Use"">
+        <Cheatline>
+            <Offset>129B825</Offset>
+            <Section>0</Section>
+            <ValueOn>51-8A-48-FF-88-48-17-59-E9-10-5C-21-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Quickly Gain Abilities">
+        <Cheatline>
+            <Offset>129B83F</Offset>
+            <Section>0</Section>
+            <ValueOn>01-D1-B1-FF-88-08-E9-FF-78-24-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Stats "After Level Up"">
+        <Cheatline>
+            <Offset>129B84A</Offset>
+            <Section>0</Section>
+            <ValueOn>66-B9-0F-27-66-89-48-10-E9-3D-3F-FC-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Trace "After 1 Battle"">
+        <Cheatline>
+            <Offset>129B88C</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-C0-FF-00-00-00-41-88-45-70-E9-90-5B-F4-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>129B89C</Offset>
+            <Section>0</Section>
+            <ValueOn>48-C7-C1-0F-27-00-00-66-89-48-10-E9-D6-04-FA-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,225 @@
+{
+  "name": "Aeterno Blade 2",
+  "id": "CUSA16444",
+  "version": "02.20",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59F3000",
+          "on": "C5FA108054090000C5FA118050090000E96CD502FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A20579",
+          "on": "E9822AFD04909090",
+          "off": "C5FA118050090000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59F3035",
+          "on": "4883FA0174030F57C0C5FA118050090000E92C53F3FA",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "92836F",
+          "on": "E9C1AC0C05909090",
+          "off": "C5FA118050090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59F30AA",
+          "on": "C5FA108764090000C5FA118760090000E9EF7002FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A1A1A6",
+          "on": "E9FF8EFD04909090",
+          "off": "C5FA118760090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP [ on use ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59F30DF",
+          "on": "C5FA10875C090000C5FA118758090000E9635003FB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A2814F",
+          "on": "E98BAFFC04909090",
+          "off": "C5FA118758090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Time Skill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59F3114",
+          "on": "0F57C0C5FA11802C260000E9AB5003FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "A281C7",
+          "on": "E948AFFC04909090",
+          "off": "C5FA11802C260000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Special Moves",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "59F3144",
+          "on": "31C989889C1E0000E9098A02FB",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "A1BB54",
+          "on": "E9EB75FD0490",
+          "off": "89889C1E0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Yellow Orbs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F04",
+          "on": "9F860100",
+          "off": "9F860100"
+        },
+        {
+          "offset": "59F3171",
+          "on": "488B45F84155448B2D864DCE004489684C415D8B404CE9239EE6FA",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "85CFA8",
+          "on": "E9C46119059090",
+          "off": "488B45F88B404C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items [ Quick Slot ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F08",
+          "on": "63000000",
+          "off": "63000000"
+        },
+        {
+          "offset": "59F31AC",
+          "on": "4155448B2D534DCE0044896848415D8B4848488B45E0E931A30DFB",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ACD4F1",
+          "on": "E9B65CF2049090",
+          "off": "8B4848488B45E0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A3CE93",
+          "on": "C7803818000001000000",
+          "off": "C7803818000002000000"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier Mastercode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F00",
+          "on": "0000803F",
+          "off": "0000803F"
+        },
+        {
+          "offset": "59F306B",
+          "on": "C5FA1080500900004883FA017408F30F590D7F4ECE00C5FA5CC1E9E552F3FA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "928363",
+          "on": "E903AD0C0590909090909090",
+          "off": "C5FA108050090000C5FA5CC1"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F00",
+          "on": "00000040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x 4 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F00",
+          "on": "00008040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x 6 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F00",
+          "on": "0000C040",
+          "off": "0000803F"
+        }
+      ]
+    },
+    {
+      "name": "Damage Multiplier x 8 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66D7F00",
+          "on": "00000041",
+          "off": "0000803F"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

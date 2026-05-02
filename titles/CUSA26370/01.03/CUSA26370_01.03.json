@@ -1,0 +1,33 @@
+{
+  "name": "New Joe and Mac Caveman Ninja",
+  "id": "CUSA26370",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "812CE4B3",
+          "on": "909090",
+          "off": "895114"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C7426F",
+          "on": "909090",
+          "off": "895820"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

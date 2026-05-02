@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KINGDOM HEARTS Ⅲ" Moder="IMnoob" Cusa="CUSA12025" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Money">
+        <Cheatline>
+            <Offset>8493800</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-9F-10-0C-00-00-89-9F-0C-0C-00-00-E9-D2-14-B7-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max XP all characters">
+        <Cheatline>
+            <Offset>8493800</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-8E-0A-0C-00-00-41-89-8E-08-0C-00-00-E9-0D-F7-B6-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite SORA HP">
+        <Cheatline>
+            <Offset>8493800</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-86-E4-05-00-00-FA-00-E9-DE-5B-22-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite SORA MP">
+        <Cheatline>
+            <Offset>849380F</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-87-EC-05-00-00-FA-00-E9-ED-5B-21-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

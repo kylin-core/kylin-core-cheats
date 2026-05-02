@@ -1,0 +1,107 @@
+{
+  "name": "My Time at Portia",
+  "id": "CUSA10908",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health 999(turn off SP)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153F760",
+          "on": "80B808020000017508C70000C07944EB05F3440F1138E9D319137F57616E646572204657392E3030",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80671149",
+          "on": "E912E6EC80",
+          "off": "F3440F1138"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP(turn off Health)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153F4E0",
+          "on": "807874007508C70000C07944EB05F3440F1138E9561C137F",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80671149",
+          "on": "E992E3EC80",
+          "off": "F3440F1138"
+        }
+      ]
+    },
+    {
+      "name": "Max items (on gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153D4D0",
+          "on": "488B45B8C6402463E9BD1E387F57616E646572204657392E3030",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "808BF392",
+          "on": "E939E1C780909090",
+          "off": "488B45B844896824"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill points (on spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153D550",
+          "on": "6641C7442444E703E9A7DB4B7F",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "809FB0FF",
+          "on": "E94C24B480",
+          "off": "4189442444"
+        }
+      ]
+    },
+    {
+      "name": "Max coins (on sell)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153F430",
+          "on": "41C74424587F969800E99F01377F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "808AF5D8",
+          "on": "E953FEC880",
+          "off": "41896C2458"
+        }
+      ]
+    },
+    {
+      "name": "Max Experience ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "153FF00",
+          "on": "0344240841C74614FFE0F505E9B45D157F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80695CBD",
+          "on": "E93EA2EA80909090",
+          "off": "0344240841894614"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

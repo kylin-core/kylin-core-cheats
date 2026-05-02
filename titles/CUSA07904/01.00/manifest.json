@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07904",
+  "version": "01.00",
+  "name": "COD: Modern Warfare 2 Remastered",
+  "process": "default.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07904"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07904_01.00_default.elf.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07904_01.00.json",
+      "size": 1155,
+      "sha256": "3d462188e570366b3dea5e36ca694a1cd77225a590f32fa5c08ad04fd6fcf907",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07904_01.00_default.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07904_01.00.shn",
+      "size": 1190,
+      "sha256": "b03e878f09ae27d294f4a6cec21bd0c25a34f07807d44db4925bbc9f9333e068",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07904_01.00_default.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07904_01.00.mc4",
+      "size": 1600,
+      "sha256": "738c2cf652b32dcd8784f239314e0e702bd4a215e0c42bcb15ca1c82bd130c8e",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07904_01.00_default.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

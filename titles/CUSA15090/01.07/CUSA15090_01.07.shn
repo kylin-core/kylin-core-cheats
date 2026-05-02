@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Need for Speed™ Heat" Moder="d01v_9.00" Cusa="CUSA15090" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Unlock All Cars">
+        <Cheatline>
+            <Offset>4B483FB</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-7E-F2-55-6E-6C-6F-75-25-41-81-7E-F6-63-6B-41-6C-75-1B-41-81-7E-FA-6C-43-61-72-75-11-56-48-BE-54-72-75-65-00-00-00-00-49-89-36-5E-EB-05-4C-29-F0-85-D2-E9-39-32-03-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>4B4843A</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-89-E7-C7-41-38-FF-E0-F5-05-E9-D3-E8-B5-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Damage (not working on cops)">
+        <Cheatline>
+            <Offset>4B4844F</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-00-00-00-80-3F-41-C7-40-10-00-00-80-3F-C4-C1-7A-10-60-10-E9-79-DD-97-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable Garage Teleport when Busted (single cheat)">
+        <Cheatline>
+            <Offset>4B4846F</Offset>
+            <Section>0</Section>
+            <ValueOn>81-78-48-47-61-72-61-75-1E-81-78-4C-67-65-41-66-75-15-56-48-BE-66-61-6C-73-65-00-00-00-48-8B-50-20-48-89-32-5E-EB-07-48-89-DE-48-8B-50-20-E9-59-27-03-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Disable Reset Damage (Make Impact to cops / Single Cheat)">
+        <Cheatline>
+            <Offset>4B484A8</Offset>
+            <Section>0</Section>
+            <ValueOn>81-78-44-73-65-52-65-75-1E-81-78-4C-61-6D-61-67-75-15-56-48-BE-30-2E-30-30-00-00-00-00-48-8B-50-20-48-89-32-5E-EB-07-48-89-DE-48-8B-50-20-E9-20-27-03-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Health 9999 (Enter Garage and exit, finish loading turn off cheat)">
+        <Cheatline>
+            <Offset>4B484E1</Offset>
+            <Section>0</Section>
+            <ValueOn>81-78-30-63-65-72-48-75-19-81-78-34-65-61-6C-74-75-10-81-78-38-68-50-72-6F-75-07-66-C7-00-0F-27-EB-08-C5-EA-2A-08-48-83-C0-10-E9-38-8D-98-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Nitro (Press Nitro Button)">
+        <Cheatline>
+            <Offset>4B48516</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-BF-08-01-00-00-01-75-0E-41-C7-07-00-00-80-3F-C4-C1-7A-10-07-EB-08-C5-FA-11-83-14-04-00-00-E9-9F-91-97-FD</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

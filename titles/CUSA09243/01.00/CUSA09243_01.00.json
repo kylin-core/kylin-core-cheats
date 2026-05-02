@@ -1,0 +1,55 @@
+{
+  "name": "Ni no Kuni 2 - Revenant Kingdom",
+  "id": "CUSA09243",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1213800",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1213801",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97EB08",
+          "on": "9090",
+          "off": "29F1"
+        }
+      ]
+    },
+    {
+      "name": "Max Money on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D9434B",
+          "on": "E9E500000090",
+          "off": "0F8DE4000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

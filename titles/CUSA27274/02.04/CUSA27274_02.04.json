@@ -1,0 +1,107 @@
+{
+  "name": "Orcs must Die 3",
+  "id": "CUSA27274",
+  "version": "02.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5983DB0",
+          "on": "41C784241C050000003C1C46E9669B15FB526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ADD91D",
+          "on": "E98E64EA049090909090",
+          "off": "C4C17A1184241C050000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5983DD5",
+          "on": "41C78424B0080000003C1C46C4C17A108424B0080000E9AD9D15FB",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ADDB93",
+          "on": "E93D62EA049090909090",
+          "off": "C4C17A108424B0080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5983E40",
+          "on": "B8FFE0F505898744060000E99AB815FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "ADF6E4",
+          "on": "E95747EA0490",
+          "off": "8B8744060000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5983E00",
+          "on": "C787D8030000FFC99A3BE997A50EFB",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "A6E3A0",
+          "on": "E95B5AF10490",
+          "off": "89B7D8030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Rift Points ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5983E23",
+          "on": "8BB384020000FFC689B380020000E98C980EFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "A6D6BC",
+          "on": "E96267F10490",
+          "off": "8BB380020000"
+        }
+      ]
+    },
+    {
+      "name": "Max Skulls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5983E10",
+          "on": "41BEE7030000664489B0A8020000E963A01AFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "B2DE7E",
+          "on": "E98D5FE504909090",
+          "off": "440FB7B0A8020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

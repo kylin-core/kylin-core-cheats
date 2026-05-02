@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bulletstorm: Full Clip Edition" Moder="Celogamez" Cusa="CUSA07143" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max/Infinite Health">
+        <Cheatline>
+            <Offset>1C4FE60</Offset>
+            <Section>0</Section>
+            <ValueOn>2B-45-C8-41-80-7F-04-D0-75-0C-41-C7-07-D0-07-00-00-E9-34-E4-45-FE-41-89-07-E9-2C-E4-45-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>16BF3B9</Offset>
+            <Section>0</Section>
+            <ValueOn>2B-94-8B-E0-17-00-00</ValueOn>
+            <ValueOff>29-94-8B-E0-17-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>16BF3B2</Offset>
+            <Section>0</Section>
+            <ValueOn>2B-94-8B-E8-17-00-00</ValueOn>
+            <ValueOff>29-94-8B-E8-17-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/SP On Gain (Disable Inf Health B4 And Gain SP/Disable)">
+        <Cheatline>
+            <Offset>1C4FE00</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4D-C8-66-81-FB-F0-8F-75-0C-41-C7-06-7F-96-98-00-E9-CE-DE-45-FE-41-89-0E-E9-C6-DE-45-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

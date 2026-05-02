@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA14538",
+  "version": "01.00",
+  "name": "Maneater",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA14538"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14538_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA14538_01.00.json",
+      "size": 696,
+      "sha256": "4402ec951aa7609020d985026493ae4b0523f08d8a13e727c3eac5fc8501bd22",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14538_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA14538_01.00.shn",
+      "size": 568,
+      "sha256": "6f6adc5d3ee4d147790aa160f88c4110a7552c279398df8fa0a1da463f792a32",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14538_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA14538_01.00.mc4",
+      "size": 768,
+      "sha256": "5c06989a37f60225059d631ca43e2ec3cf03bd60538919404ab8227cd74c7438",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA14538_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "name": "Assassin's Creed Mirage",
+  "id": "CUSA33151",
+  "version": "01.06",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "669BDB0",
+          "on": "8B976C010000899768010000E9C59930FC",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "29A5780",
+          "on": "E92B66CF0390",
+          "off": "899768010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "669BD70",
+          "on": "C7876801000000000000E9B9532CFC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2961132",
+          "on": "E939ACD30390",
+          "off": "89B768010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E35667",
+          "on": "9090909090",
+          "off": "C5FA11530C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "669BD30",
+          "on": "C783780200000000FA43E98C2841FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "2AAE5C3",
+          "on": "E968D7BE03909090",
+          "off": "C5FA118378020000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "669BCE0",
+          "on": "C5FA1080D8060000C5FA1180DC060000E985374BFB",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1B4F472",
+          "on": "E969C8B404909090",
+          "off": "C5FA1180DC060000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Consumables On Use/Dirham On Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "29623A5",
+          "on": "9090909090",
+          "off": "E82A926000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina For Mount",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2E36407",
+          "on": "909090909090",
+          "off": "C4C17A11450C"
+        }
+      ]
+    },
+    {
+      "name": "Max Resources/Consumables/Upgrade Materials/Trade Goods (On Get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "669B800",
+          "on": "0F43C84983F800750BC7039F860100E915D18BFC890BE90ED18BFC",
+          "off": "000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F58924",
+          "on": "E9D72E7403",
+          "off": "0F43C8890B"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "669B7A0",
+          "on": "410F43DDC7421063000000899848010000E912DC75FC",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2DF93C1",
+          "on": "E9DA238A039090",
+          "off": "410F43DD895A10"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

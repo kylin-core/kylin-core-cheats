@@ -1,0 +1,86 @@
+{
+  "name": "Tales of Berseria",
+  "id": "CUSA05105",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13C7812",
+          "on": "85F60F49CE837804010F85A74AD9FE909090E9A24AD9FE",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15C2C3",
+          "on": "E94AB52601",
+          "off": "85F60F49CE"
+        }
+      ]
+    },
+    {
+      "name": "Inf SG",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "15C378",
+          "on": "9090909090",
+          "off": "C5FA114010"
+        }
+      ]
+    },
+    {
+      "name": "Inf  Money on buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13C7800",
+          "on": "410F48DF8B08BB7F9698008918E92AB3D8FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "152B34",
+          "on": "E9C74C2701909090",
+          "off": "410F48DF8B088918"
+        }
+      ]
+    },
+    {
+      "name": "Get MAX Level (200) after two battles",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13C7829",
+          "on": "41894D00BAFFE0F50589501CE92C54D9FE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "15CC5F",
+          "on": "E9C5AB26019090",
+          "off": "41894D0089501C"
+        }
+      ]
+    },
+    {
+      "name": "Inf Essence",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13C783A",
+          "on": "BA0F270000899020090000E95BD5D8FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "154D9F",
+          "on": "E9962A270190",
+          "off": "899020090000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

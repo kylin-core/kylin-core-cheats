@@ -1,0 +1,103 @@
+{
+  "name": "Crash Bandicoot N-Sane Trilogy",
+  "id": "CUSA07399",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Hauptkennziffer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FFF800",
+          "on": "664181FE30F27417664181FE40CB740F664181FEA0E37407EB05C4C1781006C5F81103E954D8D6FEC4C178104660EBEF41C70603000000EBE141C70663000000EBD890",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D6D001",
+          "on": "E9FA27290190",
+          "off": "C5F81103EB75"
+        }
+      ]
+    },
+    {
+      "name": "Unbesiegbar",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FFF806",
+          "on": "7428",
+          "off": "7417"
+        }
+      ]
+    },
+    {
+      "name": "Max Boxen",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FFF80E",
+          "on": "7418",
+          "off": "740F"
+        }
+      ]
+    },
+    {
+      "name": "Max Äpfel",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FFF816",
+          "on": "7421",
+          "off": "7407"
+        }
+      ]
+    },
+    {
+      "name": "Max Leben",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FFF845",
+          "on": "4989FEBE630000004189760CE942431DFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D3B91",
+          "on": "E9AFBCE2019090",
+          "off": "4989FE4189760C"
+        }
+      ]
+    },
+    {
+      "name": "Max Diamanten",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FFF858",
+          "on": "4989FEBE6300000041897614E9EF441DFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1D3D51",
+          "on": "E902BBE2019090",
+          "off": "4989FE41897614"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Jumps",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3DEF8B",
+          "on": "83F800",
+          "off": "83F802"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso-^-hejran7"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Assassins Creed Origins",
+  "id": "CUSA08393",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3318796",
+          "on": "018FD4000000",
+          "off": "898FD4000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37659C1",
+          "on": "9090",
+          "off": "29C8"
+        }
+      ]
+    },
+    {
+      "name": "21 Skillpoints Per Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3A81B2D",
+          "on": "6641C78314010000FFFF",
+          "off": "4129DC4189B314010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money - Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "37659BC",
+          "on": "B87E9698009090",
+          "off": "89C10F43CA29C8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NBA 2K18" Moder="Weysincha" Cusa="CUSA08500" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Earn skillpoints to add 9.999.999">
+        <Cheatline>
+            <Offset>16C2F62</Offset>
+            <Section>0</Section>
+            <ValueOn>BB-7F-96-98-00-90</ValueOn>
+            <ValueOff>74-18-85-C0-74-14</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

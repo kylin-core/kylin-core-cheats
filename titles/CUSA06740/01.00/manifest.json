@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06740",
+  "version": "01.00",
+  "name": "Dragon Quest Heroes II",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06740"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA06740_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06740_01.00.json",
+      "size": 3580,
+      "sha256": "e415bc356b5c0330d8b6d57d20696dd1fa94e27e26719c3121416cc47d24cef6",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA06740_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06740_01.00.shn",
+      "size": 2331,
+      "sha256": "147a2853eeab988df451b714ca1cf4f9747fc3b5e74541e741fe08ef48cdb68c",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA06740_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06740_01.00.mc4",
+      "size": 3116,
+      "sha256": "9b096b307da3bf969ccef1fc5bd39fee483edfc0ba579cf27d294145773d8c3a",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA06740_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

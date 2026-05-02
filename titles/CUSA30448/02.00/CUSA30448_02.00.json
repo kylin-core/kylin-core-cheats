@@ -1,0 +1,895 @@
+{
+  "name": "Sonic Origins",
+  "id": "CUSA30448",
+  "version": "02.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode ( must be activated for [ MC ] Cheats )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B800",
+          "on": "4983FF15750290904983FF16750290904983FF17750290904983FF19750290908B0483E9D8B517FFC743543E420F00EBEFC743583F420F00EBE6C7435C63000000EBDDC7436463000000EBD4",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "196177",
+          "on": "E98456E800909090",
+          "off": "8B0483E9810C0000"
+        },
+        {
+          "offset": "101B84E",
+          "on": "4180FE09750290904180FE0B750290904180FE04750290904180FE05750290904180FE06750290904180FE07750290908B04834489F3E9AE1715FFC743243F420F00EBECC7432C63000000EBE3C7431001000000EBDAC7431401000000EBD1C7431801000000EBC8C7431C01000000EBBF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16D031",
+          "on": "E918E8EA0090",
+          "off": "8B04834489F3"
+        }
+      ]
+    },
+    {
+      "name": "Invincible Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BA70",
+          "on": "4869C0180100004180FF007502EB064180FF017508C7441834630000008B441834E97BA017FF526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "195B06",
+          "on": "E9655FE800909090909090",
+          "off": "4869C0180100008B441834"
+        }
+      ]
+    },
+    {
+      "name": "Invincible Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BAAA",
+          "on": "41C785EC01000063000000418B95EC010000E91E672EFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "3021D8",
+          "on": "E9CD98D1009090",
+          "off": "418B95EC010000"
+        }
+      ]
+    },
+    {
+      "name": "Invincible Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BAC1",
+          "on": "4489F3C74018630000008B4018E92B2515FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16DFF8",
+          "on": "E9C4DAEA0090",
+          "off": "4489F38B4018"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BAFB",
+          "on": "4869C0180100004180FF007502EB064180FF017508C7441814E70300008B441814E9DFB217FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "195A9E",
+          "on": "E95860E800909090909090",
+          "off": "4869C0180100008B441814"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BAD3",
+          "on": "C781D0000000E7030000448BB9D0000000E970F02CFF",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EAB52",
+          "on": "E97C0FD3009090",
+          "off": "448BB9D0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BAE9",
+          "on": "4489F3C74008E70300008B4008E9532415FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "16DF48",
+          "on": "E99CDBEA0090",
+          "off": "4489F38B4008"
+        }
+      ]
+    },
+    {
+      "name": "Max Lives Sonic 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B816",
+          "on": "EB22",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Lives Sonic 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B81E",
+          "on": "EB23",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Lives Sonic 3 ( Classic Mode )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BB21",
+          "on": "41C786D400000063000000418B86D4000000E9B9F82CFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EB3EA",
+          "on": "E93207D3009090",
+          "off": "418B86D4000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Lives Sonic CD [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B85C",
+          "on": "EB34",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Score Sonic 1 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B806",
+          "on": "EB20",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Score Sonic 2 [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B80E",
+          "on": "EB21",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Score Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BBBD",
+          "on": "41C786D80000003F420F00458BB6D8000000E9E2EB2CFF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EA7AF",
+          "on": "E90914D3009090",
+          "off": "458BB6D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score Sonic CD [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B854",
+          "on": "EB33",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EBA4E",
+          "on": "909090909090",
+          "off": "88056E9C2502"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C41ED",
+          "on": "909090909090",
+          "off": "880D6A0C1E03"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "181B6E",
+          "on": "909090909090",
+          "off": "88054E3B2C02"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BCAF",
+          "on": "4180FF00750231C089441120E9C0A118FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A4CC9",
+          "on": "E9E16FE700",
+          "off": "E9B2110000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC5B",
+          "on": "4180FE00750231C94180FE01750231C941898DE0010000E909822BFF",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2D3E79",
+          "on": "E9DD7DD4009090",
+          "off": "41898DE0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breath Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC77",
+          "on": "4983FE0C750231C089048AE909EC15FF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "17900E",
+          "on": "E9642CEA00",
+          "off": "E97D180000"
+        }
+      ]
+    },
+    {
+      "name": "Max Coins ( Museum )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BBD4",
+          "on": "41C7842444775B00E7030000418B9C2444775B00E9A6D16FFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "718D8B",
+          "on": "E9442E9000909090",
+          "off": "418B9C2444775B00"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings Sonic 2 ( Special Stage )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BCC0",
+          "on": "664183FF027507B8E7030000EB0C664183FF037505B8E703000089441114E99DA118FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A4C6F",
+          "on": "E94C70E700",
+          "off": "E90C120000"
+        }
+      ]
+    },
+    {
+      "name": "Blue Spheres Left Sonic 3 ( Special Stage )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC22",
+          "on": "4C89FEC74108010000004C636108E9F0F941FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43B61E",
+          "on": "E9FF05BE009090",
+          "off": "4C89FE4C636108"
+        }
+      ]
+    },
+    {
+      "name": "Rings Left Sonic 3 ( Special Stage )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC48",
+          "on": "4C89FEC74118000000004C636118E9F3FA41FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "43B747",
+          "on": "E9FC04BE009090",
+          "off": "4C89FE4C636118"
+        }
+      ]
+    },
+    {
+      "name": "Only 1 Ufo collect Sonic CD ( Special Stage )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BDED",
+          "on": "4180FE0475154883FB017507B801000000EB084883FB00750231C089440A08E97FEA15FF",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "179283",
+          "on": "E9652BEA00",
+          "off": "E908160000"
+        }
+      ]
+    },
+    {
+      "name": "Max Rings Sonic CD ( Special Stage ) ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC87",
+          "on": "4180FE047505B8E703000089440A14E9F5EB15FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1792E9",
+          "on": "E99929EA00",
+          "off": "E9A2150000"
+        }
+      ]
+    },
+    {
+      "name": "Max Timer Sonic CD ( Special Main Stage )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC9B",
+          "on": "4180FE047505B8E703000089440A0CE9E1EB15FF",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1792A5",
+          "on": "E9F129EA00",
+          "off": "E9E6150000"
+        }
+      ]
+    },
+    {
+      "name": "All Emeralds Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BCFA",
+          "on": "664183FF2B7505B87F000000664183FF2D7505B87F00000089048AE966A118FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A4619",
+          "on": "E9DC76E700",
+          "off": "E962180000"
+        }
+      ]
+    },
+    {
+      "name": "All Emeralds Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD1A",
+          "on": "C680D00000007FC680D10000007F8BB8D0000000E95D722FFF",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "312F8A",
+          "on": "E98B8DD00090",
+          "off": "8BB8D0000000"
+        }
+      ]
+    },
+    {
+      "name": "All Time Stones Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BCE3",
+          "on": "C57A6FA6C0000000C7057FBC59017F000000E93F72DB7E",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FDD2F31",
+          "on": "E9AD8D2481909090",
+          "off": "C57A6FA6C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Tails Never Exhausted Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BBED",
+          "on": "4869C9180100004180FF00750231C04180FF01750231C089441118E973A218FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1A4C82",
+          "on": "E9666FE700909090909090",
+          "off": "4869C91801000089441118"
+        }
+      ]
+    },
+    {
+      "name": "Tails Never Exhausted Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2FBD35",
+          "on": "9090",
+          "off": "FFC0"
+        }
+      ]
+    },
+    {
+      "name": "Tails Never Exhausted Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BC0D",
+          "on": "48C1E1054180FE00750231C089441124E96EEC15FF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1798EE",
+          "on": "E91A23EA00909090",
+          "off": "48C1E10589441124"
+        }
+      ]
+    },
+    {
+      "name": "Normal Player Speed Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE7D",
+          "on": "4869C018010000C605DE3C73010CE92F9C17FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "195AB8",
+          "on": "E9C063E8009090",
+          "off": "4869C018010000"
+        }
+      ]
+    },
+    {
+      "name": "Super Player Speed Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE90",
+          "on": "4869C018010000C605CB3C730130E91C9C17FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "195AB8",
+          "on": "E9D363E8009090",
+          "off": "4869C018010000"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Player Speed Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BEA3",
+          "on": "4869C018010000C605B83C730180E9099C17FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "195AB8",
+          "on": "E9E663E8009090",
+          "off": "4869C018010000"
+        }
+      ]
+    },
+    {
+      "name": "Normal Player Speed Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE44",
+          "on": "894DA4488B4D88C6057360D5010CE9F4EC2CFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EAB44",
+          "on": "E9FB12D3009090",
+          "off": "894DA4488B4D88"
+        }
+      ]
+    },
+    {
+      "name": "Super Player Speed Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE57",
+          "on": "894DA4488B4D88C6056060D50130E9E1EC2CFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EAB44",
+          "on": "E90E13D3009090",
+          "off": "894DA4488B4D88"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Player Speed Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE6A",
+          "on": "894DA4488B4D88C6054D60D50180E9CEEC2CFF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2EAB44",
+          "on": "E92113D3009090",
+          "off": "894DA4488B4D88"
+        }
+      ]
+    },
+    {
+      "name": "Normal Player Speed Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE11",
+          "on": "C605D1085C010CC5FA6F6640E9E070DB7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "42EFD",
+          "on": "E90F8F2481",
+          "off": "C5FA6F6640"
+        }
+      ]
+    },
+    {
+      "name": "Super Player Speed Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE22",
+          "on": "C605C0085C0130C5FA6F6640E9CF70DB7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "42EFD",
+          "on": "E9208F2481",
+          "off": "C5FA6F6640"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Player Speed Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BE33",
+          "on": "C605AF085C0180C5FA6F6640E9BE70DB7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "42EFD",
+          "on": "E9318F2481",
+          "off": "C5FA6F6640"
+        }
+      ]
+    },
+    {
+      "name": "Normal Jump Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BDAE",
+          "on": "410FB65C3CFFC705C43D730106000000E968BA4BFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4D7825",
+          "on": "E98445B40090",
+          "off": "410FB65C3CFF"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BDC3",
+          "on": "410FB65C3CFFC705AF3D730109000000E953BA4BFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4D7825",
+          "on": "E99945B40090",
+          "off": "410FB65C3CFF"
+        }
+      ]
+    },
+    {
+      "name": "Mega Jump Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BDD8",
+          "on": "410FB65C3CFFC7059A3D73010C000000E93EBA4BFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4D7825",
+          "on": "E9AE45B40090",
+          "off": "410FB65C3CFF"
+        }
+      ]
+    },
+    {
+      "name": "Normal Jump Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD33",
+          "on": "C7836A020000060000003B8B6C020000E966C82DFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F85A8",
+          "on": "E98637D20090",
+          "off": "3B8B6C020000"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD48",
+          "on": "C7836A020000090000003B8B6C020000E951C82DFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F85A8",
+          "on": "E99B37D20090",
+          "off": "3B8B6C020000"
+        }
+      ]
+    },
+    {
+      "name": "Mega Jump Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD5D",
+          "on": "C7836A0200000C0000003B8B6C020000E93CC82DFF",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "2F85A8",
+          "on": "E9B037D20090",
+          "off": "3B8B6C020000"
+        }
+      ]
+    },
+    {
+      "name": "Normal Jump Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD72",
+          "on": "C5FA6F6E50C7057D095C0106000000E98171DB7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FDD2F02",
+          "on": "E96B8E2481",
+          "off": "C5FA6F6E50"
+        }
+      ]
+    },
+    {
+      "name": "Super Jump Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD86",
+          "on": "C5FA6F6E50C70569095C0109000000E96D71DB7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FDD2F02",
+          "on": "E97F8E2481",
+          "off": "C5FA6F6E50"
+        }
+      ]
+    },
+    {
+      "name": "Mega Jump Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BD9A",
+          "on": "C5FA6F6E50C70555095C010C000000E95971DB7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7FDD2F02",
+          "on": "E9938E2481",
+          "off": "C5FA6F6E50"
+        }
+      ]
+    },
+    {
+      "name": "Unlock D.A. Garden Sonic CD [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B864",
+          "on": "EB35",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Visual Mode Sonic CD [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B86C",
+          "on": "EB36",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Sound Test Sonic CD [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B87C",
+          "on": "EB38",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Unlock Stage Select Sonic CD [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101B874",
+          "on": "EB37",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Debug Mode Sonic 1 + 2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BBA9",
+          "on": "B801000000E94DB217FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "195E2C",
+          "on": "E9785DE8009090",
+          "off": "0FB60591F82A02"
+        }
+      ]
+    },
+    {
+      "name": "Debug Mode Sonic 3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2EAD06",
+          "on": "0F8511040000",
+          "off": "0F8411040000"
+        },
+        {
+          "offset": "2F9D85",
+          "on": "0F8491010000",
+          "off": "0F8591010000"
+        }
+      ]
+    },
+    {
+      "name": "Debug Mode Sonic CD",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "101BBB3",
+          "on": "B801000000E9972E15FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "16EA38",
+          "on": "E976D1EA009090",
+          "off": "0FB605856C2D02"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

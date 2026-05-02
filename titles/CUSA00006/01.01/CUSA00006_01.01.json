@@ -1,0 +1,65 @@
+{
+  "name": "KNACK?",
+  "id": "CUSA00006",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Untouchable ( Press Circle To Active After Supermove)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87800",
+          "on": "6681FF6CDE7507C7470800004040C5FA104708E9BD1EBFFF",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7796D0",
+          "on": "E92BE14000",
+          "off": "C5FA104708"
+        }
+      ]
+    },
+    {
+      "name": "Energy / Combo (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B8781A",
+          "on": "41817FF81900FFFF740A41817FF81500FFFF74008B45D4418907E99587A8FFB890010000EBF183F83274ECFFC0EBE8",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "60FFC8",
+          "on": "E94D78570090",
+          "off": "8B45D4418907"
+        }
+      ]
+    },
+    {
+      "name": "Inf Energy (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B87822",
+          "on": "7415",
+          "off": "740A"
+        }
+      ]
+    },
+    {
+      "name": "Max Combo (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B8782C",
+          "on": "7412",
+          "off": "7400"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06313",
+  "version": "01.22",
+  "name": "Sackboy",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06313"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06313_01.22.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06313_01.22.json",
+      "size": 1010,
+      "sha256": "f92c60f077a36c0601f7a82ee6c6e47f415ca47f4e182f8c2617f041f4d66d85",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06313_01.22.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06313_01.22.shn",
+      "size": 1197,
+      "sha256": "14b6a6264708a70bf03da75e0bad2cd075e2d5f2f87a0969ad7beff36f27b4b2",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06313_01.22.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06313_01.22.mc4",
+      "size": 1600,
+      "sha256": "8d7774a2c2fa11dd48fa601d04edc6944214bcb834daeb22e320091831c604c8",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06313_01.22.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

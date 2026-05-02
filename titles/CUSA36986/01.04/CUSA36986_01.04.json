@@ -1,0 +1,213 @@
+{
+  "name": "Wo Long Fallen Dynasty",
+  "id": "CUSA36986",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "335FDB0",
+          "on": "4180BF7401000000750EC4C17C104710C4C17C114710EBE8C4C17C114710EBE0",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "509EF8",
+          "on": "E9B35EE50290",
+          "off": "C4C17C114710"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Dragon Cure Potion",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D77A0",
+          "on": "C680ADA6000063E9028BDFFD",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "10D02A8",
+          "on": "E9F374200290",
+          "off": "8888ADA60000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Throwables/Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D76A0",
+          "on": "C647086389F0E94EC5A7FD",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "D53BF4",
+          "on": "E9A73A5802",
+          "off": "EB05297708"
+        }
+      ]
+    },
+    {
+      "name": "Instant Infinite Divine Beast Gauge (Hit Enemy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D7720",
+          "on": "41C744245000007A44E9B64B23FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "50C2DD",
+          "on": "E93EB4DC029090",
+          "off": "C4C17811442450"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tiger Beast Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D76C0",
+          "on": "C741700F2700008B4970394B38E96054E9FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "116CB2C",
+          "on": "E98FAB160290",
+          "off": "8B4970394B38"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wizardry Spell",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D7700",
+          "on": "0F84F28822FDC74010689C2F4D8B4810E9E08822FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4FFFF0",
+          "on": "E90B77DD02",
+          "off": "740C8B4810"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Wizardry Spell Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D76E0",
+          "on": "C68481D401000063E91C4BDFFD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "10CC202",
+          "on": "E9D9B420029090",
+          "off": "89B481D4010000"
+        }
+      ]
+    },
+    {
+      "name": "Max Moral",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D7740",
+          "on": "41C744241040787D01E9638D20FD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "4E04AC",
+          "on": "E98F72DF02",
+          "off": "41894C2410"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Buffs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D7680",
+          "on": "41C787880000000000FA44E9E5981AFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "480F6C",
+          "on": "E90F67E50290909090",
+          "off": "C4C17A118788000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Accolades On Buy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D7760",
+          "on": "0F42CFC7400C9FACB903E9FCB3DFFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "10D2B65",
+          "on": "E9F64B200290",
+          "off": "0F42CF89480C"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Coppers",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D7780",
+          "on": "0F42CFC740089FACB903E939B3DFFD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "10D2AC2",
+          "on": "E9B94C200290",
+          "off": "0F42CF894808"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Genuine Qi (Gain/Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "32D78C0",
+          "on": "0F42D1C7007F969800E9A31FDFFD",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "10C986C",
+          "on": "E94FE02002",
+          "off": "0F42D18910"
+        },
+        {
+          "offset": "32D78F0",
+          "on": "BEFF80AE59C7037F969800E96F33DFFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "10CAC68",
+          "on": "E983CC20029090",
+          "off": "BEFF80AE598903"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed® Valhalla" Moder="Celogamez" Cusa="CUSA18522" Version="07.10" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>62ABD00</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-38-01-00-00-54-01-00-00-E9-F9-90-33-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Endurance Instant Refill">
+        <Cheatline>
+            <Offset>7FC5F5D0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-4F-0C-E9-A5-D2-E2-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Air">
+        <Cheatline>
+            <Offset>7FC5D3B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-80-84-06-00-00-E9-76-6C-AD-84</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)">
+        <Cheatline>
+            <Offset>7FC5F350</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-42-C1-41-C7-04-24-7F-96-98-00-E9-C4-0B-F1-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Instant Max/Infinite Adrenaline On Use/Gain">
+        <Cheatline>
+            <Offset>7FC5F630</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-40-01-00-00-F4-01-00-00-E9-8E-B2-97-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Skill Points On Gain">
+        <Cheatline>
+            <Offset>7FC5DE10</Offset>
+            <Section>0</Section>
+            <ValueOn>41-0F-47-DD-C7-41-10-E7-03-00-00-E9-0A-94-DA-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max/Infinite Mastery Points On Gain">
+        <Cheatline>
+            <Offset>7FC5F8C0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-0F-47-DD-C7-41-18-E7-03-00-00-E9-0E-79-DA-82</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

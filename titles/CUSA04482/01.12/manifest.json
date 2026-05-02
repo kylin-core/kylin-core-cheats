@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA04482",
+  "version": "01.12",
+  "name": "Prey",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA04482"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04482_01.12.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA04482_01.12.json",
+      "size": 1156,
+      "sha256": "38f4ca61ccdabf7b235cb3775be197372393531e400156457910f00145667909",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04482_01.12.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA04482_01.12.shn",
+      "size": 1208,
+      "sha256": "bd6b97b3e9148c902730a56375c8b8162198fca2abf4addba66badd65abfd30d",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04482_01.12.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA04482_01.12.mc4",
+      "size": 1624,
+      "sha256": "39d71f6d83cb2226a0ec040791b5e033a6737e138978712ea9d83d9d54ce72fd",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA04482_01.12.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Resident Evil Village",
+  "id": "CUSA18017",
+  "version": "01.13",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "(Ethan) Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "544B71F",
+          "on": "C5F82ED0",
+          "off": "C5F82EC1"
+        }
+      ]
+    },
+    {
+      "name": "(Ethan) 1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19FA20",
+          "on": "C680B8000000017509C5F057C9E9E3BC2AFAC5F25C4DD4E9D9BC2AFA",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "544B710",
+          "on": "E90B43D505",
+          "off": "C5FA104814"
+        }
+      ]
+    },
+    {
+      "name": "(Rose) Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19FDE0",
+          "on": "664183FAFF7412C5FA114814C5FA114814E932B92AFA0F57C9C5FA114814E925B92AFA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "544B723",
+          "on": "E9B846D505",
+          "off": "C5FA114814"
+        }
+      ]
+    },
+    {
+      "name": "(Rose) Infinite Health (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19FDE7",
+          "on": "C5FA104814",
+          "off": "C5FA114814"
+        }
+      ]
+    },
+    {
+      "name": "(Rose) 1 Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19FDE5",
+          "on": "740F",
+          "off": "7412"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Ammo/White Sage (Rose)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19FA50",
+          "on": "4429E1C7404CE7030000E95BD8F7F7",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "311D2B4",
+          "on": "E99727080890",
+          "off": "4429E189484C"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4A98FF6",
+          "on": "B900000000",
+          "off": "B901000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Stun Enemies (Rose)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19F5B0",
+          "on": "85F6C74214E7030000E9FFCB11FB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "62BC1B8",
+          "on": "E9F333EE04",
+          "off": "85F6894A14"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Throwables/Items On Craft",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19F5E0",
+          "on": "41C644244C63E9E3D0F7F7",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "311C6C9",
+          "on": "E9122F0808",
+          "off": "41295C244C"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Lei",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B19F610",
+          "on": "01D1B93F420F0041894F48E934DEF4F7",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "30ED44E",
+          "on": "E9BD210B0890",
+          "off": "01D141894F48"
+        }
+      ]
+    },
+    {
+      "name": "Lot Of CP Points",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C94B3D",
+          "on": "895218",
+          "off": "894A18"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

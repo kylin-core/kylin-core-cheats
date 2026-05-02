@@ -1,0 +1,27 @@
+{
+  "name": "Grave Danger",
+  "id": "CUSA12010",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "13DFDB0",
+          "on": "41837F4C02750BC4C17A10471CE9CF6B0C7FC4C17A11471CE9C46B0C7F",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "804A698B",
+          "on": "E92094F38090",
+          "off": "C4C17A11471C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

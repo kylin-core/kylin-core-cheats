@@ -1,0 +1,27 @@
+{
+  "name": "Sonic Racing: CrossWorlds",
+  "id": "CUSA35016",
+  "version": "01.12",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Money / Tickets x999999",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5D83800",
+          "on": "B83F420F00418946584883C408E9270B68FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4404331",
+          "on": "E9CAF49701909090",
+          "off": "418946584883C408"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Bandicootmonito"
+  ]
+}

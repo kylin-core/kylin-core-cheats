@@ -1,0 +1,119 @@
+{
+  "name": "Armored Core VI Fires Of Rubicon",
+  "id": "CUSA32598",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Infinite AP/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323FDB0",
+          "on": "41837D7005750F418B450441894500E988EEC8FD31C041894500E97DEEC8FD",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "ECEC46",
+          "on": "E96511370290",
+          "off": "85C041894500"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Need MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323FDB5",
+          "on": "750D",
+          "off": "750F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "FA8BFC",
+          "on": "9090909090",
+          "off": "4189442458"
+        }
+      ]
+    },
+    {
+      "name": "No Overheat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323F7C0",
+          "on": "90E92095D6FD",
+          "off": "000000000000"
+        },
+        {
+          "offset": "FA8CDD",
+          "on": "E9DE6A290290909090",
+          "off": "41C68424D800000001"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Repairs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "AB63DA",
+          "on": "9090",
+          "off": "8901"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Boost",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323FAA0",
+          "on": "41837F30007411C4C17A104720C4C17A114724E932B4CEFDC4C17A114724E927B4CEFD",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F2AEE4",
+          "on": "E9B74B310290",
+          "off": "C4C17A114724"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "323F9E0",
+          "on": "B93F420F00894A7429F9E9F144F6FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "11A3EDB",
+          "on": "E900BB0902",
+          "off": "894A7429F9"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time Missions",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1676B9E",
+          "on": "9090909090909090",
+          "off": "C5FA118094000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

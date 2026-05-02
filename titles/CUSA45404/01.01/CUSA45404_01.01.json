@@ -1,0 +1,81 @@
+{
+  "name": "Crazy Chicken Traps and Treasure 2",
+  "id": "CUSA45404",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838B3800",
+          "on": "31DB29D841894720E9F92134FD",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80BF5A00",
+          "on": "E9FBDDCB0290",
+          "off": "29D841894720"
+        }
+      ]
+    },
+    {
+      "name": "Inf Shield Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80BF1961",
+          "on": "C5FA1083C4000000",
+          "off": "C5FA1083C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Freez Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80B5B390",
+          "on": "C4C17A104E20",
+          "off": "C4C17A104E24"
+        }
+      ]
+    },
+    {
+      "name": "Inf Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838B3820",
+          "on": "C783F0000000020000008B83F0000000E97FAD33FD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80BEE5AE",
+          "on": "E96D52CC0290",
+          "off": "8B83F0000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "838B380F",
+          "on": "C74338FFC99A3B488B38E9591D30FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81BB5570",
+          "on": "E99AE2CF019090",
+          "off": "44017338488B38"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso_9.00"
+  ]
+}

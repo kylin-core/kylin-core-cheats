@@ -1,0 +1,113 @@
+{
+  "name": "Call Of Duty Modern Warfare",
+  "id": "CUSA15536",
+  "version": "01.67",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Campaign)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01D17DB0",
+          "on": "498B074881F986120000750C41C706E7030000E9E13CB2FE498906E9D93CB2FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "83BAA3",
+          "on": "E908C34D0190",
+          "off": "498B07498906"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Multiplayer)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F920",
+          "on": "664181FE3060751041C786C0010000C8000000E9D41AA38041299EC0010000E9C81AA380",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "691405",
+          "on": "E916E55C7F9090",
+          "off": "41299EC0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (Local Co-op)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F7C0",
+          "on": "6681FFC01E751041C786C0010000E7030000E9351CA38041299EC0010000E9291CA380",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "691405",
+          "on": "E9B6E35C7F9090",
+          "off": "41299EC0010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FC5F660",
+          "on": "4401F14983FC1E750690E972229880894844E96A229880",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "5E18DB",
+          "on": "E980DD677F90",
+          "off": "4401F1894844"
+        }
+      ]
+    },
+    {
+      "name": "No Reload/Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C7CA6",
+          "on": "9090909090",
+          "off": "E855F9FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades (Local Co-op)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01D176D0",
+          "on": "498B074881F906A80000750C41C70604000000E9C143B2FE498906E9B943B2FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "83BAA3",
+          "on": "E928BC4D0190",
+          "off": "498B07498906"
+        }
+      ]
+    },
+    {
+      "name": "No Recoil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5A48D2",
+          "on": "9090909090909090",
+          "off": "C5FA5883AC070000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nights of Azure 2: Bride of the New Moon" Moder="Reddevil82 " Cusa="CUSA09910" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Mastercode Infinite Health + One Hit Kill ( must be activate )">
+        <Cheatline>
+            <Offset>B87DAB</Offset>
+            <Section>0</Section>
+            <ValueOn>43-83-BC-BD-1C-02-00-00-00-75-05-43-8B-44-BD-10-43-81-BC-BD-1C-02-00-00-00-24-74-4C-75-05-43-8B-44-BD-10-43-8B-44-BD-10-E9-4A-9E-49-FF-43-8B-84-BD-C0-00-00-00-43-89-44-BD-10-C3-43-C7-44-BD-10-00-00-00-00-C3-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health [MC]">
+        <Cheatline>
+            <Offset>B87DB6</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-1D-00-00-00</ValueOn>
+            <ValueOff>43-8B-44-BD-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One Hit Kill [MC]">
+        <Cheatline>
+            <Offset>B87DC9</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-18-00-00-00</ValueOn>
+            <ValueOff>43-8B-44-BD-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite MP">
+        <Cheatline>
+            <Offset>B87F20</Offset>
+            <Section>0</Section>
+            <ValueOn>48-63-C6-83-FE-01-75-0E-41-50-44-8B-44-87-18-44-89-44-87-10-41-58-8B-44-87-10-E9-48-89-49-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Skill no Cooldown">
+        <Cheatline>
+            <Offset>B87E04</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-11-93-24-07-00-00-C5-FA-10-8B-24-07-00-00-E9-41-EF-49-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Double Chase Gauge">
+        <Cheatline>
+            <Offset>B87E19</Offset>
+            <Section>0</Section>
+            <ValueOn>44-8B-B3-28-01-00-00-44-89-B3-98-01-00-00-44-8B-B3-98-01-00-00-E9-F1-59-6E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Tension Gauge">
+        <Cheatline>
+            <Offset>B87E33</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-4C-01-00-00-E8-03-00-00-8B-87-4C-01-00-00-E9-5E-5C-6E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Blood">
+        <Cheatline>
+            <Offset>B87E48</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-F8-01-00-00-50-57-12-00-41-8B-8D-F8-01-00-00-E9-47-FE-81-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Libra">
+        <Cheatline>
+            <Offset>B87E5F</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-00-02-00-00-7F-96-98-00-41-8B-8D-00-02-00-00-E9-F3-FC-81-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ability Points">
+        <Cheatline>
+            <Offset>B87E76</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-08-02-00-00-0F-27-00-00-41-8B-8D-08-02-00-00-E9-45-52-79-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Servan Points">
+        <Cheatline>
+            <Offset>B87E8D</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-89-20-06-00-00-C7-41-24-3F-42-0F-00-8B-49-24-E9-E8-27-7A-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Level Aluche">
+        <Cheatline>
+            <Offset>B87EA3</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-44-24-02-32-00-41-0F-BF-74-24-02-E9-DE-FF-58-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max XP Lilly ( on gain )">
+        <Cheatline>
+            <Offset>B87EB6</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-90-98-01-00-00-41-C7-46-1C-50-57-12-00-41-8B-5E-1C-E9-6A-B1-76-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Affinity Level">
+        <Cheatline>
+            <Offset>B87ECD</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-DC-75-80-FF-41-C7-46-18-58-02-00-00-E9-9E-74-80-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Combo ( on gain )">
+        <Cheatline>
+            <Offset>B87EE0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8D-05-E1-E2-5C-00-C7-43-08-0F-27-00-00-E9-30-0E-6F-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Moon Phase">
+        <Cheatline>
+            <Offset>B87EF3</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-24-00-00-00-00-45-8B-7C-24-24-E9-A1-FC-59-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Mission Timer">
+        <Cheatline>
+            <Offset>271748</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-5C-45-E4</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Set Mission Timer ( 1 hour )">
+        <Cheatline>
+            <Offset>B87F06</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-50-01-00-00-00-00-61-45-C4-C1-7A-10-87-50-01-00-00-E9-25-98-6E-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

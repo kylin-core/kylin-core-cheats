@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05486",
+  "version": "01.17",
+  "name": "Skyrim",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05486"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05486_01.17.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05486_01.17.json",
+      "size": 1727,
+      "sha256": "b92b49e4f461f176bca192a08b691b0aa96e0c573977e8b7668ad5c8daa6a0c6",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05486_01.17.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05486_01.17.shn",
+      "size": 1668,
+      "sha256": "a6508f4f6b348e66de19781d6a6694571dccfdbe1ccc0aaf2967329454183f0b",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05486_01.17.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05486_01.17.mc4",
+      "size": 2240,
+      "sha256": "c6690ef16629c90238180d3c4d869c3b0c4eb1b2b1ca223084669d2e6724ceb6",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05486_01.17.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

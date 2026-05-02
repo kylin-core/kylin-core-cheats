@@ -1,0 +1,300 @@
+{
+  "name": "Remoteness",
+  "id": "CUSA33686",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Save - Load Position ( must be activate )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0B96E",
+          "on": "803DF7463F0001740B803DEF463F00017428EB53C605E3463F0000538B5820891DCD463F008B5824891DCC463F008B5828891DBF463F005BEB2DC605BE463F0000833DAA463F0000741D528B15A1463F008950208B15A0463F008950248B1593463F008950285AC568544020E9C18273FE9090",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "143C9B",
+          "on": "E9CE7C8C01",
+          "off": "C568544020"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BD40",
+          "on": "C740500000803FC5F82E4050E93697F07F526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81915482",
+          "on": "E9B9680F80",
+          "off": "C5F82E4050"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Asthma",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BD65",
+          "on": "C740540000803FE94262F87F",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81991FAE",
+          "on": "E9B29D0780",
+          "off": "C5FA114054"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BD71",
+          "on": "C7405C0000803FC5F82E405CE9D65FF87F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81991D53",
+          "on": "E919A00780",
+          "off": "C5F82E405C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Electro Energy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BD82",
+          "on": "C741580000803FC5F82E4158E967E1D47F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "81759EF5",
+          "on": "E9881E2B80",
+          "off": "C5F82E4158"
+        }
+      ]
+    },
+    {
+      "name": "Max Medipacks ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BD93",
+          "on": "C780C40000006400000083B8C400000000E9753CF87F",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8198FA17",
+          "on": "E977C307809090",
+          "off": "83B8C400000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Asthma Injections ( on use )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BDA9",
+          "on": "C780C80000006300000083B8C800000000E9B23DF87F",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8198FB6A",
+          "on": "E93AC207809090",
+          "off": "83B8C800000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BDC0",
+          "on": "C783A8000000630000008B9BA8000000E9CF7AF87F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8199389E",
+          "on": "E91D85078090",
+          "off": "8B9BA8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Ammo Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BDD5",
+          "on": "448B632841BFE703000044897B4CE9B67AF87F",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81993896",
+          "on": "E93A850780909090",
+          "off": "448B6328448B7B4C"
+        }
+      ]
+    },
+    {
+      "name": "Max Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BDE8",
+          "on": "41BC630000004489A0C0000000E9DDDED37F",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81749CD0",
+          "on": "E913212C809090",
+          "off": "448BA0C0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health [ Hanna ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BDFA",
+          "on": "C5FA10421CC5FA114218C5FA104218E91CA9D47F",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81756725",
+          "on": "E9D0562B80",
+          "off": "C5FA104218"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo [ Hanna ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "17CBE04",
+          "on": "90909090909090",
+          "off": "41FF8E94000000"
+        }
+      ]
+    },
+    {
+      "name": "Save Location [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E0006C",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Load Location [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E0006D",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Jump Height x 2 Multiplier [ Player ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0B9E3",
+          "on": "C70583463F0000000040C5DA59257B463F00C5FA116054E9158674FE9090",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15400F",
+          "on": "E9CF798B01",
+          "off": "C5FA116054"
+        }
+      ]
+    },
+    {
+      "name": "Jump Height x 3 Multiplier [ Player ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0B9E3",
+          "on": "C70583463F0000004040C5DA59257B463F00C5FA116054E9158674FE9090",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "15400F",
+          "on": "E9CF798B01",
+          "off": "C5FA116054"
+        }
+      ]
+    },
+    {
+      "name": "Speed x 2 Multiplier [ Player ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BA03",
+          "on": "C70567463F0000000040C5D2592D5F463F00C5FA116950C5DA586154C5FA116154C5E2591D48463F00C5FA115958E9008574FE9090",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "153F1D",
+          "on": "E9E17A8B01",
+          "off": "C5FA116950"
+        }
+      ]
+    },
+    {
+      "name": "Speed x 4 Multiplier [ Player ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BA03",
+          "on": "C70567463F0000008040C5D2592D5F463F00C5FA116950C5DA586154C5FA116154C5E2591D48463F00C5FA115958E9008574FE9090",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "153F1D",
+          "on": "E9E17A8B01",
+          "off": "C5FA116950"
+        }
+      ]
+    },
+    {
+      "name": "Speed x 6 Multiplier [ Player ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A0BA03",
+          "on": "C70567463F000000C040C5D2592D5F463F00C5FA116950C5DA586154C5FA116154C5E2591D48463F00C5FA115958E9008574FE9090",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "153F1D",
+          "on": "E9E17A8B01",
+          "off": "C5FA116950"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Watch Dogs (Complete Edition)",
+  "id": "CUSA01395",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F3F800",
+          "on": "4981F90002000074064983F90075030F28C1C5FA114018E9622174FB",
+          "off": "00000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "681979",
+          "on": "E982DE8B04",
+          "off": "C5FA114018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Battery",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1D77B53",
+          "on": "909090909090909090",
+          "off": "C4C17A1186EC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Focus",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "208EFA1",
+          "on": "9090909090909090",
+          "off": "C5FA118388010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1FD5916",
+          "on": "9090909090909090",
+          "off": "41FF8C2490000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints/Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B2B4A0",
+          "on": "9090909090909090",
+          "off": "4729ACA78C000000"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Money/Skillpoints on Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1B43F09",
+          "on": "909090",
+          "off": "0F42D0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Resources/Gadgets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F7E67F",
+          "on": "909090909090909090",
+          "off": "2B8570FFFFFF0F46C1"
+        }
+      ]
+    },
+    {
+      "name": "Max Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F3F81C",
+          "on": "C7420CFF0000008B520C4989DFE9B67B04FD",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1F873DE",
+          "on": "E93984FB0290",
+          "off": "8B520C4989DF"
+        }
+      ]
+    },
+    {
+      "name": "Wanted Level doesnt Increase",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F3F82E",
+          "on": "66C7420C0000440FB77A0CE9E9E382FC",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "176DC22",
+          "on": "E9071C7D03",
+          "off": "440FB77A0C"
+        }
+      ]
+    },
+    {
+      "name": "Alignment: Good",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F3F83E",
+          "on": "C7421058020000448B7210488B5DC8E9D30F83FC",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "177081D",
+          "on": "E91CF07C03909090",
+          "off": "448B7210488B5DC8"
+        }
+      ]
+    },
+    {
+      "name": "Alignment: Neutral",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F3F83E",
+          "on": "C7421000000000448B7210488B5DC8E9D30F83FC",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "177081D",
+          "on": "E91CF07C03909090",
+          "off": "448B7210488B5DC8"
+        }
+      ]
+    },
+    {
+      "name": "Alignment: Evil",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4F3F83E",
+          "on": "C74210A8FDFFFF448B7210488B5DC8E9D30F83FC",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "177081D",
+          "on": "E91CF07C03909090",
+          "off": "448B7210488B5DC8"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha, TLH"
+  ]
+}

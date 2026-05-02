@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP2333-CUSA09919_00-OUTERWILDSSIEE00" Moder="Talixme" Cusa="CUSA09919" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Comb">
+        <Cheatline>
+            <Offset>7FC5F000</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-05-0B-00-00-00-C4-C1-7A-11-46-28-E9-88-AC-97-00-00-00-C8-42</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Jetpack">
+        <Cheatline>
+            <Offset>7FC5F037</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-0D-0D-00-00-00-C5-FA-11-8B-A8-00-00-00-E9-45-48-7F-00-00-00-80-3F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf O2">
+        <Cheatline>
+            <Offset>7FC5F070</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-0D-0C-00-00-00-C4-C1-7A-11-4C-24-30-E9-0C-BB-97-00-00-00-E1-43</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,254 @@
+{
+  "name": "arcadegeddon",
+  "id": "CUSA29785",
+  "version": "01.21",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133DB0",
+          "on": "664181FC00C475138B8238130000898240130000E911FAAFF931C0898240130000E904FAAFF9",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C337D4",
+          "on": "E9D705500690",
+          "off": "898240130000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133DB6",
+          "on": "7511",
+          "off": "7513"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81336B0",
+          "on": "C787C4000000E7030000E9CD0FC6F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1D94686",
+          "on": "E925F0390690",
+          "off": "8987C4000000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133D10",
+          "on": "41C78510050000E8030000418B8510050000E98AE4CBF9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DF21AA",
+          "on": "E9611B34069090",
+          "off": "418B8510050000"
+        },
+        {
+          "offset": "81337B0",
+          "on": "C787D8000000E7030000E9880EC6F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1D94641",
+          "on": "E96AF1390690",
+          "off": "8987D8000000"
+        },
+        {
+          "offset": "8133720",
+          "on": "C787C0000000E7030000E9450FC6F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1D9466E",
+          "on": "E9ADF0390690",
+          "off": "8987C0000000"
+        },
+        {
+          "offset": "8133A00",
+          "on": "C787D4000000E7030000E90E0CC6F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1D94617",
+          "on": "E9E4F3390690",
+          "off": "8987D4000000"
+        },
+        {
+          "offset": "81338C0",
+          "on": "C787CC000000E7030000E9630DC6F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1D9462C",
+          "on": "E98FF2390690",
+          "off": "8987CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133BA0",
+          "on": "4983FC0074118B8240130000898248130000E926FAAFF9898248130000E91BFAAFF9",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C335D7",
+          "on": "E9C405500690",
+          "off": "898248130000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite GillyCoins",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81336B0",
+          "on": "498B8798050000C7400C3F420F008B400CE90F1CD2F9",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E552CB",
+          "on": "E9E0E32D069090909090",
+          "off": "498B87980500008B400C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Tickets (Disable After Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133460",
+          "on": "C787E80900003F420F00E96063D2F9",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1E597C9",
+          "on": "E9929C2D0690",
+          "off": "8987E8090000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Surge Gauntlet",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133860",
+          "on": "90E9C7A2C1F9",
+          "off": "000000000000"
+        },
+        {
+          "offset": "1D4DB21",
+          "on": "E93A5D3E0690909090909090",
+          "off": "41C784249801000000000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Score",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133540",
+          "on": "41C787CC04000039420F00418B8FCC040000E971DECCF9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1E013C1",
+          "on": "E97A2133069090",
+          "off": "418B8FCC040000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133870",
+          "on": "41C7867C0B000000000000E9DC21CBF9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1DE5A53",
+          "on": "E918DE340690909090",
+          "off": "C4C17A11867C0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133230",
+          "on": "90E92628CBF9",
+          "off": "000000000000"
+        },
+        {
+          "offset": "1DE5A53",
+          "on": "E9D8D7340690909090",
+          "off": "C4C17A11867C0B0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Power Tokens On Buy (Enable To Work/Disable After Use)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8133330",
+          "on": "B8E70300008981F0090000E91865D2F9",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1E59852",
+          "on": "E9D99A2D0690",
+          "off": "8981F0090000"
+        }
+      ]
+    },
+    {
+      "name": "Weapons Level Up (Pick Up The Weapon/Activate)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "81332D0",
+          "on": "41C787CC0400003F420F00418BB7CC040000E987D6C7F9",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1DB0967",
+          "on": "E9642938069090",
+          "off": "418BB7CC040000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

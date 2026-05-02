@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA02343",
+  "version": "01.00",
+  "name": "Uncharted Collection: Uncharted 1",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA02343"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02343_01.00.json. Other candidate files skipped: 6.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA02343_01.00.json",
+      "size": 494,
+      "sha256": "dc510648e342869dad76a1efb0ef0ae99271e5fc016dbac252a83ed892e16afd",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02343_01.00.json. Other candidate files skipped: 6.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA02343_01.00.shn",
+      "size": 723,
+      "sha256": "3dc9d9d5a51a9f0fcc8615fb804ee39e22ac81ec11fc1f780c5b382865fd4833",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02343_01.00.json. Other candidate files skipped: 6.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA02343_01.00.mc4",
+      "size": 984,
+      "sha256": "c0d9c595b0fb54e7caf2f73839fc0ed5f25c2c876fa15bcf5baec1cc55e2c206",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA02343_01.00.json. Other candidate files skipped: 6.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

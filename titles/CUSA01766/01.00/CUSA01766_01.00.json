@@ -1,0 +1,76 @@
+{
+  "name": "Prototype",
+  "id": "CUSA01766",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "103FDB0",
+          "on": "837B3C01750EC5FA114B14E94F590EFFC5F057C9C5FA114B14E941590EFF",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12570A",
+          "on": "E9A1A6F100",
+          "off": "C5FA114B14"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "103FDB6",
+          "on": "9090909090",
+          "off": "C5FA114B14"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "103FDB4",
+          "on": "750A",
+          "off": "750E"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7DC742",
+          "on": "909090",
+          "off": "FF4B24"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite EP (On Gain)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "103FA00",
+          "on": "664181F988E4750F41BF7F96980044893C90E9EA8D01FF44893C90E9E18D01FF",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "587FA",
+          "on": "E90172FE009090",
+          "off": "4801CA44893C90"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

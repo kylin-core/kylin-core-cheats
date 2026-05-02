@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA16724",
+  "version": "01.07",
+  "name": "Resident Evil 3",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA16724"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA16724_01.07.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA16724_01.07.json",
+      "size": 774,
+      "sha256": "a1a6ceb855463729f11ae58a9a16a2c09aa6636d11aed0e6416647f67552c71b",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA16724_01.07.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA16724_01.07.shn",
+      "size": 1055,
+      "sha256": "65f91d18c6cec60488a5b3a9c67fb58e952d667ab815c506075bf59e735545b5",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA16724_01.07.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA16724_01.07.mc4",
+      "size": 1408,
+      "sha256": "caf1b2f68ab5e82428ef4dacf6ef521c6803e00ea5b19e88efdbaf016196237b",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA16724_01.07.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

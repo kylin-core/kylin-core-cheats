@@ -1,0 +1,71 @@
+{
+  "name": "Tormented Souls",
+  "id": "CUSA29199",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8158053C",
+          "on": "9090909090",
+          "off": "E8BF8A63FF"
+        },
+        {
+          "offset": "80BB8FDF",
+          "on": "9090909090",
+          "off": "E81C000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80BB90E7",
+          "on": "9090909090",
+          "off": "E8E4F59000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8095B4EA",
+          "on": "90909090",
+          "off": "44897050"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "804BB622",
+          "on": "90909090",
+          "off": "44897048"
+        }
+      ]
+    },
+    {
+      "name": "one-Hit-Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "806496B0",
+          "on": "9090909090",
+          "off": "C5FA104F30"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "BloodRayne 2 ReVamped",
+  "id": "CUSA27837",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8240E06A",
+          "on": "C4C17A118D003B0000",
+          "off": "C4C17A11A5003B0000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Rage-Points-Power-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8240E08D",
+          "on": "C4C17A118D398E0000",
+          "off": "C4C17A118D388E0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-AMMO",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8248614F",
+          "on": "9090909090909090",
+          "off": "C5FA118358080000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA42649",
+  "version": "01.05",
+  "name": "Disney Epic Mickey Rebrushed",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA42649"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42649_01.05.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA42649_01.05.json",
+      "size": 1409,
+      "sha256": "4e3e420cf4f5533fcb8520031a7d36bc37fadf9e1941ec86594259a6346a3147",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42649_01.05.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA42649_01.05.shn",
+      "size": 1480,
+      "sha256": "a79a2f57f0e0af87de153a7198bda4b4835a99c7aad3956424bb5d10b20ccbb0",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42649_01.05.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA42649_01.05.mc4",
+      "size": 1984,
+      "sha256": "3117f86455e2406354813da216d1181e0b7ec83cd9595cd3f19032e876d1a896",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA42649_01.05.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

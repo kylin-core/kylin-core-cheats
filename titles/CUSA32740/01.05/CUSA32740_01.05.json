@@ -1,0 +1,59 @@
+{
+  "name": "Sonic Superstars",
+  "id": "CUSA32740",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Rings on hit",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8577F9F0",
+          "on": "C746140F270000E96BF948FC",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "81C0F360",
+          "on": "E98B06B7039090",
+          "off": "C7461400000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Time Freeze (story mode/Time Attack mode)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8577FA90",
+          "on": "41C7456000000000E966673AFC",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "81B261FD",
+          "on": "E98E98C50390",
+          "off": "C4C17A114560"
+        }
+      ]
+    },
+    {
+      "name": "Max Medals at the end of the act ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "54BED30",
+          "on": "41C746603F420F00418B9F54020000E98B27ECFB",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13814C4",
+          "on": "E967D81304909090909090",
+          "off": "41894660418B9F54020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "wander fw9.00"
+  ]
+}

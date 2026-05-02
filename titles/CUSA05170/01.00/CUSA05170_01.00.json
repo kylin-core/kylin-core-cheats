@@ -1,0 +1,43 @@
+{
+  "name": "Dragon Quest Builders",
+  "id": "CUSA05170",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9EB800",
+          "on": "4489E666B8630066894302E9EA716EFF",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D29F3",
+          "on": "E9088E91009090",
+          "off": "4489E666894302"
+        }
+      ]
+    },
+    {
+      "name": "Godmode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "9EB810",
+          "on": "6652668B9086D3010066899088D30100665AE9DD3D69FF",
+          "off": "0000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7F5FD",
+          "on": "E90EC296009090",
+          "off": "66899088D30100"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

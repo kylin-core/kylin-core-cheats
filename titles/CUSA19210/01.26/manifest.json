@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA19210",
+  "version": "01.26",
+  "name": "guilty gear strive",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA19210"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19210_01.26.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA19210_01.26.json",
+      "size": 1683,
+      "sha256": "55631a1735342acb19c82d91b603beef8fa6384a5937475a922762b7fe6e56a1",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19210_01.26.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA19210_01.26.shn",
+      "size": 1654,
+      "sha256": "5311356477b7f308427bbb752b6012e40e19ff59cc95e84f575ef8eb96a1eaaa",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19210_01.26.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA19210_01.26.mc4",
+      "size": 2220,
+      "sha256": "8a4a47e7b3c8bb53e6293fb1e072c2d58ee4b4e46ac53a675e64e3e80d56b672",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA19210_01.26.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

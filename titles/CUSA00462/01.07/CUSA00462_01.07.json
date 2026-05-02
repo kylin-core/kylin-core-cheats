@@ -1,0 +1,148 @@
+{
+  "name": "Far Cry 4",
+  "id": "CUSA00462",
+  "version": "01.07",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "303F816",
+          "on": "48C7C6F07F7C03488B364839CE7507C5FA5F491CEB05C5FA5D491C498B3424E97FF705FE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "109EFB4",
+          "on": "E95D08FA01",
+          "off": "C5FA5F491C"
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Clip",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "145B48A",
+          "on": "9090",
+          "off": "29CE"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "130B2A2",
+          "on": "909090",
+          "off": "4429F8"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1301846",
+          "on": "9090",
+          "off": "29DE"
+        }
+      ]
+    },
+    {
+      "name": "Ignore Grenade Count",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "130127D",
+          "on": "EB24",
+          "off": "7F24"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1330D55",
+          "on": "9090",
+          "off": "29F0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skillpoints",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDCDF2",
+          "on": "9090909090",
+          "off": "4129442470"
+        }
+      ]
+    },
+    {
+      "name": "XP x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDC2C5",
+          "on": "41D1E744017B649090",
+          "off": "8B4B644401F9894B64"
+        }
+      ]
+    },
+    {
+      "name": "XP x4",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDC2C5",
+          "on": "41C1E70244017B6490",
+          "off": "8B4B644401F9894B64"
+        }
+      ]
+    },
+    {
+      "name": "XP x8",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDC2C5",
+          "on": "41C1E70344017B6490",
+          "off": "8B4B644401F9894B64"
+        }
+      ]
+    },
+    {
+      "name": "XP x16",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDC2C5",
+          "on": "41C1E70444017B6490",
+          "off": "8B4B644401F9894B64"
+        }
+      ]
+    },
+    {
+      "name": "XP x256",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "CDC2C5",
+          "on": "41C1E70744017B6490",
+          "off": "8B4B644401F9894B64"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "TLH"
+  ]
+}

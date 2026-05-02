@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08216",
+  "version": "01.10",
+  "name": "Devil May Cry 5",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08216"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08216_01.10.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08216_01.10.json",
+      "size": 10138,
+      "sha256": "d1631fcc9608d15ace31e806e910c28d24a7a61d24875eca329494b7fe7f7de0",
+      "cheatCount": 27,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08216_01.10.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08216_01.10.shn",
+      "size": 9230,
+      "sha256": "cb56f8f1278889c9d12c97b9e7faa4bf830a1a3c0cfd51b753b7fc26620c320d",
+      "cheatCount": 27,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08216_01.10.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08216_01.10.mc4",
+      "size": 12312,
+      "sha256": "1973e695c4c9704839d97ddf38eca1cbfe3e38bc354ba0a8152e6929d47a0368",
+      "cheatCount": 27,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08216_01.10.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

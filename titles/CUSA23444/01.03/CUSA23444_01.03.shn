@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aragami 2" Moder="Saso" Cusa="CUSA23444" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>19C92C0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-3C-24-5C-54-9A-81-75-0A-C5-FA-11-50-18-E9-38-25-D6-7E-C5-FA-11-40-18-E9-2E-25-D6-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>19C9300</Offset>
+            <Section>0</Section>
+            <ValueOn>83-B8-E0-01-00-00-01-75-08-C5-FA-10-80-BC-00-00-00-C5-FA-11-80-B8-00-00-00-E9-C0-63-49-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gold (On Spend)">
+        <Cheatline>
+            <Offset>7FEA1E00</Offset>
+            <Section>0</Section>
+            <ValueOn>83-B8-C8-02-00-00-01-75-0B-66-C7-40-10-0F-27-E9-B1-BD-83-06-8B-4C-24-F4-89-48-10-E9-A5-BD-83-06</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

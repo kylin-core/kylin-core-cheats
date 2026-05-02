@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA40651",
+  "version": "01.01",
+  "name": "Star Ocean The Second story R",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA40651"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA40651_01.01.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA40651_01.01.json",
+      "size": 2809,
+      "sha256": "507816da264a2e8e20738719570b0b12a293dcc64b7bd8544afa0a797f076fcb",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA40651_01.01.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA40651_01.01.shn",
+      "size": 2572,
+      "sha256": "d560966b88168ea4b49e26e0ce4f9b9e7eade502d7cd3539e83b832ef3843df6",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA40651_01.01.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA40651_01.01.mc4",
+      "size": 3436,
+      "sha256": "84dd3e29b402494be10f6e591e6e0d5fb875d763ce4bdda5bf23f2b2f93c721d",
+      "cheatCount": 7,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA40651_01.01.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

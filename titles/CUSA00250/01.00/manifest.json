@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00250",
+  "version": "01.00",
+  "name": "Thief",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00250"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00250_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00250_01.00.json",
+      "size": 1491,
+      "sha256": "219afce352ab89e5d3ebaafa5bcbdb431ae407c2fba895235342682a841e0c39",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00250_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00250_01.00.shn",
+      "size": 1527,
+      "sha256": "6449416380078d773fa9f74d90599a14ad7c9b89905143dcc9ad59e12184ef2f",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00250_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00250_01.00.mc4",
+      "size": 2048,
+      "sha256": "1b77b8631efc81df355511845dbe5d2ad262e80f5ff803f361f37ed097251ac0",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00250_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

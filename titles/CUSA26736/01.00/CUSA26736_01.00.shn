@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wonder Boy: Asha in monster World" Moder="Wander_9.00" Cusa="CUSA26736" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Coins (on gain)">
+        <Cheatline>
+            <Offset>7FC5F010</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-80-FC-02-00-00-9F-86-E9-99-57-7A-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health (Red Heart)">
+        <Cheatline>
+            <Offset>149E0B</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>41-89-8D-D8-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All Items x99 on use (have 2 at least)">
+        <Cheatline>
+            <Offset>7FC5F030</Offset>
+            <Section>0</Section>
+            <ValueOn>FF-CE-C6-44-88-20-63-E9-C0-EC-79-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Blue Heart (on collect)">
+        <Cheatline>
+            <Offset>7FC5F070</Offset>
+            <Section>0</Section>
+            <ValueOn>80-83-F8-02-00-00-63-E9-F8-E0-79-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,33 @@
+{
+  "name": "Prince of Persia The Lost Crown",
+  "id": "CUSA36581",
+  "version": "01.40",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80C5DDA0",
+          "on": "9090909090",
+          "off": "4129442428"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Arrow + Elixir-healing + Crystals-of-time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "809BFC2C",
+          "on": "90909090",
+          "off": "44297014"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

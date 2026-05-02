@@ -1,0 +1,59 @@
+{
+  "name": "FIFA 17",
+  "id": "CUSA03214",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "max Score (while training)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58D8910",
+          "on": "C781B87B02003F420F00E9D08996FD",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "32412E9",
+          "on": "E92276690290",
+          "off": "0191B87B0200"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill points (on use) Journey Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58D8980",
+          "on": "0F44C841C6465863E90F8985FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "4131295",
+          "on": "E9E6767A019090",
+          "off": "0F44C841014E58"
+        }
+      ]
+    },
+    {
+      "name": "Max Budget (after selling Players)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "58D89E0",
+          "on": "488B5110C702FFE0F505E93524F8FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "485AE1E",
+          "on": "E9BDDB070190",
+          "off": "488B51100102"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

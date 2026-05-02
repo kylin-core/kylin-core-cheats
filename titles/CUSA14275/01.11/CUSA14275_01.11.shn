@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Back 4 Blood Ultimate Edition" Moder="Reddevil82 " Cusa="CUSA14275" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>946BE99</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8D-B5-18-FF-FF-FF-E9-9B-F6-E8-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health ( Player / Team )">
+        <Cheatline>
+            <Offset>946BE41</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-81-80-07-00-00-00-C0-79-44-C5-FA-10-89-80-07-00-00-E9-D2-89-B4-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina ( Battle Mode )">
+        <Cheatline>
+            <Offset>946BE82</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-86-90-01-00-00-C4-C1-7A-11-86-60-01-00-00-E9-1F-9A-2D-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stamina ( Run Mode )">
+        <Cheatline>
+            <Offset>946BE15</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-86-90-01-00-00-C4-C1-7A-11-86-60-01-00-00-E9-6B-26-7F-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo">
+        <Cheatline>
+            <Offset>946BDB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-84-06-68-05-00-00-E7-03-00-00-8B-84-06-68-05-00-00-E9-66-8F-AA-F9-52-65-64-64-65-76-69-6C-38-32-20-2D-20-46-57-20-39-2E-30-30</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload ( Ammo )">
+        <Cheatline>
+            <Offset>946BDDB</Offset>
+            <Section>0</Section>
+            <ValueOn>41-8B-86-C0-02-00-00-41-89-86-AC-02-00-00-E9-CC-2D-37-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ammo Items">
+        <Cheatline>
+            <Offset>946BE03</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-81-AC-02-00-00-63-8B-81-AC-02-00-00-E9-DF-DE-2E-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Copper ( on gain / use )">
+        <Cheatline>
+            <Offset>946BDEE</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-9C-03-00-00-7F-96-98-00-8B-9F-9C-03-00-00-E9-6E-16-C8-F8</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Card Draws">
+        <Cheatline>
+            <Offset>946BE39</Offset>
+            <Section>0</Section>
+            <ValueOn>4C-89-F7-E9-58-71-95-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Supply Lines ( on gain / use )">
+        <Cheatline>
+            <Offset>946BE58</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-2E-E4-B9-F9-C7-40-04-7F-96-98-00-8B-48-04-E9-19-E4-B9-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skull Totems ( on gain / use )">
+        <Cheatline>
+            <Offset>946BEA5</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-84-2A-DB-94-F9-C7-40-10-00-00-00-00-C7-40-0C-7F-96-98-00-8B-48-0C-E9-FF-DA-94-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

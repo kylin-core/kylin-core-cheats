@@ -1,0 +1,103 @@
+{
+  "name": "Timothy Vs Aliens",
+  "id": "CUSA11586",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8A81",
+          "on": "8B0F837FD4017519817FB8082E17047510C70700C079444983C0FCE9651107FD904983C0FCE95B1107FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D49C00",
+          "on": "E97CEEF80290",
+          "off": "8B0F4983C0FC"
+        }
+      ]
+    },
+    {
+      "name": "Dead / Invincible (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8A92",
+          "on": "C70700000000",
+          "off": "C70700C07944"
+        }
+      ]
+    },
+    {
+      "name": "Money (MC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8AC1",
+          "on": "4883C7048378D00175178178B4082E1704750E8908C7009F860100E92B1107FD908908E9231107FD9090C7404000000000E9151107FD",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D49C06",
+          "on": "E9B6EEF80290",
+          "off": "4883C7048908"
+        }
+      ]
+    },
+    {
+      "name": "Hyper Speed (must fill / get money 1st / MC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8AD6",
+          "on": "EB1390909090",
+          "off": "C7000F270000"
+        }
+      ]
+    },
+    {
+      "name": "Revolver 357 (force glitch / MC wep)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8B81",
+          "on": "0FB6118379EC0175128179D0082E1704741248FFC1E92B1107FD9048FFC1E9221107FD90C70101000000C74138E703000048FFC1E90C1107FD90C70102000000C7412CE703000048FFC1E9F61007FD90C70103000000C74120E703000048FFC1E9E01007FD90",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D49CC0",
+          "on": "E9BCEEF80290",
+          "off": "0FB61148FFC1"
+        }
+      ]
+    },
+    {
+      "name": "ShotGun (force glitch / MC wep)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8B91",
+          "on": "7428",
+          "off": "7412"
+        }
+      ]
+    },
+    {
+      "name": "Machine Gun (force glitch / MC wep)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CD8B91",
+          "on": "743E",
+          "off": "7412"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

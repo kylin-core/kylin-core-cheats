@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11597",
+  "version": "01.00",
+  "name": "SteamWorld Dig 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11597"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11597_01.00.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11597_01.00.json",
+      "size": 1914,
+      "sha256": "42e84fee475336e1eec3c82e0c736c23550890d8e465462081f24a307be857d2",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11597_01.00.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11597_01.00.shn",
+      "size": 2132,
+      "sha256": "28480860b12bac8768e5634f87b943c5097d7bda2c6d019d4d75e3e68a8cf446",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11597_01.00.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11597_01.00.mc4",
+      "size": 2860,
+      "sha256": "b994edbd0fe8442dfa6b4877fca000fb62fe387f026054e0cce62cec8b438144",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA11597_01.00.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

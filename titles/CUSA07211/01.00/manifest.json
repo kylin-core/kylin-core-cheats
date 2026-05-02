@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA07211",
+  "version": "01.00",
+  "name": "FINAL FANTASY VII REMAKE",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA07211"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07211_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA07211_01.00.json",
+      "size": 3020,
+      "sha256": "63634f9f9d5cec35294ac78c368d7977f6c28c68d3c747e60bbe482a67566fb9",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07211_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA07211_01.00.shn",
+      "size": 3620,
+      "sha256": "ad61eacead139b6ccff111b190015ecc3935055f1fc82fb1a15d6a1ab40833aa",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07211_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA07211_01.00.mc4",
+      "size": 4844,
+      "sha256": "818ae4682565a6c20063f32b30a21dacfdd760924d58f336570bda65310e3b90",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA07211_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

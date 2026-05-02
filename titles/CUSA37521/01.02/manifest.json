@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA37521",
+  "version": "01.02",
+  "name": "Persona 3 Reload",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA37521"
+  ],
+  "updatedAt": "2026-05-02T10:01:33Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37521_01.02.json. Other candidate files skipped: 2.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA37521_01.02.json",
+      "size": 8879,
+      "sha256": "109dfb4b2ea334bbf61363ee2eecbc632aba3aa7f42951de6ccf4a7c9a6acb20",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37521_01.02.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA37521_01.02.shn",
+      "size": 8660,
+      "sha256": "f2c1301dadd21a31f16c110951319952b19bc3faf7dd053190fb2b13c6cf60de",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37521_01.02.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA37521_01.02.mc4",
+      "size": 11564,
+      "sha256": "3ee9a0763b4fdad18eabe3966db4064426cb84137af88447afb3dc0bcc731059",
+      "cheatCount": 25,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA37521_01.02.json. Other candidate files skipped: 2.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:33Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

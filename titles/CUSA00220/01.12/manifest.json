@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00220",
+  "version": "01.12",
+  "name": "Dragon Age",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00220"
+  ],
+  "updatedAt": "2026-05-02T10:01:29Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00220_01.12.shn. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00220_01.12.json",
+      "size": 9413,
+      "sha256": "ed7407e3204b8d875d8c5bf763d07da9e172efae55798cd0e1e033927d26534c",
+      "cheatCount": 38,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00220_01.12.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00220_01.12.shn",
+      "size": 11568,
+      "sha256": "9f9c1edda823dd643ab0125c83acd99bac08d68a410561c2c51faefde4c86078",
+      "cheatCount": 38,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00220_01.12.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00220_01.12.mc4",
+      "size": 15448,
+      "sha256": "40feea287e64ab871853fbac6f4ecd14203c4cdccabe615f9f3f52eb12a2aebc",
+      "cheatCount": 38,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA00220_01.12.shn. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:29Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

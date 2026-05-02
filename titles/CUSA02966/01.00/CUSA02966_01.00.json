@@ -1,0 +1,219 @@
+{
+  "name": "Digimon Story Cyber Sleuth",
+  "id": "CUSA02966",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Quick Rank Up &quot;After Gained&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B800",
+          "on": "B97F969800894F4CE9101881FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "5D017",
+          "on": "E9E4E77E0090",
+          "off": "0F49C8894F4C"
+        }
+      ]
+    },
+    {
+      "name": "Max Zen &quot;After Gained&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B80D",
+          "on": "B97F969800894B48E97A1781FF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "5CF8E",
+          "on": "E97AE87E0090",
+          "off": "0F49C8894B48"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B81A",
+          "on": "B8FFE0F50541894670E9DB0780FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "4BFF9",
+          "on": "E91CF87F009090909090",
+          "off": "8B8594FDFFFF41894670"
+        }
+      ]
+    },
+    {
+      "name": "Max Hp &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B828",
+          "on": "B8E803000041898680000000E92D0780FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BF5F",
+          "on": "E9C4F87F009090",
+          "off": "41898680000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Sp &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B839",
+          "on": "B8E90300004189868C000000E9290780FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BF6C",
+          "on": "E9C8F87F009090",
+          "off": "4189868C000000"
+        }
+      ]
+    },
+    {
+      "name": "Max ATK &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B84A",
+          "on": "66B8E7036641898692000000E9270780FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BF7A",
+          "on": "E9CBF87F00909090",
+          "off": "6641898692000000"
+        }
+      ]
+    },
+    {
+      "name": "Max DEF &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B85B",
+          "on": "66B8E7036641898696000000E9250780FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BF89",
+          "on": "E9CDF87F00909090",
+          "off": "6641898696000000"
+        }
+      ]
+    },
+    {
+      "name": "Max INT &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B86C",
+          "on": "66B8E703664189869A000000E9230780FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BF98",
+          "on": "E9CFF87F00909090",
+          "off": "664189869A000000"
+        }
+      ]
+    },
+    {
+      "name": "Max SPD &quot;After Level Up&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B87D",
+          "on": "66B8E703664189869E000000E9210780FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BFA7",
+          "on": "E9D1F87F00909090",
+          "off": "664189869E000000"
+        }
+      ]
+    },
+    {
+      "name": "Max ABI &quot;After Digivolve Or De-Digivolve&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B88E",
+          "on": "66B9E7036641898DA2000000E9DC0280FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BB73",
+          "on": "E916FD7F00909090",
+          "off": "6641898DA2000000"
+        }
+      ]
+    },
+    {
+      "name": "Max CAM &quot;After Battle&quot;",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B89F",
+          "on": "66B9C8006641898FA4000000E97E0180FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "4BA26",
+          "on": "E974FE7F00909090",
+          "off": "6641898FA4000000"
+        }
+      ]
+    },
+    {
+      "name": "Item &quot;After Used&quot; ",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B8B0",
+          "on": "B263885014E94CF780FF",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "5B001",
+          "on": "E9AA087F00",
+          "off": "29CA885014"
+        }
+      ]
+    },
+    {
+      "name": "Quick DigiConvert",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "84B8C1",
+          "on": "66B9C80066894802E954BA7FFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "4731B",
+          "on": "E9A14580009090",
+          "off": "4401F966894802"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow Warrior 2" Moder="Saso" Cusa="CUSA05648" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health / (Master Code)">
+        <Cheatline>
+            <Offset>1063800</Offset>
+            <Section>0</Section>
+            <ValueOn>48-3D-41-01-00-00-75-34-49-81-F8-FF-01-00-00-75-20-66-41-81-7B-22-48-50-74-0C-EB-15-41-81-7B-22-41-6D-6D-6F-75-0B-C7-02-00-00-FA-43-E9-24-DB-C8-FF-48-8B-33-48-89-32-E9-19-DB-C8-FF-48-83-F8-41-75-70-49-83-F8-0F-75-17-EB-E7-41-81-7B-22-43-6C-69-70-75-DD-C7-02-00-00-C8-42-E9-F6-DA-C8-FF-49-81-F8-FF-01-00-00-75-C9-48-81-F9-92-15-00-00-75-1C-EB-BE-50-48-8B-42-09-81-78-22-4D-6F-6E-65-58-75-AF-C7-02-00-24-74-49-E9-C8-DA-C8-FF-48-81-F9-66-15-00-00-75-9B-EB-99-50-48-8B-42-09-81-78-22-4D-61-6E-61-58-75-3C-C7-02-00-00-FA-43-E9-A3-DA-C8-FF-48-83-F8-40-75-2B-49-81-F8-FF-01-00-00-75-22-EB-20-48-81-F9-90-07-00-00-75-17-50-48-8B-42-09-81-78-22-50-65-72-6B-58-75-08-C6-02-63-E9-72-DA-C8-FF-48-8B-33-48-89-32-E9-67-DA-C8-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Mana (MC)">
+        <Cheatline>
+            <Offset>1063896</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>EB-99</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo / No Reload (MC)">
+        <Cheatline>
+            <Offset>1063848</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>EB-E7</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Plasma (MC)">
+        <Cheatline>
+            <Offset>106381A</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>EB-15</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Skill Points 99 (MC)">
+        <Cheatline>
+            <Offset>10638C1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>EB-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money 1M (MC)/ Turn Off To Collect More">
+        <Cheatline>
+            <Offset>1063871</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90</ValueOn>
+            <ValueOff>EB-BE</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

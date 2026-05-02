@@ -1,0 +1,86 @@
+{
+  "name": "Sky Force Anniversary",
+  "id": "CUSA04411",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80217766",
+          "on": "F3410F119774010000",
+          "off": "F3450F11BF74010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Mega Bome Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B800",
+          "on": "48633424BE030000008930E972F3FC7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8022AB7C",
+          "on": "E97F0C038190",
+          "off": "486334248930"
+        }
+      ]
+    },
+    {
+      "name": "Inf Energy Shield Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B820",
+          "on": "48633424BE050000008930E9F2F3FC7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8022AC1C",
+          "on": "E9FF0B038190",
+          "off": "486334248930"
+        }
+      ]
+    },
+    {
+      "name": "Max Inf Resources on Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B810",
+          "on": "48630C24B9FFC99A3B8908E9EAEEFC7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8022A704",
+          "on": "E90711038190",
+          "off": "48630C248908"
+        }
+      ]
+    },
+    {
+      "name": "Press R3 to Refill Energy Shield Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "125B830",
+          "on": "5348BBD8817F0100000000488B1B4883E304750FF3450F11BF900000005BE9793CFE7E41C7879000000060661E415BE9683CFE7E",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "8023F4C3",
+          "on": "E968C3018190909090",
+          "off": "F3450F11BF90000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

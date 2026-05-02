@@ -1,0 +1,91 @@
+{
+  "name": "Like a Dragon Gaiden: The man who erased his name",
+  "id": "CUSA43228",
+  "version": "01.10",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max All currency (Yen/Akame/Circuit)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E9BBE6",
+          "on": "4AC704E8FFC99A3B488B01E93BF859FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "43B42A",
+          "on": "E9B707A6019090",
+          "off": "4A891CE8488B01"
+        }
+      ]
+    },
+    {
+      "name": "Circuit car max Gauge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E9BCF3",
+          "on": "C780B000000080CC8641488B4820E9C52F87FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "170ECC3",
+          "on": "E92BD07800",
+          "off": "E916D07800"
+        }
+      ]
+    },
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E9BBE6",
+          "on": "48C74008D0DD06005BE9136825FF",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "10F2402",
+          "on": "E9DF97DA00",
+          "off": "488948085B"
+        }
+      ]
+    },
+    {
+      "name": "Items x99",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E9BC32",
+          "on": "C70663000000E98E0A5AFE",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "43C6C3",
+          "on": "E96AF5A501909090",
+          "off": "448936E9A3000000"
+        }
+      ]
+    },
+    {
+      "name": "Heat instant Charge",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E9BBE6",
+          "on": "C780C80300000000A040E9825A1EFF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "108166F",
+          "on": "E972A5E100909090",
+          "off": "C5FA1188C8030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Q8Despair"
+  ]
+}

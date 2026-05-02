@@ -1,0 +1,108 @@
+{
+  "name": "Lord of the Rings Gollum",
+  "id": "CUSA33616",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Master Code",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "686BEA0",
+          "on": "4180BEE00000000F750D4183BE00010000FF7403EB0190C4C17A1186BC000000E9DBA499FA90C4C17A1086B8000000C4C17A1186BC000000E9C3A499FA9041C786B8000000003C1C46C4C17A1186BC000000E9A9A499FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1206397",
+          "on": "E9045B660590909090",
+          "off": "C4C17A1186BC000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "686BEB2",
+          "on": "7412",
+          "off": "7403"
+        }
+      ]
+    },
+    {
+      "name": "Max Health 9999 (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "686BED8",
+          "on": "EB04909090",
+          "off": "E9C3A499FA"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Dash",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12149E4",
+          "on": "9090909090909090",
+          "off": "C5FA11930C010000"
+        }
+      ]
+    },
+    {
+      "name": "Doesnt Detect / Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA5791",
+          "on": "41C784244001000000000000C4C17A10842440010000C4C17A11842440010000E9B99F1A8190",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "104F765",
+          "on": "E92760E57E9090909090",
+          "off": "C4C17A11842440010000"
+        }
+      ]
+    },
+    {
+      "name": "Drone View x1000",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA57D1",
+          "on": "C783F801000000007A44C5FA108BF8010000E98D432C8190",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1169B6D",
+          "on": "E95FBCD37E909090",
+          "off": "C5FA108BF8010000"
+        }
+      ]
+    },
+    {
+      "name": "Drone View x10000",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7FEA57D1",
+          "on": "C783F801000000401C46C5FA108BF8010000E98D432C8190",
+          "off": "000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1169B6D",
+          "on": "E95FBCD37E909090",
+          "off": "C5FA108BF8010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

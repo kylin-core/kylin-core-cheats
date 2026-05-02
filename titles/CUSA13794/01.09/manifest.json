@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA13794",
+  "version": "01.09",
+  "name": "LEGO Star Wars: The Skywalker Saga",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA13794"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13794_01.09.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA13794_01.09.json",
+      "size": 1469,
+      "sha256": "800c91c5af1678533013445142121d6e4f06f583909b5d79d80f5a83471e93dd",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13794_01.09.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA13794_01.09.shn",
+      "size": 1505,
+      "sha256": "d7be6932e0e42117f8d7a015d36707cf423d52d125d830adfa3182541d67b6dd",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13794_01.09.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA13794_01.09.mc4",
+      "size": 2028,
+      "sha256": "56e188796c75523fa6b30770af5b41927779dc0c730e25a58cac1c0e8fcc9912",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13794_01.09.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

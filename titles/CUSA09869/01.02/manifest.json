@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09869",
+  "version": "01.02",
+  "name": "Trine 4: The Nightmare Prince",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09869"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09869_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09869_01.02.json",
+      "size": 929,
+      "sha256": "31dae4bc5e8906e6efdc3f352fea3bac88d8d694fe49231ab1889ad9873d3f0e",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09869_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09869_01.02.shn",
+      "size": 996,
+      "sha256": "56945eb4da5b0612a9f164de155c1f59f41dc24d6adec6237b6270a6c414f8bb",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09869_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09869_01.02.mc4",
+      "size": 1344,
+      "sha256": "92b1124bb2ee9ada78d3386a5475b43ecf75d73d2344f9a751b63fde0587f383",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09869_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

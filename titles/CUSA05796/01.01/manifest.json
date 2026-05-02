@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05796",
+  "version": "01.01",
+  "name": "UP2346-CUSA05796_00-RIMEGAME01NA0001",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05796"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05796_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05796_01.01.json",
+      "size": 420,
+      "sha256": "3f9e72297aecb7893787883e52a1da8a2a0b5bd2fb0c4586df19e9dc7c0d6023",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05796_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05796_01.01.shn",
+      "size": 600,
+      "sha256": "a3ed3026054558ec6e535bb40e6769d3f6280436f426974f85997e64b0f9d054",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05796_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05796_01.01.mc4",
+      "size": 812,
+      "sha256": "92b46b6719fcd864b5dae20372a8818e13a212aadbb4476df1a4476c12841922",
+      "cheatCount": 1,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05796_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

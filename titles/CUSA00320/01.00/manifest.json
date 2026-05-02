@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00320",
+  "version": "01.00",
+  "name": "Wolfenstein: The New Order",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00320"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00320_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00320_01.00.json",
+      "size": 602,
+      "sha256": "7e1a2c0d547e031376b1d7955d763cb008cad4b08205a862f01feb69de1039ed",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00320_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00320_01.00.shn",
+      "size": 801,
+      "sha256": "548814f1759dc4b42c8038b0e8603919cf98ea0008c118b7fdf470c16c48c813",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00320_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00320_01.00.mc4",
+      "size": 1088,
+      "sha256": "6a1fd1c93f58ed8108910d736f6a7720a009d71c2b1ab9eb168a35ba19e6343f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00320_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

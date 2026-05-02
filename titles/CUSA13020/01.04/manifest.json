@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA13020",
+  "version": "01.04",
+  "name": "Road Redemption",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA13020"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13020_01.04.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA13020_01.04.json",
+      "size": 1384,
+      "sha256": "e7a43ce5cf22913413cdf0d33a3762358fa09f1db9892b87741a602d23690fc0",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13020_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA13020_01.04.shn",
+      "size": 1632,
+      "sha256": "6eb886c3c6e27d2e7edb8a60cd2efd29c1178b4cc8928a82da87e18654504423",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13020_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA13020_01.04.mc4",
+      "size": 2200,
+      "sha256": "b42d7e1246335d29f9e97713a806ab44f9ea2bb55f93071af1dd4138b66d03ef",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA13020_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

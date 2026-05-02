@@ -1,0 +1,82 @@
+{
+  "name": "Darksiders Warmastered Edition",
+  "id": "CUSA05347",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B7F41",
+          "on": "909090909090909090",
+          "off": "C4C17A118584010000"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "57848D",
+          "on": "9090909090",
+          "off": "E84EC81700"
+        },
+        {
+          "offset": "69D16E",
+          "on": "9090909090",
+          "off": "E85D370800"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Souls-1-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6C1874",
+          "on": "C5FA588302080000",
+          "off": "C5FA588300080000"
+        }
+      ]
+    },
+    {
+      "name": "MAX-Souls-2-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "65CFFA",
+          "on": "9090909090",
+          "off": "E861480600"
+        }
+      ]
+    },
+    {
+      "name": "Quick-Level-All-Weapon-Up-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BA0F1",
+          "on": "C4C1725885DC010000",
+          "off": "C4C17A1185DC010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Wrath-bar-Rage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1F9878",
+          "on": "9090909090",
+          "off": "C5FA114304"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

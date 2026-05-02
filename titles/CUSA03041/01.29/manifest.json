@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03041",
+  "version": "01.29",
+  "name": "Red Dead Redemption 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03041"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03041_01.29.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03041_01.29.json",
+      "size": 4877,
+      "sha256": "c522eb4d8f1a2600c81ad7fcade546c7b03b5b68f3c2dcecdbf74e9a91aec39a",
+      "cheatCount": 15,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03041_01.29.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03041_01.29.shn",
+      "size": 5111,
+      "sha256": "60ee16a2dbeea4ba7e40bafd6c6f40e8eecb9fcac3c70e599aaa295afd7a49ad",
+      "cheatCount": 15,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03041_01.29.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03041_01.29.mc4",
+      "size": 6828,
+      "sha256": "93a82ad065fd05c5ace9869ac3bcf6097a0a91bb8c97fd956f26a3779365068d",
+      "cheatCount": 15,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA03041_01.29.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA08355",
+  "version": "01.03",
+  "name": "Shenmue",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA08355"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08355_01.03.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA08355_01.03.json",
+      "size": 694,
+      "sha256": "6961b766bfd7e637470b5b121bc51ddbe04597507809f3bf635b4172387daf70",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08355_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA08355_01.03.shn",
+      "size": 838,
+      "sha256": "d14acf71d2061265bd057f11c2bdf42117f53b20bab9d66c156dbf77a8850c91",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08355_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA08355_01.03.mc4",
+      "size": 1132,
+      "sha256": "1f455a82c052b04057fb63991ac6d59c57e93b1a106d5b814fd6c7937785a8e0",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA08355_01.03.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

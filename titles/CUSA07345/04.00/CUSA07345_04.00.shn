@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ni no Kuni™ II: Revenant Kingdom" Moder="Wander_9.00" Cusa="CUSA07345" Version="04.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Items x99 (on use have 2)">
+        <Cheatline>
+            <Offset>7FC5B0A0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-85-D2-C6-40-0A-63-E9-49-EA-D6-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite MP">
+        <Cheatline>
+            <Offset>7FE77BF0</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-84-04-FC-03-00-00-00-C0-E9-26-9A-8B-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money (on gain)">
+        <Cheatline>
+            <Offset>7FE77C20</Offset>
+            <Section>0</Section>
+            <ValueOn>81-FE-7F-96-98-00-C7-01-3F-42-0F-00-E9-A1-E4-FC-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Experience">
+        <Cheatline>
+            <Offset>7FC5B0B0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-80-8C-00-00-00-FF-E0-F5-05-E9-1D-71-EA-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

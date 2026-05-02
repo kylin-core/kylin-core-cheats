@@ -1,0 +1,76 @@
+{
+  "name": "Sniper Elite Resistance Deluxe Edition",
+  "id": "CUSA44067",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C7800",
+          "on": "837B1C00750AC5FA104B0CE945DEFDFEC5FA114B60E93BDEFDFE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "9A5650",
+          "on": "E9AB210201",
+          "off": "C5FA114B60"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E8F3CD",
+          "on": "90909090",
+          "off": "41897740"
+        }
+      ]
+    },
+    {
+      "name": "Invincible-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C6D774",
+          "on": "9090909090",
+          "off": "E897CF2000"
+        }
+      ]
+    },
+    {
+      "name": "MAX+Inf-AMMO+MAX+Inf-Medkit-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19C781C",
+          "on": "B8E703000089472CE945CB8EFF",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "12B4369",
+          "on": "E9AE347100",
+          "off": "89472C740B"
+        }
+      ]
+    },
+    {
+      "name": "Rapid-Fire",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C70987",
+          "on": "909090",
+          "off": "FF5050"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

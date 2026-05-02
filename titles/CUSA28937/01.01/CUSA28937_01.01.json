@@ -1,0 +1,76 @@
+{
+  "name": "Pocky ERR",
+  "id": "CUSA28937",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3CFC73",
+          "on": "90909090",
+          "off": "41894618"
+        }
+      ]
+    },
+    {
+      "name": "999 Vidas",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "198BF30",
+          "on": "83F90A41C74624E7030000E9C87BCF7E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80683B01",
+          "on": "E92A8430819090",
+          "off": "83F90A41894E24"
+        }
+      ]
+    },
+    {
+      "name": "Dinheiro Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "198BFC0",
+          "on": "41035E4041C746403F420F00E91B84CF7E",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "806843E4",
+          "on": "E9D77B3081909090",
+          "off": "41035E4041895E40"
+        }
+      ]
+    },
+    {
+      "name": "Tempo Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E7152C",
+          "on": "9090909090909090",
+          "off": "C5FA1180A0000000"
+        }
+      ]
+    },
+    {
+      "name": "Poder Especial Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "B4AB39",
+          "on": "909090",
+          "off": "897028"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

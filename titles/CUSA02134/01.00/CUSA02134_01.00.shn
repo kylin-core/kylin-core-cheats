@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Killing Floor 2" Moder="DeathRGH" Cusa="CUSA02134" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>E883E1</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-0F-34-46-01-90</ValueOn>
+            <ValueOff>41-8B-07-2B-45-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

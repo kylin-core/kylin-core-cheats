@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gold Mining Simulator" Moder="Reddevil82" Cusa="CUSA16668" Version="01.20" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Mastercode [ Must be enabled for MC Cheats ]">
+        <Cheatline>
+            <Offset>7FC6FF00</Offset>
+            <Section>0</Section>
+            <ValueOn>7F-96-18-4B</ValueOn>
+            <ValueOff>7F-96-18-4B</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money [ MC - Normal Mode ]">
+        <Cheatline>
+            <Offset>7FC6FF0C</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gold [ MC - Normal Mode ]">
+        <Cheatline>
+            <Offset>7FC6FF0E</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Magnetite [ MC - Normal Mode ]">
+        <Cheatline>
+            <Offset>7FC6FF10</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money [ MC - Hard Mode ]">
+        <Cheatline>
+            <Offset>7FC6FF24</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gold [ MC - Hard Mode ]">
+        <Cheatline>
+            <Offset>7FC6FF20</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Magnetite [ MC - Hard Mode ]">
+        <Cheatline>
+            <Offset>7FC6FF22</Offset>
+            <Section>0</Section>
+            <ValueOn>01-00</ValueOn>
+            <ValueOff>00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Fuel">
+        <Cheatline>
+            <Offset>7FC5F078</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-84-00-00-00-C5-FA-11-87-88-00-00-00-C5-FA-10-87-88-00-00-00-E9-69-4F-C9-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed Multiplier x 1 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF28</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-3F</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed Multiplier x 2 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF28</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed Multiplier x 3 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF28</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-40-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed Multiplier x 4 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF28</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Speed Multiplier x 5 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF28</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-A0-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Multiplier x 1 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF2C</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-3F</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Multiplier x 2 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF2C</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Multiplier x 3 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF2C</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-40-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Multiplier x 4 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF2C</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-80-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Jump Multiplier x 5 [ MC ]">
+        <Cheatline>
+            <Offset>7FC6FF2C</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-A0-40</ValueOn>
+            <ValueOff>00-00-80-3F</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

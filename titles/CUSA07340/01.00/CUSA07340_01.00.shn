@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragons Dogma: Dark Arisen" Moder="Wander_9.00" Cusa="CUSA07340" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Stamina">
+        <Cheatline>
+            <Offset>7FC5AE90</Offset>
+            <Section>0</Section>
+            <ValueOn>66-41-C7-85-AC-02-00-00-00-00-E9-F4-E5-F7-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins (on buy)">
+        <Cheatline>
+            <Offset>7FC5ABF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-4C-03-00-00-7F-96-98-00-E9-F4-70-73-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Experience">
+        <Cheatline>
+            <Offset>7FC5AC90</Offset>
+            <Section>0</Section>
+            <ValueOn>41-81-84-24-C8-02-00-00-7F-96-98-00-E9-31-6A-73-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Discipline (on gain)">
+        <Cheatline>
+            <Offset>7FC5BBB0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-48-03-00-00-7F-96-98-00-E9-B9-5C-73-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="All items x5 (on use/sell)">
+        <Cheatline>
+            <Offset>7FC5BC00</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-45-1A-05-E9-64-BE-8D-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Rift Crystals (on gain)">
+        <Cheatline>
+            <Offset>7FC5BCA0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-50-03-00-00-7F-96-98-00-E9-EB-5F-73-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

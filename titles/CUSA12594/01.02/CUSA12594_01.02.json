@@ -1,0 +1,54 @@
+{
+  "name": "Nefarious",
+  "id": "CUSA12594",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Vida Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2AA130",
+          "on": "90909090",
+          "off": "2B442408"
+        }
+      ]
+    },
+    {
+      "name": "Dinheiro Infinito",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "154FEA0",
+          "on": "C7808C0000007F969800E98336E57E",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "803A352C",
+          "on": "E96FC91A8190",
+          "off": "89888C000000"
+        }
+      ]
+    },
+    {
+      "name": "Bala Infinita",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A9A26",
+          "on": "90909090",
+          "off": "F20F5CC1"
+        },
+        {
+          "offset": "2A9AB8",
+          "on": "90909090",
+          "off": "F20F5CC1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

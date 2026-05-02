@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10688",
+  "version": "01.04",
+  "name": "Injustice 2: Legendary Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10688"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10688_01.04.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10688_01.04.json",
+      "size": 3881,
+      "sha256": "ae1b75b257d9773c83dcf0432d34a2feeb37bb030dce55b9c9cac65b6330a72a",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10688_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10688_01.04.shn",
+      "size": 3843,
+      "sha256": "0c5d010b934e135ca26c1803557fdcc2813d337ae42c8f26501f1d5ea79defbb",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10688_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10688_01.04.mc4",
+      "size": 5144,
+      "sha256": "2484b642f75593be1479d344a8d989379affb4c183e441753a8f23d5909cc490",
+      "cheatCount": 11,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10688_01.04.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

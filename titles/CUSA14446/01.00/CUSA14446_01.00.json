@@ -1,0 +1,27 @@
+{
+  "name": "Lost Artifacts",
+  "id": "CUSA14446",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Recursos Infinitos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1817070",
+          "on": "2B748A20C7448820E7030000E9466A2C7F",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80ADDABF",
+          "on": "E9AC95D380909090",
+          "off": "2B748A2089748820"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "fbin"
+  ]
+}

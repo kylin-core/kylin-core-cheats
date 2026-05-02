@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Odin Sphere Leifthrasir" Moder="Skal_9.00" Cusa="CUSA05083" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Use Cheats on Refined mode">
+        <Cheatline>
+            <Offset>0</Offset>
+            <Section>0</Section>
+            <ValueOn>00-00-00-00-00-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Phozon On Gain">
+        <Cheatline>
+            <Offset>475729</Offset>
+            <Section>0</Section>
+            <ValueOn>89-8B-44-21-00-00</ValueOn>
+            <ValueOff>89-83-44-21-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gold On Buy">
+        <Cheatline>
+            <Offset>66F0A5</Offset>
+            <Section>0</Section>
+            <ValueOn>89-9B-AC-03-00-00</ValueOn>
+            <ValueOff>89-8B-AC-03-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Ability Point On Usage">
+        <Cheatline>
+            <Offset>5DA116</Offset>
+            <Section>0</Section>
+            <ValueOn>89-9B-4C-21-00-00</ValueOn>
+            <ValueOff>29-83-4C-21-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Exp on Gain">
+        <Cheatline>
+            <Offset>475A3B</Offset>
+            <Section>0</Section>
+            <ValueOn>89-9B-40-21-00-00-90</ValueOn>
+            <ValueOff>44-89-B3-40-21-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Incredible Adventures of Van Helsing II" Moder="Wander FW9.00" Cusa="CUSA09370" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>69D7BA0</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BB-C4-00-00-00-02-75-0C-C7-83-14-05-00-00-00-C0-79-44-EB-08-C5-FA-11-83-14-05-00-00-E9-9C-3C-FC-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Mana">
+        <Cheatline>
+            <Offset>69D7C50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-85-44-0B-00-00-00-C0-79-44-E9-F8-0A-F3-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stat point Van Helsing">
+        <Cheatline>
+            <Offset>69D7BF0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-7C-0A-00-00-63-E9-FD-26-91-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Power Points">
+        <Cheatline>
+            <Offset>69D7C20</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C6-86-78-0A-00-00-63-E9-F2-03-F6-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Perk Points">
+        <Cheatline>
+            <Offset>69D7CB0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-4C-16-00-00-64-00-00-00-E9-6E-9B-7F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Stats Lady Katarina">
+        <Cheatline>
+            <Offset>69D7CE0</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-7C-0A-00-00-63-E9-C2-E9-95-FE</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Experience">
+        <Cheatline>
+            <Offset>69D7C90</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-80-0A-00-00-FF-E0-F5-05-E9-D1-F6-F5-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins (on get)">
+        <Cheatline>
+            <Offset>69D7D10</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-44-16-00-00-7F-96-98-00-E9-F8-E0-7F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

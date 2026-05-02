@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ys VIII -Lacrimosa of DANA-" Moder="Wander_9.00" Cusa="CUSA08570" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="All Items x99 (on use/discard)">
+        <Cheatline>
+            <Offset>7FC5AC40</Offset>
+            <Section>0</Section>
+            <ValueOn>43-C6-84-66-AC-2C-02-00-63-E9-78-11-6C-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FC5ACA0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-80-7C-24-58-01-75-2B-41-80-7C-24-5C-00-75-23-41-80-BC-24-98-07-00-00-06-75-18-41-80-BC-24-84-0B-00-00-02-75-0D-66-41-C7-84-24-60-10-00-00-00-C0-EB-0A-C4-C1-7A-11-8C-24-60-10-00-00-E9-5D-4D-60-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Experience">
+        <Cheatline>
+            <Offset>7FC5B360</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-80-10-00-00-20-BC-BE-4C-E9-EE-2E-62-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skill Use">
+        <Cheatline>
+            <Offset>7FC5B410</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-84-24-D0-2B-02-00-10-27-00-00-E9-65-66-63-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA10227",
+  "version": "01.15",
+  "name": "Torchlight III",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA10227"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10227_01.15.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA10227_01.15.json",
+      "size": 1291,
+      "sha256": "dc4f2db59211dcea1fc2f06ef7a856fa2b6c0dd9f4636db0a0c03884617d9cb8",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10227_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA10227_01.15.shn",
+      "size": 1492,
+      "sha256": "77c01fd62f3e90c445407b6965b5eabf50e0ecc4e80786d17e9d7cac4a28689b",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10227_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA10227_01.15.mc4",
+      "size": 2008,
+      "sha256": "5a9071d2fc65881a6635e486b694b7b21f280e9f2eb57f8071d15e3d8a926fd6",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA10227_01.15.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

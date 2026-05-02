@@ -1,0 +1,43 @@
+{
+  "name": "Just Die Already",
+  "id": "CUSA25705",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B50DA0",
+          "on": "C687B800000032E9A95315FA",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "CA614F",
+          "on": "E94CACEA0590",
+          "off": "89B7B8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max JDA Ticket (on claim have 2)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "6B50EE0",
+          "on": "66C7473CE7034C8B7F20E9214125FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "DA5009",
+          "on": "E9D2BEDA059090",
+          "off": "01773C4C8B7F20"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

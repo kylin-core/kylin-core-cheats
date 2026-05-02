@@ -1,0 +1,232 @@
+{
+  "name": "Resident Evil 4 Remake",
+  "id": "CUSA33388",
+  "version": "01.11",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3BD92D7",
+          "on": "9090909090",
+          "off": "E864104BFF"
+        },
+        {
+          "offset": "369616D",
+          "on": "9090909090",
+          "off": "E8CE419FFF"
+        },
+        {
+          "offset": "45BB85D",
+          "on": "9090",
+          "off": "FF13"
+        },
+        {
+          "offset": "45BB85D",
+          "on": "9090",
+          "off": "FF13"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Crafting/Items Usage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4035BEA",
+          "on": "909090",
+          "off": "894834"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "403CDEF",
+          "on": "9090909090",
+          "off": "E84CE8FFFF"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Aim",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "99F9FB",
+          "on": "C5FA10D2",
+          "off": "C5FA5DD2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grenades",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "403BAFA",
+          "on": "FFC090",
+          "off": "0F4CC2"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Knife Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "433B659",
+          "on": "45896F30",
+          "off": "45896730"
+        }
+      ]
+    },
+    {
+      "name": "No Damage For Boat",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDC3A20",
+          "on": "41C784248801000026020000E976C62BFA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "608009F",
+          "on": "E97C39D405909090",
+          "off": "41898C2488010000"
+        }
+      ]
+    },
+    {
+      "name": "No Damage For Wagon",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20489CF",
+          "on": "EB38",
+          "off": "7438"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Spinels On Pick Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDC3A80",
+          "on": "0F4FC1C743200F270000E97AA78BF7",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "367E203",
+          "on": "E97858740890",
+          "off": "0F4FC1894320"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Pesetas On Pick Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDC3910",
+          "on": "41C7442410FFC99A3BE92E53ECF7",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "3C88C47",
+          "on": "E9C4AC1308",
+          "off": "4189442410"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite CP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDC3630",
+          "on": "C783A80000003F420F00E91D9734F6",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "210CD55",
+          "on": "E9D668CB099090",
+          "off": "4489BBA8000000"
+        }
+      ]
+    },
+    {
+      "name": "Save always 0",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDC3740",
+          "on": "0F4DC1B8000000004189454CE9E6A495FA",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "671DC30",
+          "on": "E90B5B6A059090",
+          "off": "0F4DC14189454C"
+        }
+      ]
+    },
+    {
+      "name": "Stop Story Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5991B41",
+          "on": "E9CE00000090",
+          "off": "0F84CD000000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3D174A2",
+          "on": "909090909090",
+          "off": "C4C17A114718"
+        }
+      ]
+    },
+    {
+      "name": "Instant Max Mayhen Mode (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "BDC2F40",
+          "on": "8B5034895014C5FA2A4014E913ED6BF6",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "2481C5E",
+          "on": "E9DD129409",
+          "off": "C5F22A4834"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mayhen Mode (Mercenaries)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "472C195",
+          "on": "909090909090",
+          "off": "C4C17A114720"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05011",
+  "version": "01.04",
+  "name": "Monster Boy and the Cursed Kingdom",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05011"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05011_01.04.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05011_01.04.json",
+      "size": 10341,
+      "sha256": "5c982bddb9a92b32eb72d2ae5565c383c5460c833d0659dd90b994580f1ce196",
+      "cheatCount": 27,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05011_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05011_01.04.shn",
+      "size": 9847,
+      "sha256": "9bc557790e6a66442f7a8d808baa3b416947bd9abb43908f7a307ed9cdfbb24a",
+      "cheatCount": 27,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05011_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05011_01.04.mc4",
+      "size": 13144,
+      "sha256": "67ec7ef214ea75c4e30051252e35bebaf10995629f8880c38f0957d5869fcfa1",
+      "cheatCount": 27,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05011_01.04.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

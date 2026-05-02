@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11112",
+  "version": "01.01",
+  "name": "Desperados III",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11112"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11112_01.01.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11112_01.01.json",
+      "size": 1360,
+      "sha256": "b5d3094dd6bc6651d69bbf33431afc3d0e0bf52328b8ff73e55ca2fb31f43d9e",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11112_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11112_01.01.shn",
+      "size": 1372,
+      "sha256": "fed0b1ec8eab607ccec2a13bf54689c3e98c515ceacc8fb2d8f26d33a915bcf8",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11112_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11112_01.01.mc4",
+      "size": 1836,
+      "sha256": "96ac2585b346c6ae4c4a13e8bab67004760456a83872e154b9cdb75af3a694f3",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11112_01.01.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

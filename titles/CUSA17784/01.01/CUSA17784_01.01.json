@@ -1,0 +1,27 @@
+{
+  "name": "Sherlock Holmes Chapter One",
+  "id": "CUSA17784",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Money (on buy)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "744B4E0",
+          "on": "C74008FFE0F5050F84E76E3EF9E94D6E3EF9",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "832336",
+          "on": "E9A591C10690909090",
+          "off": "8948080F8495000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

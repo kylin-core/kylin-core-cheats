@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18201",
+  "version": "01.13",
+  "name": "HITMAN 3",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18201"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18201_01.13.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18201_01.13.json",
+      "size": 930,
+      "sha256": "5431508132ef9642d49b2b8b036ac897f3fe7a793b68d7cbec75f194c4cd538f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18201_01.13.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18201_01.13.shn",
+      "size": 991,
+      "sha256": "0dfe3508d456d4393d53158870e324249a783332497d3bd6d1258ef4d3d56079",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18201_01.13.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18201_01.13.mc4",
+      "size": 1324,
+      "sha256": "923192a1c4f35c7bac34fb51772d36ccd141c74b53dbbfe7cae94ecc57dbb62f",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18201_01.13.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

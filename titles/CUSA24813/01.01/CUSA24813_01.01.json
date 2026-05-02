@@ -1,0 +1,206 @@
+{
+  "name": "Balan Wonderworld",
+  "id": "CUSA24813",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Gems ( must be activated [ MC ] Cheats",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCAB",
+          "on": "4080FE044883F900750290904883F903750290904883F902750290904883F901750290904883F90475029090893C88E9C299E8F7BF0F270000EBF1526564646576696C3832202D20465720392E3030",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "164569A",
+          "on": "E90C6617089090",
+          "off": "4080FE04893C88"
+        },
+        {
+          "offset": "97BBCFA",
+          "on": "89D94883F900750290904883F901750290904883F902750290904883F903750290904883F90475029090833C8800E93491B6F7C704880F270000EBEE",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1324E5B",
+          "on": "E99A6E490890",
+          "off": "89D9833C8800"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1252BAC",
+          "on": "746E",
+          "off": "756E"
+        }
+      ]
+    },
+    {
+      "name": "Max Yellow Gems [ Combat - on gain ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCB5",
+          "on": "EB28",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Purple Gems [ Combat - on gain ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCBD",
+          "on": "EB20",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Red Gems [ Combat - on gain ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCC5",
+          "on": "EB18",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Blue Gems [ Combat - on gain ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCCD",
+          "on": "EB10",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Rainbow Gems [ Combat - on gain ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCD5",
+          "on": "EB08",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Yellow Gems [ Tim Isle - on use ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBD02",
+          "on": "EB29",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Purple Gems [ Tim Isle - on use ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBD1A",
+          "on": "EB11",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Red Gems [ Tim Isle - on use ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBD12",
+          "on": "EB19",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Blue Gems [ Tim Isle - on use ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBD0A",
+          "on": "EB21",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Rainbow Gems [ Tim Isle - on use ] [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBD22",
+          "on": "EB09",
+          "off": "9090"
+        }
+      ]
+    },
+    {
+      "name": "Max Keys",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBC91",
+          "on": "66C787140300006300E9099BE8F7",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "16457A1",
+          "on": "E9EB6417089090",
+          "off": "66898F14030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Costumes + All Costumes Unlocker",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBC80",
+          "on": "89F1C70488630000008B0488E9FF54E4F7",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "160118B",
+          "on": "E9F0AA1B08",
+          "off": "89F18B0488"
+        }
+      ]
+    },
+    {
+      "name": "Max Sub Objective Counter ( on gain )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "97BBCA0",
+          "on": "89B7A8020000E9AF49B7F7",
+          "off": "0000000000000000000000"
+        },
+        {
+          "offset": "1330654",
+          "on": "E947B6480890",
+          "off": "89B7A8020000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

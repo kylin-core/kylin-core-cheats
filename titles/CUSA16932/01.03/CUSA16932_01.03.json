@@ -1,0 +1,123 @@
+{
+  "name": "KATANA KAMI: A Way of the Samurai Story",
+  "id": "CUSA16932",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFA70",
+          "on": "0F4EF2807850017509C740240F270000EB03897024E93D6FA3FE",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "810069C1",
+          "on": "E9AA905C0190",
+          "off": "0F4EF2897024"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFAE0",
+          "on": "4429F2C7402C0F270000E9E51F60FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "80BD1ACE",
+          "on": "E90DE09F0190",
+          "off": "4429F289502C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFD60",
+          "on": "0F4FCBBEE7030000E9A23A60FE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "80BD380A",
+          "on": "E951C59F01",
+          "off": "0F4FCB29CE"
+        }
+      ]
+    },
+    {
+      "name": "99 Items (on use/get have 2 at least)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFB30",
+          "on": "0F84055B92FFC6401463E9A75992FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81EF54DC",
+          "on": "E94FA66D009090909090",
+          "off": "0F845F01000044297014"
+        }
+      ]
+    },
+    {
+      "name": "Max character level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFB80",
+          "on": "0F847AB892FFC74110FFE0F505E960B892FF",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "81EFB3ED",
+          "on": "E98E476D00",
+          "off": "7417015910"
+        }
+      ]
+    },
+    {
+      "name": "Max Sword level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFC60",
+          "on": "448B7B50C7434C9F860100E9C06660FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80BD6328",
+          "on": "E933999F01909090",
+          "off": "448B7B504401634C"
+        }
+      ]
+    },
+    {
+      "name": "Max Safe saving when depositing",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "825CFE90",
+          "on": "035918C74118FFE0F505E918D891FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "81EED6B1",
+          "on": "E9DA276E0090",
+          "off": "035918895918"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

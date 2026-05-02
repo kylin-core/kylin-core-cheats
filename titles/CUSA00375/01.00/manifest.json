@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00375",
+  "version": "01.00",
+  "name": "The Evil Within",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00375"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00375_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00375_01.00.json",
+      "size": 1479,
+      "sha256": "279695d67fb5370abdf34aa61da8c60cc307b0779b1072795b6d004678cbe65f",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00375_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00375_01.00.shn",
+      "size": 1306,
+      "sha256": "a736a6ee4f9af3ceafa90174b12b5e5ebcfeb6c75aeff8c4a3893bf443128e7d",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00375_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00375_01.00.mc4",
+      "size": 1752,
+      "sha256": "31bbf63cec7db6400a6572cb0536eaffe71b6e0b577ab02018e79882bf43acba",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00375_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

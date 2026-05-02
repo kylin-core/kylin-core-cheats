@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rayman Legends" Moder="PS4Guru" Cusa="CUSA00069" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Play A Lv Than Lums Will Double">
+        <Cheatline>
+            <Offset>4F0537</Offset>
+            <Section>0</Section>
+            <ValueOn>41-03-4C-24-6C-41-89-8E</ValueOn>
+            <ValueOff>41-8B-4C-24-6C-41-89-8E</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lucky Tickets Will Double Every Spend">
+        <Cheatline>
+            <Offset>5163BC</Offset>
+            <Section>0</Section>
+            <ValueOn>01-87-64-03-00-00-C3-66</ValueOn>
+            <ValueOff>89-87-64-03-00-00-C3-66</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,102 @@
+{
+  "name": "Assassins Creed? Syndicate",
+  "id": "CUSA02378",
+  "version": "01.52",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5943800",
+          "on": "4839C175038B77048937C390",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "18D1890",
+          "on": "E96B1F07049090909090909090909090",
+          "off": "8937C3666666662E0F1F840000000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "594387B",
+          "on": "41C74424283F420F00E9372157FC",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "1EB59BB",
+          "on": "E9BBDEA803",
+          "off": "4189442428"
+        }
+      ]
+    },
+    {
+      "name": "Inf Resources",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "594388B",
+          "on": "66C747280F27B001C3",
+          "off": "000000000000000000"
+        },
+        {
+          "offset": "1EBFF0B",
+          "on": "E97B39A803",
+          "off": "894728B001"
+        }
+      ]
+    },
+    {
+      "name": "Inf Ammo / No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EBF9D9",
+          "on": "41894628",
+          "off": "45897E28"
+        },
+        {
+          "offset": "1575A7D",
+          "on": "FFC290",
+          "off": "0F44D1"
+        }
+      ]
+    },
+    {
+      "name": "Inf Bombs",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EB59BB",
+          "on": "4189542428",
+          "off": "4189442428"
+        }
+      ]
+    },
+    {
+      "name": "Max Skill Point (On Spend)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5943896",
+          "on": "41C7442408FF000000418B7C240831C0E9CB630BFC",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "19F9C71",
+          "on": "E9209CF403",
+          "off": "418B7C2408"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

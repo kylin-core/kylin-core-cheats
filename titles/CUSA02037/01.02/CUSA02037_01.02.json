@@ -1,0 +1,168 @@
+{
+  "name": "Dark Cloud 2",
+  "id": "CUSA02037",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite and Max HP Maximillian",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081A229FC",
+          "on": "00C07944",
+          "off": "00C07944"
+        },
+        {
+          "offset": "8081A229F8",
+          "on": "00C07944",
+          "off": "00C07944"
+        }
+      ]
+    },
+    {
+      "name": "Infinite and Max HP Monica",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081A22D88",
+          "on": "00C07944",
+          "off": "00C07944"
+        },
+        {
+          "offset": "8081A22D84",
+          "on": "00C07944",
+          "off": "00C07944"
+        }
+      ]
+    },
+    {
+      "name": "Infinite and Max HP Ripepop",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081A23134",
+          "on": "00C07944",
+          "off": "00C07944"
+        },
+        {
+          "offset": "8081A23130",
+          "on": "00C07944",
+          "off": "00C07944"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Glida",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081A6384C",
+          "on": "7F969800",
+          "off": "7F969800"
+        }
+      ]
+    },
+    {
+      "name": "Glida Tons of idea Photos",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "807FCFF000",
+          "on": "E201033C",
+          "off": "E201033C"
+        },
+        {
+          "offset": "807FCFF004",
+          "on": "E8696334",
+          "off": "E8696334"
+        },
+        {
+          "offset": "807FCFF008",
+          "on": "FF000124",
+          "off": "FF000124"
+        },
+        {
+          "offset": "807FCFF00C",
+          "on": "04000624",
+          "off": "04000624"
+        },
+        {
+          "offset": "807FCFF010",
+          "on": "000066AC",
+          "off": "000066AC"
+        }
+      ]
+    },
+    {
+      "name": "Unlock all time portals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081A03218",
+          "on": "7F000000",
+          "off": "7F000000"
+        }
+      ]
+    },
+    {
+      "name": "Unlock and Clear all dungeons levels",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8081A1DE0C",
+          "on": "0500A200",
+          "off": "0500A200"
+        },
+        {
+          "offset": "80813FA320",
+          "on": "006967D2",
+          "off": "006967D2"
+        },
+        {
+          "offset": "8081A1DE10",
+          "on": "0500A200",
+          "off": "0500A200"
+        },
+        {
+          "offset": "807FC10000",
+          "on": "00000000",
+          "off": "00000000"
+        },
+        {
+          "offset": "807FCFF018",
+          "on": "04006324",
+          "off": "04006324"
+        },
+        {
+          "offset": "807FCFF01C",
+          "on": "0100C624",
+          "off": "0100C624"
+        },
+        {
+          "offset": "807FCFF020",
+          "on": "FFFF2124",
+          "off": "FFFF2124"
+        },
+        {
+          "offset": "807FCFF024",
+          "on": "FAFF0114",
+          "off": "FAFF0114"
+        },
+        {
+          "offset": "807FCFF02C",
+          "on": "C8850408",
+          "off": "C8850408"
+        },
+        {
+          "offset": "807FD21710",
+          "on": "00FC0308",
+          "off": "00FC0308"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "W"
+  ]
+}

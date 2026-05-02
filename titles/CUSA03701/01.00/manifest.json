@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03701",
+  "version": "01.00",
+  "name": "fallout 4",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03701"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA03701_01.00.mc4.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03701_01.00.json",
+      "size": 1721,
+      "sha256": "197bb672d56f6324b379f378b84bbe0cec0e5fafac75a17773a36a1039000db3",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA03701_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03701_01.00.shn",
+      "size": 1800,
+      "sha256": "623215c66aaa9e2955b3f00ddf354ab2534b7f28c93da872e6c231bb924fae76",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA03701_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03701_01.00.mc4",
+      "size": 2412,
+      "sha256": "f1ac4f6d88e1cdc8946eb8283e1ab6dce060aceb42f1e6c3a3f9a227f348194e",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: mc4/CUSA03701_01.00.mc4.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

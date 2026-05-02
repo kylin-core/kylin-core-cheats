@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA16163",
+  "version": "01.01",
+  "name": "Bayonetta",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA16163"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16163_01.01.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA16163_01.01.json",
+      "size": 12271,
+      "sha256": "c158eed8ab8bec292d8d324b02c4593b0925db194e27e6c7d6abea96dd5564e7",
+      "cheatCount": 35,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16163_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA16163_01.01.shn",
+      "size": 11377,
+      "sha256": "a7bdc1f65bad5b2c45c57b0c836e2c9f394abd7ddafe62f72910df7a3a730284",
+      "cheatCount": 35,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16163_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA16163_01.01.mc4",
+      "size": 15192,
+      "sha256": "23ec160e58ce7c3e0272dbb9bffe357298a647776aeb80885eb50cd00ec6c9a3",
+      "cheatCount": 35,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16163_01.01.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

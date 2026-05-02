@@ -1,0 +1,91 @@
+{
+  "name": "Crocs World Run",
+  "id": "CUSA15406",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2727DB0",
+          "on": "41BE630000004589B744080000E97927A8FD526564646576696C3832202D20465720392E3030",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AA534",
+          "on": "E977D857029090",
+          "off": "4D63B744080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2727DD6",
+          "on": "41C7865808000000C07944E909CCA6FD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1949E6",
+          "on": "E9EB33590290909090",
+          "off": "F3410F118658080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gems",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2727DE6",
+          "on": "41C7874008000063000000E94801ACFD",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "1E7F37",
+          "on": "E9AAFE53029090",
+          "off": "41898740080000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stars - [ Stage ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2727DF6",
+          "on": "B803000000418987180C0000E9A329A8FD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1AA7A3",
+          "on": "E94ED657029090",
+          "off": "496387180C0000"
+        }
+      ]
+    },
+    {
+      "name": "Max Stars [ World Map ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2727E07",
+          "on": "B8B4000000418987140C0000E99A00AAFD",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1C7EAB",
+          "on": "E957FF55029090",
+          "off": "496387140C0000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

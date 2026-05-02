@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA00433",
+  "version": "01.40",
+  "name": "Diablo III: Reaper of Souls – Ultimate Evil Edition",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA00433"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00433_01.40.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA00433_01.40.json",
+      "size": 4919,
+      "sha256": "d112aa36a002117d9d9dd1b8cdb1e93f1305ec4cd35d98489936eecac7f2aeda",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00433_01.40.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA00433_01.40.shn",
+      "size": 4868,
+      "sha256": "b49ed6608fdd69251d7e0fe7e1c446881d9310dcadb8845502d331d037b0f5b0",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00433_01.40.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA00433_01.40.mc4",
+      "size": 6508,
+      "sha256": "76a7a0fd2a9377c69f28629498dce925a46ed1a785cd2c77cbbcd1aa0b4104da",
+      "cheatCount": 12,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA00433_01.40.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

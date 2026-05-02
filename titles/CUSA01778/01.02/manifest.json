@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01778",
+  "version": "01.02",
+  "name": "Dead or Alive 5 - Last Round",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01778"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01778_01.02.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01778_01.02.json",
+      "size": 1156,
+      "sha256": "14621978b24715370a843f81570f90442818d621b62aed400983cca4fcb4a8f2",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01778_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01778_01.02.shn",
+      "size": 1495,
+      "sha256": "cfd7afb4aa7851868de23149dd92206c606b752b4785d0ef29899c7c0ace0543",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01778_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01778_01.02.mc4",
+      "size": 2008,
+      "sha256": "46e8bf03a6dd9cdad541029c7d7c8e354e9d993950a353f937f68b2f620ff485",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA01778_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

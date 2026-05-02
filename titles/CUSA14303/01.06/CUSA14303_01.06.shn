@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Legrand Legacy Tale of the Fatebounds" Moder="Aran" Cusa="CUSA14303" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite item">
+        <Cheatline>
+            <Offset>152D5B0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-74-24-F4-BE-63-00-00-00-89-77-18-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Gold">
+        <Cheatline>
+            <Offset>152D5C0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-74-24-F4-BE-99-99-99-09-89-77-20-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Exp x4">
+        <Cheatline>
+            <Offset>152D5D0</Offset>
+            <Section>0</Section>
+            <ValueOn>01-F6-01-F6-89-B7-9C-00-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Exp x16 ">
+        <Cheatline>
+            <Offset>152D5D0</Offset>
+            <Section>0</Section>
+            <ValueOn>01-F6-01-F6-01-F6-01-F6-89-B7-9C-00-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Exp x8">
+        <Cheatline>
+            <Offset>152D5D0</Offset>
+            <Section>0</Section>
+            <ValueOn>01-F6-01-F6-01-F6-90-89-B7-9C-00-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Exp x2">
+        <Cheatline>
+            <Offset>152D5D0</Offset>
+            <Section>0</Section>
+            <ValueOn>01-F6-89-B7-9C-00-00-00-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

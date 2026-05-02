@@ -1,0 +1,76 @@
+{
+  "name": "MERCENARY-KINGS",
+  "id": "CUSA00324",
+  "version": "01.05",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health-(mc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2CAF800",
+          "on": "837B140075088B430CE9DE90A6FD898390010000E9D390A6FD",
+          "off": "00000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "7188E6",
+          "on": "E9156F590290",
+          "off": "898390010000"
+        }
+      ]
+    },
+    {
+      "name": "Inf-Ammo-Never-Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "393EBD",
+          "on": "909090",
+          "off": "894348"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-lives",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1DA6C1",
+          "on": "909090",
+          "off": "FF4820"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-Time",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2A9511",
+          "on": "9090909090909090",
+          "off": "F30F118B84000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite-money-($)-(MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2132AF",
+          "on": "9090909090",
+          "off": "F30F114060"
+        },
+        {
+          "offset": "1A7997",
+          "on": "9090909090",
+          "off": "F30F114D60"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

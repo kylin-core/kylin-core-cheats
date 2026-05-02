@@ -1,0 +1,27 @@
+{
+  "name": "WWE 2K18",
+  "id": "CUSA08357",
+  "version": "01.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Finisher after use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2DD7800",
+          "on": "C7431CE7030000E934540DFE90",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "EACC3B",
+          "on": "E9C0ABF201",
+          "off": "29C1894B1C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "DreamRunner"
+  ]
+}

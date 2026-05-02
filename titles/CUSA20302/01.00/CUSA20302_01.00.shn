@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="New Super Luckys Tale" Moder="Reddevil82 " Cusa="CUSA20302" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Mastercode Coins/Lives ( must be activated )">
+        <Cheatline>
+            <Offset>1F13800</Offset>
+            <Section>0</Section>
+            <ValueOn>41-83-FF-01-75-0B-C5-FA-11-44-88-20-E9-13-81-5D-FF-41-83-FF-04-75-0B-C5-FA-11-44-88-20-E9-02-81-5D-FF-C5-FA-11-44-88-20-E9-F7-80-5D-FF-C7-44-88-20-7F-96-18-4B-C3-C7-44-88-20-00-00-C6-42-C3</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Coins ( on gain ) [MC]">
+        <Cheatline>
+            <Offset>1F13806</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-22-00-00-00-90</ValueOn>
+            <ValueOff>C5-FA-11-44-88-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Lives [MC]">
+        <Cheatline>
+            <Offset>1F13817</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-1A-00-00-00-90</ValueOn>
+            <ValueOff>C5-FA-11-44-88-20</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Hearts">
+        <Cheatline>
+            <Offset>1583E00</Offset>
+            <Section>0</Section>
+            <ValueOn>45-85-E4-41-BE-03-00-00-00-44-89-70-20-E9-32-30-FF-7E</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

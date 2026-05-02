@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA16978",
+  "version": "01.00",
+  "name": "Trials of Mana",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA16978"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16978_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA16978_01.00.json",
+      "size": 1970,
+      "sha256": "4f3b4603e35927acdf38a0912e26f88507e9166aceb846f9b4600de27b088c60",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16978_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA16978_01.00.shn",
+      "size": 1947,
+      "sha256": "2147ea03dfd2061fe9a69b4adb46bd6d2e989ed6500e24d080594af7dd6e85d8",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16978_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA16978_01.00.mc4",
+      "size": 2604,
+      "sha256": "025558ea8c5a7e1d1bbe52ba4c4147899a6a7b4556546b4b16b31345cac4fb52",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA16978_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

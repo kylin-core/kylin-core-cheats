@@ -1,0 +1,135 @@
+{
+  "name": "Weird West",
+  "id": "CUSA17598",
+  "version": "01.17",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B4940",
+          "on": "4183BE8801000000750A4183BE8C01000000740FC4C1782E8690010000E97AB6A2FA9041C78690010000003C1C46C4C1782E8690010000E960B6A2FA",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10DFFD3",
+          "on": "E968495D0590909090",
+          "off": "C4C1782E8690010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite AP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B49A0",
+          "on": "8B8BEC000000898BF0000000E9BD11A4FA90",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "10F5B68",
+          "on": "E933EE5B0590",
+          "off": "898BF0000000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bullets",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1339974",
+          "on": "898BF803000090",
+          "off": "4429A3F8030000"
+        }
+      ]
+    },
+    {
+      "name": "Stop Decreasing Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "112F633",
+          "on": "909090909090",
+          "off": "29B798010000"
+        }
+      ]
+    },
+    {
+      "name": "99 Basic Items get / spend / transfer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B49D0",
+          "on": "BB63000000895C0808488D3408E9DDE2A6FA",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1122CB7",
+          "on": "E9141D5905909090",
+          "off": "015C0808488D3408"
+        }
+      ]
+    },
+    {
+      "name": "99 Items get / drop / transfer (wep/utility/etc)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B4A00",
+          "on": "42C744360863000000428B4C3608E9AF24A7FA90",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1126EBD",
+          "on": "E93EDB5805",
+          "off": "428B4C3608"
+        }
+      ]
+    },
+    {
+      "name": "Money (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B4A30",
+          "on": "C783D80000003F420F008B83D8000000E91059A7FA90C783E00000003F420F00E90059A7FA90C783E40000003F420F00E9F058A7FA",
+          "off": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "112A34F",
+          "on": "E9DCA6580590",
+          "off": "8B83D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Nimp Relics (MC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B4A40",
+          "on": "EB04909090",
+          "off": "E91059A7FA"
+        }
+      ]
+    },
+    {
+      "name": "Golden Aces of Spades (Need MC and MC1)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66B4A50",
+          "on": "EB04909090",
+          "off": "E90059A7FA"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

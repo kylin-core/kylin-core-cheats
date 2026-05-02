@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA05848",
+  "version": "01.00",
+  "name": "Far CryВ® 5",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA05848"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05848_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA05848_01.00.json",
+      "size": 833,
+      "sha256": "0e3413287b62d1b4f1de7e1fb9a7b787fedebe9c985ca07a70b15d83edc9e46b",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05848_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA05848_01.00.shn",
+      "size": 1124,
+      "sha256": "e90d8326099cd029a1444085f94cf48f74147fae08e2dd225b9e0f1e089417d1",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05848_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA05848_01.00.mc4",
+      "size": 1516,
+      "sha256": "d3252121b5a9846d899127f07dc1c4f6961de68d6a7bf9e67b98cf7194b994ff",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA05848_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

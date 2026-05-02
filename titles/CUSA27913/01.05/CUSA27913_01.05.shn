@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gungrave G.O.R.E" Moder="WanderFW9.00" Cusa="CUSA27913" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>5D53CD0</Offset>
+            <Section>0</Section>
+            <ValueOn>80-BB-98-01-00-00-00-75-0C-C7-83-90-05-00-00-10-27-00-00-EB-06-89-83-90-05-00-00-E9-A1-45-F3-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Shield">
+        <Cheatline>
+            <Offset>5D53C80</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-04-0A-00-00-00-40-9C-45-E9-E9-60-FE-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Special Attack Bar">
+        <Cheatline>
+            <Offset>5D53D10</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-A0-05-00-00-00-40-1C-46-E9-65-4F-F3-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Growth Points">
+        <Cheatline>
+            <Offset>5D53D50</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-64-7F-96-98-00-E9-36-F1-0F-FB</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

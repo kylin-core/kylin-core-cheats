@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06447",
+  "version": "01.00",
+  "name": "Euro Fishing",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06447"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06447_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06447_01.00.json",
+      "size": 678,
+      "sha256": "a61dfcbb7261148e69c0a951529863a145ee056adefc6ffaf7e9b271331941de",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06447_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06447_01.00.shn",
+      "size": 893,
+      "sha256": "58407beea091d5496a8c6ea6bdce7fdd3f66d0201d0b8b35ac5c14cd0dbee428",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06447_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06447_01.00.mc4",
+      "size": 1196,
+      "sha256": "a2fc956a89d4063837c2054f3a66eabdc27d32832620cb27d3e2e8e053daeb98",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06447_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

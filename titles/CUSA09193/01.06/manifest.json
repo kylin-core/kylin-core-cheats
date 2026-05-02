@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA09193",
+  "version": "01.06",
+  "name": "RESIDENT EVIL 2",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA09193"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09193_01.06.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA09193_01.06.json",
+      "size": 1340,
+      "sha256": "d352b352ed8dcaf2663657decd5d653f5691582d2e4e1daaa04499d24407a678",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09193_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA09193_01.06.shn",
+      "size": 1520,
+      "sha256": "ec57a364fc47ec8d4de3fe44d52079b91e9d95d2bcde65548f04bdd682ee245a",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09193_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA09193_01.06.mc4",
+      "size": 2048,
+      "sha256": "4fe0dd7504d681bf6f5dae1b81b2a52f1ed0f37bc6eec0ebc2310279305e7ed5",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA09193_01.06.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

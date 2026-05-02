@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA47038",
+  "version": "01.03",
+  "name": "Metaphor ReFantazio",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA47038"
+  ],
+  "updatedAt": "2026-05-02T10:01:34Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA47038_01.03.json. Other candidate files skipped: 1.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA47038_01.03.json",
+      "size": 12956,
+      "sha256": "28ea53d83494950440e41fe30dd20f5e9cc7821b4546aab38bff78adea36ce9b",
+      "cheatCount": 34,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA47038_01.03.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA47038_01.03.shn",
+      "size": 11381,
+      "sha256": "9d26b4e9c1ac35eec515c8add802ec2a6bc67d03e9d5eccf306171a2495bd10c",
+      "cheatCount": 34,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA47038_01.03.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA47038_01.03.mc4",
+      "size": 15192,
+      "sha256": "270e469795e8e78d05119f667d5d6acc9d600c6a72f1516f90e8853bbac06b88",
+      "cheatCount": 34,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA47038_01.03.json. Other candidate files skipped: 1.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Green Hell" Moder="aran" Cusa="CUSA26546" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Inf Stamina">
+        <Cheatline>
+            <Offset>C76426</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-4E-2C</ValueOn>
+            <ValueOff>C4-C1-7A-11-46-2C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf HP">
+        <Cheatline>
+            <Offset>C76EE1</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-58-C1</ValueOn>
+            <ValueOff>C5-FA-5D-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Water">
+        <Cheatline>
+            <Offset>C78FB2</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F2-58-C8</ValueOn>
+            <ValueOff>C5-F2-5D-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Carbohydrate">
+        <Cheatline>
+            <Offset>C77921</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F2-58-C8</ValueOn>
+            <ValueOff>C5-F2-5D-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Proteins">
+        <Cheatline>
+            <Offset>C77BEF</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F2-58-C8</ValueOn>
+            <ValueOff>C5-F2-5D-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="FAT">
+        <Cheatline>
+            <Offset>C77A8C</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F2-58-C8</ValueOn>
+            <ValueOff>C5-F2-5D-C8</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

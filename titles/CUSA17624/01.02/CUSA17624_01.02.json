@@ -1,0 +1,22 @@
+{
+  "name": "infinite-Beyond-the-mind",
+  "id": "CUSA17624",
+  "version": "01.02",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "21E0AE",
+          "on": "9090909090",
+          "off": "E83D01E2FF"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "name": "Crash Bandicoot 4",
+  "id": "CUSA23511",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Hp",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F37203",
+          "on": "C683700100000180BB7001000003E95818C8FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BB8A67",
+          "on": "E997E737049090",
+          "off": "80BB7001000003"
+        }
+      ]
+    },
+    {
+      "name": "0 Death",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371E3",
+          "on": "BE0000000089B7A8050000E9B728D3FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "C69AA4",
+          "on": "E93AD72C0490",
+          "off": "01B7A8050000"
+        }
+      ]
+    },
+    {
+      "name": "Inf Jump",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "19A7C0",
+          "on": "90909090909090",
+          "off": "41FF8638030000"
+        }
+      ]
+    },
+    {
+      "name": "Jump High",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "02C8B765",
+          "on": "C5CA590DA301ACFD90",
+          "off": "C4C14A588ECC000000"
+        }
+      ]
+    },
+    {
+      "name": "Invincible",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4DE9F27",
+          "on": "C683700100000380BB7001000003E934EBDCFB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BB8A67",
+          "on": "E9BB1423049090",
+          "off": "80BB7001000003"
+        }
+      ]
+    },
+    {
+      "name": "Speed Hack x2",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F3721F",
+          "on": "F30F59059180CDFB",
+          "off": "F30F5905FDA1CCFB"
+        }
+      ]
+    },
+    {
+      "name": "Speed Hack x3",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F3721F",
+          "on": "F30F5905BD55E7FC",
+          "off": "F30F5905FDA1CCFB"
+        }
+      ]
+    },
+    {
+      "name": "x10 Boxes When Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371D2",
+          "on": "83C60901B738040000909090E9E91CD3FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "C68EC6",
+          "on": "E907E32C0490",
+          "off": "01B738040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Boxes When Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371D2",
+          "on": "8BB73004000089B738040000E9E91CD3FB",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "C68EC6",
+          "on": "E907E32C0490",
+          "off": "01B738040000"
+        }
+      ]
+    },
+    {
+      "name": "x10 Wumpa When Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371BF",
+          "on": "4183C10945018D00040000909090E9774DE2FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D5BF42",
+          "on": "E978B21D049090",
+          "off": "45018D00040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Wumpa When Get",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371BF",
+          "on": "458B8D0404000045898D00040000E9774DE2FB",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D5BF42",
+          "on": "E978B21D049090",
+          "off": "45018D00040000"
+        }
+      ]
+    },
+    {
+      "name": "Time Trial Extra 5 sec for each box",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371F3",
+          "on": "41BC05000000C4C17A2AC4E9888FE2FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D60186",
+          "on": "E968701D04",
+          "off": "C4C17A2AC4"
+        }
+      ]
+    },
+    {
+      "name": "Time Trial Extra 10 sec for each box",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "04F371F3",
+          "on": "41BC0A000000C4C17A2AC4E9888FE2FB",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "D60186",
+          "on": "E968701D04",
+          "off": "C4C17A2AC4"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

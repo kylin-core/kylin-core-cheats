@@ -1,0 +1,22 @@
+{
+  "name": "Granblue Fantasy Link",
+  "id": "CUSA34766",
+  "version": "01.31",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "813253",
+          "on": "C5F25CC0",
+          "off": "C5EA5CC0"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "d01v"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Rogue Legacy 2",
+  "id": "CUSA42371",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822CFC50",
+          "on": "80BF7401000002750FC78758010000003C1C46E970E884FEC5FA118758010000C3",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80B1E4D0",
+          "on": "E97B177B01909090",
+          "off": "C5FA118758010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822CFCD0",
+          "on": "41C7842418030000003C1C46E902522BFE",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "80584ED9",
+          "on": "E9F2ADD4019090909090",
+          "off": "C4C17A11842418030000"
+        }
+      ]
+    },
+    {
+      "name": "Max Gold(on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822CFBF0",
+          "on": "4401EBC740407F969800E90D163EFE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "806B1206",
+          "on": "E9E5E9C10190",
+          "off": "4401EB895840"
+        }
+      ]
+    },
+    {
+      "name": "Max Iron Bars (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822CFD30",
+          "on": "488B00C74054FFE0F505E9BBD232FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "805FCFF3",
+          "on": "E9382DCD019090",
+          "off": "488B0044017054"
+        }
+      ]
+    },
+    {
+      "name": "Max Blood (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822CFD80",
+          "on": "488B00C74058FFE0F505E98BE450FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "807DE213",
+          "on": "E9681BAF019090",
+          "off": "488B0044017058"
+        }
+      ]
+    },
+    {
+      "name": "Max Souls (on get)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "822CFDF0",
+          "on": "41C78690000000FFE0F505E9083D5FFE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "808C3B01",
+          "on": "E9EAC2A0019090",
+          "off": "41898690000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Wander FW9.00"
+  ]
+}

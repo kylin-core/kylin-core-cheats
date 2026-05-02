@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA12779",
+  "version": "01.05",
+  "name": "Little Nightmares II",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA12779"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12779_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA12779_01.05.json",
+      "size": 2461,
+      "sha256": "26cbc498b2b24044601abea7842526fede8bce652f2496d3fab1b2be890b5943",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12779_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA12779_01.05.shn",
+      "size": 2352,
+      "sha256": "d3440a196ad40aa9aeaa91bed83ff199177b70299abe947db45d96666726c53d",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12779_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA12779_01.05.mc4",
+      "size": 3160,
+      "sha256": "f72800211d2ad7136ef19249fdc292f732197ce75dd355a95215c58f55e159fa",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA12779_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

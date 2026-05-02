@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="fbin, LMN & JustGotenks, merge and trad cheats by Chronoss" Cusa="CUSA18008" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>544B69F</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-F8-2E-D0</ValueOn>
+            <ValueOff>C5-F8-2E-C1</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>7FC5D0F0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-44-24-4C-63-00-00-00-E9-80-F5-4B-83</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite money">
+        <Cheatline>
+            <Offset>7FC5F020</Offset>
+            <Section>0</Section>
+            <ValueOn>01-D1-41-C7-47-48-FF-E0-F5-05-E9-D5-E3-48-83</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="infinite items">
+        <Cheatline>
+            <Offset>7FC5ECE0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-29-5C-24-4C-41-C7-44-24-4C-63-00-00-00-E9-8B-D9-4B-83</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rose - Infinite Magic">
+        <Cheatline>
+            <Offset>7FC5F0A0</Offset>
+            <Section>0</Section>
+            <ValueOn>85-F6-C7-42-14-E7-03-00-00-E9-8F-D0-65-86</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rose - Infinite Plants">
+        <Cheatline>
+            <Offset>7FC5D2A0</Offset>
+            <Section>0</Section>
+            <ValueOn>44-29-E1-C7-40-4C-63-00-00-00-E9-BB-FF-4B-83</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Info crafting materials by LMN">
+        <Cheatline>
+            <Offset>54AB9F1</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-4A-13-C7-FD</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf white flower and First Aid Med usage by LMN">
+        <Cheatline>
+            <Offset>62C04DA</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90</ValueOn>
+            <ValueOff>FF-90-70-06-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Inf Pipe Bombs by LMN">
+        <Cheatline>
+            <Offset>3110583</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>E8-38-BA-BF-02</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Godmode by JustGotenks">
+        <Cheatline>
+            <Offset>544B6A3</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-F0-39-D5-05-90-90</ValueOn>
+            <ValueOff>C5-FA-11-48-14-72-0A</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="One-hit Kill by JustGotenks">
+        <Cheatline>
+            <Offset>544B695</Offset>
+            <Section>0</Section>
+            <ValueOn>E9-4E-3A-D5-05</ValueOn>
+            <ValueOff>C5-F2-5C-4D-D4</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload by JustGotenks">
+        <Cheatline>
+            <Offset>4A98FA6</Offset>
+            <Section>0</Section>
+            <ValueOn>B9-00-00-00-00</ValueOn>
+            <ValueOff>B9-01-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,306 @@
+{
+  "name": "Dying Light Definitive Edition",
+  "id": "CUSA02010",
+  "version": "01.47",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode (you Can Grabbed)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "34BA56",
+          "on": "909090909090",
+          "off": "FF90A8000000"
+        },
+        {
+          "offset": "D802D2",
+          "on": "909090909090",
+          "off": "FF90B80D0000"
+        },
+        {
+          "offset": "C4DA6B",
+          "on": "909090909090",
+          "off": "FF90B80D0000"
+        },
+        {
+          "offset": "D8AA02",
+          "on": "909090909090",
+          "off": "FF90B80D0000"
+        },
+        {
+          "offset": "D8E304",
+          "on": "909090909090",
+          "off": "FF90B80D0000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C5695F",
+          "on": "9090909090909090",
+          "off": "C5FA118334120000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20134C0",
+          "on": "41C7456C00000000E958252CFE",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2D5A1F",
+          "on": "E99CDAD30190",
+          "off": "C4C17A11456C"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Endurance (For Fight)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D92F2F",
+          "on": "9090909090",
+          "off": "C5FA114310"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Breathe (For Run)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D832FA",
+          "on": "9090909090",
+          "off": "C5FA114314"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items/Throwables/Craft",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "760098",
+          "on": "41883F",
+          "off": "458937"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo/Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2013960",
+          "on": "0F882E04D6FE41BF64000000448939E9F504D6FE",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "D73E60",
+          "on": "E9FBFA290190909090",
+          "off": "0F8834FFFFFF448939"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E4CD4A",
+          "on": "9090909090",
+          "off": "E8F13291FF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Weapons Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2013870",
+          "on": "C7430400C07944E944CC74FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7604BB",
+          "on": "E9B0338B01",
+          "off": "C5FA114B04"
+        }
+      ]
+    },
+    {
+      "name": "Infinite UV Flashlight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "D281BF",
+          "on": "90909090",
+          "off": "C5FA110F"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Camouflage Duration",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20135A0",
+          "on": "C743140000C842E99BAFD6FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "D7E542",
+          "on": "E959502901",
+          "off": "C5FA114314"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Grappling Hook",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "E249B4",
+          "on": "909090909090",
+          "off": "C4C17A114640"
+        }
+      ]
+    },
+    {
+      "name": "Stop Time Missions",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4B4777",
+          "on": "9090909090",
+          "off": "C5FA1140D8"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Money",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2013A20",
+          "on": "0F4ED1C7473CFFC99A3BE9D2F7D5FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D731FB",
+          "on": "E920082A0190",
+          "off": "0F4ED189573C"
+        },
+        {
+          "offset": "2013A70",
+          "on": "4429F8C7473CFFC99A3BE9DBF9D5FE",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "D73454",
+          "on": "E917062A0190",
+          "off": "4429F889473C"
+        }
+      ]
+    },
+    {
+      "name": "Max XP/Levels/Rank/All Skill Points On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2013C80",
+          "on": "4584E4C700FFC99A3BE99C20CCFE",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "CD5D24",
+          "on": "E957DF330190",
+          "off": "4584E4488908"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Nitro (Buggy/The Following)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2013500",
+          "on": "C7471000004843C5FA104710E91C3015FF",
+          "off": "0000000000000000000000000000000000"
+        },
+        {
+          "offset": "1166528",
+          "on": "E9D3CFEA00",
+          "off": "C5FA104710"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fuel (Buggy/The Following)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2012DF0",
+          "on": "C783400300000000E040E91AD413FF",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1150211",
+          "on": "E9DA2BEC00909090",
+          "off": "C5FA118340030000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Eletric Cage/UV SafeZone/Car Alarm (Buggy/The Following)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "116F5DE",
+          "on": "C5FA105318",
+          "off": "C5FA115318"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Flamethrower(Buggy/The Following)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1161D86",
+          "on": "909090909090",
+          "off": "C4C17A11461C"
+        }
+      ]
+    },
+    {
+      "name": "No Damage To Vehicle Parts (Buggy/The Following)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "20138A0",
+          "on": "C7430400C07944E914CC74FE",
+          "off": "000000000000000000000000"
+        },
+        {
+          "offset": "7604BB",
+          "on": "E9E0338B01",
+          "off": "C5FA114B04"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

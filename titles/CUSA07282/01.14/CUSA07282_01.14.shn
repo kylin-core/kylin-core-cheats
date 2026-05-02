@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sundered" Moder="Saso" Cusa="CUSA07282" Version="01.14" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Health / 1 Hit (Master Code)">
+        <Cheatline>
+            <Offset>13E3800</Offset>
+            <Section>0</Section>
+            <ValueOn>83-7B-28-28-75-05-C5-FA-10-4B-44-C5-FA-11-8B-80-00-00-00-E9-E5-06-5A-7F-C5-F0-57-C9-EB-ED</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="1 Hit Kill">
+        <Cheatline>
+            <Offset>13E3804</Offset>
+            <Section>0</Section>
+            <ValueOn>75-12</ValueOn>
+            <ValueOff>75-05</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Stamina">
+        <Cheatline>
+            <Offset>13E381E</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-28-C5-FA-11-4B-3C-E9-42-FA-A2-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Shield">
+        <Cheatline>
+            <Offset>13E384D</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-4B-38-C5-FA-11-4B-7C-E9-E3-2C-98-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Finisher (After 1st Use)">
+        <Cheatline>
+            <Offset>13E382D</Offset>
+            <Section>0</Section>
+            <ValueOn>B8-0C-00-00-00-41-89-46-70-E9-DF-BA-63-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Shard">
+        <Cheatline>
+            <Offset>13E383B</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BF-3F-42-0F-00-44-89-78-24-45-29-E7-E9-74-B9-78-7F</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

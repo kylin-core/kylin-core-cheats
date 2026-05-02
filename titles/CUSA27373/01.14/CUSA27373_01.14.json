@@ -1,0 +1,86 @@
+{
+  "name": "The Callisto Protocol",
+  "id": "CUSA27373",
+  "version": "01.14",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max/Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73F3DB0",
+          "on": "80BBC4010000107515C5FA10931C010000C5FA119318010000E9D9A83DFBC5FA119318010000E9CCA83DFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "27CE69F",
+          "on": "E90C57C204909090",
+          "off": "C5FA119318010000"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73F3E10",
+          "on": "4183BC24C4010000107408C744242000401C46C4C17A108C2418010000E9CBAF0CFB",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "24BEDF3",
+          "on": "E91850F3049090909090",
+          "off": "C4C17A108C2418010000"
+        }
+      ]
+    },
+    {
+      "name": "No Reload",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25D72DF",
+          "on": "9090909090",
+          "off": "E84CE5FDFF"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite GRP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "73F3C30",
+          "on": "C4C17A109FBC000000E9B3C91BFB",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "25B05E8",
+          "on": "E94336E40490909090",
+          "off": "C4C17A119FB8000000"
+        }
+      ]
+    },
+    {
+      "name": "Max/Infinite Callisto Credits",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "25CA651",
+          "on": "8979F8",
+          "off": "8971F8"
+        },
+        {
+          "offset": "25C2662",
+          "on": "43897C2510",
+          "off": "4329542510"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

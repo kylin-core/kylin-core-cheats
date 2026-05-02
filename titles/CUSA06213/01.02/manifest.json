@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA06213",
+  "version": "01.02",
+  "name": "UP1195-CUSA06213_00-THEDEERGODPS4000",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA06213"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06213_01.02.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA06213_01.02.json",
+      "size": 2077,
+      "sha256": "c99e9a94309c84d4011dbd26b66f5a30de9d5db1d1d4a74a8ca3c8d459f8d9a5",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06213_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA06213_01.02.shn",
+      "size": 2073,
+      "sha256": "235368f31180796e712acad65bd28a50e6a50a2a0a85e210aeb61e4499ef0f9a",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06213_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA06213_01.02.mc4",
+      "size": 2776,
+      "sha256": "7ff8cce1235a2b0db0fcc954f30c45d60e547f3d7d9ab0c93fd534aeddab2f9a",
+      "cheatCount": 6,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA06213_01.02.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

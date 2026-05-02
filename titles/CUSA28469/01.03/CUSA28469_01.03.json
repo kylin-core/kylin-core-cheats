@@ -1,0 +1,87 @@
+{
+  "name": "Tails of Iron",
+  "id": "CUSA28469",
+  "version": "01.03",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (Turn Off In 2nd Battle)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "511A0F",
+          "on": "C5FA104024",
+          "off": "C5FA1045FC"
+        }
+      ]
+    },
+    {
+      "name": "1HK / Boss Easy Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AEF824",
+          "on": "837F5C00740F81BF0001000001000100740D0F57C0C5FA1145ECE9E6CFC2FE817F5C0000803F7EED0F2A8702010000EBE4",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "71C824",
+          "on": "E9FB2F3D01",
+          "off": "C5FA1145EC"
+        }
+      ]
+    },
+    {
+      "name": "No Weight",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80CF1B04",
+          "on": "C5F82945C0",
+          "off": "C5F8294DC0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Bolts",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "80BC4ED2",
+          "on": "90909090909090",
+          "off": "4489B01C010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Arrows",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "510D6E",
+          "on": "90909090909090",
+          "off": "4489B018010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Currency",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1AEF857",
+          "on": "83781400740641BE40000000448970145BE9A030A2FE",
+          "off": "00000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "512908",
+          "on": "E94ACF5D01",
+          "off": "448970145B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Saso"
+  ]
+}

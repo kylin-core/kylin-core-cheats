@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crash Bandicoot™ 4: Its About Time" Moder="TylerMods+CheatingMuppet+Yasseralaa22" Cusa="CUSA19035" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Apples on Gain">
+        <Cheatline>
+            <Offset>6B781E0</Offset>
+            <Section>0</Section>
+            <ValueOn>45-03-8D-04-04-00-00-45-01-8D-00-04-00-00-E9-56-3D-1E-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Lock Death Count to 0">
+        <Cheatline>
+            <Offset>6B78260</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-87-A8-05-00-00-00-00-00-00-E9-3B-18-0F-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jumps">
+        <Cheatline>
+            <Offset>6B5D620</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-83-38-03-00-00-00-E9-2A-D3-63-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="x2 Running Speed">
+        <Cheatline>
+            <Offset>6B84A80</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-45-A0-00-00-FA-43-E9-3D-35-10-FC</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Boxes and Apples">
+        <Cheatline>
+            <Offset>6757870</Offset>
+            <Section>0</Section>
+            <ValueOn>66-C7-87-E8-02-00-00-3F-42-E9-F4-9A-68-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

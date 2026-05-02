@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA18808",
+  "version": "01.00",
+  "name": "Harvest Moon: One World",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA18808"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18808_01.00.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA18808_01.00.json",
+      "size": 927,
+      "sha256": "570d8a8983ffc322baa18df493ed9a3b8d251d560d5f638474d979c382aedb34",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18808_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA18808_01.00.shn",
+      "size": 986,
+      "sha256": "e08bce74abdc3e7ac060a61df6a347d524069f15cb11045153b5633eb1438461",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18808_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA18808_01.00.mc4",
+      "size": 1324,
+      "sha256": "8f6030821f178fa51d37591172d8828c11d8af01fae38155ae22d2bc5efd951e",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA18808_01.00.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

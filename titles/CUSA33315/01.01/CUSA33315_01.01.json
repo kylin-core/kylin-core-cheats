@@ -1,0 +1,194 @@
+{
+  "name": "Adventure of Chris",
+  "id": "CUSA33315",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Mastercode Weapon ( must be activated for [ MC ] Cheats )",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3E20",
+          "on": "488B4424F8803DF4C13500017507C7404800000000803DE5C13500017507C7404801000000803DD6C13500017507C7404802000000803DC7C13500017507C7404804000000803DB8C13500017507C74048030000008B4048E99063E27E",
+          "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "806CA205",
+          "on": "E9169C1D81909090",
+          "off": "488B4424F88B4048"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3D80",
+          "on": "F30F2A4014C5FA114010C5FA104010E9AB561E7F526564646576696C3832202D20465720392E3030",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A8943A",
+          "on": "E941A9E180",
+          "off": "C5FA104010"
+        }
+      ]
+    },
+    {
+      "name": "Max Health",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3DA8",
+          "on": "488B4424F8C74014060000008B4014E9C102CA7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80544075",
+          "on": "E92EFD3581909090",
+          "off": "488B4424F88B4014"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Helium",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3DBC",
+          "on": "488B4424F8448B501C448950188B4018E9FCA61D7F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A7E4C5",
+          "on": "E9F258E280909090",
+          "off": "488B4424F88B4018"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Mana",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3DD1",
+          "on": "488B4424F8448B5024448950208B4020E9F7601E7F",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80A89ED5",
+          "on": "E9F79EE180909090",
+          "off": "488B4424F88B4020"
+        }
+      ]
+    },
+    {
+      "name": "Max Cookies",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3DE6",
+          "on": "488B4424F8C7402CD00700008B402CE96349CA7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80548755",
+          "on": "E98CB63581909090",
+          "off": "488B4424F88B402C"
+        }
+      ]
+    },
+    {
+      "name": "Max Ballons",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3DFA",
+          "on": "488B4424F8C7401C0C0000008B401CE9AF02CA7E",
+          "off": "0000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "805440B5",
+          "on": "E940FD3581909090",
+          "off": "488B4424F88B401C"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "18A3E0E",
+          "on": "0F57C0C5FA118080000000E92072C77E",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "8051B036",
+          "on": "E9D38D3881909090",
+          "off": "C5FA118080000000"
+        }
+      ]
+    },
+    {
+      "name": "Punch Weapon [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C00020",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Fireball Weapon [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C00021",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Crystal Weapon [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C00022",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Thunder Weapon [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C00023",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    },
+    {
+      "name": "Defense Weapon [ MC ]",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1C00024",
+          "on": "01",
+          "off": "00"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82 - FW 9.00"
+  ]
+}

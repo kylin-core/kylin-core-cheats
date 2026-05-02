@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA01493",
+  "version": "01.05",
+  "name": "Just Cause 3",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA01493"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01493_01.05.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA01493_01.05.json",
+      "size": 2606,
+      "sha256": "d4decc23ae10fe4cac558101c2db825e301e281e4893e63b82ab74b286119b5e",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01493_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA01493_01.05.shn",
+      "size": 2587,
+      "sha256": "0535cee695be224d78ef18a14fb17b1cfe5ad0c481697aade6dc5c3c1b52156d",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01493_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA01493_01.05.mc4",
+      "size": 3456,
+      "sha256": "6949646c7deb406ae9b2aedbb7730d0180aead4c16ff48a2d68317b5067ca141",
+      "cheatCount": 8,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA01493_01.05.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

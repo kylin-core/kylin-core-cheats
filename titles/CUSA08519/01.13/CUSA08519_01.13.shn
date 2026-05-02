@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Red Dead Redemption 2" Moder="E A Z Y and drakaz and IMnoob" Cusa="CUSA08519" Version="01.13" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Player/Horse Infinite Health/Stamina/Deadeye">
+        <Cheatline>
+            <Offset>962B27</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-10</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Ammo">
+        <Cheatline>
+            <Offset>2A4B3A5</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90</ValueOn>
+            <ValueOff>44-89-7C-08-1C</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>2A94964</Offset>
+            <Section>0</Section>
+            <ValueOn>42-89-5C-20-20</ValueOn>
+            <ValueOff>42-89-5C-20-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Money">
+        <Cheatline>
+            <Offset>C04BDB</Offset>
+            <Section>0</Section>
+            <ValueOn>31-F6-90-90</ValueOn>
+            <ValueOff>48-89-43-18</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Money">
+        <Cheatline>
+            <Offset>6D1F800</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-E5-F9-EC-F9-48-C7-C0-FF-E0-F5-05-48-89-43-18-E9-CA-53-EE-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Item">
+        <Cheatline>
+            <Offset>6D1F800</Offset>
+            <Section>0</Section>
+            <ValueOn>49-0F-44-C6-48-C7-C0-0A-00-00-00-48-89-43-28-E9-00-8F-ED-F9</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Items">
+        <Cheatline>
+            <Offset>BF8710</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-43-30</ValueOn>
+            <ValueOff>48-89-43-28</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Max Objects">
+        <Cheatline>
+            <Offset>BF8701</Offset>
+            <Section>0</Section>
+            <ValueOn>48-89-C8</ValueOn>
+            <ValueOff>4C-89-F0</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Extra horse affinity gain">
+        <Cheatline>
+            <Offset>6D1F810</Offset>
+            <Section>0</Section>
+            <ValueOn>41-0F-4E-CC-41-8B-57-2C-45-8B-5F-2C-E9-B1-11-0B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

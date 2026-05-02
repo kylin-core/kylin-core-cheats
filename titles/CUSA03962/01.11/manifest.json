@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA03962",
+  "version": "01.11",
+  "name": "Resident Evil 7 Biohazard",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA03962"
+  ],
+  "updatedAt": "2026-05-02T10:01:30Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03962_01.11.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA03962_01.11.json",
+      "size": 792,
+      "sha256": "0b5c1744a376b8c6c164d59e411717d13d1741d40582912f3316a568b5578bcf",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03962_01.11.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA03962_01.11.shn",
+      "size": 1079,
+      "sha256": "f02d67e272778f1f06d4f38090c3834d91b41081427f1c9bda4d7d2a3641bbc3",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03962_01.11.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA03962_01.11.mc4",
+      "size": 1452,
+      "sha256": "fb06238934b17d7a8d11c5fecd72fdaa94a174433f750db53de968e079fbef94",
+      "cheatCount": 3,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA03962_01.11.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:30Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

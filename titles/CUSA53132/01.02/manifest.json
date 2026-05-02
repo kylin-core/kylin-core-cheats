@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA53132",
+  "version": "01.02",
+  "name": "Ninja Gaiden Ragebound",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA53132"
+  ],
+  "updatedAt": "2026-05-02T10:01:34Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA53132_01.02.shn.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA53132_01.02.json",
+      "size": 1135,
+      "sha256": "5882571f7be3244a0e1b29dc3c25ab45638bfbc948a908c75d7fd6b3eeef17f0",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA53132_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA53132_01.02.shn",
+      "size": 1371,
+      "sha256": "2d94ada52527f42d2baec381c7ff330bed06c957be34310602885af8d011b4ae",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA53132_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA53132_01.02.mc4",
+      "size": 1836,
+      "sha256": "a03e3afc7aaf8422b39f8cfc9be08ef0ab678e05e444f859160403178353d115",
+      "cheatCount": 4,
+      "source": "GoldHEN_Cheat_Repository import. Source file: shn/CUSA53132_01.02.shn.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:34Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

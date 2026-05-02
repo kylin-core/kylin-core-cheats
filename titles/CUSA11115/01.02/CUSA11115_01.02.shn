@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Team Sonic Racing" Moder="Reddevil82_9.00" Cusa="CUSA11115" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Mod-Capsules ( You need 10 caps )">
+        <Cheatline>
+            <Offset>C37800</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-83-08-26-00-00-3F-42-0F-00-E9-F3-C2-7D-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Box Item ( after collect )">
+        <Cheatline>
+            <Offset>7145FC</Offset>
+            <Section>0</Section>
+            <ValueOn>89-16</ValueOn>
+            <ValueOff>89-06</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Rings ( on collect )">
+        <Cheatline>
+            <Offset>2FC859</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BE-FF-C9-9A-3B-90</ValueOn>
+            <ValueOff>44-89-B7-D4-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Timer ( Grand Prix )">
+        <Cheatline>
+            <Offset>608F5C</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90</ValueOn>
+            <ValueOff>C5-F2-5C-CA</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Freeze Timer ( Time Trial )">
+        <Cheatline>
+            <Offset>68D5F3</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-11-87-10-6D-04-00</ValueOn>
+            <ValueOff>C4-C1-7A-11-8F-10-6D-04-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

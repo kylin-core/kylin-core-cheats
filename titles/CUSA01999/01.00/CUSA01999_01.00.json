@@ -1,0 +1,27 @@
+{
+  "name": "Giana Sisters Twisted Dreams Director\\'s Cut",
+  "id": "CUSA01999",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf Crystals",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "DD3800",
+          "on": "0F8EDD1477FF4401E1B97F969800E97C1377FF",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "544B86",
+          "on": "E975EC880090909090",
+          "off": "0F8E5D0100004401E1"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Weysincha"
+  ]
+}

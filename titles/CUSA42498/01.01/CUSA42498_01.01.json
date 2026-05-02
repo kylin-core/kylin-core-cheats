@@ -1,0 +1,70 @@
+{
+  "name": "Dream Works - All Star Kart Racing",
+  "id": "CUSA42498",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Max Music Notes",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "66A3F00",
+          "on": "0F270000",
+          "off": "0F270000"
+        },
+        {
+          "offset": "5C3F000",
+          "on": "4151448B0DF74EA600448988CC00000041598B80CC000000E9E47BA0FE",
+          "off": "0000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "4646BFB",
+          "on": "E900845F0190",
+          "off": "8B80CC000000"
+        }
+      ]
+    },
+    {
+      "name": "Reset Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4647A53",
+          "on": "9090909090909090",
+          "off": "C5FA588038010000"
+        }
+      ]
+    },
+    {
+      "name": "Freeze Timer",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4647A5B",
+          "on": "9090909090909090",
+          "off": "C5FA118038010000"
+        }
+      ]
+    },
+    {
+      "name": "Finish Race directly",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "5C3F03D",
+          "on": "B801000000E9D886A0FE",
+          "off": "00000000000000000000"
+        },
+        {
+          "offset": "4647718",
+          "on": "E920795F019090",
+          "off": "0FB6803C010000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Reddevil82"
+  ]
+}

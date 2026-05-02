@@ -1,0 +1,91 @@
+{
+  "name": "South Park The Fractured But Whole",
+  "id": "CUSA05485",
+  "version": "01.00",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Quick Special",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3203800",
+          "on": "51B90000C842660F6EC959C5FA114F08E944DD19FE",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "13A1554",
+          "on": "E9A722E601",
+          "off": "C5FA114F08"
+        }
+      ]
+    },
+    {
+      "name": "Max Money ~Go To Any Shop~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3203815",
+          "on": "0F8477899EFDC7400C769698008B400CE96B899EFD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BEC190",
+          "on": "E980766102",
+          "off": "74068B400C"
+        }
+      ]
+    },
+    {
+      "name": "Max Items ~Go To Any Shop~",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3203841",
+          "on": "0F847E8C9EFDC7400C630000008B400CE9A9899EFD",
+          "off": "000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "BEC1F6",
+          "on": "E94676610290909090",
+          "off": "0F84CF0200008B400C"
+        }
+      ]
+    },
+    {
+      "name": "Quick Level Up",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3203856",
+          "on": "41B92544000044898FC8000000E99FCF15FE",
+          "off": "000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1360800",
+          "on": "E95130EA019090",
+          "off": "44898FC8000000"
+        }
+      ]
+    },
+    {
+      "name": "Quickly Level Up Crafting",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "3203868",
+          "on": "BEE70D000089B3DC000000E9EC9817FE",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "137D15E",
+          "on": "E90567E80190",
+          "off": "89B3DC000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Molly"
+  ]
+}

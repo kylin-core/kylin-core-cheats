@@ -1,0 +1,248 @@
+{
+  "name": "Dark Souls III",
+  "id": "CUSA03388",
+  "version": "01.15",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Inf HP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "474780A",
+          "on": "48C1E92089C8E9608EADFC9090",
+          "off": "29D80F88A58EADFCE9558EADFC"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4747821",
+          "on": "9090909090",
+          "off": "E9468EADFC"
+        }
+      ]
+    },
+    {
+      "name": "Inf Magic",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1008061",
+          "on": "9090",
+          "off": "89D8"
+        }
+      ]
+    },
+    {
+      "name": "Player inf Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4747839",
+          "on": "E93FBCB1FC",
+          "off": "E93DBCB1FC"
+        }
+      ]
+    },
+    {
+      "name": "Enemy 0 Stamina",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "474783E",
+          "on": "BB00000000",
+          "off": "39D80F4ED8"
+        }
+      ]
+    },
+    {
+      "name": "Inf Souls on Spend",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "144BBDB",
+          "on": "EB13",
+          "off": "85D2"
+        }
+      ]
+    },
+    {
+      "name": "Never Lose Souls",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "105AFBF",
+          "on": "909090",
+          "off": "895074"
+        },
+        {
+          "offset": "B6FE37",
+          "on": "9090909090909090",
+          "off": "41C7457400000000"
+        }
+      ]
+    },
+    {
+      "name": "Max Items On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4747867",
+          "on": "4489E94189C544896B08E9530B50FC",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "C483C2",
+          "on": "E9A0F4AF039090",
+          "off": "4489E944896B08"
+        }
+      ]
+    },
+    {
+      "name": "Max Items In Storage Box",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C51841",
+          "on": "41894708",
+          "off": "41894F08"
+        },
+        {
+          "offset": "C510A8",
+          "on": "894308",
+          "off": "894B08"
+        },
+        {
+          "offset": "C50D8C",
+          "on": "4189C69090",
+          "off": "B8FFFFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Dupe Anything In Storage Box",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "C51836",
+          "on": "909090909090",
+          "off": "2B8D64FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Inf Weapon Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12AB060",
+          "on": "909090",
+          "off": "897714"
+        }
+      ]
+    },
+    {
+      "name": "Inf Armour Durability",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "12AA890",
+          "on": "909090",
+          "off": "897714"
+        }
+      ]
+    },
+    {
+      "name": "Reduce Fall Damage",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4747848",
+          "on": "807B1CFF750B48C1E92089C8E971DFAEFC4429E00F8874DFAEFCE95ADFAEFC",
+          "off": "00000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "12357BC",
+          "on": "E987205103",
+          "off": "4429E07815"
+        }
+      ]
+    },
+    {
+      "name": "All Resistances Effects",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1011561",
+          "on": "909090",
+          "off": "895610"
+        },
+        {
+          "offset": "1011605",
+          "on": "89CA90",
+          "off": "0F4ED1"
+        },
+        {
+          "offset": "101136B",
+          "on": "909090",
+          "off": "895618"
+        },
+        {
+          "offset": "10114B9",
+          "on": "909090",
+          "off": "89561C"
+        },
+        {
+          "offset": "1011410",
+          "on": "909090",
+          "off": "894220"
+        }
+      ]
+    },
+    {
+      "name": "Inf HP Player + Enemy",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1220675",
+          "on": "9090909090909090",
+          "off": "41898424D8000000"
+        }
+      ]
+    },
+    {
+      "name": "Symbol of Avarice-No Effects",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "122AFE8",
+          "on": "909090909090",
+          "off": "FF90B8040000"
+        }
+      ]
+    },
+    {
+      "name": "100% Drop Rate",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "4747876",
+          "on": "48C7C101000000898424A0000000E944AB7CFC",
+          "off": "00000000000000000000000000000000000000"
+        },
+        {
+          "offset": "F123C6",
+          "on": "E9AB5483039090",
+          "off": "898424A0000000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "hejran7"
+  ]
+}

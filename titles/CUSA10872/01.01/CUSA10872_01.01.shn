@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow of the Tomb Raider" Moder="IMnoob" Cusa="CUSA10872" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Max Inventory and ammo">
+        <Cheatline>
+            <Offset>183BCD0</Offset>
+            <Section>0</Section>
+            <ValueOn>E8-F5-BF-49-FF-C7-00-9F-86-01-00-E9-85-30-4A-FF-66-89-18</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Skill Point On Spend">
+        <Cheatline>
+            <Offset>183BCD0</Offset>
+            <Section>0</Section>
+            <ValueOn>29-D1-C7-40-4C-63-00-00-00-E9-47-4C-9E-FF-89-48-4C</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

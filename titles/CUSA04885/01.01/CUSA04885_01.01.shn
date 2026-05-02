@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="resident evil 4" Moder="Celogamez_9.00" Cusa="CUSA04885" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health All Players">
+        <Cheatline>
+            <Offset>7FC57AB0</Offset>
+            <Section>0</Section>
+            <ValueOn>0F-4E-DA-90-E9-55-0F-5B-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Clip Ammo">
+        <Cheatline>
+            <Offset>7FC57F50</Offset>
+            <Section>0</Section>
+            <ValueOn>90-E9-9D-8E-68-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="No Reload">
+        <Cheatline>
+            <Offset>7FC57F40</Offset>
+            <Section>0</Section>
+            <ValueOn>09-C8-90-E9-49-A1-68-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Save Always 0">
+        <Cheatline>
+            <Offset>7FC57E90</Offset>
+            <Section>0</Section>
+            <ValueOn>C6-80-00-50-00-00-00-E9-0E-C9-64-80</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Attache Case XL (Activate B4 Starting The Game)">
+        <Cheatline>
+            <Offset>740806</Offset>
+            <Section>0</Section>
+            <ValueOn>7F</ValueOn>
+            <ValueOff>AD</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite R. Launcher (Put Handgun In The Center)">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>6D-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Chicago Typewriter (Put Handgun In The Center)">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>34-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="P.R.L 412 (Put Handgun In The Center)">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>41-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handgun">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>23-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Punisher">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>21-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Red9">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>25-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Blacktail">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>27-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Broken Butterfly">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>29-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="TMP">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>30-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Mine Thrower">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>36-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Handcannon">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>37-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Shotgun">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>47-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Krausers Bow">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>52-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Bowgun">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>10-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Matilda">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>03-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Riot Gun">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>94-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Killer 7">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>2A-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Striker">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>2D-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rifle (Put Handgun In The Center)">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>2E-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Rifle Semi Auto">
+        <Cheatline>
+            <Offset>7407CE</Offset>
+            <Section>0</Section>
+            <ValueOn>2F-00</ValueOn>
+            <ValueOff>23-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

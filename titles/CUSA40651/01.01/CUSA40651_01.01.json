@@ -1,0 +1,123 @@
+{
+  "name": "Star Ocean The Second story R",
+  "id": "CUSA40651",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health/1 Hit Kill (Master Code)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7FDB0",
+          "on": "0F4CC2837F2800740D8B4750894754E9615B4C7F31C0894754E9575B4C7F",
+          "off": "000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "80F4591F",
+          "on": "E98CA4B38090",
+          "off": "0F4CC2894754"
+        }
+      ]
+    },
+    {
+      "name": "1 Hit Kill (Enable Master Code))",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7FDB7",
+          "on": "740B",
+          "off": "740D"
+        }
+      ]
+    },
+    {
+      "name": "Infinite MP",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7F610",
+          "on": "0F49D08B575C895760E929634C7F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "80F45941",
+          "on": "E9CA9CB38090",
+          "off": "0F49D0895760"
+        }
+      ]
+    },
+    {
+      "name": "Max BP On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7FC20",
+          "on": "41C786400100000F270000E945494C7F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "80F4456E",
+          "on": "E9ADB6B3809090",
+          "off": "41899E40010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite SP On Use",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7F860",
+          "on": "B80F2700004189842430010000C4E270F2C0488B3BE960474C7F",
+          "off": "0000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "C83FD5",
+          "on": "E986B8B380",
+          "off": "C4E270F2C0"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Items",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "A2FA7E",
+          "on": "9090909090",
+          "off": "E89DECFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Fol",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1A7FB70",
+          "on": "0F49C841C746143F420F00E9BDCFD37F",
+          "off": "00000000000000000000000000000000"
+        },
+        {
+          "offset": "817BCB36",
+          "on": "E935302C809090",
+          "off": "0F49C841894E14"
+        },
+        {
+          "offset": "1A7FB40",
+          "on": "41C74424143F420F00E970D0D37F",
+          "off": "0000000000000000000000000000"
+        },
+        {
+          "offset": "817BCBB9",
+          "on": "E9822F2C80",
+          "off": "41894C2414"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Celogamez"
+  ]
+}

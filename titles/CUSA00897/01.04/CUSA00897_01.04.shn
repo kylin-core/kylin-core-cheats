@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="inFAMOUS: First Light" Moder="Weysincha" Cusa="CUSA00897" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Godmode">
+        <Cheatline>
+            <Offset>661B01</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-96-18-FA-01-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Energy">
+        <Cheatline>
+            <Offset>657DA9</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C4-C1-7A-11-84-24-08-A3-01-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Special Skill">
+        <Cheatline>
+            <Offset>625540</Offset>
+            <Section>0</Section>
+            <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+            <ValueOff>C5-FA-11-87-00-01-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Skillpoints">
+        <Cheatline>
+            <Offset>6241B4</Offset>
+            <Section>0</Section>
+            <ValueOn>BB-E7-03-00-00-89-9F-FC-00-00-00-90-90</ValueOn>
+            <ValueOff>89-9F-FC-00-00-00-80-BF-51-0D-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Melee Finisher">
+        <Cheatline>
+            <Offset>6254C8</Offset>
+            <Section>0</Section>
+            <ValueOn>BE-02-00-00-00-89-B7-F8-00-00-00-90-90</ValueOn>
+            <ValueOff>89-B7-F8-00-00-00-80-BF-51-0D-02-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

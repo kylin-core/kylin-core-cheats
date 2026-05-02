@@ -1,0 +1,37 @@
+{
+  "name": "Life is Strange",
+  "id": "CUSA03279",
+  "version": "01.01",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "60 FPS",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "8A2E77",
+          "on": "B000",
+          "off": "B001"
+        },
+        {
+          "offset": "8A2EA4",
+          "on": "9090",
+          "off": "77AA"
+        },
+        {
+          "offset": "804630",
+          "on": "C3C7400C0000003EC5FA10400CC6401C00C30000",
+          "off": "554889E54157415641554154534881ECF8060000"
+        },
+        {
+          "offset": "679027",
+          "on": "E805B61800",
+          "off": "C5FA10400C"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "illusion"
+  ]
+}

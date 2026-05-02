@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ary and the Secret of Seasons" Moder="saso" Cusa="CUSA13262" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health">
+        <Cheatline>
+            <Offset>7FEA38C0</Offset>
+            <Section>0</Section>
+            <ValueOn>8B-77-34-89-77-30-E9-4A-E7-93-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Easy Kill">
+        <Cheatline>
+            <Offset>7FEA38E0</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-48-00-00-00-00-E9-BF-A6-9A-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max Gold / Consumables (On Get / Spend)">
+        <Cheatline>
+            <Offset>7FEA3900</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-55-E0-81-7D-08-7B-13-BE-80-75-36-C7-42-2C-3F-42-0F-00-C7-42-20-63-00-00-00-C7-42-24-63-00-00-00-C7-42-28-63-00-00-00-C7-42-30-63-00-00-00-C7-42-34-63-00-00-00-C7-42-38-63-00-00-00-E9-D7-E7-93-00-89-44-8A-20-E9-CE-E7-93-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Jump">
+        <Cheatline>
+            <Offset>7FEA3970</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-3C-00-C0-0A-44-C5-FA-10-47-3C-E9-EE-FC-95-00</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Super Extra Jump">
+        <Cheatline>
+            <Offset>7FEA3990</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-44-00-40-42-44-C5-FA-10-47-44-E9-3E-7E-0C-01</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Default Jump (Use With Super Jump)">
+        <Cheatline>
+            <Offset>113970</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-3C-00-00-00-40</ValueOn>
+            <ValueOff>C7-47-3C-00-C0-0A-44</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Default Extra Jump (Use With Super Extra Jump)">
+        <Cheatline>
+            <Offset>113990</Offset>
+            <Section>0</Section>
+            <ValueOn>C7-47-44-00-00-0C-42</ValueOn>
+            <ValueOff>C7-47-44-00-40-42-44</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA25453",
+  "version": "01.08",
+  "name": "Necromunda : Hired Gun",
+  "process": "eboot.bin",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA25453"
+  ],
+  "updatedAt": "2026-05-02T10:01:32Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25453_01.08.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA25453_01.08.json",
+      "size": 2073,
+      "sha256": "8d55ed76e7988b9f87de9f93746647409de3e0fed963b9eef8857762aea5e154",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25453_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA25453_01.08.shn",
+      "size": 1938,
+      "sha256": "bd54dba48e2de9bc03b88f9ff1948f0d662217d305703eb05cdceff6d134ce25",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25453_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA25453_01.08.mc4",
+      "size": 2604,
+      "sha256": "1f94898e6dcf9ec5ce2199fc6508f402444dc1995bc7857273a69a71a58e1006",
+      "cheatCount": 5,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA25453_01.08.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:32Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}

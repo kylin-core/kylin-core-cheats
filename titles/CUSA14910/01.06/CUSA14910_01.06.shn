@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer
+
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Destroy All Humans!" Moder="Saso" Cusa="CUSA14910" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
+    <Items />
+    <Cheat Text="Infinite Health (Crypto / Saucer)">
+        <Cheatline>
+            <Offset>68E74A0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-08-48-00-04-00-75-12-C5-FA-10-43-48-C5-FA-11-83-98-00-00-00-E9-F5-24-31-FA-C5-FA-11-83-98-00-00-00-E9-E8-24-31-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Health / 1Hit Kill (Dont Use With Infinite Health)">
+        <Cheatline>
+            <Offset>68E74A0</Offset>
+            <Section>0</Section>
+            <ValueOn>81-7B-08-48-00-04-00-75-12-C5-FA-10-43-48-C5-FA-11-83-98-00-00-00-E9-F5-24-31-FA-C5-F8-57-C0-C5-FA-11-83-98-00-00-00-E9-E4-24-31-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Jetpack Fuel">
+        <Cheatline>
+            <Offset>68E7500</Offset>
+            <Section>0</Section>
+            <ValueOn>41-C7-87-6C-01-00-00-00-00-C8-42-C4-C1-7A-10-87-6C-01-00-00-C4-C1-7A-11-87-68-01-00-00-E9-0A-C3-2B-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Zap-O-Matic">
+        <Cheatline>
+            <Offset>68E7540</Offset>
+            <Section>0</Section>
+            <ValueOn>C5-FA-10-87-18-07-00-00-C5-FA-11-87-3C-07-00-00-E9-C7-60-36-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite Disintegrator Ray">
+        <Cheatline>
+            <Offset>68E75F0</Offset>
+            <Section>0</Section>
+            <ValueOn>48-8B-7D-D0-C6-42-04-63-E9-A6-54-47-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Max DNA (Disable To Collect)">
+        <Cheatline>
+            <Offset>68E75A0</Offset>
+            <Section>0</Section>
+            <ValueOn>41-BD-3F-42-0F-00-44-89-AF-A8-05-00-00-E9-4F-59-44-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+    <Cheat Text="Infinite HoloBob Duration">
+        <Cheatline>
+            <Offset>68E75D0</Offset>
+            <Section>0</Section>
+            <ValueOn>C4-C1-7A-10-84-24-10-02-00-00-C4-C1-7A-11-84-24-58-02-00-00-E9-A2-E4-13-FA</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+        </Cheatline>
+    </Cheat>
+</Trainer>

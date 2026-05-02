@@ -1,0 +1,22 @@
+{
+  "name": "Vagante",
+  "id": "CUSA28409",
+  "version": "01.04",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite-Arrow",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "382140",
+          "on": "909090909090",
+          "off": "01B7E0030000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Ali-mk"
+  ]
+}

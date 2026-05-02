@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "titleId": "CUSA11560",
+  "version": "01.03",
+  "name": "Assassins Creed® III Remastered",
+  "process": "ac3_engine_orbis_fn.elf",
+  "revision": 1,
+  "preferredFormat": "json",
+  "regions": [],
+  "compatibleTitleIds": [
+    "CUSA11560"
+  ],
+  "updatedAt": "2026-05-02T10:01:31Z",
+  "notes": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11560_01.03_ac3_engine_orbis_fn.elf.json.",
+  "entries": [
+    {
+      "format": "json",
+      "path": "CUSA11560_01.03.json",
+      "size": 909,
+      "sha256": "5bc569372335d63c42312838ec8b1243ef254e534a4c370823cb2e4a3bc4f3e2",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11560_01.03_ac3_engine_orbis_fn.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "shn",
+      "path": "CUSA11560_01.03.shn",
+      "size": 964,
+      "sha256": "727281066351b865da3bb070eb000aa9adb66f330ff06a412adb9b83fbbc7b9b",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11560_01.03_ac3_engine_orbis_fn.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    },
+    {
+      "format": "mc4",
+      "path": "CUSA11560_01.03.mc4",
+      "size": 1304,
+      "sha256": "20ca15667ce4e18b539745423196b46063f0aec745eba8a43ff8047d16cb2100",
+      "cheatCount": 2,
+      "source": "GoldHEN_Cheat_Repository import. Source file: json/CUSA11560_01.03_ac3_engine_orbis_fn.elf.json.",
+      "quality": "imported",
+      "updatedAt": "2026-05-02T10:01:31Z",
+      "notes": "Imported from GoldHEN_Cheat_Repository."
+    }
+  ]
+}
