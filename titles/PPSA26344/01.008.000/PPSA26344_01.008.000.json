@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,17 +37,17 @@
       ]
     },
     {
-      "name": "Max Money (Buy or Sell)",
+      "name": "最大金钱（购买或出售物品生效）",
       "type": "checkbox",
       "memory": [
         {
-          "offset": "16CE8A0",
-          "on": "6681FC20B87505BA3F420F00438954AC20E923F55BFF",
-          "off": "00000000000000000000000000000000000000000000"
+          "offset": "16CF800",
+          "on": "EB029000BA7F969800438954AC20E9C6E55BFF",
+          "off": "00000000000000000000000000000000000000"
         },
         {
           "offset": "C8DDD4",
-          "on": "E9C70AA400",
+          "on": "E9271AA400",
           "off": "438954AC20"
         }
       ]

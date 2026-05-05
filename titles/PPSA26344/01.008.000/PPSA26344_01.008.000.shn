@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghost of Yōtei" Moder="Yharnam" Cusa="PPSA26344" Version="01.008.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health">
+    <Cheat Text="无限生命">
         <Cheatline>
             <Offset>16CE800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="一击必杀">
         <Cheatline>
             <Offset>16CE850</Offset>
             <Section>0</Section>
@@ -21,12 +21,12 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (Buy or Sell)">
+    <Cheat Text="最大金钱（购买或出售物品生效）">
         <Cheatline>
-            <Offset>16CE8A0</Offset>
+            <Offset>16CF800</Offset>
             <Section>0</Section>
-            <ValueOn>66-81-FC-20-B8-75-05-BA-3F-42-0F-00-43-89-54-AC-20-E9-23-F5-5B-FF</ValueOn>
-            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+            <ValueOn>EB-02-90-00-BA-7F-96-98-00-43-89-54-AC-20-E9-C6-E5-5B-FF</ValueOn>
+            <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
 </Trainer>
