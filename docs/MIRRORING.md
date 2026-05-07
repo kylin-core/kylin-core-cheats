@@ -35,15 +35,7 @@ At runtime:
 The normal workflow does not need mirror-specific changes:
 
 ```sh
-.venv/bin/python tools/convert_published_cheats.py
-.venv/bin/python tools/import_goldhen_repository.py --dry-run
-.venv/bin/python tools/import_raw_archives.py --dry-run
-.venv/bin/python tools/import_loose_cheats.py --dry-run
-python3 tools/enrich_title_metadata.py
-python3 tools/build_titles_index.py
-python3 tools/build_catalog.py
-python3 tools/validate_catalog.py
-python3 tools/audit_goldhen_import.py
+make rebuild
 ```
 
 Run the import commands only when source payloads changed. Use dry-run output to

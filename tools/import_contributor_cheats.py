@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import loose json/shn/mc4 cheat payloads from raw/cheats."""
+"""Import contributor-provided json/shn/mc4 cheat payloads into titles/."""
 
 from __future__ import annotations
 
@@ -21,7 +21,6 @@ from import_goldhen_repository import (
     utc_now,
 )
 
-DEFAULT_SOURCE = ROOT / "raw" / "cheats"
 FILENAME_RE = re.compile(
     r"(?:^|_)(?P<title>(?:CUSA|PPSA)\d{5})_"
     r"(?P<version>\d{1,2}(?:\.\d{2,3}){1,2})"
@@ -32,7 +31,7 @@ FORMAT_PRIORITY = {"json": 0, "shn": 1, "mc4": 2}
 
 
 @dataclass(frozen=True)
-class LoosePayload:
+class ContributorPayload:
     path: Path
     rel_path: str
     title_id: str
@@ -46,22 +45,30 @@ def normalize_version(version: str) -> str:
     return ".".join(parts)
 
 
-def collect_payloads(source_dir: Path) -> tuple[dict[tuple[str, str], list[LoosePayload]], list[str]]:
-    groups: dict[tuple[str, str], list[LoosePayload]] = {}
+def relative_label(path: Path, source_dir: Path) -> str:
+    try:
+        return path.relative_to(ROOT).as_posix()
+    except ValueError:
+        return path.relative_to(source_dir).as_posix()
+
+
+def collect_payloads(source_dir: Path) -> tuple[dict[tuple[str, str], list[ContributorPayload]], list[str]]:
+    groups: dict[tuple[str, str], list[ContributorPayload]] = {}
     unparsed: list[str] = []
     for path in sorted(source_dir.rglob("*")):
         if not path.is_file() or path.name == ".DS_Store":
             continue
+        rel_path = relative_label(path, source_dir)
         if path.suffix.lower() not in (".json", ".shn", ".mc4"):
-            unparsed.append(path.relative_to(ROOT).as_posix())
+            unparsed.append(rel_path)
             continue
         match = FILENAME_RE.search(path.name)
         if not match:
-            unparsed.append(path.relative_to(ROOT).as_posix())
+            unparsed.append(rel_path)
             continue
-        payload = LoosePayload(
+        payload = ContributorPayload(
             path=path,
-            rel_path=path.relative_to(ROOT).as_posix(),
+            rel_path=rel_path,
             title_id=match.group("title").upper(),
             version=normalize_version(match.group("version")),
             fmt=match.group("format").lower(),
@@ -70,11 +77,11 @@ def collect_payloads(source_dir: Path) -> tuple[dict[tuple[str, str], list[Loose
     return groups, unparsed
 
 
-def payload_sort_key(payload: LoosePayload) -> tuple[int, float, str]:
+def payload_sort_key(payload: ContributorPayload) -> tuple[int, float, str]:
     return (FORMAT_PRIORITY[payload.fmt], -payload.path.stat().st_mtime, payload.rel_path)
 
 
-def payload_to_json(payload: LoosePayload, funcs: dict) -> dict:
+def payload_to_json(payload: ContributorPayload, funcs: dict) -> dict:
     if payload.fmt == "json":
         return load_json(payload.path)
     if payload.fmt == "shn":
@@ -87,7 +94,7 @@ def payload_to_json(payload: LoosePayload, funcs: dict) -> dict:
     return funcs["shn_to_json"](shn_text)
 
 
-def import_payload(payload: LoosePayload, funcs: dict, dry_run: bool) -> dict:
+def import_payload(payload: ContributorPayload, funcs: dict, dry_run: bool) -> dict:
     title_id = payload.title_id
     version = payload.version
     version_dir = TITLES_DIR / title_id / version
@@ -108,7 +115,7 @@ def import_payload(payload: LoosePayload, funcs: dict, dry_run: bool) -> dict:
     json_obj = sanitize_json_payload(json_obj, title_id, version, name, process)
     shn_text = funcs["normalize_shn"](funcs["json_to_shn"](json_obj))
     cheat_count = len(json_obj.get("mods", [])) if isinstance(json_obj.get("mods"), list) else 0
-    source_note = f"Local loose cheat import. Source file: {payload.rel_path}."
+    source_note = f"Contributor cheat import. Source file: {payload.rel_path}."
 
     previous_revision = 0
     existed = manifest_path.exists()
@@ -128,13 +135,14 @@ def import_payload(payload: LoosePayload, funcs: dict, dry_run: bool) -> dict:
         shn_path.write_text(shn_text, encoding="utf-8")
         mc4_path.write_bytes(funcs["encrypt_mc4"](shn_text))
 
+        revision = max(1, previous_revision + 1)
         manifest = {
             "schemaVersion": 1,
             "titleId": title_id,
             "version": version,
             "name": name,
             "process": process,
-            "revision": max(1, previous_revision + 1),
+            "revision": revision,
             "preferredFormat": "json",
             "regions": [],
             "compatibleTitleIds": [title_id],
@@ -158,9 +166,9 @@ def import_payload(payload: LoosePayload, funcs: dict, dry_run: bool) -> dict:
                     "regions": [],
                     "aliases": [],
                     "platforms": ["PS4" if title_id.startswith("CUSA") else "PS5"],
-                    "metadataSource": "local-loose-import",
+                    "metadataSource": "contributor-import",
                     "metadataUpdatedAt": now,
-                    "notes": "Generated from local loose cheat import.",
+                    "notes": "Generated from contributor cheat import.",
                 },
             )
 
@@ -178,14 +186,19 @@ def import_payload(payload: LoosePayload, funcs: dict, dry_run: bool) -> dict:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", default=str(DEFAULT_SOURCE), help="Directory containing loose json/shn/mc4 files.")
+    parser.add_argument(
+        "--source",
+        required=True,
+        help="Directory containing contributor json/shn/mc4 files named like CUSA00000_01.00.json.",
+    )
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--strict", action="store_true", help="Exit non-zero when any source group fails.")
     args = parser.parse_args()
 
-    source_dir = Path(args.source)
+    source_dir = Path(args.source).expanduser()
     if not source_dir.is_absolute():
         source_dir = ROOT / source_dir
+    source_dir = source_dir.resolve()
     if not source_dir.exists():
         raise SystemExit(f"source directory not found: {source_dir}")
 
