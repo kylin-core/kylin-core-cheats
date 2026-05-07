@@ -8,15 +8,25 @@ import hashlib
 import json
 import re
 import shutil
+import subprocess
 import sys
+import tempfile
+import warnings
+from contextlib import contextmanager
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
+from collections.abc import Iterator
 from pathlib import Path
+
+from tool_paths import (
+    missing_goldhen_message,
+    resolve_goldhen_repo_url,
+    resolve_goldhen_source,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 TITLES_DIR = ROOT / "titles"
-CONVERTER_DIR = ROOT / "ps4_ps5_aio_cheat_converter"
-DEFAULT_SOURCE = Path("/Users/chenpy/Projects/Person/etaHEN/GoldHEN_Cheat_Repository")
+CONVERTER_CORE_DIR = ROOT / "tools" / "converter_core"
 SUPPORTED_FORMATS = ("json", "shn", "mc4")
 SOURCE_PRIORITY = {"json": 0, "shn": 1, "mc4": 2}
 FILENAME_RE = re.compile(
@@ -74,14 +84,22 @@ def save_json(path: Path, payload: dict) -> None:
 
 
 def load_converter_functions() -> dict:
-    if not CONVERTER_DIR.exists():
-        raise SystemExit(f"converter directory not found: {CONVERTER_DIR}")
+    if not CONVERTER_CORE_DIR.exists():
+        raise SystemExit(f"vendored converter core not found: {CONVERTER_CORE_DIR}")
 
-    sys.path.insert(0, str(CONVERTER_DIR))
-    from utilities.catch_exceptions_utilities import escape_ampersand, remove_xml_junk_data
-    from utilities.json_utilities import shn_to_json_workflow
-    from utilities.mc4_utilities import decrypt_mc4_to_shn, encrypt_shn_to_mc4
-    from utilities.shn_utilities import json_to_xml_workflow, normalize_xml_entity_idents
+    sys.path.insert(0, str(CONVERTER_CORE_DIR))
+    try:
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", SyntaxWarning)
+            from utilities.catch_exceptions_utilities import escape_ampersand, remove_xml_junk_data
+            from utilities.json_utilities import shn_to_json_workflow
+            from utilities.mc4_utilities import decrypt_mc4_to_shn, encrypt_shn_to_mc4
+            from utilities.shn_utilities import json_to_xml_workflow, normalize_xml_entity_idents
+    except ModuleNotFoundError as exc:
+        raise SystemExit(
+            f"converter dependency missing: {exc.name}\n"
+            "Run `make setup` or install `requirements-tools.txt` in your Python environment."
+        ) from exc
 
     return {
         "shn_to_json": shn_to_json_workflow,
@@ -92,6 +110,42 @@ def load_converter_functions() -> dict:
         "escape_ampersand": escape_ampersand,
         "remove_xml_junk": remove_xml_junk_data,
     }
+
+
+@contextmanager
+def goldhen_source(args: argparse.Namespace) -> Iterator[Path]:
+    if args.source:
+        source_root = resolve_goldhen_source(args.source)
+        if not source_root.exists():
+            raise SystemExit(missing_goldhen_message(source_root))
+        yield source_root
+        return
+
+    env_source = resolve_goldhen_source(None)
+    if env_source.exists():
+        yield env_source
+        return
+
+    with tempfile.TemporaryDirectory(prefix="kylin-goldhen-") as temp:
+        try:
+            checkout_dir = Path(temp) / "GoldHEN_Cheat_Repository"
+            print(f"cloning GoldHEN source: {resolve_goldhen_repo_url(args.goldhen_repo)}", file=sys.stderr)
+            subprocess.run(
+                [
+                    "git",
+                    "clone",
+                    "--depth",
+                    "1",
+                    resolve_goldhen_repo_url(args.goldhen_repo),
+                    str(checkout_dir),
+                ],
+                check=True,
+            )
+            yield checkout_dir
+        except FileNotFoundError as exc:
+            raise SystemExit("git is required to auto-clone GoldHEN_Cheat_Repository") from exc
+        except subprocess.CalledProcessError as exc:
+            raise SystemExit(f"GoldHEN auto-clone failed with exit code {exc.returncode}") from exc
 
 
 def parse_source_file(path: Path) -> SourceFile | None:
@@ -291,58 +345,72 @@ def remove_existing_version(version_dir: Path) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", default=str(DEFAULT_SOURCE), help="GoldHEN_Cheat_Repository path.")
+    parser.add_argument(
+        "--source",
+        default=None,
+        help=(
+            "Local GoldHEN_Cheat_Repository path. If omitted, the tool uses "
+            "KYLIN_GOLDHEN_SOURCE/GOLDHEN_CHEAT_REPOSITORY when present, then "
+            "../GoldHEN_Cheat_Repository when it exists, otherwise auto-clones "
+            "a temporary GoldHEN checkout."
+        ),
+    )
+    parser.add_argument(
+        "--goldhen-repo",
+        default=None,
+        help=(
+            "GoldHEN git URL used for temporary auto-clone. Defaults to "
+            "https://github.com/GoldHEN/GoldHEN_Cheat_Repository.git."
+        ),
+    )
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--replace-existing", action="store_true")
     parser.add_argument("--limit", type=int, default=0)
     parser.add_argument("--strict", action="store_true", help="Exit non-zero when any source group fails.")
     args = parser.parse_args()
 
-    source_root = Path(args.source).expanduser().resolve()
-    if not source_root.exists():
-        raise SystemExit(f"source repository not found: {source_root}")
+    with goldhen_source(args) as source_root:
+        groups, unparsed = collect_groups(source_root)
+        name_map = load_name_map(source_root)
+        funcs = load_converter_functions()
 
-    groups, unparsed = collect_groups(source_root)
-    name_map = load_name_map(source_root)
-    funcs = load_converter_functions()
+        imported: list[dict] = []
+        skipped_existing: list[str] = []
+        failures: list[dict] = []
 
-    imported: list[dict] = []
-    skipped_existing: list[str] = []
-    failures: list[dict] = []
+        for key in sorted(groups):
+            group = groups[key]
+            version_dir = TITLES_DIR / group.title_id / group.version
+            if version_dir.exists() and not args.replace_existing:
+                skipped_existing.append(f"{group.title_id}_{group.version}")
+                continue
+            if args.limit and len(imported) >= args.limit:
+                break
 
-    for key in sorted(groups):
-        group = groups[key]
-        version_dir = TITLES_DIR / group.title_id / group.version
-        if version_dir.exists() and not args.replace_existing:
-            skipped_existing.append(f"{group.title_id}_{group.version}")
-            continue
-        if args.limit and len(imported) >= args.limit:
-            break
-
-        try:
-            last_error: Exception | None = None
-            for source in sorted(group.files, key=source_rank):
-                try:
-                    if not args.dry_run and args.replace_existing:
-                        remove_existing_version(version_dir)
-                    imported.append(
-                        write_imported_group(group, source, source_root, name_map, funcs, args.dry_run)
-                    )
-                    last_error = None
-                    break
-                except Exception as exc:
-                    last_error = exc
-            if last_error is not None:
-                raise last_error
-        except Exception as exc:
-            failures.append(
-                {
-                    "titleId": group.title_id,
-                    "version": group.version,
-                    "error": str(exc),
-                    "candidates": [file.path.name for file in group.files],
-                }
-            )
+            try:
+                last_error: Exception | None = None
+                for source in sorted(group.files, key=source_rank):
+                    try:
+                        if not args.dry_run and args.replace_existing:
+                            remove_existing_version(version_dir)
+                        imported.append(
+                            write_imported_group(group, source, source_root, name_map, funcs, args.dry_run)
+                        )
+                        last_error = None
+                        break
+                    except Exception as exc:
+                        last_error = exc
+                if last_error is not None:
+                    raise last_error
+            except Exception as exc:
+                failures.append(
+                    {
+                        "titleId": group.title_id,
+                        "version": group.version,
+                        "error": str(exc),
+                        "candidates": [file.path.name for file in group.files],
+                    }
+                )
 
     print(
         json.dumps(

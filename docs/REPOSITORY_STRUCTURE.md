@@ -1,54 +1,46 @@
 # Repository Structure
 
-This repository is a published catalog. It contains stable files under
-`titles/`, plus root `catalog.json`, schemas, tools, and docs.
+This repository is a published catalog. Source cheats are imported through one
+of two routes:
 
-Raw archives such as `.rar` files should not be committed. Use them locally with
-the migration tools, then commit only generated `titles/` output. The local
-`raw/` directory is ignored by git and is only a staging area for collected
-archives before running `tools/import_raw_archives.py`.
+- GoldHEN update: `make update-goldhen`
+- Contributor cheats: `make import-cheats SOURCE=/path/to/cheats`
 
-## Published Catalog
+Only normalized catalog output is committed.
+
+## Published Layout
 
 ```text
 catalog.json
+schemas/
 titles/
   README.md
-  PPSA26344/
+  <TITLE_ID>/
     title.json
-    01.008.000/
+    <VERSION>/
       manifest.json
-      PPSA26344_01.008.000.json
-      PPSA26344_01.008.000.shn
-      PPSA26344_01.008.000.mc4
+      <TITLE_ID>_<VERSION>.json
+      <TITLE_ID>_<VERSION>.shn
+      <TITLE_ID>_<VERSION>.mc4
+tools/
 ```
 
-### Root Catalog
+## Root Catalog
 
-`catalog.json` is the lightweight entry point for the App. It lists title IDs,
-game names, available versions, manifest paths, preferred formats, and update
+`catalog.json` is the lightweight app entry point. It lists title IDs, names,
+available versions, manifest paths, preferred formats, revisions, and update
 metadata.
 
-The App should use exact matching:
+Clients should match exactly:
 
 ```text
 current titleId + current version -> catalog entry -> manifest -> file download
 ```
 
-If an exact version is missing, the App should show that no compatible cheat is
-available. It should not silently install a different version.
+If an exact version is missing, the app should show that no compatible cheat is
+available.
 
-### Titles Index
-
-`titles/README.md` is a human-readable index for GitHub browsing. It links each
-title ID to its folder and each available game version to its version folder.
-Regenerate it after title or version changes:
-
-```sh
-python3 tools/build_titles_index.py
-```
-
-### Title Metadata
+## Title Metadata
 
 `titles/<TITLE_ID>/title.json` stores game-level metadata:
 
@@ -56,24 +48,23 @@ python3 tools/build_titles_index.py
 {
   "schemaVersion": 1,
   "titleId": "PPSA26344",
-  "name": "Ghost of Yotei",
-  "regions": ["US", "EU"],
-  "aliases": []
+  "name": "Game Name",
+  "regions": [],
+  "aliases": [],
+  "platforms": ["PS5"]
 }
 ```
 
-### Version Manifest
+## Version Manifest
 
-`titles/<TITLE_ID>/<VERSION>/manifest.json` stores all available files for one
-`titleId + version`.
-
-Each entry must point to a local file in the same directory and include checksum
-metadata.
+`titles/<TITLE_ID>/<VERSION>/manifest.json` stores all published files for one
+`titleId + version`. Each entry points to a file in the same directory and
+includes size and SHA-256 metadata.
 
 `manifest.revision` should increase whenever a published payload for the same
-`titleId + version` changes. Import scripts do this automatically for raw
-archive replacements; manual edits should follow the same rule so clients can
-offer updates reliably.
+`titleId + version` changes. Import tools handle this for contributor cheats;
+GoldHEN imports create revision `1` for new entries unless replacing existing
+entries intentionally.
 
 ## File Naming
 
@@ -86,65 +77,21 @@ Published cheat files must use:
 Examples:
 
 ```text
-PPSA26344_01.008.000.json
-PPSA21159_01.001.000.shn
+CUSA54714_01.13.json
 PPSA08710_01.005.000.mc4
-CUSA54714_01.13.mc4
 ```
 
 Do not encode `fixed`, `new`, `v2`, region names, or game names in published
-file names. Put those details in `manifest.json` fields such as `revision`,
-`regions`, `source`, `quality`, and `notes`.
+file names. Put those details in manifest fields such as `revision`, `regions`,
+`source`, `quality`, and `notes`.
 
-## Formats
+## Generated Files
 
-Supported published formats:
-
-- `json`: preferred format for App display, validation, and future editing.
-- `shn`: XML trainer format.
-- `mc4`: encrypted trainer format.
-
-Archive formats such as `.rar` are source material only and should stay outside
-the repository. They must be unpacked before publishing because `kylin-core`
-does not load `.rar` files.
-
-Local source archives can be processed from the ignored `raw/` directory:
+After imports or manual catalog edits:
 
 ```sh
-.venv/bin/python tools/import_raw_archives.py --dry-run
-.venv/bin/python tools/import_raw_archives.py
+make rebuild
 ```
 
-Already extracted loose payloads can be staged under `raw/cheats/{json,shn,mc4}`
-and processed with:
-
-```sh
-.venv/bin/python tools/import_loose_cheats.py --dry-run
-.venv/bin/python tools/import_loose_cheats.py
-```
-
-## Multi-ID and Region Compatibility
-
-When the same cheat supports multiple title IDs, publish one stable entry per
-title ID. The file can be copied or generated from the same source, but the
-runtime filename should match the title ID the console reports.
-
-Example:
-
-```text
-titles/PPSA05621/01.001.000/PPSA05621_01.001.000.mc4
-titles/PPSA05622/01.001.000/PPSA05622_01.001.000.mc4
-```
-
-Use `compatibleTitleIds` in `manifest.json` to preserve the relationship.
-
-## Update Checks
-
-The App should compare:
-
-- `catalogVersion`
-- `manifest.revision`
-- cheat file `sha256`
-
-If the remote checksum differs from the locally installed checksum, the App can
-offer an update and upload the new file to the console.
+This regenerates `titles/README.md` and `catalog.json`, then validates the
+catalog.
