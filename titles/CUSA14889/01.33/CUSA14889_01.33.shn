@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Captain Tsubasa - Rise of new Champion" Moder="Reddevil82 " Cusa="CUSA14889" Version="01.33" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money Points ( on gain )">
+    <Cheat Text="Max Money Points ( on gain ) | 金钱点数最大（获得时）">
         <Cheatline>
             <Offset>42DE8A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>0F-42-C8-85-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Player Skill Points">
+    <Cheat Text="Max Player Skill Points | 球员技能点数最大">
         <Cheatline>
             <Offset>40FC37</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-B8-48-AE-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mastercode Player: V - Zone ( must be activated )">
+    <Cheat Text="Mastercode Player: V - Zone ( must be activated ) | 主控球员：V-领域（需激活）">
         <Cheatline>
             <Offset>1BEF800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite V-Zone Player 1 [MC]">
+    <Cheat Text="Infinite V-Zone Player 1 [MC] | 无限V-领域 玩家1 [主控]">
         <Cheatline>
             <Offset>1BEF806</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-84-11-64-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite V-Zone Player 2 [MC]">
+    <Cheat Text="Infinite V-Zone Player 2 [MC] | 无限V-领域 玩家2 [主控]">
         <Cheatline>
             <Offset>1BEF81D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-84-11-64-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable V-Zone Player 1 [MC]">
+    <Cheat Text="Disable V-Zone Player 1 [MC] | 禁用V-领域 玩家1 [主控]">
         <Cheatline>
             <Offset>1BEF806</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FA-11-84-11-64-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable V-Zone Player 2 [MC]">
+    <Cheat Text="Disable V-Zone Player 2 [MC] | 禁用V-领域 玩家2 [主控]">
         <Cheatline>
             <Offset>1BEF81D</Offset>
             <Section>0</Section>

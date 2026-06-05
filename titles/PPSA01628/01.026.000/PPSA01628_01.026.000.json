@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Aetherium Crystals",
+      "name": "Infinite Aetherium Crystals | 无限以太水晶",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "NoReload/InfGrenades/Equipment",
+      "name": "NoReload/InfGrenades/Equipment | 无需装弹/无限手雷/装备",
       "type": "checkbox",
       "memory": [
         {

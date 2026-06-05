@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf item on crafting",
+      "name": "Inf item on crafting | 制作不消耗物品",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Item Use",
+      "name": "Inf Item Use | 物品无限使用",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max item on split",
+      "name": "Max item on split | 分割最大数量",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "inf health",
+      "name": "inf health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Mana",
+      "name": "Infinite Mana | 无限魔力",
       "type": "checkbox",
       "memory": [
         {

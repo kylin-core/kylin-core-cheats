@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="AdVenture Capitalist" Moder="Molly" Cusa="CUSA03234" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Gain Money Fast">
+    <Cheat Text="Gain Money Fast | 快速获取金钱">
         <Cheatline>
             <Offset>126B800</Offset>
             <Section>0</Section>

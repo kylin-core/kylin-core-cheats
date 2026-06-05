@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "MAX-money",
+      "name": "MAX-money | 最大金币",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE" Moder="hejran7" Cusa="CUSA05597" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Resources">
+    <Cheat Text="Max Resources | 最大资源">
         <Cheatline>
             <Offset>A56ECB</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>42-81-24-B9-01-00-E0-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>2147121</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-89-0C-72</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Steady Aim - No Recoil">
+    <Cheat Text="Steady Aim - No Recoil | 稳定瞄准 - 无后坐力">
         <Cheatline>
             <Offset>1D4177A</Offset>
             <Section>0</Section>

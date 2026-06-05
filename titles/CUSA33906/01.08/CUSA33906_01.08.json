@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite Stamina (Attack)",
+      "name": "Infinite Stamina (Attack) | 无限耐力（攻击）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "749F81",
           "on": "9090909090",
           "off": "C4C17A1107"
@@ -33,11 +32,10 @@
       ]
     },
     {
-      "name": "Infinite Stamina (rolling)",
+      "name": "Infinite Stamina (rolling) | 无限耐力（翻滚）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "114A5F7",
           "on": "9090909090909090",
           "off": "C5FA1180D0000000"
@@ -45,11 +43,10 @@
       ]
     },
     {
-      "name": "Infinite Stamina (while throwing)",
+      "name": "Infinite Stamina (while throwing) | 无限耐力（投掷时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "10A237A",
           "on": "9090909090909090",
           "off": "C5FA1183D0000000"
@@ -57,11 +54,10 @@
       ]
     },
     {
-      "name": "Infinite Stamina (sprinting)",
+      "name": "Infinite Stamina (sprinting) | 无限耐力（冲刺）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "1148702",
           "on": "9090909090909090",
           "off": "C5FA1180D0000000"
@@ -69,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina (blocking)",
+      "name": "Infinite Stamina (blocking) | 无限耐力（格挡）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,11 +81,10 @@
       ]
     },
     {
-      "name": "No Fall Damage",
+      "name": "No Fall Damage | 无坠落伤害",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "DF8BEE",
           "on": "9090909090909090",
           "off": "C5FA1183CC000000"
@@ -97,11 +92,10 @@
       ]
     },
     {
-      "name": "All items/upgrade souls/throwables (do not decrease on use)",
+      "name": "All items/upgrade souls/throwables (do not decrease on use) | 物品/升级魂/投掷物不减",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "EA6922",
           "on": "90909090",
           "off": "4429781C"
@@ -109,7 +103,7 @@
       ]
     },
     {
-      "name": "Alot of Experience points (on gain)",
+      "name": "Alot of Experience points (on gain) | 大量经验值（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +119,7 @@
       ]
     },
     {
-      "name": "Alot of money(on gain)",
+      "name": "Alot of money(on gain) | 大量金钱（获得时）",
       "type": "checkbox",
       "memory": [
         {

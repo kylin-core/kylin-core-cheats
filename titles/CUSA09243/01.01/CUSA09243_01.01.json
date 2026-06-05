@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "99M exp after lvl up",
+      "name": "99M exp after lvl up | 升级后获得99M经验",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max HP 9999 (turn off after)",
+      "name": "Max HP 9999 (turn off after) | 最大HP 9999（用完关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "gold",
+      "name": "gold | 金币",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "+99 discard item",
+      "name": "+99 discard item | +99丢弃物品",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "loot 999",
+      "name": "loot 999 | 战利品999",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max KingsGuilder",
+      "name": "Max KingsGuilder | 最大王者金币",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "100m Influence",
+      "name": "100m Influence | 1亿影响力",
       "type": "checkbox",
       "memory": [
         {

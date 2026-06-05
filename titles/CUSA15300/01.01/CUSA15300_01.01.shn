@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Travis Strikes Again: No More Heroes" Moder="Scalerize" Cusa="CUSA15300" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Exp On Gain">
+    <Cheat Text="Max Exp On Gain | 获得时最大经验值">
         <Cheatline>
             <Offset>625455</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-46-50</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max LB On Gain">
+    <Cheat Text="Max LB On Gain | 获得时最大LB值">
         <Cheatline>
             <Offset>4D9381D</Offset>
             <Section>0</Section>

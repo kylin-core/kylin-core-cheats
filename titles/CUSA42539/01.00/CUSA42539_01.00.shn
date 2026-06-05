@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RedRaptor" Moder="Ali-mk" Cusa="CUSA42539" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>80700C5E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-AD-D0-F1-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-GOLD">
+    <Cheat Text="MAX-GOLD | 最大金币">
         <Cheatline>
             <Offset>81557800</Offset>
             <Section>0</Section>

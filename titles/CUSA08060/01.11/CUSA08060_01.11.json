@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlock All Costumes",
+      "name": "Unlock All Costumes | 解锁全部服装",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Gravity Energy",
+      "name": "Infinite Gravity Energy | 无限重力能量",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Most attacks does not hurt player",
+      "name": "Most attacks does not hurt player | 大部分攻击不会伤害玩家",
       "type": "checkbox",
       "memory": [
         {

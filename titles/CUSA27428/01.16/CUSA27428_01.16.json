@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Coins/Crystal/Bones (on gain and use)",
+      "name": "Max Coins/Crystal/Bones (on gain and use) | 金币/水晶/骨头最大化（获取和使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "No Skill cooldown",
+      "name": "No Skill cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命值",
       "type": "checkbox",
       "memory": [
         {

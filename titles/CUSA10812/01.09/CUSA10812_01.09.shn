@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="A Plague Tale: Innocence" Moder="Reddevil82 " Cusa="CUSA10812" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Items / Ammo ( does not deduct any value )">
+    <Cheat Text="Infinite Items / Ammo ( does not deduct any value ) | 无限道具/弹药（数值不减）">
         <Cheatline>
             <Offset>272910</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-29-68-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items / Ammo ( added after use )">
+    <Cheat Text="Infinite Items / Ammo ( added after use ) | 无限道具/弹药（使用后增加）">
         <Cheatline>
             <Offset>272910</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-29-68-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth Mode ( not in sequences )">
+    <Cheat Text="Stealth Mode ( not in sequences ) | 潜行模式（非剧情场景）">
         <Cheatline>
             <Offset>1A2BE80</Offset>
             <Section>0</Section>

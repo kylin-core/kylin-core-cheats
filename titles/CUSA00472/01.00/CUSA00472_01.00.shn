@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Transformers: Rise of the Dark Spark" Moder="PS4Guru" Cusa="CUSA00472" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>F6E610</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>8B-87-94-03-00-00-C3-66</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast Exp/Leveling">
+    <Cheat Text="Fast Exp/Leveling | 快速经验/升级">
         <Cheatline>
             <Offset>F97822</Offset>
             <Section>0</Section>

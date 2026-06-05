@@ -5,7 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "INF Throwable",
+      "name": "INF Throwable | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "INF Ammo",
+      "name": "INF Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "INF MedKit",
+      "name": "INF MedKit | 无限医疗包",
       "type": "checkbox",
       "memory": [
         {

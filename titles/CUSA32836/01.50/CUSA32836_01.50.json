@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health - Green Bar (Player 1 only)",
+      "name": "Infinite Health - Green Bar (Player 1 only) | 无限生命 - 绿色血条（仅限玩家1）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic / Chakra - Blue Bar (Player 1 only)",
+      "name": "Infinite Magic / Chakra - Blue Bar (Player 1 only) | 无限查克拉 - 蓝色能量条（仅限玩家1）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Cooldown - On D-pad Items (Player 1 only)",
+      "name": "No Cooldown - On D-pad Items (Player 1 only) | 无冷却 - 方向键道具（仅限玩家1）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Money (Ryo)",
+      "name": "Infinite Money (Ryo) | 无限金钱（两）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Score (at training )",
+      "name": "Max Score (at training ) | 最高评分（训练中）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Budget (after buying a Player)",
+      "name": "Max Budget (after buying a Player) | 最高预算（购买球员后）",
       "type": "checkbox",
       "memory": [
         {

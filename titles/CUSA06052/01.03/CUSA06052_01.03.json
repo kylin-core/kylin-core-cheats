@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Disable At The End of The Stage) ",
+      "name": "Infinite Health (Disable At The End of The Stage) | 无限生命（关卡结束时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Coins",
+      "name": "Max/Infinite Coins | 最大/无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Special Hability",
+      "name": "Max/Infinite Special Hability | 最大/无限特殊能力",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Infinite Secondary Weapons",
+      "name": "Infinite Secondary Weapons | 无限副武器",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infinite Weapons Durability",
+      "name": "Infinite Weapons Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "name": "Level Up On gain XP",
+      "name": "Level Up On gain XP | 获得经验值时升级",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1hit kill",
+      "name": "Infinite Health/1hit kill | 无限生命/一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Focus ",
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Breath",
+      "name": "Infinite Breath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "All items/shards/Ammo(on use have 2)",
+      "name": "All items/shards/Ammo(on use have 2) | 全物品/碎晶/弹药（使用时拥有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "All Items/shard/ammo (on gain have 2)",
+      "name": "All Items/shard/ammo (on gain have 2) | 全物品/碎晶/弹药（获得时拥有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Skill Points increase(have 2 points deactivate after having 600)",
+      "name": "Skill Points increase(have 2 points deactivate after having 600) | 技能点增加（拥有2点，达到600点后停用）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Skill points dont decrease(turn off other skill cheat)",
+      "name": "Skill points dont decrease(turn off other skill cheat) | 技能点不减（关闭其他技能作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Boltblaster Infinite Ammo",
+      "name": "Boltblaster Infinite Ammo | 钉枪无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Instant Valor Surge Fill ",
+      "name": "Instant Valor Surge Fill | 瞬间填满勇气激增",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Infinite Valor Surge (on activate)",
+      "name": "Infinite Valor Surge (on activate) | 无限勇气激增（激活时）",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Master code",
+      "name": "Master code | 主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -166,11 +166,10 @@
       ]
     },
     {
-      "name": "Infinite Health (activate Master code)",
+      "name": "Infinite Health (activate Master code) | 无限生命（激活主控代码）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "8",
           "offset": "10DA1A",
           "on": "909090909090",
           "off": "C4C17A114574"
@@ -178,11 +177,10 @@
       ]
     },
     {
-      "name": "1Hit Kill (activate Master code)",
+      "name": "1Hit Kill (activate Master code) | 一击必杀（激活主控代码）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "8",
           "offset": "10DA18",
           "on": "750B",
           "off": "750E"

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Life",
-      "description": "",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Inf Money When You Save",
-      "description": "",
+      "name": "Inf Money When You Save | 存档时无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "No Pistol Reload",
-      "description": "",
+      "name": "No Pistol Reload | 手枪无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Inf Pistol Ammo",
-      "description": "",
+      "name": "Inf Pistol Ammo | 无限手枪弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Inf Ammo Shotgun",
-      "description": "",
+      "name": "Inf Ammo Shotgun | 无限霰弹枪弹药",
       "type": "checkbox",
       "memory": [
         {

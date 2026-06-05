@@ -3,22 +3,9 @@
   "id": "CUSA02000",
   "version": "01.02",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "48B3800",
-        "on": "415149B900000000070000004D39CF41597E0B418907418906E96C44D3FD9090909090909090909090909090909090909090909090909090EBD9418B4704EBD3B800000000EBCC"
-      },
-      {
-        "offset": "25E7C84",
-        "on": "E977BB2C0290"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,7 +16,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -40,7 +27,7 @@
       ]
     },
     {
-      "name": "Add 2000 XP",
+      "name": "Add 2000 XP | 增加2000经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -56,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {

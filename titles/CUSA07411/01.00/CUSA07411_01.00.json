@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
-      "hint": null,
+      "name": "Infinite Rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Refill Health",
-      "hint": null,
+      "name": "Refill Health | 补充生命值",
       "type": "button",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Refill Rage",
-      "hint": null,
+      "name": "Refill Rage | 补充怒气",
       "type": "button",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "9999999 Experience",
-      "hint": null,
+      "name": "9999999 Experience | 9999999 经验值",
       "type": "button",
       "memory": [
         {
@@ -75,8 +70,7 @@
       ]
     },
     {
-      "name": "9999999 Money",
-      "hint": null,
+      "name": "9999999 Money | 9999999 金钱",
       "type": "button",
       "memory": [
         {

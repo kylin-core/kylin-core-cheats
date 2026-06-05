@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf-Ammo-NO-Reload",
+      "name": "Inf-Ammo-NO-Reload | 无限弹药无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite-Ammo",
+      "name": "Infinite-Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "MAX + In-Ammo-999",
+      "name": "MAX + In-Ammo-999 | 最大弹药 + 无限弹药999",
       "type": "checkbox",
       "memory": [
         {

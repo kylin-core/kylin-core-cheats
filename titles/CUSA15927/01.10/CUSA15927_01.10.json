@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "24C259",
           "on": "909090",
           "off": "294814"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Ink (on gain)",
+      "name": "Max Ink (on gain) | 最大墨水（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Gold (on gain)",
+      "name": "Max Gold (on gain) | 最大金币（获得时）",
       "type": "checkbox",
       "memory": [
         {

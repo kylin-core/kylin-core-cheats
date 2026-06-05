@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 3" Moder="KevinTamvan" Cusa="CUSA14168" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Speed Master Code">
+    <Cheat Text="Speed Master Code | 速度大师秘籍">
         <Cheatline>
             <Offset>6DFFF5D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health Player">
+    <Cheat Text="Max Health Player | 玩家生命最大值">
         <Cheatline>
             <Offset>68FDB0D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf. Health Player+ No Bleeding">
+    <Cheat Text="Inf. Health Player+ No Bleeding | 无限生命+无流血">
         <Cheatline>
             <Offset>3140F0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 轻松击杀">
         <Cheatline>
             <Offset>6D00002</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Clip Ammo">
+    <Cheat Text="Infinite Clip Ammo | 无限弹匣弹药">
         <Cheatline>
             <Offset>1E3203A</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>89-51-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="20 Inventory Slot">
+    <Cheat Text="20 Inventory Slot | 20格物品栏">
         <Cheatline>
             <Offset>6DFFE35</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inc. Speed [x2.0]">
+    <Cheat Text="Inc. Speed [x2.0] | 加速[x2.0]">
         <Cheatline>
             <Offset>6DFFF67</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>41-C7-46-70-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inc. Speed [x2.7]">
+    <Cheat Text="Inc. Speed [x2.7] | 加速[x2.7]">
         <Cheatline>
             <Offset>6DFFF67</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>41-C7-46-70-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inc. Speed [x1.5]">
+    <Cheat Text="Inc. Speed [x1.5] | 加速[x1.5]">
         <Cheatline>
             <Offset>6DFFF67</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>41-C7-46-70-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fire Resistance">
+    <Cheat Text="Fire Resistance | 火焰抗性">
         <Cheatline>
             <Offset>325260</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Swap HandGun Ammo To:">
+    <Cheat Text="Swap HandGun Ammo To: | 切换手枪弹药为：">
         <Cheatline>
             <Offset>712E139</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="44 AE Lightning Hawk">
+    <Cheat Text="44 AE Lightning Hawk | 44 AE闪电鹰">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MUP Handgun">
+    <Cheat Text="Infinite MUP Handgun | 无限MUP手枪">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shotgun">
+    <Cheat Text="Shotgun | 霰弹枪">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite CQBR Assault Rifle">
+    <Cheat Text="Infinite CQBR Assault Rifle | 无限CQBR突击步枪">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="RAI-DEN">
+    <Cheat Text="RAI-DEN | 雷神">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Grenade Launcher">
+    <Cheat Text="Grenade Launcher | 榴弹发射器">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HOT DOGGER">
+    <Cheat Text="HOT DOGGER | 热狗刀">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Rocket Launcher">
+    <Cheat Text="Infinite Rocket Launcher | 无限火箭筒">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lock_Pick">
+    <Cheat Text="Lock_Pick | 开锁器">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bolt_Cutters">
+    <Cheat Text="Bolt_Cutters | 断线钳">
         <Cheatline>
             <Offset>712E13D</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>0F-84-E1-D0-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Gameplay Timer [Dont Freez It]">
+    <Cheat Text="Reset Gameplay Timer [Dont Freez It] | 重置游戏计时器[请勿冻结]">
         <Cheatline>
             <Offset>712E1F8</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Prevent Zombie To Grab Player">
+    <Cheat Text="Prevent Zombie To Grab Player | 防止僵尸抓取玩家">
         <Cheatline>
             <Offset>314310</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Evil Below" Moder="Reddevil82 - FW 9.00" Cusa="CUSA29504" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1987EB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>1987ED1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items ( on use )">
+    <Cheat Text="Max Items ( on use ) | 物品最大化（使用时）">
         <Cheatline>
             <Offset>1987EE6</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>1987EF8</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Walk Speed [ x 2 ]">
+    <Cheat Text="Player Walk Speed [ x 2 ] | 行走速度 [ 2倍 ]">
         <Cheatline>
             <Offset>1987F11</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Walk Speed [ x 3 ]">
+    <Cheat Text="Player Walk Speed [ x 3 ] | 行走速度 [ 3倍 ]">
         <Cheatline>
             <Offset>1987F21</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Walk Speed [ x 4 ]">
+    <Cheat Text="Player Walk Speed [ x 4 ] | 行走速度 [ 4倍 ]">
         <Cheatline>
             <Offset>1987F31</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Run Speed [ x 2 ]">
+    <Cheat Text="Player Run Speed [ x 2 ] | 奔跑速度 [ 2倍 ]">
         <Cheatline>
             <Offset>1987F41</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Run Speed [ x 3 ]">
+    <Cheat Text="Player Run Speed [ x 3 ] | 奔跑速度 [ 3倍 ]">
         <Cheatline>
             <Offset>1987F51</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Run Speed [ x 4 ]">
+    <Cheat Text="Player Run Speed [ x 4 ] | 奔跑速度 [ 4倍 ]">
         <Cheatline>
             <Offset>1987F61</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Jump Height [ x 2 ]">
+    <Cheat Text="Player Jump Height [ x 2 ] | 跳跃高度 [ 2倍 ]">
         <Cheatline>
             <Offset>1987F71</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Jump Height [ x 3 ]">
+    <Cheat Text="Player Jump Height [ x 3 ] | 跳跃高度 [ 3倍 ]">
         <Cheatline>
             <Offset>1987F81</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Jump Height [ x 4 ]">
+    <Cheat Text="Player Jump Height [ x 4 ] | 跳跃高度 [ 4倍 ]">
         <Cheatline>
             <Offset>1987F91</Offset>
             <Section>0</Section>

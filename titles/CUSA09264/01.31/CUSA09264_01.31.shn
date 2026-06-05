@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Just Cause 4" Moder="sili" Cusa="CUSA09264" Version="01.31" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="inf. health">
+    <Cheat Text="inf. health | 无限生命">
         <Cheatline>
             <Offset>203E2B9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C7-43-40-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="inf. secondary fire">
+    <Cheat Text="inf. secondary fire | 无限副武器">
         <Cheatline>
             <Offset>19591E3</Offset>
             <Section>0</Section>

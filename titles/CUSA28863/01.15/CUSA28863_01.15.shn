@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring" Moder="Dioniso" Cusa="CUSA28863" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="[00][MasterCode] ALWAYS ON!">
+    <Cheat Text="[00][MasterCode] ALWAYS ON! | 主代码 始终开启！">
         <Cheatline>
             <Offset>039C0000</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[01][Health] Immunity Player+Horse">
+    <Cheat Text="[01][Health] Immunity Player+Horse | 生命 玩家+马匹免疫">
         <Cheatline>
             <Offset>039C0080</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[02][Health] No Death From Height (Pharaoh2k/Dioniso)">
+    <Cheat Text="[02][Health] No Death From Height (Pharaoh2k/Dioniso) | 生命 高处坠落不死 (Pharaoh2k/Dioniso)">
         <Cheatline>
             <Offset>01115832</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>74-60</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[03][Health] Infinite">
+    <Cheat Text="[03][Health] Infinite | 生命 无限生命">
         <Cheatline>
             <Offset>039C00FF</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[04][Weapon] 1 Hit Kill">
+    <Cheat Text="[04][Weapon] 1 Hit Kill | 武器 一击必杀">
         <Cheatline>
             <Offset>039C00FE</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[05][Status] Infinite Stamina (Jump/Dash)">
+    <Cheat Text="[05][Status] Infinite Stamina (Jump/Dash) | 状态 无限耐力 (跳跃/冲刺)">
         <Cheatline>
             <Offset>039C0180</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[06][Status] Infinite FP">
+    <Cheat Text="[06][Status] Infinite FP | 状态 无限专注值">
         <Cheatline>
             <Offset>039C01B0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[07a][Status] Level = 99">
+    <Cheat Text="[07a][Status] Level = 99 | 状态 等级=99">
         <Cheatline>
             <Offset>039C0A60</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[07b][Status] Level = 666">
+    <Cheat Text="[07b][Status] Level = 666 | 状态 等级=666">
         <Cheatline>
             <Offset>039C0A60</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[08][Status] Attribute Points = 99">
+    <Cheat Text="[08][Status] Attribute Points = 99 | 状态 属性点数=99">
         <Cheatline>
             <Offset>039C0200</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[09][Status] Infinite Runes">
+    <Cheat Text="[09][Status] Infinite Runes | 状态 无限卢恩">
         <Cheatline>
             <Offset>039C02E0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[10][Status_Effect] No Blood Loss">
+    <Cheat Text="[10][Status_Effect] No Blood Loss | 状态效果 不流血">
         <Cheatline>
             <Offset>039C0880</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[11][Status_Effect] No Poisoned">
+    <Cheat Text="[11][Status_Effect] No Poisoned | 状态效果 不中毒">
         <Cheatline>
             <Offset>039C06D0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[12][Status_Effect] No Scarlet Rot">
+    <Cheat Text="[12][Status_Effect] No Scarlet Rot | 状态效果 不腐败">
         <Cheatline>
             <Offset>039C08B0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[13][Status_Effect] No Frostbite">
+    <Cheat Text="[13][Status_Effect] No Frostbite | 状态效果 不冻伤">
         <Cheatline>
             <Offset>039C0800</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[14][Status_Effect] No Instant Death">
+    <Cheat Text="[14][Status_Effect] No Instant Death | 状态效果 不即死">
         <Cheatline>
             <Offset>039C0840</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[15][Status_Effect] No Madness">
+    <Cheat Text="[15][Status_Effect] No Madness | 状态效果 不癫狂">
         <Cheatline>
             <Offset>039C0980</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[16][Status_Effect] No Sleep">
+    <Cheat Text="[16][Status_Effect] No Sleep | 状态效果 不睡眠">
         <Cheatline>
             <Offset>039C0A30</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[17][Item] 666 (You need one)">
+    <Cheat Text="[17][Item] 666 (You need one) | 物品 666个 (需有一个)">
         <Cheatline>
             <Offset>039C0300</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[18][Item] Create Max Number Of Objects (Create 1)">
+    <Cheat Text="[18][Item] Create Max Number Of Objects (Create 1) | 物品 创建最大数量物品 (创建1个)">
         <Cheatline>
             <Offset>039C0340</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[19][Item] Infinite When Use/Drop/Discard">
+    <Cheat Text="[19][Item] Infinite When Use/Drop/Discard | 物品 使用/丢弃/销毁时无限">
         <Cheatline>
             <Offset>039C0360</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[20a][Speed] Player+Horse x1">
+    <Cheat Text="[20a][Speed] Player+Horse x1 | 速度 玩家+马匹 x1">
         <Cheatline>
             <Offset>039C0400</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[20b][Speed] Player+Horse x2">
+    <Cheat Text="[20b][Speed] Player+Horse x2 | 速度 玩家+马匹 x2">
         <Cheatline>
             <Offset>039C0400</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[20c][Speed] Player+Horse x3">
+    <Cheat Text="[20c][Speed] Player+Horse x3 | 速度 玩家+马匹 x3">
         <Cheatline>
             <Offset>039C0400</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[20d][Speed] Player+Horse x4">
+    <Cheat Text="[20d][Speed] Player+Horse x4 | 速度 玩家+马匹 x4">
         <Cheatline>
             <Offset>039C0400</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[20e][Speed] Player+Horse x16">
+    <Cheat Text="[20e][Speed] Player+Horse x16 | 速度 玩家+马匹 x16">
         <Cheatline>
             <Offset>039C0400</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[21a][Speed] Enemy x1">
+    <Cheat Text="[21a][Speed] Enemy x1 | 速度 敌人 x1">
         <Cheatline>
             <Offset>039C0440</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[21b][Speed] Enemy x0,5">
+    <Cheat Text="[21b][Speed] Enemy x0,5 | 速度 敌人 x0.5">
         <Cheatline>
             <Offset>039C0440</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[21c][Speed] Enemy x0,25">
+    <Cheat Text="[21c][Speed] Enemy x0,25 | 速度 敌人 x0.25">
         <Cheatline>
             <Offset>039C0440</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[22][Fly] L2 = Fall Down Slowly">
+    <Cheat Text="[22][Fly] L2 = Fall Down Slowly | 飞行 L2=缓慢下落">
         <Cheatline>
             <Offset>039C05C0</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[23][Fly] L2+R3 = Go UP When In Air">
+    <Cheat Text="[23][Fly] L2+R3 = Go UP When In Air | 飞行 L2+R3=空中上升">
         <Cheatline>
             <Offset>039C0600</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[24][Special] L1+L2 = Astral Projection">
+    <Cheat Text="[24][Special] L1+L2 = Astral Projection | 特殊 L1+L2=灵魂出窍">
         <Cheatline>
             <Offset>039C06A0</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[25][Special] L2+L3 = Kill All Enemies Around">
+    <Cheat Text="[25][Special] L2+L3 = Kill All Enemies Around | 特殊 L2+L3=击杀周围所有敌人">
         <Cheatline>
             <Offset>039C09B0</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[26][Equipment] Nacked Player">
+    <Cheat Text="[26][Equipment] Nacked Player | 装备 玩家裸体">
         <Cheatline>
             <Offset>039C0900</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27a][Status] Edit: Level">
+    <Cheat Text="[27a][Status] Edit: Level | 状态 编辑：等级">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27b][Status] Edit: Runes Held">
+    <Cheat Text="[27b][Status] Edit: Runes Held | 状态 编辑：持有卢恩">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27c][Status] Edit: Vigor">
+    <Cheat Text="[27c][Status] Edit: Vigor | 状态 编辑：生命力">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27d][Status] Edit: Mind">
+    <Cheat Text="[27d][Status] Edit: Mind | 状态 编辑：集中力">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27e][Status] Edit: Endurance">
+    <Cheat Text="[27e][Status] Edit: Endurance | 状态 编辑：耐力">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27f][Status] Edit: Strength">
+    <Cheat Text="[27f][Status] Edit: Strength | 状态 编辑：力气">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27g][Status] Edit: Dexterity">
+    <Cheat Text="[27g][Status] Edit: Dexterity | 状态 编辑：灵巧">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27h][Status] Edit: Intelligence">
+    <Cheat Text="[27h][Status] Edit: Intelligence | 状态 编辑：智力">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27i][Status] Edit: Faith">
+    <Cheat Text="[27i][Status] Edit: Faith | 状态 编辑：信仰">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27j][Status] Edit: Arcane">
+    <Cheat Text="[27j][Status] Edit: Arcane | 状态 编辑：感应">
         <Cheatline>
             <Offset>039C00FD</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28a][Beacon1] Maps: Limgrave, West">
+    <Cheat Text="[28a][Beacon1] Maps: Limgrave, West | 信标1 地图：宁姆格福（西）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28b][Beacon1] Maps: Limgrave, East">
+    <Cheat Text="[28b][Beacon1] Maps: Limgrave, East | 信标1 地图：宁姆格福（东）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28c][Beacon1] Maps: Weeping Peninsula (Limgrave)">
+    <Cheat Text="[28c][Beacon1] Maps: Weeping Peninsula (Limgrave) | 信标1 地图：啜泣半岛（宁姆格福）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28d][Beacon1] Maps: Caelid">
+    <Cheat Text="[28d][Beacon1] Maps: Caelid | 信标1 地图：盖利德">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28e][Beacon1] Maps: Dragonbarrow">
+    <Cheat Text="[28e][Beacon1] Maps: Dragonbarrow | 信标1 地图：龙墓">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28f][Beacon1] Maps: Liurnia, East">
+    <Cheat Text="[28f][Beacon1] Maps: Liurnia, East | 信标1 地图：利耶尼亚（东）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28g][Beacon1] Maps: Liurnia, North">
+    <Cheat Text="[28g][Beacon1] Maps: Liurnia, North | 信标1 地图：利耶尼亚（北）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -413,7 +413,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28h][Beacon1] Maps: Liurnia,West">
+    <Cheat Text="[28h][Beacon1] Maps: Liurnia,West | 信标1 地图：利耶尼亚（西）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -421,7 +421,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28i][Beacon1] Maps: Altus Plateau">
+    <Cheat Text="[28i][Beacon1] Maps: Altus Plateau | 信标1 地图：亚坛高原">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -429,7 +429,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28j][Beacon1] Maps: Leyndell, Royal Capital">
+    <Cheat Text="[28j][Beacon1] Maps: Leyndell, Royal Capital | 信标1 地图：罗德尔，王城">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -437,7 +437,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28k][Beacon1] Maps: Mt. Gelmir">
+    <Cheat Text="[28k][Beacon1] Maps: Mt. Gelmir | 信标1 地图：格密尔火山">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -445,7 +445,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28l][Beacon1] Maps: Consecrated Snowfield">
+    <Cheat Text="[28l][Beacon1] Maps: Consecrated Snowfield | 信标1 地图：化圣雪原">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -453,7 +453,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28m][Beacon1] Maps: Mountaintops of the Giants, East">
+    <Cheat Text="[28m][Beacon1] Maps: Mountaintops of the Giants, East | 信标1 地图：巨人山顶（东）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -461,7 +461,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28n][Beacon1] Maps: Mountaintops of the Giants, West">
+    <Cheat Text="[28n][Beacon1] Maps: Mountaintops of the Giants, West | 信标1 地图：巨人山顶（西）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -469,7 +469,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28o][Beacon1] Entrance: Siofra River">
+    <Cheat Text="[28o][Beacon1] Entrance: Siofra River | 信标1 入口：希芙拉河">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -477,7 +477,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28p][Beacon1] Maps: Siofra River (Underground)">
+    <Cheat Text="[28p][Beacon1] Maps: Siofra River (Underground) | 信标1 地图：希芙拉河（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -485,7 +485,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28q][Beacon1] Entrance: Deeproot Depths (Underground)">
+    <Cheat Text="[28q][Beacon1] Entrance: Deeproot Depths (Underground) | 信标1 入口：深根底层（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -493,7 +493,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28r][Beacon1] Maps: Deeproot Depths (Underground)">
+    <Cheat Text="[28r][Beacon1] Maps: Deeproot Depths (Underground) | 信标1 地图：深根底层（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -501,7 +501,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28s][Beacon1] Entrance: Ainsel River Well">
+    <Cheat Text="[28s][Beacon1] Entrance: Ainsel River Well | 信标1 入口：安瑟尔河井">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -509,7 +509,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28t][Beacon1] Maps: Ainsel River (Underground)">
+    <Cheat Text="[28t][Beacon1] Maps: Ainsel River (Underground) | 信标1 地图：安瑟尔河（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -517,7 +517,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28u][Beacon1] Entrance1: Lake Of Rot (Underground)">
+    <Cheat Text="[28u][Beacon1] Entrance1: Lake Of Rot (Underground) | 信标1 入口1：腐败湖（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -525,7 +525,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28v][Beacon1] Entrance2: Lake Of Rot (Underground)">
+    <Cheat Text="[28v][Beacon1] Entrance2: Lake Of Rot (Underground) | 信标1 入口2：腐败湖（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -533,7 +533,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28w][Beacon1] Maps: Lake Of Rot (Underground)">
+    <Cheat Text="[28w][Beacon1] Maps: Lake Of Rot (Underground) | 信标1 地图：腐败湖（地下）">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>
@@ -541,7 +541,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28x][Beacon1] Entrance: Crumbling Farum Azula">
+    <Cheat Text="[28x][Beacon1] Entrance: Crumbling Farum Azula | 信标1 入口：逐渐崩毁的法姆·亚兹拉">
         <Cheatline>
             <Offset>039C0CA0</Offset>
             <Section>0</Section>

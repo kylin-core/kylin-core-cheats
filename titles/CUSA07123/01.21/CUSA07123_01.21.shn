@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nioh" Moder="ShininGami" Cusa="CUSA07123" Version="01.21" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinte Health">
+    <Cheat Text="Infinte Health | 无限生命">
         <Cheatline>
             <Offset>13F7800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>49-8B-46-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限精力">
         <Cheatline>
             <Offset>13F781B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="2 Hit Kill">
+    <Cheat Text="2 Hit Kill | 两击必杀">
         <Cheatline>
             <Offset>13F782E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Amirta">
+    <Cheat Text="Infinite Amirta | 无限精华">
         <Cheatline>
             <Offset>13F785D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gold">
+    <Cheat Text="Infinite Gold | 无限金钱">
         <Cheatline>
             <Offset>13F7871</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Lightning Water Ninjutsu Power">
+    <Cheat Text="Infinite Lightning Water Ninjutsu Power | 无限雷水忍术力">
         <Cheatline>
             <Offset>194F0B</Offset>
             <Section>0</Section>

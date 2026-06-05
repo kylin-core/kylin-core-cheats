@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Souls",
+      "name": "Inf Souls | 无限灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -37,11 +37,10 @@
       ]
     },
     {
-      "name": "Inf Soul Sliver",
+      "name": "Inf Soul Sliver | 无限灵魂碎片",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "2AA642",
           "on": "909090909090",
           "off": "8988C4000000"

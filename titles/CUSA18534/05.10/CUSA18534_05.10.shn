@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed® Valhalla" Moder="Mesvak" Cusa="CUSA18534" Version="05.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf. Health doesnt decrease">
+    <Cheat Text="Inf. Health doesnt decrease | 无限生命不减少">
         <Cheatline>
             <Offset>26EB573</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-8F-38-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="stamina doesnt decrease">
+    <Cheat Text="stamina doesnt decrease | 耐力不减少">
         <Cheatline>
             <Offset>2BE04E5</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-10-47-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Resources doesnt decrease">
+    <Cheat Text="Resources doesnt decrease | 资源不减少">
         <Cheatline>
             <Offset>2CADCD9</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Adrenaline Bar doesnt decrease">
+    <Cheat Text="Adrenaline Bar doesnt decrease | 肾上腺素槽不减少">
         <Cheatline>
             <Offset>26E0A7D</Offset>
             <Section>0</Section>

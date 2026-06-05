@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Skill points to spend(turn off after applying)",
+      "name": "Skill points to spend(turn off after applying) | 技能点数分配（应用后关闭）",
       "type": "checkbox",
       "memory": [
         {

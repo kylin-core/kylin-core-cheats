@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No Enemy Attacks",
+      "name": "No Enemy Attacks | 敌人不攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
+      "name": "Stealth Mode | 隐身模式",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无敌状态",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Inf FP",
+      "name": "Inf FP | 无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Items (Get, Use)",
+      "name": "Max Items (Get, Use) | 最大物品（获取/使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Runes",
+      "name": "Max Runes | 最大卢恩",
       "type": "checkbox",
       "memory": [
         {

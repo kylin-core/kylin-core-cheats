@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[01] Immunity",
+      "name": "[01] Immunity | 免疫",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "[02] Infinite HP",
+      "name": "[02] Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "[03a] 1 Hit Kill",
+      "name": "[03a] 1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "[03b] 1 Hit Kill (Even Torchlight/Pointing)",
+      "name": "[03b] 1 Hit Kill (Even Torchlight/Pointing) | 一击必杀（包括手电筒/指向）",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "[04] L2+X Kills Instantly All NMEs",
+      "name": "[04] L2+X Kills Instantly All NMEs | L2+X 瞬间击杀所有敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "[05] L2+R2+X Change First Weapon In Quick Menu (Needs Autosave + Retry)",
+      "name": "[05] L2+R2+X Change First Weapon In Quick Menu (Needs Autosave + Retry) | L2+R2+X 更换快捷菜单第一把武器（需自动存档+重试）",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "[06] Workbench: All Weapons Unlocked (If AUTOSAVE Then Permanent)",
+      "name": "[06] Workbench: All Weapons Unlocked (If AUTOSAVE Then Permanent) | 工作台：所有武器解锁（若自动存档则永久）",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "[07] Workbench: All Improvements (Infinite)",
+      "name": "[07] Workbench: All Improvements (Infinite) | 工作台：所有改造（无限）",
       "type": "checkbox",
       "memory": [
         {
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": "[08] Workbench: Use Same Upgrades Parts Possible",
+      "name": "[08] Workbench: Use Same Upgrades Parts Possible | 工作台：使用相同升级零件可行",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "[09] Infinite Ammo / No Reload",
+      "name": "[09] Infinite Ammo / No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "name": "[10] Aiming Laser",
+      "name": "[10] Aiming Laser | 瞄准激光",
       "type": "checkbox",
       "memory": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "[11a] Player's Speed x2 (Careful When jumping Down Fast)",
+      "name": "[11a] Player's Speed x2 (Careful When jumping Down Fast) | 玩家速度 x2（快速下落时小心）",
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "[11b] Player's Speed x4 (Careful When jumping Down Fast)",
+      "name": "[11b] Player's Speed x4 (Careful When jumping Down Fast) | 玩家速度 x4（快速下落时小心）",
       "type": "checkbox",
       "memory": [
         {
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "name": "[12] Some Keys/Items (-Fuel, Artificial Eye, Left Liver, Sewer, Barry Episode 4)",
+      "name": "[12] Some Keys/Items (-Fuel, Artificial Eye, Left Liver, Sewer, Barry Episode 4) | 部分钥匙/物品（燃料、假眼、左肝、下水道、巴瑞第四章）",
       "type": "checkbox",
       "memory": [
         {
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "name": "[13] Bags: Slots Maxed (10-15)",
+      "name": "[13] Bags: Slots Maxed (10-15) | 背包：格子最大化（10-15）",
       "type": "checkbox",
       "memory": [
         {
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "name": "[14] Bags: Infinite Items",
+      "name": "[14] Bags: Infinite Items | 背包：无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "name": "[15] Flashlight Batteries Full",
+      "name": "[15] Flashlight Batteries Full | 手电筒电池满电",
       "type": "checkbox",
       "memory": [
         {
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "name": "[16] Infinite PB (+666.666)",
+      "name": "[16] Infinite PB (+666.666) | 无限PB点数（+666,666）",
       "type": "checkbox",
       "memory": [
         {
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "name": "[17] S Rank: Accuracy = 100.0",
+      "name": "[17] S Rank: Accuracy = 100.0 | S级评价：命中率=100.0",
       "type": "checkbox",
       "memory": [
         {
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "name": "[18] S Rank: Retries = 0",
+      "name": "[18] S Rank: Retries = 0 | S级评价：重试次数=0",
       "type": "checkbox",
       "memory": [
         {
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "name": "[19] S Rank: Clear Time  = 00:00 00",
+      "name": "[19] S Rank: Clear Time = 00:00 00 | S级评价：通关时间=00:00 00",
       "type": "checkbox",
       "memory": [
         {
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "name": "[20] Timer Frozen (06:06:06)",
+      "name": "[20] Timer Frozen (06:06:06) | 计时器冻结（06:06:06）",
       "type": "checkbox",
       "memory": [
         {
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "name": "[21] Barry: Valves Open Easily (One Turn)",
+      "name": "[21] Barry: Valves Open Easily (One Turn) | 巴瑞：阀门轻松打开（一圈）",
       "type": "checkbox",
       "memory": [
         {
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "name": "[22] Toxic Gas Has No Effect (Barry/Natalia -Lift)",
+      "name": "[22] Toxic Gas Has No Effect (Barry/Natalia -Lift) | 毒气无效（巴瑞/娜塔莉亚-电梯）",
       "type": "checkbox",
       "memory": [
         {
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "name": "[23] The Struggle: Infinite Ratios",
+      "name": "[23] The Struggle: Infinite Ratios | 挣扎模式：无限比例",
       "type": "checkbox",
       "memory": [
         {
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "name": "[24] Raid Mode: Players' Level 100",
+      "name": "[24] Raid Mode: Players' Level 100 | 突击模式：玩家等级100",
       "type": "checkbox",
       "memory": [
         {
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "name": "[25] Raid Mode: All Weapons Upgrades Unlocked +Infinite",
+      "name": "[25] Raid Mode: All Weapons Upgrades Unlocked +Infinite | 突击模式：所有武器升级解锁+无限",
       "type": "checkbox",
       "memory": [
         {
@@ -467,7 +467,7 @@
       ]
     },
     {
-      "name": "[26] Raid Mode: Weapons Level 100 (Go Once To Customize)",
+      "name": "[26] Raid Mode: Weapons Level 100 (Go Once To Customize) | 突击模式：武器等级100（进入自定义一次生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "name": "[27] Raid Mode: Firepower Hyper Beyond Limits (Go Once To Customize)",
+      "name": "[27] Raid Mode: Firepower Hyper Beyond Limits (Go Once To Customize) | 突击模式：火力超限（进入自定义一次生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "name": "[28] Raid Mode: All Skills Unlocked +Maxed",
+      "name": "[28] Raid Mode: All Skills Unlocked +Maxed | 突击模式：所有技能解锁+满级",
       "type": "checkbox",
       "memory": [
         {
@@ -520,7 +520,7 @@
       ]
     },
     {
-      "name": "[29] Raid Mode: Timer = 0",
+      "name": "[29] Raid Mode: Timer = 0 | 突击模式：计时器=0",
       "type": "checkbox",
       "memory": [
         {
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "name": "[30] Raid Mode: Infinite Gold",
+      "name": "[30] Raid Mode: Infinite Gold | 突击模式：无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -552,7 +552,7 @@
       ]
     },
     {
-      "name": "[31] Raid Mode: Infinite Skill Points (SP)",
+      "name": "[31] Raid Mode: Infinite Skill Points (SP) | 突击模式：无限技能点（SP）",
       "type": "checkbox",
       "memory": [
         {
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "name": "[32] Raid Mode: Infinite Bottles/Bombs",
+      "name": "[32] Raid Mode: Infinite Bottles/Bombs | 突击模式：无限瓶子/炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -594,7 +594,7 @@
       ]
     },
     {
-      "name": "[33] Raid Mode: No Reload For Bewilder, Stealth, Armour, Rocket Skills",
+      "name": "[33] Raid Mode: No Reload For Bewilder, Stealth, Armour, Rocket Skills | 突击模式：迷惑、潜行、装甲、火箭技能无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -610,7 +610,7 @@
       ]
     },
     {
-      "name": "[34] Raid Mode: Infinite Stealth + Armor",
+      "name": "[34] Raid Mode: Infinite Stealth + Armor | 突击模式：无限潜行+装甲",
       "type": "checkbox",
       "memory": [
         {
@@ -626,7 +626,7 @@
       ]
     },
     {
-      "name": "[35a] Raid Mode: Weapons Tags [Short Range]",
+      "name": "[35a] Raid Mode: Weapons Tags [Short Range] | 突击模式：武器标签[短射程]",
       "type": "checkbox",
       "memory": [
         {
@@ -642,7 +642,7 @@
       ]
     },
     {
-      "name": "[35b] Raid Mode: Weapons Tags [Long Range]",
+      "name": "[35b] Raid Mode: Weapons Tags [Long Range] | 突击模式：武器标签[长射程]",
       "type": "checkbox",
       "memory": [
         {
@@ -658,7 +658,7 @@
       ]
     },
     {
-      "name": "[35c] Raid Mode: Weapons Tags [Speed Shot]",
+      "name": "[35c] Raid Mode: Weapons Tags [Speed Shot] | 突击模式：武器标签[速射]",
       "type": "checkbox",
       "memory": [
         {
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "name": "[35d] Raid Mode: Weapons Tags [Steady Shot]",
+      "name": "[35d] Raid Mode: Weapons Tags [Steady Shot] | 突击模式：武器标签[稳射]",
       "type": "checkbox",
       "memory": [
         {
@@ -690,7 +690,7 @@
       ]
     },
     {
-      "name": "[35e] Raid Mode: Weapons Tags [Speed Load]",
+      "name": "[35e] Raid Mode: Weapons Tags [Speed Load] | 突击模式：武器标签[快速装弹]",
       "type": "checkbox",
       "memory": [
         {
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "name": "[35f] Raid Mode: Weapons Tags [Sonic Assist]",
+      "name": "[35f] Raid Mode: Weapons Tags [Sonic Assist] | 突击模式：武器标签[声波辅助]",
       "type": "checkbox",
       "memory": [
         {
@@ -722,7 +722,7 @@
       ]
     },
     {
-      "name": "[35g] Raid Mode: Weapons Tags [Sonic Assist+]",
+      "name": "[35g] Raid Mode: Weapons Tags [Sonic Assist+] | 突击模式：武器标签[声波辅助+]",
       "type": "checkbox",
       "memory": [
         {
@@ -738,7 +738,7 @@
       ]
     },
     {
-      "name": "[35h] Raid Mode: Weapons Tags [Short Range+]",
+      "name": "[35h] Raid Mode: Weapons Tags [Short Range+] | 突击模式：武器标签[短射程+]",
       "type": "checkbox",
       "memory": [
         {
@@ -754,7 +754,7 @@
       ]
     },
     {
-      "name": "[35i] Raid Mode: Weapons Tags [Long Range+]",
+      "name": "[35i] Raid Mode: Weapons Tags [Long Range+] | 突击模式：武器标签[长射程+]",
       "type": "checkbox",
       "memory": [
         {
@@ -770,7 +770,7 @@
       ]
     },
     {
-      "name": "[35j] Raid Mode: Weapons Tags [Unique Weapon Name]",
+      "name": "[35j] Raid Mode: Weapons Tags [Unique Weapon Name] | 突击模式：武器标签[独特武器名称]",
       "type": "checkbox",
       "memory": [
         {
@@ -786,7 +786,7 @@
       ]
     },
     {
-      "name": "[36] Frozen NMEs",
+      "name": "[36] Frozen NMEs | 冻结敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "name": "[37] No Shadow/Light Effects",
+      "name": "[37] No Shadow/Light Effects | 无阴影/灯光效果",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SIGNALIS" Moder="idmus00" Cusa="CUSA34422" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Debug console">
+    <Cheat Text="Debug console | 调试控制台">
         <Cheatline>
             <Offset>8101DC38</Offset>
             <Section>0</Section>

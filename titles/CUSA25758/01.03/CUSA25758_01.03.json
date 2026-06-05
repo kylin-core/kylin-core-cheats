@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Exp",
-      "description": "",
+      "name": "Inf Exp | 无限经验",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Gold At Shop",
-      "description": "",
+      "name": "Inf Gold At Shop | 商店无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Inf Gold",
-      "description": "",
+      "name": "Inf Gold | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "Inf Items",
-      "description": "",
+      "name": "Inf Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -73,8 +69,7 @@
       ]
     },
     {
-      "name": "Inf Life",
-      "description": "",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -90,8 +85,7 @@
       ]
     },
     {
-      "name": "Inf Magic",
-      "description": "",
+      "name": "Inf Magic | 无限魔法",
       "type": "checkbox",
       "memory": [
         {

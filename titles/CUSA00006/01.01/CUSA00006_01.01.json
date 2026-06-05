@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable ( Press Circle To Active After Supermove)",
+      "name": "Untouchable ( Press Circle To Active After Supermove) | 无敌（超级技能后按○键激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Energy / Combo (Master Code)",
+      "name": "Energy / Combo (Master Code) | 能量/连击（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Energy (MC)",
+      "name": "Inf Energy (MC) | 无限能量（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Combo (MC)",
+      "name": "Max Combo (MC) | 最大连击（主代码）",
       "type": "checkbox",
       "memory": [
         {

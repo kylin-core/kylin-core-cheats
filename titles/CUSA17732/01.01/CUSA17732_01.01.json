@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max HP (Get Hit To Activate)",
+      "name": "Max HP (Get Hit To Activate) | 最大生命值（受击触发）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Mony / Ammo / AP (Master Code)",
+      "name": "Mony / Ammo / AP (Master Code) | 金钱/弹药/行动点（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,11 +37,10 @@
       ]
     },
     {
-      "name": "Infinite Ammo (Enable In Your Turn Only)",
+      "name": "Infinite Ammo (Enable In Your Turn Only) | 无限弹药（仅在自己回合启用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "31",
           "offset": "4E00A",
           "on": "EB01",
           "off": "EB05"
@@ -49,11 +48,10 @@
       ]
     },
     {
-      "name": "Infinite AP Pistol/Moves (Enable In your Turn Only)",
+      "name": "Infinite AP Pistol/Moves (Enable In your Turn Only) | 无限手枪行动点/移动力（仅在自己回合启用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "31",
           "offset": "4E02E",
           "on": "EB01",
           "off": "EB0B"
@@ -61,11 +59,10 @@
       ]
     },
     {
-      "name": "Max Money (Disable After Maxed)",
+      "name": "Max Money (Disable After Maxed) | 最大金钱（达到上限后关闭）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "31",
           "offset": "4E057",
           "on": "EB01",
           "off": "EB0B"

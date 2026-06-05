@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DOOM" Moder="M3hdi PS" Cusa="CUSA02092" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health + Shield">
+    <Cheat Text="Infinite Health + Shield | 无限生命+护盾">
         <Cheatline>
             <Offset>769E47</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C3-79-17-65-00-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>E3D32D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-43-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Points">
+    <Cheat Text="Infinite Weapon Points | 无限武器点数">
         <Cheatline>
             <Offset>CB4301</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-83-70-5A-05-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Praetor Points">
+    <Cheat Text="Infinite Praetor Points | 无限执政官点数">
         <Cheatline>
             <Offset>E3C722</Offset>
             <Section>0</Section>

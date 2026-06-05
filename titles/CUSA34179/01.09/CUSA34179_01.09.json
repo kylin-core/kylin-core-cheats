@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP (CHEATS DON'T WORK ON MY RISE MODE BUT LAST ONE)",
+      "name": "Inf HP (CHEATS DON'T WORK ON MY RISE MODE BUT LAST ONE) | 无限生命（作弊在'我的崛起'模式中无效，仅最后一项有效）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Recovery Bar (On Gain, the bar is invisible, restart match to make it appear otherwise ignore)",
+      "name": "Inf Recovery Bar (On Gain, the bar is invisible, restart match to make it appear otherwise ignore) | 无限恢复条（获得时恢复条不可见，重新开始比赛使其显示，否则忽略）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Finisher (On Gain)",
+      "name": "Inf Finisher (On Gain) | 无限终结技（获得时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "No Stun (On Gain)",
+      "name": "No Stun (On Gain) | 无眩晕（获得时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Inf Out of Ring Timer",
+      "name": "Inf Out of Ring Timer | 无限场外倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Inf Pin Timer",
+      "name": "Inf Pin Timer | 无限压制倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Inf Superstar Attribute Points (On Use)",
+      "name": "Inf Superstar Attribute Points (On Use) | 无限超级巨星属性点数（使用后生效）",
       "type": "checkbox",
       "memory": [
         {

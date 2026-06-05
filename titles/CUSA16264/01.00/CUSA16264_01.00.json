@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "time freeze",
+      "name": "time freeze | 时间冻结",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "god mode",
+      "name": "god mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "max mp after used magical skill",
+      "name": "max mp after used magical skill | 使用技能后魔法值最大",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "one punch dead",
+      "name": "one punch dead | 一拳必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "strength inf",
+      "name": "strength inf | 无限力量",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "money max after used",
+      "name": "money max after used | 使用后金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Growth points zero can work",
+      "name": "Growth points zero can work | 成长点为零仍可生效",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Community contribution max",
+      "name": "Community contribution max | 社区贡献最大",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "hero level S",
+      "name": "hero level S | 英雄等级S",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "level 99 after kill one",
+      "name": "level 99 after kill one | 击杀一人升至99级",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "skill level max",
+      "name": "skill level max | 技能等级最大",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "green bird head money inf",
+      "name": "green bird head money inf | 绿鸟头无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "blue bird head money inf",
+      "name": "blue bird head money inf | 蓝鸟头无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "name": "gold bird head money inf",
+      "name": "gold bird head money inf | 金鸟头无限金钱",
       "type": "checkbox",
       "memory": [
         {

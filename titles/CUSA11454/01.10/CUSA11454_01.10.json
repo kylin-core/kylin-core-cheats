@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Ability Points Never Decrease",
+      "name": "Ability Points Never Decrease | 技能点数永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Source Points Increase on Use",
+      "name": "Source Points Increase on Use | 源力点数使用后增加",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Materials Increase on Use",
+      "name": "Materials Increase on Use | 材料使用后增加",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {

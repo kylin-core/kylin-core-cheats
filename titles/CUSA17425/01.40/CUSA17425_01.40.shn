@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Snow Runner" Moder="Reddevil82 - FW 9.00" Cusa="CUSA17425" Version="01.40" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode Money - XP ( must be activate )">
+    <Cheat Text="Mastercode Money - XP ( must be activate ) | 主密码金钱-经验（需激活）">
         <Cheatline>
             <Offset>2557DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fuel">
+    <Cheat Text="Infinite Fuel | 无限燃油">
         <Cheatline>
             <Offset>2557D00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage">
+    <Cheat Text="No Damage | 无损坏">
         <Cheatline>
             <Offset>2557D31</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Repair Points">
+    <Cheat Text="Max Repair Points | 最高修理点数">
         <Cheatline>
             <Offset>2557D44</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money Campaign [ MC ]">
+    <Cheat Text="Max Money Campaign [ MC ] | 战役模式最大金钱">
         <Cheatline>
             <Offset>2800220</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP Campaign [ MC ]">
+    <Cheat Text="Max XP Campaign [ MC ] | 战役模式最大经验">
         <Cheatline>
             <Offset>2800221</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of the Day [ Night ]">
+    <Cheat Text="Time of the Day [ Night ] | 时间设定[夜晚]">
         <Cheatline>
             <Offset>2557D5B</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of the Day [ Morning ]">
+    <Cheat Text="Time of the Day [ Morning ] | 时间设定[清晨]">
         <Cheatline>
             <Offset>2557D6A</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of the Day [ Midday ]">
+    <Cheat Text="Time of the Day [ Midday ] | 时间设定[正午]">
         <Cheatline>
             <Offset>2557D79</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of the Day [ Afternoon ]">
+    <Cheat Text="Time of the Day [ Afternoon ] | 时间设定[午后]">
         <Cheatline>
             <Offset>2557D88</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of the Day [ Evening ]">
+    <Cheat Text="Time of the Day [ Evening ] | 时间设定[傍晚]">
         <Cheatline>
             <Offset>2557D97</Offset>
             <Section>0</Section>

@@ -1,11 +1,11 @@
 {
-  "name": "Ratchet & Clank™",
+  "name": "Ratchet \u0026 Clank™",
   "id": "CUSA01073",
   "version": "01.09",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated )",
+      "name": "Mastercode ( must be activated ) | 主密码（必须激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Bolts [MC] ( on gain )",
+      "name": "Max Bolts [MC] ( on gain ) | 最大螺栓 [MC]（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Raritanium [MC] ( on gain )",
+      "name": "Max Raritanium [MC] ( on gain ) | 最大拉锐钛矿 [MC]（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "28 Gold Bolts [MC] ( collect 1 to unlock Debug Menu )",
+      "name": "28 Gold Bolts [MC] ( collect 1 to unlock Debug Menu ) | 28金螺栓 [MC]（收集1个解锁调试菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Invincibility ",
+      "name": "Invincibility  | 无敌状态",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "One Hit Kill + Invisible",
+      "name": "One Hit Kill + Invisible | 一击必杀+隐形",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Infinite Air under Water",
+      "name": "Infinite Air under Water | 水下无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Infinite Jet Pack",
+      "name": "Infinite Jet Pack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Infinite Hoverboard Boost",
+      "name": "Infinite Hoverboard Boost | 无限悬浮滑板加速",
       "type": "checkbox",
       "memory": [
         {

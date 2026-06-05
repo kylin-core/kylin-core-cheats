@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "max inf skills charge",
+      "name": "max inf skills charge | 无限技能蓄力",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "max combo",
+      "name": "max combo | 最大连击",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "INFINITE STAMINA",
+      "name": "INFINITE STAMINA | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "max money on use",
+      "name": "max money on use | 使用获得最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "infinite materials",
+      "name": "infinite materials | 无限材料",
       "type": "checkbox",
       "memory": [
         {

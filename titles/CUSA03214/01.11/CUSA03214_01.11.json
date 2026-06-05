@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "max Score (while training)",
+      "name": "max Score (while training) | 最大得分（训练时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Skill points (on use) Journey Mode",
+      "name": "Max Skill points (on use) Journey Mode | 最大技能点（使用时） 征程模式",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Budget (after selling Players)",
+      "name": "Max Budget (after selling Players) | 最大预算（出售球员后）",
       "type": "checkbox",
       "memory": [
         {

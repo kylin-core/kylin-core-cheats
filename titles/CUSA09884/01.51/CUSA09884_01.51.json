@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "P1 Inf HP",
+      "name": "P1 Inf HP | P1 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "P2 Inf HP",
+      "name": "P2 Inf HP | P2 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "P1 Invincible",
+      "name": "P1 Invincible | P1 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "P2 Invincible",
+      "name": "P2 Invincible | P2 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max Inf Gold",
+      "name": "Max Inf Gold | 最大无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Max Soul Points",
+      "name": "Max Soul Points | 最大灵魂点数",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "P1 Inf Soul Gauge",
+      "name": "P1 Inf Soul Gauge | P1 无限魂槽",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "P2 Inf Soul Gauge",
+      "name": "P2 Inf Soul Gauge | P2 无限魂槽",
       "type": "checkbox",
       "memory": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "P1 Inf Soul Charge",
+      "name": "P1 Inf Soul Charge | P1 无限魂能充能",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "P2 Inf Soul Charge",
+      "name": "P2 Inf Soul Charge | P2 无限魂能充能",
       "type": "checkbox",
       "memory": [
         {

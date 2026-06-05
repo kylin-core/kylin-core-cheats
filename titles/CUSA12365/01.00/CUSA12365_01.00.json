@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "(Items/Weapons/Armor/Quartz/Event/Ingredient) x90 Upon Change",
+      "name": "(Items/Weapons/Armor/Quartz/Event/Ingredient) x90 Upon Change | 变更时获得物品/武器/防具/耀晶石/事件/食材x90",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "(Items/Weapons/Armor/Quartz/Event/Ingredient)x5 Upon Change",
+      "name": "(Items/Weapons/Armor/Quartz/Event/Ingredient)x5 Upon Change | 变更时获得物品/武器/防具/耀晶石/事件/食材x5",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Bonding point never decrease(Disable after use)",
+      "name": "Bonding point never decrease(Disable after use) | 羁绊点数永不减少（使用后失效）",
       "type": "checkbox",
       "memory": [
         {

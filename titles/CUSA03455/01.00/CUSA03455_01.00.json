@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Get Skillpoints For Spending Them",
-      "hint": null,
+      "name": "Get Skillpoints For Spending Them | 花费技能点返还技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health / Stamina",
-      "hint": "This will affect all creatures aswell. If a new zombie spawns it, will instantly die.",
+      "name": "Infinite Health / Stamina | 无限生命/体力",
       "type": "checkbox",
       "memory": [
         {

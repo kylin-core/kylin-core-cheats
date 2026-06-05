@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Pointer",
+      "name": "Pointer | 指针",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Health / 1 Hit Kills",
+      "name": "Health / 1 Hit Kills | 生命/一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Gel",
+      "name": "Infinite Gel | 无限凝胶",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {

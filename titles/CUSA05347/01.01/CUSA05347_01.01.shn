@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders Warmastered Edition" Moder="Ali-mk" Cusa="CUSA05347" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>6B7F41</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-85-84-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible-(MC)">
+    <Cheat Text="Invincible-(MC) | 主角无敌">
         <Cheatline>
             <Offset>57848D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-4E-C8-17-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-Souls-1-(MC)">
+    <Cheat Text="MAX-Souls-1-(MC) | 最大灵魂1（主角）">
         <Cheatline>
             <Offset>6C1874</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-58-83-00-08-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-Souls-2-(MC)">
+    <Cheat Text="MAX-Souls-2-(MC) | 最大灵魂2（主角）">
         <Cheatline>
             <Offset>65CFFA</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E8-61-48-06-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick-Level-All-Weapon-Up-(mc)">
+    <Cheat Text="Quick-Level-All-Weapon-Up-(mc) | 快速升级全武器（主角）">
         <Cheatline>
             <Offset>3BA0F1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-C1-7A-11-85-DC-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Wrath-bar-Rage">
+    <Cheat Text="Inf-Wrath-bar-Rage | 无限愤怒槽">
         <Cheatline>
             <Offset>1F9878</Offset>
             <Section>0</Section>

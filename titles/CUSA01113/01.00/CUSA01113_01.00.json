@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Gravity",
-      "hint": null,
+      "name": "Infinite Gravity | 无限重力",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Gems",
-      "hint": null,
+      "name": "Infinite Gems | 无限宝石",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Always Have Super Attack",
-      "hint": null,
+      "name": "Always Have Super Attack | 始终拥有超级攻击",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Breath",
+      "name": "Infinite Breath | 无限屏息",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Ammo/Items",
+      "name": "Max Ammo/Items | 无限弹药/物品",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip/Infinite Skillpoints",
+      "name": "Bottomless Clip/Infinite Skillpoints | 无限弹匣/无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Easy XP",
+      "name": "Easy XP | 简易经验值",
       "type": "checkbox",
       "memory": [
         {

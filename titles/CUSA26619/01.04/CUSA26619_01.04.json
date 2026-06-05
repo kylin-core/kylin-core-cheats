@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (WIP/Experimental) (Works only on PS4 Trainer/G.C.M.)",
+      "name": "Infinite Health (WIP/Experimental) (Works only on PS4 Trainer/G.C.M.) | 无限生命（测试版/实验功能）（仅适用于PS4修改器/G.C.M.）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Vehicles No Damage (They can explode if hit by bullets) (Works only on PS4 Trainer/G.C.M.)",
+      "name": "Vehicles No Damage (They can explode if hit by bullets) (Works only on PS4 Trainer/G.C.M.) | 车辆无损（子弹击中仍可爆炸）（仅适用于PS4修改器/G.C.M.）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Armour On Gain",
+      "name": "Infinite Armour On Gain | 无限护甲（获取时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No Reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Money Instantly",
+      "name": "Max Money Instantly | 瞬间获得最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "No Wanted Level (Kill anyone to reset)",
+      "name": "No Wanted Level (Kill anyone to reset) | 无通缉等级（击杀任意目标重置）",
       "type": "checkbox",
       "memory": [
         {

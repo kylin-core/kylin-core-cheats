@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (Pistols)",
+      "name": "Infinite Ammo (Pistols) | 无限弹药(手枪)",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Items/Talent/Attribute points",
+      "name": "Max Items/Talent/Attribute points | 最大物品/天赋/属性点",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Instant Transformation (on hit)",
+      "name": "Instant Transformation (on hit) | 击中即变身",
       "type": "checkbox",
       "memory": [
         {

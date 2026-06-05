@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 全体客户端无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 全体客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Points",
-      "hint": null,
+      "name": "Infinite Points | 无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "1-Hit Kill",
-      "hint": null,
+      "name": "1-Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Load Zombies Step 1",
-      "hint": "Go to the main menu and navigate to \"Multiplayer\"\nthen hit Step 1.",
+      "name": "Load Zombies Step 1 | 加载僵尸模式步骤1",
       "type": "button",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Load Zombies Step 2",
-      "hint": "Wait for the error to pop up then hit Step 2.",
+      "name": "Load Zombies Step 2 | 加载僵尸模式步骤2",
       "type": "button",
       "memory": [
         {
@@ -82,8 +76,7 @@
       ]
     },
     {
-      "name": "Load Zombies Step 3",
-      "hint": "Close the error popup then hit Step 3.",
+      "name": "Load Zombies Step 3 | 加载僵尸模式步骤3",
       "type": "button",
       "memory": [
         {
@@ -94,8 +87,7 @@
       ]
     },
     {
-      "name": "Load Zombies Step 4",
-      "hint": "Navigate to \"Setup Game\" > \"Change Mode\" >\n\"Round Based\" > \"Round Based\".\nConfirm the selection and then hit Step 4.",
+      "name": "Load Zombies Step 4 | 加载僵尸模式步骤4",
       "type": "button",
       "memory": [
         {
@@ -111,8 +103,7 @@
       ]
     },
     {
-      "name": "Load Zombies Step 5",
-      "hint": "Wait for the black screen to end then hit Step 5.",
+      "name": "Load Zombies Step 5 | 加载僵尸模式步骤5",
       "type": "button",
       "memory": [
         {

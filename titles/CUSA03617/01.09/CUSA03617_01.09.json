@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Armour on Gain",
+      "name": "Infinite Armour on Gain | 无限护甲获取",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需换弹",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Adrenaline",
+      "name": "Infinite Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Wiretaps/MarkersOnUse",
+      "name": "Max Wiretaps/MarkersOnUse | 最大窃听器/标记使用",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Earn Money on Spend",
+      "name": "Earn Money on Spend | 消费赚钱",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max Current Money on Use",
+      "name": "Max Current Money on Use | 当前金钱最大使用",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Max Total Money on Use",
+      "name": "Max Total Money on Use | 总金钱最大使用",
       "type": "checkbox",
       "memory": [
         {

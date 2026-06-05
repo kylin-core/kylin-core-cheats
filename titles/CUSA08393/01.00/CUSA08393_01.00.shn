@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed Origins" Moder="hejran7" Cusa="CUSA08393" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限生命">
         <Cheatline>
             <Offset>3318796</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-8F-D4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Arrows">
+    <Cheat Text="Infinite Arrows | 无限箭矢">
         <Cheatline>
             <Offset>37659C1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="21 Skillpoints Per Kill">
+    <Cheat Text="21 Skillpoints Per Kill | 击杀获得21技能点">
         <Cheatline>
             <Offset>3A81B2D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-29-DC-41-89-B3-14-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money - Items">
+    <Cheat Text="Max Money - Items | 金钱与物品最大">
         <Cheatline>
             <Offset>37659BC</Offset>
             <Section>0</Section>

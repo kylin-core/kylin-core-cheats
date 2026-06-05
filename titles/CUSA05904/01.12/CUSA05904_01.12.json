@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite ammo + No Reload",
+      "name": "Infinite ammo + No Reload | 无限弹药 + 无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Infinite All usable Items",
+      "name": "Max Infinite All usable Items | 最大无限所有可用物品",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Infinite Perks Points (Enable Only In Perks Screen",
+      "name": "Max Infinite Perks Points (Enable Only In Perks Screen) | 最大无限特长点数（仅在特长界面启用）",
       "type": "checkbox",
       "memory": [
         {

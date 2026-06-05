@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resogun" Moder="Weysincha" Cusa="CUSA00005" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Lives">
+    <Cheat Text="Infinite Lives | 无限生命">
         <Cheatline>
             <Offset>675A6D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-C8-0F-48-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bombs">
+    <Cheat Text="Infinite Bombs | 无限炸弹">
         <Cheatline>
             <Offset>67607E</Offset>
             <Section>0</Section>

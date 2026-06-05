@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Fuel",
+      "name": "Infinite Fuel | 无限燃油",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Perfect Vehicle Condition",
+      "name": "Perfect Vehicle Condition | 完美车辆状态",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max XP ( on gain )",
+      "name": "Max XP ( on gain ) | 最大经验值（获取时）",
       "type": "checkbox",
       "memory": [
         {

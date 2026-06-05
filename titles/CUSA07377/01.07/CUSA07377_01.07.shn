@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wolfenstein II: The New Colossus" Moder="Rizla" Cusa="CUSA07377" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>2FFB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Armour">
+    <Cheat Text="Infinite Armour | 无限护甲">
         <Cheatline>
             <Offset>2FFB80F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>117BDB4</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>118FCBF</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>39-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables">
+    <Cheat Text="Infinite Throwables | 无限投掷物">
         <Cheatline>
             <Offset>118FC62</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>01-73-30</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>2FFB873</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Enigma Codes/Upgrades on Use">
+    <Cheat Text="Max Enigma Codes/Upgrades on Use | 使用即满谜题代码/升级">
         <Cheatline>
             <Offset>2FFB888</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Venus Suit Never Overheats">
+    <Cheat Text="Venus Suit Never Overheats | 金星护甲永不超载">
         <Cheatline>
             <Offset>2FFB89A</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (3D Minigame)">
+    <Cheat Text="Infinite Health (3D Minigame) | 无限生命（3D小游戏）">
         <Cheatline>
             <Offset>11C6667</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>41-29-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Lives (3D Minigame)">
+    <Cheat Text="Infinite Lives (3D Minigame) | 无限生命数（3D小游戏）">
         <Cheatline>
             <Offset>11E3595</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo (3D Minigame)">
+    <Cheat Text="Infinite Ammo (3D Minigame) | 无限弹药（3D小游戏）">
         <Cheatline>
             <Offset>11C5EAA</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>41-FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score on Gain (3D Minigame)">
+    <Cheat Text="Max Score on Gain (3D Minigame) | 得分即满（3D小游戏）">
         <Cheatline>
             <Offset>2FFB89A</Offset>
             <Section>0</Section>

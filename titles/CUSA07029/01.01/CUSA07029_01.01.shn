@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wonder Boy" Moder="TLH" Cusa="CUSA07029" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>37F800</Offset>
             <Section>0</Section>

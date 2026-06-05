@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Experience/Coins (kill an enemy go to map activate cheat restart game)",
+      "name": "Max Experience/Coins (kill an enemy go to map activate cheat restart game) | 最大经验/金币（击杀敌人后回到地图界面激活秘籍，重启游戏生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Skill points(turn on in stats upgrade turn off and repeat)",
+      "name": "Max Skill points(turn on in stats upgrade turn off and repeat) | 最大技能点（在属性升级页面开启，关闭后重复操作）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sundered" Moder="Saso" Cusa="CUSA07282" Version="01.14" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Health / 1 Hit (Master Code)">
+    <Cheat Text="Health / 1 Hit (Master Code) | Health / 一击必杀（主代码）">
         <Cheatline>
             <Offset>13E3800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>13E3804</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-05</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stamina">
+    <Cheat Text="Stamina | 体力">
         <Cheatline>
             <Offset>13E381E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shield">
+    <Cheat Text="Shield | 护盾">
         <Cheatline>
             <Offset>13E384D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Finisher (After 1st Use)">
+    <Cheat Text="Infinite Finisher (After 1st Use) | 无限终结技（首次使用后）">
         <Cheatline>
             <Offset>13E382D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shard">
+    <Cheat Text="Max Shard | 碎片上限">
         <Cheatline>
             <Offset>13E383B</Offset>
             <Section>0</Section>

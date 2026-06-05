@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无伤状态",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Max Gun Rate of Fire",
+      "name": "Max Gun Rate of Fire | 最高射速",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infi Ammo (No Reload)",
+      "name": "Infi Ammo (No Reload) | 无限弹药（无需装填）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infi Throwables",
+      "name": "Infi Throwables | 无限投掷武器",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "No Item Reduction",
+      "name": "No Item Reduction | 物品不减",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Infi White Sage (Rose)",
+      "name": "Infi White Sage (Rose) | 无限白鼠尾草（萝丝）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Instantly Ready (Ethan's Tank Cannon & Chris's Target Locator)",
+      "name": "Instantly Ready (Ethan's Tank Cannon \u0026 Chris's Target Locator) | 瞬间就绪（伊坦的坦克炮与克里斯的目标定位器）",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Chris's Fist Bar Instant Reload",
+      "name": "Chris's Fist Bar Instant Reload | 克里斯拳套槽瞬间装填",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Max Score (Mercenaries)",
+      "name": "Max Score (Mercenaries) | 最高分数（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Alcina's Rage is immediately Full (Mercenaries)",
+      "name": "Alcina's Rage is immediately Full (Mercenaries) | 阿尔西娜的愤怒立即充满（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Alcina's Rage is Not Reduced (Mercenaries)",
+      "name": "Alcina's Rage is Not Reduced (Mercenaries) | 阿尔西娜的愤怒不减（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": "Alcina's Infi Insect Swarm (Mercenaries)",
+      "name": "Alcina's Infi Insect Swarm (Mercenaries) | 阿尔西娜的无限虫群（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "name": "Alcina's Infi Ornate Vanity (Mercenaries)",
+      "name": "Alcina's Infi Ornate Vanity (Mercenaries) | 阿尔西娜的无限华丽梳妆台（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "name": "Alcina's Daughter Instant Reload (Mercenaries)",
+      "name": "Alcina's Daughter Instant Reload (Mercenaries) | 阿尔西娜的女儿瞬间装填（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Karl's Sawblade Instant Reload (Mercenaries)",
+      "name": "Karl's Sawblade Instant Reload (Mercenaries) | 卡尔的锯片瞬间装填（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "name": "Karl's Scrap Instant Reload (Mercenaries)",
+      "name": "Karl's Scrap Instant Reload (Mercenaries) | 卡尔的废料瞬间装填（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "name": "Karl's Soldier Jet Instant Reload (Mercenaries)",
+      "name": "Karl's Soldier Jet Instant Reload (Mercenaries) | 卡尔的士兵喷气瞬间装填（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {

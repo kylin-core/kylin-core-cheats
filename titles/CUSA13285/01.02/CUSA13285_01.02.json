@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Geos",
+      "name": "Max Geos | 最大吉欧",
       "type": "checkbox",
       "memory": [
         {

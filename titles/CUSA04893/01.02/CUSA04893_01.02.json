@@ -5,7 +5,7 @@
   "process": "ScimitarAC2.elf",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Money/Items on Get",
+      "name": "Max Money/Items on Get | 获取时金钱/物品最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Money/Items",
+      "name": "Infinite Money/Items | 无限金钱/物品",
       "type": "checkbox",
       "memory": [
         {

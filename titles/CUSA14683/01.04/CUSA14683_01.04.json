@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Skill points ivreases (on Spend)",
+      "name": "Skill points ivreases (on Spend) | 技能点增加（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max ucred (on gain)",
+      "name": "Max ucred (on gain) | 最大信用点（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Basic component (pick up 2 at least)",
+      "name": "Max Basic component (pick up 2 at least) | 最大基础组件（至少拾取2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "High Damage/Invincible to most enemies",
+      "name": "High Damage/Invincible to most enemies | 高伤害/对多数敌人无敌",
       "type": "checkbox",
       "memory": [
         {

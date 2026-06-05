@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible-1-(MC)",
+      "name": "Invincible-1-(MC) | 无敌模式-1（玩家角色）",
       "type": "checkbox",
       "memory": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Invincible-2-(MC)",
+      "name": "Invincible-2-(MC) | 无敌模式-2（玩家角色）",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Infinite-Health-(MC)",
+      "name": "Infinite-Health-(MC) | 无限生命（玩家角色）",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Inf-Ammo-Never-Reload",
+      "name": "Inf-Ammo-Never-Reload | 无限弹药无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Infinite-lives",
+      "name": "Infinite-lives | 无限命数",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Infinite-Grenades",
+      "name": "Infinite-Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {

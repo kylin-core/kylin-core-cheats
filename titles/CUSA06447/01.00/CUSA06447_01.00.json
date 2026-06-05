@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Buy An Item Money Doubles",
-      "hint": null,
+      "name": "Buy An Item Money Doubles | 购买物品金钱翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Click On Gain XP Before Releasing Fish Click Off And On",
-      "hint": null,
+      "name": "Click On Gain XP Before Releasing Fish Click Off And On | 放鱼前开启经验获取，关闭再开启",
       "type": "checkbox",
       "memory": [
         {

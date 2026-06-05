@@ -3,22 +3,9 @@
   "id": "CUSA07123",
   "version": "01.21",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "13F7800",
-        "on": "498B46204989462089C15348C7C3004000004C89335BE9F4C12BFF"
-      },
-      {
-        "offset": "6B3A09",
-        "on": "E9F23DD40090"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "Infinte Health",
+      "name": "Infinte Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -29,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限精力",
       "type": "checkbox",
       "memory": [
         {
@@ -45,7 +32,7 @@
       ]
     },
     {
-      "name": "2 Hit Kill",
+      "name": "2 Hit Kill | 两击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -61,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Amirta",
+      "name": "Infinite Amirta | 无限精华",
       "type": "checkbox",
       "memory": [
         {
@@ -77,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Gold",
+      "name": "Infinite Gold | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Lightning Water Ninjutsu Power",
+      "name": "Infinite Lightning Water Ninjutsu Power | 无限雷水忍术力",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Camera Shutter Cooldown",
+      "name": "Camera Shutter Cooldown | 快门冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Camera Film Cooldown",
+      "name": "Camera Film Cooldown | 胶卷冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "HP Refill When Damage",
+      "name": "HP Refill When Damage | 受伤时HP回复",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "HP Refill when Grab by Hand",
+      "name": "HP Refill when Grab by Hand | 被手抓住时HP回复",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Reset Time",
+      "name": "Reset Time | 重置时间",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Pause Time",
+      "name": "Pause Time | 暂停时间",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Score + Points x2 (dont touch soul)",
+      "name": "Score + Points x2 (dont touch soul) | 分数+点数x2（不碰灵体）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Score + Points + 99m (dont touch soul)",
+      "name": "Score + Points + 99m (dont touch soul) | 分数+点数+99米（不碰灵体）",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "+1 Item",
+      "name": "+1 Item | +1道具",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "+1 Film",
+      "name": "+1 Film | +1胶卷",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Max item per use",
+      "name": "Max item per use | 每次使用道具最大数量",
       "type": "checkbox",
       "memory": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "Max Film per use",
+      "name": "Max Film per use | 每次使用胶卷最大数量",
       "type": "checkbox",
       "memory": [
         {

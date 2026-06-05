@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored 2" Moder="TLH" Cusa="CUSA03603" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>307F812</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kills">
+    <Cheat Text="1 Hit Kills | 一击必杀">
         <Cheatline>
             <Offset>307F813</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Mana">
+    <Cheat Text="Infinite Mana | 无限法力">
         <Cheatline>
             <Offset>18ACAAE</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-47-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath">
+    <Cheat Text="Infinite Breath | 无限呼吸">
         <Cheatline>
             <Offset>1B88E96</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>15F2F29</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>FF-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/Items">
+    <Cheat Text="Infinite Ammo/Items | 无限弹药/物品">
         <Cheatline>
             <Offset>15AF58A</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-29-F3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo/Items on Get">
+    <Cheat Text="Max Ammo/Items on Get | 获得时弹药/物品满额">
         <Cheatline>
             <Offset>15AF33A</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>44-0F-4F-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money on Get">
+    <Cheat Text="Max Money on Get | 获得时金钱满额">
         <Cheatline>
             <Offset>307F8A8</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dark-Vision">
+    <Cheat Text="Infinite Dark-Vision | 无限黑暗视觉">
         <Cheatline>
             <Offset>11E1F2C</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-10-45-C4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Doppelgaenger">
+    <Cheat Text="Infinite Doppelgaenger | 无限分身">
         <Cheatline>
             <Offset>11F1607</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-10-84-08-F0-75-2E-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bend-Time">
+    <Cheat Text="Infinite Bend-Time | 无限时间停滞">
         <Cheatline>
             <Offset>274560D</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Possession">
+    <Cheat Text="Infinite Possession | 无限附身">
         <Cheatline>
             <Offset>1B2F234</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>C4-C1-7A-58-87-E8-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Shadow Walk">
+    <Cheat Text="Infinite Shadow Walk | 无限暗影行走">
         <Cheatline>
             <Offset>15C7F98</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>C5-FA-5C-84-01-F0-75-2E-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Traits">
+    <Cheat Text="Infinite Traits | 无限特质">
         <Cheatline>
             <Offset>12FBEE3</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>FF-44-33-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Movement Speed x5">
+    <Cheat Text="Movement Speed x5 | 移动速度5倍">
         <Cheatline>
             <Offset>307F84E</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perfect Stats">
+    <Cheat Text="Perfect Stats | 完美属性">
         <Cheatline>
             <Offset>307F85C</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zero Chaos">
+    <Cheat Text="Zero Chaos | 零混乱度">
         <Cheatline>
             <Offset>24F395F</Offset>
             <Section>0</Section>

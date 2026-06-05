@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blaster Master Zero" Moder="d01v" Cusa="CUSA19647" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限生命">
         <Cheatline>
             <Offset>377CC7</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Sub Weapon">
+    <Cheat Text="Infinite Sub Weapon | 无限副武器">
         <Cheatline>
             <Offset>13DEF4</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>88-58-1A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenade">
+    <Cheat Text="Infinite Grenade | 无限手雷">
         <Cheatline>
             <Offset>17176F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>88-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Guns (Dungeon)">
+    <Cheat Text="All Guns (Dungeon) | 全部枪支（地下城）">
         <Cheatline>
             <Offset>17189F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>40-28-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Thunder Breaker (Sub Weapon Press L1)">
+    <Cheat Text="Thunder Breaker (Sub Weapon Press L1) | 雷电破坏者（副武器按L1）">
         <Cheatline>
             <Offset>173022</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>45-02-6F-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Homing Missle (Sub Weapon Press L1)">
+    <Cheat Text="Homing Missle (Sub Weapon Press L1) | 追踪导弹（副武器按L1）">
         <Cheatline>
             <Offset>173022</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>45-02-6F-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Spark Tackle (Sub Weapon Press L1)">
+    <Cheat Text="Spark Tackle (Sub Weapon Press L1) | 火花冲撞（副武器按L1）">
         <Cheatline>
             <Offset>173022</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>45-02-6F-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shield Mine (Sub Weapon Press L1)">
+    <Cheat Text="Shield Mine (Sub Weapon Press L1) | 护盾地雷（副武器按L1）">
         <Cheatline>
             <Offset>173022</Offset>
             <Section>0</Section>

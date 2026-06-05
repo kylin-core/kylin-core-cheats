@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Ammo",
+      "name": "Max/Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Items/No Reload",
+      "name": "Max/Infinite Items/No Reload | 无限道具/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Xp/level On Gain",
+      "name": "Max Xp/level On Gain | 经验/等级获取最大化",
       "type": "checkbox",
       "memory": [
         {

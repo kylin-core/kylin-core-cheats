@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Res",
+      "name": "Inf Res | 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Abilites Bar (Enable only after unlock Ablities)",
+      "name": "Inf Abilites Bar (Enable only after unlock Ablities) | 无限能力条（仅在解锁能力后启用）",
       "type": "checkbox",
       "memory": [
         {

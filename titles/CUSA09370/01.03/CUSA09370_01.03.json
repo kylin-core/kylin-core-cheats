@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Mana",
+      "name": "Infinite Mana | 无限法力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stat point Van Helsing",
+      "name": "Infinite Stat point Van Helsing | 无限属性点（范海辛）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Power Points",
+      "name": "Infinite Power Points | 无限力量点",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Perk Points",
+      "name": "Infinite Perk Points | 无限专长点",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Stats Lady Katarina",
+      "name": "Infinite Stats Lady Katarina | 无限属性点（卡塔琳娜女士）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Coins (on get)",
+      "name": "Max Coins (on get) | 最大金币（拾取时）",
       "type": "checkbox",
       "memory": [
         {

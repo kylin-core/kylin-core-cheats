@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
-      "hint": null,
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Throwables/Medkits",
-      "hint": null,
+      "name": "Infinite Ammo/Throwables/Medkits | 无限弹药/投掷物/医疗包",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "hint": null,
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {

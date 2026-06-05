@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Swords/Upgrade parts (on gain find 2 at least)",
+      "name": "Max Swords/Upgrade parts (on gain find 2 at least) | 最大剑/升级部件（获取时至少获得2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Crystal Fragment (on spend)",
+      "name": "Max Crystal Fragment (on spend) | 最大水晶碎片（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Time Reverse (on use)",
+      "name": "Max Time Reverse (on use) | 最大时间逆转（使用时）",
       "type": "checkbox",
       "memory": [
         {

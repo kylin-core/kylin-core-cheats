@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Money Gain on spend",
+      "name": "Money Gain on spend | 消费时获得资金",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "AP Gain on spend",
+      "name": "AP Gain on spend | 消费时获得AP",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "PP Gain on spend",
+      "name": "PP Gain on spend | 消费时获得PP",
       "type": "checkbox",
       "memory": [
         {

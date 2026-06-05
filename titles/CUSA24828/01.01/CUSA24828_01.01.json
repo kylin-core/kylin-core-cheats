@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincibility",
+      "name": "Invincibility | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Health",
+      "name": "Max Health | 最大生命",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Energy",
+      "name": "Max Energy | 最大能量",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Damage",
+      "name": "Max Damage | 最大伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Armor",
+      "name": "Infinite Armor | 无限护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Food",
+      "name": "Max Food | 最大饱食度",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "No Cooldown Skills",
+      "name": "No Cooldown Skills | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -149,11 +149,10 @@
       ]
     },
     {
-      "name": "No Poison Damage",
+      "name": "No Poison Damage | 免疫毒伤",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "11FC104",
           "on": "767D",
           "off": "777D"
@@ -161,7 +160,7 @@
       ]
     },
     {
-      "name": "Max Kills",
+      "name": "Max Kills | 最大击杀数",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +176,7 @@
       ]
     },
     {
-      "name": "Infinite Inventory Space Consumption",
+      "name": "Infinite Inventory Space Consumption | 背包消耗无限",
       "type": "checkbox",
       "memory": [
         {
@@ -193,7 +192,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 最大物品数",
       "type": "checkbox",
       "memory": [
         {
@@ -209,7 +208,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -225,7 +224,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 2 ]",
+      "name": "Player Speed [ x 2 ] | 玩家速度 [ x2 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -241,7 +240,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 3 ]",
+      "name": "Player Speed [ x 3 ] | 玩家速度 [ x3 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +256,7 @@
       ]
     },
     {
-      "name": "Player Roll Speed [ x 2 ]",
+      "name": "Player Roll Speed [ x 2 ] | 翻滚速度 [ x2 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -273,7 +272,7 @@
       ]
     },
     {
-      "name": "Player Roll Speed [ x 3 ]",
+      "name": "Player Roll Speed [ x 3 ] | 翻滚速度 [ x3 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -289,11 +288,10 @@
       ]
     },
     {
-      "name": "Player Jump Height [ x 2 ]",
+      "name": "Player Jump Height [ x 2 ] | 跳跃高度 [ x2 ]",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "57F3C9",
           "on": "B80000484390",
           "off": "8B8028010000"
@@ -301,11 +299,10 @@
       ]
     },
     {
-      "name": "Player Jump Height [ x 3 ]",
+      "name": "Player Jump Height [ x 3 ] | 跳跃高度 [ x3 ]",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "57F3C9",
           "on": "B80000964390",
           "off": "8B8028010000"

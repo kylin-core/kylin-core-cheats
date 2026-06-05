@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Battery",
-      "description": "",
+      "name": "Inf Battery | 无限电池",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Life",
-      "description": "",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {

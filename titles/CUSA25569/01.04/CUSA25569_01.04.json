@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health / Shield / 1 Hit Kill (Master Code)",
+      "name": "Inf Health / Shield / 1 Hit Kill (Master Code) | 无限生命/护盾/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Shield (MC)",
+      "name": "Inf Shield (MC) | 无限护盾（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Gold (On Spend)",
+      "name": "Max Gold (On Spend) | 最大金币（消费时）",
       "type": "checkbox",
       "memory": [
         {

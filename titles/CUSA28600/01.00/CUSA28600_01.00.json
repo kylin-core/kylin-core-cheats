@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5F350",
           "on": "6641813FE903750741C647081EEB0B4189570883BB400C000002E9D5AF3B80",
           "off": "00000000000000000000000000000000000000000000000000000000000000"
@@ -22,11 +21,10 @@
       ]
     },
     {
-      "name": "Special Skill Points (on charge)",
+      "name": "Special Skill Points (on charge) | 技能点数（充能时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5C900",
           "on": "66C74210E70331D2E95BE83B80",
           "off": "00000000000000000000000000"
@@ -39,11 +37,10 @@
       ]
     },
     {
-      "name": "99 Items (on use)",
+      "name": "99 Items (on use) | 99道具（使用时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5FFB0",
           "on": "C684070818000063E9D6D23F80",
           "off": "00000000000000000000000000"
@@ -56,11 +53,10 @@
       ]
     },
     {
-      "name": "Max Shells (on gain)",
+      "name": "Max Shells (on gain) | 最大贝壳（获取时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5F190",
           "on": "C780D85E00005F4D2F00E9E70D5680",
           "off": "000000000000000000000000000000"

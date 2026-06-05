@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Set Money to 8.999.999",
-      "hint": null,
+      "name": "Set Money to 8.999.999 | 设置金钱为8,999,999",
       "type": "button",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Set Skillpoints to 999",
-      "hint": null,
+      "name": "Set Skillpoints to 999 | 设置技能点为999",
       "type": "button",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Max Level",
-      "hint": null,
+      "name": "Max Level | 最高等级",
       "type": "button",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "Set Kill series to 9.999.999",
-      "hint": null,
+      "name": "Set Kill series to 9.999.999 | 设置击杀数为9,999,999",
       "type": "button",
       "memory": [
         {

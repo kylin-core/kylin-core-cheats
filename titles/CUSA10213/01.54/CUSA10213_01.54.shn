@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Zero Dawn™: Complete Edition" Moder="Celogamez" Cusa="CUSA10213" Version="01.54" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health/1 Hit Kill (Master Code)">
+    <Cheat Text="Infinite Health/1 Hit Kill (Master Code) | 无限生命/秒杀（主代码）">
         <Cheatline>
             <Offset>1F27E50</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (Enable MC)">
+    <Cheat Text="Infinite Health (Enable MC) | 无限生命（启用主代码）">
         <Cheatline>
             <Offset>1F27E56</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-43-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheat Text="1 Hit Kill (Enable MC) | 秒杀（启用主代码）">
         <Cheatline>
             <Offset>1F27E54</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>75-0D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health Regeneration">
+    <Cheat Text="Infinite Health Regeneration | 无限生命恢复">
         <Cheatline>
             <Offset>7FC5BDE0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Weaver Armour">
+    <Cheat Text="Max/Infinite Weaver Armour | 最大/无限织盾者护甲">
         <Cheatline>
             <Offset>7FC5B810</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/Shards/Resources On Use/Buy">
+    <Cheat Text="Infinite Items/Shards/Resources On Use/Buy | 使用/购买时无限物品/碎片/资源">
         <Cheatline>
             <Offset>7FC5BFD0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Aim Focus">
+    <Cheat Text="Infinite Aim Focus | 无限瞄准专注">
         <Cheatline>
             <Offset>7FC5BAB0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath (Underwater)">
+    <Cheat Text="Infinite Breath (Underwater) | 无限水下呼吸">
         <Cheatline>
             <Offset>7FC5BA40</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shards On Buy (Disable After Buy)">
+    <Cheat Text="Max Shards On Buy (Disable After Buy) | 购买时最大碎片（购买后禁用）">
         <Cheatline>
             <Offset>1F27E4D</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Skill Points On Use">
+    <Cheat Text="Max/Infinite Skill Points On Use | 使用时最大/无限技能点">
         <Cheatline>
             <Offset>7FC5BF60</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stop Time Trial">
+    <Cheat Text="Stop Time Trial | 停止限时挑战">
         <Cheatline>
             <Offset>7FC5B890</Offset>
             <Section>0</Section>

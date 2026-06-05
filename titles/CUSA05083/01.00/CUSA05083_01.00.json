@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Use Cheats on Refined mode",
+      "name": "Use Cheats on Refined mode | 在精炼模式下使用作弊",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Phozon On Gain",
+      "name": "Max Phozon On Gain | 获得时最大魔素量",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Max Gold On Buy",
+      "name": "Max Gold On Buy | 购买时最大金币量",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Ability Point On Usage",
+      "name": "Max Ability Point On Usage | 使用时最大技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Exp on Gain",
+      "name": "Max Exp on Gain | 获得时最大经验值",
       "type": "checkbox",
       "memory": [
         {

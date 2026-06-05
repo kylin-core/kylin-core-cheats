@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (MC)",
-      "description": "none",
+      "name": "Master Code (MC) | 主密码（MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -52,8 +51,7 @@
       ]
     },
     {
-      "name": "Max Health",
-      "description": "none",
+      "name": "Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -69,8 +67,7 @@
       ]
     },
     {
-      "name": "Ignored by the Enemy",
-      "description": "Enable it after you get off the helicopter; it work with enemy soldiers/helicopter but not with skulls; if you enable it after the enemy has seen you, the cheat won't work",
+      "name": "Ignored by the Enemy | 被敌人无视",
       "type": "checkbox",
       "memory": [
         {
@@ -96,8 +93,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
-      "description": "none",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -143,8 +139,7 @@
       ]
     },
     {
-      "name": "Hyper Run (Enable MC)",
-      "description": "none",
+      "name": "Hyper Run (Enable MC) | 超级奔跑（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -155,8 +150,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Fulton/Drugs",
-      "description": "none",
+      "name": "Infinite Ammo/Fulton/Drugs | 无限弹药/富尔顿/药品",
       "type": "checkbox",
       "memory": [
         {
@@ -172,8 +166,7 @@
       ]
     },
     {
-      "name": "Infinite Silencer",
-      "description": "none",
+      "name": "Infinite Silencer | 无限消音器",
       "type": "checkbox",
       "memory": [
         {
@@ -189,8 +182,7 @@
       ]
     },
     {
-      "name": "No Spread",
-      "description": "none",
+      "name": "No Spread | 无散布",
       "type": "checkbox",
       "memory": [
         {
@@ -206,8 +198,7 @@
       ]
     },
     {
-      "name": "No Recoil",
-      "description": "none",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -223,8 +214,7 @@
       ]
     },
     {
-      "name": "Fast Chocke",
-      "description": "none",
+      "name": "Fast Chocke | 快速勒颈",
       "type": "checkbox",
       "memory": [
         {
@@ -240,8 +230,7 @@
       ]
     },
     {
-      "name": "No Mission Time",
-      "description": "Lock in-game mission time to 00:00",
+      "name": "No Mission Time | 无任务时间限制",
       "type": "checkbox",
       "memory": [
         {
@@ -257,8 +246,7 @@
       ]
     },
     {
-      "name": "No Mission Penality",
-      "description": "Penalties such as getting hit, dying, restarting the game, etc. will not be counted.",
+      "name": "No Mission Penality | 无任务惩罚",
       "type": "checkbox",
       "memory": [
         {
@@ -279,8 +267,7 @@
       ]
     },
     {
-      "name": "Weather 0 : Clean (Enable MC)",
-      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "name": "Weather 0 : Clean (Enable MC) | 天气0：晴朗（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -291,8 +278,7 @@
       ]
     },
     {
-      "name": "Weather 1 : Cloudy (Enable MC)",
-      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "name": "Weather 1 : Cloudy (Enable MC) | 天气1：多云（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -318,8 +304,7 @@
       ]
     },
     {
-      "name": "Weather 2 : Rain (Enable MC)",
-      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "name": "Weather 2 : Rain (Enable MC) | 天气2：下雨（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -345,8 +330,7 @@
       ]
     },
     {
-      "name": "Weather 3 : Sand Storm (Enable MC)",
-      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "name": "Weather 3 : Sand Storm (Enable MC) | 天气3：沙尘暴（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -372,8 +356,7 @@
       ]
     },
     {
-      "name": "Weather 4 : Mist (Enable MC)",
-      "description": "Before using it, disable other weather cheats; the in-game weather will be locked to it; to restore normal weather, disable all weather cheats and enable/disable Weather 0",
+      "name": "Weather 4 : Mist (Enable MC) | 天气4：雾气（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -399,8 +382,7 @@
       ]
     },
     {
-      "name": "Time of Day 0 : 00:00 AM (Enable MC)",
-      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "name": "Time of Day 0 : 00:00 AM (Enable MC) | 时间0：凌晨00:00（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -411,8 +393,7 @@
       ]
     },
     {
-      "name": "Time of Day 1 : 06:00 AM (Enable MC)",
-      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "name": "Time of Day 1 : 06:00 AM (Enable MC) | 时间1：早上06:00（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -428,8 +409,7 @@
       ]
     },
     {
-      "name": "Time of Day 2 : 12:00 PM (Enable MC)",
-      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "name": "Time of Day 2 : 12:00 PM (Enable MC) | 时间2：中午12:00（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -445,8 +425,7 @@
       ]
     },
     {
-      "name": "Time of Day 3 : 18:00 PM (Enable MC)",
-      "description": "Before using it, disable other Time of Day cheats; The in-game time will be locked to it",
+      "name": "Time of Day 3 : 18:00 PM (Enable MC) | 时间3：晚上18:00（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -462,8 +441,7 @@
       ]
     },
     {
-      "name": "Time of Day x100 (Enable MC)",
-      "description": "Before using it, disable other Time of Day cheats; The in-game time will be accelerated",
+      "name": "Time of Day x100 (Enable MC) | 时间流逝速度100倍（启用MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -474,8 +452,7 @@
       ]
     },
     {
-      "name": "Max Heroism",
-      "description": "none",
+      "name": "Max Heroism | 最大英雄值",
       "type": "checkbox",
       "memory": [
         {
@@ -491,8 +468,7 @@
       ]
     },
     {
-      "name": "Max GMP",
-      "description": "none",
+      "name": "Max GMP | 最大GMP",
       "type": "checkbox",
       "memory": [
         {
@@ -508,8 +484,7 @@
       ]
     },
     {
-      "name": "Unlock Cassette/Database",
-      "description": "After you get all 99 cassette and all 99 database, you can disable it",
+      "name": "Unlock Cassette/Database | 解锁磁带/数据库",
       "type": "checkbox",
       "memory": [
         {
@@ -525,8 +500,7 @@
       ]
     },
     {
-      "name": "Unlock Developments",
-      "description": "Some items will be unlocked during the gameplay",
+      "name": "Unlock Developments | 解锁开发项目",
       "type": "checkbox",
       "memory": [
         {
@@ -542,8 +516,7 @@
       ]
     },
     {
-      "name": "Instant Developments",
-      "description": "none",
+      "name": "Instant Developments | 瞬间完成开发",
       "type": "checkbox",
       "memory": [
         {
@@ -569,8 +542,7 @@
       ]
     },
     {
-      "name": "Instant Base Developments",
-      "description": "After starting one of the base developments, go back to the idroid menu to trigger it",
+      "name": "Instant Base Developments | 瞬间完成基地开发",
       "type": "checkbox",
       "memory": [
         {
@@ -586,8 +558,7 @@
       ]
     },
     {
-      "name": "Instant External Mission",
-      "description": "After starting the external mission, go back to the idroid menu to trigger it",
+      "name": "Instant External Mission | 瞬间完成外部任务",
       "type": "checkbox",
       "memory": [
         {
@@ -603,8 +574,7 @@
       ]
     },
     {
-      "name": "Instant Mother Base Optional Mission (Target Shooting)",
-      "description": "Instant completion by hitting a target; Enable it after loading the mission and disable it before calling the helicopter to leave the mother base",
+      "name": "Instant Mother Base Optional Mission (Target Shooting) | 瞬间完成母基地可选任务（靶场射击）",
       "type": "checkbox",
       "memory": [
         {
@@ -620,8 +590,7 @@
       ]
     },
     {
-      "name": "Instant Nuclear Development",
-      "description": "After starting the nuclear development, go back to the idroid menu to trigger it",
+      "name": "Instant Nuclear Development | 瞬间完成核武器开发",
       "type": "checkbox",
       "memory": [
         {
@@ -647,8 +616,7 @@
       ]
     },
     {
-      "name": "Infinite Resources",
-      "description": "Some resources will be unlocked during the gameplay and will have the maximum value",
+      "name": "Infinite Resources | 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -664,8 +632,7 @@
       ]
     },
     {
-      "name": "Upgrade Base Units",
-      "description": "Move one or more soldiers between units to trigger it",
+      "name": "Upgrade Base Units | 升级基地单位",
       "type": "checkbox",
       "memory": [
         {
@@ -681,8 +648,7 @@
       ]
     },
     {
-      "name": "Max Soldiers Skills",
-      "description": "Activate it only to fully enhance the selected soldier abilities to their maximum allowed potential (scroll the list for other soldiers), then turn it off; the soldiers might all be reassigned to the basic development unit so press R3 (and select all personnel) for automatic reassignment",
+      "name": "Max Soldiers Skills | 士兵技能最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -698,8 +664,7 @@
       ]
     },
     {
-      "name": "Infinite NVG lvl.5",
-      "description": "none",
+      "name": "Infinite NVG lvl.5 | 无限夜视仪5级",
       "type": "checkbox",
       "memory": [
         {
@@ -715,8 +680,7 @@
       ]
     },
     {
-      "name": "Infinite Mimetic Suit/Parasites lvl. 5/6 (Invisibility)",
-      "description": "To return visible with the parasites suit disable the cheat",
+      "name": "Infinite Mimetic Suit/Parasites lvl. 5/6 (Invisibility) | 无限拟态服/寄生虫5/6级（隐形）",
       "type": "checkbox",
       "memory": [
         {
@@ -732,8 +696,7 @@
       ]
     },
     {
-      "name": "D-Walker Infinite Ammo/Silencer/Overheat",
-      "description": "none",
+      "name": "D-Walker Infinite Ammo/Silencer/Overheat | D-Walker无限弹药/消音器/不过热",
       "type": "checkbox",
       "memory": [
         {
@@ -789,8 +752,7 @@
       ]
     },
     {
-      "name": "D-Friend Infinite Health",
-      "description": "No demage for D-Horse, DD, D-Walker and Quiet",
+      "name": "D-Friend Infinite Health | D-Friend无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -806,8 +768,7 @@
       ]
     },
     {
-      "name": "D-Friend Max Points",
-      "description": "none",
+      "name": "D-Friend Max Points | D-Friend最大点数",
       "type": "checkbox",
       "memory": [
         {
@@ -823,8 +784,7 @@
       ]
     },
     {
-      "name": "Tanks Infinite Ammo/Speed/Rockets/Overheat",
-      "description": "none",
+      "name": "Tanks Infinite Ammo/Speed/Rockets/Overheat | 坦克无限弹药/速度/火箭/不过热",
       "type": "checkbox",
       "memory": [
         {

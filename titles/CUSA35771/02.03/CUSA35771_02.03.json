@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / Ammo / Frost (Master Code)",
+      "name": "Health / Ammo / Frost (Master Code) | 生命/弹药/寒气（主密码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo / No Reload / Frost (MC)",
+      "name": "Inf Ammo / No Reload / Frost (MC) | 无限弹药/无需装弹/寒气（主密码）",
       "type": "checkbox",
       "memory": [
         {

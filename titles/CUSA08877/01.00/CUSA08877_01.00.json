@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Items \"After Buy/Use\" ",
+      "name": "Max Items \"After Buy/Use\"  | 物品最大 \"购买/使用后\"",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Inf. Magic Stones \"After Use\"",
+      "name": "Inf. Magic Stones \"After Use\" | 无限魔法石 \"使用后\"",
       "type": "checkbox",
       "memory": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "Quickly Gain Abilities",
+      "name": "Quickly Gain Abilities | 快速习得能力",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "name": "Max Stats \"After Level Up\"",
+      "name": "Max Stats \"After Level Up\" | 属性最大化 \"升级后\"",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Max Trace \"After 1 Battle\"",
+      "name": "Max Trace \"After 1 Battle\" | 追踪次数最大 \"1场战斗后\"",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {

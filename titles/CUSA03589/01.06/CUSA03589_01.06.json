@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Master Code)",
+      "name": "Infinite Health (Master Code) | 无限生命（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Opponent Health (25%) (MC)",
+      "name": "Opponent Health (25%) (MC) | 对手生命值（25%）（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Super Meter Bars (Master Code)",
+      "name": "Infinite Super Meter Bars (Master Code) | 无限能量槽（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Opponent Super Meter Bars (0) (MC)",
+      "name": "Opponent Super Meter Bars (0) (MC) | 对手能量槽清零（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Koins",
+      "name": "Max Koins | 最大金币",
       "type": "checkbox",
       "memory": [
         {

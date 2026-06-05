@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Alan Wake Remastered" Moder="Saso" Cusa="CUSA24653" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>EF1CA0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>EEC3A0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo / No Reload">
+    <Cheat Text="Infinite Ammo / No Reload | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>EEC4C0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shutgun No Reload">
+    <Cheat Text="Shutgun No Reload | 霰弹枪无需装弹">
         <Cheatline>
             <Offset>2B189E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>FF-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Flashlight Energy">
+    <Cheat Text="Infinite Flashlight Energy | 无限手电能量">
         <Cheatline>
             <Offset>15AE14</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-41-7A-11-B7-40-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Batteries">
+    <Cheat Text="Infinite Batteries | 无限电池">
         <Cheatline>
             <Offset>15D53C</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Flare">
+    <Cheat Text="Infinite Flare | 无限信号弹">
         <Cheatline>
             <Offset>EF21A0</Offset>
             <Section>0</Section>

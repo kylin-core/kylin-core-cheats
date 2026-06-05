@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi HP",
+      "name": "Infi HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infi Ammo & Items",
+      "name": "Infi Ammo \u0026 Items | 无限弹药与道具",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ONE PIECE ODYSSEY" Moder="wander fw9.00" Cusa="CUSA20374" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>745BAF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite TP">
+    <Cheat Text="Infinite TP | 无限TP">
         <Cheatline>
             <Offset>745BAC0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience Given (on 1st or 2nd fight)">
+    <Cheat Text="Max Experience Given (on 1st or 2nd fight) | 最大经验值（第一次或第二次战斗后）">
         <Cheatline>
             <Offset>745BA80</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Beeries (after the Fight)">
+    <Cheat Text="Max Beeries (after the Fight) | 最大贝利（战斗后）">
         <Cheatline>
             <Offset>745BB50</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Items (on use)">
+    <Cheat Text="99 Items (on use) | 99个物品（使用时）">
         <Cheatline>
             <Offset>745B990</Offset>
             <Section>0</Section>

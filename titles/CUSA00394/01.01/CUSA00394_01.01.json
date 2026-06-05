@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Spider Suit Health",
+      "name": "Infinite Spider Suit Health | 无限蜘蛛战衣耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Never Spotted Before Attacking",
+      "name": "Never Spotted Before Attacking | 攻击前永不被发现",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Freeze Upgrade Points (UnPause Then Pause)",
+      "name": "Freeze Upgrade Points (UnPause Then Pause) | 锁定升级点数（先取消暂停再暂停）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Freeze Mission Timer",
+      "name": "Freeze Mission Timer | 锁定任务时间",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Heroic Level Don\\'t Decrease",
+      "name": "Heroic Level Don't Decrease | 英雄等级不下降",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite money",
+      "name": "Infinite money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Token",
+      "name": "Infinite Token | 无限代币",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Item",
+      "name": "Infinite Item | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {

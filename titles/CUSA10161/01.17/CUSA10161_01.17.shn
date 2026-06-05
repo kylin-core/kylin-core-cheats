@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Immortal: Unchained" Moder="Saso_9.00" Cusa="CUSA10161" Version="01.17" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Health / All (Master Code)">
+    <Cheat Text="Health / All (Master Code) | 生命值 / 全部（主代码）">
         <Cheatline>
             <Offset>1D77800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ammo / Stamina / Energy / Consumable (MC)">
+    <Cheat Text="Ammo / Stamina / Energy / Consumable (MC) | 弹药 / 耐力 / 能量 / 消耗品（主代码）">
         <Cheatline>
             <Offset>1D77804</Offset>
             <Section>0</Section>

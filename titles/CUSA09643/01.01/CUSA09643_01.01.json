@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible Player (Ethan/Mia/Clancy)",
+      "name": "Invincible Player (Ethan/Mia/Clancy) | 玩家无敌（伊森/米娅/克兰西）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Invincible Player (Joe - End of Zoe)",
+      "name": "Invincible Player (Joe - End of Zoe) | 玩家无敌（乔 - 佐伊的结局）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Invincible Player (Chris - Not A Hero)",
+      "name": "Invincible Player (Chris - Not A Hero) | 玩家无敌（克里斯 - 不是英雄）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Ammo (NO RELOAD)",
+      "name": "Max and Infinite Ammo (NO RELOAD) | 最大无限弹药（无需装弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables (Chris - Not A Hero)",
+      "name": "Infinite Throwables (Chris - Not A Hero) | 无限投掷物（克里斯 - 不是英雄）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Inventory When USE (items,tools,weapons,ammo)",
+      "name": "Infinite Inventory When USE (items,tools,weapons,ammo) | 使用物品时无限库存（物品、工具、武器、弹药）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Inventory When USE IF > 1",
+      "name": "Infinite Inventory When USE IF \u003e 1 | 使用物品时无限库存（数量大于1时）",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Infinite Crafting Items When Use",
+      "name": "Infinite Crafting Items When Use | 使用制作材料时无限供应",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Infinite Crafting Items When Use IF > 1",
+      "name": "Infinite Crafting Items When Use IF \u003e 1 | 使用制作材料时无限供应（数量大于1时）",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Enable X-ray",
+      "name": "Enable X-ray | 开启透视",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Infinite Scrap When Spend",
+      "name": "Infinite Scrap When Spend | 消耗废料时无限",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Instantly Max and Infinite Scrap (99,999)",
+      "name": "Instantly Max and Infinite Scrap (99,999) | 瞬间最大无限废料（99,999）",
       "type": "checkbox",
       "memory": [
         {

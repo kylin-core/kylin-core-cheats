@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="COD: World War II (Campaign)" Moder="DeathRGH" Cusa="CUSA05969" Version="01.11" Process="default.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>BFC006C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>D261D7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-29-64-88-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Laser">
+    <Cheat Text="Laser | 激光指示">
         <Cheatline>
             <Offset>C5215A6</Offset>
             <Section>0</Section>

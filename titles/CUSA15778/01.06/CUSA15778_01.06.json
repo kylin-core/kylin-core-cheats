@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No reload & Inf Ammo",
+      "name": "No reload \u0026 Inf Ammo | 无需装弹 \u0026 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Hp",
+      "name": "Inf Hp | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Never Dec Items",
+      "name": "Never Dec Items | 道具不减",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Yaran Pesos/Items 9999999",
+      "name": "Yaran Pesos/Items 9999999 | 雅拉比索/物品 9999999",
       "type": "checkbox",
       "memory": [
         {

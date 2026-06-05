@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo - Res",
+      "name": "Inf Ammo - Res | 无限弹药-资源",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "No Recoil",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Rapid Fire",
+      "name": "Rapid Fire | 快速射击",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max Skill Points on Use",
+      "name": "Max Skill Points on Use | 技能点最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Moon Jump",
+      "name": "Moon Jump | 月球跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Inf Bonus Time",
+      "name": "Inf Bonus Time | 无限额外时间",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Inf Combo Time",
+      "name": "Inf Combo Time | 无限连击时间",
       "type": "checkbox",
       "memory": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Full Hunger Meter",
+      "name": "Full Hunger Meter | 满饱腹度",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Full Cold Meter",
+      "name": "Full Cold Meter | 满体温抗性",
       "type": "checkbox",
       "memory": [
         {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "Full Hunger and Cold Meter",
+      "name": "Full Hunger and Cold Meter | 满饱腹与体温抗性",
       "type": "checkbox",
       "memory": [
         {

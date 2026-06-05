@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Doubles Every Time U Spend A Skill Point",
-      "hint": null,
+      "name": "Doubles Every Time U Spend A Skill Point | 每次使用技能点数翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Doubles Every Time U Spend Money",
-      "hint": null,
+      "name": "Doubles Every Time U Spend Money | 每次花费金钱翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Click On Every Couple Kills Your XP Doubles",
-      "hint": null,
+      "name": "Click On Every Couple Kills Your XP Doubles | 每击杀数次点击经验翻倍",
       "type": "checkbox",
       "memory": [
         {

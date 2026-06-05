@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Arrows/Clubs/spears",
+      "name": "Infinite Arrows/Clubs/spears | 无限箭矢/棍棒/长矛",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷武器",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Earn Skills On Spend",
+      "name": "Earn Skills On Spend | 技能点消费即得",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {

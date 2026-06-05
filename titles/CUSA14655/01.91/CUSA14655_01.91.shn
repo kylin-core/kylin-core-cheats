@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DRAGON BALL Z: KAKAROT" Moder="LMN" Cusa="CUSA14655" Version="01.91" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring">
+    <Cheat Text="Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring | 注意：建议仅在有需要时使用经验值增益作弊（请创建备份存档），因为等级过高会导致游戏变得无聊">
         <Cheatline>
             <Offset>7E237FE</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="inf HP">
+    <Cheat Text="inf HP | 无限生命值">
         <Cheatline>
             <Offset>F5944F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-81-78-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="inf ki">
+    <Cheat Text="inf ki | 无限气力">
         <Cheatline>
             <Offset>F594AF</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-81-7C-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="inf medals/items">
+    <Cheat Text="inf medals/items | 无限奖牌/道具">
         <Cheatline>
             <Offset>7E23800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max money">
+    <Cheat Text="Max money | 最大金钱">
         <Cheatline>
             <Offset>7E23816</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max ORBs">
+    <Cheat Text="max ORBs | 最大能量球">
         <Cheatline>
             <Offset>7E23829</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP gain x 2">
+    <Cheat Text="XP gain x 2 | 经验值获取 x2">
         <Cheatline>
             <Offset>7E2383B</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP gain x 4">
+    <Cheat Text="XP gain x 4 | 经验值获取 x4">
         <Cheatline>
             <Offset>7E2383B</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP gain x 8">
+    <Cheat Text="XP gain x 8 | 经验值获取 x8">
         <Cheatline>
             <Offset>7E2383B</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP gain x 32">
+    <Cheat Text="XP gain x 32 | 经验值获取 x32">
         <Cheatline>
             <Offset>7E2383B</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP gain x 256">
+    <Cheat Text="XP gain x 256 | 经验值获取 x256">
         <Cheatline>
             <Offset>7E2383B</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="player lvl 250 (after 2 battles) = one hit kills = boring and permenent">
+    <Cheat Text="player lvl 250 (after 2 battles) = one hit kills = boring and permenent | 角色等级250（两场战斗后） = 一击必杀 = 无聊且不可逆">
         <Cheatline>
             <Offset>7E23862</Offset>
             <Section>0</Section>

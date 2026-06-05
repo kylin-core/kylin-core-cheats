@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="7 Days To Die" Moder="DeathRGH" Cusa="CUSA03455" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>808901B6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>F2-44-0F-5A-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Get Skillpoints For Spending Them">
+    <Cheat Text="Get Skillpoints For Spending Them | 花费技能点返还技能点">
         <Cheatline>
             <Offset>80B5ACA9</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>2B-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health / Stamina">
+    <Cheat Text="Infinite Health / Stamina | 无限生命/体力">
         <Cheatline>
             <Offset>808901BB</Offset>
             <Section>0</Section>

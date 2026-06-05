@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手榴弹",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Score (in Training) (Journey Mode)",
+      "name": "Max Score (in Training) (Journey Mode) | 最大训练评分（旅程模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points (Journey Mode)",
+      "name": "Infinite Skill Points (Journey Mode) | 无限技能点（旅程模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Budget (after Buying a player)",
+      "name": "Max Budget (after Buying a player) | 最大预算（购买球员后）",
       "type": "checkbox",
       "memory": [
         {

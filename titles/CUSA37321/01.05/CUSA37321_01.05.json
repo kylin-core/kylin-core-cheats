@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Clip",
+      "name": "Infinite Clip | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "999 Neuropolymer (on use only when upgrading your skill and weapons)",
+      "name": "999 Neuropolymer (on use only when upgrading your skill and weapons) | 999 神经聚合物（仅在升级技能和武器时使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "999 Materials when gaining",
+      "name": "999 Materials when gaining | 获取时获得999材料",
       "type": "checkbox",
       "memory": [
         {

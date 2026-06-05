@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wolfenstein - The New Order" Moder="TLH" Cusa="CUSA00320" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>83650B</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-F2-5C-C2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health OverCharge">
+    <Cheat Text="Infinite Health OverCharge | 无限过载生命">
         <Cheatline>
             <Offset>8363FC</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-EA-5C-D3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Health Regeneration">
+    <Cheat Text="Instant Health Regeneration | 瞬间生命恢复">
         <Cheatline>
             <Offset>8363E1</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-EA-5D-D4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Vehicle Health">
+    <Cheat Text="Infinite Vehicle Health | 无限载具生命">
         <Cheatline>
             <Offset>105607F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-F2-5C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>C64075</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>29-43-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>C60C0E</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-29-5C-24-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Armor">
+    <Cheat Text="Infinite Armor | 无限护甲">
         <Cheatline>
             <Offset>8364C5</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-EA-5C-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Perks">
+    <Cheat Text="Easy Perks | 简易技能">
         <Cheatline>
             <Offset>BCFDCA</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>0F-4F-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Perk Conditions to Max">
+    <Cheat Text="Set Perk Conditions to Max | 设定技能条件至最大值">
         <Cheatline>
             <Offset>170B800</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War" Moder="Talixme" Cusa="CUSA07411" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>1059400</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-81-7D-00-08-74-B4-46-0F-85-05-00-00-00-E9-E8-E0-88-FF-C4-C1-7A-11-5D-20-E9-DD-E0-88-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Rage">
+    <Cheat Text="Infinite Rage | 无限怒气">
         <Cheatline>
             <Offset>105941E</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-5D-DC-C5-F8-2E-D9-41-81-7D-00-68-74-B4-46-0F-85-05-00-00-00-E9-C2-E0-88-FF-C4-C1-7A-11-5D-20-E9-B7-E0-88-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Refill Health">
+    <Cheat Text="Refill Health | 补充生命值">
         <Cheatline>
             <Offset>1146B473C8</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-FA-43</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Refill Rage">
+    <Cheat Text="Refill Rage | 补充怒气">
         <Cheatline>
             <Offset>1146B47428</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-FA-43</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9999999 Experience">
+    <Cheat Text="9999999 Experience | 9999999 经验值">
         <Cheatline>
             <Offset>10831BD8E0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>7F-96-98-00-0F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9999999 Money">
+    <Cheat Text="9999999 Money | 9999999 金钱">
         <Cheatline>
             <Offset>10831BDAA0</Offset>
             <Section>0</Section>

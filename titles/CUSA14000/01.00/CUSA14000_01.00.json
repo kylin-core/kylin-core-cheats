@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Lives",
+      "name": "Max Lives | 最大生命数",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 最大道具数",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "One Hit Kill ( Deactivate before open chests )",
+      "name": "One Hit Kill ( Deactivate before open chests ) | 一击必杀（开启宝箱前请关闭）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="My Time at Portia" Moder="Wander FW9.00" Cusa="CUSA10908" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health 999(turn off SP)">
+    <Cheat Text="Infinite Health 999(turn off SP) | 无限生命999（关闭体力）">
         <Cheatline>
             <Offset>153F760</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP(turn off Health)">
+    <Cheat Text="Infinite SP(turn off Health) | 无限体力（关闭生命）">
         <Cheatline>
             <Offset>153F4E0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max items (on gain)">
+    <Cheat Text="Max items (on gain) | 最大物品（获取时）">
         <Cheatline>
             <Offset>153D4D0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill points (on spend)">
+    <Cheat Text="Max Skill points (on spend) | 最大技能点（消耗时）">
         <Cheatline>
             <Offset>153D550</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max coins (on sell)">
+    <Cheat Text="Max coins (on sell) | 最大金币（出售时）">
         <Cheatline>
             <Offset>153F430</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience ">
+    <Cheat Text="Max Experience | 最大经验值">
         <Cheatline>
             <Offset>153FF00</Offset>
             <Section>0</Section>

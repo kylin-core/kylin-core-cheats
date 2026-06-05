@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shin Megami Tensei V Vengeance Digital Deluxe" Moder="d01v" Cusa="CUSA42502" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="BackPort 9 - 505 English Mod by CyB1K">
+    <Cheat Text="BackPort 9 - 505 English Mod by CyB1K | BackPort 9 - 505 英文模组 by CyB1K">
         <Cheatline>
             <Offset>5143531</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Battle Turn">
+    <Cheat Text="Infinite Battle Turn | 无限战斗回合">
         <Cheatline>
             <Offset>475D81</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>48-89-83-E4-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="5 Step Ticks Daytime (x3 multiplier)">
+    <Cheat Text="5 Step Ticks Daytime (x3 multiplier) | 白天5步触发（3倍倍率）">
         <Cheatline>
             <Offset>736156</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-58-05-76-1F-5D-03</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Daytime">
+    <Cheat Text="Freeze Daytime | 冻结白天时间">
         <Cheatline>
             <Offset>736156</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-58-05-76-1F-5D-03</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Hp">
+    <Cheat Text="Infinite Hp | 无限HP">
         <Cheatline>
             <Offset>51432C1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Mp">
+    <Cheat Text="Infinite Mp | 无限MP">
         <Cheatline>
             <Offset>51432F1</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Magatsuhi Skill">
+    <Cheat Text="Infinite Magatsuhi Skill | 无限祸魂技能">
         <Cheatline>
             <Offset>4C0011</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-4C-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Demon ID Modifier">
+    <Cheat Text="Master Code Demon ID Modifier | 主码恶魔ID修改器">
         <Cheatline>
             <Offset>5143321</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Increase Demon ID">
+    <Cheat Text="Increase Demon ID | 增加恶魔ID">
         <Cheatline>
             <Offset>5143327</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Decrease Demon ID">
+    <Cheat Text="Decrease Demon ID | 减少恶魔ID">
         <Cheatline>
             <Offset>5143327</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Items x99">
+    <Cheat Text="All Items x99 | 所有物品x99">
         <Cheatline>
             <Offset>58D82A</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>80-3C-08-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Run Speed (x3 multiplier)">
+    <Cheat Text="Run Speed (x3 multiplier) | 奔跑速度（3倍倍率）">
         <Cheatline>
             <Offset>5143351</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump (x5 multiplier)">
+    <Cheat Text="Super Jump (x5 multiplier) | 超级跳跃（5倍倍率）">
         <Cheatline>
             <Offset>51433B1</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Leap (x5 multiplier)">
+    <Cheat Text="Super Leap (x5 multiplier) | 超级飞跃（5倍倍率）">
         <Cheatline>
             <Offset>5143401</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Stats">
+    <Cheat Text="Player Stats | 玩家属性">
         <Cheatline>
             <Offset>5552C3</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>41-89-47-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Demon Stats">
+    <Cheat Text="Demon Stats | 恶魔属性">
         <Cheatline>
             <Offset>557E41</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>41-89-44-24-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money">
+    <Cheat Text="Money | 金钱">
         <Cheatline>
             <Offset>5143471</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Glory">
+    <Cheat Text="Glory | 荣耀">
         <Cheatline>
             <Offset>5143491</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Exp Demon">
+    <Cheat Text="Master Code Exp Demon | 主码恶魔经验">
         <Cheatline>
             <Offset>51434F1</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="multiplier x50">
+    <Cheat Text="multiplier x50 | 倍率x50">
         <Cheatline>
             <Offset>51434F8</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="multiplier x100">
+    <Cheat Text="multiplier x100 | 倍率x100">
         <Cheatline>
             <Offset>51434F8</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="multiplier x1000">
+    <Cheat Text="multiplier x1000 | 倍率x1000">
         <Cheatline>
             <Offset>51434F8</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Exp Player">
+    <Cheat Text="Master Code Exp Player | 主码玩家经验">
         <Cheatline>
             <Offset>51434B1</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="multiplier x50">
+    <Cheat Text="multiplier x50 | 倍率x50">
         <Cheatline>
             <Offset>51434B6</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="multiplier x100">
+    <Cheat Text="multiplier x100 | 倍率x100">
         <Cheatline>
             <Offset>51434B6</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="multiplier x1000">
+    <Cheat Text="multiplier x1000 | 倍率x1000">
         <Cheatline>
             <Offset>51434B6</Offset>
             <Section>0</Section>

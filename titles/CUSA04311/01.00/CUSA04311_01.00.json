@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Quick Special",
+      "name": "Quick Special | 快速特殊技能",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Quicky Level Up Crafting ",
+      "name": "Quicky Level Up Crafting | 快速升级制作",
       "type": "checkbox",
       "memory": [
         {

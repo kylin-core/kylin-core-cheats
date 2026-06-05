@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Coins (on gain)",
+      "name": "Max Coins (on gain) | 金钱最大（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "All items x30 (on spend)",
+      "name": "All items x30 (on spend) | 所有物品x30（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Keys x99 (on use)",
+      "name": "Keys x99 (on use) | 钥匙x99（使用时）",
       "type": "checkbox",
       "memory": [
         {

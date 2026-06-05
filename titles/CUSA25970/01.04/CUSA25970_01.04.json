@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Pontos Infinitos",
+      "name": "Pontos Infinitos | 无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Vida Infinita (antes de ativar a vida obtenha os pontos e morra uma vez para upar os personagens no maximo.",
+      "name": "Vida Infinita (antes de ativar a vida obtenha os pontos e morra uma vez para upar os personagens no maximo. | 无限生命（激活生命前先获取点数并死亡一次，以将角色升至最高级）",
       "type": "checkbox",
       "memory": [
         {

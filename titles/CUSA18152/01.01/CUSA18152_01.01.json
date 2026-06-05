@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "No Hunger",
-      "hint": null,
+      "name": "No Hunger | 无饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "No Thirst",
-      "hint": null,
+      "name": "No Thirst | 无口渴",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Lives",
+      "name": "Max Lives | 最大生命数",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Timer",
+      "name": "Max Timer | 最大时间",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gems",
+      "name": "Max Gems | 最大宝石",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Stones - [ Infinite Health ]",
+      "name": "Max Stones - [ Infinite Health ] | 最大石头 - [无限生命]",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Defeated Opponents",
+      "name": "Max Defeated Opponents | 最大击败对手",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Moon Jump",
+      "name": "Moon Jump | 月跳",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Stars [ World Map ]",
+      "name": "Max Stars [ World Map ] | 最大星星 [世界地图]",
       "type": "checkbox",
       "memory": [
         {

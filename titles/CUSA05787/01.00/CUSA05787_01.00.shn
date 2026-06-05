@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="KINGDOM HEARTS 0.2 Birth by Sleep - A Fragmentary Passage -" Moder="cristi993" Cusa="CUSA05787" Version="01.00" Process="kh02.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="No MP reload">
+    <Cheat Text="No MP reload | 无MP冷却">
         <Cheatline>
             <Offset>19A655</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-83-1C-07-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP">
+    <Cheat Text="Max XP | 最大经验值">
         <Cheatline>
             <Offset>33AE1C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>81-F9-80-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Focus">
+    <Cheat Text="Infinite Focus | 无限专注">
         <Cheatline>
             <Offset>42508D</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (Must Be Activated First)",
+      "name": "Master Code (Must Be Activated First) | 主代码（必须先激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infi Knife Durability",
+      "name": "Infi Knife Durability | 无限刀具耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Money (Buy)",
+      "name": "Max Money (Buy) | 最大金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infi Horse Dash",
+      "name": "Infi Horse Dash | 无限马匹冲刺",
       "type": "checkbox",
       "memory": [
         {

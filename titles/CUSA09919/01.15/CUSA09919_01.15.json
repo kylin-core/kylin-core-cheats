@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Comb",
-      "description": "Infinite Comb",
+      "name": "Inf Comb | 无限排气",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Jetpack",
-      "description": "",
+      "name": "Inf Jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Inf O2",
-      "description": "",
+      "name": "Inf O2 | 无限氧气",
       "type": "checkbox",
       "memory": [
         {

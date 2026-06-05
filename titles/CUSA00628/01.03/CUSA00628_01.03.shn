@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow Warrior" Moder="TLH" Cusa="CUSA00628" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>D73800</Offset>
             <Section>0</Section>

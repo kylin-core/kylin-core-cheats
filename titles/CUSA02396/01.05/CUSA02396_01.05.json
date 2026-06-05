@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Hearts",
-      "description": "To activate this cheat you need to be on the level selection map. If you activate it before, the cheat will not work and will set your lives to 0 (Para activar este cheat debes de estar en el mapa de selección de niveles, si lo activas antes el cheat no funcionará y pondrá tus vidas en 0)",
+      "name": "Infinite Hearts | 无限爱心",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Moves",
-      "description": "You can activate it at any time in the game (Puedes activarlo en cualquier momento del juego)",
+      "name": "Infinite Moves | 无限移动次数",
       "type": "checkbox",
       "memory": [
         {

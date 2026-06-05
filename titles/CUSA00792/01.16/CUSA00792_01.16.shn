@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Binding of Isaac: Rebirth" Moder="Arkanoid" Cusa="CUSA00792" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP Blue Hearts (J1 and J2) ">
+    <Cheat Text="Inf HP Blue Hearts (J1 and J2) | 无限蓝心 (玩家1和玩家2)">
         <Cheatline>
             <Offset>33E959</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-84-24-B4-18-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf HP Red Hearts (J1 and J2)">
+    <Cheat Text="Inf HP Red Hearts (J1 and J2) | 无限红心 (玩家1和玩家2)">
         <Cheatline>
             <Offset>316C12</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-89-87-AC-18-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Coins x99 or x999">
+    <Cheat Text="Coins x99 or x999 | 金币 x99 或 x999">
         <Cheatline>
             <Offset>3178E4</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-89-86-D0-18-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bombs x99">
+    <Cheat Text="Bombs x99 | 炸弹 x99">
         <Cheatline>
             <Offset>3536E1</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Keys x99">
+    <Cheat Text="Keys x99 | 钥匙 x99">
         <Cheatline>
             <Offset>317C4E</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4C-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite energy on Active Item">
+    <Cheat Text="Infinite energy on Active Item | 主动道具无限能量">
         <Cheatline>
             <Offset>317247</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>29-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add DMG +100">
+    <Cheat Text="Add DMG +100 | 攻击力 +100">
         <Cheatline>
             <Offset>810B6140</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add Luck +25">
+    <Cheat Text="Add Luck +25 | 幸运值 +25">
         <Cheatline>
             <Offset>810BFDC0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add Range +40">
+    <Cheat Text="Add Range +40 | 射程 +40">
         <Cheatline>
             <Offset>810BADC7</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add Death Certificate(Enable and Disable after obtain)">
+    <Cheat Text="Add Death Certificate(Enable and Disable after obtain) | 添加死亡证明 (获取后启用/禁用)">
         <Cheatline>
             <Offset>810B3BE0</Offset>
             <Section>0</Section>

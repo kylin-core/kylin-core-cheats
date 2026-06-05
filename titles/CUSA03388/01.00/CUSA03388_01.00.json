@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Magic",
+      "name": "Inf Magic | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Player inf Stamina",
+      "name": "Player inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Enemy 0 Stamina",
+      "name": "Enemy 0 Stamina | 敌人体力归零",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Pause The Game",
+      "name": "Pause The Game | 暂停游戏",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Inf Souls on Spend",
+      "name": "Inf Souls on Spend | 消费时无限灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Never Lose Souls",
+      "name": "Never Lose Souls | 永不丢失灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Max Items On Use..Pick..Move",
+      "name": "Max Items On Use..Pick..Move | 使用/拾取/移动时最大物品数",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Dupe Anything In Storage Box",
+      "name": "Dupe Anything In Storage Box | 储物箱任意复制",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Durability",
+      "name": "Inf Weapon Durability | 无限武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Inf Armour Durability",
+      "name": "Inf Armour Durability | 无限防具耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Reduce Fall Damage",
+      "name": "Reduce Fall Damage | 减少坠落伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Resistances Effects",
+      "name": "Resistances Effects | 抗性效果",
       "type": "checkbox",
       "memory": [
         {
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "Inf HP Player + Enemy",
+      "name": "Inf HP Player + Enemy | 玩家与敌人无限血量",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Items x99 (Need 2 To Work)",
+      "name": "Infinite Items x99 (Need 2 To Work) | 无限道具x99（需持有2个生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets",
+      "name": "Infinite Bullets | 无限子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Level",
+      "name": "Max Level | 满级",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Gold x999999",
+      "name": "Infinite Gold x999999 | 无限金钱x999999",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Freeze Time",
+      "name": "Freeze Time | 时间冻结",
       "type": "checkbox",
       "memory": [
         {

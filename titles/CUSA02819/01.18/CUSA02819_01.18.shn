@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tom Clancy's Ghost Recon® Wildlands" Moder="cjwine, TLH" Cusa="CUSA02819" Version="01.18" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹药">
         <Cheatline>
             <Offset>20ECAF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-C7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手雷">
         <Cheatline>
             <Offset>7206D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Grenades on Use">
+    <Cheat Text="Max Grenades on Use | 使用后手雷满额">
         <Cheatline>
             <Offset>72064</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>66-8B-47-50</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Mines">
+    <Cheat Text="Infinite Mines | 无限地雷">
         <Cheatline>
             <Offset>152813</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>FF-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Mines on Use">
+    <Cheat Text="Max Mines on Use | 使用后地雷满额">
         <Cheatline>
             <Offset>15280C</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-0F-B7-45-50</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite C4">
+    <Cheat Text="Infinite C4 | 无限C4炸药">
         <Cheatline>
             <Offset>15411F</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints">
+    <Cheat Text="Infinite Skillpoints | 无限技能点">
         <Cheatline>
             <Offset>42E8CA</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>29-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="255 Skillpoints on Use">
+    <Cheat Text="255 Skillpoints on Use | 使用后获得255技能点">
         <Cheatline>
             <Offset>42E8C6</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>8B-4C-87-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add 200.000.000 Resources after restart game">
+    <Cheat Text="Add 200.000.000 Resources after restart game | 重启游戏后增加2亿资源">
         <Cheatline>
             <Offset>8B5D29</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>41-33-40-20-41-89-06</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Tier-One-Mode">
+    <Cheat Text="Unlock Tier-One-Mode | 解锁一级模式">
         <Cheatline>
             <Offset>45C64D</Offset>
             <Section>0</Section>

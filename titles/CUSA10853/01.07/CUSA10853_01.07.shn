@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Outward" Moder="Wander FW9.00" Cusa="CUSA10853" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="coins">
+    <Cheat Text="coins | 金币">
         <Cheatline>
             <Offset>7FC5FDF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="weight">
+    <Cheat Text="weight | 负重">
         <Cheatline>
             <Offset>7FC5FE30</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max weight">
+    <Cheat Text="max weight | 最大负重">
         <Cheatline>
             <Offset>7FC5FE80</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="maxxx">
+    <Cheat Text="maxxx | 最大属性">
         <Cheatline>
             <Offset>7FC5FE80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="maxi">
+    <Cheat Text="maxi | 最大增强">
         <Cheatline>
             <Offset>7FC5FE80</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="maaaaax">
+    <Cheat Text="maaaaax | 极限最大">
         <Cheatline>
             <Offset>7FC5FEC0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="mamax">
+    <Cheat Text="mamax | 超级最大">
         <Cheatline>
             <Offset>7FC5FEC0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="stm">
+    <Cheat Text="stm | 体力">
         <Cheatline>
             <Offset>7FC5FF10</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="wronf thirst">
+    <Cheat Text="wronf thirst | 错误口渴">
         <Cheatline>
             <Offset>7FC5FF40</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Thirst ">
+    <Cheat Text="Thirst | 口渴">
         <Cheatline>
             <Offset>7FC5FF40</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Sleep">
+    <Cheat Text="Sleep | 睡眠">
         <Cheatline>
             <Offset>7FC5FD00</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hunger">
+    <Cheat Text="Hunger | 饥饿">
         <Cheatline>
             <Offset>7FC5FCD0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="hp">
+    <Cheat Text="hp | 生命值">
         <Cheatline>
             <Offset>46098</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>C4-C1-7A-11-46-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="hp1">
+    <Cheat Text="hp1 | 生命值1">
         <Cheatline>
             <Offset>46129</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C4-C1-7A-11-46-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="health">
+    <Cheat Text="health | 生命值">
         <Cheatline>
             <Offset>7FC5FC60</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="health 2">
+    <Cheat Text="health 2 | 生命值2">
         <Cheatline>
             <Offset>7FC5FC10</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="COINS">
+    <Cheat Text="COINS | 金币">
         <Cheatline>
             <Offset>7FC5FBD0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="coins on sell">
+    <Cheat Text="coins on sell | 出售金币">
         <Cheatline>
             <Offset>7FC5FB20</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max stm">
+    <Cheat Text="max stm | 最大体力">
         <Cheatline>
             <Offset>7FC5FF90</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max stm2">
+    <Cheat Text="max stm2 | 最大体力2">
         <Cheatline>
             <Offset>7FC5FF90</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HPPPPP1">
+    <Cheat Text="HPPPPP1 | 超多生命值1">
         <Cheatline>
             <Offset>7FC5FE40</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="hpppp2">
+    <Cheat Text="hpppp2 | 超多生命值2">
         <Cheatline>
             <Offset>7FC5FE50</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max hp2">
+    <Cheat Text="max hp2 | 最大生命值2">
         <Cheatline>
             <Offset>7FC5FE00</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="inf hpp">
+    <Cheat Text="inf hpp | 无限生命值">
         <Cheatline>
             <Offset>7FC5FE70</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="durability">
+    <Cheat Text="durability | 耐久度">
         <Cheatline>
             <Offset>7FC5F940</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="NoCool down">
+    <Cheat Text="NoCool down | 无冷却">
         <Cheatline>
             <Offset>7FC5FE30</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tempetar">
+    <Cheat Text="Tempetar | 温度">
         <Cheatline>
             <Offset>7FC5FD90</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mana">
+    <Cheat Text="Mana | 法力">
         <Cheatline>
             <Offset>7FC5FD70</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="ammo">
+    <Cheat Text="ammo | 弹药">
         <Cheatline>
             <Offset>7FC5FD30</Offset>
             <Section>0</Section>

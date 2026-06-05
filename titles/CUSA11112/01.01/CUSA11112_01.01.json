@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo (Use Only With Dynamite)",
+      "name": "Inf Ammo (Use Only With Dynamite) | 无限弹药（仅限炸药）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Ammo (McCoy/Hector/Kate/Isabelle)",
+      "name": "Inf Ammo (McCoy/Hector/Kate/Isabelle) | 无限弹药（麦考伊/赫克托/凯特/伊莎贝尔）",
       "type": "checkbox",
       "memory": [
         {

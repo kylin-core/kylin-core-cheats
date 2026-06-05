@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
-      "hint": null,
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite FP/AP",
-      "hint": "Spend FP/AP to Get 9.999.",
+      "name": "Infinite FP/AP | 无限FP/AP",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Money/Gil",
-      "hint": "Spend Gil/Money to get 9.999.999.",
+      "name": "Infinite Money/Gil | 无限金钱/Gil",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Exp",
-      "hint": "Earn Exp to get Max Exp.",
+      "name": "Infinite Exp | 无限经验",
       "type": "checkbox",
       "memory": [
         {

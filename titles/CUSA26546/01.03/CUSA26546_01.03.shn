@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Green Hell" Moder="aran" Cusa="CUSA26546" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限体力">
         <Cheatline>
             <Offset>C76426</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-46-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限生命">
         <Cheatline>
             <Offset>C76EE1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-5D-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Water">
+    <Cheat Text="Water | 水分">
         <Cheatline>
             <Offset>C78FB2</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-F2-5D-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Carbohydrate">
+    <Cheat Text="Carbohydrate | 碳水">
         <Cheatline>
             <Offset>C77921</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-F2-5D-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Proteins">
+    <Cheat Text="Proteins | 蛋白质">
         <Cheatline>
             <Offset>C77BEF</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-F2-5D-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="FAT">
+    <Cheat Text="FAT | 脂肪">
         <Cheatline>
             <Offset>C77A8C</Offset>
             <Section>0</Section>

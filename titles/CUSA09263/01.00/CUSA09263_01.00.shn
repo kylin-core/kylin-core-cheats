@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry™ HD Collection" Moder="haxso" Cusa="CUSA09263" Version="01.00" Process="dmc2.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite red Orb (Increase It First)">
+    <Cheat Text="Infinite red Orb (Increase It First) | 无限红魂（需先增加）">
         <Cheatline>
             <Offset>1904A4</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-50-78</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>391A3</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Freeze Time",
+      "name": "Freeze Time | 时间冻结",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Gym HP result x2",
+      "name": "Gym HP result x2 | 健身房HP结果x2",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Gym MP result x2",
+      "name": "Gym MP result x2 | 健身房MP结果x2",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Gym STR result x4",
+      "name": "Gym STR result x4 | 健身房STR结果x4",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Gym STA result x4",
+      "name": "Gym STA result x4 | 健身房STA结果x4",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Gym WIS result x4",
+      "name": "Gym WIS result x4 | 健身房WIS结果x4",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Gym SPD result x4",
+      "name": "Gym SPD result x4 | 健身房SPD结果x4",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Mood / Discipline / Curse / Fatigue 0",
+      "name": "Mood / Discipline / Curse / Fatigue 0 | 心情/训练/诅咒/疲劳归零",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Mood, Discipline (Praise) / Curse, Fatigue (Eat) Full",
+      "name": "Mood, Discipline (Praise) / Curse, Fatigue (Eat) Full | 心情/训练(称赞)/诅咒/疲劳(进食)全满",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Order Power Battle Start 999",
+      "name": "Order Power Battle Start 999 | 指令能量战斗开始999",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Bits",
+      "name": "Bits | 比特",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Max lvl (town / battle)",
+      "name": "Max lvl (town / battle) | 最高等级(城镇/战斗)",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "TP",
+      "name": "TP | 训练点数",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Warehouse items 999",
+      "name": "Warehouse items 999 | 仓库物品999",
       "type": "checkbox",
       "memory": [
         {

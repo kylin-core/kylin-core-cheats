@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlock All Cars",
+      "name": "Unlock All Cars | 解锁全部车辆",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Damage (not working on cops)",
+      "name": "No Damage (not working on cops) | 无损伤（对警察无效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Disable Garage Teleport when Busted (Single Cheat)",
+      "name": "Disable Garage Teleport when Busted (Single Cheat) | 逮捕时禁用车库传送（单一作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Disable Reset Damage (Make Impact to cops / Single Cheat)",
+      "name": "Disable Reset Damage (Make Impact to cops / Single Cheat) | 禁用伤害重置（可撞击警察/单一作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Health 9999 (Enter Garage and exit, turn off cheat, Re enter)",
+      "name": "Health 9999 (Enter Garage and exit, turn off cheat, Re enter) | 生命值9999（进入车库后退出，关闭作弊再重新进入）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Nitro (Hold for continues nitro)",
+      "name": "Infinite Nitro (Hold for continues nitro) | 无限氮气（持续按住可连续使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Much More Nitro",
+      "name": "Much More Nitro | 氮气大幅提升",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Refill Nitro upon 180 Degree turn",
+      "name": "Refill Nitro upon 180 Degree turn | 180度转弯时补充氮气",
       "type": "checkbox",
       "memory": [
         {

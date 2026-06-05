@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lie of P" Moder="Yharnam" Cusa="PPSA10261" Version="01.005.001" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi HP & Stamina & Fable Arts & 1 Hit Kill)">
+    <Cheat Text="Infi HP & Stamina & Fable Arts & 1 Hit Kill) | 无限生命、体力、虚构技艺 & 一击必杀">
         <Cheatline>
             <Offset>290C729</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-D2-E2-EA-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Ergo">
+    <Cheat Text="Infi Ergo | 无限自我素">
         <Cheatline>
             <Offset>28B3804</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>0F-4C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Items & Storage">
+    <Cheat Text="Infi Items & Storage | 无限道具与储物">
         <Cheatline>
             <Offset>8F7A0E</Offset>
             <Section>0</Section>

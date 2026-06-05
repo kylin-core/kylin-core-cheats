@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY Ⅻ THE ZODIAC AGE" Moder="M3hdi PS" Cusa="CUSA05531" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Item">
+    <Cheat Text="Infinite Item | 无限道具">
         <Cheatline>
             <Offset>16B7D1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>66-47-89-1C-4A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max GIL">
+    <Cheat Text="Max GIL | 最大金币">
         <Cheatline>
             <Offset>2902148</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-E0-F5-05</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Van XP">
+    <Cheat Text="Max Van XP | 最大角色经验">
         <Cheatline>
             <Offset>29044D4</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>E3-AB-87-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99999 LP">
+    <Cheat Text="99999 LP | 99999 LP">
         <Cheatline>
             <Offset>29044D8</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>9F-86-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add Item">
+    <Cheat Text="Add Item | 添加道具">
         <Cheatline>
             <Offset>16B7D1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>66-47-89-1C-4A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MP">
+    <Cheat Text="Infinite MP | 无限MP">
         <Cheatline>
             <Offset>16B3B2</Offset>
             <Section>0</Section>

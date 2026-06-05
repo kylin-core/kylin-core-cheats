@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health+Energy+Dash",
+      "name": "Infinite Health+Energy+Dash | 无限生命+能量+冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Neuropolymer/Resources (On Pick Up)",
+      "name": "Infinite Neuropolymer/Resources (On Pick Up) | 无限神经聚合物/资源（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Neuropolymer/Resources (On Use)",
+      "name": "Infinite Neuropolymer/Resources (On Use) | 无限神经聚合物/资源（使用时）",
       "type": "checkbox",
       "memory": [
         {

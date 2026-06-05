@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money (on buy affect items as well)",
+      "name": "Max Money (on buy affect items as well) | 最大金钱（购买时也会影响物品）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Skill points x999 (on spent Press X at confirm screen, deactivate cheat",
+      "name": "Skill points x999 (on spent Press X at confirm screen, deactivate cheat | 技能点x999（使用时在确认界面按X，禁用作弊）",
       "type": "checkbox",
       "memory": [
         {

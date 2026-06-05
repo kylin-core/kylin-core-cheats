@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlock All Ingredients",
+      "name": "Unlock All Ingredients | 解锁所有食材",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Dragons Hp",
+      "name": "Dragons Hp | 龙之生命值",
       "type": "checkbox",
       "memory": [
         {

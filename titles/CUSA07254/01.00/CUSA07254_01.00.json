@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Stellaris Game Version 04.02",
+      "name": "Stellaris Game Version 04.02 | 群星游戏版本04.02",
       "type": "checkbox",
       "memory": [
         {
-          "section": "7",
           "offset": "111C9F",
           "on": "C390",
           "off": "0000"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Resources",
+      "name": "Infinite Resources | 无限资源",
       "type": "checkbox",
       "memory": [
         {

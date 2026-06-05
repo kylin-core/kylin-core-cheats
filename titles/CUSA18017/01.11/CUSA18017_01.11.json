@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf ammo",
+      "name": "Inf ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "3124CF6",
           "on": "9090909090",
           "off": "E84580FFFF"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Inf crafting matirials",
+      "name": "Inf crafting matirials | 无限制作材料",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "54AB9F1",
           "on": "9090909090",
           "off": "E84A13C7FD"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Inf white flower and First Aid Med usage ",
+      "name": "Inf white flower and First Aid Med usage | 无限白花和急救药使用",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "62C04DA",
           "on": "909090909090",
           "off": "FF9070060000"
@@ -41,11 +38,10 @@
       ]
     },
     {
-      "name": "Inf Pipe Bombs",
+      "name": "Inf Pipe Bombs | 无限管状炸弹",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "3110583",
           "on": "9090909090",
           "off": "E838BABF02"

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health & Stamina",
+      "name": "Infi Health \u0026 Stamina | 无限生命与耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Ammo (No Reload)",
+      "name": "Infi Ammo (No Reload) | 无限弹药（无需装填）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Points (On Use)",
+      "name": "Max Points (On Use) | 最大点数（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {

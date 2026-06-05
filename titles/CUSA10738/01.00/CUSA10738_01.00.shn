@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mega Man 11" Moder="d01v" Cusa="CUSA10738" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Bolt">
+    <Cheat Text="Infinite Bolt | 无限闪电">
         <Cheatline>
             <Offset>20C2F6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>81-FA-3F-42-0F-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9 Lives + item / support no decrease">
+    <Cheat Text="9 Lives + item / support no decrease | 9条命 + 道具/支援不减">
         <Cheatline>
             <Offset>A6FBA8</Offset>
             <Section>0</Section>

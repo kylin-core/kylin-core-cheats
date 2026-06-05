@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rise of the Tomb Raider 20 Year Celebration" Moder="hejran7" Cusa="CUSA05720" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限生命">
         <Cheatline>
             <Offset>15CF800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo - Res">
+    <Cheat Text="Inf Ammo - Res | 无限资源弹药">
         <Cheatline>
             <Offset>88751C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-89-58-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>8EB263</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Recoil">
+    <Cheat Text="No Recoil | 无后坐力">
         <Cheatline>
             <Offset>15CF830</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rapid Fire">
+    <Cheat Text="Rapid Fire | 快速射击">
         <Cheatline>
             <Offset>A09D51</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-C1-7A-11-85-FC-10-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points on Use">
+    <Cheat Text="Max Skill Points on Use | 使用时技能点最大化">
         <Cheatline>
             <Offset>15CF822</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Time Bonus">
+    <Cheat Text="Inf Time Bonus | 无限时间奖励">
         <Cheatline>
             <Offset>90B8E9</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C4-C1-7A-11-85-C4-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Time Combo">
+    <Cheat Text="Inf Time Combo | 无限连击时间">
         <Cheatline>
             <Offset>908E46</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-11-83-C8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Hunger Meter">
+    <Cheat Text="Full Hunger Meter | 满饥饿度">
         <Cheatline>
             <Offset>8F8706</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-47-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Cold Meter">
+    <Cheat Text="Full Cold Meter | 满体温">
         <Cheatline>
             <Offset>8F7135</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-47-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>15CF85B</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Moon Jump">
+    <Cheat Text="Moon Jump | 月球跳跃">
         <Cheatline>
             <Offset>15CF800</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Hunger and Cold Meter">
+    <Cheat Text="Full Hunger and Cold Meter | 满饥饿与体温">
         <Cheatline>
             <Offset>DAA141</Offset>
             <Section>0</Section>

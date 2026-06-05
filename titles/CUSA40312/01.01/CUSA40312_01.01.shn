@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Raiden III x MIKADO MANIAX" Moder="Ali-mk" Cusa="CUSA40312" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-lives">
+    <Cheat Text="Infinite-lives | 无限生命">
         <Cheatline>
             <Offset>A6F1D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-lives">
+    <Cheat Text="MAX-lives | 最大生命值">
         <Cheatline>
             <Offset>57B800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Bomb">
+    <Cheat Text="Infinite-Bomb | 无限炸弹">
         <Cheatline>
             <Offset>A7FC8</Offset>
             <Section>0</Section>

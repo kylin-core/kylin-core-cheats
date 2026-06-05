@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Get Money For Buying",
-      "hint": null,
+      "name": "Get Money For Buying | 购买时获得金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Get Medals For Buying",
-      "hint": null,
+      "name": "Get Medals For Buying | 购买时获得奖章",
       "type": "checkbox",
       "memory": [
         {

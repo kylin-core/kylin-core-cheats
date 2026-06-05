@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Remnant: From the Ashes" Moder="Wander FW9.00" Cusa="CUSA13830" Version="01.24" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>7FC5EAC0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>9639F6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-29-76-54</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC5EDD0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Scrap/Item (on get have 2)">
+    <Cheat Text="Scrap/Item (on get have 2) | 废料/物品（获得时拥有2个）">
         <Cheatline>
             <Offset>7FC5F160</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items on use (turn off before trading)">
+    <Cheat Text="Items on use (turn off before trading) | 物品使用（交易前关闭）">
         <Cheatline>
             <Offset>7FC5F1B0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items on Upgrade ">
+    <Cheat Text="Items on Upgrade | 物品升级">
         <Cheatline>
             <Offset>7FC5F1D0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience (kill 2 enemies)">
+    <Cheat Text="Max Experience (kill 2 enemies) | 最大经验（击杀2个敌人）">
         <Cheatline>
             <Offset>7FC5F240</Offset>
             <Section>0</Section>

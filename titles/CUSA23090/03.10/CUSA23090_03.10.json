@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money Balance (on spend)",
+      "name": "Max Money Balance (on spend) | 最大金钱余额（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Skill points Multiplier (on spend)",
+      "name": "Skill points Multiplier (on spend) | 技能点倍数（消费时）",
       "type": "checkbox",
       "memory": [
         {

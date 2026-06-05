@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "999999 Funds",
+      "name": "999999 Funds | 金钱999999",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Items (Use in Battle)",
+      "name": "Infinite Items (Use in Battle) | 无限道具（战斗中可用）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "999 BP after 1 use",
+      "name": "999 BP after 1 use | 使用一次后获得999 BP",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill ",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

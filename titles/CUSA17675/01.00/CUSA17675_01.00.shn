@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Moving Out" Moder="Dante" Cusa="CUSA17675" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="freeze time">
+    <Cheat Text="freeze time | 冻结时间">
         <Cheatline>
             <Offset>21FA7A6</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="AKIBA'S TRIP: UNDEAD ＆ UNDRESSED" Moder="TLH" Cusa="CUSA01166" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>C6A40</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-83-20-B5-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Exp">
+    <Cheat Text="Infinite Exp | 无限经验">
         <Cheatline>
             <Offset>C687A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-01-8E-0C-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Unison Strip Gauge">
+    <Cheat Text="Infinite Unison Strip Gauge | 无限联合剥衣槽">
         <Cheatline>
             <Offset>5FFF00</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Strip Skill Exp">
+    <Cheat Text="Infinite Strip Skill Exp | 无限剥衣技能经验">
         <Cheatline>
             <Offset>CED99</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>45-89-B4-87-18-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Enhancement">
+    <Cheat Text="Infinite Weapon Enhancement | 无限武器强化">
         <Cheatline>
             <Offset>5FFF20</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gear Enhancement">
+    <Cheat Text="Infinite Gear Enhancement | 无限装备强化">
         <Cheatline>
             <Offset>5FFF30</Offset>
             <Section>0</Section>

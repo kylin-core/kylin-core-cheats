@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Obolites Keys",
+      "name": "Infinite Obolites Keys | 无限奥波币和钥匙",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ether",
+      "name": "Infinite Ether | 无限以太",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Dash",
+      "name": "Infinite Dash | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {

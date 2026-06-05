@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code [MC]",
+      "name": "Master Code [MC] | 主代码 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite Health (Activate MC)",
+      "name": "Infinite Health (Activate MC) | 无限生命 (激活主代码)",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5F46B",
           "on": "9090909090909090",
           "off": "C5FA118BF0000000"
@@ -33,11 +32,10 @@
       ]
     },
     {
-      "name": "1Hit kill (Activate MC)",
+      "name": "1Hit kill (Activate MC) | 一击必杀 (激活主代码)",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5F469",
           "on": "750D",
           "off": "7510"
@@ -45,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (needs bullets)",
+      "name": "Infinite Ammo (needs bullets) | 无限弹药 (需有子弹)",
       "type": "checkbox",
       "memory": [
         {
@@ -56,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Cash/Experience (on gain from killing)",
+      "name": "Max Cash/Experience (on gain from killing) | 最大现金/经验 (击杀获得)",
       "type": "checkbox",
       "memory": [
         {
@@ -72,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Car Nitro",
+      "name": "Infinite Car Nitro | 无限氮气加速",
       "type": "checkbox",
       "memory": [
         {

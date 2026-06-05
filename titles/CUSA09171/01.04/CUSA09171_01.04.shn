@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 2" Moder="KevinTamvan" Cusa="CUSA09171" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Run-Shoot Speed Master Code">
+    <Cheat Text="Run-Shoot Speed Master Code | 跑射速度大师修改">
         <Cheatline>
             <Offset>7E2B81F</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health Player">
+    <Cheat Text="Infinite Health Player | 无限生命">
         <Cheatline>
             <Offset>1D5E4F0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zombie Can't Grab">
+    <Cheat Text="Zombie Can't Grab | 僵尸无法抓取">
         <Cheatline>
             <Offset>3151E90</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 一击必杀">
         <Cheatline>
             <Offset>7E2B800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Clip Ammo">
+    <Cheat Text="Infinite Clip Ammo | 无限弹夹弹药">
         <Cheatline>
             <Offset>2FBB459</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-29-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Item On Use">
+    <Cheat Text="Infinite Item On Use | 使用物品无限">
         <Cheatline>
             <Offset>2FBB2AB</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>E8-20-54-33-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="20 Inventory Slot">
+    <Cheat Text="20 Inventory Slot | 20格背包栏">
         <Cheatline>
             <Offset>7E2B80D</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inc Run Speed-Shoot Speed">
+    <Cheat Text="Inc Run Speed-Shoot Speed | 增加跑速-射速">
         <Cheatline>
             <Offset>7E2B826</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>7F-56</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freez Countdown Timer">
+    <Cheat Text="Freez Countdown Timer | 冻结倒计时">
         <Cheatline>
             <Offset>10A7D18</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>0F-85-5C-FA-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Timer [Don't Freez It]">
+    <Cheat Text="Reset Timer [Don't Freez It] | 重置计时器[请勿冻结]">
         <Cheatline>
             <Offset>7E2B89A</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dup Ammo When Store On Storage">
+    <Cheat Text="Dup Ammo When Store On Storage | 存入储物箱时复制弹药">
         <Cheatline>
             <Offset>7E2B8AC</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Main-Swap HandGun Ammo On Storage To:">
+    <Cheat Text="Main-Swap HandGun Ammo On Storage To: | 主-交换储物箱手枪弹为：">
         <Cheatline>
             <Offset>7E2B8BB</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Sub Gun - LE 5 (Infinite)">
+    <Cheat Text="Sub Gun - LE 5 (Infinite) | 副武器-LE5(无限)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAG - Lightning Hawk">
+    <Cheat Text="MAG - Lightning Hawk | 马格南-闪电鹰">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Combat knife (Infinite)">
+    <Cheat Text="Combat knife (Infinite) | 战斗刀(无限)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - Samurai Edge (Infinite)">
+    <Cheat Text="Handgun - Samurai Edge (Infinite) | 手枪-武士之刃(无限)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="ATM-4 (Infinite)">
+    <Cheat Text="ATM-4 (Infinite) | ATM-4火箭筒(无限)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Anti-tank Rocket (Infinite)">
+    <Cheat Text="Anti-tank Rocket (Infinite) | 反坦克火箭筒(无限)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Minigun (Infinite)">
+    <Cheat Text="Minigun (Infinite) | 迷你机枪(无限)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - Matilda">
+    <Cheat Text="Handgun - Matilda | 手枪-玛蒂尔达">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - M19">
+    <Cheat Text="Handgun - M19 | 手枪-M19">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - JMB Hp3">
+    <Cheat Text="Handgun - JMB Hp3 | 手枪-JMB Hp3">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - Quickdraw Army Rev">
+    <Cheat Text="Handgun - Quickdraw Army Rev | 手枪-速射陆军左轮">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - MUP">
+    <Cheat Text="Handgun - MUP | 手枪-MUP">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - Broom Hc">
+    <Cheat Text="Handgun - Broom Hc | 手枪-扫帚HC">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handgun - SLS 60">
+    <Cheat Text="Handgun - SLS 60 | 手枪-SLS 60">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shotgun - W-870">
+    <Cheat Text="Shotgun - W-870 | 霰弹枪-W-870">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="EMF Visualizer">
+    <Cheat Text="EMF Visualizer | EMF可视化仪">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Grenade Launcher - GM 79">
+    <Cheat Text="Grenade Launcher - GM 79 | 榴弹发射器-GM 79">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Chemical Flamethrower">
+    <Cheat Text="Chemical Flamethrower | 化学火焰喷射器">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stun Gun - Spark Shot">
+    <Cheat Text="Stun Gun - Spark Shot | 电击枪-电击射击">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lion Medallion">
+    <Cheat Text="Lion Medallion | 狮子徽章">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Maiden Medallion">
+    <Cheat Text="Maiden Medallion | 少女徽章">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unicorn Medallion">
+    <Cheat Text="Unicorn Medallion | 独角兽徽章">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Club Key">
+    <Cheat Text="Club Key | 梅花钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Heart Key">
+    <Cheat Text="Heart Key | 红桃钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Diamond Key">
+    <Cheat Text="Diamond Key | 方块钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boxed Electronic Part 1">
+    <Cheat Text="Boxed Electronic Part 1 | 盒装电子零件1">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boxed Electronic Part 2">
+    <Cheat Text="Boxed Electronic Part 2 | 盒装电子零件2">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ink Ribbon">
+    <Cheat Text="Ink Ribbon | 色带">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Wooden Board">
+    <Cheat Text="Wooden Board | 木板">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Storage Room Key">
+    <Cheat Text="Storage Room Key | 储物室钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mechanic Jack Handle">
+    <Cheat Text="Mechanic Jack Handle | 机械千斤顶把手">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Square Crank">
+    <Cheat Text="Square Crank | 方形曲柄">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Spade Key">
+    <Cheat Text="Spade Key | 黑桃钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weapons Locker Key Card">
+    <Cheat Text="Weapons Locker Key Card | 武器柜钥匙卡">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Round Handle">
+    <Cheat Text="Round Handle | 圆形把手">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="S.T.A.R.S. Badge">
+    <Cheat Text="S.T.A.R.S. Badge | S.T.A.R.S.徽章">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fuse (Main Hall)">
+    <Cheat Text="Fuse (Main Hall) | 保险丝(大厅)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fuse (Break Room Hallway)">
+    <Cheat Text="Fuse (Break Room Hallway) | 保险丝(休息室走廊)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bolt Cutter">
+    <Cheat Text="Bolt Cutter | 螺栓剪">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -413,7 +413,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="T-Bar Valve Handle">
+    <Cheat Text="T-Bar Valve Handle | T形阀门把手">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -421,7 +421,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Spare Key (key pad)">
+    <Cheat Text="Spare Key (key pad) | 备用钥匙(键盘)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -429,7 +429,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rook Plug">
+    <Cheat Text="Rook Plug | 城堡棋子">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -437,7 +437,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="King Plug">
+    <Cheat Text="King Plug | 国王棋子">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -445,7 +445,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Queen Plug">
+    <Cheat Text="Queen Plug | 王后棋子">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -453,7 +453,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Signal Modulator">
+    <Cheat Text="Signal Modulator | 信号调制器">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -461,7 +461,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Trophy 1">
+    <Cheat Text="Trophy 1 | 奖杯1">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -469,7 +469,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Trophy 2">
+    <Cheat Text="Trophy 2 | 奖杯2">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -477,7 +477,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Sewers Key">
+    <Cheat Text="Sewers Key | 下水道钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -485,7 +485,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="ID Wristband (Senior Staff)">
+    <Cheat Text="ID Wristband (Senior Staff) | ID腕带(高级员工)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -493,7 +493,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dispersal Cartridge (Solution)">
+    <Cheat Text="Dispersal Cartridge (Solution) | 扩散罐(溶液)">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -501,7 +501,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Courtyard Key">
+    <Cheat Text="Courtyard Key | 庭院钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -509,7 +509,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Orphanage Key">
+    <Cheat Text="Orphanage Key | 孤儿院钥匙">
         <Cheatline>
             <Offset>7E2B8BF</Offset>
             <Section>0</Section>
@@ -517,7 +517,7 @@
             <ValueOff>0F-84-AE-EC-C7-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Swap Caliber HandGun Ammo Claire ( Main-Swap HandGun Ammo Must Enable)">
+    <Cheat Text="Swap Caliber HandGun Ammo Claire ( Main-Swap HandGun Ammo Must Enable) | 切换口径手枪弹克莱尔(主-交换手枪弹必须启用)">
         <Cheatline>
             <Offset>7E2B8BB</Offset>
             <Section>0</Section>

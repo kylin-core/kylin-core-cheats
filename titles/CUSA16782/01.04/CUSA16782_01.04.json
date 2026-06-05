@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Arrow (on shoot)",
+      "name": "Infinite Arrow (on shoot) | 无限箭矢（射击时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Potions (on use)",
+      "name": "Infinite Potions (on use) | 无限药剂（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Frenzy (when activating)",
+      "name": "Infinite Frenzy (when activating) | 无限狂怒（激活时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Skill points (on spend)",
+      "name": "Infinite Skill points (on spend) | 无限技能点（消费时）",
       "type": "checkbox",
       "memory": [
         {

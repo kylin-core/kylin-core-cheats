@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mod pod credits to 65535",
+      "name": "Mod pod credits to 65535 | 修改补给舱积分为65535",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Unlimited Bonus In Race (exchange bonus to reset)",
+      "name": "Unlimited Bonus In Race (exchange bonus to reset) | 无限比赛奖励（兑换奖励后重置）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Unlimited Bonus Boxes",
+      "name": "Unlimited Bonus Boxes | 无限奖励箱",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Change score to max for daredevil",
+      "name": "Change score to max for daredevil | 将冒险模式得分改为最高",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Ring challenge platinum win",
+      "name": "Ring challenge platinum win | 环挑战白金通关",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Team Ultimate Max (add extendedtime box to enable)",
+      "name": "Team Ultimate Max (add extendedtime box to enable) | 团队终极技能满级（需拾取时间延长箱激活）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Minecraft" Moder="NELUxP MoDz" Cusa="CUSA00744" Version="02.35" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="[] Reach 14 Attack & Blocks">
+    <Cheat Text="[] Reach 14 Attack & Blocks | [] 14格攻击距离与方块放置">
         <Cheatline>
             <Offset>6C19254</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>66-66-B6-40-33-33-B3-40-00-00-40-41-66-66-D6-40-00-00-E0-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Unfair Attack ">
+    <Cheat Text="[] Unfair Attack | [] 不公平攻击">
         <Cheatline>
             <Offset>6C1957C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>CD-CC-CC-3D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Rapid Hit & Fast Place">
+    <Cheat Text="[] Rapid Hit & Fast Place | [] 快速连击与快速放置">
         <Cheatline>
             <Offset>6A19FB2</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>88-50-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Hidden Attack">
+    <Cheat Text="[] Hidden Attack | [] 隐藏攻击">
         <Cheatline>
             <Offset>5A6FE60</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Player Speed x2 & Low Gravity ">
+    <Cheat Text="[] Player Speed x2 & Low Gravity | [] 玩家速度双倍与低重力">
         <Cheatline>
             <Offset>24FBD7A</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-F8-28-C1-48-83-C4-40-5B-41-5C-41-5E-41-5F-5D-C3-E8-10-CC-57-04-0F-0B-E8-49-CC-19-FE-0F-0B-90-90-90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Velocity Off XYZ">
+    <Cheat Text="[] Velocity Off XYZ | [] 关闭XYZ速度">
         <Cheatline>
             <Offset>2607aa0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>8B-06-89-87-90-05-00-00-8B-46-04-89-87-94-05-00-00-8B-46-08-89-87-98-05-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Forward jump x4">
+    <Cheat Text="[] Forward jump x4 | [] 四倍前跳">
         <Cheatline>
             <Offset>6C18D88</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>CD-CC-4C-3E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Multi jump">
+    <Cheat Text="[] Multi jump | [] 多段跳跃">
         <Cheatline>
             <Offset>8B63000</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Zero Gravity & Speed">
+    <Cheat Text="[] Zero Gravity & Speed | [] 零重力与加速">
         <Cheatline>
             <Offset>24FBD7A</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-F8-28-C1-48-83-C4-40-5B-41-5C-41-5E-41-5F-5D-C3-E8-10-CC-57-04-0F-0B-E8-49-CC-19-FE-0F-0B-90-90-90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Smooth Walk">
+    <Cheat Text="[] Smooth Walk | [] 平滑行走">
         <Cheatline>
             <Offset>2032444</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-80-7C-02-00-00-C3-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Fast Break">
+    <Cheat Text="[] Fast Break | [] 快速破坏">
         <Cheatline>
             <Offset>6C175f4</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] No Fog">
+    <Cheat Text="[] No Fog | [] 无雾">
         <Cheatline>
             <Offset>06C1DFCC</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Critical attack(Host Only)">
+    <Cheat Text="[] Critical attack(Host Only) | [] 暴击攻击（仅主机）">
         <Cheatline>
             <Offset>1FEBF51</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>76-2D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] One Punchman(Host Only)">
+    <Cheat Text="[] One Punchman(Host Only) | [] 一拳超人（仅主机）">
         <Cheatline>
             <Offset>06C17390</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>CD-CC-CC-BE-CD-CC-8C-BF-9A-99-99-BF-00-00-80-3F-00-00-80-3F-00-00-C0-3F-9A-99-99-3E-00-00-80-3F-17-B7-D1-38-CD-CC-CC-3E-00-00-00-00-CD-CC-4C-3E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Change Specified Color To Red">
+    <Cheat Text="[] Change Specified Color To Red | [] 将指定颜色改为红色">
         <Cheatline>
             <Offset>9489590</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Change Specified Color To Green">
+    <Cheat Text="[] Change Specified Color To Green | [] 将指定颜色改为绿色">
         <Cheatline>
             <Offset>9489594</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Change Specified Color To Blue">
+    <Cheat Text="[] Change Specified Color To Blue | [] 将指定颜色改为蓝色">
         <Cheatline>
             <Offset>9489598</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Set Entity Color Aqua">
+    <Cheat Text="[] Set Entity Color Aqua | [] 设置实体颜色为青色">
         <Cheatline>
             <Offset>9489620</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Show Dev Strings">
+    <Cheat Text="[] Show Dev Strings | [] 显示开发者字符串">
         <Cheatline>
             <Offset>12ae8da</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>74-43</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Change Minecraft Platform Xbox/One/X/S">
+    <Cheat Text="[] Change Minecraft Platform Xbox/One/X/S | [] 更改Minecraft平台为Xbox/One/X/S">
         <Cheatline>
             <Offset>34E5AC0</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>B8-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Bypass Signin">
+    <Cheat Text="[] Bypass Signin | [] 绕过登录">
         <Cheatline>
             <Offset>6d0f54</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>0F-94</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[] Enable LAN Play">
+    <Cheat Text="[] Enable LAN Play | [] 启用局域网游玩">
         <Cheatline>
             <Offset>34E2620</Offset>
             <Section>0</Section>

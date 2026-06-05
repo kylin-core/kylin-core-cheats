@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Ship Health",
+      "name": "Max Ship Health | 最大船只生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Reals/Ammo/Smoke bombs/Darts/heavy shot/Mortars",
+      "name": "Infinite Reals/Ammo/Smoke bombs/Darts/heavy shot/Mortars | 无限金钱/弹药/烟雾弹/飞镖/重弹/迫击炮",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Infinite Reals/Ammo/Smoke bombs/Darts/heavy shot/Mortars",
+      "name": "Max Infinite Reals/Ammo/Smoke bombs/Darts/heavy shot/Mortars | 最大无限金钱/弹药/烟雾弹/飞镖/重弹/迫击炮",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Breath",
+      "name": "Infinite Breath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Swivel Ammo",
+      "name": "Infinite Swivel Ammo | 无限旋转弹药",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Harvest Moon: One World" Moder="wander" Cusa="CUSA18808" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Crops/Feeding/Farm Items x50 (on Use)">
+    <Cheat Text="Crops/Feeding/Farm Items x50 (on Use) | 作物/喂养/农场物品 x50（使用时）">
         <Cheatline>
             <Offset>7FC5F810</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gold 999999 (on Buy)">
+    <Cheat Text="Gold 999999 (on Buy) | 金币 999999（购买时）">
         <Cheatline>
             <Offset>7FC5FE10</Offset>
             <Section>0</Section>

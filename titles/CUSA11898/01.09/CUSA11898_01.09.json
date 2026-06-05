@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP SP AP 1 hit kill",
+      "name": "Inf HP SP AP 1 hit kill | 无限生命、技能点、行动点，一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Exp (Max 35 Level ) Get by kill 1 enemy",
+      "name": "Max Exp (Max 35 Level ) Get by kill 1 enemy | 最大经验值（最高35级），击杀1名敌人即可获得",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Money(buy or Sell)",
+      "name": "Max Money(buy or Sell) | 最大金钱（购买或出售时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "99 Attribute Points (after using 1 point)",
+      "name": "99 Attribute Points (after using 1 point) | 99点属性点（使用1点后）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "99 Combat Ability Points (after using 1 point)",
+      "name": "99 Combat Ability Points (after using 1 point) | 99点战斗能力点（使用1点后）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "99 civil Ability Points (after using 1 point)",
+      "name": "99 civil Ability Points (after using 1 point) | 99点公民能力点（使用1点后）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "99 Talents Ability Points (after using 1 point)",
+      "name": "99 Talents Ability Points (after using 1 point) | 99点天赋能力点（使用1点后）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Game Speed x3",
+      "name": "Game Speed x3 | 游戏速度3倍",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Ignore weight and Never Decrease Movement speed",
+      "name": "Ignore weight and Never Decrease Movement speed | 忽略负重，移动速度永不降低",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health/Team",
+      "name": "Max/Infinite Health/Team | 最大/无限生命/队伍",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Medkits",
+      "name": "Infinite Medkits | 无限医疗包",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables",
+      "name": "Infinite Consumables | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Credits/Rep Scrip",
+      "name": "Max/Infinite Credits/Rep Scrip | 最大/无限货币/声望币",
       "type": "checkbox",
       "memory": [
         {

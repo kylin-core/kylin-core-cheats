@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP ",
+      "name": "Inf HP | 无限HP",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf EXP / Max LvL",
+      "name": "Inf EXP / Max LvL | 无限经验/最大等级",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Glad/Money (On Buy)",
+      "name": "Inf Glad/Money (On Buy) | 无限金钱/货币（购买时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Disabled Enemy Gauge",
+      "name": "Disabled Enemy Gauge | 禁用敌人体力槽",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Job Points 99 Use / Level Up",
+      "name": "Job Points 99 Use / Level Up | 职业点99使用 / 升级",
       "type": "checkbox",
       "memory": [
         {

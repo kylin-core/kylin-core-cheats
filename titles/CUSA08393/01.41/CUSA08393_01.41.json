@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
-      "hint": null,
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "21 Skillpoints / Kill",
-      "hint": null,
+      "name": "21 Skillpoints / Kill | 每击杀获得21技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Max Money",
-      "hint": null,
+      "name": "Max Money | 最大金钱",
       "type": "button",
       "memory": [
         {

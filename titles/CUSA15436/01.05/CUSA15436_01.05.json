@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Add Items and Money",
+      "name": "Add Items and Money | 添加物品与金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "0 Weigh(when Overload,Drop Item)",
+      "name": "0 Weigh(when Overload,Drop Item) | 零负重（超载时，丢弃物品）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Fast XP",
+      "name": "Fast XP | 快速经验值",
       "type": "checkbox",
       "memory": [
         {

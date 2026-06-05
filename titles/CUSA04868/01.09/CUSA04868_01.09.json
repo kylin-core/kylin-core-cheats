@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Breath",
+      "name": "Inf Breath | 无限屏息",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Silencer",
+      "name": "Inf Silencer | 无限消音器",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Ammo / No Reload",
+      "name": "Inf Ammo / No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Throwables",
+      "name": "Inf Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Explosive Parts",
+      "name": "Max Explosive Parts | 最大爆炸部件",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Electronics Parts",
+      "name": "Max Electronics Parts | 最大电子部件",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Mechanical Parts",
+      "name": "Max Mechanical Parts | 最大机械部件",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max Bullet Heads",
+      "name": "Max Bullet Heads | 最大弹头",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Canisters",
+      "name": "Max Canisters | 最大罐子",
       "type": "checkbox",
       "memory": [
         {

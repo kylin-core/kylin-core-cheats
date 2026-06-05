@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Save - Load Position ( must be activate )",
+      "name": "Mastercode Save - Load Position ( must be activate ) | 主码存档-读取位置 (需激活)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Asthma",
+      "name": "Infinite Asthma | 无限哮喘",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Electro Energy",
+      "name": "Infinite Electro Energy | 无限电能",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Medipacks ( on use )",
+      "name": "Max Medipacks ( on use ) | 最大医疗包 (使用)",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Asthma Injections ( on use )",
+      "name": "Max Asthma Injections ( on use ) | 最大哮喘注射剂 (使用)",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 最大弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Ammo Clip",
+      "name": "Max Ammo Clip | 最大弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max Grenades",
+      "name": "Max Grenades | 最大手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ Hanna ]",
+      "name": "Infinite Health [ Hanna ] | 无限生命 [汉娜]",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo [ Hanna ]",
+      "name": "Infinite Ammo [ Hanna ] | 无限弹药 [汉娜]",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Save Location [ MC ]",
+      "name": "Save Location [ MC ] | 保存位置 [主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Load Location [ MC ]",
+      "name": "Load Location [ MC ] | 读取位置 [主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Jump Height x 2 Multiplier [ Player ]",
+      "name": "Jump Height x 2 Multiplier [ Player ] | 跳跃高度×2倍 [玩家]",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "Jump Height x 3 Multiplier [ Player ]",
+      "name": "Jump Height x 3 Multiplier [ Player ] | 跳跃高度×3倍 [玩家]",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Speed x 2 Multiplier [ Player ]",
+      "name": "Speed x 2 Multiplier [ Player ] | 速度×2倍 [玩家]",
       "type": "checkbox",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "Speed x 4 Multiplier [ Player ]",
+      "name": "Speed x 4 Multiplier [ Player ] | 速度×4倍 [玩家]",
       "type": "checkbox",
       "memory": [
         {
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "name": "Speed x 6 Multiplier [ Player ]",
+      "name": "Speed x 6 Multiplier [ Player ] | 速度×6倍 [玩家]",
       "type": "checkbox",
       "memory": [
         {

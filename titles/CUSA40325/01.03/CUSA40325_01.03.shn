@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EA SPORTS FC 24" Moder="Wander FW9.00" Cusa="CUSA40325" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Budget When buying Player">
+    <Cheat Text="Max Budget When buying Player | 买球员时最大预算">
         <Cheatline>
             <Offset>D18B800</Offset>
             <Section>0</Section>

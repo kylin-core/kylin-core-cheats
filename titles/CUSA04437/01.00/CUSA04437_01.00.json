@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
-      "hint": null,
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Mercenaries Time",
-      "hint": null,
+      "name": "Infinite Mercenaries Time | 无限佣兵时间",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": null,
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {

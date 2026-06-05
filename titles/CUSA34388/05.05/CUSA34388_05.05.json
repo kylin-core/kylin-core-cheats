@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. For my most advanced Ragnarok trainer I recommend using my ShnExt trainer with MultiTrainer2. Enjoy! :-)",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
-      "description": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does. Use No Damage Taken instead.",
+      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA] | 上帝模式（无敌+无特效）【切勿在英灵殿使用】",
       "type": "checkbox",
       "memory": [
         {
@@ -54,8 +52,7 @@
       ]
     },
     {
-      "name": "No Damage Taken",
-      "description": "none",
+      "name": "No Damage Taken | 不受伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -66,8 +63,7 @@
       ]
     },
     {
-      "name": "No XP,HS, Resources subtracted when used",
-      "description": "none",
+      "name": "No XP,HS, Resources subtracted when used | 使用时不消耗经验、技能点与资源",
       "type": "checkbox",
       "memory": [
         {
@@ -83,8 +79,7 @@
       ]
     },
     {
-      "name": "No Crafting And Upgrade Limits",
-      "description": "none",
+      "name": "No Crafting And Upgrade Limits | 无锻造与升级限制",
       "type": "checkbox",
       "memory": [
         {
@@ -95,8 +90,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows and Throwables [DO NOT USE IN VALHALLA]",
-      "description": "none",
+      "name": "Infinite Arrows and Throwables [DO NOT USE IN VALHALLA] | 无限箭矢与投掷物【切勿在英灵殿使用】",
       "type": "checkbox",
       "memory": [
         {
@@ -122,8 +116,7 @@
       ]
     },
     {
-      "name": "Infinite Rage (incl. Kratos and Atreus)",
-      "description": "none",
+      "name": "Infinite Rage (incl. Kratos and Atreus) | 无限怒火（包括奎托斯与阿特柔斯）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,8 +132,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA]",
-      "description": "Enable this first and then only one of the damage levels. May not affect some travelers (mini bosses)",
+      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA] | 伤害倍率（主代码）【切勿在英灵殿使用】",
       "type": "checkbox",
       "memory": [
         {
@@ -156,8 +148,7 @@
       ]
     },
     {
-      "name": "--5x damage",
-      "description": "none",
+      "name": "--5x damage | --5倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -168,8 +159,7 @@
       ]
     },
     {
-      "name": "--10x damage",
-      "description": "none",
+      "name": "--10x damage | --10倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -180,8 +170,7 @@
       ]
     },
     {
-      "name": "--20x damage",
-      "description": "none",
+      "name": "--20x damage | --20倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -192,8 +181,7 @@
       ]
     },
     {
-      "name": "--30x damage",
-      "description": "none",
+      "name": "--30x damage | --30倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -204,8 +192,7 @@
       ]
     },
     {
-      "name": "--40x damage",
-      "description": "none",
+      "name": "--40x damage | --40倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -216,8 +203,7 @@
       ]
     },
     {
-      "name": "--50x damage",
-      "description": "none",
+      "name": "--50x damage | --50倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -228,8 +214,7 @@
       ]
     },
     {
-      "name": "--100x damage (one hit kill)",
-      "description": "none",
+      "name": "--100x damage (one hit kill) | --100倍伤害（一击必杀）",
       "type": "checkbox",
       "memory": [
         {
@@ -240,8 +225,7 @@
       ]
     },
     {
-      "name": "One Hit Stun [DO NOT USE IN VALHALLA]",
-      "description": "This cheat may cause progression issues with some enemies (especially bosses).If and when it does, be sure to disable it and reload the checkpoint.",
+      "name": "One Hit Stun [DO NOT USE IN VALHALLA] | 一击眩晕【切勿在英灵殿使用】",
       "type": "checkbox",
       "memory": [
         {
@@ -257,8 +241,7 @@
       ]
     },
     {
-      "name": "Infinite Max Shield Charge",
-      "description": "none",
+      "name": "Infinite Max Shield Charge | 无限最大盾牌充能",
       "type": "checkbox",
       "memory": [
         {
@@ -274,8 +257,7 @@
       ]
     },
     {
-      "name": "No Talisman and Relic Cooldown",
-      "description": "none",
+      "name": "No Talisman and Relic Cooldown | 护符与遗物无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -291,8 +273,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Charge (L1+Triangle)",
-      "description": "none",
+      "name": "Infinite Weapon Charge (L1+Triangle) | 无限武器充能（L1+三角键）",
       "type": "checkbox",
       "memory": [
         {

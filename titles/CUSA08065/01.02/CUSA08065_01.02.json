@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": null,
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -49,8 +47,7 @@
       ]
     },
     {
-      "name": "Get Dollar For Spending",
-      "hint": null,
+      "name": "Get Dollar For Spending | 花费得美元",
       "type": "checkbox",
       "memory": [
         {
@@ -61,8 +58,7 @@
       ]
     },
     {
-      "name": "Get Coins For Spending",
-      "hint": null,
+      "name": "Get Coins For Spending | 花费得金币",
       "type": "checkbox",
       "memory": [
         {

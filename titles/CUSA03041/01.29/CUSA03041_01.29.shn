@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Red Dead Redemption 2" Moder="LMN" Cusa="CUSA03041" Version="01.29" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="MASTER CODE for god mode and honor always max">
+    <Cheat Text="MASTER CODE for god mode and honor always max | 上帝模式与荣誉最大值主代码">
         <Cheatline>
             <Offset>779B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="God Mode (player and horse)">
+    <Cheat Text="God Mode (player and horse) | 无敌模式（玩家和马匹）">
         <Cheatline>
             <Offset>779B87C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff></ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite dead eye">
+    <Cheat Text="infinite dead eye | 无限死眼">
         <Cheatline>
             <Offset>144E525</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-50-48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite stamina (horse/player)">
+    <Cheat Text="infinite stamina (horse/player) | 无限体力（马匹/玩家）">
         <Cheatline>
             <Offset>100F487</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>FF-50-48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="never wanted and zero bounty">
+    <Cheat Text="never wanted and zero bounty | 永不通缉且赏金为零">
         <Cheatline>
             <Offset>DB2116</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>83-3D-37-1C-D9-06-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite items and consumables(disable during unique mission items like bounty posters...)">
+    <Cheat Text="Infinite items and consumables(disable during unique mission items like bounty posters...) | 无限物品与消耗品（在特殊任务物品如通缉令等时禁用）">
         <Cheatline>
             <Offset>C8C303</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>4D-89-7E-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HONOR always maxed">
+    <Cheat Text="HONOR always maxed | 荣誉始终最高">
         <Cheatline>
             <Offset>779B87D</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff></ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX Honor updated(set honor to max one time, do an honor related task to see the difference)">
+    <Cheat Text="MAX Honor updated(set honor to max one time, do an honor related task to see the difference) | 荣誉最大值更新（一次设置荣誉为最高，完成荣誉相关任务以查看变化）">
         <Cheatline>
             <Offset>25F469D40</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>A0-86-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="add 30 pelts(enable after skinning pelt disable after putting on horse!)">
+    <Cheat Text="add 30 pelts(enable after skinning pelt disable after putting on horse!) | 增加30张毛皮（剥皮后启用，放上马后禁用！）">
         <Cheatline>
             <Offset>C8C2FF</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>4C-0F-44-FB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite ammo (in game cheat)">
+    <Cheat Text="infinite ammo (in game cheat) | 无限弹药（游戏内作弊码）">
         <Cheatline>
             <Offset>779B867</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="no reload">
+    <Cheat Text="no reload | 无需装弹">
         <Cheatline>
             <Offset>2C11E3B</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>E8-80-65-F9-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="fast shooting (no bullet loading , skips the animation of loading bullets)">
+    <Cheat Text="fast shooting (no bullet loading , skips the animation of loading bullets) | 快速射击（无需装弹，跳过装弹动画）">
         <Cheatline>
             <Offset>48D52CD</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>41-80-8D-3B-06-00-00-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="weapons always clean">
+    <Cheat Text="weapons always clean | 武器永远清洁">
         <Cheatline>
             <Offset>779B856</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite ammo ,throwables ,arrows ,no reload ,weapons stay clean">
+    <Cheat Text="infinite ammo ,throwables ,arrows ,no reload ,weapons stay clean | 无限弹药、投掷物、弓箭，无需装弹，武器保持清洁">
         <Cheatline>
             <Offset>2B95803</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>E8-78-C5-07-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="freeze all(ammo,throwables,money,items,trapper and pearson stock)disable during unique mission items like bounty posters...">
+    <Cheat Text="freeze all(ammo,throwables,money,items,trapper and pearson stock)disable during unique mission items like bounty posters... | 冻结所有（弹药、投掷物、金钱、物品、捕兽人和皮尔逊库存），在特殊任务物品如通缉令等时禁用">
         <Cheatline>
             <Offset>C8637F</Offset>
             <Section>0</Section>

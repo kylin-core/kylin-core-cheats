@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Order: 1886" Moder="Wander_9.00" Cusa="CUSA00785" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC4BDC0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/No reload">
+    <Cheat Text="Infinite Ammo/No reload | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>70C038</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-82-10-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables">
+    <Cheat Text="Infinite Throwables | 无限投掷物">
         <Cheatline>
             <Offset>7FC4BE30</Offset>
             <Section>0</Section>

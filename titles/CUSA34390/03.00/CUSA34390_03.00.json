@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
+      "name": "Infinite Rage | 无限怒火",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Instant R3",
+      "name": "Instant R3 | 即时R3",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infinite Projectiles",
+      "name": "Infinite Projectiles | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Resources up (on craft/sell)",
+      "name": "Resources up (on craft/sell) | 资源增加（制作/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier (default: 2x)",
+      "name": "Damage Multiplier (default: 2x) | 伤害倍率（默认2倍）",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "0.5x damage",
+      "name": "0.5x damage | 0.5倍伤害",
       "type": "button",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "3x damage",
+      "name": "3x damage | 3倍伤害",
       "type": "button",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "5x damage",
+      "name": "5x damage | 5倍伤害",
       "type": "button",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "XP/HS/Resource Multiplier (default: 2x)",
+      "name": "XP/HS/Resource Multiplier (default: 2x) | 经验/技能/资源倍率（默认2倍）",
       "type": "checkbox",
       "memory": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "3x resources",
+      "name": "3x resources | 3倍资源",
       "type": "button",
       "memory": [
         {
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "name": "5x resources",
+      "name": "5x resources | 5倍资源",
       "type": "button",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "10x resources",
+      "name": "10x resources | 10倍资源",
       "type": "button",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "25x resources",
+      "name": "25x resources | 25倍资源",
       "type": "button",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Wishing Well Fix",
+      "name": "Wishing Well Fix | 许愿井修复",
       "type": "checkbox",
       "memory": [
         {

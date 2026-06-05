@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "167B26",
           "on": "909090909090909090",
           "off": "F3450F11BF74010000"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ressource",
+      "name": "Infinite Ressource | 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Energy Shield ",
+      "name": "Infinite Energy Shield | 无限能量护盾",
       "type": "checkbox",
       "memory": [
         {

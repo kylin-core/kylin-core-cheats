@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Battery",
+      "name": "Infinite Battery | 无限电池",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints/Money",
+      "name": "Infinite Skillpoints/Money | 无限技能点/金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max XP/Money/Skillpoints on Get",
+      "name": "Max XP/Money/Skillpoints on Get | 获取时最大经验/金钱/技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Infinite Resources/Gadgets",
+      "name": "Infinite Resources/Gadgets | 无限资源/装备",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Max Resources",
+      "name": "Max Resources | 最大资源",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Wanted Level doesnt Increase",
+      "name": "Wanted Level doesnt Increase | 警戒等级不增加",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Alignment: Good",
+      "name": "Alignment: Good | 道德倾向：正义",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Alignment: Neutral",
+      "name": "Alignment: Neutral | 道德倾向：中立",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Alignment: Evil",
+      "name": "Alignment: Evil | 道德倾向：邪恶",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="GamerX2" Cusa="CUSA18008" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>3E8CD78</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>49-89-C7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bombs/Mines/Lockpick">
+    <Cheat Text="Infinite Bombs/Mines/Lockpick | 无限炸弹/地雷/开锁器">
         <Cheatline>
             <Offset>3E8CD56</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-43-4C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Usable/Craft Items">
+    <Cheat Text="Infinite Usable/Craft Items | 无限消耗品/制作材料">
         <Cheatline>
             <Offset>3E8DCAD</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-48-4C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Craftable Items/Ammo On Use">
+    <Cheat Text="Max Craftable Items/Ammo On Use | 使用后制作材料/弹药最大化">
         <Cheatline>
             <Offset>B1EB011</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 金钱最大">
         <Cheatline>
             <Offset>B1EB025</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Treasure">
+    <Cheat Text="Max Treasure | 珍宝最大">
         <Cheatline>
             <Offset>B1EB039</Offset>
             <Section>0</Section>

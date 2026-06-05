@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ONE PIECE: PIRATE WARRIORS 4" Moder="Ibraheem" Cusa="CUSA17226" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="max inf skills charge">
+    <Cheat Text="max inf skills charge | 无限技能蓄力">
         <Cheatline>
             <Offset>193CA8</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-F9-EF-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max combo">
+    <Cheat Text="max combo | 最大连击">
         <Cheatline>
             <Offset>18D3C8</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>81-F9-9F-86-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="INFINITE STAMINA">
+    <Cheat Text="INFINITE STAMINA | 无限体力">
         <Cheatline>
             <Offset>16CC12</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C4-C1-7A-11-47-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max money on use">
+    <Cheat Text="max money on use | 使用获得最大金钱">
         <Cheatline>
             <Offset>69F804</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>8B-51-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite materials">
+    <Cheat Text="infinite materials | 无限材料">
         <Cheatline>
             <Offset>69F971</Offset>
             <Section>0</Section>

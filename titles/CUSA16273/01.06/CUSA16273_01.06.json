@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One-hit Kill",
+      "name": "One-hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "One-hit Destroy (trees, rocks, etc)",
+      "name": "One-hit Destroy (trees, rocks, etc) | 一击破坏（树木、岩石等）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "No Hunger",
+      "name": "No Hunger | 无饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "No Item Damage",
+      "name": "No Item Damage | 物品无损耗",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Coins (on get)",
+      "name": "Max Coins (on get) | 获得最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Lock Item (buggy)",
+      "name": "Lock Item (buggy) | 锁定物品（有bug）",
       "type": "checkbox",
       "memory": [
         {

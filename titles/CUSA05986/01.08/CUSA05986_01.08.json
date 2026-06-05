@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Cash",
+      "name": "Infinite Cash | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Tokens",
+      "name": "Infinite Tokens | 无限代币",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Nitrous",
+      "name": "Infinite Nitrous | 无限氮气",
       "type": "checkbox",
       "memory": [
         {
@@ -54,6 +54,6 @@
     }
   ],
   "credits": [
-    "Weysincha & hejran7"
+    "Weysincha \u0026 hejran7"
   ]
 }

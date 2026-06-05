@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Fairy Fencer F ADVENT DARK FORCE" Moder="Faizzudin" Cusa="CUSA04853" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Buy Item Add 1000 Money V2">
+    <Cheat Text="Buy Item Add 1000 Money V2 | 购买物品获得1000金钱 V2">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Current Sp">
+    <Cheat Text="Inf Current Sp | 无限当前SP">
         <Cheatline>
             <Offset>13E5B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-77-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Party Exp Multiplier x 8">
+    <Cheat Text="Party Exp Multiplier x 8 | 队伍经验倍数 x 8">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Party Exp Multiplier x 16">
+    <Cheat Text="Party Exp Multiplier x 16 | 队伍经验倍数 x 16">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Party Exp Multiplier x 32">
+    <Cheat Text="Party Exp Multiplier x 32 | 队伍经验倍数 x 32">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Party Exp Multiplier x 64">
+    <Cheat Text="Party Exp Multiplier x 64 | 队伍经验倍数 x 64">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Party Exp Multiplier x 128">
+    <Cheat Text="Party Exp Multiplier x 128 | 队伍经验倍数 x 128">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fang WP Turn 500 Upon Usage">
+    <Cheat Text="Fang WP Turn 500 Upon Usage | 芳使用武器熟练度增加500">
         <Cheatline>
             <Offset>23CB800</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No Cooldown Eagle-Vision",
+      "name": "No Cooldown Eagle-Vision | 鹰眼无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Money, Items, Credo Points",
+      "name": "Infinite Money, Items, Credo Points | 无限金钱、物品、信仰点数",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Instant Max XP",
+      "name": "Instant Max XP | 瞬间满经验",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max on Pick: Money, Items, Credo Points",
+      "name": "Max on Pick: Money, Items, Credo Points | 拾取时最大金钱、物品、信仰点数",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints",
+      "name": "Max Skillpoints | 最大技能点数",
       "type": "checkbox",
       "memory": [
         {

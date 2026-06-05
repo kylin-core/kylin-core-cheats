@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Salt and Sanctuary" Moder="Saso" Cusa="CUSA02353" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>2BC5B4</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>F2-0F-58-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina / Focus">
+    <Cheat Text="Infinite Stamina / Focus | 无限耐力 / 专注">
         <Cheatline>
             <Offset>2BBC80</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>F2-0F-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables / Consumables (On Use)">
+    <Cheat Text="Infinite Throwables / Consumables (On Use) | 无限投掷物 / 消耗品 (使用时)">
         <Cheatline>
             <Offset>2D4F900</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Salt (On Spend)">
+    <Cheat Text="Max Salt (On Spend) | 最大盐 (消费时)">
         <Cheatline>
             <Offset>2D4FC00</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold (On Spend)">
+    <Cheat Text="Max Gold (On Spend) | 最大金币 (消费时)">
         <Cheatline>
             <Offset>2D4FA00</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Black Pearl (On Spend)">
+    <Cheat Text="Infinite Black Pearl (On Spend) | 无限黑珍珠 (消费时)">
         <Cheatline>
             <Offset>65C5B3</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-2B-CF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Upgrade Materials (On Spend)">
+    <Cheat Text="Infinite Upgrade Materials (On Spend) | 无限升级材料 (消费时)">
         <Cheatline>
             <Offset>2D4F800</Offset>
             <Section>0</Section>

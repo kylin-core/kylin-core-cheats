@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="theHunter: Call of the Wild" Moder="Rizla" Cusa="CUSA08368" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1C1F8DD</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1310CD6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-94-99-C4-10-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需换弹">
         <Cheatline>
             <Offset>1C1F800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HeartRate Always Calm">
+    <Cheat Text="HeartRate Always Calm | 心率始终平静">
         <Cheatline>
             <Offset>1C1F91D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Visability">
+    <Cheat Text="No Visability | 完全隐身">
         <Cheatline>
             <Offset>1C1F811</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Silent Footsteps">
+    <Cheat Text="Silent Footsteps | 无声脚步">
         <Cheatline>
             <Offset>1C1F82A</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Background Noise">
+    <Cheat Text="No Background Noise | 消除环境噪音">
         <Cheatline>
             <Offset>1C1F843</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP on Gain (Get XP Twice for Unlocks)">
+    <Cheat Text="Max XP on Gain (Get XP Twice for Unlocks) | 获取双倍经验（解锁翻倍）">
         <Cheatline>
             <Offset>1C1F8A0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points on Spend">
+    <Cheat Text="Max Skill Points on Spend | 技能点消费最大化">
         <Cheatline>
             <Offset>1C1F8AF</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x2 Skill Points on Spend">
+    <Cheat Text="x2 Skill Points on Spend | 技能点双倍消费">
         <Cheatline>
             <Offset>173CA73</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>29-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max SP/PP when Reset">
+    <Cheat Text="Max SP/PP when Reset | 重置时满技能/专精点">
         <Cheatline>
             <Offset>1C1F8F0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x2 Perk Points on Spend">
+    <Cheat Text="x2 Perk Points on Spend | 专精点双倍消费">
         <Cheatline>
             <Offset>173CA55</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>29-D7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money on Gain">
+    <Cheat Text="Max Money on Gain | 获取最大金钱">
         <Cheatline>
             <Offset>1C1F90D</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x2 Money on Spend">
+    <Cheat Text="x2 Money on Spend | 金钱双倍消费">
         <Cheatline>
             <Offset>16DE705</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>29-C2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Skill Cooldown">
+    <Cheat Text="No Skill Cooldown | 技能无冷却">
         <Cheatline>
             <Offset>1C1F994</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Backpack Weight">
+    <Cheat Text="Freeze Backpack Weight | 冻结背包重量">
         <Cheatline>
             <Offset>8514FA</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>4B-89-04-3E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Bow Fatigue">
+    <Cheat Text="No Bow Fatigue | 弓箭无疲劳">
         <Cheatline>
             <Offset>11AD124</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C4-C1-7A-11-47-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Glowing Animals Once Spotted">
+    <Cheat Text="Inf Glowing Animals Once Spotted | 发现后永久发光动物">
         <Cheatline>
             <Offset>149A77E</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>C5-FA-11-03</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rifle Score (Get Rifle Kill)">
+    <Cheat Text="Max Rifle Score (Get Rifle Kill) | 步枪得分最大化">
         <Cheatline>
             <Offset>1C1F940</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Handgun Score (Get Handgun Kill)">
+    <Cheat Text="Max Handgun Score (Get Handgun Kill) | 手枪得分最大化">
         <Cheatline>
             <Offset>1C1F951</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shotgun Score (Get Shotgun Kill)">
+    <Cheat Text="Max Shotgun Score (Get Shotgun Kill) | 霰弹枪得分最大化">
         <Cheatline>
             <Offset>1C1F962</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Arrow Score (Get Arrow Kill)">
+    <Cheat Text="Max Arrow Score (Get Arrow Kill) | 弓箭得分最大化">
         <Cheatline>
             <Offset>1C1F973</Offset>
             <Section>0</Section>

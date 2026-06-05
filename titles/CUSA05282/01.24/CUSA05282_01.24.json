@@ -5,7 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Exo Jump",
+      "name": "Infinite Exo Jump | 无限EXO跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Equipment",
+      "name": "Infinite Equipment | 无限战术装备",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Tactical Equipment",
+      "name": "Infinite Tactical Equipment | 无限战术道具",
       "type": "checkbox",
       "memory": [
         {

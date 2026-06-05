@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Divinity: Original Sin 2 - Definitive Edition on Steam" Moder="Wander FW9.00" Cusa="CUSA11898" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (level Up and fight your first figh)">
+    <Cheat Text="Infinite Health (level Up and fight your first figh) | 无限生命（升级并开始第一场战斗）">
         <Cheatline>
             <Offset>24C7F60</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP">
+    <Cheat Text="Infinite AP | 无限行动点数">
         <Cheatline>
             <Offset>24C7EB0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Coins(on pick up)">
+    <Cheat Text="Max Coins(on pick up) | 最大金币（拾取时）">
         <Cheatline>
             <Offset>24C7E20</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items do not decrease Coins is included">
+    <Cheat Text="Items do not decrease Coins is included | 物品不减（包含金币）">
         <Cheatline>
             <Offset>8B42D7</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-B7-84-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Talents points">
+    <Cheat Text="Talents points | 天赋点数">
         <Cheatline>
             <Offset>24C7AD0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Attributes points (Spend and confim and repeat for all points)">
+    <Cheat Text="Attributes points (Spend and confim and repeat for all points) | 属性点数（使用并确认，重复操作获得所有点数）">
         <Cheatline>
             <Offset>24C7D10</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Experience Multiplier">
+    <Cheat Text="Experience Multiplier | 经验倍数">
         <Cheatline>
             <Offset>24C7E80</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Combats Ability points">
+    <Cheat Text="Combats Ability points | 战斗能力点数">
         <Cheatline>
             <Offset>24C7AD0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Civil Ability points">
+    <Cheat Text="Civil Ability points | 通用能力点数">
         <Cheatline>
             <Offset>24C7B00</Offset>
             <Section>0</Section>

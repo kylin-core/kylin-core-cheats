@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Location Save - Load Mastercode ( must be activate )",
+      "name": "Location Save - Load Mastercode ( must be activate ) | 位置存档 - 加载主代码（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Health",
+      "name": "Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Breath",
+      "name": "Infinite Breath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Breath",
+      "name": "Max Breath | 最大呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "No Cough",
+      "name": "No Cough | 无咳嗽",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Items / Ammo",
+      "name": "Max Items / Ammo | 最大物品/弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Save Location [ MC ]",
+      "name": "Save Location [ MC ] | 保存位置[主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Load Location [ MC ]",
+      "name": "Load Location [ MC ] | 加载位置[主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "Reset Timer",
+      "name": "Reset Timer | 重置计时器",
       "type": "checkbox",
       "memory": [
         {

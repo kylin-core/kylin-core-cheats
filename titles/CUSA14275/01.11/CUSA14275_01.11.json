@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health ( Player / Team )",
+      "name": "Infinite Health ( Player / Team ) | 无限生命（玩家/队伍）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina ( Battle Mode )",
+      "name": "Infinite Stamina ( Battle Mode ) | 无限耐力（战斗模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina ( Run Mode )",
+      "name": "Infinite Stamina ( Run Mode ) | 无限耐力（奔跑模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 最大弹药量",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "No Reload ( Ammo )",
+      "name": "No Reload ( Ammo ) | 无需装弹（弹药）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Ammo Items",
+      "name": "Max Ammo Items | 最大弹药道具数量",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Infinite Copper ( on gain / use )",
+      "name": "Infinite Copper ( on gain / use ) | 无限铜币（获得/使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Infinite Card Draws",
+      "name": "Infinite Card Draws | 无限抽卡次数",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Infinite Supply Lines ( on gain / use )",
+      "name": "Infinite Supply Lines ( on gain / use ) | 无限补给线（获得/使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Infinite Skull Totems ( on gain / use )",
+      "name": "Infinite Skull Totems ( on gain / use ) | 无限骷髅图腾（获得/使用时）",
       "type": "checkbox",
       "memory": [
         {

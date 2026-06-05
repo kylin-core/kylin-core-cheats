@@ -5,8 +5,7 @@
   "process": "LaunchOrbis.elf",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Eve",
-      "hint": null,
+      "name": "Infinite Eve | 无限伊娃",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "hint": null,
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "2x Money After Spend",
-      "hint": null,
+      "name": "2x Money After Spend | 花费后双倍金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "2x Adam After Spend",
-      "hint": null,
+      "name": "2x Adam After Spend | 花费后双倍亚当",
       "type": "checkbox",
       "memory": [
         {

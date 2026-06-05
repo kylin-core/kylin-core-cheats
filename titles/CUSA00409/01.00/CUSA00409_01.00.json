@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Battery Life",
-      "hint": null,
+      "name": "Infinite Battery Life | 无限电池寿命",
       "type": "checkbox",
       "memory": [
         {

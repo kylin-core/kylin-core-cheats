@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (No Reload)",
+      "name": "Infinite Ammo (No Reload) | 无限弹药（无需装填）",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables",
+      "name": "Infinite Consumables | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No currency reduction",
+      "name": "No currency reduction | 货币不减",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite First Aid kit",
+      "name": "Infinite First Aid kit | 无限急救包",
       "type": "checkbox",
       "memory": [
         {

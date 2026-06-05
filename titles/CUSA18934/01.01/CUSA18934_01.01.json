@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Ammo Riffle",
+      "name": "Max Ammo Riffle | 步枪弹药上限",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Max Ammo Clip Riffle",
+      "name": "Max Ammo Clip Riffle | 步枪弹夹上限",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Max Ammo Pistol",
+      "name": "Max Ammo Pistol | 手枪弹药上限",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "Max Ammo Pistol Clip",
+      "name": "Max Ammo Pistol Clip | 手枪弹夹上限",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Max Liquid Nitrogen",
+      "name": "Max Liquid Nitrogen | 液氮上限",
       "type": "checkbox",
       "memory": [
         {
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "name": "Max EM Coil",
+      "name": "Max EM Coil | 电磁线圈上限",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Max Energy Cell",
+      "name": "Max Energy Cell | 能量电池上限",
       "type": "checkbox",
       "memory": [
         {
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints",
+      "name": "Max Skillpoints | 技能点上限",
       "type": "checkbox",
       "memory": [
         {
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "name": "Max Level",
+      "name": "Max Level | 最高等级",
       "type": "checkbox",
       "memory": [
         {
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "name": "Walk Speed Multiplier Mastercode",
+      "name": "Walk Speed Multiplier Mastercode | 行走速度倍率主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Walk Multiplier x 1 [ MC ]",
+      "name": "Walk Multiplier x 1 [ MC ] | 行走倍率 x1 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "name": "Walk Multiplier x 2 [ MC ]",
+      "name": "Walk Multiplier x 2 [ MC ] | 行走倍率 x2 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "name": "Walk Multiplier x 3 [ MC ]",
+      "name": "Walk Multiplier x 3 [ MC ] | 行走倍率 x3 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "name": "Walk Multiplier x 4 [ MC ]",
+      "name": "Walk Multiplier x 4 [ MC ] | 行走倍率 x4 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "name": "Walk Multiplier x 5 [ MC ]",
+      "name": "Walk Multiplier x 5 [ MC ] | 行走倍率 x5 [主代码]",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cyberpunk 2077" Moder="Pharaoh2k" Cusa="CUSA18278" Version="01.61" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>4AF77FF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Switch (Must be enabled first)">
+    <Cheat Text="Master Switch (Must be enabled first) | 主开关（需先启用）">
         <Cheatline>
             <Offset>4AF7800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite Health (Req. MS)">
+    <Cheat Text="--Infinite Health (Req. MS) | --无限生命（需主开关）">
         <Cheatline>
             <Offset>4AF7947</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite Stamina (Req. MS)">
+    <Cheat Text="--Infinite Stamina (Req. MS) | --无限体力（需主开关）">
         <Cheatline>
             <Offset>4AF7948</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite RAM (Req. MS)">
+    <Cheat Text="--Infinite RAM (Req. MS) | --无限内存（需主开关）">
         <Cheatline>
             <Offset>4AF7949</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Instant Hack Upload (Req. MS)">
+    <Cheat Text="--Instant Hack Upload (Req. MS) | --即时上传破解（需主开关）">
         <Cheatline>
             <Offset>4AF794A</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--One Hit Kills Enemy (Req. MS)">
+    <Cheat Text="--One Hit Kills Enemy (Req. MS) | --一击必杀敌人（需主开关）">
         <Cheatline>
             <Offset>4AF794B</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--One Hit Destroys Vehicles (Req. MS)">
+    <Cheat Text="--One Hit Destroys Vehicles (Req. MS) | --一击摧毁载具（需主开关）">
         <Cheatline>
             <Offset>4AF794C</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Skills and Hacks Instant Cooldown">
+    <Cheat Text="Skills and Hacks Instant Cooldown | 技能与破解瞬间冷却">
         <Cheatline>
             <Offset>4AF7A00</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Stealth">
+    <Cheat Text="Super Stealth | 超级潜行">
         <Cheatline>
             <Offset>195A950</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>55-48-89-E5</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>4AF7A50</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Accuracy">
+    <Cheat Text="Super Accuracy | 超级精准度">
         <Cheatline>
             <Offset>4AF7B00</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Recoil">
+    <Cheat Text="No Recoil | 无后坐力">
         <Cheatline>
             <Offset>1E4D6F4</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>74-2A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload (reloaded)">
+    <Cheat Text="No Reload (reloaded) | 无需装弹（已装填）">
         <Cheatline>
             <Offset>4AF7C00</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手雷">
         <Cheatline>
             <Offset>4AF7C50</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Double Jump">
+    <Cheat Text="Infinite Double Jump | 无限二段跳">
         <Cheatline>
             <Offset>4AF7D00</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>4AF7D50</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x3 Multiplier">
+    <Cheat Text="--x3 Multiplier | --x3倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x5 Multiplier">
+    <Cheat Text="--x5 Multiplier | --x5倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x10 Multiplier">
+    <Cheat Text="--x10 Multiplier | --x10倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x15 Multiplier">
+    <Cheat Text="--x15 Multiplier | --x15倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x20 Multiplier">
+    <Cheat Text="--x20 Multiplier | --x20倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x30 Multiplier">
+    <Cheat Text="--x30 Multiplier | --x30倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x40 Multiplier">
+    <Cheat Text="--x40 Multiplier | --x40倍率">
         <Cheatline>
             <Offset>4AF7D94</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9876 pc. Inventory and Quickhack Components">
+    <Cheat Text="9876 pc. Inventory and Quickhack Components | 9876个物品栏与快速破解组件">
         <Cheatline>
             <Offset>4AF7E00</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9900 pc. Inventory Items Quantity">
+    <Cheat Text="9900 pc. Inventory Items Quantity | 9900个物品栏物品数量">
         <Cheatline>
             <Offset>4AF7E50</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9999999 Money">
+    <Cheat Text="9999999 Money | 9999999金钱">
         <Cheatline>
             <Offset>4AF7F00</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Breach Protocol Timer">
+    <Cheat Text="Freeze Breach Protocol Timer | 冻结入侵协议计时器">
         <Cheatline>
             <Offset>2B6BDC1</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>C5-FA-11-83-D8-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game Speed (must enable first)">
+    <Cheat Text="Game Speed (must enable first) | 游戏速度（需先启用）">
         <Cheatline>
             <Offset>4AF7F50</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x0.1 Speed">
+    <Cheat Text="--x0.1 Speed | --x0.1倍速">
         <Cheatline>
             <Offset>4AF7F7D</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x0.5 Speed">
+    <Cheat Text="--x0.5 Speed | --x0.5倍速">
         <Cheatline>
             <Offset>4AF7F7D</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x1.5 Speed">
+    <Cheat Text="--x1.5 Speed | --x1.5倍速">
         <Cheatline>
             <Offset>4AF7F7D</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x2 Speed">
+    <Cheat Text="--x2 Speed | --x2倍速">
         <Cheatline>
             <Offset>4AF7F7D</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x2.5 Speed">
+    <Cheat Text="--x2.5 Speed | --x2.5倍速">
         <Cheatline>
             <Offset>4AF7F7D</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--x3 Speed">
+    <Cheat Text="--x3 Speed | --x3倍速">
         <Cheatline>
             <Offset>4AF7F7D</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Level, Street Credits, Skills XP (Must be enabled first)">
+    <Cheat Text="Level, Street Credits, Skills XP (Must be enabled first) | 等级、街头声望、技能经验（需先启用）">
         <Cheatline>
             <Offset>4AF7B90</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Level 10">
+    <Cheat Text="--Level 10 | --等级10">
         <Cheatline>
             <Offset>4AF7BEC</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>0A-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Level 20">
+    <Cheat Text="--Level 20 | --等级20">
         <Cheatline>
             <Offset>4AF7BEC</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>14-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Level 30">
+    <Cheat Text="--Level 30 | --等级30">
         <Cheatline>
             <Offset>4AF7BEC</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>1E-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Level 40">
+    <Cheat Text="--Level 40 | --等级40">
         <Cheatline>
             <Offset>4AF7BEC</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>28-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Level 50">
+    <Cheat Text="--Level 50 | --等级50">
         <Cheatline>
             <Offset>4AF7BEC</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>32-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Street Credits 10">
+    <Cheat Text="--Street Credits 10 | --街头声望10">
         <Cheatline>
             <Offset>4AF7BE8</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>0A-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Street Credits 20">
+    <Cheat Text="--Street Credits 20 | --街头声望20">
         <Cheatline>
             <Offset>4AF7BE8</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>14-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Street Credits 30">
+    <Cheat Text="--Street Credits 30 | --街头声望30">
         <Cheatline>
             <Offset>4AF7BE8</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>1E-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Street Credits 40">
+    <Cheat Text="--Street Credits 40 | --街头声望40">
         <Cheatline>
             <Offset>4AF7BE8</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>28-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Street Credits 50">
+    <Cheat Text="--Street Credits 50 | --街头声望50">
         <Cheatline>
             <Offset>4AF7BE8</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>32-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Skills XP 10,000">
+    <Cheat Text="--Skills XP 10,000 | --技能经验10,000">
         <Cheatline>
             <Offset>4AF7BE4</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>10-27-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Skills XP 20,000">
+    <Cheat Text="--Skills XP 20,000 | --技能经验20,000">
         <Cheatline>
             <Offset>4AF7BE4</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>20-4E-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Skills XP 30,000">
+    <Cheat Text="--Skills XP 30,000 | --技能经验30,000">
         <Cheatline>
             <Offset>4AF7BE4</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>30-75-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Skills XP 40,000">
+    <Cheat Text="--Skills XP 40,000 | --技能经验40,000">
         <Cheatline>
             <Offset>4AF7BE4</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>40-9C-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Skills XP 50,000">
+    <Cheat Text="--Skills XP 50,000 | --技能经验50,000">
         <Cheatline>
             <Offset>4AF7BE4</Offset>
             <Section>0</Section>
@@ -413,7 +413,7 @@
             <ValueOff>50-C3-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Skills XP 60,000">
+    <Cheat Text="--Skills XP 60,000 | --技能经验60,000">
         <Cheatline>
             <Offset>4AF7BE4</Offset>
             <Section>0</Section>
@@ -421,7 +421,7 @@
             <ValueOff>60-EA-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Skill XP Multiplier">
+    <Cheat Text="Skill XP Multiplier | 技能经验倍率">
         <Cheatline>
             <Offset>4AF7CA0</Offset>
             <Section>0</Section>
@@ -429,7 +429,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x2">
+    <Cheat Text="--Multiplier x2 | --倍率x2">
         <Cheatline>
             <Offset>4AF7CC9</Offset>
             <Section>0</Section>
@@ -437,7 +437,7 @@
             <ValueOff>02-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x4">
+    <Cheat Text="--Multiplier x4 | --倍率x4">
         <Cheatline>
             <Offset>4AF7CC9</Offset>
             <Section>0</Section>
@@ -445,7 +445,7 @@
             <ValueOff>04-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x6">
+    <Cheat Text="--Multiplier x6 | --倍率x6">
         <Cheatline>
             <Offset>4AF7CC9</Offset>
             <Section>0</Section>
@@ -453,7 +453,7 @@
             <ValueOff>06-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x8">
+    <Cheat Text="--Multiplier x8 | --倍率x8">
         <Cheatline>
             <Offset>4AF7CC9</Offset>
             <Section>0</Section>
@@ -461,7 +461,7 @@
             <ValueOff>08-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10">
+    <Cheat Text="--Multiplier x10 | --倍率x10">
         <Cheatline>
             <Offset>4AF7CC9</Offset>
             <Section>0</Section>
@@ -469,7 +469,7 @@
             <ValueOff>0A-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Attribute Points (on use)">
+    <Cheat Text="999 Attribute Points (on use) | 999属性点（使用时）">
         <Cheatline>
             <Offset>4AF7DA0</Offset>
             <Section>0</Section>
@@ -477,7 +477,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Perk Points (on use)">
+    <Cheat Text="999 Perk Points (on use) | 999专长点（使用时）">
         <Cheatline>
             <Offset>4AF7EA0</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MLB® The Show™ 18" Moder="thrill" Cusa="CUSA09450" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Always Homerun">
+    <Cheat Text="Always Homerun | 全垒打">
         <Cheatline>
             <Offset>11739b9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-F0-57-C9-C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Autohit 2000.0MPH Incline 19.0deg Azimuth 5.5deg">
+    <Cheat Text="Autohit 2000.0MPH Incline 19.0deg Azimuth 5.5deg | 自动击球 2000.0英里/时 仰角19.0度 方位角5.5度">
         <Cheatline>
             <Offset>1173550</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-83-BD-00-2F-00-00-03-0F-85-A2-00-00-00-4C-89-54-24-48-41-C7-85-00-2F-00-00-04-00-00-00-E8-4D-42-43-00-E8-48-42-43-00-48-39-05-89-FE-5D-08-74-7A-8A-05-E0-05-70-08-34-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Always Throw FB Middle">
+    <Cheat Text="Always Throw FB Middle | 始终投正中直球">
         <Cheatline>
             <Offset>19FA222</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Always Swing and Miss">
+    <Cheat Text="Always Swing and Miss | 挥棒必空">
         <Cheatline>
             <Offset>19FA220</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Always Strike and Contact No Fouls">
+    <Cheat Text="Always Strike and Contact No Fouls | 击球必中无界外">
         <Cheatline>
             <Offset>19FA221</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stop the Ball (and steal)">
+    <Cheat Text="Stop the Ball (and steal) | 停球（并盗垒）">
         <Cheatline>
             <Offset>11729E0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Just training (in calendar screen only)">
+    <Cheat Text="Just training (in calendar screen only) | 仅训练（仅在日历界面）">
         <Cheatline>
             <Offset>9873B67</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add score 31 runs per hit">
+    <Cheat Text="Add score 31 runs per hit | 每次安打加31分">
         <Cheatline>
             <Offset>AF79CD</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>44-8B-73-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Maximum hitspeed 3500MPH">
+    <Cheat Text="Maximum hitspeed 3500MPH | 最大击球速度3500英里/时">
         <Cheatline>
             <Offset>1616204</Offset>
             <Section>0</Section>

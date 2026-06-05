@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Berserk and the Band of the Hawk" Moder="Vampirexx" Cusa="CUSA07406" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>9A785A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Frenzy Mode after 1 hit">
+    <Cheat Text="Max Frenzy Mode after 1 hit | 一击满狂怒">
         <Cheatline>
             <Offset>9A788B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Frenzy Mode hold CIRCLE to Deplete">
+    <Cheat Text="Inf Frenzy Mode hold CIRCLE to Deplete | 无限狂怒（长按○消耗）">
         <Cheatline>
             <Offset>9A78A2</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Death Blown after 1 hit">
+    <Cheat Text="Max Death Blown after 1 hit | 一击满处决">
         <Cheatline>
             <Offset>9A7800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Death Blown">
+    <Cheat Text="Inf Death Blown | 无限处决">
         <Cheatline>
             <Offset>B89F</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-F2-5C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo Secondary Weapon">
+    <Cheat Text="Inf Ammo Secondary Weapon | 副武器无限弹药">
         <Cheatline>
             <Offset>233EA3</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-EA-5C-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Secondary Objects">
+    <Cheat Text="Inf Secondary Objects | 副道具无限使用">
         <Cheatline>
             <Offset>2340DE</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-0A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Endless Powerup Items">
+    <Cheat Text="Endless Powerup Items | 强化道具持续生效">
         <Cheatline>
             <Offset>41596C</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-F2-5C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cooldown Berserk Weapon">
+    <Cheat Text="No Cooldown Berserk Weapon | 狂战士武器无冷却">
         <Cheatline>
             <Offset>234019</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-40-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No cooldown Weapons / items">
+    <Cheat Text="No cooldown Weapons / items | 武器/道具无冷却">
         <Cheatline>
             <Offset>233B15</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-66-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money on Level Up">
+    <Cheat Text="Inf Money on Level Up | 升级时获得无限金钱">
         <Cheatline>
             <Offset>1820D7</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>29-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gain Money after Shop">
+    <Cheat Text="Gain Money after Shop | 购物后获得金钱">
         <Cheatline>
             <Offset>18D6B5</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>29-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Maximize Item after Level UP Slot1">
+    <Cheat Text="Maximize Item after Level UP Slot1 | 升级后最大化道具栏1">
         <Cheatline>
             <Offset>9A7800</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Maximize Item after Level UP Slot2">
+    <Cheat Text="Maximize Item after Level UP Slot2 | 升级后最大化道具栏2">
         <Cheatline>
             <Offset>9A788B</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Maximize Item after Level UP Slot3">
+    <Cheat Text="Maximize Item after Level UP Slot3 | 升级后最大化道具栏3">
         <Cheatline>
             <Offset>9A78B8</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Enhancements Stones">
+    <Cheat Text="Inf Enhancements Stones | 无限强化石">
         <Cheatline>
             <Offset>1929B7</Offset>
             <Section>0</Section>

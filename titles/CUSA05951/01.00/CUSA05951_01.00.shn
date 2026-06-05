@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Super Stardust™Ultra VR" Moder="dbzgts" Cusa="CUSA05951" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max bomb (arcade mode)">
+    <Cheat Text="Max bomb (arcade mode) | 最大炸弹（街机模式）">
         <Cheatline>
             <Offset>6E7800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Multiplier (arcade mode)">
+    <Cheat Text="Max Multiplier (arcade mode) | 最大倍率（街机模式）">
         <Cheatline>
             <Offset>313AC7</Offset>
             <Section>0</Section>

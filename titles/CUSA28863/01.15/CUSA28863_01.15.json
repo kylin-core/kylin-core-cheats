@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[00][MasterCode] ALWAYS ON!",
+      "name": "[00][MasterCode] ALWAYS ON! | 主代码 始终开启！",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "[01][Health] Immunity Player+Horse",
+      "name": "[01][Health] Immunity Player+Horse | 生命 玩家+马匹免疫",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "[02][Health] No Death From Height (Pharaoh2k/Dioniso)",
+      "name": "[02][Health] No Death From Height (Pharaoh2k/Dioniso) | 生命 高处坠落不死 (Pharaoh2k/Dioniso)",
       "type": "checkbox",
       "memory": [
         {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "name": "[03][Health] Infinite",
+      "name": "[03][Health] Infinite | 生命 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "name": "[04][Weapon] 1 Hit Kill",
+      "name": "[04][Weapon] 1 Hit Kill | 武器 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "[05][Status] Infinite Stamina (Jump/Dash)",
+      "name": "[05][Status] Infinite Stamina (Jump/Dash) | 状态 无限耐力 (跳跃/冲刺)",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "[06][Status] Infinite FP",
+      "name": "[06][Status] Infinite FP | 状态 无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "[07a][Status] Level = 99",
+      "name": "[07a][Status] Level = 99 | 状态 等级=99",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "[07b][Status] Level = 666",
+      "name": "[07b][Status] Level = 666 | 状态 等级=666",
       "type": "checkbox",
       "memory": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "[08][Status] Attribute Points = 99",
+      "name": "[08][Status] Attribute Points = 99 | 状态 属性点数=99",
       "type": "checkbox",
       "memory": [
         {
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "[09][Status] Infinite Runes",
+      "name": "[09][Status] Infinite Runes | 状态 无限卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "[10][Status_Effect] No Blood Loss",
+      "name": "[10][Status_Effect] No Blood Loss | 状态效果 不流血",
       "type": "checkbox",
       "memory": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "[11][Status_Effect] No Poisoned",
+      "name": "[11][Status_Effect] No Poisoned | 状态效果 不中毒",
       "type": "checkbox",
       "memory": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "name": "[12][Status_Effect] No Scarlet Rot",
+      "name": "[12][Status_Effect] No Scarlet Rot | 状态效果 不腐败",
       "type": "checkbox",
       "memory": [
         {
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "name": "[13][Status_Effect] No Frostbite",
+      "name": "[13][Status_Effect] No Frostbite | 状态效果 不冻伤",
       "type": "checkbox",
       "memory": [
         {
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "name": "[14][Status_Effect] No Instant Death",
+      "name": "[14][Status_Effect] No Instant Death | 状态效果 不即死",
       "type": "checkbox",
       "memory": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "name": "[15][Status_Effect] No Madness",
+      "name": "[15][Status_Effect] No Madness | 状态效果 不癫狂",
       "type": "checkbox",
       "memory": [
         {
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "name": "[16][Status_Effect] No Sleep",
+      "name": "[16][Status_Effect] No Sleep | 状态效果 不睡眠",
       "type": "checkbox",
       "memory": [
         {
@@ -373,7 +373,7 @@
       ]
     },
     {
-      "name": "[17][Item] 666 (You need one)",
+      "name": "[17][Item] 666 (You need one) | 物品 666个 (需有一个)",
       "type": "checkbox",
       "memory": [
         {
@@ -389,7 +389,7 @@
       ]
     },
     {
-      "name": "[18][Item] Create Max Number Of Objects (Create 1)",
+      "name": "[18][Item] Create Max Number Of Objects (Create 1) | 物品 创建最大数量物品 (创建1个)",
       "type": "checkbox",
       "memory": [
         {
@@ -405,7 +405,7 @@
       ]
     },
     {
-      "name": "[19][Item] Infinite When Use/Drop/Discard",
+      "name": "[19][Item] Infinite When Use/Drop/Discard | 物品 使用/丢弃/销毁时无限",
       "type": "checkbox",
       "memory": [
         {
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "name": "[20a][Speed] Player+Horse x1",
+      "name": "[20a][Speed] Player+Horse x1 | 速度 玩家+马匹 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -437,7 +437,7 @@
       ]
     },
     {
-      "name": "[20b][Speed] Player+Horse x2",
+      "name": "[20b][Speed] Player+Horse x2 | 速度 玩家+马匹 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "name": "[20c][Speed] Player+Horse x3",
+      "name": "[20c][Speed] Player+Horse x3 | 速度 玩家+马匹 x3",
       "type": "checkbox",
       "memory": [
         {
@@ -469,7 +469,7 @@
       ]
     },
     {
-      "name": "[20d][Speed] Player+Horse x4",
+      "name": "[20d][Speed] Player+Horse x4 | 速度 玩家+马匹 x4",
       "type": "checkbox",
       "memory": [
         {
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "name": "[20e][Speed] Player+Horse x16",
+      "name": "[20e][Speed] Player+Horse x16 | 速度 玩家+马匹 x16",
       "type": "checkbox",
       "memory": [
         {
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "name": "[21a][Speed] Enemy x1",
+      "name": "[21a][Speed] Enemy x1 | 速度 敌人 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -517,7 +517,7 @@
       ]
     },
     {
-      "name": "[21b][Speed] Enemy x0,5",
+      "name": "[21b][Speed] Enemy x0,5 | 速度 敌人 x0.5",
       "type": "checkbox",
       "memory": [
         {
@@ -533,7 +533,7 @@
       ]
     },
     {
-      "name": "[21c][Speed] Enemy x0,25",
+      "name": "[21c][Speed] Enemy x0,25 | 速度 敌人 x0.25",
       "type": "checkbox",
       "memory": [
         {
@@ -549,7 +549,7 @@
       ]
     },
     {
-      "name": "[22][Fly] L2 = Fall Down Slowly",
+      "name": "[22][Fly] L2 = Fall Down Slowly | 飞行 L2=缓慢下落",
       "type": "checkbox",
       "memory": [
         {
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "name": "[23][Fly] L2+R3 = Go UP When In Air",
+      "name": "[23][Fly] L2+R3 = Go UP When In Air | 飞行 L2+R3=空中上升",
       "type": "checkbox",
       "memory": [
         {
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "name": "[24][Special] L1+L2 = Astral Projection",
+      "name": "[24][Special] L1+L2 = Astral Projection | 特殊 L1+L2=灵魂出窍",
       "type": "checkbox",
       "memory": [
         {
@@ -597,7 +597,7 @@
       ]
     },
     {
-      "name": "[25][Special] L2+L3 = Kill All Enemies Around",
+      "name": "[25][Special] L2+L3 = Kill All Enemies Around | 特殊 L2+L3=击杀周围所有敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -613,7 +613,7 @@
       ]
     },
     {
-      "name": "[26][Equipment] Nacked Player",
+      "name": "[26][Equipment] Nacked Player | 装备 玩家裸体",
       "type": "checkbox",
       "memory": [
         {
@@ -629,7 +629,7 @@
       ]
     },
     {
-      "name": "[27a][Status] Edit: Level",
+      "name": "[27a][Status] Edit: Level | 状态 编辑：等级",
       "type": "checkbox",
       "memory": [
         {
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "name": "[27b][Status] Edit: Runes Held",
+      "name": "[27b][Status] Edit: Runes Held | 状态 编辑：持有卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -651,7 +651,7 @@
       ]
     },
     {
-      "name": "[27c][Status] Edit: Vigor",
+      "name": "[27c][Status] Edit: Vigor | 状态 编辑：生命力",
       "type": "checkbox",
       "memory": [
         {
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "name": "[27d][Status] Edit: Mind",
+      "name": "[27d][Status] Edit: Mind | 状态 编辑：集中力",
       "type": "checkbox",
       "memory": [
         {
@@ -673,7 +673,7 @@
       ]
     },
     {
-      "name": "[27e][Status] Edit: Endurance",
+      "name": "[27e][Status] Edit: Endurance | 状态 编辑：耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -684,7 +684,7 @@
       ]
     },
     {
-      "name": "[27f][Status] Edit: Strength",
+      "name": "[27f][Status] Edit: Strength | 状态 编辑：力气",
       "type": "checkbox",
       "memory": [
         {
@@ -695,7 +695,7 @@
       ]
     },
     {
-      "name": "[27g][Status] Edit: Dexterity",
+      "name": "[27g][Status] Edit: Dexterity | 状态 编辑：灵巧",
       "type": "checkbox",
       "memory": [
         {
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "name": "[27h][Status] Edit: Intelligence",
+      "name": "[27h][Status] Edit: Intelligence | 状态 编辑：智力",
       "type": "checkbox",
       "memory": [
         {
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "name": "[27i][Status] Edit: Faith",
+      "name": "[27i][Status] Edit: Faith | 状态 编辑：信仰",
       "type": "checkbox",
       "memory": [
         {
@@ -728,7 +728,7 @@
       ]
     },
     {
-      "name": "[27j][Status] Edit: Arcane",
+      "name": "[27j][Status] Edit: Arcane | 状态 编辑：感应",
       "type": "checkbox",
       "memory": [
         {
@@ -739,7 +739,7 @@
       ]
     },
     {
-      "name": "[28a][Beacon1] Maps: Limgrave, West",
+      "name": "[28a][Beacon1] Maps: Limgrave, West | 信标1 地图：宁姆格福（西）",
       "type": "checkbox",
       "memory": [
         {
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "name": "[28b][Beacon1] Maps: Limgrave, East",
+      "name": "[28b][Beacon1] Maps: Limgrave, East | 信标1 地图：宁姆格福（东）",
       "type": "checkbox",
       "memory": [
         {
@@ -771,7 +771,7 @@
       ]
     },
     {
-      "name": "[28c][Beacon1] Maps: Weeping Peninsula (Limgrave)",
+      "name": "[28c][Beacon1] Maps: Weeping Peninsula (Limgrave) | 信标1 地图：啜泣半岛（宁姆格福）",
       "type": "checkbox",
       "memory": [
         {
@@ -787,7 +787,7 @@
       ]
     },
     {
-      "name": "[28d][Beacon1] Maps: Caelid",
+      "name": "[28d][Beacon1] Maps: Caelid | 信标1 地图：盖利德",
       "type": "checkbox",
       "memory": [
         {
@@ -803,7 +803,7 @@
       ]
     },
     {
-      "name": "[28e][Beacon1] Maps: Dragonbarrow",
+      "name": "[28e][Beacon1] Maps: Dragonbarrow | 信标1 地图：龙墓",
       "type": "checkbox",
       "memory": [
         {
@@ -819,7 +819,7 @@
       ]
     },
     {
-      "name": "[28f][Beacon1] Maps: Liurnia, East",
+      "name": "[28f][Beacon1] Maps: Liurnia, East | 信标1 地图：利耶尼亚（东）",
       "type": "checkbox",
       "memory": [
         {
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "name": "[28g][Beacon1] Maps: Liurnia, North",
+      "name": "[28g][Beacon1] Maps: Liurnia, North | 信标1 地图：利耶尼亚（北）",
       "type": "checkbox",
       "memory": [
         {
@@ -851,7 +851,7 @@
       ]
     },
     {
-      "name": "[28h][Beacon1] Maps: Liurnia,West",
+      "name": "[28h][Beacon1] Maps: Liurnia,West | 信标1 地图：利耶尼亚（西）",
       "type": "checkbox",
       "memory": [
         {
@@ -867,7 +867,7 @@
       ]
     },
     {
-      "name": "[28i][Beacon1] Maps: Altus Plateau",
+      "name": "[28i][Beacon1] Maps: Altus Plateau | 信标1 地图：亚坛高原",
       "type": "checkbox",
       "memory": [
         {
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "name": "[28j][Beacon1] Maps: Leyndell, Royal Capital",
+      "name": "[28j][Beacon1] Maps: Leyndell, Royal Capital | 信标1 地图：罗德尔，王城",
       "type": "checkbox",
       "memory": [
         {
@@ -899,7 +899,7 @@
       ]
     },
     {
-      "name": "[28k][Beacon1] Maps: Mt. Gelmir",
+      "name": "[28k][Beacon1] Maps: Mt. Gelmir | 信标1 地图：格密尔火山",
       "type": "checkbox",
       "memory": [
         {
@@ -915,7 +915,7 @@
       ]
     },
     {
-      "name": "[28l][Beacon1] Maps: Consecrated Snowfield",
+      "name": "[28l][Beacon1] Maps: Consecrated Snowfield | 信标1 地图：化圣雪原",
       "type": "checkbox",
       "memory": [
         {
@@ -931,7 +931,7 @@
       ]
     },
     {
-      "name": "[28m][Beacon1] Maps: Mountaintops of the Giants, East",
+      "name": "[28m][Beacon1] Maps: Mountaintops of the Giants, East | 信标1 地图：巨人山顶（东）",
       "type": "checkbox",
       "memory": [
         {
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "name": "[28n][Beacon1] Maps: Mountaintops of the Giants, West",
+      "name": "[28n][Beacon1] Maps: Mountaintops of the Giants, West | 信标1 地图：巨人山顶（西）",
       "type": "checkbox",
       "memory": [
         {
@@ -963,7 +963,7 @@
       ]
     },
     {
-      "name": "[28o][Beacon1] Entrance: Siofra River",
+      "name": "[28o][Beacon1] Entrance: Siofra River | 信标1 入口：希芙拉河",
       "type": "checkbox",
       "memory": [
         {
@@ -979,7 +979,7 @@
       ]
     },
     {
-      "name": "[28p][Beacon1] Maps: Siofra River (Underground)",
+      "name": "[28p][Beacon1] Maps: Siofra River (Underground) | 信标1 地图：希芙拉河（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "name": "[28q][Beacon1] Entrance: Deeproot Depths (Underground)",
+      "name": "[28q][Beacon1] Entrance: Deeproot Depths (Underground) | 信标1 入口：深根底层（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -1011,7 +1011,7 @@
       ]
     },
     {
-      "name": "[28r][Beacon1] Maps: Deeproot Depths (Underground)",
+      "name": "[28r][Beacon1] Maps: Deeproot Depths (Underground) | 信标1 地图：深根底层（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -1027,7 +1027,7 @@
       ]
     },
     {
-      "name": "[28s][Beacon1] Entrance: Ainsel River Well",
+      "name": "[28s][Beacon1] Entrance: Ainsel River Well | 信标1 入口：安瑟尔河井",
       "type": "checkbox",
       "memory": [
         {
@@ -1043,7 +1043,7 @@
       ]
     },
     {
-      "name": "[28t][Beacon1] Maps: Ainsel River (Underground)",
+      "name": "[28t][Beacon1] Maps: Ainsel River (Underground) | 信标1 地图：安瑟尔河（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -1059,7 +1059,7 @@
       ]
     },
     {
-      "name": "[28u][Beacon1] Entrance1: Lake Of Rot (Underground)",
+      "name": "[28u][Beacon1] Entrance1: Lake Of Rot (Underground) | 信标1 入口1：腐败湖（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -1075,7 +1075,7 @@
       ]
     },
     {
-      "name": "[28v][Beacon1] Entrance2: Lake Of Rot (Underground)",
+      "name": "[28v][Beacon1] Entrance2: Lake Of Rot (Underground) | 信标1 入口2：腐败湖（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -1091,7 +1091,7 @@
       ]
     },
     {
-      "name": "[28w][Beacon1] Maps: Lake Of Rot (Underground)",
+      "name": "[28w][Beacon1] Maps: Lake Of Rot (Underground) | 信标1 地图：腐败湖（地下）",
       "type": "checkbox",
       "memory": [
         {
@@ -1107,7 +1107,7 @@
       ]
     },
     {
-      "name": "[28x][Beacon1] Entrance: Crumbling Farum Azula",
+      "name": "[28x][Beacon1] Entrance: Crumbling Farum Azula | 信标1 入口：逐渐崩毁的法姆·亚兹拉",
       "type": "checkbox",
       "memory": [
         {

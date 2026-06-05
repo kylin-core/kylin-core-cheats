@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Effie" Moder="Wander FW9.00" Cusa="CUSA16400" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code Infinite Skill usage (turn off when gliding)">
+    <Cheat Text="Master Code Infinite Skill usage (turn off when gliding) | 主代码无限技能使用（滑翔时关闭）">
         <Cheatline>
             <Offset>48D0FF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite health (M)">
+    <Cheat Text="Infinite health (M) | 无限生命（M）">
         <Cheatline>
             <Offset>48D0FFD</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-0A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience (M) (the game will freeze turn it off to take effect)">
+    <Cheat Text="Max Experience (M) (the game will freeze turn it off to take effect) | 最大经验值（M）（开启后游戏会卡死，关闭即可生效）">
         <Cheatline>
             <Offset>48D101B</Offset>
             <Section>0</Section>

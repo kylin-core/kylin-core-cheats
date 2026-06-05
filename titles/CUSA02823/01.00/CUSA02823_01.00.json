@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite AP",
+      "name": "Infinite AP | 无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Yuld",
+      "name": "Infinite Yuld | 无限尤德",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max Yuld",
+      "name": "Max Yuld | 最大尤德",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Instant Max XP",
+      "name": "Instant Max XP | 瞬间满经验",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Infinite Union Gauge",
+      "name": "Infinite Union Gauge | 无限联合槽",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Max Union Gauge",
+      "name": "Max Union Gauge | 最大联合槽",
       "type": "checkbox",
       "memory": [
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Max Skills via Menu",
+      "name": "Max Skills via Menu | 菜单内技能全满",
       "type": "checkbox",
       "memory": [
         {

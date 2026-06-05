@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One-hit kill",
+      "name": "One-hit kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Cash (on get)",
+      "name": "Max Cash (on get) | 最大金钱（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "No reload (full clip)",
+      "name": "No reload (full clip) | 无需装弹（满弹匣）",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Full ammo",
+      "name": "Full ammo | 满弹药",
       "type": "checkbox",
       "memory": [
         {

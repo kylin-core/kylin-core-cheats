@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Peggle 2" Moder="Molly" Cusa="CUSA00743" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Have 99 Balls">
+    <Cheat Text="Have 99 Balls | 拥有99个球">
         <Cheatline>
             <Offset>1003C13</Offset>
             <Section>0</Section>

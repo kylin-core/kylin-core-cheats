@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health / 1 Hit (Master Code)",
+      "name": "Infinite Health / 1 Hit (Master Code) | 无限生命 / 一击必杀 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限疾驰",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Kimetsu Pointes (999999)",
+      "name": "Max Kimetsu Pointes (999999) | 最高鬼杀点数 (999999)",
       "type": "checkbox",
       "memory": [
         {

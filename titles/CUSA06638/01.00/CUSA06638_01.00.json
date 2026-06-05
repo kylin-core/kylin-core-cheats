@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health(Main Character)",
+      "name": "Inf Health(Main Character) | 无限生命（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Money",
+      "name": "Inf Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Exp/ Max Lvl (Main Character)",
+      "name": "Inf Exp/ Max Lvl (Main Character) | 无限经验/满级（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf SP",
+      "name": "Inf SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Inf Bullets",
+      "name": "Inf Bullets | 无限子弹",
       "type": "checkbox",
       "memory": [
         {

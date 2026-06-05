@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "BE SURE TO READ ALL the comments where available. As a rule of thumb, ALWAYS enable cheats that are needed and disable when they are not. OTU = One time use cheat. Partially ported from TLH v01.22 PS4 trainer and FLiNG PC trainer. For an even more advanced Fallout-4 trainer, check out my MultiTrainer2 ShnExt trainer. Made and tested on PS4 Firmware 9.00. Enjoy! ;-)",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Switch (Must be enabled first)",
-      "description": "",
+      "name": "Master Switch (Must be enabled first) | 主开关（必须先启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -44,8 +42,7 @@
       ]
     },
     {
-      "name": "---God Mode  (Req. MS)",
-      "description": "Gives the player a complete invincibility to all types of damages (might still get temporary blurred vision rarely, but no damage). When enabling this option, no need to enable Inf_HP, Inf_AP, No_Radiation and Infinite Power Armor Core Power.",
+      "name": "---God Mode  (Req. MS) | ---上帝模式（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -56,7 +53,7 @@
       ]
     },
     {
-      "name": "---Infinite Health (Req. MS)",
+      "name": "---Infinite Health (Req. MS) | ---无限生命（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -67,7 +64,7 @@
       ]
     },
     {
-      "name": "---Infinite AP-Stamina (Req. MS)",
+      "name": "---Infinite AP-Stamina (Req. MS) | ---无限行动力与耐力（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -78,7 +75,7 @@
       ]
     },
     {
-      "name": "---No Radiation (Req. MS)",
+      "name": "---No Radiation (Req. MS) | ---无辐射（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -89,8 +86,7 @@
       ]
     },
     {
-      "name": "---One Hit Kill (Req. MS)",
-      "description": "Note that you may get instantly killed by an explotion you initiated yourself etc., for example - if you shoot and explode a car while standing nearby and get hit by your own initiated blast - you will be instantly killed with this cheat enabled.",
+      "name": "---One Hit Kill (Req. MS) | ---一击必杀（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,8 +97,7 @@
       ]
     },
     {
-      "name": "Invincible",
-      "description": "Prevents getting hit and effects. Does not prevent fall damage. Use god mode if you want to prevent it.\r\nCheat has not been throughly tested so might cause progressions issues or other issues.",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -128,8 +123,7 @@
       ]
     },
     {
-      "name": "Infinite Power Armor Core Power",
-      "description": "If God Mode cheat is enabled, no need to enable this cheat.",
+      "name": "Infinite Power Armor Core Power | 无限动力装甲核心能量",
       "type": "checkbox",
       "memory": [
         {
@@ -145,8 +139,7 @@
       ]
     },
     {
-      "name": "No Weight Limit",
-      "description": "Takes effect when weight value changes (including when firing a weapon). You may probably want to keep this cheat enabled all the time.",
+      "name": "No Weight Limit | 无负重限制",
       "type": "checkbox",
       "memory": [
         {
@@ -157,8 +150,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
-      "description": "Takes effect only when enabled before enemies detect you",
+      "name": "Stealth Mode | 潜行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -169,8 +161,7 @@
       ]
     },
     {
-      "name": "Instant Lock Picking",
-      "description": "",
+      "name": "Instant Lock Picking | 瞬间开锁",
       "type": "checkbox",
       "memory": [
         {
@@ -181,8 +172,7 @@
       ]
     },
     {
-      "name": "Easy Terminal Hacking (PWNed)",
-      "description": "",
+      "name": "Easy Terminal Hacking (PWNed) | 简易终端破解（已攻破）",
       "type": "checkbox",
       "memory": [
         {
@@ -193,8 +183,7 @@
       ]
     },
     {
-      "name": "Infinite Hacking Attempts",
-      "description": "",
+      "name": "Infinite Hacking Attempts | 无限破解次数",
       "type": "checkbox",
       "memory": [
         {
@@ -205,8 +194,7 @@
       ]
     },
     {
-      "name": "No Reload - Bottomless clip",
-      "description": "",
+      "name": "No Reload - Bottomless clip | 无需装弹 - 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -217,8 +205,7 @@
       ]
     },
     {
-      "name": "Max Accuracy",
-      "description": "",
+      "name": "Max Accuracy | 最大精准度",
       "type": "checkbox",
       "memory": [
         {
@@ -234,8 +221,7 @@
       ]
     },
     {
-      "name": "No Recoil",
-      "description": "",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -251,8 +237,7 @@
       ]
     },
     {
-      "name": "No Weapon Spin-up",
-      "description": "This cheat disables the spin-up and cool-down delays of weapons like the mini-gun. They can be then used to fire instantly. The Small-Arms Fully-Automatic cheat already contains this functionality, so you may want to disable this cheat if you enabled the other one.",
+      "name": "No Weapon Spin-up | 无武器预热",
       "type": "checkbox",
       "memory": [
         {
@@ -268,8 +253,7 @@
       ]
     },
     {
-      "name": "Manual Weapon Rapid Fire",
-      "description": "The cheat eliminates the delay between manual shots. Mostly handy with weapons like the 10mm pistol. Using this cheat is pointless if you enabled the Small Arms Fully Automatic cheat.",
+      "name": "Manual Weapon Rapid Fire | 手动武器连发",
       "type": "checkbox",
       "memory": [
         {
@@ -280,8 +264,7 @@
       ]
     },
     {
-      "name": "Small Arms Fully Automatic",
-      "description": "The cheat code modifies all semi-automatic small arms to behave as fully automatic weapons. Additionally, it eliminates the spin-up delay and cooldown period for weapons like the mini-gun.  If you want to disable this option after it took effect, you may need to restart/reload the game in order to restore the original weapon functionality.",
+      "name": "Small Arms Fully Automatic | 小型枪械全自动",
       "type": "checkbox",
       "memory": [
         {
@@ -302,8 +285,7 @@
       ]
     },
     {
-      "name": "Max Items and Ammo On Use or Gain",
-      "description": "This cheat has not been thoroughly tested but it is possible that it might cause some progression issues or even game crashes. Be sure to enable it only when absolutely necessary and disable it when not. To get the ammo quantity to update, you must disable the No reload cheat first. You can re-enable it after the ammo quantity of the weapon you are using is maximized.",
+      "name": "Max Items and Ammo On Use or Gain | 使用或获得时最大物资与弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -314,8 +296,8 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "description": "Pick one of jump multipliers below. Enable Infinite HP cheat to avoid dying or God Mode to avoid dying and also prevent fall damage.",
+      "name": "Super Jump | 超级跳跃",
+      "type": "",
       "memory": [
         {
           "offset": "228F290",
@@ -330,7 +312,7 @@
       ]
     },
     {
-      "name": "---x2.5 Jump Multiplier",
+      "name": "---x2.5 Jump Multiplier | ---2.5倍跳跃倍数",
       "type": "button",
       "memory": [
         {
@@ -341,7 +323,7 @@
       ]
     },
     {
-      "name": "---x5 Jump Multiplier",
+      "name": "---x5 Jump Multiplier | ---5倍跳跃倍数",
       "type": "button",
       "memory": [
         {
@@ -352,7 +334,7 @@
       ]
     },
     {
-      "name": "---x10 Jump Multiplier",
+      "name": "---x10 Jump Multiplier | ---10倍跳跃倍数",
       "type": "button",
       "memory": [
         {
@@ -363,7 +345,7 @@
       ]
     },
     {
-      "name": "---x20 Jump Multiplier",
+      "name": "---x20 Jump Multiplier | ---20倍跳跃倍数",
       "type": "button",
       "memory": [
         {
@@ -374,8 +356,7 @@
       ]
     },
     {
-      "name": "Set Game Speed",
-      "description": "If you want to change the speed, use ONLY ONE of the game speed cheats, not both at the same time.",
+      "name": "Set Game Speed | 设置游戏速度",
       "type": "checkbox",
       "memory": [
         {
@@ -386,7 +367,7 @@
       ]
     },
     {
-      "name": "---x0.1 Speed Multiplier",
+      "name": "---x0.1 Speed Multiplier | ---0.1倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -397,7 +378,7 @@
       ]
     },
     {
-      "name": "---x0.5 Speed Multiplier",
+      "name": "---x0.5 Speed Multiplier | ---0.5倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -408,7 +389,7 @@
       ]
     },
     {
-      "name": "---x1.5 Speed Multiplier",
+      "name": "---x1.5 Speed Multiplier | ---1.5倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -419,7 +400,7 @@
       ]
     },
     {
-      "name": "---x2 Speed Multiplier",
+      "name": "---x2 Speed Multiplier | ---2倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -430,7 +411,7 @@
       ]
     },
     {
-      "name": "---x2.5 Speed Multiplier",
+      "name": "---x2.5 Speed Multiplier | ---2.5倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -441,7 +422,7 @@
       ]
     },
     {
-      "name": "---x3 Speed Multiplier",
+      "name": "---x3 Speed Multiplier | ---3倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -452,8 +433,7 @@
       ]
     },
     {
-      "name": "Set Game Speed (Including Speech)",
-      "description": "If you want to change the speed, use ONLY ONE of the game speed cheats, not both at the same time.",
+      "name": "Set Game Speed (Including Speech) | 设置游戏速度（含对话）",
       "type": "checkbox",
       "memory": [
         {
@@ -469,7 +449,7 @@
       ]
     },
     {
-      "name": "---x0.1 Speed Multiplier",
+      "name": "---x0.1 Speed Multiplier | ---0.1倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -480,7 +460,7 @@
       ]
     },
     {
-      "name": "---x0.5 Speed Multiplier",
+      "name": "---x0.5 Speed Multiplier | ---0.5倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -491,7 +471,7 @@
       ]
     },
     {
-      "name": "---x1.5 Speed Multiplier",
+      "name": "---x1.5 Speed Multiplier | ---1.5倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -502,7 +482,7 @@
       ]
     },
     {
-      "name": "---x2 Speed Multiplier",
+      "name": "---x2 Speed Multiplier | ---2倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -513,7 +493,7 @@
       ]
     },
     {
-      "name": "---x2.5 Speed Multiplier",
+      "name": "---x2.5 Speed Multiplier | ---2.5倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -524,7 +504,7 @@
       ]
     },
     {
-      "name": "---x3 Speed Multiplier",
+      "name": "---x3 Speed Multiplier | ---3倍速度倍数",
       "type": "button",
       "memory": [
         {
@@ -535,8 +515,8 @@
       ]
     },
     {
-      "name": "Set Time of Day",
-      "description": "Pick only 1 option below. Default hour is 10am",
+      "name": "Set Time of Day | 设置时间",
+      "type": "",
       "memory": [
         {
           "offset": "228F350",
@@ -551,7 +531,7 @@
       ]
     },
     {
-      "name": "---12pm",
+      "name": "---12pm | ---中午12点",
       "type": "button",
       "memory": [
         {
@@ -562,7 +542,7 @@
       ]
     },
     {
-      "name": "---6pm",
+      "name": "---6pm | ---下午6点",
       "type": "button",
       "memory": [
         {
@@ -573,7 +553,7 @@
       ]
     },
     {
-      "name": "---12am",
+      "name": "---12am | ---午夜12点",
       "type": "button",
       "memory": [
         {
@@ -584,7 +564,7 @@
       ]
     },
     {
-      "name": "---6am",
+      "name": "---6am | ---早上6点",
       "type": "button",
       "memory": [
         {
@@ -595,8 +575,7 @@
       ]
     },
     {
-      "name": "Max Bottle Caps On Trade",
-      "description": "",
+      "name": "Max Bottle Caps On Trade | 交易时最大瓶盖数",
       "type": "checkbox",
       "memory": [
         {
@@ -612,8 +591,7 @@
       ]
     },
     {
-      "name": "70 Perk Points On Game Start (OTU)",
-      "description": "Enable this cheat at the game start while chatting with the salesman and reaching the Registration Form perks selection. After the cheat takes effect, disable it and dont use it anymore throughout the game.",
+      "name": "70 Perk Points On Game Start (OTU) | 游戏开始时70点技能点（一次性）",
       "type": "checkbox",
       "memory": [
         {
@@ -629,8 +607,7 @@
       ]
     },
     {
-      "name": "Ignore Perk Points Requirements",
-      "description": "",
+      "name": "Ignore Perk Points Requirements | 忽略技能点需求",
       "type": "checkbox",
       "memory": [
         {
@@ -646,8 +623,7 @@
       ]
     },
     {
-      "name": "Infinite Perk Points Upgrade Requirements",
-      "description": "",
+      "name": "Infinite Perk Points Upgrade Requirements | 无限技能点升级需求",
       "type": "checkbox",
       "memory": [
         {
@@ -658,8 +634,7 @@
       ]
     },
     {
-      "name": "Max XP and Level (OTU)",
-      "description": "Enable this cheat only once. After the cheat takes effect, disable it and dont use it anymore throughout the game.",
+      "name": "Max XP and Level (OTU) | 最大经验值与等级（一次性）",
       "type": "checkbox",
       "memory": [
         {
@@ -675,8 +650,7 @@
       ]
     },
     {
-      "name": "Max Crafting Stock",
-      "description": "This will set all your existing crafting items to 999,999 when you open crafting mode. Items must have at least 1 piece in stock for it to update their quantity. Make sure to enable the cheat before entering crafting mode and disable it when the quantities change take effect.",
+      "name": "Max Crafting Stock | 最大制作库存",
       "type": "checkbox",
       "memory": [
         {
@@ -692,8 +666,8 @@
       ]
     },
     {
-      "name": "Minimum Building Requirement",
-      "description": "When activated, building material requirements will be set to 1. If you want to disable this option after it took effect, you will need to restart the game in order to restore building material requirements.",
+      "name": "Minimum Building Requirement | 最低建造需求",
+      "type": "",
       "memory": [
         {
           "offset": "228F270",

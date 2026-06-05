@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Gel",
-      "hint": null,
+      "name": "Infinite Gel | 无限凝胶",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "hint": null,
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {

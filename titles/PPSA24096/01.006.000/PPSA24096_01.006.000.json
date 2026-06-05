@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无敌状态",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infi Items (No Reduction)",
+      "name": "Infi Items (No Reduction) | 无限物品（不消耗）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infi Energy (Money)",
+      "name": "Infi Energy (Money) | 无限能量（金钱）",
       "type": "checkbox",
       "memory": [
         {

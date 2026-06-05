@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables, Medkits, Resources, Ethanol",
+      "name": "Infinite Throwables, Medkits, Resources, Ethanol | 无限投掷物、医疗包、资源与乙醇",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Perk Points",
+      "name": "Infinite Perk Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Everything",
+      "name": "Max Everything | 全属性最大化",
       "type": "checkbox",
       "memory": [
         {

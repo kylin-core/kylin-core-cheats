@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP Master Code",
+      "name": "Inf HP Master Code | 无限生命主码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Stamina Master Code",
+      "name": "Stamina Master Code | 无限体力主码",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Speed Hack Master Code",
+      "name": "Speed Hack Master Code | 速度修改主码",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Drop Rate Master Code",
+      "name": "Drop Rate Master Code | 掉率修改主码",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Player Infinite Health",
+      "name": "Player Infinite Health | 玩家无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Player + Enemy Inf HP",
+      "name": "Player + Enemy Inf HP | 玩家+敌人无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Player Only Inf Stamina",
+      "name": "Player Only Inf Stamina | 仅玩家无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Player + NPC Inf Stamina",
+      "name": "Player + NPC Inf Stamina | 玩家+NPC无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Everyone Else 0 Stamina",
+      "name": "Everyone Else 0 Stamina | 其他角色零体力",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Max Infinite Spell Uses",
+      "name": "Max Infinite Spell Uses | 无限法术使用次数",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Max Humanity on Use",
+      "name": "Max Humanity on Use | 使用后人性最大",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Max Infinite Souls",
+      "name": "Max Infinite Souls | 无限灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Dupe Anything (Storage) + Max Items",
+      "name": "Dupe Anything (Storage) + Max Items | 复制任何物品（仓库）+ 物品最大",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Never Lose Humanity when Die",
+      "name": "Never Lose Humanity when Die | 死亡不损失人性",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Never Lose Souls when Die",
+      "name": "Never Lose Souls when Die | 死亡不损失灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "name": "Bleed Resistance",
+      "name": "Bleed Resistance | 出血抗性",
       "type": "checkbox",
       "memory": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "name": "Poison Resistance",
+      "name": "Poison Resistance | 毒素抗性",
       "type": "checkbox",
       "memory": [
         {
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "name": "Curse Resistance",
+      "name": "Curse Resistance | 诅咒抗性",
       "type": "checkbox",
       "memory": [
         {
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "name": "Speed Hack x1.25",
+      "name": "Speed Hack x1.25 | 速度修改1.25倍",
       "type": "checkbox",
       "memory": [
         {
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "name": "Speed Hack x1.50",
+      "name": "Speed Hack x1.50 | 速度修改1.5倍",
       "type": "checkbox",
       "memory": [
         {
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "Speed Hack x2.00",
+      "name": "Speed Hack x2.00 | 速度修改2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "100% Drop Rate Press L3+R3",
+      "name": "100% Drop Rate Press L3+R3 | 100%掉率（按L3+R3）",
       "type": "checkbox",
       "memory": [
         {

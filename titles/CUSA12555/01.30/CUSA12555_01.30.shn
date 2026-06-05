@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2 Stay Human" Moder="Celogamez" Cusa="CUSA12555" Version="01.30" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (Not Against Your Own Molotov)">
+    <Cheat Text="Infinite Health (Not Against Your Own Molotov) | 无限生命（不免疫自燃瓶）">
         <Cheatline>
             <Offset>2EF0C26</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-E5-C9-49-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina/Breath">
+    <Cheat Text="Infinite Stamina/Breath | 无限体力/呼吸">
         <Cheatline>
             <Offset>602B220</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work)">
+    <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work) | 无限物品/箭矢/制作消耗（需持有2个）">
         <Cheatline>
             <Offset>2E9BA78</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>E8-C3-5A-D4-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables">
+    <Cheat Text="Infinite Throwables | 无限投掷武器">
         <Cheatline>
             <Offset>2E9BD80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E8-BB-57-D4-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapons Durability">
+    <Cheat Text="Infinite Weapons Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>2BA2083</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-83-A8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Immunity/Chemical Area">
+    <Cheat Text="Infinite Immunity/Chemical Area | 无限免疫力/化学区域免疫">
         <Cheatline>
             <Offset>2EF8D7D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C4-C1-7A-11-47-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite UV Flashlight">
+    <Cheat Text="Infinite UV Flashlight | 无限紫外线手电筒">
         <Cheatline>
             <Offset>604BD90</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money">
+    <Cheat Text="Max/Infinite Money | 最大/无限金币">
         <Cheatline>
             <Offset>607B910</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Time challenge (Disable B4 Finishing)">
+    <Cheat Text="Infinite Time challenge (Disable B4 Finishing) | 无限时间挑战（完成前关闭）">
         <Cheatline>
             <Offset>3503E88</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-43-70</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP (Use After Escaping Waltz)">
+    <Cheat Text="Max XP (Use After Escaping Waltz) | 最大经验值（逃离华尔兹后使用）">
         <Cheatline>
             <Offset>30F30DD</Offset>
             <Section>0</Section>

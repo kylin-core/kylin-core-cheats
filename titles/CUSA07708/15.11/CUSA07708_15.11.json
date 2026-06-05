@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "HP + Invincible (pick ancient potion)",
+      "name": "HP + Invincible (pick ancient potion) | HP + 无敌（拾取古老秘药）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Stamina",
+      "name": "Stamina | 耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Summon Next Matz / Jewel",
+      "name": "Summon Next Matz / Jewel | 召唤下一个素材/宝珠",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "x30 Matz",
+      "name": "x30 Matz | x30 素材",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "x5 Item Pouch",
+      "name": "x5 Item Pouch | x5 道具袋",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Sharpness",
+      "name": "Sharpness | 锋利度",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Easy Capture",
+      "name": "Easy Capture | 简易捕获",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Kill All Instantly (all area)",
+      "name": "Kill All Instantly (all area) | 全区域瞬间击杀",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Extract Effect (Insect Glaive)",
+      "name": "Extract Effect (Insect Glaive) | 提取效果（操虫棍）",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Insect Glave Stamina",
+      "name": "Insect Glave Stamina | 操虫棍耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Infinite Phial + Max (Charge Blade)",
+      "name": "Infinite Phial + Max (Charge Blade) | 无限+最大瓶（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "No Over Heat (Switch Axe)",
+      "name": "No Over Heat (Switch Axe) | 不过热（斩击斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Infinite + Max Element Charge (Switch Axe)",
+      "name": "Infinite + Max Element Charge (Switch Axe) | 无限+最大属性充能（斩击斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Infinite + Max Shell (Gunlance)",
+      "name": "Infinite + Max Shell (Gunlance) | 无限+最大弹药（铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "Wyrmstake Cannon No Over Heat (Gunlance)",
+      "name": "Wyrmstake Cannon No Over Heat (Gunlance) | 龙击炮不过热（铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "name": "Wyrmstake Blast (w/o stone / Gunlance)",
+      "name": "Wyrmstake Blast (w/o stone / Gunlance) | 龙杭爆裂（免石/铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "Max Spirit Blade (Long Sword)",
+      "name": "Max Spirit Blade (Long Sword) | 最大气刃斩（太刀）",
       "type": "checkbox",
       "memory": [
         {
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "name": "Infinite + Max Spirit Blade Gauge (Long Sword)",
+      "name": "Infinite + Max Spirit Blade Gauge (Long Sword) | 无限+最大气刃槽（太刀）",
       "type": "checkbox",
       "memory": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "name": "Natural Fuel x400 (Steam Works)",
+      "name": "Natural Fuel x400 (Steam Works) | 自然燃料 x400（蒸汽机）",
       "type": "checkbox",
       "memory": [
         {
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "name": "Stored Fuel 9999 (Steamworks)",
+      "name": "Stored Fuel 9999 (Steamworks) | 储存燃料 9999（蒸汽机）",
       "type": "checkbox",
       "memory": [
         {

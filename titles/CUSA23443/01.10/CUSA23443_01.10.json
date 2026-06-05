@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Stamina ( must be activated )",
+      "name": "Mastercode Stamina ( must be activated ) | 体力主控代码（必须激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina [MC]",
+      "name": "Infinite Stamina [MC] | 无限体力[主控]",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Stamina Enemies [MC]",
+      "name": "No Stamina Enemies [MC] | 敌人无体力[主控]",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
+      "name": "Stealth Mode | 潜行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "No Ability Cooldown",
+      "name": "No Ability Cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Items ( on gain )",
+      "name": "Max Items ( on gain ) | 最大物品（获取时）",
       "type": "checkbox",
       "memory": [
         {

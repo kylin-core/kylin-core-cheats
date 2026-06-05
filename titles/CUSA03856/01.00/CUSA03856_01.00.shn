@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 6" Moder="PS4Guru" Cusa="CUSA03856" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>71240b</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-F1-66-39-F0-0F-BF-87</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Modded Stock Ammo">
+    <Cheat Text="Modded Stock Ammo | 修改后备弹药">
         <Cheatline>
             <Offset>b324c4</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-F1-66-39-F0-0F-BF-87</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stamina Will Stay At 1 Bar">
+    <Cheat Text="Stamina Will Stay At 1 Bar | 耐力保持1格">
         <Cheatline>
             <Offset>79da9b</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Salt and Sacrifice" Moder="Wander FW9.00" Cusa="CUSA33906" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FE9D400</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina (Attack)">
+    <Cheat Text="Infinite Stamina (Attack) | 无限耐力（攻击）">
         <Cheatline>
             <Offset>749F81</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-11-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina (rolling)">
+    <Cheat Text="Infinite Stamina (rolling) | 无限耐力（翻滚）">
         <Cheatline>
             <Offset>114A5F7</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-80-D0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina (while throwing)">
+    <Cheat Text="Infinite Stamina (while throwing) | 无限耐力（投掷时）">
         <Cheatline>
             <Offset>10A237A</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-83-D0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina (sprinting)">
+    <Cheat Text="Infinite Stamina (sprinting) | 无限耐力（冲刺）">
         <Cheatline>
             <Offset>1148702</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-80-D0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina (blocking)">
+    <Cheat Text="Infinite Stamina (blocking) | 无限耐力（格挡）">
         <Cheatline>
             <Offset>7FE9D330</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Fall Damage">
+    <Cheat Text="No Fall Damage | 无坠落伤害">
         <Cheatline>
             <Offset>DF8BEE</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-83-CC-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All items/upgrade souls/throwables (do not decrease on use)">
+    <Cheat Text="All items/upgrade souls/throwables (do not decrease on use) | 物品/升级魂/投掷物不减">
         <Cheatline>
             <Offset>EA6922</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>44-29-78-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Alot of Experience points (on gain)">
+    <Cheat Text="Alot of Experience points (on gain) | 大量经验值（获得时）">
         <Cheatline>
             <Offset>7FE9D130</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Alot of money(on gain)">
+    <Cheat Text="Alot of money(on gain) | 大量金钱（获得时）">
         <Cheatline>
             <Offset>7FE9D620</Offset>
             <Section>0</Section>

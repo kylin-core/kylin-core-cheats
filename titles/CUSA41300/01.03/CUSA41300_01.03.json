@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master [EN_US]",
-      "description": "Enable items (in the L2 menu) when needed, don't leave items active that you don't need",
+      "name": "Master [EN_US] | 大师 [EN_US]",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Master [EN_UK]",
-      "description": "Enable items (in the L2 menu) when needed, don't leave items active that you don't need",
+      "name": "Master [EN_UK] | 大师 [EN_UK]",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Master [FRE]",
-      "description": "Activez les éléments (dans le menu L2) si nécessaire, ne laissez pas actifs les éléments dont vous n'avez pas besoin",
+      "name": "Master [FRE] | 大师 [FRE]",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "Master [DEU]",
-      "description": "Aktivieren Sie bei Bedarf Elemente (im L2-Menü), lassen Sie keine Elemente aktiv, die Sie nicht benötigen",
+      "name": "Master [DEU] | 大师 [DEU]",
       "type": "checkbox",
       "memory": [
         {
@@ -73,8 +69,7 @@
       ]
     },
     {
-      "name": "Master [ITA]",
-      "description": "Abilita gli oggetti (nel menu L2) quando necessario, non lasciare attivi oggetti che non ti servono",
+      "name": "Master [ITA] | 大师 [ITA]",
       "type": "checkbox",
       "memory": [
         {
@@ -90,8 +85,7 @@
       ]
     },
     {
-      "name": "Master [ESP]",
-      "description": "Habilite elementos (en el menú L2) cuando sea necesario, no deje activos elementos que no necesite",
+      "name": "Master [ESP] | 大师 [ESP]",
       "type": "checkbox",
       "memory": [
         {
@@ -107,8 +101,7 @@
       ]
     },
     {
-      "name": "Master [JPN]",
-      "description": "必要に応じて(L2メニューで)項目を有効にし、不要な項目をアクティブなままにしないでください",
+      "name": "Master [JPN] | 大师 [JPN]",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +117,7 @@
       ]
     },
     {
-      "name": "Free Radar When Spotted",
+      "name": "Free Radar When Spotted | 被发现时自动雷达",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +128,7 @@
       ]
     },
     {
-      "name": "O2",
+      "name": "O2 | 氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +139,7 @@
       ]
     },
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +150,7 @@
       ]
     },
     {
-      "name": "Radar Extreme",
+      "name": "Radar Extreme | 超强雷达",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +161,7 @@
       ]
     },
     {
-      "name": "Health",
+      "name": "Health | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +172,7 @@
       ]
     },
     {
-      "name": "Socom",
+      "name": "Socom | 索科姆手枪",
       "type": "checkbox",
       "memory": [
         {
@@ -190,7 +183,7 @@
       ]
     },
     {
-      "name": "Famas AR",
+      "name": "Famas AR | 法玛斯突击步枪",
       "type": "checkbox",
       "memory": [
         {
@@ -201,7 +194,7 @@
       ]
     },
     {
-      "name": "Grenade",
+      "name": "Grenade | 手榴弹",
       "type": "checkbox",
       "memory": [
         {
@@ -212,7 +205,7 @@
       ]
     },
     {
-      "name": "Nikita",
+      "name": "Nikita | 尼基塔导弹",
       "type": "checkbox",
       "memory": [
         {
@@ -223,7 +216,7 @@
       ]
     },
     {
-      "name": "Stinger",
+      "name": "Stinger | 毒刺导弹",
       "type": "checkbox",
       "memory": [
         {
@@ -234,7 +227,7 @@
       ]
     },
     {
-      "name": "Claymore",
+      "name": "Claymore | 克莱莫地雷",
       "type": "checkbox",
       "memory": [
         {
@@ -245,7 +238,7 @@
       ]
     },
     {
-      "name": "C4",
+      "name": "C4 | C4炸药",
       "type": "checkbox",
       "memory": [
         {
@@ -256,7 +249,7 @@
       ]
     },
     {
-      "name": "Stun Grenade",
+      "name": "Stun Grenade | 眩晕弹",
       "type": "checkbox",
       "memory": [
         {
@@ -267,7 +260,7 @@
       ]
     },
     {
-      "name": "Chaff Grenade",
+      "name": "Chaff Grenade | 箔条干扰弹",
       "type": "checkbox",
       "memory": [
         {
@@ -278,7 +271,7 @@
       ]
     },
     {
-      "name": "PSG I",
+      "name": "PSG I | PSG-1狙击枪",
       "type": "checkbox",
       "memory": [
         {
@@ -289,7 +282,7 @@
       ]
     },
     {
-      "name": "Cigs",
+      "name": "Cigs | 香烟",
       "type": "checkbox",
       "memory": [
         {
@@ -300,7 +293,7 @@
       ]
     },
     {
-      "name": "Scope",
+      "name": "Scope | 瞄准镜",
       "type": "checkbox",
       "memory": [
         {
@@ -311,7 +304,7 @@
       ]
     },
     {
-      "name": "C Box A",
+      "name": "C Box A | C型纸箱A",
       "type": "checkbox",
       "memory": [
         {
@@ -322,7 +315,7 @@
       ]
     },
     {
-      "name": "C Box B",
+      "name": "C Box B | C型纸箱B",
       "type": "checkbox",
       "memory": [
         {
@@ -333,7 +326,7 @@
       ]
     },
     {
-      "name": "C Box C",
+      "name": "C Box C | C型纸箱C",
       "type": "checkbox",
       "memory": [
         {
@@ -344,7 +337,7 @@
       ]
     },
     {
-      "name": "Night Vision Goggles",
+      "name": "Night Vision Goggles | 夜视仪",
       "type": "checkbox",
       "memory": [
         {
@@ -355,7 +348,7 @@
       ]
     },
     {
-      "name": "Thermal Goggles",
+      "name": "Thermal Goggles | 热成像仪",
       "type": "checkbox",
       "memory": [
         {
@@ -366,7 +359,7 @@
       ]
     },
     {
-      "name": "Gas Mask",
+      "name": "Gas Mask | 防毒面具",
       "type": "checkbox",
       "memory": [
         {
@@ -377,7 +370,7 @@
       ]
     },
     {
-      "name": "Body Armor",
+      "name": "Body Armor | 防弹衣",
       "type": "checkbox",
       "memory": [
         {
@@ -388,7 +381,7 @@
       ]
     },
     {
-      "name": "Ketchup",
+      "name": "Ketchup | 番茄酱",
       "type": "checkbox",
       "memory": [
         {
@@ -399,7 +392,7 @@
       ]
     },
     {
-      "name": "Stealth Camo",
+      "name": "Stealth Camo | 隐形迷彩",
       "type": "checkbox",
       "memory": [
         {
@@ -410,7 +403,7 @@
       ]
     },
     {
-      "name": "Bandana",
+      "name": "Bandana | 头巾",
       "type": "checkbox",
       "memory": [
         {
@@ -421,7 +414,7 @@
       ]
     },
     {
-      "name": "Camera",
+      "name": "Camera | 相机",
       "type": "checkbox",
       "memory": [
         {
@@ -432,7 +425,7 @@
       ]
     },
     {
-      "name": "Rations",
+      "name": "Rations | 口粮",
       "type": "checkbox",
       "memory": [
         {
@@ -443,7 +436,7 @@
       ]
     },
     {
-      "name": "Medicine",
+      "name": "Medicine | 药品",
       "type": "checkbox",
       "memory": [
         {
@@ -454,7 +447,7 @@
       ]
     },
     {
-      "name": "Diazepam",
+      "name": "Diazepam | 安定药",
       "type": "checkbox",
       "memory": [
         {
@@ -465,7 +458,7 @@
       ]
     },
     {
-      "name": "Pal Key Yellow (PL)",
+      "name": "Pal Key Yellow (PL) | 黄卡钥匙 (PL)",
       "type": "checkbox",
       "memory": [
         {
@@ -476,8 +469,7 @@
       ]
     },
     {
-      "name": "Pal Key Red (Enable PL)",
-      "description": "Disable Pal Key Cyan before enabling this cheat",
+      "name": "Pal Key Red (Enable PL) | 红卡钥匙 (启用PL)",
       "type": "checkbox",
       "memory": [
         {
@@ -488,8 +480,7 @@
       ]
     },
     {
-      "name": "Pal Key Cyan (Enable PL)",
-      "description": "Disable Pal Key Red before enabling this cheat",
+      "name": "Pal Key Cyan (Enable PL) | 青卡钥匙 (启用PL)",
       "type": "checkbox",
       "memory": [
         {
@@ -500,7 +491,7 @@
       ]
     },
     {
-      "name": "ID Card Lvl.255",
+      "name": "ID Card Lvl.255 | 等级255身份卡",
       "type": "checkbox",
       "memory": [
         {
@@ -511,7 +502,7 @@
       ]
     },
     {
-      "name": "Timer Bomb",
+      "name": "Timer Bomb | 定时炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -522,7 +513,7 @@
       ]
     },
     {
-      "name": "Mine Detector",
+      "name": "Mine Detector | 地雷探测器",
       "type": "checkbox",
       "memory": [
         {
@@ -533,7 +524,7 @@
       ]
     },
     {
-      "name": "MO Disc",
+      "name": "MO Disc | MO光盘",
       "type": "checkbox",
       "memory": [
         {
@@ -544,7 +535,7 @@
       ]
     },
     {
-      "name": "Rope",
+      "name": "Rope | 绳索",
       "type": "checkbox",
       "memory": [
         {
@@ -555,7 +546,7 @@
       ]
     },
     {
-      "name": "Handkerchief",
+      "name": "Handkerchief | 手帕",
       "type": "checkbox",
       "memory": [
         {
@@ -566,8 +557,7 @@
       ]
     },
     {
-      "name": "Suppressor",
-      "description": "After activating this cheat, equip the socom and disable this cheat or you will not be able to shoot",
+      "name": "Suppressor | 消音器",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Bypass Death Barriers",
-      "hint": null,
+      "name": "Bypass Death Barriers | 绕过死亡屏障",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "hint": null,
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Instant Health Regeneration",
+      "name": "Instant Health Regeneration | 瞬间回血",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Money on use",
+      "name": "Max Money on use | 使用后金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹夹",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Never Wanted",
+      "name": "Never Wanted | 永不通缉",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Easy Gauge",
+      "name": "Easy Gauge | 轻松量表",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Unlock Skills",
+      "name": "Unlock Skills | 解锁技能",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "Game-Speed: Very Slow (0.1)",
+      "name": "Game-Speed: Very Slow (0.1) | 游戏速度: 极慢 (0.1)",
       "type": "checkbox",
       "memory": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "name": "Game-Speed: Slow (0.3)",
+      "name": "Game-Speed: Slow (0.3) | 游戏速度: 慢速 (0.3)",
       "type": "checkbox",
       "memory": [
         {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "name": "Game-Speed: Fast (2)",
+      "name": "Game-Speed: Fast (2) | 游戏速度: 快速 (2)",
       "type": "checkbox",
       "memory": [
         {
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "name": "Day-Time: Midnight",
+      "name": "Day-Time: Midnight | 时间: 午夜",
       "type": "checkbox",
       "memory": [
         {
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "name": "Day-Time: Noon",
+      "name": "Day-Time: Noon | 时间: 正午",
       "type": "checkbox",
       "memory": [
         {

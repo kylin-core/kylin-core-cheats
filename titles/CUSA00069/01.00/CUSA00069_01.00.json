@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Play A Lv Than Lums Will Double",
-      "hint": null,
+      "name": "Play A Lv Than Lums Will Double | 每关通关后黄色精灵翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Lucky Tickets Will Double Every Spend",
-      "hint": null,
+      "name": "Lucky Tickets Will Double Every Spend | 每次抽奖消耗的幸运票翻倍",
       "type": "checkbox",
       "memory": [
         {

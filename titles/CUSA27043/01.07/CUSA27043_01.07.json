@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit kill (Master Code)",
+      "name": "Infinite Health/1 Hit kill (Master Code) | 无限生命/一击必杀（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Activate After Killing The First Zombie)",
+      "name": "1 Hit Kill (Activate After Killing The First Zombie) | 一击必杀（击杀第一只僵尸后激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Medkits Don't Decrease",
+      "name": "Medkits Don't Decrease | 医疗包不减",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Weapons Durability",
+      "name": "Infinite Weapons Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Items On Gain (Disable To Keep Money At Max Or Don't Take It)",
+      "name": "Max Items On Gain (Disable To Keep Money At Max Or Don't Take It) | 获取时物品最大化（禁用以保持金钱最大或勿拾取）",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max Money On Sell (Sell N Disable)",
+      "name": "Max Money On Sell (Sell N Disable) | 出售时金钱最大化（出售后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Fury On Kill",
+      "name": "Max/Infinite Fury On Kill | 击杀时怒气最大化/无限",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Wing Energy",
+      "name": "Infinite Wing Energy | 无限翅膀能量",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Ammo + Rapid Fire",
+      "name": "Max Ammo + Rapid Fire | 无限弹药+速射",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Armor Upgrades [Have to open each classes Armor screen]",
+      "name": "Max Armor Upgrades [Have to open each classes Armor screen] | 最大装甲升级 [需打开每个职业的装甲界面]",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max All Weapon Star Level",
+      "name": "Max All Weapon Star Level | 最高武器星级",
       "type": "checkbox",
       "memory": [
         {

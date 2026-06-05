@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Gadgets",
+      "name": "Infinite Ammo/Gadgets | 无限弹药/设备",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip/No Reload",
+      "name": "Bottomless Clip/No Reload | 无限弹匣/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Infinite Ammo/Gadgets",
+      "name": "Max Infinite Ammo/Gadgets | 最大无限弹药/设备",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points/Cash",
+      "name": "Infinite Skill Points/Cash | 无限技能点/金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Earn Skill Points/Cash on Spend",
+      "name": "Earn Skill Points/Cash on Spend | 消费获得技能点/金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max Infinite Skill Points/Cash",
+      "name": "Max Infinite Skill Points/Cash | 最大无限技能点/金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Infinite Battery",
+      "name": "Max Infinite Battery | 最大无限电池",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Max Infinite Focus",
+      "name": "Max Infinite Focus | 最大无限专注",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Inf HP",
+      "name": "Max Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Inf HP + 1 Hit Kill",
+      "name": "Max Inf HP + 1 Hit Kill | 无限生命+一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Items On Pickup-Must Have 1",
+      "name": "Max Items On Pickup-Must Have 1 | 拾取物品最大化-需持有1个",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Items x99-Must Have 1",
+      "name": "Max Items x99-Must Have 1 | 物品数量x99-需持有1个",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "10000 XP On Get",
+      "name": "10000 XP On Get | 获得10000经验",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Unlimited Actions",
+      "name": "Unlimited Actions | 无限行动次数",
       "type": "checkbox",
       "memory": [
         {

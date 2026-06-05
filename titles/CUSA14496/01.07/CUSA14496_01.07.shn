@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Journey To The Savage Planet" Moder="GamerX2" Cusa="CUSA14496" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max+Infinite Ammo">
+    <Cheat Text="Max+Infinite Ammo | 最大+无限弹药">
         <Cheatline>
             <Offset>BBE7CD</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-5D-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>A30140</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Resources On Gain">
+    <Cheat Text="Max Resources On Gain | 获取时资源最大化">
         <Cheatline>
             <Offset>FFFFFFFFFFC04000</Offset>
             <Section>0</Section>

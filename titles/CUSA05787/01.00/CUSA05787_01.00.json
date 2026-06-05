@@ -5,7 +5,7 @@
   "process": "kh02.elf",
   "mods": [
     {
-      "name": "No MP reload",
+      "name": "No MP reload | 无MP冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {

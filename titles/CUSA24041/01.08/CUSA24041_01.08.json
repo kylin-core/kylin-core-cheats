@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Zombie Mode)",
+      "name": "Infinite Health (Zombie Mode) | 无限生命（僵尸模式）",
       "type": "checkbox",
       "memory": [
         {

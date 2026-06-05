@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Resolve",
+      "name": "Infinite Resolve | 无限决心",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Resource (On Get)",
+      "name": "Max Resource (On Get) | 资源最大化（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Tech Points (Enable After Earn 1 point)",
+      "name": "Infinite Tech Points (Enable After Earn 1 point) | 无限技术点数（获得1点后启用）",
       "type": "checkbox",
       "memory": [
         {

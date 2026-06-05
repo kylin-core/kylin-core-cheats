@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code Infinite Skill usage (turn off when gliding)",
+      "name": "Master Code Infinite Skill usage (turn off when gliding) | 主代码无限技能使用（滑翔时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite health (M)",
+      "name": "Infinite health (M) | 无限生命（M）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Experience (M) (the game will freeze turn it off to take effect)",
+      "name": "Max Experience (M) (the game will freeze turn it off to take effect) | 最大经验值（M）（开启后游戏会卡死，关闭即可生效）",
       "type": "checkbox",
       "memory": [
         {

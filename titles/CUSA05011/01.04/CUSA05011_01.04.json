@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "1 Hit Kills Boss",
+      "name": "1 Hit Kills Boss | 一击必杀Boss",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills Enemy",
+      "name": "1 Hit Kills Enemy | 一击必杀敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinte Health",
+      "name": "Infinte Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Flying Dragon Form Auto Charge",
+      "name": "Flying Dragon Form Auto Charge | 飞龙形态自动充能",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Dash Human",
+      "name": "Infinite Dash Human | 人形态无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Dash Lion",
+      "name": "Infinite Dash Lion | 狮形态无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Jump ( Use Double Jump Boots )",
+      "name": "Infinite Jump ( Use Double Jump Boots ) | 无限跳跃（需使用二段跳靴）",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Max Coin",
+      "name": "Max Coin | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Change Size Character To Big",
+      "name": "Change Size Character To Big | 角色体型变大",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Change Size Character To Normal",
+      "name": "Change Size Character To Normal | 角色体型恢复",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Character Movement Fast",
+      "name": "Character Movement Fast | 角色快速移动",
       "type": "checkbox",
       "memory": [
         {
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Character Movement Normal",
+      "name": "Character Movement Normal | 角色正常移动",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Have All Characters",
+      "name": "Have All Characters | 解锁全部角色",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Have All Weapons, Shields, Armor,Bracelets, Boots",
+      "name": "Have All Weapons, Shields, Armor,Bracelets, Boots | 拥有所有武器、盾牌、护甲、手镯、靴子",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "Have All Talisman",
+      "name": "Have All Talisman | 拥有所有护符",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Multi Jump",
+      "name": "Multi Jump | 多重跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "Moon Jump",
+      "name": "Moon Jump | 月球跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "name": "Infinite Magic Cast",
+      "name": "Infinite Magic Cast | 无限魔法施放",
       "type": "checkbox",
       "memory": [
         {
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "name": "Potions x99(on buy)",
+      "name": "Potions x99(on buy) | 药水x99（购买时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "name": "Potion x147( on use)",
+      "name": "Potion x147( on use) | 药水x147（使用时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "name": "Legendary gems x50 (on spent have 2 units)",
+      "name": "Legendary gems x50 (on spent have 2 units) | 传奇宝石x50（消耗时持有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "name": "Rain Drops x99 (on gain/buy)",
+      "name": "Rain Drops x99 (on gain/buy) | 雨滴x99（获得/购买时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "name": "Rain Drops x99 (on spent for gold)",
+      "name": "Rain Drops x99 (on spent for gold) | 雨滴x99（用于换金币时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "name": "Rain Drops x99 (on spent for treasure maps)",
+      "name": "Rain Drops x99 (on spent for treasure maps) | 雨滴x99（用于换藏宝图时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "name": "Power Gems x99 (on gain have 2 units)",
+      "name": "Power Gems x99 (on gain have 2 units) | 能量宝石x99（获得时持有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -396,7 +396,7 @@
       ]
     },
     {
-      "name": "Golden Gems x99 (on gain have 2 units)",
+      "name": "Golden Gems x99 (on gain have 2 units) | 黄金宝石x99（获得时持有2个）",
       "type": "checkbox",
       "memory": [
         {

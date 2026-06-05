@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincibility ( after first hit )",
+      "name": "Invincibility ( after first hit ) | 无敌模式（首次受击后）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Rings / No loose after hit",
+      "name": "Max Rings / No loose after hit | 最大金环 / 受击不掉落",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Speed Boost",
+      "name": "Infinite Speed Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Lives",
+      "name": "Infinite Lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "One Hit Kill ( Boss )",
+      "name": "One Hit Kill ( Boss ) | 一击必杀（Boss）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Set Timer to 0",
+      "name": "Set Timer to 0 | 计时归零",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max Score Points [S-Rank] ( on gain )",
+      "name": "Max Score Points [S-Rank] ( on gain ) | 最高分数（获得时达成S级）",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Infinite Boost ( Sonic Simulator )",
+      "name": "Infinite Boost ( Sonic Simulator ) | 无限加速（音速模拟器）",
       "type": "checkbox",
       "memory": [
         {

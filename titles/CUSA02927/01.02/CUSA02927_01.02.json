@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Fule",
+      "name": "Inf Fule | 无限燃油",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Bomb",
+      "name": "Inf Bomb | 无限炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Missile",
+      "name": "Inf Missile | 无限导弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Hi Score",
+      "name": "Hi Score | 高分",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Ultra Hi Score",
+      "name": "Ultra Hi Score | 超高分数",
       "type": "checkbox",
       "memory": [
         {

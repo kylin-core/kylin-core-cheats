@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( No Reload )",
+      "name": "Max Ammo ( No Reload ) | 最大弹药（无需装弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( on Reload )",
+      "name": "Max Ammo ( on Reload ) | 最大弹药（装弹后）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Grenades ( on use )",
+      "name": "Max Grenades ( on use ) | 最大手雷（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Credits ( on gain )",
+      "name": "Max Credits ( on gain ) | 最大点数（获取时）",
       "type": "checkbox",
       "memory": [
         {

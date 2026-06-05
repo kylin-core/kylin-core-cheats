@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Weaver Armour",
+      "name": "Infinite Weaver Armour | 无限织盾者护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "x2 Items on Use",
+      "name": "x2 Items on Use | 使用物品时数量翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Shards on Buy",
+      "name": "Max Shards on Buy | 购买时获得最大碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "x2 Shards on Buy",
+      "name": "x2 Shards on Buy | 购买时碎片翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "x2 Skill Points on Spend",
+      "name": "x2 Skill Points on Spend | 消耗技能点时翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "x4 XP",
+      "name": "x4 XP | 四倍经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Zoom",
+      "name": "Infinite Weapon Zoom | 无限武器缩放",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Freeze Trial Timer",
+      "name": "Freeze Trial Timer | 冻结挑战计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Infinite Underwater Breath",
+      "name": "Infinite Underwater Breath | 无限水下呼吸",
       "type": "checkbox",
       "memory": [
         {

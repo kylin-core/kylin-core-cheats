@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bloodstained Curse of The Moon" Moder="Ali-mk" Cusa="CUSA12562" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible+power=no-Weapon">
+    <Cheat Text="Invincible+power=no-Weapon | 无敌+力量无武器">
         <Cheatline>
             <Offset>2F6822</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-90-F0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>2F5DAD</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-87-AC-05-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-lives">
+    <Cheat Text="Infinite-lives | 无限生命数">
         <Cheatline>
             <Offset>415B5D</Offset>
             <Section>0</Section>

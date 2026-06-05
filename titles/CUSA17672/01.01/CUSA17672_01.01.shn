@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Valfaris" Moder="fbin" Cusa="CUSA17672" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Vida Infinita">
+    <Cheat Text="Vida Infinita | 无限生命">
         <Cheatline>
             <Offset>181FDF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Arma Infinita">
+    <Cheat Text="Arma Infinita | 无限武器">
         <Cheatline>
             <Offset>181FDB0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Idolo Infinito">
+    <Cheat Text="Idolo Infinito | 无限神像">
         <Cheatline>
             <Offset>181FE20</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Metal de Sangue e Sangue de Valfaris Infinito">
+    <Cheat Text="Metal de Sangue e Sangue de Valfaris Infinito | 无限血金与瓦尔法里斯之血">
         <Cheatline>
             <Offset>181FE60</Offset>
             <Section>0</Section>

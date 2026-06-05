@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "infinite ki",
+      "name": "infinite ki | 无限气力",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "infinite hleath",
+      "name": "infinite hleath | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "max all zorbs",
+      "name": "max all zorbs | 全Z球最大值",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "infinite rage",
+      "name": "infinite rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "max inf items",
+      "name": "max inf items | 无限物品最大值",
       "type": "checkbox",
       "memory": [
         {

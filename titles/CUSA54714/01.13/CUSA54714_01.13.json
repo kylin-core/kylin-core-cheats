@@ -1,11 +1,11 @@
 {
-  "name": "Yakuza Kiwami 3 & Dark Ties",
+  "name": "Yakuza Kiwami 3 \u0026 Dark Ties",
   "id": "CUSA54714",
   "version": "01.13",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Power",
+      "name": "Inf Power | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Items (get)",
+      "name": "Max Items (get) | 道具最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Money & SP",
+      "name": "Max Money \u0026 SP | 金钱与技能点最大",
       "type": "checkbox",
       "memory": [
         {

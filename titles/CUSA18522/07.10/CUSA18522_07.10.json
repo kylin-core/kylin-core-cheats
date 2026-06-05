@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Endurance Instant Refill",
+      "name": "Endurance Instant Refill | 耐力瞬间恢复",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Air",
+      "name": "Infinite Air | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)",
+      "name": "Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy) | 最大/无限资源/消耗品/箭矢/金钱（使用/购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Instant Max/Infinite Adrenaline On Use/Gain",
+      "name": "Instant Max/Infinite Adrenaline On Use/Gain | 使用/获得时瞬间最大/无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points On Gain",
+      "name": "Max/Infinite Skill Points On Gain | 获得时最大/无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Mastery Points On Gain",
+      "name": "Max/Infinite Mastery Points On Gain | 获得时最大/无限专精点数",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Life",
-      "description": "",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
-      "description": "",
+      "name": "Inf Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
-      "description": "",
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "description": "",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Inf Focus",
-      "description": "",
+      "name": "Inf Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "Inf Items",
-      "description": "",
+      "name": "Inf Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -102,8 +96,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
-      "description": "",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {

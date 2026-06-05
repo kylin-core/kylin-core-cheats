@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite health",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Coins (on buy/sell)",
+      "name": "Max Coins (on buy/sell) | 最大金币（买卖时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "99 item/food turn off when doing missions",
+      "name": "99 item/food turn off when doing missions | 任务时关闭99物品/食物",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max learning Points/stats/skill (on spend)",
+      "name": "Max learning Points/stats/skill (on spend) | 最大学习点数/属性/技能（消费时）",
       "type": "checkbox",
       "memory": [
         {

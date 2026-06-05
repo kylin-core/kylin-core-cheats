@@ -5,7 +5,7 @@
   "process": "sp22-cod.elf",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets/Grenades",
+      "name": "Infinite Bullets/Grenades | 无限弹药/投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "One-hit Kill",
+      "name": "One-hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Better Accuracy",
+      "name": "Better Accuracy | 精准度提升",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Magazine",
+      "name": "Infinite Magazine | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Godmode for all",
+      "name": "Godmode for all | 全员无敌",
       "type": "checkbox",
       "memory": [
         {

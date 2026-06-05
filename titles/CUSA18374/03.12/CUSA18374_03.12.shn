@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SWORD ART ONLINE Alicization Lycoris" Moder="Wander FW9.00" Cusa="CUSA18374" Version="03.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>22FF8F0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP">
+    <Cheat Text="Infinite SP | 无限SP">
         <Cheatline>
             <Offset>22FF720</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill points">
+    <Cheat Text="Infinite Skill points | 无限技能点">
         <Cheatline>
             <Offset>22F8EA0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (on buy)">
+    <Cheat Text="Max Money (on buy) | 金钱最大（购买时）">
         <Cheatline>
             <Offset>22FFB20</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 items (on use)">
+    <Cheat Text="999 items (on use) | 999道具（使用时）">
         <Cheatline>
             <Offset>22FF7D0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health/1Hit (turn off before jumping from high place)">
+    <Cheat Text="Infinite Health/1Hit (turn off before jumping from high place) | 无限生命/一击必杀（从高处跳跃前请关闭）">
         <Cheatline>
             <Offset>22F8E30</Offset>
             <Section>0</Section>

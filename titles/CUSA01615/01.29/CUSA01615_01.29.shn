@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY XV" Moder="d01v" Cusa="CUSA01615" Version="01.29" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Unlimited QP (get 1 qp time quest) + 99 items use / sell">
+    <Cheat Text="Unlimited QP (get 1 qp time quest) + 99 items use / sell | 无限QP（每次任务获得1点QP）+ 99物品使用/出售">
         <Cheatline>
             <Offset>104651A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-39-C5</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Gil on Shop buy / sell">
+    <Cheat Text="Unlimited Gil on Shop buy / sell | 商店无限金币购买/出售">
         <Cheatline>
             <Offset>1DD5913</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>0F-4E-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited AP get / spend">
+    <Cheat Text="Unlimited AP get / spend | 无限AP获取/消耗">
         <Cheatline>
             <Offset>223E5E0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>0F-4E-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level">
+    <Cheat Text="Max Level | 最高等级">
         <Cheatline>
             <Offset>100858D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>81-F9-FF-C9-9A-3B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited MP">
+    <Cheat Text="Unlimited MP | 无限魔法值">
         <Cheatline>
             <Offset>FFD0AF</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>3D-0F-27-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Max HP (Gray Bar Press Main Menu)">
+    <Cheat Text="1 Max HP (Gray Bar Press Main Menu) | 1点最大生命值（灰色条按主菜单）">
         <Cheatline>
             <Offset>FFD16D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-0F-4F-FE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max HP (Gray Bar Press Main Menu)">
+    <Cheat Text="Max HP (Gray Bar Press Main Menu) | 最大生命值（灰色条按主菜单）">
         <Cheatline>
             <Offset>FFD167</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>44-0F-4E-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Status (Base stats cap lvl 99)">
+    <Cheat Text="Max Status (Base stats cap lvl 99) | 最大状态（基础属性上限99级）">
         <Cheatline>
             <Offset>FFF44D</Offset>
             <Section>0</Section>

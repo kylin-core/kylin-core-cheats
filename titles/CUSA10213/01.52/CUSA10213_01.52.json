@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Item",
+      "name": "Inf Item | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "XP x2 (Turn off first: x4, x8)",
+      "name": "XP x2 (Turn off first: x4, x8) | 经验值x2（关闭后：x4, x8）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "XP x4 (Turn off first: x2, x8)",
+      "name": "XP x4 (Turn off first: x2, x8) | 经验值x4（关闭后：x2, x8）",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "XP x8 (Turn off first: x2, x4)",
+      "name": "XP x8 (Turn off first: x2, x4) | 经验值x8（关闭后：x2, x4）",
       "type": "checkbox",
       "memory": [
         {

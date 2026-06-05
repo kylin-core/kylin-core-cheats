@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Coins (on gain)",
+      "name": "Max Coins (on gain) | 无限金币（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite Health (Red Heart)",
+      "name": "Infinite Health (Red Heart) | 无限生命（红心）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "149E0B",
           "on": "90909090909090",
           "off": "41898DD8020000"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "All Items x99 on use (have 2 at least)",
+      "name": "All Items x99 on use (have 2 at least) | 物品使用改为99个（需至少持有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Blue Heart (on collect)",
+      "name": "Max Blue Heart (on collect) | 最大蓝心（收集时）",
       "type": "checkbox",
       "memory": [
         {

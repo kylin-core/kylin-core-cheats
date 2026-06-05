@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Kudos on use",
+      "name": "Inf Kudos on use | 使用后获得无限声望",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Increase Money on Use",
+      "name": "Increase Money on Use | 使用后增加金钱",
       "type": "checkbox",
       "memory": [
         {

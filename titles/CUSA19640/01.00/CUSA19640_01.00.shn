@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 5 Striker" Moder="SunRise01(Creator), kemalsanli(Tester and Editor)" Cusa="CUSA19640" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Unlimited PP">
+    <Cheat Text="Unlimited PP | 无限PP值">
         <Cheatline>
             <Offset>82EAE5</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>83-C1-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Bond Point">
+    <Cheat Text="Unlimited Bond Point | 无限羁绊点数">
         <Cheatline>
             <Offset>8C00E6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-89-80-80-5B-5E-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited SP">
+    <Cheat Text="Unlimited SP | 无限SP">
         <Cheatline>
             <Offset>2EAF3D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-88-38-0C-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HP(seems not working but worth to try)">
+    <Cheat Text="HP(seems not working but worth to try) | 生命值(似乎无效但值得一试)">
         <Cheatline>
             <Offset>2EACE2</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-83-94-0A-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Items">
+    <Cheat Text="Unlimited Items | 无限道具">
         <Cheatline>
             <Offset>7E7AF8</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>FF-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (buy something and go to menu)">
+    <Cheat Text="Max Money (buy something and go to menu) | 最大金钱(购买物品后进入菜单)">
         <Cheatline>
             <Offset>7D258C</Offset>
             <Section>0</Section>

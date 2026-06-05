@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON) | 无限生命/一击必杀（主代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
+      "name": "Infinite MP | 无限魔法值",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max BP On Gain",
+      "name": "Max BP On Gain | 获取时BP最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite SP On Use",
+      "name": "Infinite SP On Use | 使用时SP无限",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Items/Craft/Baits",
+      "name": "Infinite Items/Craft/Baits | 无限物品/制作/鱼饵",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Fol",
+      "name": "Infinite Fol | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max XP (Win Battle)",
+      "name": "Max XP (Win Battle) | 战斗胜利经验最大化",
       "type": "checkbox",
       "memory": [
         {

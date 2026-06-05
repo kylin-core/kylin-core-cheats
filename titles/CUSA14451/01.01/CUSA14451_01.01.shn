@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Söldner-X 2: Final Prototype Definitive Edition" Moder="Saso" Cusa="CUSA14451" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>125DE0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite LIMIT">
+    <Cheat Text="Infinite LIMIT | 无限极限">
         <Cheatline>
             <Offset>764A5</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C6-86-A6-02-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Shock Wave">
+    <Cheat Text="Infinite Shock Wave | 无限冲击波">
         <Cheatline>
             <Offset>76426</Offset>
             <Section>0</Section>

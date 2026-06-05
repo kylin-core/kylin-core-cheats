@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP1195-CUSA06213_00-THEDEERGODPS4000" Moder="Talixme" Cusa="CUSA06213" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Life">
+    <Cheat Text="Inf Life | 无限生命">
         <Cheatline>
             <Offset>8025E883</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>45-29-7E-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限体力">
         <Cheatline>
             <Offset>7FC5B000</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Hungry">
+    <Cheat Text="No Hungry | 不饥饿">
         <Cheatline>
             <Offset>7FC5B02F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf O2">
+    <Cheat Text="Inf O2 | 无限氧气">
         <Cheatline>
             <Offset>8023A87A</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-46-34</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Jumps">
+    <Cheat Text="Inf Jumps | 无限跳跃">
         <Cheatline>
             <Offset>8025567E</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-C6-86-E0-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast Growup">
+    <Cheat Text="Fast Growup | 快速生长">
         <Cheatline>
             <Offset>7FC5B068</Offset>
             <Section>0</Section>

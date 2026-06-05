@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Judgment" Moder="TLH" Cusa="CUSA13197" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>8E1AA9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-0F-4F-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>2961AD</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>49-89-F6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Heat">
+    <Cheat Text="Infinite Heat | 无限热量">
         <Cheatline>
             <Offset>50A640</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-5D-40-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>988120</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-2B-8F-F0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max SP">
+    <Cheat Text="Max SP | 最大SP">
         <Cheatline>
             <Offset>8E2CF6</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>48-0F-4F-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>8E2BC9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>48-0F-4F-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>20CF800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tailing: Low awareness">
+    <Cheat Text="Tailing: Low awareness | 跟踪：低警觉">
         <Cheatline>
             <Offset>BBA971</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-5F-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Challenge-Time">
+    <Cheat Text="Infinite Challenge-Time | 无限挑战时间">
         <Cheatline>
             <Offset>1CDCE5</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-5C-40-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Darts: Perfect Shot">
+    <Cheat Text="Darts: Perfect Shot | 飞镖：完美投掷">
         <Cheatline>
             <Offset>D34170</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-58-C1-C5-F8-2E-05-4C-BB-CF-00-C4-C1-7A-11-84-24-7C-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Darts: Easy X01">
+    <Cheat Text="Darts: Easy X01 | 飞镖：简易X01">
         <Cheatline>
             <Offset>D47B36</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>0F-85-DB-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Darts: Easy Score">
+    <Cheat Text="Darts: Easy Score | 飞镖：简易得分">
         <Cheatline>
             <Offset>D45F27</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>8B-BC-91-18-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kamuro of the Dead: Infinite Health">
+    <Cheat Text="Kamuro of the Dead: Infinite Health | 神室町丧尸：无限生命">
         <Cheatline>
             <Offset>15E4033</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>44-29-F8-0F-46-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kamuro of the Dead: Infinite Ammo">
+    <Cheat Text="Kamuro of the Dead: Infinite Ammo | 神室町丧尸：无限弹药">
         <Cheatline>
             <Offset>15DB3B7</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kamuro of the Dead: Max Score">
+    <Cheat Text="Kamuro of the Dead: Max Score | 神室町丧尸：最高分数">
         <Cheatline>
             <Offset>15DB63E</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>0F-42-C2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Batting Center: Infinite Balls">
+    <Cheat Text="Batting Center: Infinite Balls | 打击中心：无限球数">
         <Cheatline>
             <Offset>14FBBB3</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>FF-80-28-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Batting Center: Easy Score">
+    <Cheat Text="Batting Center: Easy Score | 打击中心：简易得分">
         <Cheatline>
             <Offset>20CF814</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lockpicking: Infinite Time">
+    <Cheat Text="Lockpicking: Infinite Time | 开锁：无限时间">
         <Cheatline>
             <Offset>481F2A</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>C5-F2-5C-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lockpicking: Instant Pick">
+    <Cheat Text="Lockpicking: Instant Pick | 开锁：即时开锁">
         <Cheatline>
             <Offset>B468BD</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>C7-43-70-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Infinite Health">
+    <Cheat Text="Drone Race: Infinite Health | 无人机赛：无限生命">
         <Cheatline>
             <Offset>A531DF</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>0F-42-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Instant Boost Recharge">
+    <Cheat Text="Drone Race: Instant Boost Recharge | 无人机赛：瞬间加速充能">
         <Cheatline>
             <Offset>A5A758</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>C5-FA-2D-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Infinite Boost">
+    <Cheat Text="Drone Race: Infinite Boost | 无人机赛：无限加速">
         <Cheatline>
             <Offset>A5A6AB</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>29-C8-76-5B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Infinite Time">
+    <Cheat Text="Drone Race: Infinite Time | 无人机赛：无限时间">
         <Cheatline>
             <Offset>A2F4A9</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>29-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Max Items">
+    <Cheat Text="Drone Race: Max Items | 无人机赛：最大道具">
         <Cheatline>
             <Offset>8E381D</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>44-0F-4E-FB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Freeze Time">
+    <Cheat Text="Drone Race: Freeze Time | 无人机赛：暂停时间">
         <Cheatline>
             <Offset>A5C8E4</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>77-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Finish Line Crossable in both Directions">
+    <Cheat Text="Drone Race: Finish Line Crossable in both Directions | 无人机赛：终点线双向可穿">
         <Cheatline>
             <Offset>A5D2B4</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>76-25</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Drone Race: Enemys dont move">
+    <Cheat Text="Drone Race: Enemys dont move | 无人机赛：敌人不移动">
         <Cheatline>
             <Offset>20CF823</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Agents of Mayhem" Moder="TLH" Cusa="CUSA03067" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>15C14</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>66-44-0F-43-FE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限生命值">
         <Cheatline>
             <Offset>1AEB800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Shields">
+    <Cheat Text="Infinite Shields | 无限护盾">
         <Cheatline>
             <Offset>1AEB80F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill (Use with InfiniteHealth)">
+    <Cheat Text="One Hit Kill (Use with InfiniteHealth) | 一击必杀（配合无限生命使用）">
         <Cheatline>
             <Offset>1AEB823</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items/XP on Get">
+    <Cheat Text="Max Items/XP on Get | 拾取获得满物品/经验">
         <Cheatline>
             <Offset>9BD480</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-BC-FF-FF-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints">
+    <Cheat Text="Infinite Skillpoints | 无限技能点">
         <Cheatline>
             <Offset>3380B3</Offset>
             <Section>0</Section>

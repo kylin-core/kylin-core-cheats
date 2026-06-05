@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf-Ammo-NO-Reload",
+      "name": "Inf-Ammo-NO-Reload | 无限弹药无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite-Ammo",
+      "name": "Infinite-Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {

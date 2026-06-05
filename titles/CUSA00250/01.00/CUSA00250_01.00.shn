@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Thief" Moder="Wander FW9.00" Cusa="CUSA00250" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health ">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>9CCAF1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-83-E8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Focus">
+    <Cheat Text="Infinite Focus | 无限专注">
         <Cheatline>
             <Offset>7FC49FF0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max coins (on steal turn off when buying)">
+    <Cheat Text="Max coins (on steal turn off when buying) | 最大金币（偷取时开启，购买时关闭）">
         <Cheatline>
             <Offset>7FC4B920</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max Arrows (on use have 2)">
+    <Cheat Text="max Arrows (on use have 2) | 最大箭矢（使用时保留2支）">
         <Cheatline>
             <Offset>7FC4B950</Offset>
             <Section>0</Section>

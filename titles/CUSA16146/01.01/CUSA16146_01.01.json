@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "72EE6B",
           "on": "9090909090",
           "off": "C5FA114B40"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "99 Items (on gain optional)",
+      "name": "99 Items (on gain optional) | 获得物品时99个（可选）",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "40 Items (on gain)",
+      "name": "40 Items (on gain) | 获得物品时40个",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "33 Items (on use)",
+      "name": "33 Items (on use) | 使用物品时33个",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "name": "33 Items(on gain)",
+      "name": "33 Items (on gain) | 获得物品时33个",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +80,7 @@
       ]
     },
     {
-      "name": "Max coins (on sell 2 sells)",
+      "name": "Max coins (on sell 2 sells) | 出售物品时最大金币（出售两个）",
       "type": "checkbox",
       "memory": [
         {

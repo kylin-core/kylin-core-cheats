@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Crafting/Items Usage",
+      "name": "Infinite Ammo/Crafting/Items Usage | 无限弹药/制作/道具使用",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Perfect Aim",
+      "name": "Perfect Aim | 精准瞄准",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite Knife Durability",
+      "name": "Infinite Knife Durability | 无限匕首耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "No Damage For The Boat",
+      "name": "No Damage For The Boat | 船只无伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Spinels On Pick Up",
+      "name": "Max/Infinite Spinels On Pick Up | 拾取时获得最大/无限尖晶石",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Pesetas On Pick Up",
+      "name": "Max/Infinite Pesetas On Pick Up | 拾取时获得最大/无限比塞塔",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Max/Infinite CP",
+      "name": "Max/Infinite CP | 最大/无限CP",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Save always 0",
+      "name": "Save always 0 | 存档始终为0",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Stop Story Time",
+      "name": "Stop Story Time | 停止故事时间",
       "type": "checkbox",
       "memory": [
         {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "Stop Time (Mercenaries)",
+      "name": "Stop Time (Mercenaries) | 停止时间（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Instant Max Mayhen Mode (Mercenaries)",
+      "name": "Instant Max Mayhen Mode (Mercenaries) | 瞬间最大混乱模式（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "name": "Infinite Mayhen Mode (Mercenaries)",
+      "name": "Infinite Mayhen Mode (Mercenaries) | 无限混乱模式（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {

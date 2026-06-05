@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "No Hunger",
-      "hint": null,
+      "name": "No Hunger | 无饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "No Thirst",
-      "hint": null,
+      "name": "No Thirst | 无口渴",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Backpack Space (Weight)",
-      "hint": null,
+      "name": "Infinite Backpack Space (Weight) | 无限背包空间(负重)",
       "type": "checkbox",
       "memory": [
         {
@@ -80,8 +75,7 @@
       ]
     },
     {
-      "name": "XP Multiplier x999.999.999",
-      "hint": null,
+      "name": "XP Multiplier x999.999.999 | 经验倍率x999,999,999",
       "type": "checkbox",
       "memory": [
         {
@@ -102,8 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Items/Ammo",
-      "hint": "Crafting or upgrading does not use items.",
+      "name": "Infinite Items/Ammo | 无限物品/弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -114,8 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Building Durability",
-      "hint": "Buildings also repair themselves when damaged.",
+      "name": "Infinite Building Durability | 无限建筑耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -136,8 +128,7 @@
       ]
     },
     {
-      "name": "Instant Target Lockon",
-      "hint": "You do not have to wait for bows and guns to focus.",
+      "name": "Instant Target Lockon | 瞬间锁定目标",
       "type": "checkbox",
       "memory": [
         {

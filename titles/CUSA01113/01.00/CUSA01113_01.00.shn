@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gravity Rush Remastered" Moder="Talixme" Cusa="CUSA01113" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>48169A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-57-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gravity">
+    <Cheat Text="Infinite Gravity | 无限重力">
         <Cheatline>
             <Offset>48169A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-83-78-0A-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gems">
+    <Cheat Text="Infinite Gems | 无限宝石">
         <Cheatline>
             <Offset>504777</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-17</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Always Have Super Attack">
+    <Cheat Text="Always Have Super Attack | 始终拥有超级攻击">
         <Cheatline>
             <Offset>6E2030</Offset>
             <Section>0</Section>

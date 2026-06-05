@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible-(MC)",
+      "name": "Invincible-(MC) | 无敌（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-Hearts",
+      "name": "Infinite-Hearts | 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "max-lives + Infinite-(MC)",
+      "name": "max-lives + Infinite-(MC) | 最大生命+无敌（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "MAX-GOLD-(MC)",
+      "name": "MAX-GOLD-(MC) | 最大金币（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite-Time",
+      "name": "Infinite-Time | 无限时间",
       "type": "checkbox",
       "memory": [
         {

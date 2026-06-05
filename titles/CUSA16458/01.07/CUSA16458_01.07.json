@@ -1,11 +1,11 @@
 {
-  "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+  "name": "Atelier Ryza: Ever Darkness \u0026 the Secret Hideout",
   "id": "CUSA16458",
   "version": "01.07",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Stats (in battle keep it on)",
+      "name": "Max Stats (in battle keep it on) | 最大属性（战斗中保持开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Alot of Stocked Items in shop (after buying)",
+      "name": "Alot of Stocked Items in shop (after buying) | 商店大量库存（购买后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Coins (on buy)",
+      "name": "Max Coins (on buy) | 最大金币（购买时生效）",
       "type": "checkbox",
       "memory": [
         {

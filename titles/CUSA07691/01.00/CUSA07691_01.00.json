@@ -5,8 +5,7 @@
   "process": "hackGU_vol1.elf",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite FP",
-      "hint": null,
+      "name": "Infinite FP | 无限FP",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite GS/Money",
-      "hint": null,
+      "name": "Infinite GS/Money | 无限GS/金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Chims",
-      "hint": null,
+      "name": "Infinite Chims | 无限奇姆",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Items not decrease ",
-      "hint": "You need at least 2 items then activate.",
+      "name": "Items not decrease | 道具不减",
       "type": "checkbox",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Fast EXP/leveling ",
-      "hint": "Vol.1 is Max lvl 50.",
+      "name": "Fast EXP/leveling | 快速经验/升级",
       "type": "checkbox",
       "memory": [
         {
@@ -77,8 +71,7 @@
       ]
     },
     {
-      "name": "Set Arena SP to 1090",
-      "hint": null,
+      "name": "Set Arena SP to 1090 | 设置竞技场SP为1090",
       "type": "button",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/shield/x9999 Orb(Pause game to restore health/shield/Orb)",
+      "name": "Infinite Health/shield/x9999 Orb(Pause game to restore health/shield/Orb) | 无限生命/护盾/x9999宝珠（暂停游戏恢复生命/护盾/宝珠）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Levitate Hold L2",
+      "name": "Levitate Hold L2 | 按住L2悬浮",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "All Levitate Press L2 to Descend",
+      "name": "All Levitate Press L2 to Descend | 按下L2下降所有悬浮",
       "type": "checkbox",
       "memory": [
         {

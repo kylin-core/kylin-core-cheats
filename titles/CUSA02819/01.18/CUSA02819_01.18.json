@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Grenades on Use",
+      "name": "Max Grenades on Use | 使用后手雷满额",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Mines",
+      "name": "Infinite Mines | 无限地雷",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Mines on Use",
+      "name": "Max Mines on Use | 使用后地雷满额",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite C4",
+      "name": "Infinite C4 | 无限C4炸药",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints",
+      "name": "Infinite Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "255 Skillpoints on Use",
+      "name": "255 Skillpoints on Use | 使用后获得255技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Add 200.000.000 Resources after restart game",
+      "name": "Add 200.000.000 Resources after restart game | 重启游戏后增加2亿资源",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Unlock Tier-One-Mode",
+      "name": "Unlock Tier-One-Mode | 解锁一级模式",
       "type": "checkbox",
       "memory": [
         {

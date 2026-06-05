@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Sub energy",
+      "name": "Infinite Sub energy | 无限辅助能量",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Fast leveling",
+      "name": "Fast leveling | 快速升级",
       "type": "checkbox",
       "memory": [
         {

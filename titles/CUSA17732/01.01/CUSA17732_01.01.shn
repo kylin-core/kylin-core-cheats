@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Empire of Sin" Moder="Saso" Cusa="CUSA17732" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max HP (Get Hit To Activate)">
+    <Cheat Text="Max HP (Get Hit To Activate) | 最大生命值（受击触发）">
         <Cheatline>
             <Offset>84195F00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mony / Ammo / AP (Master Code)">
+    <Cheat Text="Mony / Ammo / AP (Master Code) | 金钱/弹药/行动点（主码）">
         <Cheatline>
             <Offset>84196000</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo (Enable In Your Turn Only)">
+    <Cheat Text="Infinite Ammo (Enable In Your Turn Only) | 无限弹药（仅在自己回合启用）">
         <Cheatline>
             <Offset>4E00A</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>EB-05</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP Pistol/Moves (Enable In your Turn Only)">
+    <Cheat Text="Infinite AP Pistol/Moves (Enable In your Turn Only) | 无限手枪行动点/移动力（仅在自己回合启用）">
         <Cheatline>
             <Offset>4E02E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>EB-0B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (Disable After Maxed)">
+    <Cheat Text="Max Money (Disable After Maxed) | 最大金钱（达到上限后关闭）">
         <Cheatline>
             <Offset>4E057</Offset>
             <Section>0</Section>

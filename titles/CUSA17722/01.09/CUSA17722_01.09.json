@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max XP (use once)",
+      "name": "Max XP (use once) | 最大经验值（使用一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max skill points",
+      "name": "Max skill points | 最大技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Web-shooters",
+      "name": "Inf Web-shooters | 无限蛛网发射器",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Finisher",
+      "name": "Inf Finisher | 无限终结技",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Invincible ON",
+      "name": "Invincible ON | 无敌开启",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Invincible OFF (only use after turning off Invincible ON)",
+      "name": "Invincible OFF (only use after turning off Invincible ON) | 无敌关闭（仅在关闭无敌开启后使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Inf resources",
+      "name": "Inf resources | 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Inf Venom Power",
+      "name": "Inf Venom Power | 无限毒液能量",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "travesal challenge time set to 20 sec",
+      "name": "travesal challenge time set to 20 sec | 穿越挑战时间设为20秒",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Inf Combat Challenge Time",
+      "name": "Inf Combat Challenge Time | 无限战斗挑战时间",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Inf Camouflage",
+      "name": "Inf Camouflage | 无限伪装",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Instant camouflage refill ",
+      "name": "Instant camouflage refill | 瞬间伪装补充",
       "type": "checkbox",
       "memory": [
         {

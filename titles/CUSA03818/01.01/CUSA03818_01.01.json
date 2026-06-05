@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / 1 Hit Kill (Master Code)",
+      "name": "Health / 1 Hit Kill (Master Code) | 生命值/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Ammo No Reload / Throwables",
+      "name": "Ammo No Reload / Throwables | 弹药无需装填/投掷物",
       "type": "checkbox",
       "memory": [
         {

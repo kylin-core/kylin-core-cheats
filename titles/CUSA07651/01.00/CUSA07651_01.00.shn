@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GUNDAM BREAKER 3 BREAK EDITION" Moder="Reddevil82 " Cusa="CUSA07651" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>A5F892</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-79-CF-F9-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kill all Enemies in Stage ( Reboot Ally after use !!! )">
+    <Cheat Text="Kill all Enemies in Stage ( Reboot Ally after use !!! ) | 清除场景全部敌人（使用后需重启队友！！！）">
         <Cheatline>
             <Offset>2E578E4</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Boost">
+    <Cheat Text="Infinite Boost | 无限推进">
         <Cheatline>
             <Offset>2E57870</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Repair Kits ( Armor )">
+    <Cheat Text="Infinite Repair Kits ( Armor ) | 无限修复包（装甲）">
         <Cheatline>
             <Offset>2E5783F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Special Attacks">
+    <Cheat Text="Infinite Special Attacks | 无限特殊攻击">
         <Cheatline>
             <Offset>A67526</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-C1-7A-11-09</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy ( Quick Menu )">
+    <Cheat Text="Infinite Energy ( Quick Menu ) | 无限能量（快捷菜单）">
         <Cheatline>
             <Offset>2E5784E</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy ( Rocket Launcher )">
+    <Cheat Text="Infinite Energy ( Rocket Launcher ) | 无限能量（火箭发射器）">
         <Cheatline>
             <Offset>2E578C0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Burst ( Special Attack L3 + R3 )">
+    <Cheat Text="Infinite Burst ( Special Attack L3 + R3 ) | 无限爆发（特殊攻击L3+R3）">
         <Cheatline>
             <Offset>2E578A0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max GP">
+    <Cheat Text="Max GP | 最大GP">
         <Cheatline>
             <Offset>2E57887</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ace Points ( on gain )">
+    <Cheat Text="Max Ace Points ( on gain ) | 最大王牌点数（获得时）">
         <Cheatline>
             <Offset>BE755C</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>89-4C-83-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Tickets">
+    <Cheat Text="Infinite Tickets | 无限票券">
         <Cheatline>
             <Offset>2E578D0</Offset>
             <Section>0</Section>

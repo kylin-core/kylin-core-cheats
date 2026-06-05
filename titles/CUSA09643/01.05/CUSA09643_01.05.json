@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables (Not A Hero)",
+      "name": "Infinite Throwables (Not A Hero) | 无限投掷物（非英雄模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite Oxigen (Not A Hero)",
+      "name": "Infinite Oxigen (Not A Hero) | 无限氧气（非英雄模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Scrap On Use (Nightmare)",
+      "name": "Max/Infinite Scrap On Use (Nightmare) | 使用即最大/无限废料（噩梦模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Stop Time (BedRoom)",
+      "name": "Stop Time (BedRoom) | 时间暂停（卧室）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible-(mc)",
+      "name": "Invincible-(mc) | 无敌-(mc)",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite-Items-HP",
+      "name": "Infinite-Items-HP | 无限道具生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite-MAGIC",
+      "name": "Infinite-MAGIC | 无限魔法",
       "type": "checkbox",
       "memory": [
         {

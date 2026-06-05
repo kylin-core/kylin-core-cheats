@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "53C6D7",
           "on": "909090",
           "off": "4429FB"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Bottomless Clip / Infinite Grenades",
+      "name": "Bottomless Clip / Infinite Grenades | 无限弹匣 / 无限手雷",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "537B42",
           "on": "9090909090909090",
           "off": "41899C24F00E0000"

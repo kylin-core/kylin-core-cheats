@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Shield Timer",
+      "name": "Inf Shield Timer | 无限护盾时间",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Freez Timer",
+      "name": "Freez Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Jump",
+      "name": "Inf Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Gold",
+      "name": "Max Gold | 最大金币",
       "type": "checkbox",
       "memory": [
         {

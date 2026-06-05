@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DeadCraft" Moder="Sondio & The Fallen One" Cusa="CUSA29850" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Health (MC)">
+    <Cheat Text="Max Health (MC) | 最大生命值(MC)">
         <Cheatline>
             <Offset>63F3B73</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Two Hit Kill (Enable MC)">
+    <Cheat Text="Two Hit Kill (Enable MC) | 两击必杀(启用MC)">
         <Cheatline>
             <Offset>63F3B79</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>EB-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Stamina">
+    <Cheat Text="Max Stamina | 最大体力">
         <Cheatline>
             <Offset>63F3BE7</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items x10 On Get">
+    <Cheat Text="Items x10 On Get | 拾取物品x10">
         <Cheatline>
             <Offset>63F3BFF</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items x99 On Use">
+    <Cheat Text="Items x99 On Use | 使用物品x99">
         <Cheatline>
             <Offset>63F3C13</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Thirst">
+    <Cheat Text="No Thirst | 无限水源">
         <Cheatline>
             <Offset>63F3C27</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Hungry">
+    <Cheat Text="No Hungry | 永不饥饿">
         <Cheatline>
             <Offset>63F3C40</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>63F3C59</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points">
+    <Cheat Text="Max Skill Points | 最大技能点">
         <Cheatline>
             <Offset>63F3C69</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Fuel">
+    <Cheat Text="Max Fuel | 最大燃料">
         <Cheatline>
             <Offset>63F3C79</Offset>
             <Section>0</Section>

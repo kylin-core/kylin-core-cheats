@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Endurance/Focus",
+      "name": "Infinite Endurance/Focus | 无限耐力/专注",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Items (Don't Use Max Items)",
+      "name": "Infinite Items (Don't Use Max Items) | 无限物品（不使用最大物品）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Items (Get Items First/Reload Game)",
+      "name": "Max Items (Get Items First/Reload Game) | 最大物品（先获取物品/重载游戏）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Infinite Suppressor",
+      "name": "Infinite Suppressor | 无限消音器",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
+      "name": "Infinite Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "Infinite Bike Durability (Disable On Chase Bike Missions)",
+      "name": "Infinite Bike Durability (Disable On Chase Bike Missions) | 无限摩托车耐久度（追逐摩托车任务时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Infinite Bike Fuel",
+      "name": "Infinite Bike Fuel | 无限摩托车燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "Infinite Nitro Turbo ",
+      "name": "Infinite Nitro Turbo | 无限氮气加速",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "Max Level Up/XP On Gain",
+      "name": "Max Level Up/XP On Gain | 最大升级/获得经验时满级",
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "Max Infinite Money(Buy Or Sell) Turn Off Before New Camp",
+      "name": "Max Infinite Money(Buy Or Sell) Turn Off Before New Camp | 最大无限金钱（购买或出售）进入新营地前关闭",
       "type": "checkbox",
       "memory": [
         {

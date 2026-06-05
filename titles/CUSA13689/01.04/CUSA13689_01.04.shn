@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Outer Worlds" Moder="Saso" Cusa="CUSA13689" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>66FCBA0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy">
+    <Cheat Text="Infinite Energy | 无限能量">
         <Cheatline>
             <Offset>1890EF8</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-8B-80-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weapon Durability (%100)">
+    <Cheat Text="Weapon Durability (%100) | 武器耐久度 (100%)">
         <Cheatline>
             <Offset>17BB251</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-87-14-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo / No Reload">
+    <Cheat Text="Infinite Ammo / No Reload | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>1F1BB7E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>29-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Skill Points 99 (on Spend)">
+    <Cheat Text="Skill Points 99 (on Spend) | 技能点99（加点时）">
         <Cheatline>
             <Offset>66FCBE0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perks Points 99 (on Spend)">
+    <Cheat Text="Perks Points 99 (on Spend) | 特长点99（加点时）">
         <Cheatline>
             <Offset>66FCC20</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast Lvl Up / XP">
+    <Cheat Text="Fast Lvl Up / XP | 快速升级/经验值">
         <Cheatline>
             <Offset>66FCC00</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max All (on Spend)">
+    <Cheat Text="Max All (on Spend) | 全部最大化（加点时）">
         <Cheatline>
             <Offset>66FCC50</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weight 0 (on Pick)">
+    <Cheat Text="Weight 0 (on Pick) | 重量0（拾取时）">
         <Cheatline>
             <Offset>1792CB6</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-83-28-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weight 0 (on Drop)">
+    <Cheat Text="Weight 0 (on Drop) | 重量0（丢弃时）">
         <Cheatline>
             <Offset>1792D1B</Offset>
             <Section>0</Section>

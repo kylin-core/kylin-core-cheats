@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "No Hunger",
+      "name": "No Hunger | 不消耗饥饿值",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Items Throw",
+      "name": "Infinite Items Throw | 无限投掷物品",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Items Build",
+      "name": "Infinite Items Build | 无限建造物品",
       "type": "checkbox",
       "memory": [
         {

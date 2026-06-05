@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Rings / No loose after hit ( on gain )",
+      "name": "Max Rings / No loose after hit ( on gain ) | 最大金环/受击不掉落(仅拾取时)",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Invincibility",
+      "name": "Invincibility | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Max Score [ S-Rank ]",
+      "name": "Max Score [ S-Rank ] | 最高分数[S级评价]",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Set Timer to 0",
+      "name": "Set Timer to 0 | 时间归零",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {

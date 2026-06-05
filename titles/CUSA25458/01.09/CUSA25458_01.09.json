@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "2 Hit Kill",
+      "name": "2 Hit Kill | 两击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinte Life",
+      "name": "Infinte Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最大分数",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Coin",
+      "name": "Max Coin | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "High Beam Shooter Always Max",
+      "name": "High Beam Shooter Always Max | 高能光束炮始终最大",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Dose is always full and available",
+      "name": "Dose is always full and available | 剂量始终满值可用",
       "type": "checkbox",
       "memory": [
         {

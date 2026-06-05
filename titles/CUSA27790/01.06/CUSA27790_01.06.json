@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max R&D Skills Points",
+      "name": "Max R\u0026D Skills Points | 最大研发技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max XP Level",
+      "name": "Max XP Level | 最大经验等级",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Reputation Level",
+      "name": "Max Reputation Level | 最大声望等级",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Moral",
+      "name": "Max Moral | 最大士气",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Freeze Race Timer",
+      "name": "Freeze Race Timer | 冻结比赛计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Set Race Timer to 0",
+      "name": "Set Race Timer to 0 | 比赛计时器归零",
       "type": "checkbox",
       "memory": [
         {

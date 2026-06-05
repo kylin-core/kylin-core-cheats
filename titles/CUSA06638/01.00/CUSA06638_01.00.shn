@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 5" Moder="Weysincha" Cusa="CUSA06638" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health(Main Character)">
+    <Cheat Text="Inf Health(Main Character) | 无限生命（主角）">
         <Cheatline>
             <Offset>1283800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money">
+    <Cheat Text="Inf Money | 无限金钱">
         <Cheatline>
             <Offset>886A3A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>81-FF-7F-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Exp/ Max Lvl (Main Character)">
+    <Cheat Text="Inf Exp/ Max Lvl (Main Character) | 无限经验/满级（主角）">
         <Cheatline>
             <Offset>1283819</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf SP">
+    <Cheat Text="Inf SP | 无限SP">
         <Cheatline>
             <Offset>8A15AF</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-5E-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Bullets">
+    <Cheat Text="Inf Bullets | 无限子弹">
         <Cheatline>
             <Offset>8A3C2F</Offset>
             <Section>0</Section>

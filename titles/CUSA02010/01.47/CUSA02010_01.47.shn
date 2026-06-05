@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light Definitive Edition" Moder="Celogamez" Cusa="CUSA02010" Version="01.47" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode (you Can Grabbed)">
+    <Cheat Text="God Mode (you Can Grabbed) | 上帝模式（可被抓住）">
         <Cheatline>
             <Offset>34BA56</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-90-A8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>C5695F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-83-34-12-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>20134C0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Endurance (For Fight)">
+    <Cheat Text="Infinite Endurance (For Fight) | 无限耐力（战斗）">
         <Cheatline>
             <Offset>D92F2F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-43-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breathe (For Run)">
+    <Cheat Text="Infinite Breathe (For Run) | 无限呼吸（奔跑）">
         <Cheatline>
             <Offset>D832FA</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-43-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/Throwables/Craft">
+    <Cheat Text="Infinite Items/Throwables/Craft | 无限物品/投掷物/制作材料">
         <Cheatline>
             <Offset>760098</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>45-89-37</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/Arrows">
+    <Cheat Text="Infinite Ammo/Arrows | 无限弹药/箭矢">
         <Cheatline>
             <Offset>2013960</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>E4CD4A</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>E8-F1-32-91-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapons Durability">
+    <Cheat Text="Infinite Weapons Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>2013870</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite UV Flashlight">
+    <Cheat Text="Infinite UV Flashlight | 无限紫外线手电筒">
         <Cheatline>
             <Offset>D281BF</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-0F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Camouflage Duration">
+    <Cheat Text="Infinite Camouflage Duration | 无限伪装持续时间">
         <Cheatline>
             <Offset>20135A0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grappling Hook">
+    <Cheat Text="Infinite Grappling Hook | 无限抓钩">
         <Cheatline>
             <Offset>E249B4</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>C4-C1-7A-11-46-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stop Time Missions">
+    <Cheat Text="Stop Time Missions | 任务时间停止">
         <Cheatline>
             <Offset>4B4777</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>C5-FA-11-40-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money">
+    <Cheat Text="Max/Infinite Money | 最大/无限金钱">
         <Cheatline>
             <Offset>2013A20</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP/Levels/Rank/All Skill Points On Gain">
+    <Cheat Text="Max XP/Levels/Rank/All Skill Points On Gain | 获取时获得最大经验/等级/军衔/全技能点">
         <Cheatline>
             <Offset>2013C80</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitro (Buggy/The Following)">
+    <Cheat Text="Infinite Nitro (Buggy/The Following) | 无限氮气（越野车/信徒）">
         <Cheatline>
             <Offset>2013500</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fuel (Buggy/The Following)">
+    <Cheat Text="Infinite Fuel (Buggy/The Following) | 无限燃料（越野车/信徒）">
         <Cheatline>
             <Offset>2012DF0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Eletric Cage/UV SafeZone/Car Alarm (Buggy/The Following)">
+    <Cheat Text="Infinite Eletric Cage/UV SafeZone/Car Alarm (Buggy/The Following) | 无限电网/紫外线安全区/车辆警报（越野车/信徒）">
         <Cheatline>
             <Offset>116F5DE</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>C5-FA-11-53-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Flamethrower(Buggy/The Following)">
+    <Cheat Text="Infinite Flamethrower(Buggy/The Following) | 无限火焰喷射器（越野车/信徒）">
         <Cheatline>
             <Offset>1161D86</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>C4-C1-7A-11-46-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage To Vehicle Parts (Buggy/The Following)">
+    <Cheat Text="No Damage To Vehicle Parts (Buggy/The Following) | 车辆部件无损伤（越野车/信徒）">
         <Cheatline>
             <Offset>20138A0</Offset>
             <Section>0</Section>

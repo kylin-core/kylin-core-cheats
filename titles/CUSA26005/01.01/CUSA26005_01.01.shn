@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Story Of Season Friend Mineral Town" Moder="Gatot Kaca" Cusa="CUSA26005" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Rich (Money Max)">
+    <Cheat Text="Rich (Money Max) | 金钱最大">
         <Cheatline>
             <Offset>876250</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Sale Anything On Shiping Bin Money Max">
+    <Cheat Text="Sale Anything On Shiping Bin Money Max | 出货箱任意物品金钱最大">
         <Cheatline>
             <Offset>2F272C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-0F-47-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Collapse">
+    <Cheat Text="No Collapse | 不会倒下">
         <Cheatline>
             <Offset>876290</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinte Stamina">
+    <Cheat Text="Infinte Stamina | 无限体力">
         <Cheatline>
             <Offset>8762D0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinte Watering Can">
+    <Cheat Text="Infinte Watering Can | 无限水壶水量">
         <Cheatline>
             <Offset>876310</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>309087</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>74-26</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Friendship Max">
+    <Cheat Text="Friendship Max | 好感度最大">
         <Cheatline>
             <Offset>876350</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Love Max">
+    <Cheat Text="Love Max | 爱情度最大">
         <Cheatline>
             <Offset>876390</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Animal Stats Max">
+    <Cheat Text="Animal Stats Max | 动物状态最大">
         <Cheatline>
             <Offset>8763D0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tomorrow Weather Sunny">
+    <Cheat Text="Tomorrow Weather Sunny | 明天天气晴朗">
         <Cheatline>
             <Offset>876410</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tomorrow Weather Rain">
+    <Cheat Text="Tomorrow Weather Rain | 明天天气下雨">
         <Cheatline>
             <Offset>876450</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tomorrow Weather Snow">
+    <Cheat Text="Tomorrow Weather Snow | 明天天气下雪">
         <Cheatline>
             <Offset>876490</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tomorrow Weather Typhon">
+    <Cheat Text="Tomorrow Weather Typhon | 明天天气台风">
         <Cheatline>
             <Offset>8764D0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tomorrow Weather Snowstorm">
+    <Cheat Text="Tomorrow Weather Snowstorm | 明天天气暴风雪">
         <Cheatline>
             <Offset>876510</Offset>
             <Section>0</Section>

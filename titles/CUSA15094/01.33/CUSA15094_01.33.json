@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Bosco Revives",
+      "name": "Max Bosco Revives | 最大博斯科复活次数",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Overheat",
+      "name": "No Overheat | 不过热",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Overheat Drill",
+      "name": "No Overheat Drill | 钻机不过热",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Drill Fuel",
+      "name": "Infinite Drill Fuel | 无限钻机燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Flares",
+      "name": "Infinite Flares | 无限照明弹",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( Primary )",
+      "name": "Max Ammo ( Primary ) | 最大弹药 (主武器)",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( Secondary )",
+      "name": "Max Ammo ( Secondary ) | 最大弹药 (副武器)",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Shield Generator",
+      "name": "Max Shield Generator | 最大护盾发生器",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max Grenades ( on use )",
+      "name": "Max Grenades ( on use ) | 最大手雷 (使用后)",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需换弹",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max Clip Ammo",
+      "name": "Max Clip Ammo | 最大弹匣弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Max Bosco Rockets",
+      "name": "Max Bosco Rockets | 最大博斯科火箭",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "Max Credits",
+      "name": "Max Credits | 最大信用币",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Max Scrip",
+      "name": "Max Scrip | 最大兑换券",
       "type": "checkbox",
       "memory": [
         {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "name": "Max Ressources",
+      "name": "Max Ressources | 最大资源",
       "type": "checkbox",
       "memory": [
         {
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "Max Perks ( on use )",
+      "name": "Max Perks ( on use ) | 最大特长 (使用后)",
       "type": "checkbox",
       "memory": [
         {
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "name": "Max Performance",
+      "name": "Max Performance | 最大性能",
       "type": "checkbox",
       "memory": [
         {
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "name": "Freeze Timer ( Mission )",
+      "name": "Freeze Timer ( Mission ) | 冻结任务计时器",
       "type": "checkbox",
       "memory": [
         {

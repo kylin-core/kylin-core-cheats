@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "2x Skill Points After Use",
-      "hint": null,
+      "name": "2x Skill Points After Use | 使用后技能点翻倍",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="My Name is Mayo 2" Moder="b2ag" Cusa="CUSA25283" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="10000 Clicks">
+    <Cheat Text="10000 Clicks | 一万次点击">
         <Cheatline>
             <Offset>96F91C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Love">
+    <Cheat Text="Love | 爱">
         <Cheatline>
             <Offset>219D6D416</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dreams">
+    <Cheat Text="Dreams | 梦想">
         <Cheatline>
             <Offset>219D6CA16</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Myself">
+    <Cheat Text="Myself | 自我">
         <Cheatline>
             <Offset>219D6C016</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money">
+    <Cheat Text="Money | 金钱">
         <Cheatline>
             <Offset>219D6B616</Offset>
             <Section>0</Section>

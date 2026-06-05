@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
-      "hint": null,
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
-      "hint": null,
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {

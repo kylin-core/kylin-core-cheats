@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite health",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Gauge Bar",
+      "name": "Max Gauge Bar | 最大计量条",
       "type": "checkbox",
       "memory": [
         {

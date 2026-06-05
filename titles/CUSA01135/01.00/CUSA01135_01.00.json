@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Mana",
+      "name": "Inf Mana | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Easy Level Up (activate pick a potion then deactivate)",
+      "name": "Easy Level Up (activate pick a potion then deactivate) | 轻松升级（激活后捡取药水，再停用）",
       "type": "checkbox",
       "memory": [
         {

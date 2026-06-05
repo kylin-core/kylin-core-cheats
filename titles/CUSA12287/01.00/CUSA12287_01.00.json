@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Gald x999999 (on gain)",
+      "name": "Gald x999999 (on gain) | Gald x999999 (获得时)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "items x99 (on spend)",
+      "name": "items x99 (on spend) | 道具 x99 (消耗时)",
       "type": "checkbox",
       "memory": [
         {
@@ -37,11 +37,10 @@
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "Max Exp | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5E8D0",
           "on": "C74360FFE0F505817B48C7000000E90AFC5F80",
           "off": "00000000000000000000000000000000000000"

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Health / Shield ( must be activated )",
+      "name": "Mastercode Health / Shield ( must be activated ) | 主代码生命值/护盾（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命值 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [ MC ]",
+      "name": "One Hit Kill [ MC ] | 一击必杀 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Shield [ MC ]",
+      "name": "Infinite Shield [ MC ] | 无限护盾 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "No Shield Enemy [ MC ]",
+      "name": "No Shield Enemy [ MC ] | 敌人无护盾 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "No Gatling Gun Overheat",
+      "name": "No Gatling Gun Overheat | 加特林不过热",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "No Laser Cooldown",
+      "name": "No Laser Cooldown | 激光无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Credits",
+      "name": "Max Credits | 最大货币",
       "type": "checkbox",
       "memory": [
         {

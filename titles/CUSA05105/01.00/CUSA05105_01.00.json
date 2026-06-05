@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf SG",
+      "name": "Inf SG | 无限SG",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf  Money on buy",
+      "name": "Inf  Money on buy | 购物金钱无限",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Get MAX Level (200) after two battles",
+      "name": "Get MAX Level (200) after two battles | 两场战斗后达到满级（200级）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Inf Essence",
+      "name": "Inf Essence | 无限精华",
       "type": "checkbox",
       "memory": [
         {

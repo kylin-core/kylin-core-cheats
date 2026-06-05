@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode Player Left",
-      "hint": null,
+      "name": "Godmode Player Left | 玩家左无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Godmode Player Right",
-      "hint": null,
+      "name": "Godmode Player Right | 玩家右无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Player Left  1 hit kill",
-      "hint": null,
+      "name": "Player Left  1 hit kill | 玩家左方一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Player Rigth 1 hit kill",
-      "hint": null,
+      "name": "Player Rigth 1 hit kill | 玩家右方一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Money x2 Each Use",
-      "hint": null,
+      "name": "Money x2 Each Use | 每次使用金钱倍增",
       "type": "checkbox",
       "memory": [
         {

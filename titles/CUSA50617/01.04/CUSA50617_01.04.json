@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "This trainer has been partially tested and seem to work fine. Please let me know if there is any issue. Be sure to read the comment on each individual cheat, if a comment is available. Trainer is compatible with CUSA50614, CUSA50615, CUSA50617, CUSA48853. Enjoy! :)",
+      "name": "TRAINER INFO (read only) | 修改器信息（仅读取）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Code (Must be enabled first + all the time)",
-      "description": "Cheats with -- prefix depend on the Master Code",
+      "name": "Master Code (Must be enabled first + all the time) | 主代码（必须首先启用且始终开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,8 +52,7 @@
       ]
     },
     {
-      "name": "God Mode",
-      "description": "",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -91,8 +88,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
-      "description": "",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -103,8 +99,7 @@
       ]
     },
     {
-      "name": "Inf+Max Health",
-      "description": "",
+      "name": "Inf+Max Health | 无限+最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -130,8 +125,7 @@
       ]
     },
     {
-      "name": "Kill Everybody Around (L3 + L2)",
-      "description": "When this cheat is enabled, pressing L3+L2 will instantly kill everyone in the area.",
+      "name": "Kill Everybody Around (L3 + L2) | 击杀周围所有人（L3 + L2）",
       "type": "checkbox",
       "memory": [
         {
@@ -167,8 +161,7 @@
       ]
     },
     {
-      "name": "Enemies Dont Attack",
-      "description": "",
+      "name": "Enemies Dont Attack | 敌人不攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -184,8 +177,7 @@
       ]
     },
     {
-      "name": "Inf+Max FP",
-      "description": "",
+      "name": "Inf+Max FP | 无限+最大专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -201,8 +193,7 @@
       ]
     },
     {
-      "name": "Inf+Max Stamina",
-      "description": "",
+      "name": "Inf+Max Stamina | 无限+最大耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -218,8 +209,7 @@
       ]
     },
     {
-      "name": "--Vanish All Enemies",
-      "description": "Probably not very useful. Just added it for the sake of it. :-)",
+      "name": "--Vanish All Enemies | 隐藏所有敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -230,8 +220,7 @@
       ]
     },
     {
-      "name": "Inf+Max Consumables",
-      "description": "",
+      "name": "Inf+Max Consumables | 无限+最大消耗品",
       "type": "checkbox",
       "memory": [
         {
@@ -242,8 +231,7 @@
       ]
     },
     {
-      "name": "Inf+Max Runes",
-      "description": "",
+      "name": "Inf+Max Runes | 无限+最大卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -259,8 +247,7 @@
       ]
     },
     {
-      "name": "Runes Retained On Death",
-      "description": "",
+      "name": "Runes Retained On Death | 死亡保留卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -271,8 +258,7 @@
       ]
     },
     {
-      "name": "Inf+Max Murks",
-      "description": "",
+      "name": "Inf+Max Murks | 无限+最大暗痕",
       "type": "checkbox",
       "memory": [
         {
@@ -288,8 +274,7 @@
       ]
     },
     {
-      "name": "Player No Dead 1.04",
-      "description": "Player can take damage but never die.",
+      "name": "Player No Dead 1.04 | 玩家不会死亡 1.04",
       "type": "checkbox",
       "memory": [
         {
@@ -300,8 +285,7 @@
       ]
     },
     {
-      "name": "Infinite Ultimate Art",
-      "description": "",
+      "name": "Infinite Ultimate Art | 无限终极技能",
       "type": "checkbox",
       "memory": [
         {
@@ -312,8 +296,7 @@
       ]
     },
     {
-      "name": "--No Skill Cooldown",
-      "description": "",
+      "name": "--No Skill Cooldown | 无技能冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -324,8 +307,7 @@
       ]
     },
     {
-      "name": "Multi Jump And Levitate",
-      "description": "",
+      "name": "Multi Jump And Levitate | 多重跳跃与悬浮",
       "type": "checkbox",
       "memory": [
         {
@@ -336,8 +318,7 @@
       ]
     },
     {
-      "name": "Inf+Max Level (15)",
-      "description": "",
+      "name": "Inf+Max Level (15) | 无限+最大等级（15级）",
       "type": "checkbox",
       "memory": [
         {
@@ -353,8 +334,7 @@
       ]
     },
     {
-      "name": "--Enemy Speed x0.2",
-      "description": "",
+      "name": "--Enemy Speed x0.2 | 敌人速度x0.2",
       "type": "checkbox",
       "memory": [
         {
@@ -365,8 +345,7 @@
       ]
     },
     {
-      "name": "--Enemy Speed x0.5",
-      "description": "",
+      "name": "--Enemy Speed x0.5 | 敌人速度x0.5",
       "type": "checkbox",
       "memory": [
         {
@@ -377,8 +356,7 @@
       ]
     },
     {
-      "name": "--Enemy Speed x2",
-      "description": "",
+      "name": "--Enemy Speed x2 | 敌人速度x2",
       "type": "checkbox",
       "memory": [
         {
@@ -389,8 +367,7 @@
       ]
     },
     {
-      "name": "--Player Speed x1",
-      "description": "",
+      "name": "--Player Speed x1 | 玩家速度x1",
       "type": "checkbox",
       "memory": [
         {
@@ -401,8 +378,7 @@
       ]
     },
     {
-      "name": "--Player Speed x2",
-      "description": "",
+      "name": "--Player Speed x2 | 玩家速度x2",
       "type": "checkbox",
       "memory": [
         {
@@ -413,8 +389,7 @@
       ]
     },
     {
-      "name": "--Player Speed x3",
-      "description": "",
+      "name": "--Player Speed x3 | 玩家速度x3",
       "type": "checkbox",
       "memory": [
         {
@@ -425,8 +400,7 @@
       ]
     },
     {
-      "name": "--Player Speed x4",
-      "description": "",
+      "name": "--Player Speed x4 | 玩家速度x4",
       "type": "checkbox",
       "memory": [
         {
@@ -437,8 +411,7 @@
       ]
     },
     {
-      "name": "Stop Night Growth",
-      "description": "",
+      "name": "Stop Night Growth | 停止黑夜增长",
       "type": "checkbox",
       "memory": [
         {
@@ -454,8 +427,7 @@
       ]
     },
     {
-      "name": "Disable Idle Timer",
-      "description": "This disables the annoying timer that sign you out of the game if you remain idle for some time.",
+      "name": "Disable Idle Timer | 禁用闲置计时器",
       "type": "checkbox",
       "memory": [
         {

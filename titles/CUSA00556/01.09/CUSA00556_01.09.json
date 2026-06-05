@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Debug Menu (Enable)",
+      "name": "Debug Menu (Enable) | 调试菜单（启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Debug Menu (Enable, No Overlay)",
+      "name": "Debug Menu (Enable, No Overlay) | 调试菜单（启用，无覆盖）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Debug Menu (Disable)",
+      "name": "Debug Menu (Disable) | 调试菜单（禁用）",
       "type": "checkbox",
       "memory": [
         {

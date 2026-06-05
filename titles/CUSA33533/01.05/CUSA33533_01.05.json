@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Dash",
+      "name": "Inf Dash | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Life",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Modules Use",
+      "name": "Inf Modules Use | 无限模块使用",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Inf Money",
+      "name": "Inf Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "No Increment the Suit Level",
+      "name": "No Increment the Suit Level | 不增加装甲等级",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "No Overheating",
+      "name": "No Overheating | 不会过热",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "No Requires Level Up",
+      "name": "No Requires Level Up | 无需升级",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "No Collision",
+      "name": "No Collision | 无碰撞",
       "type": "checkbox",
       "memory": [
         {

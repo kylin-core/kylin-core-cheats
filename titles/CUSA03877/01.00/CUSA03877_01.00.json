@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 神模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Skillbar",
-      "hint": null,
+      "name": "Infinite Skillbar | 无限技能条",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "hint": null,
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints/Quarz",
-      "hint": null,
+      "name": "Infinite Skillpoints/Quarz | 无限技能点/水晶",
       "type": "checkbox",
       "memory": [
         {

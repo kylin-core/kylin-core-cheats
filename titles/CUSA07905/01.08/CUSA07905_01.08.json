@@ -5,17 +5,15 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health / 1 Hit Kill",
+      "name": "Infinite Health / 1 Hit Kill | 无限生命 / 一击必杀",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "BE7800",
           "on": "49837E04007511C4C17A10464CC4C17A114648E91A145FFF41C7464800000000E901145FFF",
           "off": "00000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "section": "1",
           "offset": "1D8C16",
           "on": "E9E5EBA00090",
           "off": "C4C17A114648"
@@ -23,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (No Reload)",
+      "name": "Infinite Ammo (No Reload) | 无限弹药（无需装弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -39,7 +37,7 @@
       ]
     },
     {
-      "name": "4,700,000 Gold on Gain",
+      "name": "4,700,000 Gold on Gain | 获得时增加4,700,000金币",
       "type": "checkbox",
       "memory": [
         {
@@ -55,17 +53,15 @@
       ]
     },
     {
-      "name": "No cooldown on equipment",
+      "name": "No cooldown on equipment | 装备无冷却",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "BE7D00",
           "on": "41C78424A800000000000000E927CFD6FF",
           "off": "0000000000000000000000000000000000"
         },
         {
-          "section": "1",
           "offset": "954C2E",
           "on": "E9CD3029009090909090",
           "off": "C4C17A118424A8000000"
@@ -73,17 +69,15 @@
       ]
     },
     {
-      "name": "Infinite Ability",
+      "name": "Infinite Ability | 无限技能",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "BE7DE0",
           "on": "41C786640100000000803FE916C6CAFF",
           "off": "6641C786640100000000E917C6CAFF00"
         },
         {
-          "section": "1",
           "offset": "894401",
           "on": "E9DA393500",
           "off": "E9DA393500"

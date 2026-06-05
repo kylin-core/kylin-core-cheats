@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Nourishment",
+      "name": "Infinite Nourishment | 无限饱食度",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "0 Weight",
+      "name": "0 Weight | 零负重",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Money On Buy/Sell",
+      "name": "Max Money On Buy/Sell | 买卖最高价格",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "x2 Money/Items on Spend/Drop",
+      "name": "x2 Money/Items on Spend/Drop | 花费/丢弃双倍金钱/物品",
       "type": "checkbox",
       "memory": [
         {

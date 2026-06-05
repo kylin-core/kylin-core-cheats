@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "2 Hit Kill",
+      "name": "2 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Level on Gain",
+      "name": "Max Level on Gain | 升级即满级",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "9,999,999 Protein on Gain",
+      "name": "9,999,999 Protein on Gain | 获取时蛋白质9999999",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "9,999,999 Fats on Gain",
+      "name": "9,999,999 Fats on Gain | 获取时脂肪9999999",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "9,999,999 Minerals on Gain",
+      "name": "9,999,999 Minerals on Gain | 获取时矿物质9999999",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "9,999,999 Mutagens on Gain",
+      "name": "9,999,999 Mutagens on Gain | 获取时诱变剂9999999",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Faster Game Speed",
+      "name": "Faster Game Speed | 加快游戏速度",
       "type": "button",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Game Speed Normal",
+      "name": "Game Speed Normal | 游戏速度正常",
       "type": "button",
       "memory": [
         {

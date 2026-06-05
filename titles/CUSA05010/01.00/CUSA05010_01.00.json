@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health (need at least 1 hearts)",
+      "name": "Inf Health (need at least 1 hearts) | 无限生命（需至少1颗心）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Exp/Gold/Max Lvl",
+      "name": "Inf Exp/Gold/Max Lvl | 无限经验/金币/满级",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / No Relaod",
+      "name": "Infinite Ammo / No Relaod | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Suppressor",
+      "name": "Infinite Suppressor | 无限消音器",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手榴弹",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max GMP (5000000)",
+      "name": "Max GMP (5000000) | 最大GMP（5000000）",
       "type": "checkbox",
       "memory": [
         {

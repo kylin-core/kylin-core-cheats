@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Incense",
+      "name": "Infinite Incense | 无限焚香",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Heavy Thrust",
+      "name": "Infinite Heavy Thrust | 无限重击",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Silver Coins",
+      "name": "Infinite Silver Coins | 无限银币",
       "type": "checkbox",
       "memory": [
         {
@@ -79,11 +79,10 @@
       ]
     },
     {
-      "name": "Max Xp On Kill",
+      "name": "Max Xp On Kill | 击杀获得最大经验",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "BBC88",
           "on": "89401090",
           "off": "44017010"

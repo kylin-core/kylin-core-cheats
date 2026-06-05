@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlocker",
+      "name": "Unlocker | 解锁器",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Pofo",
+      "name": "Pofo | 角色属性文件",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Unlock Brock Lesnar",
+      "name": "Unlock Brock Lesnar | 解锁布洛克·莱斯纳",
       "type": "checkbox",
       "memory": [
         {

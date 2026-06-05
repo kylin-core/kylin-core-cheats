@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "x2 Money",
-      "hint": null,
+      "name": "x2 Money | 双倍金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "God-Mode +1 Every Hit/Kill",
-      "hint": null,
+      "name": "God-Mode +1 Every Hit/Kill | 一击/击杀加1条命",
       "type": "checkbox",
       "memory": [
         {

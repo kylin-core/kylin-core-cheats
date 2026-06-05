@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Resources/Medkits/Throwables/Ammo(reloadable)",
+      "name": "Infinite Resources/Medkits/Throwables/Ammo(reloadable) | 无限资源/医疗包/投掷物/弹药（可装填）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Earn Skill Points On Spend",
+      "name": "Earn Skill Points On Spend | 消费获得技能点",
       "type": "checkbox",
       "memory": [
         {

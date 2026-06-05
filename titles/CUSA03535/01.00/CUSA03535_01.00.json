@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Flashlight",
+      "name": "Infinite Flashlight | 无限手电",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (on reload inside the backpack)",
+      "name": "Infinite Ammo (on reload inside the backpack) | 无限弹药（背包内换弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (inside the clip)",
+      "name": "Infinite Ammo (inside the clip) | 无限弹药（弹匣内）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (while shooting)",
+      "name": "Infinite Ammo (while shooting) | 无限弹药（射击时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,11 +85,10 @@
       ]
     },
     {
-      "name": "Infinite Turret Ammo",
+      "name": "Infinite Turret Ammo | 无限炮塔弹药",
       "type": "checkbox",
       "memory": [
         {
-          "section": "8",
           "offset": "40D512",
           "on": "909090909090",
           "off": "FF88940A0000"

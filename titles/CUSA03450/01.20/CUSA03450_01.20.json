@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "x2 Item Each use (Use and deactivate)",
+      "name": "x2 Item Each use (Use and deactivate) | 每次使用双倍物品（启用后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "256 Skill Points (After one use)",
+      "name": "256 Skill Points (After one use) | 256技能点数（使用一次后）",
       "type": "button",
       "memory": [
         {

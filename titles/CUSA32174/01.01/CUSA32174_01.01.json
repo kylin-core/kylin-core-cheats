@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "2 Hit Kill",
+      "name": "2 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Heat",
+      "name": "Max Heat | 热血量表最大",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限精力",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Gauge ( Soldier Squad )",
+      "name": "Infinite Gauge ( Soldier Squad ) | 无限计量条（士兵队）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Max Virtue",
+      "name": "Max Virtue | 德最大",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Brawler Orbs",
+      "name": "Max Brawler Orbs | 格斗者宝珠最大",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max Swordsman Orbs",
+      "name": "Max Swordsman Orbs | 剑士宝珠最大",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Max Gunman Orbs",
+      "name": "Max Gunman Orbs | 枪手宝珠最大",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max Wild Dancer Orbs",
+      "name": "Max Wild Dancer Orbs | 狂舞者宝珠最大",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Max Training Orbs",
+      "name": "Max Training Orbs | 修行宝珠最大",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "Max XP ( on gain )",
+      "name": "Max XP ( on gain ) | 经验值最大（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Max Enhanced Ammo",
+      "name": "Max Enhanced Ammo | 强化弹药最大",
       "type": "checkbox",
       "memory": [
         {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "name": "Max Flame Ammo",
+      "name": "Max Flame Ammo | 火焰弹药最大",
       "type": "checkbox",
       "memory": [
         {
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "Max Combo",
+      "name": "Max Combo | 连击最大",
       "type": "checkbox",
       "memory": [
         {
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "name": "Unlock all ( Produce - Seafood - Materials )",
+      "name": "Unlock all ( Produce - Seafood - Materials ) | 解锁全部（农产品·海产·材料）",
       "type": "checkbox",
       "memory": [
         {
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "name": "Max Items ( Produce - Seafood - Materials )",
+      "name": "Max Items ( Produce - Seafood - Materials ) | 道具最大（农产品·海产·材料）",
       "type": "checkbox",
       "memory": [
         {
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "name": "Max Items ( Warehouse )",
+      "name": "Max Items ( Warehouse ) | 道具最大（仓库）",
       "type": "checkbox",
       "memory": [
         {
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "name": "Max Lottery Tickets",
+      "name": "Max Lottery Tickets | 彩票最大",
       "type": "checkbox",
       "memory": [
         {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "name": "Max Wodden Tags",
+      "name": "Max Wodden Tags | 木牌最大",
       "type": "checkbox",
       "memory": [
         {
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "name": "Max Shogi - Mahjong ",
+      "name": "Max Shogi - Mahjong | 将棋·麻将最大",
       "type": "checkbox",
       "memory": [
         {
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "name": "Infinite Third Eyes ( Rock - Paper - Scissors )",
+      "name": "Infinite Third Eyes ( Rock - Paper - Scissors ) | 无限第三只眼（猜拳）",
       "type": "checkbox",
       "memory": [
         {
@@ -394,7 +394,7 @@
       ]
     },
     {
-      "name": "Max Score Wood Chooping",
+      "name": "Max Score Wood Chooping | 劈柴最高分",
       "type": "checkbox",
       "memory": [
         {
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "name": "Sensual Healing ( Godmode )",
+      "name": "Sensual Healing ( Godmode ) | 诱惑治愈（上帝模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "name": "Dancing Max Score ( on gain )",
+      "name": "Dancing Max Score ( on gain ) | 舞踊最高分（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "name": "Cannon Coaching Max Score ( on gain )",
+      "name": "Cannon Coaching Max Score ( on gain ) | 炮术训练最高分（获取时）",
       "type": "checkbox",
       "memory": [
         {

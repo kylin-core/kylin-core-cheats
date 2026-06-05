@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "HEALTH",
-      "hint": null,
+      "name": "HEALTH | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "CASH",
-      "hint": null,
+      "name": "CASH | 现金",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "ORBS",
-      "hint": null,
+      "name": "ORBS | 灵魂球",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "XP LEVEL",
-      "hint": null,
+      "name": "XP LEVEL | 经验等级",
       "type": "checkbox",
       "memory": [
         {

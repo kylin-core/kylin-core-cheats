@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "GOLD",
+      "name": "GOLD | 金币",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max HP (!DONT COMBINE STATUS CHEAT / MAX LVL!)",
+      "name": "Max HP (!DONT COMBINE STATUS CHEAT / MAX LVL!) | 最大HP（！勿与状态修改/满级同时使用！）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Max Cats Spirit",
+      "name": "Max Cats Spirit | 猫魂最大值",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Increase item use",
+      "name": "Increase item use | 物品使用次数增加",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Skip Battle + 9999 HP (Bind)",
+      "name": "Skip Battle + 9999 HP (Bind) | 跳过战斗 + 9999 HP（绑定）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Skip Battle + Max Base ATK (Bind)",
+      "name": "Skip Battle + Max Base ATK (Bind) | 跳过战斗 + 基础攻击力最大（绑定）",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Skip Battle + Max Base Def (Bind)",
+      "name": "Skip Battle + Max Base Def (Bind) | 跳过战斗 + 基础防御力最大（绑定）",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Skip Battle + Max Base Arte ATK (Bind)",
+      "name": "Skip Battle + Max Base Arte ATK (Bind) | 跳过战斗 + 基础术攻击力最大（绑定）",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Skip Battle + Max Base Arte Def (Bind)",
+      "name": "Skip Battle + Max Base Arte Def (Bind) | 跳过战斗 + 基础术防御力最大（绑定）",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Skip Battle + Max Base Focus (Bind)",
+      "name": "Skip Battle + Max Base Focus (Bind) | 跳过战斗 + 基础集中力最大（绑定）",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Skip Battle only",
+      "name": "Skip Battle only | 仅跳过战斗",
       "type": "checkbox",
       "memory": [
         {
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "name": "Max Lvl",
+      "name": "Max Lvl | 满级",
       "type": "checkbox",
       "memory": [
         {
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "name": "Unlimited Tales coins (get / spend)",
+      "name": "Unlimited Tales coins (get / spend) | 无限传说硬币（获取/消费）",
       "type": "checkbox",
       "memory": [
         {
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": "Blast Gauge (Open any Battle menu)",
+      "name": "Blast Gauge (Open any Battle menu) | 烈焰槽（打开任意战斗菜单）",
       "type": "checkbox",
       "memory": [
         {

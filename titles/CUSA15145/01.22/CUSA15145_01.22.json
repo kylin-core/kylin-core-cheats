@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / Super / Easy Win (Master Code)",
+      "name": "Health / Super / Easy Win (Master Code) | 生命/大招/轻松获胜（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Easy Win (MC)",
+      "name": "Easy Win (MC) | 轻松获胜（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Super On Use (MC)-1",
+      "name": "Max Super On Use (MC)-1 | 使用后大招满格（主代码）-1",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Enemy Super 0 On Use (MC)-2",
+      "name": "Enemy Super 0 On Use (MC)-2 | 使用后敌方大招归零（主代码）-2",
       "type": "checkbox",
       "memory": [
         {

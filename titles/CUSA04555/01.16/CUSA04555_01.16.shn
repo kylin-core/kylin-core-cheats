@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DEAD OR ALIVE Xtreme 3 Fortune" Moder="TLH" Cusa="CUSA04555" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 金钱最大值">
         <Cheatline>
             <Offset>385F2B</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>0F-4E-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP">
+    <Cheat Text="Max XP | 经验值最大值">
         <Cheatline>
             <Offset>87F800</Offset>
             <Section>0</Section>

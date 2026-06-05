@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LEGO® Jurassic World™" Moder="Reddevil82 " Cusa="CUSA01519" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Hearts">
+    <Cheat Text="Max Hearts | 最大生命值">
         <Cheatline>
             <Offset>1DBBDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Studs ( on gain )">
+    <Cheat Text="Max Studs ( on gain ) | 最大螺柱（获得时）">
         <Cheatline>
             <Offset>1DBBDD9</Offset>
             <Section>0</Section>

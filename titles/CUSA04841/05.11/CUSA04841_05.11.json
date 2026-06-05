@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf. Run Stamina",
+      "name": "Inf. Run Stamina | 无限奔跑体力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf. Life Support",
+      "name": "Inf. Life Support | 无限生命维持",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Scan No Wait Time",
+      "name": "Scan No Wait Time | 扫描无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf. JetPack",
+      "name": "Inf. JetPack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf. Water JetPack",
+      "name": "Inf. Water JetPack | 无限水下喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Item 999 On Get",
+      "name": "Item 999 On Get | 获取物品即得999",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Inf. Boltcaster Ammo",
+      "name": "Inf. Boltcaster Ammo | 无限螺栓发射器弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Splitting, Base Construct  and Selling Dont Cosume Item (Disable all other cheats before using)",
+      "name": "Splitting, Base Construct and Selling Dont Cosume Item (Disable all other cheats before using) | 拆分、建造与出售不消耗物品（使用前请禁用所有其他修改）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Splitting Duplicate Item (Splitting Dont Cosume Code Must Be On)",
+      "name": "Splitting Duplicate Item (Splitting Dont Cosume Code Must Be On) | 拆分复制物品（需开启拆分不消耗代码）",
       "type": "checkbox",
       "memory": [
         {

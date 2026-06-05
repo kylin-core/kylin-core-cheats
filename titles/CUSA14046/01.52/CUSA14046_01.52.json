@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "((Activate Cheats Only On Character Screen))",
+      "name": "((Activate Cheats Only On Character Screen)) | ((仅在角色界面激活作弊))",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Helth / 1 Hit Kill (Master Code)",
+      "name": "Inf Helth / 1 Hit Kill (Master Code) | 无限生命/一击必杀 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Stamina / Ammo (Master Code)",
+      "name": "Stamina / Ammo (Master Code) | 耐力/弹药 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Ammo (MC) ",
+      "name": "Ammo (MC) | 弹药 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Coins / Melee Energy (Master Code)",
+      "name": "Coins / Melee Energy (Master Code) | 硬币/近战能量 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Melee Energy (MC)",
+      "name": "Melee Energy (MC) | 近战能量 (MC)",
       "type": "checkbox",
       "memory": [
         {

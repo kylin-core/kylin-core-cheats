@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghost of Tsushima" Moder="Wander_9.00" Cusa="CUSA13323" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Arrows/Resources/Supplies/Flowers (99999)">
+    <Cheat Text="Max Arrows/Resources/Supplies/Flowers (99999) | 最大箭矢/资源/补给/花朵 (99999)">
         <Cheatline>
             <Offset>7FC5E830</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Resolve">
+    <Cheat Text="Infinite Resolve | 无限决心">
         <Cheatline>
             <Offset>7FC5FE00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points (must have 1 point)">
+    <Cheat Text="Infinite Skill Points (must have 1 point) | 无限技能点（需拥有1点）">
         <Cheatline>
             <Offset>7FC5F5E0</Offset>
             <Section>0</Section>

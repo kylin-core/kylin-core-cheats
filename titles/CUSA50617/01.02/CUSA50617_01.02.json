@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "For the complete trainer, visit our discord server (Team Reaper). Invite: https://discord.gg/yrxdxSPZmH ",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "God Mode",
-      "description": "",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {

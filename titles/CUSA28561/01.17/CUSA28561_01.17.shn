@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Forbidden West" Moder="Celogamez_9.00" Cusa="CUSA28561" Version="01.17" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC5FC70</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="OneHit Kills">
+    <Cheat Text="OneHit Kills | 一击必杀">
         <Cheatline>
             <Offset>7FC5FB00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="TwoHit Kills">
+    <Cheat Text="TwoHit Kills | 二击必杀">
         <Cheatline>
             <Offset>7FC5FB00</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Damage x2">
+    <Cheat Text="Damage x2 | 伤害x2">
         <Cheatline>
             <Offset>7FC5FB00</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Aim Focus">
+    <Cheat Text="Infinite Aim Focus | 无限瞄准专注">
         <Cheatline>
             <Offset>7FC5F960</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath">
+    <Cheat Text="Infinite Breath | 无限呼吸">
         <Cheatline>
             <Offset>7FC5FFC0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite All Items/Resources">
+    <Cheat Text="Max Infinite All Items/Resources | 无限全物品/资源">
         <Cheatline>
             <Offset>7FC5FE20</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Skill Points">
+    <Cheat Text="Max Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>1F6A178</Offset>
             <Section>0</Section>

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Life And Exp",
-      "description": "",
+      "name": "Inf Life And Exp | 无限生命与经验",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "description": "",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
-      "description": "",
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Immunity",
+      "name": "Infinite Immunity | 无限免疫",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Items Multiplier(Turn Off After Use)",
+      "name": "Items Multiplier(Turn Off After Use) | 物品倍率（使用后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": " Infinite Items Usage",
+      "name": "Infinite Items Usage | 无限物品使用",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables Usage",
+      "name": "Infinite Consumables Usage | 无限消耗品使用",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Money Multiplier",
+      "name": "Money Multiplier | 金钱倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Infinite Melee Durability (Do Not Use with Dev Menu)",
+      "name": "Infinite Melee Durability (Do Not Use with Dev Menu) | 无限近战耐久（请勿与开发者菜单同时使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Experience Parkour/Combat Inhabitor Multiplier",
+      "name": "Experience Parkour/Combat Inhabitor Multiplier | 跑酷/战斗经验抑制剂倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {

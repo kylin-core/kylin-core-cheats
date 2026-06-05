@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Fallout 4" Moder="Talixme" Cusa="CUSA03450" Version="01.20" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>AB7D26</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-D3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x2 Item Each use (Use and deactivate)">
+    <Cheat Text="x2 Item Each use (Use and deactivate) | 每次使用双倍物品（启用后关闭）">
         <Cheatline>
             <Offset>109491</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-4A-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="256 Skill Points (After one use)">
+    <Cheat Text="256 Skill Points (After one use) | 256技能点数（使用一次后）">
         <Cheatline>
             <Offset>AF5D21</Offset>
             <Section>0</Section>

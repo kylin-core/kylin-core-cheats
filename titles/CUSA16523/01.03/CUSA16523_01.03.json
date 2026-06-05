@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Bones (on spend/gain)",
+      "name": "Max Bones (on spend/gain) | 最大骨量（消耗/获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Coins (on sell/buy)",
+      "name": "Max Coins (on sell/buy) | 最大金币（出售/购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max items (on use/sell)",
+      "name": "Max items (on use/sell) | 最大物品（使用/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Minimum Bad luck",
+      "name": "Minimum Bad luck | 最小厄运",
       "type": "checkbox",
       "memory": [
         {

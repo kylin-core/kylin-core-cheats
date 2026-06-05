@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Skill Points",
+      "name": "Max Skill Points | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max XP Level ( on gain )",
+      "name": "Max XP Level ( on gain ) | 最大经验等级（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Zero Weight ( must be activated )",
+      "name": "Zero Weight ( must be activated ) | 零负重（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( on use )",
+      "name": "Max Ammo ( on use ) | 最大弹药（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Items ( on gain or use )",
+      "name": "Max Items ( on gain or use ) | 最大物品（获得或使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Max Skills",
+      "name": "Max Skills | 最大技能",
       "type": "checkbox",
       "memory": [
         {

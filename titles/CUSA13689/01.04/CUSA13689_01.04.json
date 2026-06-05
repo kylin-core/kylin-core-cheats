@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Weapon Durability (%100)",
+      "name": "Weapon Durability (%100) | 武器耐久度 (100%)",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / No Reload",
+      "name": "Infinite Ammo / No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Skill Points 99 (on Spend)",
+      "name": "Skill Points 99 (on Spend) | 技能点99（加点时）",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Perks Points 99 (on Spend)",
+      "name": "Perks Points 99 (on Spend) | 特长点99（加点时）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Fast Lvl Up / XP",
+      "name": "Fast Lvl Up / XP | 快速升级/经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max All (on Spend)",
+      "name": "Max All (on Spend) | 全部最大化（加点时）",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Weight 0 (on Pick)",
+      "name": "Weight 0 (on Pick) | 重量0（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Weight 0 (on Drop)",
+      "name": "Weight 0 (on Drop) | 重量0（丢弃时）",
       "type": "checkbox",
       "memory": [
         {

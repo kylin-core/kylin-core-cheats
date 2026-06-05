@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit kill (Master Code)",
+      "name": "Infinite Health/1 Hit kill (Master Code) | 无限生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Activate After Killing The First Zombie)",
+      "name": "1 Hit Kill (Activate After Killing The First Zombie) | 一击必杀（击杀第一只僵尸后激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Medkits Don't Decrease",
+      "name": "Medkits Don't Decrease | 医疗包不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Weapons Durability",
+      "name": "Infinite Weapons Durability | 武器无限耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max Items On Gain (x2 To Work)",
+      "name": "Max Items On Gain (x2 To Work) | 获取物品最大化（需x2生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Money On Sell (Sell N Disable)",
+      "name": "Max Money On Sell (Sell N Disable) | 出售金钱最大化（出售后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Fury On Kill",
+      "name": "Max/Infinite Fury On Kill | 击杀获得最大/无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blood-Rayne-Betrayal.Fresh.Bites" Moder="Ali-mk" Cusa="CUSA26608" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>F1446</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-45-C7-0C-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Weapon">
+    <Cheat Text="Infinite-Weapon | 无限武器">
         <Cheatline>
             <Offset>E9F29</Offset>
             <Section>0</Section>

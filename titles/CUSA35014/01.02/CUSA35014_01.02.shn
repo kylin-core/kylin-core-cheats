@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MOONSCARS" Moder="fqzx123" Cusa="CUSA35014" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>80EE204F</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-7C-8E-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="InfSkill">
+    <Cheat Text="InfSkill | 无限技能">
         <Cheatline>
             <Offset>81A68FA6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-15-DD-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="InfBoneSand">
+    <Cheat Text="InfBoneSand | 无限骨砂">
         <Cheatline>
             <Offset>194B400</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="InfGland">
+    <Cheat Text="InfGland | 无限腺体">
         <Cheatline>
             <Offset>194B41F</Offset>
             <Section>0</Section>

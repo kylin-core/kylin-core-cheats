@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[00] Master Code (MUST BE ON!!!)",
+      "name": "[00] Master Code (MUST BE ON!!!) | 主代码（必须开启！！！）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "[01] Infinite HP",
+      "name": "[01] Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "[02] Infinite SP",
+      "name": "[02] Infinite SP | 无限技能值",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "[03] 1 Hit Kill (The Purple Death)",
+      "name": "[03] 1 Hit Kill (The Purple Death) | 一击必杀（紫色死神）",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "[04] Player`s Speed x3",
+      "name": "[04] Player`s Speed x3 | 玩家速度x3",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "[05] Player`s Megajump",
+      "name": "[05] Player`s Megajump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "[06] Player`s Weapons SuperDAMAGE",
+      "name": "[06] Player`s Weapons SuperDAMAGE | 武器超级伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "[07] Player`s Weapons SuperSIZE",
+      "name": "[07] Player`s Weapons SuperSIZE | 武器超级尺寸",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "[08] 5 Keys",
+      "name": "[08] 5 Keys | 5把钥匙",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "[09] Infinite Coins (Starts At 66.666)",
+      "name": "[09] Infinite Coins (Starts At 66.666) | 无限金币（从66.666开始）",
       "type": "checkbox",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "[10a] Sets and Stops At 1st Day 00:00 AM (Night)",
+      "name": "[10a] Sets and Stops At 1st Day 00:00 AM (Night) | 锁定并停止在第一天午夜0点（夜晚）",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "[10b] Sets and Stops At 1st Day 12:00 PM (Daylight)",
+      "name": "[10b] Sets and Stops At 1st Day 12:00 PM (Daylight) | 锁定并停止在第一天正午12点（白昼）",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "[11] NME Don`t Attack",
+      "name": "[11] NME Don`t Attack | 敌人不攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "[12] NME Don`t Walk/Run",
+      "name": "[12] NME Don`t Walk/Run | 敌人不移动/奔跑",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "[13] Press L3 To Zoom In/Out (12 Steps)",
+      "name": "[13] Press L3 To Zoom In/Out (12 Steps) | 按L3拉近/拉远视角（12级）",
       "type": "checkbox",
       "memory": [
         {
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "name": "[14] Game Speed x2 (ON/OFF + Up Arrow Menu)",
+      "name": "[14] Game Speed x2 (ON/OFF + Up Arrow Menu) | 游戏速度x2（开启/关闭 + 上箭头菜单）",
       "type": "checkbox",
       "memory": [
         {

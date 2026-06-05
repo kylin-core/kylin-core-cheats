@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlimited QP (get 1 qp time quest) + 99 items use / sell",
+      "name": "Unlimited QP (get 1 qp time quest) + 99 items use / sell | 无限QP（每次任务获得1点QP）+ 99物品使用/出售",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Unlimited Gil on Shop buy / sell",
+      "name": "Unlimited Gil on Shop buy / sell | 商店无限金币购买/出售",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Unlimited AP get / spend",
+      "name": "Unlimited AP get / spend | 无限AP获取/消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Level",
+      "name": "Max Level | 最高等级",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Unlimited MP",
+      "name": "Unlimited MP | 无限魔法值",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "1 Max HP (Gray Bar Press Main Menu)",
+      "name": "1 Max HP (Gray Bar Press Main Menu) | 1点最大生命值（灰色条按主菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max HP (Gray Bar Press Main Menu)",
+      "name": "Max HP (Gray Bar Press Main Menu) | 最大生命值（灰色条按主菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Max Status (Base stats cap lvl 99)",
+      "name": "Max Status (Base stats cap lvl 99) | 最大状态（基础属性上限99级）",
       "type": "checkbox",
       "memory": [
         {

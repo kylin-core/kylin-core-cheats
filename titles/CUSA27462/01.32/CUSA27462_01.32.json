@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite First Aid kit",
+      "name": "Infinite First Aid kit | 无限急救包",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No reolad",
+      "name": "Infinite Ammo/No reolad | 无限弹药/无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Currency (on spend)",
+      "name": "Max Currency (on spend) | 最大货币（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables 2 (Turrets and special ammo uses)",
+      "name": "Infinite Consumables 2 (Turrets and special ammo uses) | 无限消耗品2（炮塔与特殊弹药使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables 1 (Turrets and special ammo uses)",
+      "name": "Infinite Consumables 1 (Turrets and special ammo uses) | 无限消耗品1（炮塔与特殊弹药使用）",
       "type": "checkbox",
       "memory": [
         {

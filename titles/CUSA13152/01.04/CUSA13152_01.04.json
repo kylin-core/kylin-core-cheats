@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Minds Eye",
+      "name": "Infinite Minds Eye | 无限灵视",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Ammo (99)",
+      "name": "Ammo (99) | 弹药(99)",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Craft Materials (99)",
+      "name": "Craft Materials (99) | 制作材料(99)",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Item Gadget (99)",
+      "name": "Item Gadget (99) | 道具装备(99)",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Experience 99k (on get)",
+      "name": "Experience 99k (on get) | 经验99K(获取时)",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Knowledge Points (50)",
+      "name": "Knowledge Points (50) | 知识点数(50)",
       "type": "checkbox",
       "memory": [
         {

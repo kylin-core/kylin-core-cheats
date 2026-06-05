@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-Ki",
+      "name": "Infinite-Ki | 无限气力",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "MAX-Points-1-buy",
+      "name": "MAX-Points-1-buy | 1点购买最大点数",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "one-Hit-Kill",
+      "name": "one-Hit-Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

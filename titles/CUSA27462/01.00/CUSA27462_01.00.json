@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Player Only) / Master Code",
+      "name": "Infinite Health (Player Only) / Master Code | 无限生命（仅玩家）/ 主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Ammo / No Reload",
+      "name": "Max Ammo / No Reload | 无限弹药 / 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Currency (9999999)",
+      "name": "Max Currency (9999999) | 最大货币（9999999）",
       "type": "checkbox",
       "memory": [
         {

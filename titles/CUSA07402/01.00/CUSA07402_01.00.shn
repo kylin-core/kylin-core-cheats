@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crash Bandicoot N Sane Trilogy" Moder="Ali-mk" Cusa="CUSA07402" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="god-mode">
+    <Cheat Text="god-mode | 上帝模式">
         <Cheatline>
             <Offset>1FD05E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-7D-0E-B6-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-lives">
+    <Cheat Text="MAX-lives | 最大生命数">
         <Cheatline>
             <Offset>23EB813</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-lives">
+    <Cheat Text="Infinite-lives | 无限生命">
         <Cheatline>
             <Offset>1CF254</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-89-76-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-MASK">
+    <Cheat Text="Infinite-MASK | 无限面具">
         <Cheatline>
             <Offset>1FCD63</Offset>
             <Section>0</Section>

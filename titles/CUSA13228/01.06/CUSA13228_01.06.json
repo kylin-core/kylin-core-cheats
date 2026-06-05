@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health",
+      "name": "Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (no Reload)",
+      "name": "Infinite Ammo (no Reload) | 无限弹药（无需装弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "X3 Speed",
+      "name": "X3 Speed | 3倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "X4 Speed",
+      "name": "X4 Speed | 4倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "X6 Speed",
+      "name": "X6 Speed | 6倍速度",
       "type": "checkbox",
       "memory": [
         {

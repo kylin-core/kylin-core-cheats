@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health (MC)",
-      "description": "Disable it in Javamatic mission until repair mix.r",
+      "name": "Max Health (MC) | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -52,7 +51,7 @@
       ]
     },
     {
-      "name": "One Hit Kill (Enable MC)",
+      "name": "One Hit Kill (Enable MC) | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +67,7 @@
       ]
     },
     {
-      "name": "Max Stamina",
+      "name": "Max Stamina | 最大耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +83,7 @@
       ]
     },
     {
-      "name": "No Thirst",
+      "name": "No Thirst | 无口渴",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +99,7 @@
       ]
     },
     {
-      "name": "No Hungry",
+      "name": "No Hungry | 无饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +115,7 @@
       ]
     },
     {
-      "name": "Max Oxygen",
+      "name": "Max Oxygen | 最大氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +131,7 @@
       ]
     },
     {
-      "name": "Day Time x100 (Enable MC)",
+      "name": "Day Time x100 (Enable MC) | 时间流速x100",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +147,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps (Enable MC)",
+      "name": "Infinite Jumps (Enable MC) | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +163,7 @@
       ]
     },
     {
-      "name": "Hyper Run",
+      "name": "Hyper Run | 超级奔跑",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +179,7 @@
       ]
     },
     {
-      "name": "Hyper Jump",
+      "name": "Hyper Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +195,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -212,7 +211,7 @@
       ]
     },
     {
-      "name": "Max Brain Power lvl 16",
+      "name": "Max Brain Power lvl 16 | 最大脑力等级16",
       "type": "checkbox",
       "memory": [
         {
@@ -228,7 +227,7 @@
       ]
     },
     {
-      "name": "Max Raw Science",
+      "name": "Max Raw Science | 最大原始科学",
       "type": "checkbox",
       "memory": [
         {
@@ -244,7 +243,7 @@
       ]
     },
     {
-      "name": "Max Analyzer Charges",
+      "name": "Max Analyzer Charges | 最大分析仪充能",
       "type": "checkbox",
       "memory": [
         {
@@ -260,7 +259,7 @@
       ]
     },
     {
-      "name": "Infinite Torch",
+      "name": "Infinite Torch | 无限火炬",
       "type": "checkbox",
       "memory": [
         {
@@ -276,7 +275,7 @@
       ]
     },
     {
-      "name": "Max Weapons Health",
+      "name": "Max Weapons Health | 最大武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -292,7 +291,7 @@
       ]
     },
     {
-      "name": "Max Milk Molar/Mega Milk Molar",
+      "name": "Max Milk Molar/Mega Milk Molar | 最大乳牙/巨型乳牙",
       "type": "checkbox",
       "memory": [
         {
@@ -308,8 +307,7 @@
       ]
     },
     {
-      "name": "Max Mutations",
-      "description": "Triggered when a mutation is activated",
+      "name": "Max Mutations | 最大突变",
       "type": "checkbox",
       "memory": [
         {
@@ -325,7 +323,7 @@
       ]
     },
     {
-      "name": "Max Haul",
+      "name": "Max Haul | 最大搬运",
       "type": "checkbox",
       "memory": [
         {
@@ -341,7 +339,7 @@
       ]
     },
     {
-      "name": "Max Bombs",
+      "name": "Max Bombs | 最大炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -357,8 +355,7 @@
       ]
     },
     {
-      "name": "Game Settings (GS)",
-      "description": "To trigger cheats, first activate the desired ones, set up a custom game in the game settings, save the game and reload it",
+      "name": "Game Settings (GS) | 游戏设置",
       "type": "checkbox",
       "memory": [
         {
@@ -374,7 +371,7 @@
       ]
     },
     {
-      "name": "Unlock Recipes (Enable GS)",
+      "name": "Unlock Recipes (Enable GS) | 解锁配方",
       "type": "checkbox",
       "memory": [
         {
@@ -385,7 +382,7 @@
       ]
     },
     {
-      "name": "Free Build (Enable GS)",
+      "name": "Free Build (Enable GS) | 自由建造",
       "type": "checkbox",
       "memory": [
         {
@@ -396,7 +393,7 @@
       ]
     },
     {
-      "name": "Build Integrity (Enable GS)",
+      "name": "Build Integrity (Enable GS) | 建筑完整性",
       "type": "checkbox",
       "memory": [
         {
@@ -407,7 +404,7 @@
       ]
     },
     {
-      "name": "Free Craft (Enable GS)",
+      "name": "Free Craft (Enable GS) | 免费制作",
       "type": "checkbox",
       "memory": [
         {
@@ -418,7 +415,7 @@
       ]
     },
     {
-      "name": "Unlock All Mutations (Enable GS)",
+      "name": "Unlock All Mutations (Enable GS) | 解锁所有突变",
       "type": "checkbox",
       "memory": [
         {
@@ -429,7 +426,7 @@
       ]
     },
     {
-      "name": "Fully Yoked (Enable GS)",
+      "name": "Fully Yoked (Enable GS) | 全属性强化",
       "type": "checkbox",
       "memory": [
         {
@@ -440,7 +437,7 @@
       ]
     },
     {
-      "name": "Handy Gnat (Enable GS)",
+      "name": "Handy Gnat (Enable GS) | 便利蚊虫",
       "type": "checkbox",
       "memory": [
         {
@@ -451,7 +448,7 @@
       ]
     },
     {
-      "name": "Respawn Backpack with You (Enable GS)",
+      "name": "Respawn Backpack with You (Enable GS) | 背包随你重生",
       "type": "checkbox",
       "memory": [
         {

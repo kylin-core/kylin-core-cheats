@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Fast Exp/Leveling",
-      "hint": null,
+      "name": "Fast Exp/Leveling | 快速经验/升级",
       "type": "checkbox",
       "memory": [
         {

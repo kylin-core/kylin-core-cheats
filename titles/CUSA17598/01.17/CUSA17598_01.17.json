@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite AP",
+      "name": "Infinite AP | 无限行动点",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets",
+      "name": "Infinite Bullets | 无限子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Stop Decreasing Durability",
+      "name": "Stop Decreasing Durability | 耐久度不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "99 Basic Items get / spend / transfer",
+      "name": "99 Basic Items get / spend / transfer | 99基本物品 获取/消耗/转移",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "99 Items get / drop / transfer (wep/utility/etc)",
+      "name": "99 Items get / drop / transfer (wep/utility/etc) | 99物品 获取/丢弃/转移（武器/道具等）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Money (Master Code)",
+      "name": "Money (Master Code) | 金钱（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Nimp Relics (MC1)",
+      "name": "Nimp Relics (MC1) | 宁普遗物（子代码1）",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Golden Aces of Spades (Need MC and MC1)",
+      "name": "Golden Aces of Spades (Need MC and MC1) | 金色黑桃A（需要主代码和子代码1）",
       "type": "checkbox",
       "memory": [
         {

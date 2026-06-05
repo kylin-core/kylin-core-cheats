@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Exceed Gauge (Gain for Max)",
+      "name": "Infinite Exceed Gauge (Gain for Max) | 无限极限槽（获取即满）",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infinite Lives",
+      "name": "Infinite Lives | 无限生命数",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max EXP on Kill",
+      "name": "Max EXP on Kill | 击杀获得最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max LVL on LVL Up",
+      "name": "Max LVL on LVL Up | 升级时达到最高等级",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max EN Points on Spend",
+      "name": "Max EN Points on Spend | 消耗时能源点满值",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max All Current Materials",
+      "name": "Max All Current Materials | 当前所有材料最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "x2 Materials on Buy",
+      "name": "x2 Materials on Buy | 购买材料翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Freeze Counteroffensive Timer",
+      "name": "Freeze Counteroffensive Timer | 冻结反击计时器",
       "type": "checkbox",
       "memory": [
         {

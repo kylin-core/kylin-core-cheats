@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Skills Instant Cooldown",
+      "name": "Skills Instant Cooldown | 技能瞬间冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Power focus",
+      "name": "Infinite Power focus | 无限能量专注",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "max itmes and Resources",
+      "name": "max itmes and Resources | 最大物品与资源",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite skills",
+      "name": "Infinite skills | 无限技能",
       "type": "checkbox",
       "memory": [
         {

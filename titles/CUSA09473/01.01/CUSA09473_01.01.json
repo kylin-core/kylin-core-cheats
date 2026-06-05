@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "INF.Ammo No Reload",
+      "name": "INF.Ammo No Reload | 无限弹药无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "INF.Items Spawn",
+      "name": "INF.Items Spawn | 无限道具生成",
       "type": "checkbox",
       "memory": [
         {

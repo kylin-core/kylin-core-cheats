@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Level After Battle",
+      "name": "Max Level After Battle | 战斗后满级",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限HP",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite ATB",
+      "name": "Infinite ATB | 无限ATB",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Full+Infinte ATB",
+      "name": "Full+Infinte ATB | 满ATB+无限ATB",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Infinite Gil",
+      "name": "Infinite Gil | 无限吉尔",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Infinite Items On Sell | Works on Key Items",
+      "name": "Infinite Items On Sell | Works on Key Items | 出售物品无限 | 对关键道具有效",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Gain Items on Sell | Works on Key Items",
+      "name": "Gain Items on Sell | Works on Key Items | 出售获得物品 | 对关键道具有效",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Infinite Moogle Medals | Turn Off When You're Done",
+      "name": "Infinite Moogle Medals | Turn Off When You're Done | 无限莫古力奖牌 | 完成后关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Doubles Moogle Medals On Spend | Turn Off When You're Done",
+      "name": "Doubles Moogle Medals On Spend | Turn Off When You're Done | 消耗莫古力奖牌翻倍 | 完成后关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Max Moogle Medals On Spend | Turn Off When You're Done ",
+      "name": "Max Moogle Medals On Spend | Turn Off When You're Done | 消耗莫古力奖牌最大 | 完成后关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -143,6 +143,6 @@
     }
   ],
   "credits": [
-    "GameX2 & DanteClaus"
+    "GameX2 \u0026 DanteClaus"
   ]
 }

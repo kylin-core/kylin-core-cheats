@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted The Lost Legacy" Moder="hejran7" Cusa="CUSA07875" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Dev Menu = L3 + L Touch Pad">
+    <Cheat Text="Dev Menu = L3 + L Touch Pad | 开发者菜单 = 左摇杆按下 + 触摸板左键">
         <Cheatline>
             <Offset>1FDD35</Offset>
             <Section>0</Section>

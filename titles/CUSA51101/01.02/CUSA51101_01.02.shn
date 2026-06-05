@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Terminator 2D: NO FATE" Moder="Saso" Cusa="CUSA51101" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Untouchables">
+    <Cheat Text="Untouchables | 无敌状态">
         <Cheatline>
             <Offset>819CB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>80E17ACE</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-8B-94-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Grenades">
+    <Cheat Text="Inf Grenades | 无限手雷">
         <Cheatline>
             <Offset>80E18A40</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>80DE6433</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>45-29-E7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Special Weapons">
+    <Cheat Text="Inf Special Weapons | 无限特殊武器">
         <Cheatline>
             <Offset>80E10263</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Continues">
+    <Cheat Text="Inf Continues | 无限续关">
         <Cheatline>
             <Offset>80FD5B7D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>FF-88-A0-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf  Mission Time">
+    <Cheat Text="Inf Mission Time | 无限任务时间">
         <Cheatline>
             <Offset>80F1764C</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FB-10-49-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Vehicle HP">
+    <Cheat Text="Inf Vehicle HP | 无限载具血量">
         <Cheatline>
             <Offset>80E296EC</Offset>
             <Section>0</Section>

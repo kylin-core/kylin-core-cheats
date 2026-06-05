@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aragami 2" Moder="Reddevil82 " Cusa="CUSA23443" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode Stamina ( must be activated )">
+    <Cheat Text="Mastercode Stamina ( must be activated ) | 体力主控代码（必须激活）">
         <Cheatline>
             <Offset>19D3DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>19D3DDB</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina [MC]">
+    <Cheat Text="Infinite Stamina [MC] | 无限体力[主控]">
         <Cheatline>
             <Offset>19D3DB9</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-80-B8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Stamina Enemies [MC]">
+    <Cheat Text="No Stamina Enemies [MC] | 敌人无体力[主控]">
         <Cheatline>
             <Offset>19D3DC6</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-80-B8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>19D3E09</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth Mode">
+    <Cheat Text="Stealth Mode | 潜行模式">
         <Cheatline>
             <Offset>19D3E30</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Ability Cooldown">
+    <Cheat Text="No Ability Cooldown | 技能无冷却">
         <Cheatline>
             <Offset>19D3E16</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items ( on gain )">
+    <Cheat Text="Max Items ( on gain ) | 最大物品（获取时）">
         <Cheatline>
             <Offset>19D3E25</Offset>
             <Section>0</Section>

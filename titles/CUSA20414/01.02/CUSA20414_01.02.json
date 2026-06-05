@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Items Multiply On Sell(sell 1)",
+      "name": "Items Multiply On Sell(sell 1) | 出售物品时数量倍增（出售1个）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Money Multiplier When Fighting Monsters",
+      "name": "Money Multiplier When Fighting Monsters | 战斗时金钱倍率",
       "type": "checkbox",
       "memory": [
         {

@@ -3,22 +3,9 @@
   "id": "CUSA16163",
   "version": "01.01",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "DE0597",
-        "on": "89888401000050B8103D4E02678B0083F802750FA3004000000000000058E945F6C5FF83F8047509A3004000000000000058E931F6C5FF"
-      },
-      {
-        "offset": "A3FBF9",
-        "on": "E999093A0090"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "Max Inf HP",
+      "name": "Max Inf HP | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -34,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf NPC HP",
+      "name": "Inf NPC HP | 无限NPC血量",
       "type": "checkbox",
       "memory": [
         {
@@ -45,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -56,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf 1st Jump",
+      "name": "Inf 1st Jump | 无限一段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -67,7 +54,7 @@
       ]
     },
     {
-      "name": "Inf 2nd Jump",
+      "name": "Inf 2nd Jump | 无限二段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -78,7 +65,7 @@
       ]
     },
     {
-      "name": "Max Inf Halos",
+      "name": "Max Inf Halos | 光环无限最大",
       "type": "checkbox",
       "memory": [
         {
@@ -94,7 +81,7 @@
       ]
     },
     {
-      "name": "Arcade Inf Bullets",
+      "name": "Arcade Inf Bullets | 街机模式无限子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +92,7 @@
       ]
     },
     {
-      "name": "Arcade Max Score",
+      "name": "Arcade Max Score | 街机模式最高分",
       "type": "checkbox",
       "memory": [
         {
@@ -121,7 +108,7 @@
       ]
     },
     {
-      "name": "Always Max Magic",
+      "name": "Always Max Magic | 魔力始终全满",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +124,7 @@
       ]
     },
     {
-      "name": "Inf Witch Time Always On",
+      "name": "Inf Witch Time Always On | 魔女时间永久开启",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +135,7 @@
       ]
     },
     {
-      "name": "Inf Witch Time when Get",
+      "name": "Inf Witch Time when Get | 触发魔女时间后无限持续",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +151,7 @@
       ]
     },
     {
-      "name": "Witch Time L3 On R3 Off",
+      "name": "Witch Time L3 On R3 Off | L3开启魔女时间 R3关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +167,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Durability",
+      "name": "Inf Weapon Durability | 武器无限耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +183,7 @@
       ]
     },
     {
-      "name": "Freeze Countdown Timer",
+      "name": "Freeze Countdown Timer | 倒计时冻结",
       "type": "checkbox",
       "memory": [
         {
@@ -212,7 +199,7 @@
       ]
     },
     {
-      "name": "Death Counter Always 0",
+      "name": "Death Counter Always 0 | 死亡计数始终为0",
       "type": "checkbox",
       "memory": [
         {
@@ -248,7 +235,7 @@
       ]
     },
     {
-      "name": "Craft Items WO Material",
+      "name": "Craft Items WO Material | 无需材料即可制作道具",
       "type": "checkbox",
       "memory": [
         {
@@ -264,7 +251,7 @@
       ]
     },
     {
-      "name": "Enemies Inf HP For Training",
+      "name": "Enemies Inf HP For Training | 敌人无限血量用于训练",
       "type": "checkbox",
       "memory": [
         {
@@ -275,7 +262,7 @@
       ]
     },
     {
-      "name": "Result No Damage Taken",
+      "name": "Result No Damage Taken | 结算无受伤记录",
       "type": "checkbox",
       "memory": [
         {
@@ -286,7 +273,7 @@
       ]
     },
     {
-      "name": "Chapter No Damages Taken",
+      "name": "Chapter No Damages Taken | 章节无受伤记录",
       "type": "checkbox",
       "memory": [
         {
@@ -297,7 +284,7 @@
       ]
     },
     {
-      "name": "Result 0:00.00 Time Cleared",
+      "name": "Result 0:00.00 Time Cleared | 结算通关时间00:00.00",
       "type": "checkbox",
       "memory": [
         {
@@ -308,7 +295,7 @@
       ]
     },
     {
-      "name": "Chapter 0:00.00 Time Cleared ",
+      "name": "Chapter 0:00.00 Time Cleared | 章节通关时间00:00.00",
       "type": "checkbox",
       "memory": [
         {
@@ -319,7 +306,7 @@
       ]
     },
     {
-      "name": "Combos Multiplier x99",
+      "name": "Combos Multiplier x99 | 连击倍率x99",
       "type": "checkbox",
       "memory": [
         {
@@ -335,7 +322,7 @@
       ]
     },
     {
-      "name": "Result Max 999,999 Combos",
+      "name": "Result Max 999,999 Combos | 结算最高连击999,999",
       "type": "checkbox",
       "memory": [
         {
@@ -351,7 +338,7 @@
       ]
     },
     {
-      "name": "Chapter Max 9,999,999 Combos",
+      "name": "Chapter Max 9,999,999 Combos | 章节最高连击9,999,999",
       "type": "checkbox",
       "memory": [
         {
@@ -367,7 +354,7 @@
       ]
     },
     {
-      "name": "Megatons Gigatons Easy Max",
+      "name": "Megatons Gigatons Easy Max | 兆吨级吉吨级轻松满级",
       "type": "checkbox",
       "memory": [
         {
@@ -388,7 +375,7 @@
       ]
     },
     {
-      "name": "Megatons Gigatons Extra Time",
+      "name": "Megatons Gigatons Extra Time | 兆吨级吉吨级额外时间",
       "type": "checkbox",
       "memory": [
         {
@@ -399,7 +386,7 @@
       ]
     },
     {
-      "name": "Alfheim 0 Damage Taken",
+      "name": "Alfheim 0 Damage Taken | 阿尔海姆无受伤",
       "type": "checkbox",
       "memory": [
         {
@@ -410,7 +397,7 @@
       ]
     },
     {
-      "name": "Alfheim Always Full HP",
+      "name": "Alfheim Always Full HP | 阿尔海姆血量始终全满",
       "type": "checkbox",
       "memory": [
         {
@@ -421,7 +408,7 @@
       ]
     },
     {
-      "name": "Unlock Sai Fung for Completing 100 Chapters",
+      "name": "Unlock Sai Fung for Completing 100 Chapters | 完成100章解锁彩凤",
       "type": "checkbox",
       "memory": [
         {
@@ -437,7 +424,7 @@
       ]
     },
     {
-      "name": "Megatons Gigatons Easy Max",
+      "name": "Megatons Gigatons Easy Max | 兆吨级吉吨级轻松满级",
       "type": "checkbox",
       "memory": [
         {
@@ -448,7 +435,7 @@
       ]
     },
     {
-      "name": "Max Halos Earned Max Halos Must Be On",
+      "name": "Max Halos Earned Max Halos Must Be On | 光环最大获得量 光环上限必须开启",
       "type": "checkbox",
       "memory": [
         {
@@ -459,7 +446,7 @@
       ]
     },
     {
-      "name": "Character Scaling 0.75",
+      "name": "Character Scaling 0.75 | 角色缩放0.75倍",
       "type": "checkbox",
       "memory": [
         {
@@ -475,7 +462,7 @@
       ]
     },
     {
-      "name": "Character Scaling 1.25",
+      "name": "Character Scaling 1.25 | 角色缩放1.25倍",
       "type": "checkbox",
       "memory": [
         {
@@ -491,7 +478,7 @@
       ]
     },
     {
-      "name": "Character Scaling 1.50",
+      "name": "Character Scaling 1.50 | 角色缩放1.50倍",
       "type": "checkbox",
       "memory": [
         {
@@ -507,7 +494,7 @@
       ]
     },
     {
-      "name": "Character Scaling 2.00",
+      "name": "Character Scaling 2.00 | 角色缩放2.00倍",
       "type": "checkbox",
       "memory": [
         {

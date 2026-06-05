@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Elite 4" Moder="x3shakir" Cusa="CUSA04099" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>57F437</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-46-48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>D00C69</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-11-57-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Focus">
+    <Cheat Text="Infinite Focus | 无限专注">
         <Cheatline>
             <Offset>D00952</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C4-C1-7A-11-47-10-C4-C1-7A-11-47-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>C161F5</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-47-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9999 Cash">
+    <Cheat Text="9999 Cash | 9999 现金">
         <Cheatline>
             <Offset>13423C4</Offset>
             <Section>0</Section>

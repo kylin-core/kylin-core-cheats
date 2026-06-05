@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo/Throwables",
+      "name": "Infinite Ammo/Throwables | 无限弹药/投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Hack",
+      "name": "Infinite Hack | 无限骇入",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Earn Money on Spend",
+      "name": "Earn Money on Spend | 消费即赚钱",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Money on Gain/Use",
+      "name": "Max Money on Gain/Use | 获取或使用时金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Followers on 2nd Gain",
+      "name": "Max Followers on 2nd Gain | 第二次获得追随者时最大化",
       "type": "checkbox",
       "memory": [
         {

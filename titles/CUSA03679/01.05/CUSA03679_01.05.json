@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health (Master Code)",
+      "name": "Inf Health (Master Code) | 无限生命（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Opponent Health (25%) (MC)",
+      "name": "Opponent Health (25%) (MC) | 对手生命值（25%）（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Super Meter Bars (Master Code)",
+      "name": "Inf Super Meter Bars (Master Code) | 无限能量条（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Opponent Super Meter Bars (0) (MC)",
+      "name": "Opponent Super Meter Bars (0) (MC) | 对手能量条（0）（主代码）",
       "type": "checkbox",
       "memory": [
         {

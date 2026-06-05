@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Experience (Use Only Once)",
+      "name": "Max Experience (Use Only Once) | 最大经验值（仅使用一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Items/Ammo x99 (on use)",
+      "name": "Items/Ammo x99 (on use) | 物品/弹药x99（使用时生效）",
       "type": "checkbox",
       "memory": [
         {

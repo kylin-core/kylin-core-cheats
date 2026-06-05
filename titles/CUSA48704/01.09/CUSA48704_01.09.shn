@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LOLLIPOP CHAINSAW RePOP" Moder="Saso" Cusa="CUSA48704" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP (Juliet)">
+    <Cheat Text="Inf HP (Juliet) | 无限生命（朱丽叶）">
         <Cheatline>
             <Offset>525F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf HP (Allies) / 1HK (Master Code)">
+    <Cheat Text="Inf HP (Allies) / 1HK (Master Code) | 无限生命（友方）/ 一击必杀（主码）">
         <Cheatline>
             <Offset>525F98A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (MC)">
+    <Cheat Text="1 Hit Kill (MC) | 一击必杀（主码）">
         <Cheatline>
             <Offset>525F9D2</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>75-09</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Star Time  (Unlimited Use) / Bullets">
+    <Cheat Text="Star Time  (Unlimited Use) / Bullets | 星星时间（无限使用）/ 子弹">
         <Cheatline>
             <Offset>4E5F85B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Platinum Medals (99) / On Spend">
+    <Cheat Text="Platinum Medals (99) / On Spend | 白金奖牌（99）/ 消费时">
         <Cheatline>
             <Offset>525F970</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gold Medals (9999) /On Spend">
+    <Cheat Text="Gold Medals (9999) /On Spend | 金奖牌（9999）/ 消费时">
         <Cheatline>
             <Offset>525F97D</Offset>
             <Section>0</Section>

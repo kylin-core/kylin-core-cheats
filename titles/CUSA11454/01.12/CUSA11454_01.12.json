@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo ",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "999999 Materials on Use",
+      "name": "999999 Materials on Use | 使用获得999999材料",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Freeze Source Credit",
+      "name": "Freeze Source Credit | 冻结源点信用",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "999999 Source Credit on Use",
+      "name": "999999 Source Credit on Use | 使用获得999999源点信用",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Freeze Abilities Points",
+      "name": "Freeze Abilities Points | 冻结技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "999 Abilities Points on Use",
+      "name": "999 Abilities Points on Use | 使用获得999技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Shared Health!!!",
+      "name": "Shared Health!!! | 共享生命值!!!",
       "type": "checkbox",
       "memory": [
         {

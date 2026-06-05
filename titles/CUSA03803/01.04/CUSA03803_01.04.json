@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code",
-      "description": "",
+      "name": "Master Code | 主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "--Inf_Life",
-      "description": "",
+      "name": "--Inf_Life | --无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "--One_Hit_Kill",
-      "description": "",
+      "name": "--One_Hit_Kill | --一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Inf Special",
-      "description": "",
+      "name": "Inf Special | 无限特殊能力",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Inf Items",
-      "description": "",
+      "name": "Inf Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "Inf Exp",
-      "description": "",
+      "name": "Inf Exp | 无限经验",
       "type": "checkbox",
       "memory": [
         {

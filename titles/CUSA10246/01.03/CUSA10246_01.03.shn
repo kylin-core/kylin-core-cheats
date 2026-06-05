@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CODE VEIN" Moder="DanteClaus" Cusa="CUSA10246" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>113DFA7</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite Haze">
+    <Cheat Text="infinite Haze | 无限雾霭">
         <Cheatline>
             <Offset>11207B4</Offset>
             <Section>0</Section>

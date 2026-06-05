@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Coins (on buy)",
+      "name": "Max Coins (on buy) | 最大金币（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Discipline (on gain)",
+      "name": "Max Discipline (on gain) | 最大职业点（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "All items x5 (on use/sell)",
+      "name": "All items x5 (on use/sell) | 所有物品×5（使用/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Rift Crystals (on gain)",
+      "name": "Max Rift Crystals (on gain) | 最大裂隙水晶（获得时）",
       "type": "checkbox",
       "memory": [
         {

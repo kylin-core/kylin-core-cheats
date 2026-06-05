@@ -5,8 +5,7 @@
   "process": "default_mp.elf",
   "mods": [
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 所有客户端无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "All Client ESP",
-      "hint": null,
+      "name": "All Client ESP | 所有客户端透视显示",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "hint": null,
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -68,8 +64,7 @@
       ]
     },
     {
-      "name": "AFK Aliens",
-      "hint": null,
+      "name": "AFK Aliens | 挂机外星人",
       "type": "checkbox",
       "memory": [
         {
@@ -80,8 +75,7 @@
       ]
     },
     {
-      "name": "Free Teeth Upgrades",
-      "hint": null,
+      "name": "Free Teeth Upgrades | 免费牙齿升级",
       "type": "button",
       "memory": [
         {

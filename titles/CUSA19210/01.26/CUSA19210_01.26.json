@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "infinite Burst ",
+      "name": "infinite Burst | 无限爆发",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Level",
+      "name": "Max Level | 最大等级",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max World Dollar After Gaining",
+      "name": "Max World Dollar After Gaining | 获取后最大世界币",
       "type": "checkbox",
       "memory": [
         {

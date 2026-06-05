@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword Art Online - Lost Song" Moder="TLH" Cusa="CUSA02823" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>2FCDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-F2-5D-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>ADAF7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-F2-5C-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP">
+    <Cheat Text="Infinite AP | 无限AP">
         <Cheatline>
             <Offset>A1D35</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>EEB69</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Yuld">
+    <Cheat Text="Infinite Yuld | 无限尤德">
         <Cheatline>
             <Offset>3CCFC6</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Yuld">
+    <Cheat Text="Max Yuld | 最大尤德">
         <Cheatline>
             <Offset>3CBC48</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-0F-46-C7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>3CC899</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>44-29-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Max XP">
+    <Cheat Text="Instant Max XP | 瞬间满经验">
         <Cheatline>
             <Offset>7055A</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>41-89-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Union Gauge">
+    <Cheat Text="Infinite Union Gauge | 无限联合槽">
         <Cheatline>
             <Offset>304B0A</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Union Gauge">
+    <Cheat Text="Max Union Gauge | 最大联合槽">
         <Cheatline>
             <Offset>EF14D</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-F2-5D-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skills via Menu">
+    <Cheat Text="Max Skills via Menu | 菜单内技能全满">
         <Cheatline>
             <Offset>70376</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Mana",
+      "name": "Infinite Mana | 无限法力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,17 +37,15 @@
       ]
     },
     {
-      "name": "Infinite Katarina/Player skill  points",
+      "name": "Infinite Katarina/Player skill points | 无限卡塔琳娜/玩家技能点",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "2523E00",
           "on": "41C68424780A000063E997C262FE",
           "off": "0000000000000000000000000000"
         },
         {
-          "section": "1",
           "offset": "B5009D",
           "on": "E95E3D9D01909090",
           "off": "41298424780A0000"
@@ -55,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Katarina/Player Ability points",
+      "name": "Infinite Katarina/Player Ability points | 无限卡塔琳娜/玩家能力点",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Coins (on get/buy/sell)",
+      "name": "Max Coins (on get/buy/sell) | 最大金币（获取/购买/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {

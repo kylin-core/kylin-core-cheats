@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Lives ( on gain - lose )",
+      "name": "Max Lives ( on gain - lose ) | 最大生命值（获得/失去时）",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "You get 1 new Life after Coin collect",
+      "name": "You get 1 new Life after Coin collect | 拾取金币后获得一条新生命",
       "type": "checkbox",
       "memory": [
         {

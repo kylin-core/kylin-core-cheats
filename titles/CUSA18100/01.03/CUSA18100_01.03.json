@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health Auto Regenerate (hide 5 Sec)",
+      "name": "Health Auto Regenerate (hide 5 Sec) | 生命自动恢复（5秒隐藏）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Grenades",
+      "name": "Inf Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {

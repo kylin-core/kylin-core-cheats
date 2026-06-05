@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo No Reload",
+      "name": "Infinite Ammo No Reload | 无限弹药无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Bottles (turn off when using Max item cheat",
+      "name": "Infinite Bottles (turn off when using Max item cheat | 无限瓶子（使用最大物品作弊时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Arsenal / Inventory Items (get / spend / open inv)",
+      "name": "Max Arsenal / Inventory Items (get / spend / open inv) | 最大军械库/物品槽（获取/使用/打开物品栏）",
       "type": "checkbox",
       "memory": [
         {

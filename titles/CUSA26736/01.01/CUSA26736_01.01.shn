@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wonder Boy: Asha in Monster World" Moder="Reddevil82 " Cusa="CUSA26736" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Red Hearts">
+    <Cheat Text="Infinite Red Hearts | 无限红心">
         <Cheatline>
             <Offset>18E7E09</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Red Hearts">
+    <Cheat Text="Max Red Hearts | 最大红心">
         <Cheatline>
             <Offset>18E7E1B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Blue Hearts">
+    <Cheat Text="Infinite Blue Hearts | 无限蓝心">
         <Cheatline>
             <Offset>18E7DD3</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Blue Hearts">
+    <Cheat Text="Max Blue Hearts | 最大蓝心">
         <Cheatline>
             <Offset>18E7DF7</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Charge Power">
+    <Cheat Text="Infinite Charge Power | 无限蓄力能量">
         <Cheatline>
             <Offset>18E7E2D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items">
+    <Cheat Text="Max Items | 最大物品数">
         <Cheatline>
             <Offset>18E7E63</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Coins ( on gain )">
+    <Cheat Text="Max Coins ( on gain ) | 最大金币（获得时）">
         <Cheatline>
             <Offset>18E7DB0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>18E7E63</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Difficult [ EASY ]">
+    <Cheat Text="Change Difficult [ EASY ] | 变更难度【简单】">
         <Cheatline>
             <Offset>18E7E3F</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Difficult [ NORMAL ]">
+    <Cheat Text="Change Difficult [ NORMAL ] | 变更难度【普通】">
         <Cheatline>
             <Offset>18E7E51</Offset>
             <Section>0</Section>

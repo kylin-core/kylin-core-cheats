@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 最大/无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Focus",
+      "name": "Max/Infinite Focus | 最大/无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Ressource / Web Shooter",
+      "name": "Infinite Ressource / Web Shooter | 无限资源/蛛网发射器",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "Max EXP/LvL 49",
+      "name": "Max EXP/LvL 49 | 最大经验值/49级",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Skillpoints",
+      "name": "Skillpoints | 技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "99x Combo",
+      "name": "99x Combo | 99倍连击",
       "type": "checkbox",
       "memory": [
         {

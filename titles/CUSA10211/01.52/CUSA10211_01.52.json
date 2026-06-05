@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health + One Hit Kill",
+      "name": "Infinite Health + One Hit Kill | 无限生命 + 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Resource/Shards",
+      "name": "Infinite Resource/Shards | 无限资源/碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "x2 Skill Points",
+      "name": "x2 Skill Points | 双倍技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "No Skill Point Cost",
+      "name": "No Skill Point Cost | 技能点无消耗",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Master Code)",
+      "name": "Infinite Health/1 Hit Kill (Master Code) | 无限生命/秒杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Enable MC)",
+      "name": "Infinite Health (Enable MC) | 无限生命（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 秒杀（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Health Regeneration",
+      "name": "Infinite Health Regeneration | 无限生命恢复",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Weaver Armour",
+      "name": "Max/Infinite Weaver Armour | 最大/无限织盾者护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Items/Shards/Resources On Use/Buy",
+      "name": "Infinite Items/Shards/Resources On Use/Buy | 使用/购买时无限物品/碎片/资源",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Aim Focus",
+      "name": "Infinite Aim Focus | 无限瞄准专注",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Breath (Underwater)",
+      "name": "Infinite Breath (Underwater) | 无限水下呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Max Shards On Buy (Disable After Buy)",
+      "name": "Max Shards On Buy (Disable After Buy) | 购买时最大碎片（购买后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points On Use",
+      "name": "Max/Infinite Skill Points On Use | 使用时最大/无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Stop Time Trial",
+      "name": "Stop Time Trial | 停止限时挑战",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (level Up and fight your first figh)",
+      "name": "Infinite Health (level Up and fight your first figh) | 无限生命（升级并开始第一场战斗）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite AP",
+      "name": "Infinite AP | 无限行动点数",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Coins(on pick up)",
+      "name": "Max Coins(on pick up) | 最大金币（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Items do not decrease Coins is included",
+      "name": "Items do not decrease Coins is included | 物品不减（包含金币）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Talents points",
+      "name": "Talents points | 天赋点数",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Attributes points (Spend and confim and repeat for all points)",
+      "name": "Attributes points (Spend and confim and repeat for all points) | 属性点数（使用并确认，重复操作获得所有点数）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Experience Multiplier",
+      "name": "Experience Multiplier | 经验倍数",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Combats Ability points",
+      "name": "Combats Ability points | 战斗能力点数",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Civil Ability points",
+      "name": "Civil Ability points | 通用能力点数",
       "type": "checkbox",
       "memory": [
         {

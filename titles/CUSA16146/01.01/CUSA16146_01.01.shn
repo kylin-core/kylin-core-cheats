@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Survivalists" Moder="Wander FW9.00" Cusa="CUSA16146" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>72EE6B</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-4B-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Items (on gain optional)">
+    <Cheat Text="99 Items (on gain optional) | 获得物品时99个（可选）">
         <Cheatline>
             <Offset>7FC5E880</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="40 Items (on gain)">
+    <Cheat Text="40 Items (on gain) | 获得物品时40个">
         <Cheatline>
             <Offset>7FC5E880</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="33 Items (on use)">
+    <Cheat Text="33 Items (on use) | 使用物品时33个">
         <Cheatline>
             <Offset>7FC5E8A0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="33 Items(on gain)">
+    <Cheat Text="33 Items (on gain) | 获得物品时33个">
         <Cheatline>
             <Offset>7FC5E880</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max coins (on sell 2 sells)">
+    <Cheat Text="Max coins (on sell 2 sells) | 出售物品时最大金币（出售两个）">
         <Cheatline>
             <Offset>7FC5F560</Offset>
             <Section>0</Section>

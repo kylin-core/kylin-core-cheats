@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Sub Weapon (Pilot)",
+      "name": "Infinite Sub Weapon (Pilot) | 无限副武器（驾驶员）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Counter Bar Refill",
+      "name": "Counter Bar Refill | 反击槽补充",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "All Guns",
+      "name": "All Guns | 全部武器",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "SP Refill (Gaia)",
+      "name": "SP Refill (Gaia) | SP补充（盖亚）",
       "type": "checkbox",
       "memory": [
         {

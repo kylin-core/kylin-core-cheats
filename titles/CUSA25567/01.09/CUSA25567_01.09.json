@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health+Armor (Enable Only When Start A Mission)",
+      "name": "Infinite Health+Armor (Enable Only When Start A Mission) | 无限生命+护甲（仅在任务开始时启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stimms On Use (You Don't Die)",
+      "name": "Infinite Stimms On Use (You Don't Die) | 无限兴奋剂使用（你不会死）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Medkits On Use",
+      "name": "Infinite Medkits On Use | 无限医疗包使用",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "No Wasting Time To Use Mastiff",
+      "name": "No Wasting Time To Use Mastiff | 即用马斯提夫犬（无需等待）",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money",
+      "name": "Max/Infinite Money | 最大/无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Infinite Take down",
+      "name": "Infinite Take down | 无限击倒",
       "type": "checkbox",
       "memory": [
         {

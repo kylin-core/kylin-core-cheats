@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Generation Zero" Moder="GamerX2" Cusa="CUSA14212" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹药">
         <Cheatline>
             <Offset>249B800</Offset>
             <Section>0</Section>

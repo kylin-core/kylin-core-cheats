@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Titanfall™ 2" Moder="TLH" Cusa="CUSA04013" Version="01.13" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>53C6D7</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-29-FB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip / Infinite Grenades">
+    <Cheat Text="Bottomless Clip / Infinite Grenades | 无限弹匣 / 无限手雷">
         <Cheatline>
             <Offset>537B42</Offset>
             <Section>0</Section>

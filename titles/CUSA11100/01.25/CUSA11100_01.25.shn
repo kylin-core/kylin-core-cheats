@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="COD: Black Ops 4" Moder="DeathRGH" Cusa="CUSA11100" Version="01.25" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="All Client Infinite Ammo">
+    <Cheat Text="All Client Infinite Ammo | 所有客户端无限弹药">
         <Cheatline>
             <Offset>1BB015C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-84-8A-24-13-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Client Godmode">
+    <Cheat Text="All Client Godmode | 所有客户端无敌模式">
         <Cheatline>
             <Offset>F9F994</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>43-89-84-01-48-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Points">
+    <Cheat Text="Infinite Points | 无限点数">
         <Cheatline>
             <Offset>12E874D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-89-86-6C-44-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Specialist / Grenades">
+    <Cheat Text="Infinite Specialist / Grenades | 无限专家技能/手雷">
         <Cheatline>
             <Offset>B0D78A</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C4-C1-7A-11-45-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Shield Durability">
+    <Cheat Text="Infinite Shield Durability | 无限护盾耐久度">
         <Cheatline>
             <Offset>1C44852</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>89-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1-Hit Kill">
+    <Cheat Text="1-Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>1A92A6E</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-29-E8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Draw Lobby Debug">
+    <Cheat Text="Draw Lobby Debug | 绘制大厅调试信息">
         <Cheatline>
             <Offset>16B27B7</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-85-A8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Remove Dvar Protections">
+    <Cheat Text="Remove Dvar Protections | 移除Dvar保护">
         <Cheatline>
             <Offset>19B65FE</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>0F-85-6B-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Spoof Lobby ZM">
+    <Cheat Text="Spoof Lobby ZM | 伪装僵尸模式大厅">
         <Cheatline>
             <Offset>4DDAB28</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>40-40-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Spoof Lobby WZ">
+    <Cheat Text="Spoof Lobby WZ | 伪装战争模式大厅">
         <Cheatline>
             <Offset>4DDAB28</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>43-40-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="exec wz default settings.cfg">
+    <Cheat Text="exec wz default settings.cfg | 执行战争模式默认设置配置文件">
         <Cheatline>
             <Offset>B1C22A0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>65-78-65-63-20-67-61-6D-65-64-61-74-61-2F-63-6F-6E-66-69-67-73-2F-77-7A-2F-77-7A-5F-64-65-66-61-75-6C-74-5F-73-65-74-74-69-6E-67-73-2E-63-66-67-0A-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="map wz open skyscrapers">
+    <Cheat Text="map wz open skyscrapers | 加载战争模式地图：摩天大楼">
         <Cheatline>
             <Offset>B1C22A0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>6D-61-70-20-77-7A-5F-6F-70-65-6E-5F-73-6B-79-73-63-72-61-70-65-72-73-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="map wz escape">
+    <Cheat Text="map wz escape | 加载战争模式地图：逃脱">
         <Cheatline>
             <Offset>B1C22A0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>6D-61-70-20-77-7A-5F-65-73-63-61-70-65-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="sv mapname wz open skyscrapers">
+    <Cheat Text="sv mapname wz open skyscrapers | 服务器设置地图名：战争模式摩天大楼">
         <Cheatline>
             <Offset>B1C22A0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>73-76-5F-6D-61-70-6E-61-6D-65-20-77-7A-5F-6F-70-65-6E-5F-73-6B-79-73-63-72-61-70-65-72-73-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="disconnect">
+    <Cheat Text="disconnect | 断开连接">
         <Cheatline>
             <Offset>B1C22A0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>64-69-73-63-6F-6E-6E-65-63-74-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Blackout Step 1">
+    <Cheat Text="Blackout Step 1 | 黑色冲突步骤1">
         <Cheatline>
             <Offset>19B2580</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Blackout Step 2">
+    <Cheat Text="Blackout Step 2 | 黑色冲突步骤2">
         <Cheatline>
             <Offset>F5A830</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Blackout Step 3">
+    <Cheat Text="Blackout Step 3 | 黑色冲突步骤3">
         <Cheatline>
             <Offset>19B2580</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Patch FindXAssetHeader">
+    <Cheat Text="Patch FindXAssetHeader | 修补FindXAssetHeader函数">
         <Cheatline>
             <Offset>11B7358</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health/ Run Stamina/1 Hit  (Master Code)",
+      "name": "Health/ Run Stamina/1 Hit  (Master Code) | 生命/奔跑耐力/一击必杀 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -14,7 +14,6 @@
           "off": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "section": "21",
           "offset": "885B93",
           "on": "E968F7FD809090",
           "off": "488903418A4F06"
@@ -22,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Melee Stamina / Money (Master Code)",
+      "name": "Melee Stamina / Money (Master Code) | 近战耐力/金钱 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Money (MC)",
+      "name": "Max Money (MC) | 最大金钱 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +59,7 @@
       ]
     },
     {
-      "name": "Ammo / No Reload (Primary/ Secondary)",
+      "name": "Ammo / No Reload (Primary/ Secondary) | 弹药/无需装弹 (主/副武器)",
       "type": "checkbox",
       "memory": [
         {

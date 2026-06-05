@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Darksiders Genesis" Moder="Pharaoh (By Saso)" Cusa="CUSA12979" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf health">
+    <Cheat Text="Inf health | 无限生命">
         <Cheatline>
             <Offset>5A47000</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限体力">
         <Cheatline>
             <Offset>5A47100</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Souls">
+    <Cheat Text="Inf Souls | 无限灵魂">
         <Cheatline>
             <Offset>5A471A0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Boatmans Coins">
+    <Cheat Text="Inf Boatmans Coins | 无限船夫币">
         <Cheatline>
             <Offset>6160E9</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Extra Special (On Use)",
+      "name": "Inf Extra Special (On Use) | 无限额外大招（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Plane Extra Special (On Use)",
+      "name": "Inf Plane Extra Special (On Use) | 无限飞机额外大招（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Gold (Enter The Store To Activate)",
+      "name": "Max Gold (Enter The Store To Activate) | 最大金币（进入商店激活）",
       "type": "checkbox",
       "memory": [
         {

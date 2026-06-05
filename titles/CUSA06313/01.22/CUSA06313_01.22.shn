@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sackboy" Moder="AngelDavil88_9.00 Fix 1.22 by Talixme" Cusa="CUSA06313" Version="01.22" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf lives">
+    <Cheat Text="Inf lives | 无限生命">
         <Cheatline>
             <Offset>2315AE6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-8B-64-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x999 Each Orb">
+    <Cheat Text="x999 Each Orb | 每个宝珠x999">
         <Cheatline>
             <Offset>88A02A0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Each golden orb doubles the total (Deactivate after reaching a large sum)">
+    <Cheat Text="Each golden orb doubles the total (Deactivate after reaching a large sum) | 每个金色宝珠使总数加倍（达到大数额后停用）">
         <Cheatline>
             <Offset>22C26C7</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "1 weight",
+      "name": "1 weight | 1重量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Experiences",
+      "name": "Max Experiences | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Caps / All Items Multiplier",
+      "name": "Caps / All Items Multiplier | 瓶盖/所有物品倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "All Items / Caps (do not decrease)",
+      "name": "All Items / Caps (do not decrease) | 所有物品/瓶盖（不减少）",
       "type": "checkbox",
       "memory": [
         {

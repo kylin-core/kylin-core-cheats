@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON) | 无限生命/一击必杀（主代码/必须启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ghost stance",
+      "name": "Infinite Ghost stance | 无限鬼之架势",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Resolve",
+      "name": "Infinite Resolve | 无限决心",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Resources (On Pick Up)",
+      "name": "Infinite Resources (On Pick Up) | 无限资源（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Technique Points",
+      "name": "Infinite Technique Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {

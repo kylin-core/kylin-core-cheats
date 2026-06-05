@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2 Stay Human" Moder="Celogamez" Cusa="CUSA12584" Version="01.41" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>695FDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina/Breath">
+    <Cheat Text="Infinite Stamina/Breath | 无限体力/呼吸">
         <Cheatline>
             <Offset>331902F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-11-44-24-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work)">
+    <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work) | 无限物品/箭矢/制作消耗（需至少2个生效）">
         <Cheatline>
             <Offset>3291C78</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>E8-63-55-AF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables">
+    <Cheat Text="Infinite Throwables | 无限投掷物">
         <Cheatline>
             <Offset>3291F80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E8-5B-52-AF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload Crossbow/Boomstick">
+    <Cheat Text="No Reload Crossbow/Boomstick | 无需装填弩/霰弹枪">
         <Cheatline>
             <Offset>34CF62D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>E8-AE-7B-8B-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapons Durability">
+    <Cheat Text="Infinite Weapons Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>695FB30</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Immunity/Chemical Area">
+    <Cheat Text="Infinite Immunity/Chemical Area | 无限免疫/化学区域">
         <Cheatline>
             <Offset>695F9F0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite UV Flashlight">
+    <Cheat Text="Infinite UV Flashlight | 无限紫外线手电筒">
         <Cheatline>
             <Offset>695FCB0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money">
+    <Cheat Text="Max/Infinite Money | 最大/无限金钱">
         <Cheatline>
             <Offset>695F8A0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Time Missions (Disable B4 Finishing)">
+    <Cheat Text="Freeze Time Missions (Disable B4 Finishing) | 任务时限冻结（完成前禁用）">
         <Cheatline>
             <Offset>3821F78</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-43-78</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP/Level/Inhibitors (Use After Escaping Waltz)">
+    <Cheat Text="Max XP/Level/Inhibitors (Use After Escaping Waltz) | 最大经验/等级/抑制剂（逃离沃尔兹后使用）">
         <Cheatline>
             <Offset>34FF23E</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>49-89-45-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Time For Parkour And Fighting Challenge">
+    <Cheat Text="Freeze Time For Parkour And Fighting Challenge | 跑酷与战斗挑战时限冻结">
         <Cheatline>
             <Offset>695FB90</Offset>
             <Section>0</Section>

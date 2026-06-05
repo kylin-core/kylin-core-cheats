@@ -5,9 +5,8 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health (MC)",
+      "name": "Max Health (MC) | 最大生命值 (MC)",
       "type": "checkbox",
-      "description": "Enable all cheats after the prologue (when you reach Bel-Air)",
       "memory": [
         {
           "offset": "8CA5500",
@@ -22,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 一击必杀 (启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Items/Money",
+      "name": "Max Items/Money | 最大物品/金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Stamina",
+      "name": "Max Stamina | 最大体力",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Weapons Health",
+      "name": "Max Weapons Health | 最大武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Ammo/No Reload",
+      "name": "Max Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +112,7 @@
       ]
     },
     {
-      "name": "Max Fury",
+      "name": "Max Fury | 最大狂怒值",
       "type": "checkbox",
       "memory": [
         {

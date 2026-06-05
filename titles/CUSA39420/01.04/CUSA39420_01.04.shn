@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hollow Knight Silksong" Moder="2pt - Contact on ps4 reaper discord if you have issues" Cusa="CUSA39420" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>84A43800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shell Shards - On Pickup">
+    <Cheat Text="Max Shell Shards - On Pickup | 拾取时最大贝壳碎片">
         <Cheatline>
             <Offset>84A43817</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rosary Beads - On Pickup">
+    <Cheat Text="Max Rosary Beads - On Pickup | 拾取时最大念珠">
         <Cheatline>
             <Offset>84A43828</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fly - Press DPAD UP">
+    <Cheat Text="Fly - Press DPAD UP | 飞行 - 按方向键上">
         <Cheatline>
             <Offset>1E07800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Silk">
+    <Cheat Text="Inf Silk | 无限丝线">
         <Cheatline>
             <Offset>84A43839</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Weapon Consumables">
+    <Cheat Text="Inf Weapon Consumables | 无限武器消耗品">
         <Cheatline>
             <Offset>84A4385F</Offset>
             <Section>0</Section>

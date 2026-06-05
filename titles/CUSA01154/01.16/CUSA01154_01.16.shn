@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Gear Solid V: The Phantom Pain" Moder="Sondio" Cusa="CUSA01154" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code (MC)">
+    <Cheat Text="Master Code (MC) | 主密码（MC）">
         <Cheatline>
             <Offset>33FFA55</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health">
+    <Cheat Text="Max Health | 最大生命值">
         <Cheatline>
             <Offset>33FFA38</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignored by the Enemy">
+    <Cheat Text="Ignored by the Enemy | 被敌人无视">
         <Cheatline>
             <Offset>33FFB42</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>33FFB5B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Run (Enable MC)">
+    <Cheat Text="Hyper Run (Enable MC) | 超级奔跑（启用MC）">
         <Cheatline>
             <Offset>33FFA55</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C7-40-44-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/Fulton/Drugs">
+    <Cheat Text="Infinite Ammo/Fulton/Drugs | 无限弹药/富尔顿/药品">
         <Cheatline>
             <Offset>2146B11</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>66-89-0C-72</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Silencer">
+    <Cheat Text="Infinite Silencer | 无限消音器">
         <Cheatline>
             <Offset>33FFA6C</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Spread">
+    <Cheat Text="No Spread | 无散布">
         <Cheatline>
             <Offset>33FFA7F</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Recoil">
+    <Cheat Text="No Recoil | 无后坐力">
         <Cheatline>
             <Offset>33FFA91</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast Chocke">
+    <Cheat Text="Fast Chocke | 快速勒颈">
         <Cheatline>
             <Offset>33FFAA6</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Mission Time">
+    <Cheat Text="No Mission Time | 无任务时间限制">
         <Cheatline>
             <Offset>33FFABD</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Mission Penality">
+    <Cheat Text="No Mission Penality | 无任务惩罚">
         <Cheatline>
             <Offset>73878C</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>89-3C-88</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weather 0 : Clean (Enable MC)">
+    <Cheat Text="Weather 0 : Clean (Enable MC) | 天气0：晴朗（启用MC）">
         <Cheatline>
             <Offset>33FFADB</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>80-3D-4E-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weather 1 : Cloudy (Enable MC)">
+    <Cheat Text="Weather 1 : Cloudy (Enable MC) | 天气1：多云（启用MC）">
         <Cheatline>
             <Offset>33FFADB</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>80-3D-4E-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weather 2 : Rain (Enable MC)">
+    <Cheat Text="Weather 2 : Rain (Enable MC) | 天气2：下雨（启用MC）">
         <Cheatline>
             <Offset>33FFADB</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>80-3D-4E-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weather 3 : Sand Storm (Enable MC)">
+    <Cheat Text="Weather 3 : Sand Storm (Enable MC) | 天气3：沙尘暴（启用MC）">
         <Cheatline>
             <Offset>33FFADB</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>80-3D-4E-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weather 4 : Mist (Enable MC)">
+    <Cheat Text="Weather 4 : Mist (Enable MC) | 天气4：雾气（启用MC）">
         <Cheatline>
             <Offset>33FFADB</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>80-3D-4E-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of Day 0 : 00:00 AM (Enable MC)">
+    <Cheat Text="Time of Day 0 : 00:00 AM (Enable MC) | 时间0：凌晨00:00（启用MC）">
         <Cheatline>
             <Offset>33FFB0D</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>80-3D-1C-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of Day 1 : 06:00 AM (Enable MC)">
+    <Cheat Text="Time of Day 1 : 06:00 AM (Enable MC) | 时间1：早上06:00（启用MC）">
         <Cheatline>
             <Offset>33FFB0D</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>80-3D-1C-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of Day 2 : 12:00 PM (Enable MC)">
+    <Cheat Text="Time of Day 2 : 12:00 PM (Enable MC) | 时间2：中午12:00（启用MC）">
         <Cheatline>
             <Offset>33FFB0D</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>80-3D-1C-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of Day 3 : 18:00 PM (Enable MC)">
+    <Cheat Text="Time of Day 3 : 18:00 PM (Enable MC) | 时间3：晚上18:00（启用MC）">
         <Cheatline>
             <Offset>33FFB0D</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>80-3D-1C-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time of Day x100 (Enable MC)">
+    <Cheat Text="Time of Day x100 (Enable MC) | 时间流逝速度100倍（启用MC）">
         <Cheatline>
             <Offset>33FFB2F</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>B9-14-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Heroism">
+    <Cheat Text="Max Heroism | 最大英雄值">
         <Cheatline>
             <Offset>33FFB6E</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max GMP">
+    <Cheat Text="Max GMP | 最大GMP">
         <Cheatline>
             <Offset>33FFB88</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Cassette/Database">
+    <Cheat Text="Unlock Cassette/Database | 解锁磁带/数据库">
         <Cheatline>
             <Offset>33FFF2C</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Developments">
+    <Cheat Text="Unlock Developments | 解锁开发项目">
         <Cheatline>
             <Offset>33FFBCF</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Developments">
+    <Cheat Text="Instant Developments | 瞬间完成开发">
         <Cheatline>
             <Offset>33FFC22</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Base Developments">
+    <Cheat Text="Instant Base Developments | 瞬间完成基地开发">
         <Cheatline>
             <Offset>33FFCBA</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant External Mission">
+    <Cheat Text="Instant External Mission | 瞬间完成外部任务">
         <Cheatline>
             <Offset>33FFE87</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Mother Base Optional Mission (Target Shooting)">
+    <Cheat Text="Instant Mother Base Optional Mission (Target Shooting) | 瞬间完成母基地可选任务（靶场射击）">
         <Cheatline>
             <Offset>33FFEA7</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Nuclear Development">
+    <Cheat Text="Instant Nuclear Development | 瞬间完成核武器开发">
         <Cheatline>
             <Offset>33FFCE7</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Resources">
+    <Cheat Text="Infinite Resources | 无限资源">
         <Cheatline>
             <Offset>33FFC4E</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Upgrade Base Units">
+    <Cheat Text="Upgrade Base Units | 升级基地单位">
         <Cheatline>
             <Offset>33FFD46</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Soldiers Skills">
+    <Cheat Text="Max Soldiers Skills | 士兵技能最大化">
         <Cheatline>
             <Offset>33FFD87</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite NVG lvl.5">
+    <Cheat Text="Infinite NVG lvl.5 | 无限夜视仪5级">
         <Cheatline>
             <Offset>33FFC3B</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Mimetic Suit/Parasites lvl. 5/6 (Invisibility)">
+    <Cheat Text="Infinite Mimetic Suit/Parasites lvl. 5/6 (Invisibility) | 无限拟态服/寄生虫5/6级（隐形）">
         <Cheatline>
             <Offset>33FFCD3</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="D-Walker Infinite Ammo/Silencer/Overheat">
+    <Cheat Text="D-Walker Infinite Ammo/Silencer/Overheat | D-Walker无限弹药/消音器/不过热">
         <Cheatline>
             <Offset>33FFDB5</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="D-Friend Infinite Health">
+    <Cheat Text="D-Friend Infinite Health | D-Friend无限生命值">
         <Cheatline>
             <Offset>33FFE11</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="D-Friend Max Points">
+    <Cheat Text="D-Friend Max Points | D-Friend最大点数">
         <Cheatline>
             <Offset>33FFF15</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tanks Infinite Ammo/Speed/Rockets/Overheat">
+    <Cheat Text="Tanks Infinite Ammo/Speed/Rockets/Overheat | 坦克无限弹药/速度/火箭/不过热">
         <Cheatline>
             <Offset>F2041A</Offset>
             <Section>0</Section>

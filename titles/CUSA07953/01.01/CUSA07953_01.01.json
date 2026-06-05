@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite MP",
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Gold On Gain",
+      "name": "Max Gold On Gain | 获得金币最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gold On Spend",
+      "name": "Max Gold On Spend | 消费金币最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Items On Buy/Gain",
+      "name": "Max Items On Buy/Gain | 购买/获得物品最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Items And Materials",
+      "name": "Infinite Items And Materials | 无限物品与材料",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Items And Materials On Use/Sell",
+      "name": "Max Items And Materials On Use/Sell | 使用/出售物品材料最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Freeze PlayTime",
+      "name": "Freeze PlayTime | 冻结游戏时间",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Rest PlayTime",
+      "name": "Rest PlayTime | 重置游戏时间",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Boost EXP",
+      "name": "Boost EXP | 经验值加成",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Extra EXP",
+      "name": "Extra EXP | 额外经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Even More EXP",
+      "name": "Even More EXP | 更多经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Lots Of EXP",
+      "name": "Lots Of EXP | 大量经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Hella EXP",
+      "name": "Hella EXP | 巨量经验值",
       "type": "checkbox",
       "memory": [
         {

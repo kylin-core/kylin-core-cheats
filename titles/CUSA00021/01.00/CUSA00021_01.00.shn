@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="WATCH_DOGS™" Moder="Arafat" Cusa="CUSA00021" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>459B827</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/Gadgets">
+    <Cheat Text="Infinite Ammo/Gadgets | 无限弹药/设备">
         <Cheatline>
             <Offset>376732</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-42-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip/No Reload">
+    <Cheat Text="Bottomless Clip/No Reload | 无限弹匣/无需装弹">
         <Cheatline>
             <Offset>3B3C06</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-FF-8C-24-90-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Ammo/Gadgets">
+    <Cheat Text="Max Infinite Ammo/Gadgets | 最大无限弹药/设备">
         <Cheatline>
             <Offset>459B800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points/Cash">
+    <Cheat Text="Infinite Skill Points/Cash | 无限技能点/金钱">
         <Cheatline>
             <Offset>858D00</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>47-29-AC-A7-8C-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Earn Skill Points/Cash on Spend">
+    <Cheat Text="Earn Skill Points/Cash on Spend | 消费获得技能点/金钱">
         <Cheatline>
             <Offset>858D00</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>47-29-AC-A7-8C-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Skill Points/Cash">
+    <Cheat Text="Max Infinite Skill Points/Cash | 最大无限技能点/金钱">
         <Cheatline>
             <Offset>459B812</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Battery">
+    <Cheat Text="Max Infinite Battery | 最大无限电池">
         <Cheatline>
             <Offset>C0732</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-11-8B-DC-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Focus">
+    <Cheat Text="Max Infinite Focus | 最大无限专注">
         <Cheatline>
             <Offset>459B848</Offset>
             <Section>0</Section>

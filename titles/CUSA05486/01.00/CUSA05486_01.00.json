@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/Stamina/Magic",
-      "hint": null,
+      "name": "Infinite Health/Stamina/Magic | 无限生命/体力/魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": null,
+      "name": "Infinite Money | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Duplicate Money When Used",
-      "hint": null,
+      "name": "Duplicate Money When Used | 使用时复制金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Buy To Earn Money",
-      "hint": null,
+      "name": "Buy To Earn Money | 购买即赚钱",
       "type": "checkbox",
       "memory": [
         {

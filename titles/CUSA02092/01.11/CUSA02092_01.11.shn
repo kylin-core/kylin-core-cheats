@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DOOM" Moder="Dioniso" Cusa="CUSA02092" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health + Shield">
+    <Cheat Text="Infinite Health + Shield | 无限生命+护盾">
         <Cheatline>
             <Offset>3B6F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>3B6F910</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>3B6F7A0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades (Frag+Holograms+Siphon)">
+    <Cheat Text="Infinite Grenades (Frag+Holograms+Siphon) | 无限手雷（破片+全息+虹吸）">
         <Cheatline>
             <Offset>3B6F890</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Praetor Points (Need Buy Once)">
+    <Cheat Text="Infinite Praetor Points (Need Buy Once) | 无限执政官点数（需购买一次）">
         <Cheatline>
             <Offset>3B6F8D0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Points (Need Buy Once)">
+    <Cheat Text="Infinite Weapon Points (Need Buy Once) | 无限武器点数（需购买一次）">
         <Cheatline>
             <Offset>3B6F860</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jump (Need Delta V Jump-Boots)">
+    <Cheat Text="Infinite Jump (Need Delta V Jump-Boots) | 无限二段跳（需三角洲跳跃靴）">
         <Cheatline>
             <Offset>3B6F820</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Rune Trial Time">
+    <Cheat Text="Infinite Rune Trial Time | 无限符文试炼时间">
         <Cheatline>
             <Offset>A6FC9F</Offset>
             <Section>0</Section>

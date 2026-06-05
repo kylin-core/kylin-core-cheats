@@ -5,7 +5,7 @@
   "process": "ac3_engine_orbis_fn.elf",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Resorces",
+      "name": "Inf Resorces | 无限资源",
       "type": "checkbox",
       "memory": [
         {

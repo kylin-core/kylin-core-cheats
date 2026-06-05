@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Digimon World: Next Order" Moder="d01v" Cusa="CUSA05392" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Freeze Time">
+    <Cheat Text="Freeze Time | 时间冻结">
         <Cheatline>
             <Offset>1107800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gym HP result x2">
+    <Cheat Text="Gym HP result x2 | 健身房HP结果x2">
         <Cheatline>
             <Offset>1107807</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gym MP result x2">
+    <Cheat Text="Gym MP result x2 | 健身房MP结果x2">
         <Cheatline>
             <Offset>110781A</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gym STR result x4">
+    <Cheat Text="Gym STR result x4 | 健身房STR结果x4">
         <Cheatline>
             <Offset>110782D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gym STA result x4">
+    <Cheat Text="Gym STA result x4 | 健身房STA结果x4">
         <Cheatline>
             <Offset>1107840</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gym WIS result x4">
+    <Cheat Text="Gym WIS result x4 | 健身房WIS结果x4">
         <Cheatline>
             <Offset>1107853</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gym SPD result x4">
+    <Cheat Text="Gym SPD result x4 | 健身房SPD结果x4">
         <Cheatline>
             <Offset>1107866</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mood / Discipline / Curse / Fatigue 0">
+    <Cheat Text="Mood / Discipline / Curse / Fatigue 0 | 心情/训练/诅咒/疲劳归零">
         <Cheatline>
             <Offset>1107879</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mood, Discipline (Praise) / Curse, Fatigue (Eat) Full">
+    <Cheat Text="Mood, Discipline (Praise) / Curse, Fatigue (Eat) Full | 心情/训练(称赞)/诅咒/疲劳(进食)全满">
         <Cheatline>
             <Offset>110788D</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Order Power Battle Start 999">
+    <Cheat Text="Order Power Battle Start 999 | 指令能量战斗开始999">
         <Cheatline>
             <Offset>11078A1</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bits">
+    <Cheat Text="Bits | 比特">
         <Cheatline>
             <Offset>11078B3</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max lvl (town / battle)">
+    <Cheat Text="Max lvl (town / battle) | 最高等级(城镇/战斗)">
         <Cheatline>
             <Offset>11078C1</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="TP">
+    <Cheat Text="TP | 训练点数">
         <Cheatline>
             <Offset>11078D3</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Warehouse items 999">
+    <Cheat Text="Warehouse items 999 | 仓库物品999">
         <Cheatline>
             <Offset>11078E2</Offset>
             <Section>0</Section>

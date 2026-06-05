@@ -5,7 +5,7 @@
   "process": "ScimitarAC2.elf",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Money / Items",
+      "name": "Infinite Money / Items | 无限金钱/物品",
       "type": "checkbox",
       "memory": [
         {

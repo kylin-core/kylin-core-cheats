@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Disable Inf Skillpoints)",
+      "name": "1 Hit Kill (Disable Inf Skillpoints) | 一击必杀（使用前禁用无限技能点）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Skillpoints (Disable 1 Hit Before Using)",
+      "name": "Inf Skillpoints (Disable 1 Hit Before Using) | 无限技能点（使用前禁用一击必杀）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Hit for Max Special Combo",
+      "name": "Hit for Max Special Combo | 攻击达最大特殊连击",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite BatMobile Health/Armour",
+      "name": "Infinite BatMobile Health/Armour | 无限蝙蝠车生命/装甲",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Easily Destory Enemy Tanks",
+      "name": "Easily Destory Enemy Tanks | 轻松摧毁敌方坦克",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Missile Barrage",
+      "name": "Infinite Missile Barrage | 无限导弹齐射",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Infinite Afterburner",
+      "name": "Infinite Afterburner | 无限加力燃烧",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Freeze Countdown Timer",
+      "name": "Freeze Countdown Timer | 冻结倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Freeze Elapse Timer",
+      "name": "Freeze Elapse Timer | 冻结经过时间",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP0149-CUSA05987_00-DEATHSGAMBITEU00" Moder="Talixme" Cusa="CUSA05987" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Life">
+    <Cheat Text="Inf Life | 无限生命">
         <Cheatline>
             <Offset>E6D3000</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Exp">
+    <Cheat Text="Inf Exp | 无限经验">
         <Cheatline>
             <Offset>E6D3037</Offset>
             <Section>0</Section>

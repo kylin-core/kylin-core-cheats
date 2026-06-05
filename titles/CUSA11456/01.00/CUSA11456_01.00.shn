@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghost of Tsushima" Moder="mugenjikuu" Cusa="CUSA11456" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Full Ghost Stance">
+    <Cheat Text="Full Ghost Stance | 满级幽灵姿态">
         <Cheatline>
             <Offset>624B41</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>49-0F-44-D0-89-4A-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="8,888 Supplies and 888 Resources">
+    <Cheat Text="8,888 Supplies and 888 Resources | 8888补给与888资源">
         <Cheatline>
             <Offset>6DF6E2</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>42-89-5C-A8-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Resolve">
+    <Cheat Text="Infinite Resolve | 无限决心">
         <Cheatline>
             <Offset>735899</Offset>
             <Section>0</Section>

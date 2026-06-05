@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GRAVITY RUSH™ 2" Moder="illusion" Cusa="CUSA03694" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Unlock All Costumes">
+    <Cheat Text="Unlock All Costumes | 解锁全部服装">
         <Cheatline>
             <Offset>E4D664</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>80-78-21-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gravity Energy">
+    <Cheat Text="Infinite Gravity Energy | 无限重力能量">
         <Cheatline>
             <Offset>501C26</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-59-15-92-68-FB-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Most attacks does not hurt player">
+    <Cheat Text="Most attacks does not hurt player | 大部分攻击不伤害玩家">
         <Cheatline>
             <Offset>5091A6</Offset>
             <Section>0</Section>

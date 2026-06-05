@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/Stamina",
+      "name": "Infinite Health/Stamina | 无限生命/耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Coins Multiplier (on buy)",
+      "name": "Coins Multiplier (on buy) | 金币倍率 (购买时)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Items do not decrease",
+      "name": "Items do not decrease | 道具不减",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / Armor / Ammo / Skill Points (Master Code)",
+      "name": "Health / Armor / Ammo / Skill Points (Master Code) | 生命/护甲/弹药/技能点（主修改器）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health / Armor",
+      "name": "Inf Health / Armor | 无限生命/护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points (On Use)",
+      "name": "Inf Skill Points (On Use) | 无限技能点（使用时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Fast Exp / Levels (Master Code)",
+      "name": "Fast Exp / Levels (Master Code) | 快速经验/等级（主修改器）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "x50",
+      "name": "x50 | 50倍",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "x100",
+      "name": "x100 | 100倍",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "x200",
+      "name": "x200 | 200倍",
       "type": "checkbox",
       "memory": [
         {

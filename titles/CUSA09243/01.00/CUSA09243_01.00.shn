@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ni no Kuni 2 - Revenant Kingdom" Moder="TLH" Cusa="CUSA09243" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1213800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>1213801</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>97EB08</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money on Get">
+    <Cheat Text="Max Money on Get | 金币最大化">
         <Cheatline>
             <Offset>D9434B</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Yrd on Get",
+      "name": "Max Yrd on Get | 获得时Yrd最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Yrd",
+      "name": "Infinite Yrd | 无限Yrd",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max BP on Get",
+      "name": "Max BP on Get | 获得时BP最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Infinite BP",
+      "name": "Infinite BP | 无限BP",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Lives (Turn Off Max Gold)",
+      "name": "Infinite Lives (Turn Off Max Gold) | 无限生命（关闭最大金币）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Gold On Buy [999999999]",
+      "name": "Max Gold On Buy [999999999] | 购买时获得最大金币 [999999999]",
       "type": "checkbox",
       "memory": [
         {

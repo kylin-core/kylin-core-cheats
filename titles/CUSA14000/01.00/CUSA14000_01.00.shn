@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghoulboy" Moder="Reddevil82 " Cusa="CUSA14000" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>153FDD0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives">
+    <Cheat Text="Max Lives | 最大生命数">
         <Cheatline>
             <Offset>153FE00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items">
+    <Cheat Text="Max Items | 最大道具数">
         <Cheatline>
             <Offset>153FDB0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 无限金钱">
         <Cheatline>
             <Offset>153FDBD</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill ( Deactivate before open chests )">
+    <Cheat Text="One Hit Kill ( Deactivate before open chests ) | 一击必杀（开启宝箱前请关闭）">
         <Cheatline>
             <Offset>153FE0D</Offset>
             <Section>0</Section>

@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Units Point Multiplier (upgrade/add soldier)",
+      "name": "Units Point Multiplier (upgrade/add soldier) | 单位点数倍率（升级/增兵）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "19BA8A0",
           "on": "017718",
           "off": "897718"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Skill points x999 (will take effect after the fight)",
+      "name": "Skill points x999 (will take effect after the fight) | 技能点x999（战斗后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health/Sphere",
+      "name": "Infinite Health/Sphere | 无限生命/能量球",
       "type": "checkbox",
       "memory": [
         {

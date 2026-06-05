@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Inf HP",
+      "name": "Max Inf HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Inf MP",
+      "name": "Max Inf MP | 无限魔法值",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Inf ATB",
+      "name": "Max Inf ATB | 无限ATB槽",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Inf Limit",
+      "name": "Max Inf Limit | 无限极限技",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Inf Gil",
+      "name": "Max Inf Gil | 无限吉尔",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max lvl 50^HP^MP",
+      "name": "Max lvl 50^HP^MP | 满级50^生命^魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max Items On Get",
+      "name": "Max Items On Get | 获取物品最大数量",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Inf Items On Sell",
+      "name": "Inf Items On Sell | 出售物品无限",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Inf Items On Use",
+      "name": "Inf Items On Use | 使用物品无限",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Freeze Play Timer",
+      "name": "Freeze Play Timer | 冻结游戏计时",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Reset Play Timer",
+      "name": "Reset Play Timer | 重置游戏计时",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Fast Materia AP lvlup",
+      "name": "Fast Materia AP lvlup | 快速魔晶石AP升级",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Cloud's Black Dress",
+      "name": "Cloud's Black Dress | 克劳德黑色礼服",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Cloud's Blue Dress",
+      "name": "Cloud's Blue Dress | 克劳德蓝色礼服",
       "type": "checkbox",
       "memory": [
         {
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "name": "Cloud's White Dress",
+      "name": "Cloud's White Dress | 克劳德白色礼服",
       "type": "checkbox",
       "memory": [
         {

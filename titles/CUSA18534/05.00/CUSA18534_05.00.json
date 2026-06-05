@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Stamina Instant Refill",
+      "name": "Stamina Instant Refill | 体力瞬间回满",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Resources/ Arrows (On Spend)",
+      "name": "Max Resources/ Arrows (On Spend) | 资源/箭矢最大化（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Skill Points (On Spend)",
+      "name": "Max Skill Points (On Spend) | 技能点数最大化（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Abilites Bar (Enable only after unlock Ablities)",
+      "name": "Infinite Abilites Bar (Enable only after unlock Ablities) | 无限技能条（仅在解锁技能后启用）",
       "type": "checkbox",
       "memory": [
         {

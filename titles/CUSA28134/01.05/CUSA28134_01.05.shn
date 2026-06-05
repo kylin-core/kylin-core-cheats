@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ELEX II" Moder="Wander_9.00" Cusa="CUSA28134" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Experience / level / AP / LP (on 2nd fight)">
+    <Cheat Text="Experience / level / AP / LP (on 2nd fight) | 经验/等级/AP/LP（第二场战斗后）">
         <Cheatline>
             <Offset>5E380</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Elexit / All items (on gain and spent)">
+    <Cheat Text="Elexit / All items (on gain and spent) | 艾莱克西特/全部物品（获得及消耗时）">
         <Cheatline>
             <Offset>5F9E0</Offset>
             <Section>0</Section>

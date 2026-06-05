@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
-      "hint": null,
+      "name": "Max Money | 最大金币",
       "type": "button",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Fill Health",
-      "hint": null,
+      "name": "Fill Health | 满血",
       "type": "button",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Fill Mana",
-      "hint": null,
+      "name": "Fill Mana | 满蓝",
       "type": "button",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Max Health Capacity",
-      "hint": null,
+      "name": "Max Health Capacity | 最大生命值",
       "type": "button",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Max Attack Value",
-      "hint": null,
+      "name": "Max Attack Value | 最大攻击力",
       "type": "button",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Max Mana Attack Value",
-      "hint": null,
+      "name": "Max Mana Attack Value | 最大魔法攻击力",
       "type": "button",
       "memory": [
         {
@@ -77,8 +71,7 @@
       ]
     },
     {
-      "name": "Max XP",
-      "hint": null,
+      "name": "Max XP | 最大经验值",
       "type": "button",
       "memory": [
         {

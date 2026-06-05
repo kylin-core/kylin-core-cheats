@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "PlayerNoDead (Need a Loading)",
+      "name": "PlayerNoDead (Need a Loading) | 玩家无敌（需加载）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "PlayerHorseNoDead (Need a Loading)",
+      "name": "PlayerHorseNoDead (Need a Loading) | 骑马无敌（需加载）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "PlayerExterminate (Need a Loading)",
+      "name": "PlayerExterminate (Need a Loading) | 玩家秒杀（需加载）",
       "type": "checkbox",
       "memory": [
         {

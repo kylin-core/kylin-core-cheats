@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina / Enemey No Stamina (Master Code)",
+      "name": "Infinite Stamina / Enemey No Stamina (Master Code) | 无限体力/敌人无体力（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Enemey No Stamina (MC)",
+      "name": "Enemey No Stamina (MC) | 敌人无体力（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Gold (On Spend)",
+      "name": "Max Gold (On Spend) | 最大金币（消费时）",
       "type": "checkbox",
       "memory": [
         {

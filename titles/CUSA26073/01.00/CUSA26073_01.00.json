@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible-ARCADE-Mode",
+      "name": "Invincible-ARCADE-Mode | 街机模式无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-SHELD-ARCADE-Mode",
+      "name": "Infinite-SHELD-ARCADE-Mode | 街机模式无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite-credits-ARCADE-Mode",
+      "name": "Infinite-credits-ARCADE-Mode | 街机模式无限续关",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite-SP-ARCADE-Mode",
+      "name": "Infinite-SP-ARCADE-Mode | 街机模式无限特殊攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Invincible-STORY-Mode",
+      "name": "Invincible-STORY-Mode | 故事模式无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite-SHELD-STORY-Mode",
+      "name": "Infinite-SHELD-STORY-Mode | 故事模式无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite-SP-STORY-Mode",
+      "name": "Infinite-SP-STORY-Mode | 故事模式无限特殊攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "MAX-CR-Points-STORY-Mode-1-buy",
+      "name": "MAX-CR-Points-STORY-Mode-1-buy | 故事模式首购买取最大CR点数",
       "type": "checkbox",
       "memory": [
         {

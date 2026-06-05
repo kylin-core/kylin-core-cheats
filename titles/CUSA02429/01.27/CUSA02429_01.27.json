@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 神模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite ammo",
+      "name": "Infinite ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Reload/Grenades/Tank Cannon/Plane Missiles",
+      "name": "No Reload/Grenades/Tank Cannon/Plane Missiles | 无需装填/手雷/坦克主炮/飞机导弹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Damage For Tank",
+      "name": "No Damage For Tank | 坦克无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "No Damage For Plane (Disable For Tank)",
+      "name": "No Damage For Plane (Disable For Tank) | 飞机无敌（对坦克禁用）",
       "type": "checkbox",
       "memory": [
         {

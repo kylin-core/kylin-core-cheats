@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Special power",
+      "name": "Infinite Special power | 无限特殊能力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Broom boost",
+      "name": "Infinite Broom boost | 无限扫帚加速",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Spells No Cooldown (in Fight only)",
+      "name": "Spells No Cooldown (in Fight only) | 法术无冷却（仅限战斗）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Level After Doing few Experience tasks ",
+      "name": "Max Level After Doing few Experience tasks | 完成少量经验任务后满级",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "infinite Gold/Items",
+      "name": "infinite Gold/Items | 无限金币/物品",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Talent Points do not decrease when spent",
+      "name": "Talent Points do not decrease when spent | 天赋点消耗不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Potions do not decrease when drinking them",
+      "name": "Potions do not decrease when drinking them | 饮用魔药时不消耗",
       "type": "checkbox",
       "memory": [
         {

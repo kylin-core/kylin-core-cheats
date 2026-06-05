@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "infi ammo",
+      "name": "infi ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "inif items",
+      "name": "inif items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "infi Throwables",
+      "name": "infi Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite EP (turn off at the tutorial)",
+      "name": "Infinite EP (turn off at the tutorial) | 无限EP（教程结束时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Experience Multiplier by 500",
+      "name": "Experience Multiplier by 500 | 经验值500倍",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Experience Multiplier by 10000 (disable previous one)",
+      "name": "Experience Multiplier by 10000 (disable previous one) | 经验值10000倍（禁用上一项）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "80 items (on pickup and Craft)",
+      "name": "80 items (on pickup and Craft) | 80个物品（拾取与制作时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "90 TP (on spend )",
+      "name": "90 TP (on spend ) | 90TP（消耗时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Max Money/Ammo/Consumables/Ship Ammo (On Use)",
+      "name": "Max Money/Ammo/Consumables/Ship Ammo (On Use) | 最大金钱/弹药/消耗品/舰船弹药（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Ship Health",
+      "name": "Infinite Ship Health | 无限舰船生命",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max Swivel Ammo",
+      "name": "Max Swivel Ammo | 最大旋转炮弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max Cargo (On Spend)",
+      "name": "Max Cargo (On Spend) | 最大货物（消耗时）",
       "type": "checkbox",
       "memory": [
         {

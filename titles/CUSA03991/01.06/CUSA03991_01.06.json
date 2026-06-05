@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
-      "hint": null,
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
-      "hint": null,
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "hint": null,
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Inf Breath",
-      "hint": null,
+      "name": "Inf Breath | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Inf Grappling Hook Stamina",
-      "hint": null,
+      "name": "Inf Grappling Hook Stamina | 无限钩爪耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -80,8 +75,7 @@
       ]
     },
     {
-      "name": "Inf UV Light",
-      "hint": null,
+      "name": "Inf UV Light | 无限紫外线灯",
       "type": "checkbox",
       "memory": [
         {
@@ -97,8 +91,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Durability/No Buggy Damage",
-      "hint": null,
+      "name": "Inf Weapon Durability/No Buggy Damage | 无限武器耐久/越野车无损伤",
       "type": "checkbox",
       "memory": [
         {
@@ -114,8 +107,7 @@
       ]
     },
     {
-      "name": "Inf Camoufladge When Used",
-      "hint": null,
+      "name": "Inf Camoufladge When Used | 无限伪装持续时间",
       "type": "checkbox",
       "memory": [
         {
@@ -131,8 +123,7 @@
       ]
     },
     {
-      "name": "Inf/Dupe Items",
-      "hint": null,
+      "name": "Inf/Dupe Items | 无限/复制物品",
       "type": "checkbox",
       "memory": [
         {
@@ -143,8 +134,7 @@
       ]
     },
     {
-      "name": "Max Money on Spend",
-      "hint": null,
+      "name": "Max Money on Spend | 消费时金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -160,8 +150,7 @@
       ]
     },
     {
-      "name": "Max Survivor Rank on Gain",
-      "hint": null,
+      "name": "Max Survivor Rank on Gain | 获得时幸存者等级最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -177,8 +166,7 @@
       ]
     },
     {
-      "name": "Max Agility LVL on Gain",
-      "hint": null,
+      "name": "Max Agility LVL on Gain | 获得时敏捷等级最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -194,8 +182,7 @@
       ]
     },
     {
-      "name": "Max Power LVL on Gain",
-      "hint": null,
+      "name": "Max Power LVL on Gain | 获得时力量等级最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -211,8 +198,7 @@
       ]
     },
     {
-      "name": "Max Legend LVL on Unlock",
-      "hint": null,
+      "name": "Max Legend LVL on Unlock | 解锁时传奇等级最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -228,8 +214,7 @@
       ]
     },
     {
-      "name": "Inf Nitro (DLC)",
-      "hint": null,
+      "name": "Inf Nitro (DLC) | 无限氮气（DLC）",
       "type": "checkbox",
       "memory": [
         {
@@ -245,8 +230,7 @@
       ]
     },
     {
-      "name": "Inf Fuel (DLC)",
-      "hint": null,
+      "name": "Inf Fuel (DLC) | 无限燃料（DLC）",
       "type": "checkbox",
       "memory": [
         {
@@ -262,8 +246,7 @@
       ]
     },
     {
-      "name": "Inf Buggy Equipment Usage (DLC)",
-      "hint": null,
+      "name": "Inf Buggy Equipment Usage (DLC) | 无限越野车装备使用（DLC）",
       "type": "checkbox",
       "memory": [
         {

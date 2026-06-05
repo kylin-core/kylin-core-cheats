@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Zeni on Use",
+      "name": "Max Zeni on Use | 使用后获得最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Zeni",
+      "name": "Infinite Zeni | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Max Premium-Z Coins on Use",
+      "name": "Max Premium-Z Coins on Use | 使用后获得最大高级Z币",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Premium-Z Coins",
+      "name": "Infinite Premium-Z Coins | 无限高级Z币",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Easy Max Level",
+      "name": "Easy Max Level | 轻松满级",
       "type": "checkbox",
       "memory": [
         {

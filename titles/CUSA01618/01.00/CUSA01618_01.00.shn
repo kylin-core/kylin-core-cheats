@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yu-Gi-Oh! Legacy of the Duelist" Moder="Molly" Cusa="CUSA01618" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money After Battle">
+    <Cheat Text="Max Money After Battle | 战后获得最大金钱">
         <Cheatline>
             <Offset>E47800</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Souls III" Moder="hejran7" Cusa="CUSA03388" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限血量">
         <Cheatline>
             <Offset>57FB807</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-29-F8-0F-88-6A-8D-8A-FB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>57FB836</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E9-0C-8D-8A-FB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Magic">
+    <Cheat Text="Inf Magic | 无限魔力">
         <Cheatline>
             <Offset>10F8C6E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-0F-4E-E8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player inf Stamina">
+    <Cheat Text="Player inf Stamina | 无限体力">
         <Cheatline>
             <Offset>57FB84E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E9-C2-21-8F-FB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enemy 0 Stamina">
+    <Cheat Text="Enemy 0 Stamina | 敌人体力归零">
         <Cheatline>
             <Offset>57FB853</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>39-D8-0F-4E-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Pause The Game">
+    <Cheat Text="Pause The Game | 暂停游戏">
         <Cheatline>
             <Offset>278FFF7</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-89-85-1C-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Souls on Spend">
+    <Cheat Text="Inf Souls on Spend | 消费时无限灵魂">
         <Cheatline>
             <Offset>1303F31</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-4E-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Never Lose Souls">
+    <Cheat Text="Never Lose Souls | 永不丢失灵魂">
         <Cheatline>
             <Offset>EC6976</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>89-50-74</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items On Use..Pick..Move">
+    <Cheat Text="Max Items On Use..Pick..Move | 使用/拾取/移动时最大物品数">
         <Cheatline>
             <Offset>9C1FD2</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>44-89-73-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dupe Anything In Storage Box">
+    <Cheat Text="Dupe Anything In Storage Box | 储物箱任意复制">
         <Cheatline>
             <Offset>9C1FC3</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>41-39-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Weapon Durability">
+    <Cheat Text="Inf Weapon Durability | 无限武器耐久">
         <Cheatline>
             <Offset>116EBD0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>89-77-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Armour Durability">
+    <Cheat Text="Inf Armour Durability | 无限防具耐久">
         <Cheatline>
             <Offset>116DCE0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>89-77-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reduce Fall Damage">
+    <Cheat Text="Reduce Fall Damage | 减少坠落伤害">
         <Cheatline>
             <Offset>57FB85D</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Resistances Effects">
+    <Cheat Text="Resistances Effects | 抗性效果">
         <Cheatline>
             <Offset>E7DBCF</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>89-4A-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf HP Player + Enemy">
+    <Cheat Text="Inf HP Player + Enemy | 玩家与敌人无限血量">
         <Cheatline>
             <Offset>10A4547</Offset>
             <Section>0</Section>

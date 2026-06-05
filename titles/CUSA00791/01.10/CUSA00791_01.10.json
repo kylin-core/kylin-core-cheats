@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God",
-      "description": "GODMODE Effects still very much active.",
+      "name": "God | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Jumps",
-      "description": "",
+      "name": "Inf Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "name": "Inf Time",
-      "description": "",
+      "name": "Inf Time | 无限时间",
       "type": "checkbox",
       "memory": [
         {
@@ -76,8 +73,7 @@
       ]
     },
     {
-      "name": "L1R1_Complete_Lvl",
-      "description": "",
+      "name": "L1R1_Complete_Lvl | L1R1_完成关卡",
       "type": "checkbox",
       "memory": [
         {

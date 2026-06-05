@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat 11" Moder="hejran7" Cusa="CUSA11379" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限生命">
         <Cheatline>
             <Offset>5B8AD04</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>74-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 一击必杀">
         <Cheatline>
             <Offset>5B8AD0D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-83-A0-0B-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P1 Full Defensive Meter">
+    <Cheat Text="P1 Full Defensive Meter | P1 满防御槽">
         <Cheatline>
             <Offset>5B8AD66</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>74-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P1 Full Offensive Meter">
+    <Cheat Text="P1 Full Offensive Meter | P1 满进攻槽">
         <Cheatline>
             <Offset>5B8AD5F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>74-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P2 No Defensive Meter">
+    <Cheat Text="P2 No Defensive Meter | P2 无防御槽">
         <Cheatline>
             <Offset>5B8AD27</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P2 No Offensive Meter">
+    <Cheat Text="P2 No Offensive Meter | P2 无进攻槽">
         <Cheatline>
             <Offset>5B8AD40</Offset>
             <Section>0</Section>

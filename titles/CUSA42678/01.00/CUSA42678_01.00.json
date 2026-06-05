@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Hearts/Health",
+      "name": "Infinite Hearts/Health | 无限爱心/生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "99 Water (while watering)",
+      "name": "99 Water (while watering) | 99水量（浇水时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Coins (On sell)",
+      "name": "Max Coins (On sell) | 最大金币（出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Skip a day (effect on each time being activated)",
+      "name": "Skip a day (effect on each time being activated) | 跳过一天（每次激活生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "90 Items (On pick up)",
+      "name": "90 Items (On pick up) | 90个物品（拾取时）",
       "type": "checkbox",
       "memory": [
         {

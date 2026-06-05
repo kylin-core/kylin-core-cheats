@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Player 1: Infinite Health",
+      "name": "Player 1: Infinite Health | 玩家1：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Player 2: Infinite Health",
+      "name": "Player 2: Infinite Health | 玩家2：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Player 1: 1-Hit K.O.",
+      "name": "Player 1: 1-Hit K.O. | 玩家1：一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Player 2: 1-Hit K.O.",
+      "name": "Player 2: 1-Hit K.O. | 玩家2：一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最高分数",
       "type": "checkbox",
       "memory": [
         {

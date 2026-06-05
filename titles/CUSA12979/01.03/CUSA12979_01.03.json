@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf health",
+      "name": "Inf health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Souls",
+      "name": "Inf Souls | 无限灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -53,11 +53,10 @@
       ]
     },
     {
-      "name": "Inf Boatmans Coins",
+      "name": "Inf Boatmans Coins | 无限船夫币",
       "type": "checkbox",
       "memory": [
         {
-          "section": "16",
           "offset": "6160E9",
           "on": "83C663",
           "off": "037004"

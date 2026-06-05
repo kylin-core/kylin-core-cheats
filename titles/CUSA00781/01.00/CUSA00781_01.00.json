@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max SP (on slide to the left in Attribute)",
+      "name": "Max SP (on slide to the left in Attribute) | 属性中向左滑动时最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max VC (on spent)",
+      "name": "Max VC (on spent) | 花费时最大虚拟货币",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/throwables/Magic)",
+      "name": "Infinite Health/throwables/Magic) | 无限生命/投掷物/魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Cons (on get activate and kill monsters)",
+      "name": "Max Cons (on get activate and kill monsters) | 最大消耗品（拾取/激活及击杀怪物时）",
       "type": "checkbox",
       "memory": [
         {

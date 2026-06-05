@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "7DE643",
           "on": "90909090",
           "off": "41894D28"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Infinite MP",
+      "name": "Infinite MP | 无限真气",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "69E843",
           "on": "909090",
           "off": "89482C"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Infinite Items |Battle",
+      "name": "Infinite Items |Battle | 战斗物品无限",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "733338",
           "on": "909090",
           "off": "894524"
@@ -41,7 +38,7 @@
       ]
     },
     {
-      "name": "EXP Boost",
+      "name": "EXP Boost | 经验值提升",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +54,7 @@
       ]
     },
     {
-      "name": "Extra EXP",
+      "name": "Extra EXP | 额外经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +70,7 @@
       ]
     },
     {
-      "name": "Even More EXP",
+      "name": "Even More EXP | 更多经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -89,7 +86,7 @@
       ]
     },
     {
-      "name": "Lots Of EXP After Battle",
+      "name": "Lots Of EXP After Battle | 战后大量经验",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +102,7 @@
       ]
     },
     {
-      "name": "Hella Exp After Battle",
+      "name": "Hella Exp After Battle | 战后巨量经验",
       "type": "checkbox",
       "memory": [
         {
@@ -121,11 +118,10 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "8BE69C",
           "on": "90909090909090",
           "off": "418986B8000000"
@@ -133,7 +129,7 @@
       ]
     },
     {
-      "name": "Max Skill Points On Spend",
+      "name": "Max Skill Points On Spend | 消耗技能点最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +145,7 @@
       ]
     },
     {
-      "name": "Max Items On Sell |Shops",
+      "name": "Max Items On Sell |Shops | 商店出售物品最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -165,11 +161,10 @@
       ]
     },
     {
-      "name": "Infinite Items On Sell |Shops",
+      "name": "Infinite Items On Sell |Shops | 商店出售物品无限",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "733091",
           "on": "909090",
           "off": "894824"
@@ -177,7 +172,7 @@
       ]
     },
     {
-      "name": "Max Money On Sell/Buy",
+      "name": "Max Money On Sell/Buy | 买卖金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -193,11 +188,10 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "6D78BC",
           "on": "90909090",
           "off": "45897E74"
@@ -205,11 +199,10 @@
       ]
     },
     {
-      "name": "Inf Items |Forging + Possession Menu",
+      "name": "Inf Items |Forging + Possession Menu | 锻造与持有界面物品无限",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "733338",
           "on": "909090",
           "off": "894524"
@@ -217,7 +210,7 @@
       ]
     },
     {
-      "name": "Max Spirit |Infusion Menu",
+      "name": "Max Spirit |Infusion Menu | 注入界面灵气最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -233,11 +226,10 @@
       ]
     },
     {
-      "name": "Inf Spirit |Infusion Menu",
+      "name": "Inf Spirit |Infusion Menu | 注入界面无限灵气",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "733091",
           "on": "909090",
           "off": "894824"

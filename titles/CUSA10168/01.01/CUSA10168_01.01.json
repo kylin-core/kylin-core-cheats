@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Ammo on Pick",
+      "name": "Max Ammo on Pick | 拾取弹药最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max Money on Spend",
+      "name": "Max Money on Spend | 消费金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Ignore Money on Buy",
+      "name": "Ignore Money on Buy | 购买无视金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Instant Max Weapon Gauge",
+      "name": "Instant Max Weapon Gauge | 武器槽瞬间满级",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Max Level on LevelUp",
+      "name": "Max Level on LevelUp | 升级等级最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Max CP on LevelUp",
+      "name": "Max CP on LevelUp | 升级CP最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Infinite CP",
+      "name": "Infinite CP | 无限CP",
       "type": "checkbox",
       "memory": [
         {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "Raise CP-Cap from 24520 to 65535",
+      "name": "Raise CP-Cap from 24520 to 65535 | 将CP上限从24520提升至65535",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Easy Quests",
+      "name": "Easy Quests | 简单任务",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "name": "20k XP each Kill",
+      "name": "20k XP each Kill | 每次击杀获得2万经验",
       "type": "checkbox",
       "memory": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "name": "Max Medals on Get",
+      "name": "Max Medals on Get | 获取勋章最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "name": "Max Medals on Use",
+      "name": "Max Medals on Use | 使用勋章最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "name": "Infinite Medals",
+      "name": "Infinite Medals | 无限勋章",
       "type": "checkbox",
       "memory": [
         {
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "name": "Infinite Chest-Loot",
+      "name": "Infinite Chest-Loot | 无限宝箱战利品",
       "type": "checkbox",
       "memory": [
         {
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "name": "Max Box Items",
+      "name": "Max Box Items | 宝箱物品最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "All Stats 255",
+      "name": "All Stats 255 | 全属性255",
       "type": "checkbox",
       "memory": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "All Stats 65535",
+      "name": "All Stats 65535 | 全属性65535",
       "type": "checkbox",
       "memory": [
         {

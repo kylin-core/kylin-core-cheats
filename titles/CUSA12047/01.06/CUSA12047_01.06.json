@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health/1 Hit Kill (Master Code)",
+      "name": "Max/Infinite Health/1 Hit Kill (Master Code) | 最大/无限生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Max/Infinite Health (Need MC)",
+      "name": "Max/Infinite Health (Need MC) | 最大/无限生命（需要主代码）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5FA27",
           "on": "418B8634010000",
           "off": "418B8630010000"
@@ -33,11 +32,10 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Need MC)",
+      "name": "1 Hit Kill (Need MC) | 一击必杀（需要主代码）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5FA25",
           "on": "7513",
           "off": "7515"
@@ -45,7 +43,7 @@
       ]
     },
     {
-      "name": "Max/Infinite All Items (Need 2 To Work)",
+      "name": "Max/Infinite All Items (Need 2 To Work) | 最大/无限所有物品（需使用两次生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -61,7 +59,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money On Start",
+      "name": "Max/Infinite Money On Start | 开局最大/无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -77,7 +75,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points (Kill N Turn Off)",
+      "name": "Max/Infinite Skill Points (Kill N Turn Off) | 最大/无限技能点（击杀后关闭）",
       "type": "checkbox",
       "memory": [
         {

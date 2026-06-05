@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Items x20 (on use)",
+      "name": "Items x20 (on use) | 物品×20（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite AP While Moving",
+      "name": "Infinite AP While Moving | 移动时无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite AP While Shooting",
+      "name": "Infinite AP While Shooting | 射击时无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite AP While Loading",
+      "name": "Infinite AP While Loading | 装弹时无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite AP while using items",
+      "name": "Infinite AP while using items | 使用物品时无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Water on the Map (turn off scrap cheat)",
+      "name": "Infinite Water on the Map (turn off scrap cheat) | 地图上无限水（关闭废料作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Experience (at the end of battle)",
+      "name": "Max Experience (at the end of battle) | 最大经验值（战斗结束时）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Infinite Skill points after Commiting points",
+      "name": "Infinite Skill points after Commiting points | 加点后无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Infinite Perk points",
+      "name": "Infinite Perk points | 无限专长点",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Infinite Attribute points after Commiting points",
+      "name": "Infinite Attribute points after Commiting points | 加点后无限属性点",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Max Scrap on buy (turn off water cheat)",
+      "name": "Max Scrap on buy (turn off water cheat) | 购买时最大废料（关闭水作弊）",
       "type": "checkbox",
       "memory": [
         {

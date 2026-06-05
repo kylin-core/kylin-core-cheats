@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[Health] Immunity",
+      "name": "[Health] Immunity | [生命] 免疫",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "[Weapon] 1 Hit Kill",
+      "name": "[Weapon] 1 Hit Kill | [武器] 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "[Weapon] Infinite Ammo",
+      "name": "[Weapon] Infinite Ammo | [武器] 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "[Weapon] Infinite GRP",
+      "name": "[Weapon] Infinite GRP | [武器] 无限GRP",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "[Item] Infinite Credits",
+      "name": "[Item] Infinite Credits | [物品] 无限信用点",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "[Speed] Game x0,5",
+      "name": "[Speed] Game x0,5 | [速度] 游戏x0.5",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "[Speed] Game x1",
+      "name": "[Speed] Game x1 | [速度] 游戏x1",
       "type": "checkbox",
       "memory": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "[Speed] Game x2",
+      "name": "[Speed] Game x2 | [速度] 游戏x2",
       "type": "checkbox",
       "memory": [
         {
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "name": "[Speed] Game x4",
+      "name": "[Speed] Game x4 | [速度] 游戏x4",
       "type": "checkbox",
       "memory": [
         {
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "[Speed] Player x0,5",
+      "name": "[Speed] Player x0,5 | [速度] 玩家x0.5",
       "type": "checkbox",
       "memory": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": "[Speed] Player x1",
+      "name": "[Speed] Player x1 | [速度] 玩家x1",
       "type": "checkbox",
       "memory": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "[Speed] Player x2",
+      "name": "[Speed] Player x2 | [速度] 玩家x2",
       "type": "checkbox",
       "memory": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "[Speed] Player x3",
+      "name": "[Speed] Player x3 | [速度] 玩家x3",
       "type": "checkbox",
       "memory": [
         {
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "name": "[Speed] Player x4",
+      "name": "[Speed] Player x4 | [速度] 玩家x4",
       "type": "checkbox",
       "memory": [
         {
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "name": "[Speed] NME x0,25",
+      "name": "[Speed] NME x0,25 | [速度] 敌人x0.25",
       "type": "checkbox",
       "memory": [
         {
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "name": "[Speed] NME x0,5",
+      "name": "[Speed] NME x0,5 | [速度] 敌人x0.5",
       "type": "checkbox",
       "memory": [
         {
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "name": "[Speed] NME x1",
+      "name": "[Speed] NME x1 | [速度] 敌人x1",
       "type": "checkbox",
       "memory": [
         {
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "name": "[Speed] NME x2",
+      "name": "[Speed] NME x2 | [速度] 敌人x2",
       "type": "checkbox",
       "memory": [
         {
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "name": "[Size] Player x0,5",
+      "name": "[Size] Player x0,5 | [大小] 玩家x0.5",
       "type": "checkbox",
       "memory": [
         {
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "name": "[Size] Player x1",
+      "name": "[Size] Player x1 | [大小] 玩家x1",
       "type": "checkbox",
       "memory": [
         {
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "name": "[Size] Player x2",
+      "name": "[Size] Player x2 | [大小] 玩家x2",
       "type": "checkbox",
       "memory": [
         {
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "name": "[Size] Ammo Counter x1",
+      "name": "[Size] Ammo Counter x1 | [大小] 弹药计数器x1",
       "type": "checkbox",
       "memory": [
         {
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "name": "[Size] Ammo Counter x2",
+      "name": "[Size] Ammo Counter x2 | [大小] 弹药计数器x2",
       "type": "checkbox",
       "memory": [
         {
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "name": "[Size] Ammo Counter x4",
+      "name": "[Size] Ammo Counter x4 | [大小] 弹药计数器x4",
       "type": "checkbox",
       "memory": [
         {
@@ -489,7 +489,7 @@
       ]
     },
     {
-      "name": "[Size] Ammo Counter x8",
+      "name": "[Size] Ammo Counter x8 | [大小] 弹药计数器x8",
       "type": "checkbox",
       "memory": [
         {
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "name": "[ONLY DLC] Puzzle: Timer Stopped",
+      "name": "[ONLY DLC] Puzzle: Timer Stopped | [仅DLC] 谜题：计时停止",
       "type": "checkbox",
       "memory": [
         {
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "name": "[ONLY DLC] Puzzle: Solved",
+      "name": "[ONLY DLC] Puzzle: Solved | [仅DLC] 谜题：已解",
       "type": "checkbox",
       "memory": [
         {

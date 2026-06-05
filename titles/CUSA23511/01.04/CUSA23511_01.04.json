@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Hp",
+      "name": "Inf Hp | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "0 Death",
+      "name": "0 Death | 0死亡",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Jump",
+      "name": "Inf Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Jump High",
+      "name": "Jump High | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Speed Hack x2",
+      "name": "Speed Hack x2 | 加速 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Speed Hack x3",
+      "name": "Speed Hack x3 | 加速 x3",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "x10 Boxes When Get",
+      "name": "x10 Boxes When Get | 拾取箱子x10",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max Boxes When Get",
+      "name": "Max Boxes When Get | 拾取箱子最大",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "x10 Wumpa When Get",
+      "name": "x10 Wumpa When Get | 拾取水果x10",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Max Wumpa When Get",
+      "name": "Max Wumpa When Get | 拾取水果最大",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Time Trial Extra 5 sec for each box",
+      "name": "Time Trial Extra 5 sec for each box | 计时赛每箱加5秒",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "Time Trial Extra 10 sec for each box",
+      "name": "Time Trial Extra 10 sec for each box | 计时赛每箱加10秒",
       "type": "checkbox",
       "memory": [
         {

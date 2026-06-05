@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "21 Skillpoints Per Kill",
+      "name": "21 Skillpoints Per Kill | 击杀获得21技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Money - Items",
+      "name": "Max Money - Items | 金钱与物品最大",
       "type": "checkbox",
       "memory": [
         {

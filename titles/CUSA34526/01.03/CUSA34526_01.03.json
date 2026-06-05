@@ -1,11 +1,11 @@
 {
-  "name": "Asterix & Obelix - XXXL",
+  "name": "Asterix \u0026 Obelix - XXXL",
   "id": "CUSA34526",
   "version": "01.03",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated for [ MC ] Cheats )",
+      "name": "Mastercode ( must be activated for [ MC ] Cheats ) | 主代码（需激活以使用[MC]作弊码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [ MC ]",
+      "name": "One Hit Kill [ MC ] | 一击必杀 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Power",
+      "name": "Infinite Power | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Endless Power Move [ after hit or gain ]",
+      "name": "Endless Power Move [ after hit or gain ] | 无限大招 [ 击中或获得后 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Score [ on gain ]",
+      "name": "Max Score [ on gain ] | 最高分数 [ 获得时 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Score [ Battle - on gain ]",
+      "name": "Max Score [ Battle - on gain ] | 最高分数 [ 战斗 - 获得时 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Reset Lose Lives [ Battle ]",
+      "name": "Reset Lose Lives [ Battle ] | 重置失败生命 [ 战斗 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Reset Timer",
+      "name": "Reset Timer | 重置计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Special Moves Score [ Beat up Romans - Battle ]",
+      "name": "Special Moves Score [ Beat up Romans - Battle ] | 特殊技能分数 [ 痛击罗马人 - 战斗 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Special Moves Score [ Throw rubber rings - Battle ]",
+      "name": "Special Moves Score [ Throw rubber rings - Battle ] | 特殊技能分数 [ 投掷橡皮圈 - 战斗 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Special Moves Score [ Hit a Thrower - Battle ]",
+      "name": "Special Moves Score [ Hit a Thrower - Battle ] | 特殊技能分数 [ 击中投掷者 - 战斗 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Special Moves Score [ Points with Romans ]",
+      "name": "Special Moves Score [ Points with Romans ] | 特殊技能分数 [ 罗马人得分 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Special Moves Score [ Romans into the air ]",
+      "name": "Special Moves Score [ Romans into the air ] | 特殊技能分数 [ 罗马人飞上天 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Special Moves Score [ Ultimate Attack - Battle ]",
+      "name": "Special Moves Score [ Ultimate Attack - Battle ] | 特殊技能分数 [ 终极攻击 - 战斗 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "Max Score - Roman Games [ Hit the Figure - on gain ]",
+      "name": "Max Score - Roman Games [ Hit the Figure - on gain ] | 最高分数 - 罗马游戏 [ 击中目标 - 获得时 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Max Score - Roman Games [ Hit the Shield - on gain ]",
+      "name": "Max Score - Roman Games [ Hit the Shield - on gain ] | 最高分数 - 罗马游戏 [ 击中盾牌 - 获得时 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "Walk Speed x 2",
+      "name": "Walk Speed x 2 | 步行速度 x 2",
       "type": "checkbox",
       "memory": [
         {
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "name": "Walk Speed x 3",
+      "name": "Walk Speed x 3 | 步行速度 x 3",
       "type": "checkbox",
       "memory": [
         {
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "name": "Walk Speed x 4",
+      "name": "Walk Speed x 4 | 步行速度 x 4",
       "type": "checkbox",
       "memory": [
         {

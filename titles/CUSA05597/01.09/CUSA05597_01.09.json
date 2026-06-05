@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Set Time| Midnight ",
+      "name": "Set Time| Midnight | 午夜",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Set Time| Dawn",
+      "name": "Set Time| Dawn | 黎明",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Set Time| Morning",
+      "name": "Set Time| Morning | 早晨",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Set Time| 10 AM",
+      "name": "Set Time| 10 AM | 上午10点",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Set Time| 12 PM",
+      "name": "Set Time| 12 PM | 中午12点",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Set Time| Afternoon",
+      "name": "Set Time| Afternoon | 下午",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Set Time| Night",
+      "name": "Set Time| Night | 夜晚",
       "type": "checkbox",
       "memory": [
         {

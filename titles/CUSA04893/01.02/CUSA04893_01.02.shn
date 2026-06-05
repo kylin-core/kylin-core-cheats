@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed - The Ezio Collection [Assasins Creed 2]" Moder="TLH" Cusa="CUSA04893" Version="01.02" Process="ScimitarAC2.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>B8F947</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-0F-4E-C7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money/Items on Get">
+    <Cheat Text="Max Money/Items on Get | 获取时金钱/物品最大化">
         <Cheatline>
             <Offset>DC8BC7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>0F-47-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money/Items">
+    <Cheat Text="Infinite Money/Items | 无限金钱/物品">
         <Cheatline>
             <Offset>DC8BF3</Offset>
             <Section>0</Section>

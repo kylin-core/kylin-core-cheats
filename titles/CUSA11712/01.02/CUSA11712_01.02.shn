@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SENRAN KAGURA Burst Re:Newal" Moder="d01v_9.00" Cusa="CUSA11712" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health + Max HP">
+    <Cheat Text="Infinite Health + Max HP | 无限生命+最大HP">
         <Cheatline>
             <Offset>6F37E0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ninja Art">
+    <Cheat Text="Infinite Ninja Art | 无限忍术">
         <Cheatline>
             <Offset>6F3810</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Burst">
+    <Cheat Text="Infinite Burst | 无限爆气">
         <Cheatline>
             <Offset>EF922</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-89-B6-D8-2F-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp Battle">
+    <Cheat Text="Max Exp Battle | 战斗经验最大化">
         <Cheatline>
             <Offset>102818</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>3D-FF-E0-F5-05</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp Ninja Room (growth med)">
+    <Cheat Text="Max Exp Ninja Room (growth med) | 忍部屋经验最大化（成长药）">
         <Cheatline>
             <Offset>A14CA</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>81-FE-FF-E0-F5-05</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zen (buy)">
+    <Cheat Text="Zen (buy) | 金币（购买）">
         <Cheatline>
             <Offset>A12B7</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>81-FF-FF-E0-F5-05</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Secret Growth Med">
+    <Cheat Text="Secret Growth Med | 秘密成长药">
         <Cheatline>
             <Offset>6F3828</Offset>
             <Section>0</Section>

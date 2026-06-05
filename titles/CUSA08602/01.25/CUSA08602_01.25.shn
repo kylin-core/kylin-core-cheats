@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty® WWII (Campaign)" Moder="Saso" Cusa="CUSA08602" Version="01.25" Process="default.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>106F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>49-81-3F-01-10-00-00-75-13-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo / No Reload">
+    <Cheat Text="Inf Ammo / No Reload | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>D34DE7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-29-64-88-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Throwables">
+    <Cheat Text="Inf Throwables | 无限投掷物">
         <Cheatline>
             <Offset>D0E04E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-48-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Sherman Tank (Inf HP)">
+    <Cheat Text="Sherman Tank (Inf HP) | 谢尔曼坦克（无限生命值）">
         <Cheatline>
             <Offset>106F81F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tank MG (No Overheating)">
+    <Cheat Text="Tank MG (No Overheating) | 坦克机枪（无过热）">
         <Cheatline>
             <Offset>106F89D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P-47 (Inf HP)">
+    <Cheat Text="P-47 (Inf HP) | P-47（无限生命值）">
         <Cheatline>
             <Offset>B3EA8E</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FA-2C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P-47  MG (No Overheating) ">
+    <Cheat Text="P-47 MG (No Overheating) | P-47机枪（无过热）">
         <Cheatline>
             <Offset>106F83A</Offset>
             <Section>0</Section>

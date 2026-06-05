@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Mod-Capsules ( You need 10 caps )",
+      "name": "Infinite Mod-Capsules ( You need 10 caps ) | 无限改装胶囊（需要10个胶囊）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Box Item ( after collect )",
+      "name": "Infinite Box Item ( after collect ) | 无限道具箱（拾取后）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Rings ( on collect )",
+      "name": "Max Rings ( on collect ) | 最大金币（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Freeze Timer ( Grand Prix )",
+      "name": "Freeze Timer ( Grand Prix ) | 冻结计时（大奖赛）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Freeze Timer ( Time Trial )",
+      "name": "Freeze Timer ( Time Trial ) | 冻结计时（计时赛）",
       "type": "checkbox",
       "memory": [
         {

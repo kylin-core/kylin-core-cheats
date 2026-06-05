@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Sword battery never decreases",
+      "name": "Sword battery never decreases | 剑刃电池永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Uc on gain",
+      "name": "Max Uc on gain | 获得时Uc最大",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max WESN on gain",
+      "name": "Max WESN on gain | 获得时WESN最大",
       "type": "checkbox",
       "memory": [
         {

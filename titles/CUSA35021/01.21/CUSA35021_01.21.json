@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Gold (On sell)",
+      "name": "Max Gold (On sell) | 最大金币（出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Minimum Weight (for inventory after picking items)",
+      "name": "Minimum Weight (for inventory after picking items) | 最小负重（拾取物品后）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Experience gained",
+      "name": "Max Experience gained | 最大经验获取",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "99 items (on use/Split/sell)",
+      "name": "99 items (on use/Split/sell) | 99物品（使用/拆分/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "10 Action bar use",
+      "name": "10 Action bar use | 10行动栏使用次数",
       "type": "checkbox",
       "memory": [
         {

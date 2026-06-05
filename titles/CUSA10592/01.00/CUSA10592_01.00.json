@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "4878E5",
           "on": "899060020000",
           "off": "898860020000"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Money (On Spend)",
+      "name": "Max Money (On Spend) | 最大金钱（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Money (On Get)",
+      "name": "Max Money (On Get) | 最大金钱（获取时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
+      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA] | 上帝模式（无敌+无特效）【瓦尔哈拉DLC勿用】",
       "type": "checkbox",
       "memory": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "No Damage Taken",
+      "name": "No Damage Taken | 不会受到伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "No XP,HS, Resources subtracted when used",
+      "name": "No XP,HS, Resources subtracted when used | 使用时不消耗经验、业力、资源",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "No Crafting And Upgrade Limits",
+      "name": "No Crafting And Upgrade Limits | 无制作与升级限制",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Missile and Special Weapons",
+      "name": "Infinite Missile and Special Weapons | 无限导弹与特殊武器",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Dont lose MRP on spend",
+      "name": "Dont lose MRP on spend | 消费MRP不减少",
       "type": "checkbox",
       "memory": [
         {

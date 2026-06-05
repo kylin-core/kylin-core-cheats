@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health ( Zero Radiation )",
+      "name": "Infinite Health ( Zero Radiation ) | 无限生命（零辐射）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Psyche",
+      "name": "Infinite Psyche | 无限精神",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Flashlight",
+      "name": "Infinite Flashlight | 无限手电",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
+      "name": "Stealth Mode | 隐身模式",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "No Reload ( Weapon )",
+      "name": "No Reload ( Weapon ) | 无需换弹（武器）",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Buildings Requirements Money ( on use )",
+      "name": "Max Buildings Requirements Money ( on use ) | 最大建筑需求资金（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Infinite Items ( don´t decrease )",
+      "name": "Infinite Items ( don´t decrease ) | 无限物品（不减少）",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Duplicate Items",
+      "name": "Duplicate Items | 复制物品",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 时间冻结",
       "type": "checkbox",
       "memory": [
         {

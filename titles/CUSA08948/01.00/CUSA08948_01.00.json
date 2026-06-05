@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Gas",
-      "hint": null,
+      "name": "Infinite Gas | 无限气体",
       "type": "checkbox",
       "memory": [
         {
@@ -32,8 +31,7 @@
       ]
     },
     {
-      "name": "Infinite Blade Bar",
-      "hint": null,
+      "name": "Infinite Blade Bar | 无限刀刃",
       "type": "checkbox",
       "memory": [
         {
@@ -49,8 +47,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": null,
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -96,8 +93,7 @@
       ]
     },
     {
-      "name": "Infinite Usage Items",
-      "hint": null,
+      "name": "Infinite Usage Items | 无限道具使用",
       "type": "checkbox",
       "memory": [
         {
@@ -113,8 +109,7 @@
       ]
     },
     {
-      "name": "Always 99 Titan Kills",
-      "hint": null,
+      "name": "Always 99 Titan Kills | 巨人击杀数锁定99",
       "type": "checkbox",
       "memory": [
         {

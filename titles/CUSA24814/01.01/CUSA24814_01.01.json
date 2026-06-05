@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Crystals (while on Act)",
+      "name": "Max Crystals (while on Act) | 最大水晶（关卡中）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Crystals (on gather after throwing them at feeding ground)",
+      "name": "Max Crystals (on gather after throwing them at feeding ground) | 最大水晶（投喂后拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Keys (in level after gaining a  key)",
+      "name": "Max Keys (in level after gaining a key) | 最大钥匙（关卡中获得钥匙后）",
       "type": "checkbox",
       "memory": [
         {

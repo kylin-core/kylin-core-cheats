@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Friday The 13Th The Game" Moder="hejran7 and Grim Doe" Cusa="CUSA09960" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Knife Keeper">
+    <Cheat Text="Knife Keeper | 飞刀保留">
         <Cheatline>
             <Offset>11ABDBF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-8B-0C-14-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Knifing Time">
+    <Cheat Text="Unlimited Knifing Time | 无限飞刀时间">
         <Cheatline>
             <Offset>11ABD96</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-83-3C-14-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Homemade Traps Locked">
+    <Cheat Text="Homemade Traps Locked | 自制陷阱锁定">
         <Cheatline>
             <Offset>1053F56</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-FF-8F-40-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Countdown Timer">
+    <Cheat Text="Freeze Countdown Timer | 冻结倒计时">
         <Cheatline>
             <Offset>F2F6C9</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-8E-14-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Show Time Use After Time Disappear">
+    <Cheat Text="Show Time Use After Time Disappear | 时间结束后显示使用时间">
         <Cheatline>
             <Offset>10B08AB</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-8B-86-14-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jason Instent Rage">
+    <Cheat Text="Jason Instent Rage | 杰森瞬间狂暴">
         <Cheatline>
             <Offset>10316AA</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>72-4F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jason Instant All Skills">
+    <Cheat Text="Jason Instant All Skills | 杰森瞬间全技能">
         <Cheatline>
             <Offset>1031442</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C4-C1-7A-5D-84-94-90-10-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jason Inf Skill Time">
+    <Cheat Text="Jason Inf Skill Time | 杰森无限技能时间">
         <Cheatline>
             <Offset>103337B</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-11-84-24-AC-11-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jason Instent Skill Colldown">
+    <Cheat Text="Jason Instent Skill Colldown | 杰森技能瞬间冷却">
         <Cheatline>
             <Offset>103165E</Offset>
             <Section>0</Section>

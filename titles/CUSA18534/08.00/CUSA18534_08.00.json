@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 最大/无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Horse Stamina",
+      "name": "Horse Stamina | 马匹耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Infinite Breath (Underwater)",
+      "name": "Infinite Breath (Underwater) | 无限呼吸（水下）",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)",
+      "name": "Max/Infinite Resources/Consumables/Arrows/Money(On Use/Buy) | 最大/无限资源/消耗品/箭矢/金钱（使用/购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Instant Max/Infinite Adrenaline On Use/Gain",
+      "name": "Instant Max/Infinite Adrenaline On Use/Gain | 使用/获得时瞬间最大/无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points On Gain",
+      "name": "Max/Infinite Skill Points On Gain | 获得时最大/无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Mastery Points On Gain",
+      "name": "Max/Infinite Mastery Points On Gain | 获得时最大/无限精通点",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[01] Infinite HP",
+      "name": "[01] Infinite HP | [01] 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "[02] 1 Hit Kill",
+      "name": "[02] 1 Hit Kill | [02] 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "[03] Turbo Speed",
+      "name": "[03] Turbo Speed | [03] 极速移动",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "[04] NMEs Don't Move (Exceptions Needed)",
+      "name": "[04] NMEs Don't Move (Exceptions Needed) | [04] 敌人停止移动（需排除部分）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "[05] No Reload",
+      "name": "[05] No Reload | [05] 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "[06] Infinite Ammo",
+      "name": "[06] Infinite Ammo | [06] 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "[07] Tamed NMEs",
+      "name": "[07] Tamed NMEs | [07] 敌人被驯服",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "[08] No Baby + No Moreau In Water",
+      "name": "[08] No Baby + No Moreau In Water | [08] 无婴儿 + 水域无莫罗",
       "type": "checkbox",
       "memory": [
         {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "name": "[09] Infinite Leis",
+      "name": "[09] Infinite Leis | [09] 无限花环",
       "type": "checkbox",
       "memory": [
         {
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "name": "[10] Infinite Collectables",
+      "name": "[10] Infinite Collectables | [10] 无限收藏品",
       "type": "checkbox",
       "memory": [
         {
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "name": "[11] Torchlight ON",
+      "name": "[11] Torchlight ON | [11] 开启手电筒",
       "type": "checkbox",
       "memory": [
         {
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "[12] Torchlight OFF",
+      "name": "[12] Torchlight OFF | [12] 关闭手电筒",
       "type": "checkbox",
       "memory": [
         {
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "name": "[13] Cannon - Infinite Health",
+      "name": "[13] Cannon - Infinite Health | [13] 加农炮 - 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "name": "[14] Cannon - Inmediate Reload",
+      "name": "[14] Cannon - Inmediate Reload | [14] 加农炮 - 即时装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "name": "[15] Target Locator - Instant Reload",
+      "name": "[15] Target Locator - Instant Reload | [15] 目标定位器 - 即时装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "name": "[16] Target Locator - Instant Fire",
+      "name": "[16] Target Locator - Instant Fire | [16] 目标定位器 - 即时射击",
       "type": "checkbox",
       "memory": [
         {
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "name": "[17] Infinite Completion Points",
+      "name": "[17] Infinite Completion Points | [17] 无限完成点数",
       "type": "checkbox",
       "memory": [
         {
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "name": "[18a] Torchlight Intensity x1",
+      "name": "[18a] Torchlight Intensity x1 | [18a] 手电筒强度 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "name": "[18b] Torchlight Intensity x4",
+      "name": "[18b] Torchlight Intensity x4 | [18b] 手电筒强度 x4",
       "type": "checkbox",
       "memory": [
         {
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "name": "[18c] Torchlight Intensity x8",
+      "name": "[18c] Torchlight Intensity x8 | [18c] 手电筒强度 x8",
       "type": "checkbox",
       "memory": [
         {
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "name": "[19a] [Game Mode] Darker",
+      "name": "[19a] [Game Mode] Darker | [19a] [游戏模式] 更暗",
       "type": "checkbox",
       "memory": [
         {
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "name": "[19b] [Game Mode] Ultrashine",
+      "name": "[19b] [Game Mode] Ultrashine | [19b] [游戏模式] 极亮",
       "type": "checkbox",
       "memory": [
         {

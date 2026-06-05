@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Stealth Master Code",
+      "name": "Stealth Master Code | 隐身大师代码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health Player",
+      "name": "Infinite Health Player | 玩家无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No Blood On Screen",
+      "name": "No Blood On Screen | 屏幕无血迹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Stealth (Player Only)",
+      "name": "Stealth (Player Only) | 隐身（仅玩家）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Clip Ammo",
+      "name": "Infinite Clip Ammo | 无限弹匣弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Throwable",
+      "name": "Infinite Throwable | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Extra Suply [Suply Raid Mission]",
+      "name": "Extra Suply [Suply Raid Mission] | 额外补给[补给突袭任务]",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Unlock Tier One (On 1st Gain XP)",
+      "name": "Unlock Tier One (On 1st Gain XP) | 解锁一级（首次获得经验时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sackboy™: A Big Adventure" Moder="AngelDavil88_9.00" Cusa="CUSA06313" Version="01.21" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite lives">
+    <Cheat Text="Infinite lives | 无限生命">
         <Cheatline>
             <Offset>2319266</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-8B-64-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max score (Each gray orb is worth 1000)">
+    <Cheat Text="Max score (Each gray orb is worth 1000) | 最高分数（每个灰色球价值1000分）">
         <Cheatline>
             <Offset>84A3DB0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Each golden orb doubles the total (Deactivate after reaching a large sum)">
+    <Cheat Text="Each golden orb doubles the total (Deactivate after reaching a large sum) | 每个金色球使总数翻倍（累计到可观数量后建议关闭）">
         <Cheatline>
             <Offset>22C5F77</Offset>
             <Section>0</Section>

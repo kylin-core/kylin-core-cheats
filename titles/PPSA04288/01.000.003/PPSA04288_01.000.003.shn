@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 2" Moder="Super Death" Cusa="PPSA04288" Version="01.000.003" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>18079D6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-65-CB-2E-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon ammo (no reload)">
+    <Cheat Text="Infinite Weapon ammo (no reload) | 无限弹药（无需装弹）">
         <Cheatline>
             <Offset>1497BD0</Offset>
             <Section>0</Section>

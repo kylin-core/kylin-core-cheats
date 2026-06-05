@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 所有客户端无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Points",
-      "hint": null,
+      "name": "Infinite Points | 无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Specialist / Grenades",
-      "hint": null,
+      "name": "Infinite Specialist / Grenades | 无限专家技能/手雷",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限HP",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinte HP + 1hit kill (no reward)",
+      "name": "Infinte HP + 1hit kill (no reward) | 无限HP + 一击必杀（无奖励）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Change Enemy Code +1 turn off after (Caution)",
+      "name": "Change Enemy Code +1 turn off after (Caution) | 更改敌人代码+1（回合后关闭，谨慎使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Change Enemy Code -1 turn off after (Caution)",
+      "name": "Change Enemy Code -1 turn off after (Caution) | 更改敌人代码-1（回合后关闭，谨慎使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "90 item",
+      "name": "90 item | 90个物品",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max Exp + Persona + 99 Stats (hit hero)",
+      "name": "Max Exp + Persona + 99 Stats (hit hero) | 最大经验 + 人格面具 + 99属性（作用于主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Yen",
+      "name": "Yen | 金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Ammo",
+      "name": "Ammo | 弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Change Persona code +1 (hit hero)",
+      "name": "Change Persona code +1 (hit hero) | 更改人格面具代码+1（作用于主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Change Persona Code -1 (hit hero)",
+      "name": "Change Persona Code -1 (hit hero) | 更改人格面具代码-1（作用于主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Morning",
+      "name": "Morning | 早上",
       "type": "button",
       "memory": [
         {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "Afternoon",
+      "name": "Afternoon | 下午",
       "type": "button",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Evening",
+      "name": "Evening | 傍晚",
       "type": "button",
       "memory": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Max Social Stats",
+      "name": "Max Social Stats | 满五维属性",
       "type": "checkbox",
       "memory": [
         {

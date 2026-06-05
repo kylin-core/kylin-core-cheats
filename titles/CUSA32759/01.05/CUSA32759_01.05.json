@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infiniti Health",
+      "name": "Infiniti Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps",
+      "name": "Infinite Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Score Multiplier",
+      "name": "Score Multiplier | 分数倍率",
       "type": "checkbox",
       "memory": [
         {

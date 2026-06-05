@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无懈可击",
       "type": "checkbox",
       "memory": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Infi Health",
+      "name": "Infi Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最高分数",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "Max Exp | 最高经验",
       "type": "checkbox",
       "memory": [
         {

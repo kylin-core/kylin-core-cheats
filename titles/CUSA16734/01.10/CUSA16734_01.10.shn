@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza: Like A Dragon" Moder="Skal_9.00" Cusa="CUSA16734" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Yen">
+    <Cheat Text="Infinite Yen | 无限金钱">
         <Cheatline>
             <Offset>CBCD0D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-89-1C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp | 最大经验值">
         <Cheatline>
             <Offset>CD9D66</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>48-89-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Job Exp">
+    <Cheat Text="Max Job Exp | 最大职业经验">
         <Cheatline>
             <Offset>CDA9F6</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-47-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>101533</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max coins (on gain activate once alone)",
+      "name": "Max coins (on gain activate once alone) | 最大金币（获得时单独激活一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Experience (on second round)",
+      "name": "Max Experience (on second round) | 最大经验（第二轮）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Health(underwater)",
+      "name": "Infinite Health(underwater) | 无限生命（水下）",
       "type": "checkbox",
       "memory": [
         {

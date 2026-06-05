@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Okami HD" Moder="Vampirexx" Cusa="CUSA08364" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="INF HEALTH">
+    <Cheat Text="INF HEALTH | 无限生命">
         <Cheatline>
             <Offset>36C6C9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>39-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="INF INK">
+    <Cheat Text="INF INK | 无限墨">
         <Cheatline>
             <Offset>3DD1A0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-50-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="NEVER LOSE INK POWER">
+    <Cheat Text="NEVER LOSE INK POWER | 墨力不减">
         <Cheatline>
             <Offset>3DD17A</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-48-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="INF UPGRADE POINTS">
+    <Cheat Text="INF UPGRADE POINTS | 无限升级点数">
         <Cheatline>
             <Offset>366B67</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-29-D9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX COINS ON PICKUP / SHOP">
+    <Cheat Text="MAX COINS ON PICKUP / SHOP | 拾取/商店最大金钱">
         <Cheatline>
             <Offset>3DCA21</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>39-C2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX DEMON FANGS ON PICK UP">
+    <Cheat Text="MAX DEMON FANGS ON PICK UP | 拾取最大魔牙">
         <Cheatline>
             <Offset>3DC8E7</Offset>
             <Section>0</Section>

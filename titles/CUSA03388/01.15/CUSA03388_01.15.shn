@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Souls III" Moder="hejran7" Cusa="CUSA03388" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限生命">
         <Cheatline>
             <Offset>474780A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-D8-0F-88-A5-8E-AD-FC-E9-55-8E-AD-FC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>4747821</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E9-46-8E-AD-FC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Magic">
+    <Cheat Text="Inf Magic | 无限魔法">
         <Cheatline>
             <Offset>1008061</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player inf Stamina">
+    <Cheat Text="Player inf Stamina | 玩家无限体力">
         <Cheatline>
             <Offset>4747839</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E9-3D-BC-B1-FC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enemy 0 Stamina">
+    <Cheat Text="Enemy 0 Stamina | 敌人零体力">
         <Cheatline>
             <Offset>474783E</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>39-D8-0F-4E-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Souls on Spend">
+    <Cheat Text="Inf Souls on Spend | 消费时无限魂">
         <Cheatline>
             <Offset>144BBDB</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>85-D2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Never Lose Souls">
+    <Cheat Text="Never Lose Souls | 永不丢失魂">
         <Cheatline>
             <Offset>105AFBF</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>89-50-74</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items On Use">
+    <Cheat Text="Max Items On Use | 使用道具时数量最大化">
         <Cheatline>
             <Offset>4747867</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items In Storage Box">
+    <Cheat Text="Max Items In Storage Box | 仓库道具数量最大化">
         <Cheatline>
             <Offset>C51841</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>41-89-4F-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dupe Anything In Storage Box">
+    <Cheat Text="Dupe Anything In Storage Box | 仓库道具复制任意物品">
         <Cheatline>
             <Offset>C51836</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>2B-8D-64-FF-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Weapon Durability">
+    <Cheat Text="Inf Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>12AB060</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>89-77-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Armour Durability">
+    <Cheat Text="Inf Armour Durability | 无限防具耐久度">
         <Cheatline>
             <Offset>12AA890</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>89-77-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reduce Fall Damage">
+    <Cheat Text="Reduce Fall Damage | 减少坠落伤害">
         <Cheatline>
             <Offset>4747848</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Resistances Effects">
+    <Cheat Text="All Resistances Effects | 全属性抗性效果">
         <Cheatline>
             <Offset>1011561</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>89-56-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf HP Player + Enemy">
+    <Cheat Text="Inf HP Player + Enemy | 玩家和敌人无限生命">
         <Cheatline>
             <Offset>1220675</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>41-89-84-24-D8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Symbol of Avarice-No Effects">
+    <Cheat Text="Symbol of Avarice-No Effects | 贪婪银蛇戒指无负面效果">
         <Cheatline>
             <Offset>122AFE8</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>FF-90-B8-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="100% Drop Rate">
+    <Cheat Text="100% Drop Rate | 100%掉宝率">
         <Cheatline>
             <Offset>4747876</Offset>
             <Section>0</Section>

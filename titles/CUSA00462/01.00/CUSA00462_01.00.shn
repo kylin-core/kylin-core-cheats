@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry® 4" Moder="Arafat" Cusa="CUSA00462" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>13E8635</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-B0-04-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Arrows/Grenade Launchers">
+    <Cheat Text="Infinite Arrows/Grenade Launchers | 无限弓箭/榴弹发射器">
         <Cheatline>
             <Offset>129E465</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-03</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables">
+    <Cheat Text="Infinite Throwables | 无限投掷物">
         <Cheatline>
             <Offset>1FE2B1F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-89-7B-78</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Cash">
+    <Cheat Text="Infinite Cash | 无限金钱">
         <Cheatline>
             <Offset>12BE895</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-83-28-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health Syringes">
+    <Cheat Text="Infinite Health Syringes | 无限医疗针">
         <Cheatline>
             <Offset>1309565</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-89-87-C0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite XP">
+    <Cheat Text="Infinite XP | 无限经验">
         <Cheatline>
             <Offset>C8D182</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-29-44-24-6C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Syringes">
+    <Cheat Text="Infinite Syringes | 无限注射器">
         <Cheatline>
             <Offset>1306FFD</Offset>
             <Section>0</Section>

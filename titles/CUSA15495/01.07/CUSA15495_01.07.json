@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "ressources field Quickly taken",
+      "name": "ressources field Quickly taken | 资源田快速采集",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "48DB43",
           "on": "01F0",
           "off": "89F0"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Field Ressources Multiplies (use with Caution)",
+      "name": "Field Ressources Multiplies (use with Caution) | 资源田倍率（谨慎使用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "48DB40",
           "on": "014128",
           "off": "894128"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Research Points Multiplier (use with Caution)",
+      "name": "Research Points Multiplier (use with Caution) | 研究点数倍率（谨慎使用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "3C0CDD",
           "on": "017060",
           "off": "897060"
@@ -41,11 +38,10 @@
       ]
     },
     {
-      "name": "Free Starter building do not decrease",
+      "name": "Free Starter building do not decrease | 免费初始建筑不减少",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "733FF8",
           "on": "909090",
           "off": "FF4818"

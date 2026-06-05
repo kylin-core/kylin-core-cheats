@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health / Ammo / 1 Hit Kill (Master Code)",
+      "name": "Inf Health / Ammo / 1 Hit Kill (Master Code) | 无限生命/弹药/一击必杀（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Ammo / No Reload (MC)",
+      "name": "Inf Ammo / No Reload (MC) | 无限弹药/无需装弹（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Finisher Gauge / Max Orbs (Master Code)",
+      "name": "Inf Finisher Gauge / Max Orbs (Master Code) | 无限终结技能量/最大灵气珠（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Orbs (999) On Spend",
+      "name": "Max Orbs (999) On Spend | 消耗时灵气珠最大（999）",
       "type": "checkbox",
       "memory": [
         {

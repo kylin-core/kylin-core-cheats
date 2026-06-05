@@ -5,7 +5,7 @@
   "process": "hackGU_vol2.elf",
   "mods": [
     {
-      "name": "Never Dec Items Used",
+      "name": "Never Dec Items Used | 道具数量不减",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "500 Smoke Bomb Value",
+      "name": "500 Smoke Bomb Value | 烟雾弹值500",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill ",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Chin 999",
+      "name": "Infinite Chin 999 | 无限金币999",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Aida Battle 1 Hit Kill",
+      "name": "Aida Battle 1 Hit Kill | 亚达战斗一击必杀",
       "type": "checkbox",
       "memory": [
         {

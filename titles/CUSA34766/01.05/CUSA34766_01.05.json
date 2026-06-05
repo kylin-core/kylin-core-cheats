@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite health",
-      "description": "none",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite skills",
-      "description": "none",
+      "name": "Infinite skills | 无限技能",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Infinite SBA",
-      "description": "none",
+      "name": "Infinite SBA | 无限奥义",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Replenish items at 1",
-      "description": "Sets all items to be 1pc",
+      "name": "Replenish items at 1 | 物品数量锁定为1",
       "type": "checkbox",
       "memory": [
         {
@@ -68,8 +64,7 @@
       ]
     },
     {
-      "name": "Max link level",
-      "description": "You may use blue potion",
+      "name": "Max link level | 最大连击等级",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "Freeze link attack timer",
-      "description": "none",
+      "name": "Freeze link attack timer | 冻结连击攻击计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -102,8 +96,7 @@
       ]
     },
     {
-      "name": "All treasure and key items",
-      "description": "Open item inventory. Your current treasure, key items pcs/quantity will be untouched",
+      "name": "All treasure and key items | 全部宝物和钥匙物品",
       "type": "checkbox",
       "memory": [
         {
@@ -119,8 +112,7 @@
       ]
     },
     {
-      "name": "Instant +50 treasures",
-      "description": "Open item inventory",
+      "name": "Instant +50 treasures | 瞬间获得+50宝物",
       "type": "checkbox",
       "memory": [
         {
@@ -136,8 +128,7 @@
       ]
     },
     {
-      "name": "Sell item x90",
-      "description": "none",
+      "name": "Sell item x90 | 出售物品×90",
       "type": "checkbox",
       "memory": [
         {
@@ -153,8 +144,7 @@
       ]
     },
     {
-      "name": "Event timer",
-      "description": "Any events like special chest (Shrouded treasure, Tombstone battle etc)",
+      "name": "Event timer | 事件计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -170,8 +160,7 @@
       ]
     },
     {
-      "name": "Increase all level",
-      "description": "Press menu and then you need to reload checkpoint or go back to town",
+      "name": "Increase all level | 提升所有等级",
       "type": "checkbox",
       "memory": [
         {
@@ -187,8 +176,7 @@
       ]
     },
     {
-      "name": "Max all party exp",
-      "description": "press menu and then you need to reload checkpoint or go back to town",
+      "name": "Max all party exp | 全员经验最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -204,8 +192,7 @@
       ]
     },
     {
-      "name": "Max base hp all members",
-      "description": "press menu and then you need to reload checkpoint or go back to town. it will reset upon level up",
+      "name": "Max base hp all members | 全员基础生命最大",
       "type": "checkbox",
       "memory": [
         {
@@ -221,8 +208,7 @@
       ]
     },
     {
-      "name": "Max all member base atk",
-      "description": "Press menu and then you need to reload checkpoint or go back to town. It will reset upon level up",
+      "name": "Max all member base atk | 全员基础攻击最大",
       "type": "checkbox",
       "memory": [
         {
@@ -238,8 +224,7 @@
       ]
     },
     {
-      "name": "Max stun power all members",
-      "description": "Press menu and then you need to reload checkpoint or go back to town. It will reset upon level up",
+      "name": "Max stun power all members | 全员眩晕力最大",
       "type": "checkbox",
       "memory": [
         {
@@ -255,8 +240,7 @@
       ]
     },
     {
-      "name": "Max crit all members",
-      "description": "Press menu and then you need to reload checkpoint or go back to town. It will reset upon level up",
+      "name": "Max crit all members | 全员暴击最大",
       "type": "checkbox",
       "memory": [
         {
@@ -272,8 +256,7 @@
       ]
     },
     {
-      "name": "Max rupies",
-      "description": "open item inventory",
+      "name": "Max rupies | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -289,8 +272,7 @@
       ]
     },
     {
-      "name": "Max MSP",
-      "description": "Open item inventory",
+      "name": "Max MSP | 最大MSP",
       "type": "checkbox",
       "memory": [
         {

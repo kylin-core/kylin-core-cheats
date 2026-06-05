@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health 1",
+      "name": "Infinite Health 1 | 无限生命1",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health 2 for some enemies (turn off first 1)",
+      "name": "Infinite Health 2 for some enemies (turn off first 1) | 部分敌人无限生命2（需关闭1）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Skill bar (blue)",
+      "name": "Infinite Skill bar (blue) | 无限技能条（蓝色）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Booster Bar ",
+      "name": "Infinite Booster Bar | 无限冲刺条",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Kimetsu Points (on spend)",
+      "name": "Max Kimetsu Points (on spend) | 最大鬼杀点数（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {

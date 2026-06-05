@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health / 1 Hit Kill",
+      "name": "Infinite Health / 1 Hit Kill | 无限生命 / 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Dont Use With 1 Hit Kill)",
+      "name": "Infinite Health (Dont Use With 1 Hit Kill) | 无限生命（不与一击必杀同时使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {

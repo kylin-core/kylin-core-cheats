@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No Reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max/Infinite EP (Disable After First Buy)",
+      "name": "Max/Infinite EP (Disable After First Buy) | 最大/无限EP（首次购买后禁用）",
       "type": "checkbox",
       "memory": [
         {

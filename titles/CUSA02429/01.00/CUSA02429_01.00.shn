@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Battlefield™ 1" Moder="Fullcodes������ԭ���" Cusa="CUSA02429" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>0220DF05</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo and Grenade Usage">
+    <Cheat Text="Infinite Ammo and Grenade Usage | 无限弹药与手雷">
         <Cheatline>
             <Offset>220CE00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-29-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Player Health">
+    <Cheat Text="Infinite Player Health | 无限玩家生命">
         <Cheatline>
             <Offset>18318B9</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="inFAMOUS: First Light" Moder="Weysincha" Cusa="CUSA00897" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>661B01</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-96-18-FA-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy">
+    <Cheat Text="Infinite Energy | 无限能量">
         <Cheatline>
             <Offset>657DA9</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-11-84-24-08-A3-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Special Skill">
+    <Cheat Text="Infinite Special Skill | 无限特殊技能">
         <Cheatline>
             <Offset>625540</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-87-00-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints">
+    <Cheat Text="Infinite Skillpoints | 无限技能点">
         <Cheatline>
             <Offset>6241B4</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-9F-FC-00-00-00-80-BF-51-0D-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Melee Finisher">
+    <Cheat Text="Infinite Melee Finisher | 无限近战终结技">
         <Cheatline>
             <Offset>6254C8</Offset>
             <Section>0</Section>

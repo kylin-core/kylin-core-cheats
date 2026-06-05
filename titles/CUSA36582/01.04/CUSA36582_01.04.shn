@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prince of Persia The Lost Crown" Moder="Pharaoh2k" Cusa="CUSA36582" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（仅限查看）">
         <Cheatline>
             <Offset>1AA2000</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Currencies, Arrows and Consumables">
+    <Cheat Text="Infinite Currencies, Arrows and Consumables | 无限货币、箭矢与消耗品">
         <Cheatline>
             <Offset>8278783C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-29-70-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Purchase and Upgrade Limits">
+    <Cheat Text="No Purchase and Upgrade Limits | 无购买与升级限制">
         <Cheatline>
             <Offset>809F0DC9</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>3B-43-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="God Mode (Untouchable)">
+    <Cheat Text="God Mode (Untouchable) | 上帝模式（无敌）">
         <Cheatline>
             <Offset>8471A0A0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>80AC7254</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>45-29-77-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jumps">
+    <Cheat Text="Infinite Jumps | 无限跳跃">
         <Cheatline>
             <Offset>81B2E8B3</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>8B-91-E4-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Athra Surge Charge">
+    <Cheat Text="Instant Athra Surge Charge | 瞬间充能阿特拉爆发">
         <Cheatline>
             <Offset>8471A120</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Athra Surge Cooldown">
+    <Cheat Text="No Athra Surge Cooldown | 无阿特拉爆发冷却">
         <Cheatline>
             <Offset>8471A160</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Damage Multiplier (Master Code)">
+    <Cheat Text="Damage Multiplier (Master Code) | 伤害倍率（主代码）">
         <Cheatline>
             <Offset>8471A180</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Damage x5">
+    <Cheat Text="--Damage x5 | --伤害5倍">
         <Cheatline>
             <Offset>8471A1A0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Damage x10">
+    <Cheat Text="--Damage x10 | --伤害10倍">
         <Cheatline>
             <Offset>8471A1A0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Damage x20">
+    <Cheat Text="--Damage x20 | --伤害20倍">
         <Cheatline>
             <Offset>8471A1A0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Damage x50">
+    <Cheat Text="--Damage x50 | --伤害50倍">
         <Cheatline>
             <Offset>8471A1A0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Damage x100">
+    <Cheat Text="--Damage x100 | --伤害100倍">
         <Cheatline>
             <Offset>8471A1A0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Height Multiplier (Master Code)">
+    <Cheat Text="Jump Height Multiplier (Master Code) | 跳跃高度倍率（主代码）">
         <Cheatline>
             <Offset>1AA2020</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Jump x2">
+    <Cheat Text="--Jump x2 | --跳跃2倍">
         <Cheatline>
             <Offset>1AA203C</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Jump x3">
+    <Cheat Text="--Jump x3 | --跳跃3倍">
         <Cheatline>
             <Offset>1AA203C</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Jump x4">
+    <Cheat Text="--Jump x4 | --跳跃4倍">
         <Cheatline>
             <Offset>1AA203C</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Jump x5">
+    <Cheat Text="--Jump x5 | --跳跃5倍">
         <Cheatline>
             <Offset>1AA203C</Offset>
             <Section>0</Section>

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / No overheat",
-      "hint": null,
+      "name": "Infinite Ammo / No overheat | 无限弹药 / 无过热",
       "type": "checkbox",
       "memory": [
         {

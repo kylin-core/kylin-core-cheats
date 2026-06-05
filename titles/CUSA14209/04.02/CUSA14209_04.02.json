@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Stamina Player Left",
+      "name": "Inf Stamina Player Left | 无限体力（左方玩家）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Stamina Player Right",
+      "name": "Inf Stamina Player Right | 无限体力（右方玩家）",
       "type": "checkbox",
       "memory": [
         {

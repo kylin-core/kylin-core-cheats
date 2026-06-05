@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Blood",
+      "name": "Inf Blood | 无限鲜血",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Wrath of Aarbron",
+      "name": "Inf Wrath of Aarbron | 无限阿尔布隆之怒",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Mana (Enable only in Wisdom of Shadows)",
+      "name": "Inf Mana (Enable only in Wisdom of Shadows) | 无限法力（仅在暗影智慧状态下启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Inf Elixir",
+      "name": "Inf Elixir | 无限灵药",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Inf Shadow Stones",
+      "name": "Inf Shadow Stones | 无限暗影石",
       "type": "checkbox",
       "memory": [
         {

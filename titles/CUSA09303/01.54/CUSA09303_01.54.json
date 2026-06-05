@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Adrenaline",
+      "name": "Infinite Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Res (On Spend)",
+      "name": "Infinite Res (On Spend) | 无限资源（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Ability Points",
+      "name": "Infinite Ability Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Instant Abilities Cooldown",
+      "name": "Instant Abilities Cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Quick Lvl Up+Engrave(Disable After Unlock Mastery)",
+      "name": "Quick Lvl Up+Engrave(Disable After Unlock Mastery) | 快速升级+铭刻（解锁专精后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Infinite Ship Health (Dont Use With 1 Hit)",
+      "name": "Infinite Ship Health (Dont Use With 1 Hit) | 无限船只生命（勿与一击必杀共用）",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Infinite Ship Adrenaline+Ram Speed",
+      "name": "Infinite Ship Adrenaline+Ram Speed | 无限船只肾上腺素+冲撞速度",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Infinite Ship Health /1 Hit Kill",
+      "name": "Infinite Ship Health /1 Hit Kill | 无限船只生命 / 一击必杀",
       "type": "checkbox",
       "memory": [
         {

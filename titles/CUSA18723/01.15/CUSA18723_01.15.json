@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 最大/无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Health+1 Hit Kill",
+      "name": "Max/Infinite Health+1 Hit Kill | 最大/无限生命值+一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Stamina",
+      "name": "Max/Infinite Stamina | 最大/无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max/Infinite FP",
+      "name": "Max/Infinite FP | 最大/无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)",
+      "name": "Max/Infinite Items/Potions/Arrows (On Pick Up/x2 To Work) | 最大/无限物品/药瓶/箭矢（拾取时生效/需x2倍触发）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Runes On Start",
+      "name": "Max/Infinite Runes On Start | 开局最大/无限卢恩",
       "type": "checkbox",
       "memory": [
         {

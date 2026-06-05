@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "Infi Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Weapon Durability",
+      "name": "Infi Weapon Durability | 无限武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infi Stamina",
+      "name": "Infi Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "No Damage (Fall, Fire, Poison, Frozen)",
+      "name": "No Damage (Fall, Fire, Poison, Frozen) | 免疫伤害（跌落、火焰、毒素、冰冻）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infi Fury",
+      "name": "Infi Fury | 无限愤怒",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Max Cash & Items",
+      "name": "Max Cash \u0026 Items | 最大现金与物品",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "Max Exp | 最大经验",
       "type": "checkbox",
       "memory": [
         {

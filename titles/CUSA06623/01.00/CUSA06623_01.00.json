@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": " bandage  inf",
+      "name": " bandage  inf | 绷带无限",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Battery time inf",
+      "name": "Battery time inf | 电池无限",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "god mode(not close)",
+      "name": "god mode(not close) | 上帝模式（不关闭）",
       "type": "checkbox",
       "memory": [
         {

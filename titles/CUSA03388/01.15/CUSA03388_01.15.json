@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Magic",
+      "name": "Inf Magic | 无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Player inf Stamina",
+      "name": "Player inf Stamina | 玩家无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Enemy 0 Stamina",
+      "name": "Enemy 0 Stamina | 敌人零体力",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Inf Souls on Spend",
+      "name": "Inf Souls on Spend | 消费时无限魂",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Never Lose Souls",
+      "name": "Never Lose Souls | 永不丢失魂",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Max Items On Use",
+      "name": "Max Items On Use | 使用道具时数量最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Max Items In Storage Box",
+      "name": "Max Items In Storage Box | 仓库道具数量最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Dupe Anything In Storage Box",
+      "name": "Dupe Anything In Storage Box | 仓库道具复制任意物品",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Durability",
+      "name": "Inf Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Inf Armour Durability",
+      "name": "Inf Armour Durability | 无限防具耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Reduce Fall Damage",
+      "name": "Reduce Fall Damage | 减少坠落伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "All Resistances Effects",
+      "name": "All Resistances Effects | 全属性抗性效果",
       "type": "checkbox",
       "memory": [
         {
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "name": "Inf HP Player + Enemy",
+      "name": "Inf HP Player + Enemy | 玩家和敌人无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "name": "Symbol of Avarice-No Effects",
+      "name": "Symbol of Avarice-No Effects | 贪婪银蛇戒指无负面效果",
       "type": "checkbox",
       "memory": [
         {
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "name": "100% Drop Rate",
+      "name": "100% Drop Rate | 100%掉宝率",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP0001-CUSA34896_00-BGER000000000000" Moder="Talixme" Cusa="CUSA34896" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Life Ship">
+    <Cheat Text="Inf Life Ship | 无限生命船">
         <Cheatline>
             <Offset>9E9168</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Life">
+    <Cheat Text="Inf Life | 无限生命">
         <Cheatline>
             <Offset>C61B99</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money">
+    <Cheat Text="Inf Money | 无限金钱">
         <Cheatline>
             <Offset>136F000</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL REVELATIONS 2" Moder="Dioniso" Cusa="CUSA01141" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="[01] Immunity">
+    <Cheat Text="[01] Immunity | [01] 免疫">
         <Cheatline>
             <Offset>1540420</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[02] Infinite HP">
+    <Cheat Text="[02] Infinite HP | [02] 无限生命">
         <Cheatline>
             <Offset>1540230</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[03a] 1 Hit Kill">
+    <Cheat Text="[03a] 1 Hit Kill | [03a] 一击必杀">
         <Cheatline>
             <Offset>1540244</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[03b] 1 Hit Kill (Even Torchlight/Pointing)">
+    <Cheat Text="[03b] 1 Hit Kill (Even Torchlight/Pointing) | [03b] 一击必杀（含手电/指向）">
         <Cheatline>
             <Offset>1540600</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[04] L2+X Kills Instantly All NMEs">
+    <Cheat Text="[04] L2+X Kills Instantly All NMEs | [04] L2+X 秒杀所有敌人">
         <Cheatline>
             <Offset>1540940</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[05] L2+R2+X Change First Weapon In Quick Menu (Needs Autosave + Retry)">
+    <Cheat Text="[05] L2+R2+X Change First Weapon In Quick Menu (Needs Autosave + Retry) | [05] L2+R2+X 切换快捷栏第一武器（需自动存档+重试）">
         <Cheatline>
             <Offset>15409A0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[06] Workbench: All Weapons Unlocked (If AUTOSAVE Then Permanent)">
+    <Cheat Text="[06] Workbench: All Weapons Unlocked (If AUTOSAVE Then Permanent) | [06] 工作台：解锁所有武器（自动存档后永久）">
         <Cheatline>
             <Offset>1540B20</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[07] Workbench: All Improvements (Infinite)">
+    <Cheat Text="[07] Workbench: All Improvements (Infinite) | [07] 工作台：全部无限强化">
         <Cheatline>
             <Offset>1540500</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[08] Workbench: Use Same Upgrades Parts Possible">
+    <Cheat Text="[08] Workbench: Use Same Upgrades Parts Possible | [08] 工作台：可使用相同升级零件">
         <Cheatline>
             <Offset>6BA299</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>74-3E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[09] Infinite Ammo / No Reload">
+    <Cheat Text="[09] Infinite Ammo / No Reload | [09] 无限弹药/无需装弹">
         <Cheatline>
             <Offset>1540200</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[10] Aiming Laser">
+    <Cheat Text="[10] Aiming Laser | [10] 瞄准激光">
         <Cheatline>
             <Offset>33906E</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>74-12</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[11a] Player`s Speed x2 (Careful When jumping Down Fast)">
+    <Cheat Text="[11a] Player`s Speed x2 (Careful When jumping Down Fast) | [11a] 玩家速度×2（快速下落时需谨慎）">
         <Cheatline>
             <Offset>1540260</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[11b] Player`s Speed x4 (Careful When jumping Down Fast)">
+    <Cheat Text="[11b] Player`s Speed x4 (Careful When jumping Down Fast) | [11b] 玩家速度×4（快速下落时需谨慎）">
         <Cheatline>
             <Offset>1540260</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[12] Some Keys/Items (-Fuel, Artificial Eye, Left Liver, Sewer, Barry Episode 4)">
+    <Cheat Text="[12] Some Keys/Items (-Fuel, Artificial Eye, Left Liver, Sewer, Barry Episode 4) | [12] 部分钥匙/物品（燃料、义眼、左肝、下水道、巴瑞第4章）">
         <Cheatline>
             <Offset>1540700</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[13] Bags: Slots Maxed (10-15)">
+    <Cheat Text="[13] Bags: Slots Maxed (10-15) | [13] 背包：最大格子数（10-15）">
         <Cheatline>
             <Offset>1540370</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[14] Bags: Infinite Items">
+    <Cheat Text="[14] Bags: Infinite Items | [14] 背包：无限物品">
         <Cheatline>
             <Offset>1540300</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[15] Flashlight Batteries Full">
+    <Cheat Text="[15] Flashlight Batteries Full | [15] 手电筒满电量">
         <Cheatline>
             <Offset>1540320</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[16] Infinite PB (+666.666)">
+    <Cheat Text="[16] Infinite PB (+666.666) | [16] 无限PB点数（+666.666）">
         <Cheatline>
             <Offset>1540340</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[17] S Rank: Accuracy = 100.0">
+    <Cheat Text="[17] S Rank: Accuracy = 100.0 | [17] S评价：命中率100%">
         <Cheatline>
             <Offset>15404C0</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[18] S Rank: Retries = 0">
+    <Cheat Text="[18] S Rank: Retries = 0 | [18] S评价：重试次数0">
         <Cheatline>
             <Offset>15404A0</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[19] S Rank: Clear Time  = 00:00 00">
+    <Cheat Text="[19] S Rank: Clear Time  = 00:00 00 | [19] S评价：通关时间00:00 00">
         <Cheatline>
             <Offset>15404D0</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[20] Timer Frozen (06:06:06)">
+    <Cheat Text="[20] Timer Frozen (06:06:06) | [20] 计时冻结（06:06:06）">
         <Cheatline>
             <Offset>15405D0</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[21] Barry: Valves Open Easily (One Turn)">
+    <Cheat Text="[21] Barry: Valves Open Easily (One Turn) | [21] 巴瑞：阀门一键开启">
         <Cheatline>
             <Offset>5CC63F</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>75-1B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[22] Toxic Gas Has No Effect (Barry/Natalia -Lift)">
+    <Cheat Text="[22] Toxic Gas Has No Effect (Barry/Natalia -Lift) | [22] 毒气无效（巴瑞/娜塔莉亚-电梯）">
         <Cheatline>
             <Offset>1540F30</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[23] The Struggle: Infinite Ratios">
+    <Cheat Text="[23] The Struggle: Infinite Ratios | [23] 挣扎模式：无限比例">
         <Cheatline>
             <Offset>15407A0</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[24] Raid Mode: Players` Level 100">
+    <Cheat Text="[24] Raid Mode: Players` Level 100 | [24] 突击模式：玩家等级100">
         <Cheatline>
             <Offset>1540C60</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[25] Raid Mode: All Weapons Upgrades Unlocked +Infinite">
+    <Cheat Text="[25] Raid Mode: All Weapons Upgrades Unlocked +Infinite | [25] 突击模式：全部武器升级解锁+无限">
         <Cheatline>
             <Offset>1540C00</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[26] Raid Mode: Weapons Level 100 (Go Once To Customize)">
+    <Cheat Text="[26] Raid Mode: Weapons Level 100 (Go Once To Customize) | [26] 突击模式：武器等级100（进入自定义一次）">
         <Cheatline>
             <Offset>1540D10</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[27] Raid Mode: Firepower Hyper Beyond Limits (Go Once To Customize)">
+    <Cheat Text="[27] Raid Mode: Firepower Hyper Beyond Limits (Go Once To Customize) | [27] 突击模式：火力超限（进入自定义一次）">
         <Cheatline>
             <Offset>1540DE0</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[28] Raid Mode: All Skills Unlocked +Maxed">
+    <Cheat Text="[28] Raid Mode: All Skills Unlocked +Maxed | [28] 突击模式：全部技能解锁+满级">
         <Cheatline>
             <Offset>1540CC0</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[29] Raid Mode: Timer = 0">
+    <Cheat Text="[29] Raid Mode: Timer = 0 | [29] 突击模式：计时归零">
         <Cheatline>
             <Offset>1540890</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[30] Raid Mode: Infinite Gold">
+    <Cheat Text="[30] Raid Mode: Infinite Gold | [30] 突击模式：无限金币">
         <Cheatline>
             <Offset>1540860</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[31] Raid Mode: Infinite Skill Points (SP)">
+    <Cheat Text="[31] Raid Mode: Infinite Skill Points (SP) | [31] 突击模式：无限技能点（SP）">
         <Cheatline>
             <Offset>1540A40</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[32] Raid Mode: Infinite Bottles/Bombs">
+    <Cheat Text="[32] Raid Mode: Infinite Bottles/Bombs | [32] 突击模式：无限瓶/炸弹">
         <Cheatline>
             <Offset>1540A80</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[33] Raid Mode: No Reload For Bewilder, Stealth, Armour, Rocket Skills">
+    <Cheat Text="[33] Raid Mode: No Reload For Bewilder, Stealth, Armour, Rocket Skills | [33] 突击模式：迷惑、潜行、装甲、火箭技能无需装弹">
         <Cheatline>
             <Offset>1540E60</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[34] Raid Mode: Infinite Stealth + Armor">
+    <Cheat Text="[34] Raid Mode: Infinite Stealth + Armor | [34] 突击模式：无限潜行+装甲">
         <Cheatline>
             <Offset>1540EC0</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35a] Raid Mode: Weapons Tags [Short Range]">
+    <Cheat Text="[35a] Raid Mode: Weapons Tags [Short Range] | [35a] 突击模式：武器标签【短射程】">
         <Cheatline>
             <Offset>1540D40</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35b] Raid Mode: Weapons Tags [Long Range]">
+    <Cheat Text="[35b] Raid Mode: Weapons Tags [Long Range] | [35b] 突击模式：武器标签【长射程】">
         <Cheatline>
             <Offset>1540D50</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35c] Raid Mode: Weapons Tags [Speed Shot]">
+    <Cheat Text="[35c] Raid Mode: Weapons Tags [Speed Shot] | [35c] 突击模式：武器标签【速射】">
         <Cheatline>
             <Offset>1540D60</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35d] Raid Mode: Weapons Tags [Steady Shot]">
+    <Cheat Text="[35d] Raid Mode: Weapons Tags [Steady Shot] | [35d] 突击模式：武器标签【稳射】">
         <Cheatline>
             <Offset>1540D70</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35e] Raid Mode: Weapons Tags [Speed Load]">
+    <Cheat Text="[35e] Raid Mode: Weapons Tags [Speed Load] | [35e] 突击模式：武器标签【速装】">
         <Cheatline>
             <Offset>1540D80</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35f] Raid Mode: Weapons Tags [Sonic Assist]">
+    <Cheat Text="[35f] Raid Mode: Weapons Tags [Sonic Assist] | [35f] 突击模式：武器标签【声波辅助】">
         <Cheatline>
             <Offset>1540D90</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35g] Raid Mode: Weapons Tags [Sonic Assist+]">
+    <Cheat Text="[35g] Raid Mode: Weapons Tags [Sonic Assist+] | [35g] 突击模式：武器标签【声波辅助+】">
         <Cheatline>
             <Offset>1540DA0</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35h] Raid Mode: Weapons Tags [Short Range+]">
+    <Cheat Text="[35h] Raid Mode: Weapons Tags [Short Range+] | [35h] 突击模式：武器标签【短射程+】">
         <Cheatline>
             <Offset>1540DB0</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35i] Raid Mode: Weapons Tags [Long Range+]">
+    <Cheat Text="[35i] Raid Mode: Weapons Tags [Long Range+] | [35i] 突击模式：武器标签【长射程+】">
         <Cheatline>
             <Offset>1540DC0</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[35j] Raid Mode: Weapons Tags [Unique Weapon Name]">
+    <Cheat Text="[35j] Raid Mode: Weapons Tags [Unique Weapon Name] | [35j] 突击模式：武器标签【独特武器名】">
         <Cheatline>
             <Offset>1540DD0</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[36] Frozen NMEs">
+    <Cheat Text="[36] Frozen NMEs | [36] 敌人冻结">
         <Cheatline>
             <Offset>9AEE8A</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>0F-9E-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[37] NME Don`t Walk/Run (Pedro and Barry Assault = Cheat 04 Needed)">
+    <Cheat Text="[37] NME Don`t Walk/Run (Pedro and Barry Assault = Cheat 04 Needed) | [37] 敌人禁止行走/奔跑（佩德罗与巴瑞突击需启用作弊04）">
         <Cheatline>
             <Offset>1540620</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[38a] Player`s Size x2 (Unplayable)">
+    <Cheat Text="[38a] Player`s Size x2 (Unplayable) | [38a] 玩家体型×2（无法正常游玩）">
         <Cheatline>
             <Offset>15403B0</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[38b] Player`s Size x1">
+    <Cheat Text="[38b] Player`s Size x1 | [38b] 玩家体型×1">
         <Cheatline>
             <Offset>15403B0</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[38c] Player`s Size x0.5 (Unplayable)">
+    <Cheat Text="[38c] Player`s Size x0.5 (Unplayable) | [38c] 玩家体型×0.5（无法正常游玩）">
         <Cheatline>
             <Offset>15403B0</Offset>
             <Section>0</Section>

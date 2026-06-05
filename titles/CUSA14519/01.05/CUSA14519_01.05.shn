@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Maneater" Moder="TylerMods+Gatot Kaca_9.00" Cusa="CUSA14519" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="2 Hit Kill">
+    <Cheat Text="2 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>587EC20</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Oxygen">
+    <Cheat Text="Infinite Oxygen | 无限氧气">
         <Cheatline>
             <Offset>587EB80</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>587EBD0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level on Gain">
+    <Cheat Text="Max Level on Gain | 升级即满级">
         <Cheatline>
             <Offset>587E8F0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9,999,999 Protein on Gain">
+    <Cheat Text="9,999,999 Protein on Gain | 获取时蛋白质9999999">
         <Cheatline>
             <Offset>587E780</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9,999,999 Fats on Gain">
+    <Cheat Text="9,999,999 Fats on Gain | 获取时脂肪9999999">
         <Cheatline>
             <Offset>5885FD0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9,999,999 Minerals on Gain">
+    <Cheat Text="9,999,999 Minerals on Gain | 获取时矿物质9999999">
         <Cheatline>
             <Offset>587E5C0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9,999,999 Mutagens on Gain">
+    <Cheat Text="9,999,999 Mutagens on Gain | 获取时诱变剂9999999">
         <Cheatline>
             <Offset>587EA10</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Faster Game Speed">
+    <Cheat Text="Faster Game Speed | 加快游戏速度">
         <Cheatline>
             <Offset>587EC70</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game Speed Normal">
+    <Cheat Text="Game Speed Normal | 游戏速度正常">
         <Cheatline>
             <Offset>587ECA0</Offset>
             <Section>0</Section>

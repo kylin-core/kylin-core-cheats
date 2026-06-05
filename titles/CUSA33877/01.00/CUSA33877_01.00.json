@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code",
+      "name": "Master Code | 主密码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health (MC)",
+      "name": "Inf Health (MC) | 无限生命 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Start With Magnum (1st Slot)",
+      "name": "Start With Magnum (1st Slot) | 开局获得麦林枪 (第一格)",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo All Weapons",
+      "name": "Infinite Ammo All Weapons | 所有武器无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "All Items in Chest",
+      "name": "All Items in Chest | 箱中全物品",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Game Time at End 00’00’00",
+      "name": "Game Time at End 00’00’00 | 通关时间00'00'00",
       "type": "checkbox",
       "memory": [
         {

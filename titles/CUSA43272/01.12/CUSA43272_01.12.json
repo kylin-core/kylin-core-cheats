@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlocker",
+      "name": "Unlocker | 解锁器",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "health test",
+      "name": "health test | 体力测试",
       "type": "checkbox",
       "memory": [
         {

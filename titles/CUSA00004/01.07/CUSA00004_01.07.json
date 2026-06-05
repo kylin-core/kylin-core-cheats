@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Bombs / Rockets",
+      "name": "Infinite Bombs / Rockets | 无限炸弹/火箭",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints / Shards",
+      "name": "Infinite Skillpoints / Shards | 无限技能点/碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Level True Hero",
+      "name": "Max Level True Hero | 满级真英雄",
       "type": "button",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max Level Infamous",
+      "name": "Max Level Infamous | 满级恶名",
       "type": "button",
       "memory": [
         {

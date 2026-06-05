@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="WWE2K23" Moder="DJFlameDat" Cusa="CUSA34179" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP (CHEATS DON'T WORK ON MY RISE MODE BUT LAST ONE)">
+    <Cheat Text="Inf HP (CHEATS DON'T WORK ON MY RISE MODE BUT LAST ONE) | 无限生命（作弊在'我的崛起'模式中无效，仅最后一项有效）">
         <Cheatline>
             <Offset>397B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Recovery Bar (On Gain, the bar is invisible, restart match to make it appear otherwise ignore)">
+    <Cheat Text="Inf Recovery Bar (On Gain, the bar is invisible, restart match to make it appear otherwise ignore) | 无限恢复条（获得时恢复条不可见，重新开始比赛使其显示，否则忽略）">
         <Cheatline>
             <Offset>397B819</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Finisher (On Gain)">
+    <Cheat Text="Inf Finisher (On Gain) | 无限终结技（获得时生效）">
         <Cheatline>
             <Offset>397B888</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限体力">
         <Cheatline>
             <Offset>397B852</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Stun (On Gain)">
+    <Cheat Text="No Stun (On Gain) | 无眩晕（获得时生效）">
         <Cheatline>
             <Offset>397B86D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Out of Ring Timer">
+    <Cheat Text="Inf Out of Ring Timer | 无限场外倒计时">
         <Cheatline>
             <Offset>397B8A3</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Pin Timer">
+    <Cheat Text="Inf Pin Timer | 无限压制倒计时">
         <Cheatline>
             <Offset>397B8B6</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Superstar Attribute Points (On Use)">
+    <Cheat Text="Inf Superstar Attribute Points (On Use) | 无限超级巨星属性点数（使用后生效）">
         <Cheatline>
             <Offset>397B8C7</Offset>
             <Section>0</Section>

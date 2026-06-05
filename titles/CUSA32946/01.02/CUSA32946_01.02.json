@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Super",
+      "name": "Infinite Super | 无限必杀技",
       "type": "checkbox",
       "memory": [
         {
@@ -35,7 +35,6 @@
           "off": "41C7869C00000000000000"
         },
         {
-          "section": "14",
           "offset": "2DAD80",
           "on": "9090",
           "off": "29C3"
@@ -43,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Lives",
+      "name": "Infinite Lives | 无限续命",
       "type": "checkbox",
       "memory": [
         {

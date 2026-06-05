@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grounded" Moder="Sondio" Cusa="CUSA42556" Version="01.14" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Health (MC)">
+    <Cheat Text="Max Health (MC) | 最大生命值">
         <Cheatline>
             <Offset>76C4350</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill (Enable MC)">
+    <Cheat Text="One Hit Kill (Enable MC) | 一击必杀">
         <Cheatline>
             <Offset>76C4387</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Stamina">
+    <Cheat Text="Max Stamina | 最大耐力">
         <Cheatline>
             <Offset>76C4399</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Thirst">
+    <Cheat Text="No Thirst | 无口渴">
         <Cheatline>
             <Offset>76C43AE</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Hungry">
+    <Cheat Text="No Hungry | 无饥饿">
         <Cheatline>
             <Offset>76C43C3</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Oxygen">
+    <Cheat Text="Max Oxygen | 最大氧气">
         <Cheatline>
             <Offset>76C43D9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Day Time x100 (Enable MC)">
+    <Cheat Text="Day Time x100 (Enable MC) | 时间流速x100">
         <Cheatline>
             <Offset>76C4427</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jumps (Enable MC)">
+    <Cheat Text="Infinite Jumps (Enable MC) | 无限跳跃">
         <Cheatline>
             <Offset>76C4454</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Run">
+    <Cheat Text="Hyper Run | 超级奔跑">
         <Cheatline>
             <Offset>76C45FB</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Jump">
+    <Cheat Text="Hyper Jump | 超级跳跃">
         <Cheatline>
             <Offset>76C460F</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items">
+    <Cheat Text="Max Items | 最大物品">
         <Cheatline>
             <Offset>76C446A</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Brain Power lvl 16">
+    <Cheat Text="Max Brain Power lvl 16 | 最大脑力等级16">
         <Cheatline>
             <Offset>76C447F</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Raw Science">
+    <Cheat Text="Max Raw Science | 最大原始科学">
         <Cheatline>
             <Offset>76C44B3</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Analyzer Charges">
+    <Cheat Text="Max Analyzer Charges | 最大分析仪充能">
         <Cheatline>
             <Offset>76C44C9</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Torch">
+    <Cheat Text="Infinite Torch | 无限火炬">
         <Cheatline>
             <Offset>76C44DB</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Weapons Health">
+    <Cheat Text="Max Weapons Health | 最大武器耐久">
         <Cheatline>
             <Offset>76C44F0</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Milk Molar/Mega Milk Molar">
+    <Cheat Text="Max Milk Molar/Mega Milk Molar | 最大乳牙/巨型乳牙">
         <Cheatline>
             <Offset>76C4505</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Mutations">
+    <Cheat Text="Max Mutations | 最大突变">
         <Cheatline>
             <Offset>76C452A</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Haul">
+    <Cheat Text="Max Haul | 最大搬运">
         <Cheatline>
             <Offset>76C4545</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bombs">
+    <Cheat Text="Max Bombs | 最大炸弹">
         <Cheatline>
             <Offset>76C4560</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game Settings (GS)">
+    <Cheat Text="Game Settings (GS) | 游戏设置">
         <Cheatline>
             <Offset>76C4575</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Recipes (Enable GS)">
+    <Cheat Text="Unlock Recipes (Enable GS) | 解锁配方">
         <Cheatline>
             <Offset>76C4581</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>C6-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Free Build (Enable GS)">
+    <Cheat Text="Free Build (Enable GS) | 自由建造">
         <Cheatline>
             <Offset>76C458F</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>C6-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Build Integrity (Enable GS)">
+    <Cheat Text="Build Integrity (Enable GS) | 建筑完整性">
         <Cheatline>
             <Offset>76C459D</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>C6-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Free Craft (Enable GS)">
+    <Cheat Text="Free Craft (Enable GS) | 免费制作">
         <Cheatline>
             <Offset>76C45AB</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>C6-00-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock All Mutations (Enable GS)">
+    <Cheat Text="Unlock All Mutations (Enable GS) | 解锁所有突变">
         <Cheatline>
             <Offset>76C45B9</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>C6-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fully Yoked (Enable GS)">
+    <Cheat Text="Fully Yoked (Enable GS) | 全属性强化">
         <Cheatline>
             <Offset>76C45C7</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>C6-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Handy Gnat (Enable GS)">
+    <Cheat Text="Handy Gnat (Enable GS) | 便利蚊虫">
         <Cheatline>
             <Offset>76C45D5</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>C6-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Respawn Backpack with You (Enable GS)">
+    <Cheat Text="Respawn Backpack with You (Enable GS) | 背包随你重生">
         <Cheatline>
             <Offset>76C45E5</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "backport 9 to 505 only",
+      "name": "backport 9 to 505 only | 仅向后移植至505",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "infinite Health",
+      "name": "infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "infinite SP",
+      "name": "infinite SP | 无限精神",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "All items",
+      "name": "All items | 全部道具",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Player EXP",
+      "name": "Max Player EXP | 最大主角经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max exp persona",
+      "name": "Max exp persona | 最大人格面具经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max persona stats",
+      "name": "Max persona stats | 人格面具属性最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Max Social Stats",
+      "name": "Max Social Stats | 最大社会属性",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Exp Social Link",
+      "name": "Max Exp Social Link | 最大社群经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Master Code Daytime",
+      "name": "Master Code Daytime | 主代码-白天",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Early morning (MC daytime)",
+      "name": "Early morning (MC daytime) | 清晨（主角白天）",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Afterschool (MC daytime)",
+      "name": "Afterschool (MC daytime) | 放学后（主角白天）",
       "type": "checkbox",
       "memory": [
         {
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Evening (MC daytime)",
+      "name": "Evening (MC daytime) | 傍晚（主角白天）",
       "type": "checkbox",
       "memory": [
         {
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "name": "Master Code Date",
+      "name": "Master Code Date | 主代码-日期",
       "type": "checkbox",
       "memory": [
         {
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "name": "Decrease 1 day (MC Date)",
+      "name": "Decrease 1 day (MC Date) | 减少1天（主角日期）",
       "type": "checkbox",
       "memory": [
         {
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "name": "Increase 1 day (MC Date)",
+      "name": "Increase 1 day (MC Date) | 增加1天（主角日期）",
       "type": "checkbox",
       "memory": [
         {
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "name": "Yen",
+      "name": "Yen | 金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "name": "Master Code Persona id (skin)",
+      "name": "Master Code Persona id (skin) | 主代码-人格面具ID（外观）",
       "type": "checkbox",
       "memory": [
         {
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "name": "Increase id (MC id)",
+      "name": "Increase id (MC id) | 增加ID（主角ID）",
       "type": "checkbox",
       "memory": [
         {
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "name": "Decrease id (MC id)",
+      "name": "Decrease id (MC id) | 减少ID（主角ID）",
       "type": "checkbox",
       "memory": [
         {

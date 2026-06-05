@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tekken 7" Moder="TLH" Cusa="CUSA06014" Version="05.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Player 1: Max Health">
+    <Cheat Text="Player 1: Max Health | 玩家1：最大生命值">
         <Cheatline>
             <Offset>5447800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player 1: Min Health">
+    <Cheat Text="Player 1: Min Health | 玩家1：最小生命值">
         <Cheatline>
             <Offset>5447800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player 2: Max Health">
+    <Cheat Text="Player 2: Max Health | 玩家2：最大生命值">
         <Cheatline>
             <Offset>5447801</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player 2: Min Health">
+    <Cheat Text="Player 2: Min Health | 玩家2：最小生命值">
         <Cheatline>
             <Offset>5447801</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Health">
+    <Cheat Text="Health | 生命值">
         <Cheatline>
             <Offset>5447800</Offset>
             <Section>0</Section>

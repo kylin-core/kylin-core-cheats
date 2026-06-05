@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (5 hearts)",
+      "name": "Infinite Health (5 hearts) | 无限生命（5颗心）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Coins (on gain)",
+      "name": "Max Coins (on gain) | 金币最大（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Gliding",
+      "name": "Infinite Gliding | 无限滑翔",
       "type": "checkbox",
       "memory": [
         {
@@ -69,11 +69,10 @@
       ]
     },
     {
-      "name": "No Fall Damage",
+      "name": "No Fall Damage | 无掉落伤害",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "51FD76",
           "on": "9090909090",
           "off": "C5FA114018"
@@ -81,11 +80,10 @@
       ]
     },
     {
-      "name": "Infinite Club Smash",
+      "name": "Infinite Club Smash | 无限重击",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "515C02",
           "on": "9090909090",
           "off": "C5FA114018"
@@ -93,11 +91,10 @@
       ]
     },
     {
-      "name": "Infinite Dash",
+      "name": "Infinite Dash | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "51C760",
           "on": "9090909090",
           "off": "C5FA114018"
@@ -105,11 +102,10 @@
       ]
     },
     {
-      "name": "Infinite Bow shots",
+      "name": "Infinite Bow shots | 无限弓箭",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "42C217",
           "on": "9090909090",
           "off": "C5FA114018"

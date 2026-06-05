@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War Ragnarok" Moder="Yharnam" Cusa="PPSA08331" Version="05.005.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>8BBF86</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C3-CC-CC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>14B6D28</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Arrows & Throwables">
+    <Cheat Text="Infi Arrows & Throwables | 无限箭矢与投掷物">
         <Cheatline>
             <Offset>14B6D46</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Rage">
+    <Cheat Text="Infi Rage | 无限怒火">
         <Cheatline>
             <Offset>14B6D9F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Cooldown (Talisman, Relic)">
+    <Cheat Text="Instant Cooldown (Talisman, Relic) | 瞬间冷却（护符、遗物）">
         <Cheatline>
             <Offset>14B6D14</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Stun">
+    <Cheat Text="1 Hit Stun | 一击眩晕">
         <Cheatline>
             <Offset>14B6D81</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Resource Deduction (XP,HS)">
+    <Cheat Text="No Resource Deduction (XP,HS) | 无资源消耗（经验、银片）">
         <Cheatline>
             <Offset>14B6D00</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Limits (Crafting, Upgrade)">
+    <Cheat Text="No Limits (Crafting, Upgrade) | 无限制（制作、升级）">
         <Cheatline>
             <Offset>D2A746</Offset>
             <Section>0</Section>

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Set Zeni to 9.999.999",
-      "hint": null,
+      "name": "Set Zeni to 9.999.999 | 设置金币为9,999,999",
       "type": "button",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Set TP/ZP to 9.999.999",
-      "hint": null,
+      "name": "Set TP/ZP to 9.999.999 | 设置TP/ZP为9,999,999",
       "type": "button",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Set Exp to 9.999.999",
-      "hint": null,
+      "name": "Set Exp to 9.999.999 | 设置经验值为9,999,999",
       "type": "button",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Set Skillpoints to 999",
-      "hint": null,
+      "name": "Set Skillpoints to 999 | 设置技能点为999",
       "type": "button",
       "memory": [
         {

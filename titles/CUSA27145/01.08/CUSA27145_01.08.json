@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Items/Money x9999 on gain (disable when collecting brains)",
+      "name": "All Items/Money x9999 on gain (disable when collecting brains) | 获取时全部物品/金钱x9999（收集脑部时禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "All Items/Money x9999 (on use)",
+      "name": "All Items/Money x9999 (on use) | 使用时全部物品/金钱x9999",
       "type": "checkbox",
       "memory": [
         {

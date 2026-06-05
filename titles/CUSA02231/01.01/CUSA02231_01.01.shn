@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored (Definitive Edition)" Moder="TLH" Cusa="CUSA02231" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1CB3813</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>1CB3814</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Mana">
+    <Cheat Text="Infinite Mana | 无限法力">
         <Cheatline>
             <Offset>6D7AD8</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>0F-4F-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath">
+    <Cheat Text="Infinite Breath | 无限呼吸">
         <Cheatline>
             <Offset>6F3651</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-5C-D2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>8CC0D4</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-29-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>88C200</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-29-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>88C076</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>41-FF-8C-85-08-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金币">
         <Cheatline>
             <Offset>88CE7D</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>29-FE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Runes">
+    <Cheat Text="Infinite Runes | 无限符文">
         <Cheatline>
             <Offset>88CE7F</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>85-F6-41-0F-4E-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth">
+    <Cheat Text="Stealth | 隐身模式">
         <Cheatline>
             <Offset>1CB3875</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dark Vision">
+    <Cheat Text="Infinite Dark Vision | 无限黑暗视觉">
         <Cheatline>
             <Offset>86EC4C</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C5-F2-5C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cooldown: Blink">
+    <Cheat Text="No Cooldown: Blink | 瞬移无冷却">
         <Cheatline>
             <Offset>8725B2</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>C7-83-AC-01-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Possession">
+    <Cheat Text="Infinite Possession | 无限附身">
         <Cheatline>
             <Offset>87A37D</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Choke">
+    <Cheat Text="Instant Choke | 瞬间击晕">
         <Cheatline>
             <Offset>6691E7</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C5-FA-10-45-B4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Adrenaline">
+    <Cheat Text="Infinite Adrenaline | 无限肾上腺素">
         <Cheatline>
             <Offset>6DF189</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Wheels Instant Turn">
+    <Cheat Text="Wheels Instant Turn | 车轮瞬间转向">
         <Cheatline>
             <Offset>1CB384B</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Safe always Open">
+    <Cheat Text="Safe always Open | 保险柜常开">
         <Cheatline>
             <Offset>1CB3862</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perfect Stats">
+    <Cheat Text="Perfect Stats | 完美属性">
         <Cheatline>
             <Offset>1CB3885</Offset>
             <Section>0</Section>

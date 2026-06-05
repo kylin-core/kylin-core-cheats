@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Max Exp/Level",
-      "hint": null,
+      "name": "Max Exp/Level | 最高经验/等级",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Set GM (Money) to 9.999.999",
-      "hint": null,
+      "name": "Set GM (Money) to 9.999.999 | 设置金币为9,999,999",
       "type": "button",
       "memory": [
         {

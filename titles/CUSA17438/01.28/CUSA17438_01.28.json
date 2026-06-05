@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlimited Fuel",
+      "name": "Unlimited Fuel | 无限燃油",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "No Engine Damage",
+      "name": "No Engine Damage | 无引擎损坏",
       "type": "checkbox",
       "memory": [
         {
@@ -27,6 +27,7 @@
       ]
     },
     {
+      "name": "Cheat 3 | 秘籍3",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +35,7 @@
           "on": "4889D8",
           "off": "894308"
         }
-      ],
-      "name": "Cheat 3"
+      ]
     }
   ],
   "credits": [

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Sun Power (for healing only)",
+      "name": "Infinite Sun Power (for healing only) | 无限太阳之力（仅限治疗）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Embers (on collect)",
+      "name": "Max Embers (on collect) | 最高余烬（收集时）",
       "type": "checkbox",
       "memory": [
         {

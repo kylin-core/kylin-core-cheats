@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Dev Menu (L3 + Upper L or R Touch Pad)",
+      "name": "Dev Menu (L3 + Upper L or R Touch Pad) | 开发者菜单（L3 + 触控板上方左/右）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Hide All Dev Menu Details",
+      "name": "Hide All Dev Menu Details | 隐藏所有开发者菜单详情",
       "type": "checkbox",
       "memory": [
         {

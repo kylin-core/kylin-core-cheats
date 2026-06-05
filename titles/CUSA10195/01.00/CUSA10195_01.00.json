@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Bombs/ Coins/ Keys",
-      "hint": "Use 1 bomb to activate.",
+      "name": "Infinite Bombs/ Coins/ Keys | 无限炸弹/金币/钥匙",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 所有客户端无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Demi Godmode",
-      "hint": null,
+      "name": "All Client Demi Godmode | 所有客户端半无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Bypass Death Barriers",
-      "hint": null,
+      "name": "Bypass Death Barriers | 绕过死亡屏障",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Jetpack",
-      "hint": null,
+      "name": "Infinite Jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -80,8 +75,7 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "hint": null,
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -92,8 +86,7 @@
       ]
     },
     {
-      "name": "Player 1 Give Points (Zombies)",
-      "hint": null,
+      "name": "Player 1 Give Points (Zombies) | 玩家1加分数（僵尸模式）",
       "type": "button",
       "memory": [
         {
@@ -104,8 +97,7 @@
       ]
     },
     {
-      "name": "Player 2 Give Points (Zombies)",
-      "hint": null,
+      "name": "Player 2 Give Points (Zombies) | 玩家2加分数（僵尸模式）",
       "type": "button",
       "memory": [
         {
@@ -116,8 +108,7 @@
       ]
     },
     {
-      "name": "Player 3 Give Points (Zombies)",
-      "hint": null,
+      "name": "Player 3 Give Points (Zombies) | 玩家3加分数（僵尸模式）",
       "type": "button",
       "memory": [
         {
@@ -128,8 +119,7 @@
       ]
     },
     {
-      "name": "Player 4 Give Points (Zombies)",
-      "hint": null,
+      "name": "Player 4 Give Points (Zombies) | 玩家4加分数（僵尸模式）",
       "type": "button",
       "memory": [
         {

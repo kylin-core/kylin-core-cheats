@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Stats &quot;After Training&quot;",
+      "name": "Max Stats \"After Training\" | 训练后全属性最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Max Bits",
+      "name": "Max Bits | 最大比特币",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Quick Level Up Tamer",
+      "name": "Quick Level Up Tamer | 驯兽师快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Max TP &quot;After Use&quot;",
+      "name": "Max TP \"After Use\" | 使用后TP最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Max Friendship",
+      "name": "Max Friendship | 最大亲密度",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Max Item &quot;Open Storage Move 1 Item&quot;",
+      "name": "Max Item \"Open Storage Move 1 Item\" | 打开仓库时物品最大化",
       "type": "checkbox",
       "memory": [
         {

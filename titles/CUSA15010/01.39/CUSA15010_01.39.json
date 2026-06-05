@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Godmode",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client Godmode | 所有客户端无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Ammo",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -44,8 +42,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Points",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client Infinite Points | 所有客户端无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "All Client 1-Hit Kill",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client 1-Hit Kill | 所有客户端一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -90,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {

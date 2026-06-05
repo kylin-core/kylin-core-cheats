@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On)",
+      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On) | 无限生命/一击必杀（主代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max Obolites/Keys",
+      "name": "Max Obolites/Keys | 最大奥博石/钥匙",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Ether",
+      "name": "Max Ether | 最大以太",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Dash Instant Cooldown",
+      "name": "Dash Instant Cooldown | 冲刺瞬间冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps",
+      "name": "Infinite Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Infinite VOIDBEAM/SHOCKSTREAM",
+      "name": "Infinite VOIDBEAM/SHOCKSTREAM | 无限虚空光束/震波流",
       "type": "checkbox",
       "memory": [
         {

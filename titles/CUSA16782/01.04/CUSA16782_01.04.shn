@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Werewolf: The Apocalypse - Earthblood" Moder="Wander FW9.00" Cusa="CUSA16782" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>670B330</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Arrow (on shoot)">
+    <Cheat Text="Infinite Arrow (on shoot) | 无限箭矢（射击时）">
         <Cheatline>
             <Offset>6793B90</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Potions (on use)">
+    <Cheat Text="Infinite Potions (on use) | 无限药剂（使用时）">
         <Cheatline>
             <Offset>670B370</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Frenzy (when activating)">
+    <Cheat Text="Infinite Frenzy (when activating) | 无限狂怒（激活时）">
         <Cheatline>
             <Offset>670B3E0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill points (on spend)">
+    <Cheat Text="Infinite Skill points (on spend) | 无限技能点（消费时）">
         <Cheatline>
             <Offset>670B2F0</Offset>
             <Section>0</Section>

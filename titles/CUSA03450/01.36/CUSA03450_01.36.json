@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP+Stamina (HP will decrease a little)",
+      "name": "Inf HP+Stamina (HP will decrease a little) | 无限生命+体力（生命值会少许减少）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Item+Ammo  (on use)",
+      "name": "Max Item+Ammo (on use) | 最大物品+弹药（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "no Reload",
+      "name": "no Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {

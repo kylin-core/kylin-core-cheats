@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite lives",
+      "name": "Infinite lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max score (Each gray orb is worth 1000)",
+      "name": "Max score (Each gray orb is worth 1000) | 最高分数（每个灰色球价值1000分）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Each golden orb doubles the total (Deactivate after reaching a large sum)",
+      "name": "Each golden orb doubles the total (Deactivate after reaching a large sum) | 每个金色球使总数翻倍（累计到可观数量后建议关闭）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinity Resources",
+      "name": "Infinite Resources | 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Laser",
+      "name": "Infinite Laser | 无限激光",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Mega Bome",
+      "name": "Infinite Mega Bome | 无限巨型炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Press R3 to Refill Energy Shield Timer",
+      "name": "Press R3 to Refill Energy Shield Timer | 按R3重置能量护盾计时器",
       "type": "checkbox",
       "memory": [
         {

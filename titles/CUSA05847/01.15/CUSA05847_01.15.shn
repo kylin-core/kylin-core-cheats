@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 5" Moder="Celogamez" Cusa="CUSA05847" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>28AF535</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-66-BB-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincibility">
+    <Cheat Text="Invincibility | 无敌">
         <Cheatline>
             <Offset>28BE434</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-77-FF-FE-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Endurance">
+    <Cheat Text="Infinite Endurance | 无限耐力">
         <Cheatline>
             <Offset>28A7284</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>E8-E7-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath">
+    <Cheat Text="Infinite Breath | 无限呼吸">
         <Cheatline>
             <Offset>28B6A83</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E8-28-04-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Ammo/Money/Throwables">
+    <Cheat Text="Max/Infinite Ammo/Money/Throwables | 最大/无限弹药/金钱/投掷物">
         <Cheatline>
             <Offset>5FCFDC0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>3871A27</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-89-BB-88-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>343336C</Offset>
             <Section>0</Section>

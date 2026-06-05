@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Rings",
+      "name": "Max Rings | 最大金环",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Skill Points",
+      "name": "Max Skill Points | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Fishing Attempts",
+      "name": "Max Fishing Attempts | 最大钓鱼次数",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Marks - Fishing Area",
+      "name": "Max Marks - Fishing Area | 最大标记·钓鱼区",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Gold Cards - Fishing Area",
+      "name": "Max Gold Cards - Fishing Area | 最大金卡·钓鱼区",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )",
+      "name": "Max Vault Keys + Portal Gears ( use it first after Stage 1-2 ) | 最大宝库钥匙+传送齿轮（需在1-2关卡后优先使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Heart Token",
+      "name": "Max Heart Token | 最大心形令牌",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Kocos",
+      "name": "Max Kocos | 最大柯柯",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max Red Power Seed",
+      "name": "Max Red Power Seed | 最大红色力量种子",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Blue Power Seed",
+      "name": "Max Blue Power Seed | 最大蓝色力量种子",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Max Star Pieces ( on gain )",
+      "name": "Max Star Pieces ( on gain ) | 最大星之碎片（获取时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Freeze Level Timer",
+      "name": "Freeze Level Timer | 冻结关卡计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Freeze Challenge 1 Timer",
+      "name": "Freeze Challenge 1 Timer | 冻结挑战1计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Freeze Challenge 2 Timer",
+      "name": "Freeze Challenge 2 Timer | 冻结挑战2计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "Freeze Timer ( Training Simulator )",
+      "name": "Freeze Timer ( Training Simulator ) | 冻结计时器（训练模拟器）",
       "type": "checkbox",
       "memory": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "Max Ring Stats",
+      "name": "Max Ring Stats | 最大金环属性",
       "type": "checkbox",
       "memory": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "Max Attack Stats",
+      "name": "Max Attack Stats | 最大攻击属性",
       "type": "checkbox",
       "memory": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "name": "Max Shield Stats",
+      "name": "Max Shield Stats | 最大防御属性",
       "type": "checkbox",
       "memory": [
         {
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "name": "Max Speed Stats",
+      "name": "Max Speed Stats | 最大速度属性",
       "type": "checkbox",
       "memory": [
         {

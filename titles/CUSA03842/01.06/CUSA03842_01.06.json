@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Dupe Items on Use",
+      "name": "Dupe Items on Use | 使用道具时复制",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "One Hit Down Boss",
+      "name": "One Hit Down Boss | 一击击倒Boss",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Scrap on Spend (Nightmare)",
+      "name": "Max Scrap on Spend (Nightmare) | 消耗时获得最大废料（噩梦）",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max Total Score After All Waves (Nightmare)",
+      "name": "Max Total Score After All Waves (Nightmare) | 所有波次后最大总分（噩梦）",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Compactor Always Drops Max Scraps (Nightmare)",
+      "name": "Compactor Always Drops Max Scraps (Nightmare) | 压实机总是掉落最大废料（噩梦）",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Freeze Timer (Bedroom)",
+      "name": "Freeze Timer (Bedroom) | 冻结计时器（卧室）",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables (Not a Hero) ",
+      "name": "Infinite Throwables (Not a Hero) | 无限投掷物（不是英雄）",
       "type": "checkbox",
       "memory": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen (Not a Hero)",
+      "name": "Infinite Oxygen (Not a Hero) | 无限氧气（不是英雄）",
       "type": "checkbox",
       "memory": [
         {

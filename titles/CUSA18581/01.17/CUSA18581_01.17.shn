@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Elden Ring - Shadow of the Erdtree" Moder="Pharaoh2k, Rizla, Fullcodes" Cusa="CUSA18581" Version="01.17" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>34EFAEB</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code (Must be enabled ALL THE TIME)">
+    <Cheat Text="Master Code (Must be enabled ALL THE TIME) | 主代码（必须始终启用）">
         <Cheatline>
             <Offset>34EFB00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---Infinite Health (Requires Master Code)">
+    <Cheat Text="---Infinite Health (Requires Master Code) | ---无限生命（需要主代码）">
         <Cheatline>
             <Offset>34EFC08</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---Infinite Horse Health (Requires Master Code)">
+    <Cheat Text="---Infinite Horse Health (Requires Master Code) | ---无限马匹生命（需要主代码）">
         <Cheatline>
             <Offset>34EFC10</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---One Hit Kill (Requires Master Code)">
+    <Cheat Text="---One Hit Kill (Requires Master Code) | ---一击必杀（需要主代码）">
         <Cheatline>
             <Offset>34EFC00</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>34EFC20</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>34EFC60</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite FP">
+    <Cheat Text="Infinite FP | 无限专注值">
         <Cheatline>
             <Offset>34EFC80</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Effects">
+    <Cheat Text="No Effects | 无异常效果">
         <Cheatline>
             <Offset>34EFCA0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth Mode">
+    <Cheat Text="Stealth Mode | 潜行模式">
         <Cheatline>
             <Offset>CECF45</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>80-BF-BA-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enemies Dont Attack">
+    <Cheat Text="Enemies Dont Attack | 敌人不攻击">
         <Cheatline>
             <Offset>C27227</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>75-0F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player No Dead">
+    <Cheat Text="Player No Dead | 玩家不死">
         <Cheatline>
             <Offset>E3CCF2</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>75-E1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Jumps">
+    <Cheat Text="Unlimited Jumps | 无限跳跃">
         <Cheatline>
             <Offset>E04664</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>80-B8-D1-01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="100%% Loot Drop-Rate">
+    <Cheat Text="100%% Loot Drop-Rate | 100%掉落率">
         <Cheatline>
             <Offset>34EFCC0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Overloaded Weight Slowdown">
+    <Cheat Text="No Overloaded Weight Slowdown | 负重不影响速度">
         <Cheatline>
             <Offset>34EFD00</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Runes">
+    <Cheat Text="Infinite Runes | 无限卢恩">
         <Cheatline>
             <Offset>1268959</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>41-29-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Inf Items (on Get and Use)">
+    <Cheat Text="Max Inf Items (on Get and Use) | 最大物品数量（拾取和使用时）">
         <Cheatline>
             <Offset>B547E0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>44-0F-42-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignore Crafting Item Requirement">
+    <Cheat Text="Ignore Crafting Item Requirement | 无视制作物品需求">
         <Cheatline>
             <Offset>126982C</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>44-0F-4F-E0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignore Smithing Item Requirement">
+    <Cheat Text="Ignore Smithing Item Requirement | 无视锻造物品需求">
         <Cheatline>
             <Offset>12A6760</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>44-3B-43-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Buy and Sell Shop Items">
+    <Cheat Text="Quick Buy and Sell Shop Items | 快速买卖商店物品">
         <Cheatline>
             <Offset>1237B75</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>41-89-84-24-B8-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.1 Player Speed (Requires Master Code)">
+    <Cheat Text="---x0.1 Player Speed (Requires Master Code) | ---0.1倍玩家速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7A</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.5 Player Speed (Requires Master Code)">
+    <Cheat Text="---x0.5 Player Speed (Requires Master Code) | ---0.5倍玩家速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7A</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Player Speed (Requires Master Code)">
+    <Cheat Text="---x2 Player Speed (Requires Master Code) | ---2倍玩家速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7A</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x3 Player Speed (Requires Master Code)">
+    <Cheat Text="---x3 Player Speed (Requires Master Code) | ---3倍玩家速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7A</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.1 Horse Speed (Requires Master Code)">
+    <Cheat Text="---x0.1 Horse Speed (Requires Master Code) | ---0.1倍马匹速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7E</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.5 Horse Speed (Requires Master Code)">
+    <Cheat Text="---x0.5 Horse Speed (Requires Master Code) | ---0.5倍马匹速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7E</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Horse Speed (Requires Master Code)">
+    <Cheat Text="---x2 Horse Speed (Requires Master Code) | ---2倍马匹速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7E</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x3 Horse Speed (Requires Master Code)">
+    <Cheat Text="---x3 Horse Speed (Requires Master Code) | ---3倍马匹速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD7E</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0 Speed - Freeze Enemies (Requires Master Code)">
+    <Cheat Text="---x0 Speed - Freeze Enemies (Requires Master Code) | ---0倍速度-冻结敌人（需要主代码）">
         <Cheatline>
             <Offset>34EFD76</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.5 Enemy Speed (Requires Master Code)">
+    <Cheat Text="---x0.5 Enemy Speed (Requires Master Code) | ---0.5倍敌人速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD76</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Enemy Speed (Requires Master Code)">
+    <Cheat Text="---x2 Enemy Speed (Requires Master Code) | ---2倍敌人速度（需要主代码）">
         <Cheatline>
             <Offset>34EFD76</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Pause By Controller (read description)">
+    <Cheat Text="Pause By Controller (read description) | 手柄暂停（阅读说明）">
         <Cheatline>
             <Offset>34EFD90</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Super Jump Height (Requires Master Code)">
+    <Cheat Text="---x2 Super Jump Height (Requires Master Code) | ---2倍超级跳跃高度（需要主代码）">
         <Cheatline>
             <Offset>34EFE7E</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x5 Super Jump Height (Requires Master Code)">
+    <Cheat Text="---x5 Super Jump Height (Requires Master Code) | ---5倍超级跳跃高度（需要主代码）">
         <Cheatline>
             <Offset>34EFE7E</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x10 Super Jump Height (Requires Master Code)">
+    <Cheat Text="---x10 Super Jump Height (Requires Master Code) | ---10倍超级跳跃高度（需要主代码）">
         <Cheatline>
             <Offset>34EFE7E</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x20 Super Jump Height (Requires Master Code)">
+    <Cheat Text="---x20 Super Jump Height (Requires Master Code) | ---20倍超级跳跃高度（需要主代码）">
         <Cheatline>
             <Offset>34EFE7E</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Super Jump Distance (Requires Master Code)">
+    <Cheat Text="---x2 Super Jump Distance (Requires Master Code) | ---2倍超级跳跃距离（需要主代码）">
         <Cheatline>
             <Offset>34EFE82</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x5 Super Jump Distance (Requires Master Code)">
+    <Cheat Text="---x5 Super Jump Distance (Requires Master Code) | ---5倍超级跳跃距离（需要主代码）">
         <Cheatline>
             <Offset>34EFE82</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x10 Super Jump Distance (Requires Master Code)">
+    <Cheat Text="---x10 Super Jump Distance (Requires Master Code) | ---10倍超级跳跃距离（需要主代码）">
         <Cheatline>
             <Offset>34EFE82</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x20 Super Jump Distance (Requires Master Code)">
+    <Cheat Text="---x20 Super Jump Distance (Requires Master Code) | ---20倍超级跳跃距离（需要主代码）">
         <Cheatline>
             <Offset>34EFE82</Offset>
             <Section>0</Section>

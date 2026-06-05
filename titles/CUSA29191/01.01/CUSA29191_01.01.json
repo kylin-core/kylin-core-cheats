@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Infinite Stamina",
+      "name": "Max Infinite Stamina | 最大无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Items (Use after creating the first antiviral)",
+      "name": "Infinite Items (Use after creating the first antiviral) | 无限物品（在制作首个抗病毒药物后使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Fuel",
+      "name": "Infinite Fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Melee Durability",
+      "name": "Infinite Melee Durability | 近战武器无限耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -101,11 +101,10 @@
       ]
     },
     {
-      "name": "Max Knowledge On Gain",
+      "name": "Max Knowledge On Gain | 获取时知识最大化",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "F48E92",
           "on": "41897F28",
           "off": "41894728"
@@ -113,7 +112,7 @@
       ]
     },
     {
-      "name": "Infinite Knowledge On Use",
+      "name": "Infinite Knowledge On Use | 使用时知识无限",
       "type": "checkbox",
       "memory": [
         {
@@ -129,11 +128,10 @@
       ]
     },
     {
-      "name": "Max Pack Supply On Gain",
+      "name": "Max Pack Supply On Gain | 获取时背包物资最大化",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "7C3419",
           "on": "41897F48",
           "off": "418B4748"
@@ -141,11 +139,10 @@
       ]
     },
     {
-      "name": "Multiple Supply Points",
+      "name": "Multiple Supply Points | 多点物资供应",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "41A094",
           "on": "897B18",
           "off": "894318"
@@ -153,7 +150,7 @@
       ]
     },
     {
-      "name": "Infinite Supply On Use",
+      "name": "Infinite Supply On Use | 使用时无限物资",
       "type": "checkbox",
       "memory": [
         {
@@ -169,7 +166,7 @@
       ]
     },
     {
-      "name": "Infinite Knowledge On Buy (Mikhail)",
+      "name": "Infinite Knowledge On Buy (Mikhail) | 购买时知识无限（米哈伊尔）",
       "type": "checkbox",
       "memory": [
         {

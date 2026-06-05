@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "This trainer has been partially tested on version 01.22 and seem to work fine. Please let me know if there is any issue. Be sure to read the comment on each individual cheat, if a comment is available. Trainer was made on CUSA18723 but it's multiCUSA compatible and should work on all CUSAs version 01.22 and partially on older and future versions of the game. Enjoy! :)",
+      "name": "TRAINER INFO (read only) | 修改器信息（仅读取）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Code (Must be enabled first + all the time)",
-      "description": "All cheats which start with -- prefix depend on this Master Code.",
+      "name": "Master Code (Must be enabled first + all the time) | 主代码（必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -229,8 +227,7 @@
       ]
     },
     {
-      "name": "--Infinite_HP",
-      "description": "",
+      "name": "--Infinite_HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -241,8 +238,7 @@
       ]
     },
     {
-      "name": "--Infinite_Horse_HP",
-      "description": "",
+      "name": "--Infinite_Horse_HP | 无限战马生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -253,8 +249,7 @@
       ]
     },
     {
-      "name": "--One_Hit_Kill",
-      "description": "",
+      "name": "--One_Hit_Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -265,8 +260,7 @@
       ]
     },
     {
-      "name": "--Max FP",
-      "description": "",
+      "name": "--Max FP | 最大专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -277,8 +271,7 @@
       ]
     },
     {
-      "name": "--Max HP",
-      "description": "",
+      "name": "--Max HP | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -289,8 +282,7 @@
       ]
     },
     {
-      "name": "--Max Stamina",
-      "description": "",
+      "name": "--Max Stamina | 最大耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -301,8 +293,7 @@
       ]
     },
     {
-      "name": "--Arcane 99",
-      "description": "",
+      "name": "--Arcane 99 | 感应99",
       "type": "checkbox",
       "memory": [
         {
@@ -313,8 +304,7 @@
       ]
     },
     {
-      "name": "--Dexterity 99",
-      "description": "",
+      "name": "--Dexterity 99 | 灵巧99",
       "type": "checkbox",
       "memory": [
         {
@@ -325,8 +315,7 @@
       ]
     },
     {
-      "name": "--Endurance 99",
-      "description": "",
+      "name": "--Endurance 99 | 耐力99",
       "type": "checkbox",
       "memory": [
         {
@@ -337,8 +326,7 @@
       ]
     },
     {
-      "name": "--Faith 99",
-      "description": "",
+      "name": "--Faith 99 | 信仰99",
       "type": "checkbox",
       "memory": [
         {
@@ -349,8 +337,7 @@
       ]
     },
     {
-      "name": "--Intelligence 99",
-      "description": "",
+      "name": "--Intelligence 99 | 智力99",
       "type": "checkbox",
       "memory": [
         {
@@ -361,8 +348,7 @@
       ]
     },
     {
-      "name": "--Level 99",
-      "description": "",
+      "name": "--Level 99 | 等级99",
       "type": "checkbox",
       "memory": [
         {
@@ -373,8 +359,7 @@
       ]
     },
     {
-      "name": "--Mind 99",
-      "description": "",
+      "name": "--Mind 99 | 集中力99",
       "type": "checkbox",
       "memory": [
         {
@@ -385,8 +370,7 @@
       ]
     },
     {
-      "name": "--Runes 99999999",
-      "description": "",
+      "name": "--Runes 99999999 | 卢恩99999999",
       "type": "checkbox",
       "memory": [
         {
@@ -397,8 +381,7 @@
       ]
     },
     {
-      "name": "--Strength 99",
-      "description": "",
+      "name": "--Strength 99 | 力气99",
       "type": "checkbox",
       "memory": [
         {
@@ -409,8 +392,7 @@
       ]
     },
     {
-      "name": "--Vigor 99",
-      "description": "",
+      "name": "--Vigor 99 | 生命力99",
       "type": "checkbox",
       "memory": [
         {
@@ -421,8 +403,7 @@
       ]
     },
     {
-      "name": "--Enemy Speed x0.5",
-      "description": "",
+      "name": "--Enemy Speed x0.5 | 敌人速度减半",
       "type": "checkbox",
       "memory": [
         {
@@ -433,8 +414,7 @@
       ]
     },
     {
-      "name": "--Enemy Speed x1",
-      "description": "",
+      "name": "--Enemy Speed x1 | 敌人正常速度",
       "type": "checkbox",
       "memory": [
         {
@@ -445,8 +425,7 @@
       ]
     },
     {
-      "name": "--Enemy Speed x2",
-      "description": "",
+      "name": "--Enemy Speed x2 | 敌人速度翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -457,8 +436,7 @@
       ]
     },
     {
-      "name": "--FreezeEnemy",
-      "description": "",
+      "name": "--FreezeEnemy | 冻结敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -469,8 +447,7 @@
       ]
     },
     {
-      "name": "--Horse Speed x1",
-      "description": "",
+      "name": "--Horse Speed x1 | 战马正常速度",
       "type": "checkbox",
       "memory": [
         {
@@ -481,8 +458,7 @@
       ]
     },
     {
-      "name": "--Horse Speed x2",
-      "description": "",
+      "name": "--Horse Speed x2 | 战马速度翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -493,8 +469,7 @@
       ]
     },
     {
-      "name": "--Horse Speed x3",
-      "description": "",
+      "name": "--Horse Speed x3 | 战马速度三倍",
       "type": "checkbox",
       "memory": [
         {
@@ -505,8 +480,7 @@
       ]
     },
     {
-      "name": "--Player Speed x1",
-      "description": "",
+      "name": "--Player Speed x1 | 玩家正常速度",
       "type": "checkbox",
       "memory": [
         {
@@ -517,8 +491,7 @@
       ]
     },
     {
-      "name": "--Player Speed x2",
-      "description": "",
+      "name": "--Player Speed x2 | 玩家速度翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -529,8 +502,7 @@
       ]
     },
     {
-      "name": "--Player Speed x3",
-      "description": "",
+      "name": "--Player Speed x3 | 玩家速度三倍",
       "type": "checkbox",
       "memory": [
         {
@@ -541,8 +513,7 @@
       ]
     },
     {
-      "name": "Untouchable v01.22",
-      "description": "",
+      "name": "Untouchable v01.22 | 无敌模式 v01.22",
       "type": "checkbox",
       "memory": [
         {
@@ -558,8 +529,7 @@
       ]
     },
     {
-      "name": "No Effects v01.13-v01.22",
-      "description": "",
+      "name": "No Effects v01.13-v01.22 | 无特效 v01.13-v01.22",
       "type": "checkbox",
       "memory": [
         {
@@ -575,8 +545,7 @@
       ]
     },
     {
-      "name": "100%% Loot Drop-Rate",
-      "description": "",
+      "name": "100%% Loot Drop-Rate | 100%物品掉落率",
       "type": "checkbox",
       "memory": [
         {
@@ -592,8 +561,7 @@
       ]
     },
     {
-      "name": "Infinite FP",
-      "description": "",
+      "name": "Infinite FP | 无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -609,8 +577,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "description": "",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -626,8 +593,7 @@
       ]
     },
     {
-      "name": "Pause By Controller",
-      "description": "Pause Game: Press Options + Dpad Right UnPause Game: Press Options + Dpad Left Note: Some background elements like flowers and sounds may still play but the game will be paused.",
+      "name": "Pause By Controller | 手柄暂停",
       "type": "checkbox",
       "memory": [
         {
@@ -653,8 +619,7 @@
       ]
     },
     {
-      "name": "Player No Dead v01.22",
-      "description": "",
+      "name": "Player No Dead v01.22 | 玩家不死 v01.22",
       "type": "checkbox",
       "memory": [
         {
@@ -665,8 +630,7 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "description": "",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -707,8 +671,7 @@
       ]
     },
     {
-      "name": "--Jump Distance x1",
-      "description": "",
+      "name": "--Jump Distance x1 | 跳跃距离正常",
       "type": "checkbox",
       "memory": [
         {
@@ -719,8 +682,7 @@
       ]
     },
     {
-      "name": "--Jump Distance x2",
-      "description": "",
+      "name": "--Jump Distance x2 | 跳跃距离翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -731,8 +693,7 @@
       ]
     },
     {
-      "name": "--Jump Distance x5",
-      "description": "",
+      "name": "--Jump Distance x5 | 跳跃距离五倍",
       "type": "checkbox",
       "memory": [
         {
@@ -743,8 +704,7 @@
       ]
     },
     {
-      "name": "--Jump Distance x10",
-      "description": "",
+      "name": "--Jump Distance x10 | 跳跃距离十倍",
       "type": "checkbox",
       "memory": [
         {
@@ -755,8 +715,7 @@
       ]
     },
     {
-      "name": "--Jump Height x1",
-      "description": "",
+      "name": "--Jump Height x1 | 跳跃高度正常",
       "type": "checkbox",
       "memory": [
         {
@@ -767,8 +726,7 @@
       ]
     },
     {
-      "name": "--Jump Height x2",
-      "description": "",
+      "name": "--Jump Height x2 | 跳跃高度翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -779,8 +737,7 @@
       ]
     },
     {
-      "name": "--Jump Height x5",
-      "description": "",
+      "name": "--Jump Height x5 | 跳跃高度五倍",
       "type": "checkbox",
       "memory": [
         {
@@ -791,8 +748,7 @@
       ]
     },
     {
-      "name": "--Jump Height x10",
-      "description": "",
+      "name": "--Jump Height x10 | 跳跃高度十倍",
       "type": "checkbox",
       "memory": [
         {
@@ -803,8 +759,7 @@
       ]
     },
     {
-      "name": "Unlimited Jumps",
-      "description": "",
+      "name": "Unlimited Jumps | 无限跳跃次数",
       "type": "checkbox",
       "memory": [
         {
@@ -815,8 +770,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
-      "description": "Enemies will be able to see you if and when you attack them.",
+      "name": "Stealth Mode | 潜行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -827,8 +781,7 @@
       ]
     },
     {
-      "name": "Infinite Runes",
-      "description": "",
+      "name": "Infinite Runes | 无限卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -839,8 +792,7 @@
       ]
     },
     {
-      "name": "Runes Retained On Death",
-      "description": "",
+      "name": "Runes Retained On Death | 死亡保留卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -851,8 +803,7 @@
       ]
     },
     {
-      "name": "Max+Inf Items on Get+Use v01.17-v01.22",
-      "description": "",
+      "name": "Max+Inf Items on Get+Use v01.17-v01.22 | 获取使用时物品最大+无限 v01.17-v01.22",
       "type": "checkbox",
       "memory": [
         {
@@ -863,8 +814,7 @@
       ]
     },
     {
-      "name": "PlayerExterminate (OHK) v01.17-v01.22",
-      "description": "",
+      "name": "PlayerExterminate (OHK) v01.17-v01.22 | 玩家秒杀 v01.17-v01.22",
       "type": "checkbox",
       "memory": [
         {
@@ -875,8 +825,7 @@
       ]
     },
     {
-      "name": "Enemies Dont Attack v01.22",
-      "description": "",
+      "name": "Enemies Dont Attack v01.22 | 敌人不攻击 v01.22",
       "type": "checkbox",
       "memory": [
         {
@@ -892,8 +841,7 @@
       ]
     },
     {
-      "name": "Ignore Crafting Item Requirement",
-      "description": "Thanks to fullcodes for originally finding this ported to 1.09 by Rizla.",
+      "name": "Ignore Crafting Item Requirement | 忽略制作材料需求",
       "type": "checkbox",
       "memory": [
         {
@@ -904,8 +852,7 @@
       ]
     },
     {
-      "name": "Ignore Smithing Item Requirement",
-      "description": "Thanks to fullcodes for originally finding this ported to 1.09 by Rizla.",
+      "name": "Ignore Smithing Item Requirement | 忽略锻造材料需求",
       "type": "checkbox",
       "memory": [
         {
@@ -916,8 +863,7 @@
       ]
     },
     {
-      "name": "Quick Buy+Sell Shop Items",
-      "description": "",
+      "name": "Quick Buy+Sell Shop Items | 快速买卖商店物品",
       "type": "checkbox",
       "memory": [
         {
@@ -928,8 +874,7 @@
       ]
     },
     {
-      "name": "No Overloaded Weight Slowdown",
-      "description": "",
+      "name": "No Overloaded Weight Slowdown | 负重无减速",
       "type": "checkbox",
       "memory": [
         {
@@ -945,8 +890,7 @@
       ]
     },
     {
-      "name": "--Hour: 0",
-      "description": "",
+      "name": "--Hour: 0 | 设置时刻：午夜",
       "type": "checkbox",
       "memory": [
         {
@@ -957,8 +901,7 @@
       ]
     },
     {
-      "name": "--Hour: 6",
-      "description": "",
+      "name": "--Hour: 6 | 设置时刻：早晨",
       "type": "checkbox",
       "memory": [
         {
@@ -969,8 +912,7 @@
       ]
     },
     {
-      "name": "--Hour: 12",
-      "description": "",
+      "name": "--Hour: 12 | 设置时刻：正午",
       "type": "checkbox",
       "memory": [
         {
@@ -981,8 +923,7 @@
       ]
     },
     {
-      "name": "--Hour: 18",
-      "description": "",
+      "name": "--Hour: 18 | 设置时刻：傍晚",
       "type": "checkbox",
       "memory": [
         {

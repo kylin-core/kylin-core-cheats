@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Skyrim" Moder="Wander FW9.00" Cusa="CUSA05486" Version="01.17" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Coins (after taking a stack from corpses)">
+    <Cheat Text="Max Coins (after taking a stack from corpses) | 最大金币（从尸体拾取堆叠后）">
         <Cheatline>
             <Offset>1D23B20</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Crafting Items (after Spending)">
+    <Cheat Text="99 Crafting Items (after Spending) | 99个制造材料（消耗后生效）">
         <Cheatline>
             <Offset>1D23B60</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Perks Points (reach level 2)">
+    <Cheat Text="99 Perks Points (reach level 2) | 99个技能点（达到2级时）">
         <Cheatline>
             <Offset>1D23B90</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skills and stats( need perks and save/load game after activating)">
+    <Cheat Text="Max Skills and stats( need perks and save/load game after activating) | 最大技能与属性（需要技能点，激活后存档再读档）">
         <Cheatline>
             <Offset>1D234B0</Offset>
             <Section>0</Section>

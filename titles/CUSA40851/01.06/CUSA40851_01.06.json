@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Life",
-      "description": "",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Inf Life Boat",
-      "description": "",
+      "name": "Inf Life Boat | 无限船体",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Inf Fuel",
-      "description": "",
+      "name": "Inf Fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Inf Money",
-      "description": "",
+      "name": "Inf Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -68,8 +64,7 @@
       ]
     },
     {
-      "name": "Inf Bombs and Items from Boat",
-      "description": "",
+      "name": "Inf Bombs and Items from Boat | 无限炸弹与道具",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "description": "",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite EX Weapon Bar",
+      "name": "Infinite EX Weapon Bar | 无限EX武器槽",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets",
+      "name": "Infinite Bullets | 无限子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Exp",
+      "name": "Max Exp | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Gold",
+      "name": "Max Gold | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {

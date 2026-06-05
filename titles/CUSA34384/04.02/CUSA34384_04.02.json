@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode (Untouchable+No Effects)",
-      "hint": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does",
+      "name": "God Mode (Untouchable+No Effects) | 上帝模式（不可触碰+无特效）",
       "type": "checkbox",
       "memory": [
         {
@@ -42,8 +41,7 @@
       ]
     },
     {
-      "name": "No Damage Taken",
-      "hint": null,
+      "name": "No Damage Taken | 免疫伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "name": "No XP, HS, Resources subtracted",
-      "hint": null,
+      "name": "No XP, HS, Resources subtracted | 经验、技能点、资源不减",
       "type": "checkbox",
       "memory": [
         {
@@ -76,8 +73,7 @@
       ]
     },
     {
-      "name": "No Crafting And Upgrade Limits",
-      "hint": null,
+      "name": "No Crafting And Upgrade Limits | 无制造与升级限制",
       "type": "checkbox",
       "memory": [
         {
@@ -88,8 +84,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows & Throwables",
-      "hint": null,
+      "name": "Infinite Arrows \u0026 Throwables | 无限箭矢与投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -115,8 +110,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
-      "hint": null,
+      "name": "Infinite Rage | 无限怒火",
       "type": "checkbox",
       "memory": [
         {
@@ -132,8 +126,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier (Master Code)",
-      "hint": "Enable this first and then only one of the damage levels",
+      "name": "Damage Multiplier (Master Code) | 伤害倍率（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,8 +142,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier 5x damage",
-      "hint": "Enable Damage Multiplier (Master Code) first and use this code",
+      "name": "Damage Multiplier 5x damage | 5倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -161,8 +153,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier 10x damage",
-      "hint": "Enable Damage Multiplier (Master Code) first and use this code",
+      "name": "Damage Multiplier 10x damage | 10倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -173,8 +164,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier 20x damage",
-      "hint": "Enable Damage Multiplier (Master Code) first and use this code",
+      "name": "Damage Multiplier 20x damage | 20倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -185,8 +175,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier 30x damage",
-      "hint": "Enable Damage Multiplier (Master Code) first and use this code",
+      "name": "Damage Multiplier 30x damage | 30倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -197,8 +186,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier 40x damage",
-      "hint": "Enable Damage Multiplier (Master Code) first and use this code",
+      "name": "Damage Multiplier 40x damage | 40倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -209,8 +197,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier 50x damage",
-      "hint": "Enable Damage Multiplier (Master Code) first and use this code",
+      "name": "Damage Multiplier 50x damage | 50倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -221,8 +208,7 @@
       ]
     },
     {
-      "name": "One Hit Stun",
-      "hint": "This cheat may cause progression issues with some enemies.If and when it does, be sure to disable it and reload the checkpoint.",
+      "name": "One Hit Stun | 一击眩晕",
       "type": "checkbox",
       "memory": [
         {
@@ -238,8 +224,7 @@
       ]
     },
     {
-      "name": "No Talisman and Relic Cooldown",
-      "hint": null,
+      "name": "No Talisman and Relic Cooldown | 护符与圣物无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -255,8 +240,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Charge (L1+Triangle)",
-      "hint": null,
+      "name": "Infinite Weapon Charge (L1+Triangle) | 无限武器充能（L1+三角）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite KI",
+      "name": "Infinite KI | 无限精力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "1/2 Hit Kill (Lock-On for 1 Hit)",
+      "name": "1/2 Hit Kill (Lock-On for 1 Hit) | 一击半血（锁定即秒杀）",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "0 Enemy KI (Showing Bar/Lock-On)",
+      "name": "0 Enemy KI (Showing Bar/Lock-On) | 敌人精力归零（显示条/锁定）",
       "type": "checkbox",
       "memory": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "No Effects",
+      "name": "No Effects | 无特效",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "name": "Inf Amrita Gauge on Gain/Use",
+      "name": "Inf Amrita Gauge on Gain/Use | 获得/使用即满精华量表",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Infinite Living Weapon",
+      "name": "Infinite Living Weapon | 无限常世武器",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Kill to Max Weapons Familiarity",
+      "name": "Kill to Max Weapons Familiarity | 击杀即满武器熟练度",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Kill to Max Weapons Proficiency",
+      "name": "Kill to Max Weapons Proficiency | 击杀即满武器精通",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Max Items on Use",
+      "name": "Max Items on Use | 使用道具即满",
       "type": "checkbox",
       "memory": [
         {
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "x2 Items on Use",
+      "name": "x2 Items on Use | 使用道具翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "x2 Special Items",
+      "name": "x2 Special Items | 特殊道具翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "name": "x2 Materials on Use",
+      "name": "x2 Materials on Use | 使用素材翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "name": "Max Amrita on Use",
+      "name": "Max Amrita on Use | 使用即满精华",
       "type": "checkbox",
       "memory": [
         {
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "name": "x2 Amrita on Use",
+      "name": "x2 Amrita on Use | 使用精华翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "name": "Max Gold on Spend",
+      "name": "Max Gold on Spend | 消费即满金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "name": "x2 Gold on Spend",
+      "name": "x2 Gold on Spend | 消费金钱翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "name": "Max Glory on Trade",
+      "name": "Max Glory on Trade | 交易即满武功",
       "type": "checkbox",
       "memory": [
         {
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "name": "x2 Glory on Trade",
+      "name": "x2 Glory on Trade | 交易武功翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "name": "x2 Samurai SP",
+      "name": "x2 Samurai SP | 武士技能点翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "name": "x2 Ninja SP",
+      "name": "x2 Ninja SP | 忍者技能点翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "name": "x2 Onmyo Magic SP",
+      "name": "x2 Onmyo Magic SP | 阴阳术技能点翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -352,7 +352,7 @@
       ]
     },
     {
-      "name": "x2 Agyo/Ungyo Prestige Points",
+      "name": "x2 Agyo/Ungyo Prestige Points | 阿形/吽形声望点翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "name": "Inf Ninjutsu Capacity",
+      "name": "Inf Ninjutsu Capacity | 无限忍术容量",
       "type": "checkbox",
       "memory": [
         {
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "name": "Inf Onmyo Magic Capacity",
+      "name": "Inf Onmyo Magic Capacity | 无限阴阳术容量",
       "type": "checkbox",
       "memory": [
         {

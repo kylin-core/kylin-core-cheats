@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No decrease (Items, Money, SP, Magatama)",
+      "name": "No decrease (Items, Money, SP, Magatama) | 物品、金钱、技能点、勾玉不减",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max LV (By Payphone)",
+      "name": "Max LV (By Payphone) | 满级（通过公共电话）",
       "type": "checkbox",
       "memory": [
         {

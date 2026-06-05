@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GRID Legends" Moder="Wander FW9.00" Cusa="CUSA28261" Version="03.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Cash (After Winning the Race)">
+    <Cheat Text="Max Cash (After Winning the Race) | 赛后最大收益">
         <Cheatline>
             <Offset>2603B90</Offset>
             <Section>0</Section>

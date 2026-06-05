@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/Rage/Arrows (Master Code/Must Be On)",
+      "name": "Infinite Health/Rage/Arrows (Master Code/Must Be On) | 无限生命/怒气/箭矢（主代码/必须启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
+      "name": "Infinite Rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max XP/Hacksilver/Resources",
+      "name": "Max XP/Hacksilver/Resources | 最大经验/银币/资源",
       "type": "checkbox",
       "memory": [
         {

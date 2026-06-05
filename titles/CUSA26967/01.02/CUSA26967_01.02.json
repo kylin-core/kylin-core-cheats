@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health/items (turn on and turn off coins cheat)",
+      "name": "Infinite Health/items (turn on and turn off coins cheat) | 无限生命/物品（开启并使用金币作弊后立即关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max coins (on gain and turn off right away)",
+      "name": "Max coins (on gain and turn off right away) | 最大金币（获得后立即关闭）",
       "type": "checkbox",
       "memory": [
         {

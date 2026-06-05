@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "No Reload",
-      "hint": null,
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "hint": null,
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "2x Duplicate Items After Use",
-      "hint": null,
+      "name": "2x Duplicate Items After Use | 使用后物品双倍复制",
       "type": "checkbox",
       "memory": [
         {

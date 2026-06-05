@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money Points ( on gain )",
+      "name": "Max Money Points ( on gain ) | 最大金钱点数（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Player Skill Points",
+      "name": "Max Player Skill Points | 最大球员技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Mastercode Player: V - Zone ( must be activated )",
+      "name": "Mastercode Player: V - Zone ( must be activated ) | 主控球员：V-区域（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite V-Zone Player 1 [MC]",
+      "name": "Infinite V-Zone Player 1 [MC] | 无限V-区域 玩家1 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite V-Zone Player 2 [MC]",
+      "name": "Infinite V-Zone Player 2 [MC] | 无限V-区域 玩家2 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Disable V-Zone Player 1 [MC]",
+      "name": "Disable V-Zone Player 1 [MC] | 禁用V-区域 玩家1 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Disable V-Zone Player 2 [MC]",
+      "name": "Disable V-Zone Player 2 [MC] | 禁用V-区域 玩家2 [MC]",
       "type": "checkbox",
       "memory": [
         {

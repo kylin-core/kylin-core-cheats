@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "No Weight Gain",
+      "name": "No Weight Gain | 无负重限制",
       "type": "checkbox",
       "memory": [
         {
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "Infi Seed",
+      "name": "Infi Seed | 无限种子",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Inf Items",
+      "name": "Inf Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Max Souls (get)",
+      "name": "Max Souls (get) | 最大灵魂（获取）",
       "type": "checkbox",
       "memory": [
         {

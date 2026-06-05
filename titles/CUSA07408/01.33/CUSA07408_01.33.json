@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max and Infinite XP,HS,Crafting Materials When Get",
+      "name": "Max and Infinite XP,HS,Crafting Materials When Get | 获取时最大无限经验、技能点与材料",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Instant Rage Meter Fill When Get Hit (Turn Off God Mode Before Use)",
+      "name": "Instant Rage Meter Fill When Get Hit (Turn Off God Mode Before Use) | 受击时瞬间填满怒气槽（使用前关闭无敌模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却时间",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Crafting Materials at Shops (Turn off after use)",
+      "name": "Infinite Crafting Materials at Shops (Turn off after use) | 商店无限材料（使用后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows (Turn off when out of combat)",
+      "name": "Infinite Arrows (Turn off when out of combat) | 无限箭矢（脱战后关闭）",
       "type": "checkbox",
       "memory": [
         {

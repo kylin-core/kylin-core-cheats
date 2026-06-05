@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode: Infinite Health / One Hit Kill ( must be activated )",
+      "name": "Mastercode: Infinite Health / One Hit Kill ( must be activated ) | 精通代码：无限生命 / 一击必杀（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health [MC]",
+      "name": "Infinite Health [MC] | 无限生命[主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [MC]",
+      "name": "One Hit Kill [MC] | 一击必杀[主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限集中力",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Items ( on gain / use )",
+      "name": "Max Items ( on gain / use ) | 道具最大化（获取/使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Haze ( on gain )",
+      "name": "Max Haze ( on gain ) | 雾霾最大化（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Ichor",
+      "name": "Infinite Ichor | 无限冥血",
       "type": "checkbox",
       "memory": [
         {

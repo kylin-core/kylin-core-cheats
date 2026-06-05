@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo (Disable outside Mission)",
+      "name": "Infinite Ammo (Disable outside Mission) | 无限弹药（任务外禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Money (on spend disable before mission starts)",
+      "name": "Money (on spend disable before mission starts) | 金钱（消耗时任务开始前禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Blue Gems (on spend disable before mission starts)",
+      "name": "Blue Gems (on spend disable before mission starts) | 蓝宝石（消耗时任务开始前禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "infinite Throwable/items/boost (Disable outside Mission)",
+      "name": "infinite Throwable/items/boost (Disable outside Mission) | 无限投掷物/物品/增幅（任务外禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Yellow Gems (on spend disable before mission starts)",
+      "name": "Yellow Gems (on spend disable before mission starts) | 黄宝石（消耗时任务开始前禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Red Gems (on spend disable before mission starts)",
+      "name": "Red Gems (on spend disable before mission starts) | 红宝石（消耗时任务开始前禁用）",
       "type": "checkbox",
       "memory": [
         {

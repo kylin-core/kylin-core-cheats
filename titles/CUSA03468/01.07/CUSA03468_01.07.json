@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Items Max/ On Sell",
+      "name": "All Items Max/ On Sell | 所有物品最大/出售时",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "No Stamina Consume",
+      "name": "No Stamina Consume | 无体力消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Blood Never Decrease ",
+      "name": "Blood Never Decrease | 血液永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Lots Of Money/On Pickup",
+      "name": "Lots Of Money/On Pickup | 大量金钱/拾取时",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Ammo Never Decrease+No Reload",
+      "name": "Ammo Never Decrease+No Reload | 弹药不减+无需装弹",
       "type": "checkbox",
       "memory": [
         {

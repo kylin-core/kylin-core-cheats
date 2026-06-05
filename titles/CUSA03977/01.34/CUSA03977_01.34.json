@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Endurance (For Fight)",
+      "name": "Infinite Endurance (For Fight) | 无限耐力（战斗用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Breathe (For Run)",
+      "name": "Infinite Breathe (For Run) | 无限呼吸（奔跑用）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite/Dupe Items (Need 2/Disable after you have enough)",
+      "name": "Infinite/Dupe Items (Need 2/Disable after you have enough) | 无限/复制物品（需至少2个，足够后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Items (Disable B4 Buy/Create Weapons)",
+      "name": "Max/Infinite Items (Disable B4 Buy/Create Weapons) | 最大/无限物品（购买或制作武器前禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No Reload/Arrows/Throwables",
+      "name": "Infinite Ammo/No Reload/Arrows/Throwables | 无限弹药/无需装填/弓箭/投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Melee Durability",
+      "name": "Infinite Melee Durability | 无限近战武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Infinite UV Flashlight",
+      "name": "Infinite UV Flashlight | 无限紫外线手电筒",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Infinite Grappling Hook Stamina",
+      "name": "Infinite Grappling Hook Stamina | 无限抓钩体力",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Infinite Camouflage",
+      "name": "Infinite Camouflage | 无限伪装",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Level All Skill Points On Gain",
+      "name": "Max Level All Skill Points On Gain | 获得时技能点满级",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money On Gain Or Buy",
+      "name": "Max/Infinite Money On Gain Or Buy | 获得或购买时金钱最大/无限",
       "type": "checkbox",
       "memory": [
         {

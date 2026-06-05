@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prey" Moder="Pharaoh2k" Cusa="CUSA06560" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限生命值">
         <Cheatline>
             <Offset>7FC5B200</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x99 All Items(gain/use have 2 at least)">
+    <Cheat Text="x99 All Items(gain/use have 2 at least) | 全部物品x99（获取/使用时至少保留2个）">
         <Cheatline>
             <Offset>7FC5B390</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo / No reload">
+    <Cheat Text="Infinite Ammo / No reload | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>7FC5B3E0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1HitKill">
+    <Cheat Text="1HitKill | 一击必杀">
         <Cheatline>
             <Offset>7FC5B271</Offset>
             <Section>0</Section>

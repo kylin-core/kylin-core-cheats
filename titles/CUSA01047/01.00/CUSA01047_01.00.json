@@ -1,12 +1,11 @@
 {
-  "name": "Ratchet & Clank",
+  "name": "Ratchet \u0026 Clank",
   "id": "CUSA01047",
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Max Bolts / Raritanium / Gold Bolts On Pickup",
-      "hint": null,
+      "name": "Max Bolts / Raritanium / Gold Bolts On Pickup | 拾取时获得最大螺栓/拉锐锭/金色螺栓",
       "type": "button",
       "memory": [
         {

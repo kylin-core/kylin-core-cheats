@@ -3,22 +3,9 @@
   "id": "CUSA07123",
   "version": "01.00",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "10CB800",
-        "on": "498B46204989462089C15348C7C3004000004C89335BE954BC4DFF"
-      },
-      {
-        "offset": "5A7469",
-        "on": "E99243B20090"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,7 +16,7 @@
       ]
     },
     {
-      "name": "2 hit kill",
+      "name": "2 hit kill | 两击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -45,7 +32,7 @@
       ]
     },
     {
-      "name": "infinit Ki",
+      "name": "infinit Ki | 无限精力",
       "type": "checkbox",
       "memory": [
         {

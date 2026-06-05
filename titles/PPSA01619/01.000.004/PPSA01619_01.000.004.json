@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinity HP",
+      "name": "Infinity HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无敌状态",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Full Defensive\\Offensive Meter",
+      "name": "Full Defensive\\Offensive Meter | 满防御\\进攻能量槽",
       "type": "checkbox",
       "memory": [
         {

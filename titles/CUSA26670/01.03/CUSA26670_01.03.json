@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Hearts",
+      "name": "Infinite Hearts | 无限爱心",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Seeds on Gain",
+      "name": "Max Seeds on Gain | 获得种子最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Smurfizer",
+      "name": "Infinite Smurfizer | 无限蓝精灵转换器",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Extra Boxes on Gain (May cause freeze)",
+      "name": "Extra Boxes on Gain (May cause freeze) | 获得额外箱子（可能导致卡顿）",
       "type": "checkbox",
       "memory": [
         {

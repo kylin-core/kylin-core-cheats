@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
-      "hint": null,
+      "name": "Infinite Rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
-      "hint": null,
+      "name": "Infinite Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Get Money For Spending It",
-      "hint": null,
+      "name": "Get Money For Spending It | 花钱返利",
       "type": "checkbox",
       "memory": [
         {
@@ -77,8 +71,7 @@
       ]
     },
     {
-      "name": "Get Max XP For 1 Kill",
-      "hint": null,
+      "name": "Get Max XP For 1 Kill | 一击满经验",
       "type": "checkbox",
       "memory": [
         {

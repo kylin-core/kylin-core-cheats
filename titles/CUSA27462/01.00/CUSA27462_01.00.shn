@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Aliens: Fireteam Elite (PS4)" Moder="Saso" Cusa="CUSA27462" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (Player Only) / Master Code">
+    <Cheat Text="Infinite Health (Player Only) / Master Code | 无限生命（仅玩家）/ 主代码">
         <Cheatline>
             <Offset>5AA5A00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (MC)">
+    <Cheat Text="1 Hit Kill (MC) | 一击必杀（主代码）">
         <Cheatline>
             <Offset>5AA5A3D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>74-E4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo / No Reload">
+    <Cheat Text="Max Ammo / No Reload | 无限弹药 / 无需装弹">
         <Cheatline>
             <Offset>5AA5AA0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Currency (9999999)">
+    <Cheat Text="Max Currency (9999999) | 最大货币（9999999）">
         <Cheatline>
             <Offset>5AA5AF0</Offset>
             <Section>0</Section>

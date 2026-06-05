@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money ON Buy",
+      "name": "Max Money ON Buy | 购买时金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Exp After Get",
+      "name": "Max Exp After Get | 获取后经验最大",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ability Point",
+      "name": "Infinite Ability Point | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Heats",
+      "name": "Infinite Heats | 无限热血",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "1 Hit KILL",
+      "name": "1 Hit KILL | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

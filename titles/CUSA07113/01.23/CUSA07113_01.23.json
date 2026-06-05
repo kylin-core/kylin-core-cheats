@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (can receive damage from falling or fire)",
+      "name": "Infinite Health (can receive damage from falling or fire) | 无限生命（仍会受到坠落或火焰伤害）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限精力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "2 Hits kill (can die from walking into Fire)",
+      "name": "2 Hits kill (can die from walking into Fire) | 两击必杀（走入火焰仍会死亡）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Amrita (on spend)",
+      "name": "Infinite Amrita (on spend) | 无限精华（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "99 Items (on use)",
+      "name": "99 Items (on use) | 99物品（使用时生效）",
       "type": "checkbox",
       "memory": [
         {

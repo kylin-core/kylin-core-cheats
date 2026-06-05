@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza Kiwami" Moder="TLH" Cusa="CUSA06997" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>11D7800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kills">
+    <Cheat Text="1 Hit Kills | 一击必杀">
         <Cheatline>
             <Offset>11D7801</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Heat Gauge">
+    <Cheat Text="Infinite Heat Gauge | 无限热血槽">
         <Cheatline>
             <Offset>24E90B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-10-45-D4-C5-FA-11-40-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久">
         <Cheatline>
             <Offset>754AE5</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>74-25</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Weapon Durability">
+    <Cheat Text="Max Weapon Durability | 最大武器耐久">
         <Cheatline>
             <Offset>754B04</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>66-0F-4C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>754D35</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>77-25</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo">
+    <Cheat Text="Max Ammo | 最大弹药">
         <Cheatline>
             <Offset>754D54</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>66-0F-4C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money, CP">
+    <Cheat Text="Infinite Money, CP | 无限金钱、CP">
         <Cheatline>
             <Offset>7567CC</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>4C-01-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints">
+    <Cheat Text="Infinite Skillpoints | 无限技能点">
         <Cheatline>
             <Offset>752BF2</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>48-01-DA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money, CP on Use">
+    <Cheat Text="Max Money, CP on Use | 使用时金钱、CP最大">
         <Cheatline>
             <Offset>7567D6</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>48-0F-4F-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skillpoints on Use">
+    <Cheat Text="Max Skillpoints on Use | 使用时技能点最大">
         <Cheatline>
             <Offset>752C00</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>48-0F-4D-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>753BA6</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item Storage: Infinite Items">
+    <Cheat Text="Item Storage: Infinite Items | 道具库存：无限道具">
         <Cheatline>
             <Offset>7535F0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>66-89-77-06</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item Storage: Max Items">
+    <Cheat Text="Item Storage: Max Items | 道具库存：最大道具">
         <Cheatline>
             <Offset>7536BF</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>66-0F-4C-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bowling: Split-Game Infinite Balls">
+    <Cheat Text="Bowling: Split-Game Infinite Balls | 保龄球：分屏模式无限球">
         <Cheatline>
             <Offset>4986C5</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>FF-88-88-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Baseball: Max Score">
+    <Cheat Text="Baseball: Max Score | 棒球：最大分数">
         <Cheatline>
             <Offset>11D7836</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Darts: Easy Win">
+    <Cheat Text="Darts: Easy Win | 飞镖：轻松获胜">
         <Cheatline>
             <Offset>4115EE</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>45-29-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Train">
+    <Cheat Text="Easy Train | 简单训练">
         <Cheatline>
             <Offset>B27F6</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>FF-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP on Get">
+    <Cheat Text="Max XP on Get | 获取时经验最大">
         <Cheatline>
             <Offset>752C1C</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>48-0F-4D-DE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Pocket Car Circuit: Infinite Stabilize-Gauge">
+    <Cheat Text="Pocket Car Circuit: Infinite Stabilize-Gauge | 口袋赛车：无限稳定槽">
         <Cheatline>
             <Offset>D1E17D</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>C5-FA-58-05-2B-5E-27-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Pocket Car Circuit: Infinite Boost">
+    <Cheat Text="Pocket Car Circuit: Infinite Boost | 口袋赛车：无限加速">
         <Cheatline>
             <Offset>D1EEEF</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>FF-8B-B0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shogi-Points on Get">
+    <Cheat Text="Max Shogi-Points on Get | 获取时将棋分最大">
         <Cheatline>
             <Offset>7567D6</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>48-0F-4F-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Cee-Loo: Max Points on Win">
+    <Cheat Text="Cee-Loo: Max Points on Win | Cee-Loo：获胜时分数最大">
         <Cheatline>
             <Offset>7FE81BA6</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>C4-E1-FA-2C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Casino/Colusseum: Max Chips/Points">
+    <Cheat Text="Casino/Colusseum: Max Chips/Points | 赌场/斗技场：最大筹码/点数">
         <Cheatline>
             <Offset>7567D6</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>48-0F-4F-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Colusseum: Max XP">
+    <Cheat Text="Colusseum: Max XP | 斗技场：最大经验">
         <Cheatline>
             <Offset>7568AA</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>48-0F-4C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MesuKing: Infinite Health">
+    <Cheat Text="MesuKing: Infinite Health | MesuKing：无限生命">
         <Cheatline>
             <Offset>11D7862</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MesuKing: 1 Hit Kill">
+    <Cheat Text="MesuKing: 1 Hit Kill | MesuKing：一击必杀">
         <Cheatline>
             <Offset>11D7863</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hostess: Max Love-Gauge">
+    <Cheat Text="Hostess: Max Love-Gauge | 夜店：最大爱情槽">
         <Cheatline>
             <Offset>3F0EEE</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>0F-4C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Majima Rank">
+    <Cheat Text="Easy Majima Rank | 简单真岛等级">
         <Cheatline>
             <Offset>68579C</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>66-41-0F-4D-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Alcohol: Sober">
+    <Cheat Text="Alcohol: Sober | 酒精：清醒">
         <Cheatline>
             <Offset>75276B</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>01-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Alcohol: Drunk">
+    <Cheat Text="Alcohol: Drunk | 酒精：醉酒">
         <Cheatline>
             <Offset>752780</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Superbeat: Xonic" Moder="Fullcodes" Cusa="CUSA06894" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Auto play with Superbeat">
+    <Cheat Text="Auto play with Superbeat | 自动游玩（Superbeat模式）">
         <Cheatline>
             <Offset>80616BA1</Offset>
             <Section>0</Section>

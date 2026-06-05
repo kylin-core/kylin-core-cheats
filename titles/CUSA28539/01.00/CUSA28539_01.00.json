@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (Enable First)",
+      "name": "Master Code (Enable First) | 主代码（先启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Health",
+      "name": "Health | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Gold (On Spend)",
+      "name": "Max Gold (On Spend) | 最大金币（花费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Throwables",
+      "name": "Throwables | 投掷武器",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Weapons Durability",
+      "name": "Weapons Durability | 武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Skill Points",
+      "name": "Skill Points | 技能点",
       "type": "checkbox",
       "memory": [
         {

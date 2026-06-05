@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Transfer Budget",
-      "hint": null,
+      "name": "Infinite Transfer Budget | 无限转会预算",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "x2 Transfer Budget",
-      "hint": null,
+      "name": "x2 Transfer Budget | 双倍转会预算",
       "type": "checkbox",
       "memory": [
         {

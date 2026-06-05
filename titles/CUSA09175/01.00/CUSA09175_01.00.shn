@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DAYS GONE" Moder="x3shakir" Cusa="CUSA09175" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>012F89B7</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-89-14-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>012E4BC7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>012E95B0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fuel">
+    <Cheat Text="Infinite Fuel | 无限燃料">
         <Cheatline>
             <Offset>0157CD8D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitrogen">
+    <Cheat Text="Infinite Nitrogen | 无限氮气">
         <Cheatline>
             <Offset>015ABB09</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-EA-5C-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Silencer">
+    <Cheat Text="Infinite Silencer | 无限消音器">
         <Cheatline>
             <Offset>016A098E</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>89-8B-70-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bandages">
+    <Cheat Text="Infinite Bandages | 无限绷带">
         <Cheatline>
             <Offset>012E95FD</Offset>
             <Section>0</Section>

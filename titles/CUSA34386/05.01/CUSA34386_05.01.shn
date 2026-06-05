@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God of War Ragnarok (+Valhalla DLC compatibility)" Moder="Pharaoh2k" Cusa="CUSA34386" Version="05.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>1b87900</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]">
+    <Cheat Text="God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA] | 上帝模式（无敌+无特效）【请勿在英灵殿中使用】">
         <Cheatline>
             <Offset>1b865A0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage Taken">
+    <Cheat Text="No Damage Taken | 不会受到伤害">
         <Cheatline>
             <Offset>1b86600</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No XP,HS, Resources subtracted when used">
+    <Cheat Text="No XP,HS, Resources subtracted when used | 使用时不消耗经验、技能点与资源">
         <Cheatline>
             <Offset>1b87100</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Crafting And Upgrade Limits">
+    <Cheat Text="No Crafting And Upgrade Limits | 无制作与升级限制">
         <Cheatline>
             <Offset>103E4F6</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>7C-9D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Arrows & Throwables [DO NOT USE IN VALHALLA]">
+    <Cheat Text="Infinite Arrows & Throwables [DO NOT USE IN VALHALLA] | 无限箭矢与投掷物【请勿在英灵殿中使用】">
         <Cheatline>
             <Offset>1b866C0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Rage (incl. Kratos and Atreus)">
+    <Cheat Text="Infinite Rage (incl. Kratos and Atreus) | 无限怒气（包括奎托斯与阿特柔斯）">
         <Cheatline>
             <Offset>1b87000</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA]">
+    <Cheat Text="Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA] | 伤害倍率（主代码）【请勿在英灵殿中使用】">
         <Cheatline>
             <Offset>1b866A0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--5x damage">
+    <Cheat Text="--5x damage | --5倍伤害">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-A0-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--10x damage">
+    <Cheat Text="--10x damage | --10倍伤害">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-20-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--20x damage">
+    <Cheat Text="--20x damage | --20倍伤害">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-A0-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--30x damage">
+    <Cheat Text="--30x damage | --30倍伤害">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-F0-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--40x damage">
+    <Cheat Text="--40x damage | --40倍伤害">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-20-42</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--50x damage">
+    <Cheat Text="--50x damage | --50倍伤害">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-48-42</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--100x damage (one hit kill)">
+    <Cheat Text="--100x damage (one hit kill) | --100倍伤害（一击必杀）">
         <Cheatline>
             <Offset>01B866BA</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-C8-42</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Stun [DO NOT USE IN VALHALLA]">
+    <Cheat Text="One Hit Stun [DO NOT USE IN VALHALLA] | 一击眩晕【请勿在英灵殿中使用】">
         <Cheatline>
             <Offset>1b86700</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Max Shield Charge">
+    <Cheat Text="Infinite Max Shield Charge | 无限最大盾牌充能">
         <Cheatline>
             <Offset>1b86750</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Talisman and Relic Cooldown">
+    <Cheat Text="No Talisman and Relic Cooldown | 护符与遗物无冷却">
         <Cheatline>
             <Offset>1b87250</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Charge (L1+Triangle)">
+    <Cheat Text="Infinite Weapon Charge (L1+Triangle) | 无限武器充能（L1+三角）">
         <Cheatline>
             <Offset>1b87200</Offset>
             <Section>0</Section>

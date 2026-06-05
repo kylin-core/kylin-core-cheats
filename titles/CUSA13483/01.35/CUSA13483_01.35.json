@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money ( on gain )",
+      "name": "Max Money ( on gain ) | 金钱最大化（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Diamonds, Medails, Tickets ( on gain )",
+      "name": "Max Diamonds, Medails, Tickets ( on gain ) | 钻石、奖牌、门票最大化（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,11 +37,10 @@
       ]
     },
     {
-      "name": "Max XP ( on first Level Up )",
+      "name": "Max XP ( on first Level Up ) | 经验值最大化（首次升级时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "44D446",
           "on": "41895614",
           "off": "41895E14"
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max collected Harvest",
+      "name": "Max collected Harvest | 采集收获最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Fuel",
+      "name": "Infinite Fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {

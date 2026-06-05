@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Paw Paw Paw" Moder="Reddevil82 " Cusa="CUSA24828" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincibility">
+    <Cheat Text="Invincibility | 无敌">
         <Cheatline>
             <Offset>186FD50</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>186FD86</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health">
+    <Cheat Text="Max Health | 最大生命">
         <Cheatline>
             <Offset>186FDA3</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy">
+    <Cheat Text="Infinite Energy | 无限能量">
         <Cheatline>
             <Offset>186FDBC</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Energy">
+    <Cheat Text="Max Energy | 最大能量">
         <Cheatline>
             <Offset>186FDD9</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Damage">
+    <Cheat Text="Max Damage | 最大伤害">
         <Cheatline>
             <Offset>186FDF0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Armor">
+    <Cheat Text="Infinite Armor | 无限护甲">
         <Cheatline>
             <Offset>186FE10</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Food">
+    <Cheat Text="Max Food | 最大饱食度">
         <Cheatline>
             <Offset>186FE27</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cooldown Skills">
+    <Cheat Text="No Cooldown Skills | 技能无冷却">
         <Cheatline>
             <Offset>186FE3C</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Poison Damage">
+    <Cheat Text="No Poison Damage | 免疫毒伤">
         <Cheatline>
             <Offset>11FC104</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>77-7D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Kills">
+    <Cheat Text="Max Kills | 最大击杀数">
         <Cheatline>
             <Offset>186FE53</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Inventory Space Consumption">
+    <Cheat Text="Infinite Inventory Space Consumption | 背包消耗无限">
         <Cheatline>
             <Offset>186FE6A</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items">
+    <Cheat Text="Max Items | 最大物品数">
         <Cheatline>
             <Offset>186FE80</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP">
+    <Cheat Text="Max XP | 最大经验值">
         <Cheatline>
             <Offset>186FE95</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Speed [ x 2 ]">
+    <Cheat Text="Player Speed [ x 2 ] | 玩家速度 [ x2 ]">
         <Cheatline>
             <Offset>186FEA5</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Speed [ x 3 ]">
+    <Cheat Text="Player Speed [ x 3 ] | 玩家速度 [ x3 ]">
         <Cheatline>
             <Offset>186FED0</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Roll Speed [ x 2 ]">
+    <Cheat Text="Player Roll Speed [ x 2 ] | 翻滚速度 [ x2 ]">
         <Cheatline>
             <Offset>186FEFA</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Roll Speed [ x 3 ]">
+    <Cheat Text="Player Roll Speed [ x 3 ] | 翻滚速度 [ x3 ]">
         <Cheatline>
             <Offset>186FF0E</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Jump Height [ x 2 ]">
+    <Cheat Text="Player Jump Height [ x 2 ] | 跳跃高度 [ x2 ]">
         <Cheatline>
             <Offset>57F3C9</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>8B-80-28-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Jump Height [ x 3 ]">
+    <Cheat Text="Player Jump Height [ x 3 ] | 跳跃高度 [ x3 ]">
         <Cheatline>
             <Offset>57F3C9</Offset>
             <Section>0</Section>

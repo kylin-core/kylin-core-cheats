@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "inf Items Use",
+      "name": "inf Items Use | 无限使用道具",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Attack",
+      "name": "Inf Attack | 无限攻击",
       "type": "checkbox",
       "memory": [
         {

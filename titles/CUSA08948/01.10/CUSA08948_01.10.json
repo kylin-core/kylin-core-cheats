@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Money Increase On Purchase",
+      "name": "Money Increase On Purchase | 购买金钱增加",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Materials Increase On use or sale",
+      "name": "Materials Increase On use or sale | 使用或销售材料增加",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Wings Increase in use",
+      "name": "Wings Increase in use | 使用立体机动装置增加",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Infinity Items",
+      "name": "Max Infinity Items | 无限物品最大值",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinity Gifts",
+      "name": "Infinity Gifts | 无限礼物",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max Kills",
+      "name": "Max Kills | 最大击杀数",
       "type": "checkbox",
       "memory": [
         {

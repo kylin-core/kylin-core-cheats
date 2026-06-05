@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomic Heart" Moder="Celogamez" Cusa="PPSA10695" Version="01.014.400" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health/Easy Kill/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON)">
+    <Cheat Text="Infinite Health/Easy Kill/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON) | 无限生命/秒杀/能量/聚合物能力/电击/冲刺（主控代码/必须开启）">
         <Cheatline>
             <Offset>6D47DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>6D47DB9</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-47-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 秒杀">
         <Cheatline>
             <Offset>6D47DCE</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-47-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite energy">
+    <Cheat Text="Infinite energy | 无限能量">
         <Cheatline>
             <Offset>6D47DE1</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-47-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Polymeric Ability">
+    <Cheat Text="Infinite Polymeric Ability | 无限聚合物能力">
         <Cheatline>
             <Offset>6D47DF6</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-47-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Shock">
+    <Cheat Text="Infinite Shock | 无限电击">
         <Cheatline>
             <Offset>6D47E1C</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FA-11-47-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dash">
+    <Cheat Text="Infinite Dash | 无限冲刺">
         <Cheatline>
             <Offset>6D47E2F</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-47-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>6D47B90</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Neuropolymer/Resources (On Pick Up)">
+    <Cheat Text="Infinite Neuropolymer/Resources (On Pick Up) | 无限神经聚合物/资源（拾取时）">
         <Cheatline>
             <Offset>6D47BB0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Neuropolymer/Resources (On use)">
+    <Cheat Text="Infinite Neuropolymer/Resources (On use) | 无限神经聚合物/资源（使用后）">
         <Cheatline>
             <Offset>6D47A50</Offset>
             <Section>0</Section>

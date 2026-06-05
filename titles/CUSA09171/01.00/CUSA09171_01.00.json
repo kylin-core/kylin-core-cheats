@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 最大弹药量",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Clip Ammo",
+      "name": "Max Clip Ammo | 最大弹匣容量",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite (Stackable-)Items",
+      "name": "Infinite (Stackable-)Items | 无限（可堆叠）物品",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Items on Move (Storage)",
+      "name": "Max Items on Move (Storage) | 搬运时最大物品数（储物）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Items on get",
+      "name": "Max Items on get | 获取时最大物品数",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Short Animationtime for Aiming",
+      "name": "Short Animationtime for Aiming | 缩短瞄准动画时间",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Instant Gun-Focus",
+      "name": "Instant Gun-Focus | 即时枪械聚焦",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Max Items on Use",
+      "name": "Max Items on Use | 使用时最大物品数",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max All currency (Yen/Akame/Circuit)",
+      "name": "Max All currency (Yen/Akame/Circuit) | 所有货币最大值 (日元/阿卡姆/电路)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Circuit car max Gauge",
+      "name": "Circuit car max Gauge | 赛车最大能量槽",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Health",
+      "name": "Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Items x99",
+      "name": "Items x99 | 道具 x99",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Heat instant Charge",
+      "name": "Heat instant Charge | 热血槽瞬间蓄满",
       "type": "checkbox",
       "memory": [
         {

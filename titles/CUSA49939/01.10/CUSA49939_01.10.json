@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "5 Mil Reputation (on gain or spend)",
+      "name": "5 Mil Reputation (on gain or spend) | 500万声望（获取或消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "5 Mil Money (on gain or spend)",
+      "name": "5 Mil Money (on gain or spend) | 500万金钱（获取或消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Item (on gain or use)",
+      "name": "Inf Item (on gain or use) | 无限物品（获取或使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Inf Heat",
+      "name": "Inf Heat | 无限热血",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Inf Madness",
+      "name": "Inf Madness | 无限狂乱",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Ship Inf Health",
+      "name": "Ship Inf Health | 船只无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Ship Inf Boost",
+      "name": "Ship Inf Boost | 船只无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "Pool Inf One Shot Challenge Attempts",
+      "name": "Pool Inf One Shot Challenge Attempts | 台球一杆挑战无限次数",
       "type": "checkbox",
       "memory": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "name": "Baseball Inf Cannonball",
+      "name": "Baseball Inf Cannonball | 棒球无限炮弹",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Golf Closest to the Pin 5000 points",
+      "name": "Golf Closest to the Pin 5000 points | 高尔夫最近旗杆5000分",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Golf Inf Bingo Attempts",
+      "name": "Golf Inf Bingo Attempts | 高尔夫无限宾果尝试次数",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Crazy Delivery 100k Points Per Trick",
+      "name": "Crazy Delivery 100k Points Per Trick | 疯狂送货每次特技10万分",
       "type": "checkbox",
       "memory": [
         {

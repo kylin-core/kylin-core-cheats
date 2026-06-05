@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health ",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max coins (on steal turn off when buying)",
+      "name": "Max coins (on steal turn off when buying) | 最大金币（偷取时开启，购买时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "max Arrows (on use have 2)",
+      "name": "max Arrows (on use have 2) | 最大箭矢（使用时保留2支）",
       "type": "checkbox",
       "memory": [
         {

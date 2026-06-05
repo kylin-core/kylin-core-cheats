@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / Stamina  (Master Code)",
+      "name": "Health / Stamina  (Master Code) | 生命/耐力（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Team Health + (MC)",
+      "name": "Team Health + (MC) | 团队生命+（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill + (MC)",
+      "name": "1 Hit Kill + (MC) | 一击必杀+（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Ammo / No Reload",
+      "name": "Max Ammo / No Reload | 最大弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Currency (9999999)",
+      "name": "Max Currency (9999999) | 最大货币（9999999）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables",
+      "name": "Infinite Consumables | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {

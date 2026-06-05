@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DAYS GONE" Moder="TylerMods+TLH+sili+Ibrahim+x3shakir" Cusa="CUSA09175" Version="01.51" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>0127DC97</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-89-14-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>01270700</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitrogen">
+    <Cheat Text="Infinite Nitrogen | 无限氮气">
         <Cheatline>
             <Offset>0151BF56</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-EA-5C-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Silencer">
+    <Cheat Text="Infinite Silencer | 无限消音器">
         <Cheatline>
             <Offset>0160A75E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-8B-70-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久">
         <Cheatline>
             <Offset>015D9938</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>126C803</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>29-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code for Infinite Health and One Hit Kill(MUST ENABLE)">
+    <Cheat Text="Master Code for Infinite Health and One Hit Kill(MUST ENABLE) | 无限生命与一击必杀主代码（必须启用）">
         <Cheatline>
             <Offset>565A100</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (NEEDS MASTERCODE)">
+    <Cheat Text="Infinite Health (NEEDS MASTERCODE) | 无限生命（需要主代码）">
         <Cheatline>
             <Offset>565A116</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-10-87-BC-1F-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill (NEEDS MASTERCODE)">
+    <Cheat Text="One Hit Kill (NEEDS MASTERCODE) | 一击必杀（需要主代码）">
         <Cheatline>
             <Offset>565A108</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C4-C1-7A-10-87-BC-1F-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>15BE0BF</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>FF-0B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bandages">
+    <Cheat Text="Infinite Bandages | 无限绷带">
         <Cheatline>
             <Offset>1270755</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>29-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Credits">
+    <Cheat Text="Infinite Credits | 无限货币">
         <Cheatline>
             <Offset>1178296</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant LevelUp">
+    <Cheat Text="Instant LevelUp | 瞬间升级">
         <Cheatline>
             <Offset>E75A4F</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>E8-8C-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Molotov: Ignore Crafting Limit">
+    <Cheat Text="Molotov: Ignore Crafting Limit | 燃烧瓶：无视制作限制">
         <Cheatline>
             <Offset>126FDB5</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>29-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gas(Fuel)">
+    <Cheat Text="Infinite Gas(Fuel) | 无限汽油（燃料）">
         <Cheatline>
             <Offset>14E824D</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Focus and Stamina">
+    <Cheat Text="Infinite Focus and Stamina | 无限专注与体力">
         <Cheatline>
             <Offset>2410928</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Lives / Coins (Master Code)",
+      "name": "Lives / Coins (Master Code) | 生命/金币（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Coins x99 (MC) Turn Off To Collect More",
+      "name": "Coins x99 (MC) Turn Off To Collect More | 金币x99（主码）关闭后可继续收集",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Freeze Time (Arcade Mode) Pause To Activate",
+      "name": "Freeze Time (Arcade Mode) Pause To Activate | 暂停时间（街机模式）暂停后激活",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Resume Time (Use With Freeze Time)",
+      "name": "Resume Time (Use With Freeze Time) | 恢复时间（与暂停时间配合使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,11 +59,10 @@
       ]
     },
     {
-      "name": "Freeze Time (SpeedRun Mode)",
+      "name": "Freeze Time (SpeedRun Mode) | 暂停时间（速通模式）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "180756",
           "on": "9090909090",
           "off": "C5FA114714"

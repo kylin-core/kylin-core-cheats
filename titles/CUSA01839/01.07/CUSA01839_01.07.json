@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "INF SUPER BOTH PLAYER",
+      "name": "INF SUPER BOTH PLAYER | 双方无限超级连招",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Super Player 1",
+      "name": "Inf Super Player 1 | 玩家1无限超级连招",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Ultra Combo PLAYER 2",
+      "name": "Inf Ultra Combo PLAYER 2 | 玩家2无限终极连击",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Ultra Combo Player 1",
+      "name": "Inf Ultra Combo Player 1 | 玩家1无限终极连击",
       "type": "checkbox",
       "memory": [
         {

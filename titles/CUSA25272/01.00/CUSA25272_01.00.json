@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Refill HP (1P/2P Left Side) Press Evade button / L1 (Master Code)",
+      "name": "Refill HP (1P/2P Left Side) Press Evade button / L1 (Master Code) | 回满HP（1P/2P左侧）按回避键/L1（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Refill HP (1P/2P Right Side) Press Evade button / L1 (Need MC)",
+      "name": "Refill HP (1P/2P Right Side) Press Evade button / L1 (Need MC) | 回满HP（1P/2P右侧）按回避键/L1（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Power Gauge (1P/2P Left Side) Master Code 1",
+      "name": "Max Power Gauge (1P/2P Left Side) Master Code 1 | 能量槽最大（1P/2P左侧）主代码1",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Power Gauge (1P/2P Right Side) Need MC 1",
+      "name": "Max Power Gauge (1P/2P Right Side) Need MC 1 | 能量槽最大（1P/2P右侧）需主代码1",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Guard Gauge (1P/2P Left Side) Master Code 2",
+      "name": "Max Guard Gauge (1P/2P Left Side) Master Code 2 | 防御槽最大（1P/2P左侧）主代码2",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Guard Gauge (1P/2P Right Side) Need MC 2",
+      "name": "Max Guard Gauge (1P/2P Right Side) Need MC 2 | 防御槽最大（1P/2P右侧）需主代码2",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Easy Stun Enemy (1P/2P Left Side) Master Code 3",
+      "name": "Easy Stun Enemy (1P/2P Left Side) Master Code 3 | 容易晕眩敌人（1P/2P左侧）主代码3",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Easy Stun Enemy (1P/2P Right Side) Need MC 3",
+      "name": "Easy Stun Enemy (1P/2P Right Side) Need MC 3 | 容易晕眩敌人（1P/2P右侧）需主代码3",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health / Stamina /Ammo (Master Code)",
+      "name": "Inf Health / Stamina /Ammo (Master Code) | 无限生命/体力/弹药（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Ammo(No reload) / Grenades / Explosive (MC)",
+      "name": "Ammo(No reload) / Grenades / Explosive (MC) | 弹药（无需装弹）/手雷/爆炸物（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Player Speed (Master Code)",
+      "name": "Player Speed (Master Code) | 玩家速度（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "x2 Speed (MC)",
+      "name": "x2 Speed (MC) | 双倍速度（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Rabbit Speed (MC)",
+      "name": "Rabbit Speed (MC) | 极速（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -70,11 +70,10 @@
       ]
     },
     {
-      "name": "Normal Speed (MC)",
+      "name": "Normal Speed (MC) | 正常速度（主控代码）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "56FB85B",
           "on": "41C6470643",
           "off": "41C6470647"

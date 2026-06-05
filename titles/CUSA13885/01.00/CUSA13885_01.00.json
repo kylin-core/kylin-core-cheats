@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables,resources,medkits,ethanol",
+      "name": "Infinite Throwables,resources,medkits,ethanol | 无限投掷物、资源、医疗包、乙醇",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Gives everything 16959 except perk points",
+      "name": "Gives everything 16959 except perk points | 给予所有物品（16959）除技能点外",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Perk Points",
+      "name": "Infinite Perk Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {

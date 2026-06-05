@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Souls on gain",
+      "name": "Infinite Souls on gain | 获得无限灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Electric Sword Gauge Never Decreases",
+      "name": "Electric Sword Gauge Never Decreases | 雷剑计量表不减",
       "type": "checkbox",
       "memory": [
         {

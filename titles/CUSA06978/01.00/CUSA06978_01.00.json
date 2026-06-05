@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Yen (on buy)",
+      "name": "Max Yen (on buy) | 最大金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Items x99 (on use/sell)",
+      "name": "Items x99 (on use/sell) | 物品x99（使用/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Level",
+      "name": "Max Level | 最大等级",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Gems (on collect)",
+      "name": "Max Gems (on collect) | 最大宝石（拾取时）",
       "type": "checkbox",
       "memory": [
         {

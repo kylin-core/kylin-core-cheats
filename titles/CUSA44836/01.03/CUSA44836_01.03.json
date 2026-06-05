@@ -1,12 +1,11 @@
 {
-  "name": "Legacy of Kain Soul Reaver 1&2 Remastered",
+  "name": "Legacy of Kain Soul Reaver 1\u00262 Remastered",
   "id": "CUSA44836",
   "version": "01.03",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Debug Menu SR1 & SR2",
-      "description": "Enable it when in gameplay. Open/Close it by pressing O+[] ;For SR1 also work PS1 cheat combo without using this cheat, just pause the game and insert the PS1 combo",
+      "name": "Debug Menu SR1 \u0026 SR2 | 调试菜单 SR1 和 SR2",
       "type": "checkbox",
       "memory": [
         {
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "SR1 - Max Health",
+      "name": "SR1 - Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +62,7 @@
       ]
     },
     {
-      "name": "SR1 - One Hit Kill",
-      "description": "The cheat work but remember that some monsters require specific kill",
+      "name": "SR1 - One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +78,7 @@
       ]
     },
     {
-      "name": "SR1 - Infinite Jump",
+      "name": "SR1 - Infinite Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +94,7 @@
       ]
     },
     {
-      "name": "SR2 - Max Health",
+      "name": "SR2 - Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +150,7 @@
       ]
     },
     {
-      "name": "SR2 - One Hit Kill",
+      "name": "SR2 - One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +166,7 @@
       ]
     },
     {
-      "name": "SR2 - Infinite Soul Reaper Use",
+      "name": "SR2 - Infinite Soul Reaper Use | 无限灵吸者使用",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +182,7 @@
       ]
     },
     {
-      "name": "SR2 - Infinite Jump",
+      "name": "SR2 - Infinite Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {

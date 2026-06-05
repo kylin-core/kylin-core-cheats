@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "infinte ammo",
+      "name": "infinte ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "inf energe bullets",
+      "name": "inf energe bullets | 无限能量子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "inf special attack",
+      "name": "inf special attack | 无限特殊攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "max sniper coldown",
+      "name": "max sniper coldown | 最大狙击冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max combo",
+      "name": "Max combo | 最大连击",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "inf finesh",
+      "name": "inf finesh | 无限终结技",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "max mark skill",
+      "name": "max mark skill | 最大标记技能",
       "type": "checkbox",
       "memory": [
         {

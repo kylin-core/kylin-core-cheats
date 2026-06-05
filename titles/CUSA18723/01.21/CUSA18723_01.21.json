@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. You may need to enable Player-No-Dead cheat to prevent dying from fall damage when using the Moon/Super-Jump cheat. For an even more advanced trainer, which also includes the stats cheats and other perks, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares. Enjoy! ;-)",
+      "name": "TRAINER INFO (read only) | 修改器信息（仅可读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Code (Must be enabled ALL THE TIME)",
-      "description": "",
+      "name": "Master Code (Must be enabled ALL THE TIME) | 主代码（必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +122,7 @@
       ]
     },
     {
-      "name": "---Infinite Health (Requires Master Code)",
+      "name": "---Infinite Health (Requires Master Code) | ---无限生命（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +133,7 @@
       ]
     },
     {
-      "name": "---Infinite Horse Health (Requires Master Code)",
+      "name": "---Infinite Horse Health (Requires Master Code) | ---无限马匹生命（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +144,7 @@
       ]
     },
     {
-      "name": "---One Hit Kill (Requires Master Code)",
+      "name": "---One Hit Kill (Requires Master Code) | ---一击必杀（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -157,8 +155,7 @@
       ]
     },
     {
-      "name": "Invincible",
-      "description": "",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -174,8 +171,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "description": "",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -191,8 +187,7 @@
       ]
     },
     {
-      "name": "Infinite FP",
-      "description": "",
+      "name": "Infinite FP | 无限专注力",
       "type": "checkbox",
       "memory": [
         {
@@ -208,8 +203,7 @@
       ]
     },
     {
-      "name": "No Effects",
-      "description": "",
+      "name": "No Effects | 无效果",
       "type": "checkbox",
       "memory": [
         {
@@ -225,8 +219,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
-      "description": "Enemies will be able to see you if and when you attack them.",
+      "name": "Stealth Mode | 隐身模式",
       "type": "checkbox",
       "memory": [
         {
@@ -237,8 +230,7 @@
       ]
     },
     {
-      "name": "Enemies Dont Attack",
-      "description": "",
+      "name": "Enemies Dont Attack | 敌人不攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -254,8 +246,7 @@
       ]
     },
     {
-      "name": "Player No Dead",
-      "description": "May take health damage, but will remain alive, even when falling from heights.",
+      "name": "Player No Dead | 玩家不会死亡",
       "type": "checkbox",
       "memory": [
         {
@@ -266,8 +257,7 @@
       ]
     },
     {
-      "name": "Unlimited Jumps",
-      "description": "Can not be used if player speed is set too high.",
+      "name": "Unlimited Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -278,8 +268,7 @@
       ]
     },
     {
-      "name": "100%% Loot Drop-Rate",
-      "description": "",
+      "name": "100%% Loot Drop-Rate | 100%掉落率",
       "type": "checkbox",
       "memory": [
         {
@@ -295,8 +284,7 @@
       ]
     },
     {
-      "name": "No Overloaded Weight Slowdown",
-      "description": "",
+      "name": "No Overloaded Weight Slowdown | 负重无减速",
       "type": "checkbox",
       "memory": [
         {
@@ -312,8 +300,7 @@
       ]
     },
     {
-      "name": "Infinite Runes",
-      "description": "",
+      "name": "Infinite Runes | 无限卢恩",
       "type": "checkbox",
       "memory": [
         {
@@ -324,8 +311,7 @@
       ]
     },
     {
-      "name": "Max Inf Items (on Get and Use)",
-      "description": "",
+      "name": "Max Inf Items (on Get and Use) | 最大/无限道具（获取和使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -336,8 +322,7 @@
       ]
     },
     {
-      "name": "Ignore Crafting Item Requirement",
-      "description": "",
+      "name": "Ignore Crafting Item Requirement | 无视制作材料需求",
       "type": "checkbox",
       "memory": [
         {
@@ -348,8 +333,7 @@
       ]
     },
     {
-      "name": "Ignore Smithing Item Requirement",
-      "description": "",
+      "name": "Ignore Smithing Item Requirement | 无视锻造材料需求",
       "type": "checkbox",
       "memory": [
         {
@@ -360,8 +344,7 @@
       ]
     },
     {
-      "name": "Quick Buy and Sell Shop Items",
-      "description": "",
+      "name": "Quick Buy and Sell Shop Items | 快速买卖商店物品",
       "type": "checkbox",
       "memory": [
         {
@@ -372,7 +355,7 @@
       ]
     },
     {
-      "name": "---x0.1 Player Speed (Requires Master Code)",
+      "name": "---x0.1 Player Speed (Requires Master Code) | ---0.1倍玩家速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -383,7 +366,7 @@
       ]
     },
     {
-      "name": "---x0.5 Player Speed (Requires Master Code)",
+      "name": "---x0.5 Player Speed (Requires Master Code) | ---0.5倍玩家速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -394,7 +377,7 @@
       ]
     },
     {
-      "name": "---x2 Player Speed (Requires Master Code)",
+      "name": "---x2 Player Speed (Requires Master Code) | ---2倍玩家速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -405,7 +388,7 @@
       ]
     },
     {
-      "name": "---x3 Player Speed (Requires Master Code)",
+      "name": "---x3 Player Speed (Requires Master Code) | ---3倍玩家速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -416,7 +399,7 @@
       ]
     },
     {
-      "name": "---x0.1 Horse Speed (Requires Master Code)",
+      "name": "---x0.1 Horse Speed (Requires Master Code) | ---0.1倍马匹速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -427,7 +410,7 @@
       ]
     },
     {
-      "name": "---x0.5 Horse Speed (Requires Master Code)",
+      "name": "---x0.5 Horse Speed (Requires Master Code) | ---0.5倍马匹速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -438,7 +421,7 @@
       ]
     },
     {
-      "name": "---x2 Horse Speed (Requires Master Code)",
+      "name": "---x2 Horse Speed (Requires Master Code) | ---2倍马匹速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -449,7 +432,7 @@
       ]
     },
     {
-      "name": "---x3 Horse Speed (Requires Master Code)",
+      "name": "---x3 Horse Speed (Requires Master Code) | ---3倍马匹速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -460,7 +443,7 @@
       ]
     },
     {
-      "name": "---x0 Speed - Freeze Enemies (Requires Master Code)",
+      "name": "---x0 Speed - Freeze Enemies (Requires Master Code) | ---0倍速度 - 冻结敌人（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -471,7 +454,7 @@
       ]
     },
     {
-      "name": "---x0.5 Enemy Speed (Requires Master Code)",
+      "name": "---x0.5 Enemy Speed (Requires Master Code) | ---0.5倍敌人速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -482,7 +465,7 @@
       ]
     },
     {
-      "name": "---x2 Enemy Speed (Requires Master Code)",
+      "name": "---x2 Enemy Speed (Requires Master Code) | ---2倍敌人速度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -493,8 +476,7 @@
       ]
     },
     {
-      "name": "Pause By Controller (read description)",
-      "description": "Pause Game: Press Options + Dpad Right. UnPause Game: Press Options + Dpad Left. Note: Some background elements like flowers may still move while the game is paused. Thats normal.",
+      "name": "Pause By Controller (read description) | 控制器暂停（阅读说明）",
       "type": "checkbox",
       "memory": [
         {
@@ -510,7 +492,7 @@
       ]
     },
     {
-      "name": "---x2 Super Jump Distance (Requires Master Code)",
+      "name": "---x2 Super Jump Distance (Requires Master Code) | ---2倍超级跳跃距离（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -526,7 +508,7 @@
       ]
     },
     {
-      "name": "---x5 Super Jump Distance (Requires Master Code)",
+      "name": "---x5 Super Jump Distance (Requires Master Code) | ---5倍超级跳跃距离（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -542,7 +524,7 @@
       ]
     },
     {
-      "name": "---x10 Super Jump Distance (Requires Master Code)",
+      "name": "---x10 Super Jump Distance (Requires Master Code) | ---10倍超级跳跃距离（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -558,7 +540,7 @@
       ]
     },
     {
-      "name": "---x20 Super Jump Distance (Requires Master Code)",
+      "name": "---x20 Super Jump Distance (Requires Master Code) | ---20倍超级跳跃距离（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -574,7 +556,7 @@
       ]
     },
     {
-      "name": "---x2 Super Jump Height (Requires Master Code)",
+      "name": "---x2 Super Jump Height (Requires Master Code) | ---2倍超级跳跃高度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -585,7 +567,7 @@
       ]
     },
     {
-      "name": "---x5 Super Jump Height (Requires Master Code)",
+      "name": "---x5 Super Jump Height (Requires Master Code) | ---5倍超级跳跃高度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -596,7 +578,7 @@
       ]
     },
     {
-      "name": "---x10 Super Jump Height (Requires Master Code)",
+      "name": "---x10 Super Jump Height (Requires Master Code) | ---10倍超级跳跃高度（需主代码）",
       "type": "button",
       "memory": [
         {
@@ -607,7 +589,7 @@
       ]
     },
     {
-      "name": "---x20 Super Jump Height (Requires Master Code)",
+      "name": "---x20 Super Jump Height (Requires Master Code) | ---20倍超级跳跃高度（需主代码）",
       "type": "button",
       "memory": [
         {

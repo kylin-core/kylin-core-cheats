@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "InfSkill",
+      "name": "InfSkill | 无限技能",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "InfBoneSand",
+      "name": "InfBoneSand | 无限骨砂",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "InfGland",
+      "name": "InfGland | 无限腺体",
       "type": "checkbox",
       "memory": [
         {

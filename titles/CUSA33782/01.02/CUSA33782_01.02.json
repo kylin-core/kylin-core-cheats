@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Rocks (on gather)",
+      "name": "Max Rocks (on gather) | 最大岩石数量（采集时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Woods (on gather)",
+      "name": "Max Woods (on gather) | 最大木材数量（采集时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Materials/food/potions (on gather turn off when buying)",
+      "name": "Max Materials/food/potions (on gather turn off when buying) | 最大材料/食物/药水数量（采集时生效，购买时关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Coins (on buy)",
+      "name": "Max Coins (on buy) | 最大金币（购买时）",
       "type": "checkbox",
       "memory": [
         {

@@ -1,11 +1,11 @@
 {
-  "name": "Asterix & Obelix XXL3",
+  "name": "Asterix \u0026 Obelix XXL3",
   "id": "CUSA16983",
   "version": "01.06",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health",
+      "name": "Health | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Energy Bar",
+      "name": "Max Energy Bar | 最大能量条",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Magic Potion",
+      "name": "Max Magic Potion | 最大魔法药水",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Currency (On Pick) Disable To Collect More",
+      "name": "Max Currency (On Pick) Disable To Collect More | 最大货币（拾取时禁用以继续收集）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "29C51C",
           "on": "909090",
           "off": "89483C"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Infinite Run",
+      "name": "Infinite Run | 无限奔跑",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "18524F",
           "on": "9090909090",
           "off": "C5FA11475C"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Items Multiplier on use (dont go over 9000)",
+      "name": "Items Multiplier on use (dont go over 9000) | 物品使用倍率（请勿超过9000）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "29C2B5",
           "on": "6601745120",
           "off": "6689745120"
@@ -41,7 +38,7 @@
       ]
     },
     {
-      "name": "9999 items on sell in shop (turn off Multiplier)",
+      "name": "9999 items on sell in shop (turn off Multiplier) | 商店出售9999物品（关闭倍率）",
       "type": "checkbox",
       "memory": [
         {

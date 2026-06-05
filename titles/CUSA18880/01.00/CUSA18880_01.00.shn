@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ELDEN RING™ Network Test Ver." Moder="Ekibunnel" Cusa="CUSA18880" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="PlayerNoDead (Need a Loading)">
+    <Cheat Text="PlayerNoDead (Need a Loading) | 玩家无敌（需加载）">
         <Cheatline>
             <Offset>11A78E9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-B7-00-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="PlayerHorseNoDead (Need a Loading)">
+    <Cheat Text="PlayerHorseNoDead (Need a Loading) | 骑马无敌（需加载）">
         <Cheatline>
             <Offset>11A798B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-B7-00-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="PlayerExterminate (Need a Loading)">
+    <Cheat Text="PlayerExterminate (Need a Loading) | 玩家秒杀（需加载）">
         <Cheatline>
             <Offset>11A7A2D</Offset>
             <Section>0</Section>

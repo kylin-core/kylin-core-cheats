@@ -5,8 +5,7 @@
   "process": "bh0hd.elf",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Pistol Ammo",
-      "hint": null,
+      "name": "Infinite Pistol Ammo | 无限手枪弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Tapes",
-      "hint": null,
+      "name": "Infinite Tapes | 无限录像带",
       "type": "checkbox",
       "memory": [
         {

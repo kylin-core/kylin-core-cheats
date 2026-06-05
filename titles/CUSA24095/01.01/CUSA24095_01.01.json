@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Ki",
+      "name": "Ki | 气力",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Karma",
+      "name": "Karma | 业力",
       "type": "checkbox",
       "memory": [
         {

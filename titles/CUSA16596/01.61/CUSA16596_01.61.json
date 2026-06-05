@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "This trainer is inspired by the excellent FLiNG trainer for the PC version of Cyberpunk 2077. Made and tested on Firmware 9.00. BE SURE TO READ ALL the comments where available. It`s recommended to enable cheats such as Stats, Money, Inventory quantities, on demand and disable them when not needed. Most of them are needed to modify stats only once or a few times at most. Enjoy! ;-)",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Switch (Must be enabled first)",
-      "description": "",
+      "name": "Master Switch (Must be enabled first) | 主开关（必须优先开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "--Infinite Health (Req. MS)",
-      "description": "",
+      "name": "--Infinite Health (Req. MS) | 无限生命（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "--Infinite Stamina (Req. MS)",
-      "description": "",
+      "name": "--Infinite Stamina (Req. MS) | 无限体力（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "--Infinite RAM (Req. MS)",
-      "description": "",
+      "name": "--Infinite RAM (Req. MS) | 无限内存（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "--Instant Hack Upload (Req. MS)",
-      "description": "",
+      "name": "--Instant Hack Upload (Req. MS) | 瞬间上传破解（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -82,8 +76,7 @@
       ]
     },
     {
-      "name": "--One Hit Kills Enemy (Req. MS)",
-      "description": "This affects also hacks such as Short Circuit, Contagion etc., so will kill enemies instantly. Note that this cheat may cause progression issues in some rare situations, such as the drone attack on Panam`s car or whenever using the car turret gun! If and when this happens, be sure to disable the cheat and reload your last save/checkpoint to be able to complete the mission.",
+      "name": "--One Hit Kills Enemy (Req. MS) | 一击必杀敌人（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -94,8 +87,7 @@
       ]
     },
     {
-      "name": "--One Hit Destroys Vehicles (Req. MS)",
-      "description": "Do NOT enable this cheat while you are using any kind of vehicle!",
+      "name": "--One Hit Destroys Vehicles (Req. MS) | 一击摧毁载具（需主开关）",
       "type": "checkbox",
       "memory": [
         {
@@ -106,8 +98,7 @@
       ]
     },
     {
-      "name": "Skills and Hacks Instant Cooldown",
-      "description": "",
+      "name": "Skills and Hacks Instant Cooldown | 技能与破解瞬间冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -123,8 +114,7 @@
       ]
     },
     {
-      "name": "Super Stealth",
-      "description": "Enemies will be able to hear you, but won`t see you and won`t notice that you killed anyone. Be sure to have the cheat enabled before and not after entering hostile area for it to work properly.",
+      "name": "Super Stealth | 超级潜行",
       "type": "checkbox",
       "memory": [
         {
@@ -135,8 +125,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "description": "",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -152,8 +141,7 @@
       ]
     },
     {
-      "name": "Super Accuracy",
-      "description": "",
+      "name": "Super Accuracy | 超级精度",
       "type": "checkbox",
       "memory": [
         {
@@ -179,8 +167,7 @@
       ]
     },
     {
-      "name": "No Recoil",
-      "description": "",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -191,8 +178,7 @@
       ]
     },
     {
-      "name": "No Reload (reloaded)",
-      "description": "",
+      "name": "No Reload (reloaded) | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -208,8 +194,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
-      "description": "",
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -225,8 +210,7 @@
       ]
     },
     {
-      "name": "Infinite Double Jump",
-      "description": "Requires `reinforced tendons` Cyberware",
+      "name": "Infinite Double Jump | 无限二段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -242,8 +226,7 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "description": "Pick only one multiplier below. Note that if the multiplier is high, you must enable infinite life cheat or you may crash and die when reaching the ground.",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -259,8 +242,7 @@
       ]
     },
     {
-      "name": "--x3 Multiplier",
-      "description": "",
+      "name": "--x3 Multiplier | --x3 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -271,8 +253,7 @@
       ]
     },
     {
-      "name": "--x5 Multiplier",
-      "description": "",
+      "name": "--x5 Multiplier | --x5 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -283,8 +264,7 @@
       ]
     },
     {
-      "name": "--x10 Multiplier",
-      "description": "",
+      "name": "--x10 Multiplier | --x10 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -295,8 +275,7 @@
       ]
     },
     {
-      "name": "--x15 Multiplier",
-      "description": "",
+      "name": "--x15 Multiplier | --x15 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -307,8 +286,7 @@
       ]
     },
     {
-      "name": "--x20 Multiplier",
-      "description": "",
+      "name": "--x20 Multiplier | --x20 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -319,8 +297,7 @@
       ]
     },
     {
-      "name": "--x30 Multiplier",
-      "description": "",
+      "name": "--x30 Multiplier | --x30 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -331,8 +308,7 @@
       ]
     },
     {
-      "name": "--x40 Multiplier",
-      "description": "",
+      "name": "--x40 Multiplier | --x40 倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -343,8 +319,7 @@
       ]
     },
     {
-      "name": "9876 pc. Inventory and Quickhack Components",
-      "description": "Auto updates the quantity when loading a save or when accessing the backpack in your inventory.",
+      "name": "9876 pc. Inventory and Quickhack Components | 9876个物品栏与快速破解组件",
       "type": "checkbox",
       "memory": [
         {
@@ -360,8 +335,7 @@
       ]
     },
     {
-      "name": "9900 pc. Inventory Items Quantity",
-      "description": "Auto updates the quantity of possible items when accessing the backpack. Note that you may need to access it twice to view the updated quantities. Some items may require hovering over with the cursor and waiting for the pop-up to show for the quantity to update. Some items quantity can not be updated (such as most weapons), that`s intentional.",
+      "name": "9900 pc. Inventory Items Quantity | 9900个物品栏物品数量",
       "type": "checkbox",
       "memory": [
         {
@@ -377,8 +351,7 @@
       ]
     },
     {
-      "name": "9999999 Money",
-      "description": "After enabling the cheat and setting the value, open the player menu to get the money value updated.",
+      "name": "9999999 Money | 9999999欧元",
       "type": "checkbox",
       "memory": [
         {
@@ -394,8 +367,7 @@
       ]
     },
     {
-      "name": "Freeze Breach Protocol Timer",
-      "description": "",
+      "name": "Freeze Breach Protocol Timer | 冻结破解协议倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -406,8 +378,7 @@
       ]
     },
     {
-      "name": "Game Speed (must enable first)",
-      "description": "Strongly recommended to set multiplier up to 3 to prevent any possible playthrough and save bugs.",
+      "name": "Game Speed (must enable first) | 游戏速度（必须优先开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -433,8 +404,7 @@
       ]
     },
     {
-      "name": "--x0.1 Speed",
-      "description": "",
+      "name": "--x0.1 Speed | --x0.1倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -445,8 +415,7 @@
       ]
     },
     {
-      "name": "--x0.5 Speed",
-      "description": "",
+      "name": "--x0.5 Speed | --x0.5倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -457,8 +426,7 @@
       ]
     },
     {
-      "name": "--x1.5 Speed",
-      "description": "",
+      "name": "--x1.5 Speed | --x1.5倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -469,8 +437,7 @@
       ]
     },
     {
-      "name": "--x2 Speed",
-      "description": "",
+      "name": "--x2 Speed | --x2倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -481,8 +448,7 @@
       ]
     },
     {
-      "name": "--x2.5 Speed",
-      "description": "",
+      "name": "--x2.5 Speed | --x2.5倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -493,8 +459,7 @@
       ]
     },
     {
-      "name": "--x3 Speed",
-      "description": "",
+      "name": "--x3 Speed | --x3倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -505,8 +470,7 @@
       ]
     },
     {
-      "name": "Level, Street Credits, Skills XP (Must be enabled first)",
-      "description": "After enabling this cheat, open your player menu (touchpad) TWICE (enter and exit it) to see the new numbers. After setting this you must save and reload the game for all the matching stats to update properly. Disable the cheat when all stats are updated.",
+      "name": "Level, Street Credits, Skills XP (Must be enabled first) | 等级、街头声望、技能经验（必须优先开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -522,8 +486,7 @@
       ]
     },
     {
-      "name": "--Level 10",
-      "description": "",
+      "name": "--Level 10 | --等级10",
       "type": "checkbox",
       "memory": [
         {
@@ -534,8 +497,7 @@
       ]
     },
     {
-      "name": "--Level 20",
-      "description": "",
+      "name": "--Level 20 | --等级20",
       "type": "checkbox",
       "memory": [
         {
@@ -546,8 +508,7 @@
       ]
     },
     {
-      "name": "--Level 30",
-      "description": "",
+      "name": "--Level 30 | --等级30",
       "type": "checkbox",
       "memory": [
         {
@@ -558,8 +519,7 @@
       ]
     },
     {
-      "name": "--Level 40",
-      "description": "",
+      "name": "--Level 40 | --等级40",
       "type": "checkbox",
       "memory": [
         {
@@ -570,8 +530,7 @@
       ]
     },
     {
-      "name": "--Level 50",
-      "description": "",
+      "name": "--Level 50 | --等级50",
       "type": "checkbox",
       "memory": [
         {
@@ -582,8 +541,7 @@
       ]
     },
     {
-      "name": "--Street Credits 10",
-      "description": "",
+      "name": "--Street Credits 10 | --街头声望10",
       "type": "checkbox",
       "memory": [
         {
@@ -594,8 +552,7 @@
       ]
     },
     {
-      "name": "--Street Credits 20",
-      "description": "",
+      "name": "--Street Credits 20 | --街头声望20",
       "type": "checkbox",
       "memory": [
         {
@@ -606,8 +563,7 @@
       ]
     },
     {
-      "name": "--Street Credits 30",
-      "description": "",
+      "name": "--Street Credits 30 | --街头声望30",
       "type": "checkbox",
       "memory": [
         {
@@ -618,8 +574,7 @@
       ]
     },
     {
-      "name": "--Street Credits 40",
-      "description": "",
+      "name": "--Street Credits 40 | --街头声望40",
       "type": "checkbox",
       "memory": [
         {
@@ -630,8 +585,7 @@
       ]
     },
     {
-      "name": "--Street Credits 50",
-      "description": "",
+      "name": "--Street Credits 50 | --街头声望50",
       "type": "checkbox",
       "memory": [
         {
@@ -642,8 +596,7 @@
       ]
     },
     {
-      "name": "--Skills XP 10,000",
-      "description": "",
+      "name": "--Skills XP 10,000 | --技能经验10,000",
       "type": "checkbox",
       "memory": [
         {
@@ -654,8 +607,7 @@
       ]
     },
     {
-      "name": "--Skills XP 20,000",
-      "description": "",
+      "name": "--Skills XP 20,000 | --技能经验20,000",
       "type": "checkbox",
       "memory": [
         {
@@ -666,8 +618,7 @@
       ]
     },
     {
-      "name": "--Skills XP 30,000",
-      "description": "",
+      "name": "--Skills XP 30,000 | --技能经验30,000",
       "type": "checkbox",
       "memory": [
         {
@@ -678,8 +629,7 @@
       ]
     },
     {
-      "name": "--Skills XP 40,000",
-      "description": "",
+      "name": "--Skills XP 40,000 | --技能经验40,000",
       "type": "checkbox",
       "memory": [
         {
@@ -690,8 +640,7 @@
       ]
     },
     {
-      "name": "--Skills XP 50,000",
-      "description": "",
+      "name": "--Skills XP 50,000 | --技能经验50,000",
       "type": "checkbox",
       "memory": [
         {
@@ -702,8 +651,7 @@
       ]
     },
     {
-      "name": "--Skills XP 60,000",
-      "description": "",
+      "name": "--Skills XP 60,000 | --技能经验60,000",
       "type": "checkbox",
       "memory": [
         {
@@ -714,8 +662,7 @@
       ]
     },
     {
-      "name": "Skill XP Multiplier",
-      "description": "",
+      "name": "Skill XP Multiplier | 技能经验倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -731,8 +678,7 @@
       ]
     },
     {
-      "name": "--Multiplier x2",
-      "description": "",
+      "name": "--Multiplier x2 | --倍率x2",
       "type": "checkbox",
       "memory": [
         {
@@ -743,8 +689,7 @@
       ]
     },
     {
-      "name": "--Multiplier x4",
-      "description": "",
+      "name": "--Multiplier x4 | --倍率x4",
       "type": "checkbox",
       "memory": [
         {
@@ -755,8 +700,7 @@
       ]
     },
     {
-      "name": "--Multiplier x6",
-      "description": "",
+      "name": "--Multiplier x6 | --倍率x6",
       "type": "checkbox",
       "memory": [
         {
@@ -767,8 +711,7 @@
       ]
     },
     {
-      "name": "--Multiplier x8",
-      "description": "",
+      "name": "--Multiplier x8 | --倍率x8",
       "type": "checkbox",
       "memory": [
         {
@@ -779,8 +722,7 @@
       ]
     },
     {
-      "name": "--Multiplier x10",
-      "description": "",
+      "name": "--Multiplier x10 | --倍率x10",
       "type": "checkbox",
       "memory": [
         {
@@ -791,8 +733,7 @@
       ]
     },
     {
-      "name": "999 Attribute Points (on use)",
-      "description": "",
+      "name": "999 Attribute Points (on use) | 999属性点（使用后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -808,8 +749,7 @@
       ]
     },
     {
-      "name": "999 Perk Points (on use)",
-      "description": "",
+      "name": "999 Perk Points (on use) | 999专长点（使用后生效）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code - MC (Must Enable First)",
+      "name": "Master Code - MC (Must Enable First) | 主代码 - 必先启用",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 秒杀",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Adrenaline",
+      "name": "Infinite Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Infinite Horse Run",
+      "name": "Infinite Horse Run | 无限马匹耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Minimum Horse Panic",
+      "name": "Minimum Horse Panic | 最低马匹恐慌",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "No Toxic",
+      "name": "No Toxic | 无毒性",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Max Money (Sell)",
+      "name": "Max Money (Sell) | 最大金钱（出售）",
       "type": "checkbox",
       "memory": [
         {

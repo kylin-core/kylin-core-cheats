@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Score after 1 Kill (Do not use with other cheats)",
+      "name": "Max Score after 1 Kill (Do not use with other cheats) | 一击即获最高分（勿与其他秘籍共用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Overcharge on Pickup",
+      "name": "Max Overcharge on Pickup | 拾取时过载满值",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Overcharge Keep Pressin UP to deplete",
+      "name": "Inf Overcharge Keep Pressin UP to deplete | 无限过载（按住上键消耗）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Inf Special Weapons",
+      "name": "Inf Special Weapons | 无限特殊武器",
       "type": "checkbox",
       "memory": [
         {

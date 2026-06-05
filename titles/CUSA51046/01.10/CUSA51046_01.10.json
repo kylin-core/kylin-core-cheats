@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Easy health",
-      "description": "",
+      "name": "Easy health | 简单生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Inf Air Dash",
-      "description": "",
+      "name": "Inf Air Dash | 无限空中冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Inf Double Jump",
-      "description": "",
+      "name": "Inf Double Jump | 无限二段跳",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands GOTY" Moder="Sondio" Cusa="CUSA10455" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code (MC)">
+    <Cheat Text="Master Code (MC) | 主代码 (MC)">
         <Cheatline>
             <Offset>1E68199</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health (Enable MC)">
+    <Cheat Text="Max Health (Enable MC) | 最大生命值 (需启用MC)">
         <Cheatline>
             <Offset>1E6830A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>80-3D-86-FE-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health Car (Enable MC)">
+    <Cheat Text="Max Health Car (Enable MC) | 车辆最大生命值 (需启用MC)">
         <Cheatline>
             <Offset>1E681CE</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>80-3D-C2-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shield (Enable MC)">
+    <Cheat Text="Max Shield (Enable MC) | 最大护盾 (需启用MC)">
         <Cheatline>
             <Offset>1E6832E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>80-3D-62-FE-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Nitro (Enable MC)">
+    <Cheat Text="Max Nitro (Enable MC) | 最大加速 (需启用MC)">
         <Cheatline>
             <Offset>1E681A3</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>80-3D-ED-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP/Level (Enable MC)">
+    <Cheat Text="Max XP/Level (Enable MC) | 最大经验/等级 (需启用MC)">
         <Cheatline>
             <Offset>1E682D7</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>80-3D-B9-FE-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points">
+    <Cheat Text="Max Skill Points | 最大技能点数">
         <Cheatline>
             <Offset>1E6841A</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>1E68436</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Weapons Slots (Enable MC)">
+    <Cheat Text="Unlock Weapons Slots (Enable MC) | 解锁武器栏位 (需启用MC)">
         <Cheatline>
             <Offset>1E68217</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>80-3D-79-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Weapon Skill">
+    <Cheat Text="Max Weapon Skill | 最大武器熟练度">
         <Cheatline>
             <Offset>1E6845B</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Weapon Accuracy (Enable MC)">
+    <Cheat Text="Max Weapon Accuracy (Enable MC) | 最大武器精度 (需启用MC)">
         <Cheatline>
             <Offset>1E682AE</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>80-3D-E2-FE-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Demage/One Hit Kill (Enable MC)">
+    <Cheat Text="Max Demage/One Hit Kill (Enable MC) | 最大伤害/一击必杀 (需启用MC)">
         <Cheatline>
             <Offset>1E683AB</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>80-3D-E5-FD-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo (Enable MC)">
+    <Cheat Text="Max Ammo (Enable MC) | 最大弹药 (需启用MC)">
         <Cheatline>
             <Offset>1E683CF</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>80-3D-C1-FD-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload (Enable MC)">
+    <Cheat Text="No Reload (Enable MC) | 无需装弹 (需启用MC)">
         <Cheatline>
             <Offset>1E683ED</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>80-3D-A3-FD-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Space in the Backpack x99 (Enable MC)">
+    <Cheat Text="Space in the Backpack x99 (Enable MC) | 背包空间x99 (需启用MC)">
         <Cheatline>
             <Offset>1E681F2</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>80-3D-9E-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignored by the Enemy (Enable MC)">
+    <Cheat Text="Ignored by the Enemy (Enable MC) | 敌人无视 (需启用MC)">
         <Cheatline>
             <Offset>1E68244</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>80-3D-4C-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Run (Enable MC)">
+    <Cheat Text="Hyper Run (Enable MC) | 超级奔跑 (需启用MC)">
         <Cheatline>
             <Offset>1E6825D</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>80-3D-33-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump x2 (Enable MC)">
+    <Cheat Text="Jump x2 (Enable MC) | 二段跳 (需启用MC)">
         <Cheatline>
             <Offset>1E6828F</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>80-3D-01-FF-FF-FF-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Golden Keys (Enable MC)">
+    <Cheat Text="Infinite Golden Keys (Enable MC) | 无限金钥匙 (需启用MC)">
         <Cheatline>
             <Offset>1E68352</Offset>
             <Section>0</Section>

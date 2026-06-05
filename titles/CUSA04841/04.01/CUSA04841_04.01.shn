@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No Man's Sky" Moder="Wander FW9.00" Cusa="CUSA04841" Version="04.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Sprint">
+    <Cheat Text="Infinite Sprint | 无限冲刺">
         <Cheatline>
             <Offset>7FC5EB50</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jetpack">
+    <Cheat Text="Infinite Jetpack | 无限喷气背包">
         <Cheatline>
             <Offset>7FC5EB70</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Pet Sprint">
+    <Cheat Text="Infinite Pet Sprint | 宠物无限冲刺">
         <Cheatline>
             <Offset>7FC5EB90</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gun Ammo">
+    <Cheat Text="Infinite Gun Ammo | 无限弹药">
         <Cheatline>
             <Offset>13DD1FD</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-84-8F-C8-25-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Minotaur Infinite Jetpack">
+    <Cheat Text="Minotaur Infinite Jetpack | 机甲无限喷气背包">
         <Cheatline>
             <Offset>16C4F59</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-83-F4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Quicksilver (on spend)">
+    <Cheat Text="Max Quicksilver (on spend) | 最大水银（消耗时）">
         <Cheatline>
             <Offset>7FC5EAB0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Nanite Clusters (on gain)">
+    <Cheat Text="Max Nanite Clusters (on gain) | 最大纳米星团（获取时）">
         <Cheatline>
             <Offset>7FC5EAD0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Unites (on spend)">
+    <Cheat Text="Max Unites (on spend) | 最大货币（消耗时）">
         <Cheatline>
             <Offset>7FC5EB10</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Salvaged Data (on spend)">
+    <Cheat Text="999 Salvaged Data (on spend) | 999个回收数据（消耗时）">
         <Cheatline>
             <Offset>7FC5EB30</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Minerals (on gain)">
+    <Cheat Text="999 Minerals (on gain) | 999个矿物（获取时）">
         <Cheatline>
             <Offset>7FC5DCB0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Minerals (on use)">
+    <Cheat Text="999 Minerals (on use) | 999个矿物（使用时）">
         <Cheatline>
             <Offset>7FC5DCE0</Offset>
             <Section>0</Section>

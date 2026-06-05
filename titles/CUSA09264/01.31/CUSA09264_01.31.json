@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "inf. health",
+      "name": "inf. health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "inf. secondary fire",
+      "name": "inf. secondary fire | 无限副武器",
       "type": "checkbox",
       "memory": [
         {

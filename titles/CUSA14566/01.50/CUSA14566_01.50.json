@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max XP Level",
+      "name": "Max XP Level | 最大经验等级",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Costs in Shop ( only Delivery )",
+      "name": "No Costs in Shop ( only Delivery ) | 商店零成本（仅运费）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Delivery Cost",
+      "name": "No Delivery Cost | 免运费",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Star Rating",
+      "name": "Max Star Rating | 最高星级评价",
       "type": "checkbox",
       "memory": [
         {

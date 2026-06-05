@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Skill Points (99)",
+      "name": "Skill Points (99) | 技能点(99)",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Ammo / Knifs / Darts",
+      "name": "Inf Ammo / Knifs / Darts | 无限弹药/飞刀/飞镖",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Relaod",
+      "name": "No Relaod | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Inf Money / Bombs",
+      "name": "Inf Money / Bombs | 无限金钱/炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Easy Kill (Affects Your Ally / Use Only in Fight Club)",
+      "name": "Easy Kill (Affects Your Ally / Use Only in Fight Club) | 简单击杀（影响盟友/仅限拳击俱乐部使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Skill Points",
+      "name": "Skill Points | 技能点",
       "type": "checkbox",
       "memory": [
         {

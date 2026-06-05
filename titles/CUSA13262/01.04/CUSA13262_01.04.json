@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gold / Consumables (On Get / Spend)",
+      "name": "Max Gold / Consumables (On Get / Spend) | 最大金币/消耗品（获取/花费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Super Extra Jump",
+      "name": "Super Extra Jump | 超级二段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -85,11 +85,10 @@
       ]
     },
     {
-      "name": "Default Jump (Use With Super Jump)",
+      "name": "Default Jump (Use With Super Jump) | 默认跳跃（与超级跳跃配合使用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "8",
           "offset": "113970",
           "on": "C7473C00000040",
           "off": "C7473C00C00A44"
@@ -97,11 +96,10 @@
       ]
     },
     {
-      "name": "Default Extra Jump (Use With Super Extra Jump)",
+      "name": "Default Extra Jump (Use With Super Extra Jump) | 默认二段跳（与超级二段跳配合使用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "8",
           "offset": "113990",
           "on": "C7474400000C42",
           "off": "C7474400404244"

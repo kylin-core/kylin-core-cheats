@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Order: 1886" Moder="Fullcodes������ԭ���" Cusa="CUSA00100" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>0070C038</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-82-10-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AMMO Usage">
+    <Cheat Text="Infinite AMMO Usage | 无限弹药">
         <Cheatline>
             <Offset>00752542</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenade Usage">
+    <Cheat Text="Infinite Grenade Usage | 无限投掷物">
         <Cheatline>
             <Offset>006E7C0B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Black Sight Aways Available">
+    <Cheat Text="Black Sight Aways Available | 黑视常驻">
         <Cheatline>
             <Offset>005A4D94</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>5D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Player Health">
+    <Cheat Text="Infinite Player Health | 无限生命">
         <Cheatline>
             <Offset>009F9240</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>4C-89-9F-F0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enemy 1 Hit Kill">
+    <Cheat Text="Enemy 1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>00D5E770</Offset>
             <Section>0</Section>

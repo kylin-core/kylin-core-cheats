@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Castle Crashers Remastered" Moder="Wander FW9.00" Cusa="CUSA14409" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Experience/Coins (kill an enemy go to map activate cheat restart game)">
+    <Cheat Text="Max Experience/Coins (kill an enemy go to map activate cheat restart game) | 最大经验/金币（击杀敌人后回到地图界面激活秘籍，重启游戏生效）">
         <Cheatline>
             <Offset>183980</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill points(turn on in stats upgrade turn off and repeat)">
+    <Cheat Text="Max Skill points(turn on in stats upgrade turn off and repeat) | 最大技能点（在属性升级页面开启，关闭后重复操作）">
         <Cheatline>
             <Offset>1839C0</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina / Focus",
+      "name": "Infinite Stamina / Focus | 无限耐力 / 专注",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables / Consumables (On Use)",
+      "name": "Infinite Throwables / Consumables (On Use) | 无限投掷物 / 消耗品 (使用时)",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Max Salt (On Spend)",
+      "name": "Max Salt (On Spend) | 最大盐 (消费时)",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Max Gold (On Spend)",
+      "name": "Max Gold (On Spend) | 最大金币 (消费时)",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Black Pearl (On Spend)",
+      "name": "Infinite Black Pearl (On Spend) | 无限黑珍珠 (消费时)",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Infinite Upgrade Materials (On Spend)",
+      "name": "Infinite Upgrade Materials (On Spend) | 无限升级材料 (消费时)",
       "type": "checkbox",
       "memory": [
         {

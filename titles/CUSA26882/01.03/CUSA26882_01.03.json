@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be enable for MC Cheats )",
+      "name": "Mastercode ( must be enable for MC Cheats ) | 主代码（必须启用才能使用MC作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Max Eat [ MC ]",
+      "name": "Max Eat [ MC ] | 最大饱食度 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Max First Aid [ MC ]",
+      "name": "Max First Aid [ MC ] | 最大急救包 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Max Ammo [ MC ]",
+      "name": "Max Ammo [ MC ] | 最大弹药 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "MaxBatteries [ MC ]",
+      "name": "MaxBatteries [ MC ] | 最大电池 [ MC ]",
       "type": "checkbox",
       "memory": [
         {

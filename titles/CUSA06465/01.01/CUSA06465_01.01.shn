@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Slain Back from Hell" Moder="Ali-mk" Cusa="CUSA06465" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>8018C56E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-FB-FA-15-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Health-One-Hit-Kill-(mc)">
+    <Cheat Text="Inf-Health-One-Hit-Kill-(mc) | 无限生命-一击必杀(主控)">
         <Cheatline>
             <Offset>8148F800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Web-MAGIC">
+    <Cheat Text="Infinite-Web-MAGIC | 无限蛛网魔法">
         <Cheatline>
             <Offset>801A9510</Offset>
             <Section>0</Section>

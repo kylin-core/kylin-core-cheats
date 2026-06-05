@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="COD: Modern Warfare" Moder="DeathRGH" Cusa="CUSA08829" Version="01.01" Process="default.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>BE9675</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-29-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Reload Ammo">
+    <Cheat Text="Infinite Reload Ammo | 无限装填弹药">
         <Cheatline>
             <Offset>C16C7A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手雷">
         <Cheatline>
             <Offset>BE4D7B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-48-50</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>CEABCC</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-29-86-B8-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Death-Barrier Godmode">
+    <Cheat Text="Death-Barrier Godmode | 死亡屏障上帝模式">
         <Cheatline>
             <Offset>CEB1E0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Recoil">
+    <Cheat Text="No Recoil | 无后坐力">
         <Cheatline>
             <Offset>C00D00</Offset>
             <Section>0</Section>

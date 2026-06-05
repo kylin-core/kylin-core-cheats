@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite (HP,Stamina,Stats,Skill Points) (unbind)",
+      "name": "Infinite (HP,Stamina,Stats,Skill Points) (unbind) | 无限(生命,耐力,属性,技能点)(解绑)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Item Max (use/sell/discard x2)",
+      "name": "Item Max (use/sell/discard x2) | 物品最大(使用/出售/丢弃x2)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Gold on Sell (Craft Mats and Valuables only)",
+      "name": "Max Gold on Sell (Craft Mats and Valuables only) | 出售最大金币(仅限制作材料和贵重品)",
       "type": "checkbox",
       "memory": [
         {

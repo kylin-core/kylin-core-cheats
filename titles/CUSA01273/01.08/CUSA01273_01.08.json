@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max (Iron/Apple) 99",
+      "name": "Max (Iron/Apple) 99 | 铁/苹果最大99",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gold (9999) Turn Off To Collect More",
+      "name": "Max Gold (9999) Turn Off To Collect More | 金币最大9999（关闭后可继续收集）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "XP Multiplier (x15)",
+      "name": "XP Multiplier (x15) | 经验值倍率（15倍）",
       "type": "checkbox",
       "memory": [
         {

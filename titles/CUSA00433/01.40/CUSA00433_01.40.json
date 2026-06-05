@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Mana",
+      "name": "Infinite Mana | 无限法力",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max gold on buy",
+      "name": "Max gold on buy | 购买时金币最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Item / Kill Multiplier",
+      "name": "Item / Kill Multiplier | 物品/击杀倍数",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Fury",
+      "name": "Infinite Fury | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Wrath",
+      "name": "Infinite Wrath | 无限圣怒",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Mana (Wizard)",
+      "name": "Infinite Mana (Wizard) | 无限法力（法师）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Mana (Necro Mancer)",
+      "name": "Infinite Mana (Necro Mancer) | 无限法力（死灵法师）",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Infinite Hatred and Discipline",
+      "name": "Infinite Hatred and Discipline | 无限憎恨与戒律",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinite Spirit",
+      "name": "Infinite Spirit | 无限内力",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Magic Find (equip any item / single cheat turn off after)",
+      "name": "Magic Find (equip any item / single cheat turn off after) | 魔法物品掉落率（装备任意物品后关闭单次作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "1M Gold (Buy / Sell)",
+      "name": "1M Gold (Buy / Sell) | 100万金币（购买/出售）",
       "type": "checkbox",
       "memory": [
         {
@@ -188,6 +188,6 @@
     }
   ],
   "credits": [
-    "TylerMods_9.00 & d01v"
+    "TylerMods_9.00 \u0026 d01v"
   ]
 }

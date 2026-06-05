@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Weird West" Moder="aloneknight_9.00" Cusa="CUSA17598" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="No Reload (nop)">
+    <Cheat Text="No Reload (nop) | 无需装弹(nop)">
         <Cheatline>
             <Offset>134E51D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-29-B6-F8-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP (nop)">
+    <Cheat Text="Infinite AP (nop) | 无限行动点(nop)">
         <Cheatline>
             <Offset>10F4D28</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-8B-F0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HP (nop) might affect enemies">
+    <Cheat Text="Infinite HP (nop) might affect enemies | 无限生命值(nop)可能影响敌人">
         <Cheatline>
             <Offset>10CF935</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-5C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Durability">
+    <Cheat Text="Infinite Durability | 无限耐久度">
         <Cheatline>
             <Offset>112E893</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>29-B7-98-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Item (nop)">
+    <Cheat Text="Infinite Item (nop) | 无限物品(nop)">
         <Cheatline>
             <Offset>112646A</Offset>
             <Section>0</Section>

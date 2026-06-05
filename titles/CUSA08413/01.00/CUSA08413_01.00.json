@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health / 1Hit Kill",
+      "name": "Inf Health / 1Hit Kill | 无限生命 / 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo(1) No Reload (Default Pistol)",
+      "name": "Inf Ammo(1) No Reload (Default Pistol) | 无限弹药(1)无需装填（默认手枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "inf Ammo(2) Enable (1) First",
+      "name": "inf Ammo(2) Enable (1) First | 无限弹药(2) 启用前一个(1)",
       "type": "checkbox",
       "memory": [
         {

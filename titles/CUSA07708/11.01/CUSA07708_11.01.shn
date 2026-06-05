@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter World: Iceborne" Moder="Muhanned" Cusa="CUSA07708" Version="11.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限生命">
         <Cheatline>
             <Offset>425E0FB</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>76-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf stamina">
+    <Cheat Text="Inf stamina | 无限耐力">
         <Cheatline>
             <Offset>3FA9084</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-5D-40-6C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Item in use">
+    <Cheat Text="Inf Item in use | 无限使用道具">
         <Cheatline>
             <Offset>3677D04</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>45-01-F7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Pts">
+    <Cheat Text="Inf Pts | 无限调查点数">
         <Cheatline>
             <Offset>2B30384</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-4F-78</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money on buy">
+    <Cheat Text="Max Money on buy | 购买时金钱最大化">
         <Cheatline>
             <Offset>3F4D3E7</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>29-D9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="matrials increaseing on crafting">
+    <Cheat Text="matrials increaseing on crafting | 制作时素材增加">
         <Cheatline>
             <Offset>3677BBE</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-89-7E-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max matrials and items on sell">
+    <Cheat Text="Max matrials and items on sell | 出售时素材和道具最大化">
         <Cheatline>
             <Offset>3677BBE</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>44-89-7E-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="item max when move from box to pouch">
+    <Cheat Text="item max when move from box to pouch | 从箱子移往道具袋时物品最大化">
         <Cheatline>
             <Offset>3DDBB7B</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>44-29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="item max when move from pouch to box">
+    <Cheat Text="item max when move from pouch to box | 从道具袋移往箱子时物品最大化">
         <Cheatline>
             <Offset>3DDBB7B</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>44-29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money Incress on purchase 2">
+    <Cheat Text="Money Incress on purchase 2 | 购买时金钱增加2">
         <Cheatline>
             <Offset>4093318</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>44-29-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="items incress when get ">
+    <Cheat Text="items incress when get | 获得时道具增加">
         <Cheatline>
             <Offset>3677D26</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>89-4E-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="matrials change when move it in sell box">
+    <Cheat Text="matrials change when move it in sell box | 移至出售箱时素材变化">
         <Cheatline>
             <Offset>3DE387B</Offset>
             <Section>0</Section>

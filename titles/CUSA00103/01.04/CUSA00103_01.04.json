@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Inf HP",
+      "name": "Max Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Fury R3+L2 On R3+R2 Off",
+      "name": "Max Fury R3+L2 On R3+R2 Off | 狂怒开关 R3+L2开启 R3+R2关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Inf Fury",
+      "name": "Max Inf Fury | 无限狂怒",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Inf Ammo",
+      "name": "Max Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Max Inf Canteen",
+      "name": "Max Inf Canteen | 无限水壶",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "Max Inf Fuel",
+      "name": "Max Inf Fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Max Inf Scraps",
+      "name": "Max Inf Scraps | 无限废料",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Inf Car Health",
+      "name": "Inf Car Health | 车辆无限耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Inf Griffa Tokens x1",
+      "name": "Inf Griffa Tokens x1 | 无限格里法代币 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Inf Griffa Tokens x5",
+      "name": "Inf Griffa Tokens x5 | 无限格里法代币 x5",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Inf Enemy HP",
+      "name": "Inf Enemy HP | 敌人生命无限",
       "type": "checkbox",
       "memory": [
         {

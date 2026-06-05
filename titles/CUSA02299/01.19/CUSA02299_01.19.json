@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activate for [ MC ] Cheats )",
+      "name": "Mastercode ( must be activate for [ MC ] Cheats ) | 主密码（必须激活才能使用[MC]作弊功能）",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Max Health [ MC ]",
+      "name": "Max Health [ MC ] | 最大生命值 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限集中力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
+      "name": "Stealth Mode | 潜行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max XP ( on gain )",
+      "name": "Max XP ( on gain ) | 最大经验值（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints",
+      "name": "Max Skillpoints | 最大技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Combo",
+      "name": "Max Combo | 最大连击",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Ressources + Shoots",
+      "name": "Max Ressources + Shoots | 最大资源+弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Save Position [ MC ]",
+      "name": "Save Position [ MC ] | 保存位置 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Load Position [ MC ]",
+      "name": "Load Position [ MC ] | 加载位置 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Max Benchmarks",
+      "name": "Max Benchmarks | 最高基准测试",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Max Score ( on gain )",
+      "name": "Max Score ( on gain ) | 最高分数（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Max Timer",
+      "name": "Max Timer | 最大计时器",
       "type": "checkbox",
       "memory": [
         {

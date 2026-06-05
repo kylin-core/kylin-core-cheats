@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Road 96" Moder="Wander FW9.00" Cusa="CUSA30888" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Cash (when buying from vending Machine)">
+    <Cheat Text="Max Cash (when buying from vending Machine) | 最大现金（在自动售货机购买时）">
         <Cheatline>
             <Offset>864FFDF0</Offset>
             <Section>0</Section>

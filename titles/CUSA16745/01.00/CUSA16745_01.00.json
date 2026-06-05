@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max+ Inf HP | Battle ",
+      "name": "Max+ Inf HP | Battle | 最大+无限HP | 战斗",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max+ Inf MP | Battle",
+      "name": "Max+ Inf MP | Battle | 最大+无限MP | 战斗",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Money/Pts/Rings On Spend/Gain",
+      "name": "Max Money/Pts/Rings On Spend/Gain | 金钱/点数/戒指消费或获得时最大",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Items On Sell/Use",
+      "name": "Infinite Items On Sell/Use | 出售或使用时物品无限",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Lots Of Items And Materials on Buy/Sell/Use/Gain",
+      "name": "Lots Of Items And Materials on Buy/Sell/Use/Gain | 购买/出售/使用/获得时大量物品与材料",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Personality Stats On Gain | Passion/Kindness/Style Etc",
+      "name": "Max Personality Stats On Gain | Passion/Kindness/Style Etc | 获得时个性数值最大 | 热情/善良/时尚等",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Bond Level On Gain| All In Party",
+      "name": "Max Bond Level On Gain| All In Party | 获得时羁绊等级最大 | 全员",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "MiniGame| Claw Machine| Infinte Turns",
+      "name": "MiniGame| Claw Machine| Infinte Turns | 小游戏| 抓娃娃机| 无限次数",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "MiniGame| Movie Theatre | Max Score",
+      "name": "MiniGame| Movie Theatre | Max Score | 小游戏| 电影院| 最高分",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "MiniGame| EVocational Tests| Stop Timer",
+      "name": "MiniGame| EVocational Tests| Stop Timer | 小游戏| 职业测试| 停止计时",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "MiniGame| Dragon Kart| Infinite Ammo",
+      "name": "MiniGame| Dragon Kart| Infinite Ammo | 小游戏| 龙之卡丁车| 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "MiniGame| Dragon Kart| Max Score",
+      "name": "MiniGame| Dragon Kart| Max Score | 小游戏| 龙之卡丁车| 最高分",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "Boost EXP",
+      "name": "Boost EXP | 提升经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "name": "Extra EXP",
+      "name": "Extra EXP | 额外经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "name": "Even More EXP",
+      "name": "Even More EXP | 更多经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": "Lots Of EXP",
+      "name": "Lots Of EXP | 大量经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "name": "Hella EXP",
+      "name": "Hella EXP | 超多经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "EXP OVERLORD | MAX LEVEL",
+      "name": "EXP OVERLORD | MAX LEVEL | 经验霸主 | 最高等级",
       "type": "checkbox",
       "memory": [
         {
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "name": "Brand Awareness| Boost Job Points",
+      "name": "Brand Awareness| Boost Job Points | 品牌认知| 提升职业点数",
       "type": "checkbox",
       "memory": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "name": "Retail | Extra Job Points",
+      "name": "Retail | Extra Job Points | 零售| 额外职业点数",
       "type": "checkbox",
       "memory": [
         {
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "name": "Ecommerce | Even More Points",
+      "name": "Ecommerce | Even More Points | 电商| 更多点数",
       "type": "checkbox",
       "memory": [
         {
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "name": "HR | Lots Of Points",
+      "name": "HR | Lots Of Points | 人力资源| 大量点数",
       "type": "checkbox",
       "memory": [
         {
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "name": "Enterprise | Hella Points",
+      "name": "Enterprise | Hella Points | 企业| 超多点数",
       "type": "checkbox",
       "memory": [
         {
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "name": "Steve Jobs | MAX Job Rank",
+      "name": "Steve Jobs | MAX Job Rank | 史蒂夫·乔布斯 | 最高职业等级",
       "type": "checkbox",
       "memory": [
         {

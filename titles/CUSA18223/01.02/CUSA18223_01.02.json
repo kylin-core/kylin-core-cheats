@@ -5,17 +5,15 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Items (on use inside the battle)",
+      "name": "Items (on use inside the battle) | 战斗中道具（使用后生效）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "250F800",
           "on": "66C74014E403498B87B0060000E943EB34FE",
           "off": "000000000000000000000000000000000000"
         },
         {
-          "section": "14",
           "offset": "85E34B",
           "on": "E9B014CB019090909090",
           "off": "894814498B87B0060000"
@@ -23,17 +21,15 @@
       ]
     },
     {
-      "name": "Infinite SP(when using skill Attacks not Evolution cost)",
+      "name": "Infinite SP(when using skill Attacks not Evolution cost) | 无限SP（技能攻击时生效，不含进化消耗）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5E420",
           "on": "C780FC00000020030000E9353EEB00",
           "off": "000000000000000000000000000000"
         },
         {
-          "section": "14",
           "offset": "85E25E",
           "on": "E9BDC114FF90",
           "off": "8988FC000000"
@@ -41,17 +37,15 @@
       ]
     },
     {
-      "name": "Max Exp (on first or 2nd fight)",
+      "name": "Max Exp (on first or 2nd fight) | 最大经验值（第一或第二场战斗生效）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "7",
           "offset": "113610",
           "on": "41C746287F969800418B7624E951BA6200",
           "off": "0000000000000000000000000000000000"
         },
         {
-          "section": "14",
           "offset": "21B06A",
           "on": "E9A1459DFF909090",
           "off": "41894628418B7624"
@@ -59,11 +53,10 @@
       ]
     },
     {
-      "name": "Items Multiplier (on use outside the battle)",
+      "name": "Items Multiplier (on use outside the battle) | 道具倍率（战斗外使用时生效）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "99CB8C",
           "on": "014814",
           "off": "894814"

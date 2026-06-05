@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health (MC)",
+      "name": "Max Health (MC) | 最大生命值(MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +41,7 @@
       ]
     },
     {
-      "name": "Two Hit Kill (Enable MC)",
-      "description": "Disable it for Duna Boss fight",
+      "name": "Two Hit Kill (Enable MC) | 两击必杀(启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +52,7 @@
       ]
     },
     {
-      "name": "Max Stamina",
+      "name": "Max Stamina | 最大体力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +68,7 @@
       ]
     },
     {
-      "name": "Items x10 On Get",
+      "name": "Items x10 On Get | 拾取物品x10",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +84,7 @@
       ]
     },
     {
-      "name": "Items x99 On Use",
-      "description": "Disable it to discard items",
+      "name": "Items x99 On Use | 使用物品x99",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +100,7 @@
       ]
     },
     {
-      "name": "No Thirst",
+      "name": "No Thirst | 无限水源",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +116,7 @@
       ]
     },
     {
-      "name": "No Hungry",
+      "name": "No Hungry | 永不饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -134,8 +132,7 @@
       ]
     },
     {
-      "name": "Max Money",
-      "description": "Sell item or earn $ to trigger it",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -151,8 +148,7 @@
       ]
     },
     {
-      "name": "Max Skill Points",
-      "description": "Triggered when gaining skill points",
+      "name": "Max Skill Points | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +164,7 @@
       ]
     },
     {
-      "name": "Max Fuel",
+      "name": "Max Fuel | 最大燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -185,6 +181,6 @@
     }
   ],
   "credits": [
-    "Sondio & The Fallen One"
+    "Sondio \u0026 The Fallen One"
   ]
 }

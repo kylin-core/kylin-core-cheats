@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlimited HP",
+      "name": "Unlimited HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Unlimited Weight",
+      "name": "Unlimited Weight | 无限负重",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Unlimted Items (on consume)",
+      "name": "Unlimted Items (on consume) | 无限物品（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Unlimited Items (on drop need 2)",
+      "name": "Unlimited Items (on drop need 2) | 无限物品（丢弃时需保留2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Unlimited Money (on buy)",
+      "name": "Unlimited Money (on buy) | 无限金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Unlimited Weapon Durability",
+      "name": "Unlimited Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Unlimited Stam, Joy, Fatigue, Hunger and Thirst",
+      "name": "Unlimited Stam, Joy, Fatigue, Hunger and Thirst | 无限体力、快乐、疲劳、饥饿与口渴",
       "type": "checkbox",
       "memory": [
         {

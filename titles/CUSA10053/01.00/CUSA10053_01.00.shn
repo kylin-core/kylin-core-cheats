@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hokuto ga Gotoku" Moder="Vampirexx" Cusa="CUSA10053" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>1E37DB2</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 hit Max Aura">
+    <Cheat Text="1 hit Max Aura | 一击满斗气">
         <Cheatline>
             <Offset>1E37DA4</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Aura">
+    <Cheat Text="Inf Aura | 无限斗气">
         <Cheatline>
             <Offset>39BA82</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-40-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Hokuto Mode">
+    <Cheat Text="Inf Hokuto Mode | 无限北斗模式">
         <Cheatline>
             <Offset>440724</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-8B-0C-39-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skills Points after spent">
+    <Cheat Text="Max Skills Points after spent | 技能点消耗后最大">
         <Cheatline>
             <Offset>995183</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>81-F9-E7-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Fiches and Money after spent">
+    <Cheat Text="Max Fiches and Money after spent | 代币和金钱消耗后最大">
         <Cheatline>
             <Offset>999C7B</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>48-39-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf items">
+    <Cheat Text="Inf items | 无限道具">
         <Cheatline>
             <Offset>995F80</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>66-89-77-06</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Car Boost">
+    <Cheat Text="Inf Car Boost | 无限汽车加速">
         <Cheatline>
             <Offset>C453EE</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-11-83-0C-0B-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Car Durability">
+    <Cheat Text="Inf Car Durability | 无限汽车耐久">
         <Cheatline>
             <Offset>C4A5FE</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C4-C1-7A-11-87-0C-0B-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Car Fuel">
+    <Cheat Text="Inf Car Fuel | 无限汽车燃料">
         <Cheatline>
             <Offset>99C620</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-87-A4-D3-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Talismans Time">
+    <Cheat Text="Inf Talismans Time | 无限护符时间">
         <Cheatline>
             <Offset>99CA41</Offset>
             <Section>0</Section>

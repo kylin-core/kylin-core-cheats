@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Skillpoints",
-      "hint": null,
+      "name": "Skillpoints | 技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": null,
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Ammo No Clip",
-      "hint": null,
+      "name": "Ammo No Clip | 弹药无需换弹",
       "type": "checkbox",
       "memory": [
         {

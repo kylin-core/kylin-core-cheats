@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Battle Turn",
+      "name": "Infi Battle Turn | 无限战斗回合",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infi HP",
+      "name": "Infi HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infi MP",
+      "name": "Infi MP | 无限魔法值",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Infi Magatsuhi Skill",
+      "name": "Infi Magatsuhi Skill | 无限祸灵技能",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Run Speed x3",
+      "name": "Run Speed x3 | 移动速度3倍",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Freeze Daytime",
+      "name": "Freeze Daytime | 锁定白天",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Exp x100 Player",
+      "name": "Exp x100 Player | 玩家经验值100倍",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Exp x100 Demon",
+      "name": "Exp x100 Demon | 恶魔经验值100倍",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max Glory",
+      "name": "Max Glory | 最大荣光",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Max Player Stats",
+      "name": "Max Player Stats | 玩家属性最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "Max Demon Stats",
+      "name": "Max Demon Stats | 恶魔属性最大化",
       "type": "checkbox",
       "memory": [
         {

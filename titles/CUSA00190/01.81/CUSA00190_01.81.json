@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill/Drone (MASTERCODE/MUST BE ON)",
+      "name": "Infinite Health/1 Hit Kill/Drone (MASTERCODE/MUST BE ON) | 无限生命/一击必杀/无人机（主代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "No Waiting Time For Use Drone",
+      "name": "No Waiting Time For Use Drone | 无人机无冷却时间",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "No Reload/Infinite Grenades",
+      "name": "No Reload/Infinite Grenades | 无需装弹/无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Number Of Adrenaline (Health Regeneration)",
+      "name": "Infinite Number Of Adrenaline (Health Regeneration) | 无限肾上腺素（生命恢复）",
       "type": "checkbox",
       "memory": [
         {

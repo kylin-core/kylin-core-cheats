@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "9,999,999 SP, Yen, Shogi Points on gain",
+      "name": "9,999,999 SP, Yen, Shogi Points on gain | 获取时获得9,999,999点SP、金钱、将棋积分",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite EX Gauge",
+      "name": "Infinite EX Gauge | 无限EX量表",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
+      "name": "Infinite Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "9,999,999 Items (MUST Buy 1 from store FIRST)(Turn off to use items)",
+      "name": "9,999,999 Items (MUST Buy 1 from store FIRST)(Turn off to use items) | 道具数量9,999,999（必须先购买一个，关闭后方可使用道具）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Items increase on use (Buy from store first)",
+      "name": "Items increase on use (Buy from store first) | 使用道具时数量增加（需先在商店购买）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Items dont decrease (Buy from store first)",
+      "name": "Items dont decrease (Buy from store first) | 道具数量不减少（需先在商店购买）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "9,999,999 VR Credits on Gain",
+      "name": "9,999,999 VR Credits on Gain | 获取时获得9,999,999点VR积分",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Extract Duration",
+      "name": "Infinite Extract Duration | 无限薰香持续时间",
       "type": "checkbox",
       "memory": [
         {

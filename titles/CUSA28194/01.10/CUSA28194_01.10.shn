@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SONIC FRONTIERS" Moder="Reddevil82 " Cusa="CUSA28194" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Rings">
+    <Cheat Text="Max Rings | 最大金环">
         <Cheatline>
             <Offset>21EBC40</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Boost">
+    <Cheat Text="Infinite Boost | 无限加速">
         <Cheatline>
             <Offset>21EBC65</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points">
+    <Cheat Text="Max Skill Points | 最大技能点">
         <Cheatline>
             <Offset>21EBC7A</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Fishing Attempts">
+    <Cheat Text="Max Fishing Attempts | 最大钓鱼次数">
         <Cheatline>
             <Offset>21EBD43</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Marks - Fishing Area">
+    <Cheat Text="Max Marks - Fishing Area | 最大标记·钓鱼区">
         <Cheatline>
             <Offset>21EBD59</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold Cards - Fishing Area">
+    <Cheat Text="Max Gold Cards - Fishing Area | 最大金卡·钓鱼区">
         <Cheatline>
             <Offset>21EBD70</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )">
+    <Cheat Text="Max Vault Keys + Portal Gears ( use it first after Stage 1-2 ) | 最大宝库钥匙+传送齿轮（需在1-2关卡后优先使用）">
         <Cheatline>
             <Offset>21EBC90</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Heart Token">
+    <Cheat Text="Max Heart Token | 最大心形令牌">
         <Cheatline>
             <Offset>21EBD18</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Kocos">
+    <Cheat Text="Max Kocos | 最大柯柯">
         <Cheatline>
             <Offset>21EBD2D</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Red Power Seed">
+    <Cheat Text="Max Red Power Seed | 最大红色力量种子">
         <Cheatline>
             <Offset>21EBD87</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Blue Power Seed">
+    <Cheat Text="Max Blue Power Seed | 最大蓝色力量种子">
         <Cheatline>
             <Offset>21EBCBB</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Star Pieces ( on gain )">
+    <Cheat Text="Max Star Pieces ( on gain ) | 最大星之碎片（获取时生效）">
         <Cheatline>
             <Offset>21EBCA6</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Level Timer">
+    <Cheat Text="Freeze Level Timer | 冻结关卡计时器">
         <Cheatline>
             <Offset>21EBC74</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Challenge 1 Timer">
+    <Cheat Text="Freeze Challenge 1 Timer | 冻结挑战1计时器">
         <Cheatline>
             <Offset>21EBDD0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Challenge 2 Timer">
+    <Cheat Text="Freeze Challenge 2 Timer | 冻结挑战2计时器">
         <Cheatline>
             <Offset>21EBDD6</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer ( Training Simulator )">
+    <Cheat Text="Freeze Timer ( Training Simulator ) | 冻结计时器（训练模拟器）">
         <Cheatline>
             <Offset>21EBD9C</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ring Stats">
+    <Cheat Text="Max Ring Stats | 最大金环属性">
         <Cheatline>
             <Offset>21EBCD0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Attack Stats">
+    <Cheat Text="Max Attack Stats | 最大攻击属性">
         <Cheatline>
             <Offset>21EBCE2</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shield Stats">
+    <Cheat Text="Max Shield Stats | 最大防御属性">
         <Cheatline>
             <Offset>21EBCF4</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Speed Stats">
+    <Cheat Text="Max Speed Stats | 最大速度属性">
         <Cheatline>
             <Offset>21EBD06</Offset>
             <Section>0</Section>

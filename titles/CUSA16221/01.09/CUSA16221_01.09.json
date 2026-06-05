@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health/Special Attack/1 Hit Kill (Master Code)",
+      "name": "Max/Infinite Health/Special Attack/1 Hit Kill (Master Code) | 最大/无限生命/特殊攻击/一击必杀（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 一击必杀（启用主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Lives",
+      "name": "Max/Infinite Lives | 最大/无限生命数",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Stars",
+      "name": "Max/Infinite Stars | 最大/无限星星",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Score On Gain",
+      "name": "Max Score On Gain | 获得时分数最大化",
       "type": "checkbox",
       "memory": [
         {

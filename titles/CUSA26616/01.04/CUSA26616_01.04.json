@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (WIP/Experimental)",
+      "name": "Infinite Health (WIP/Experimental) | 无限生命（试验阶段）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Armor",
+      "name": "Infinite Armor | 无限护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No Reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Money Instantly",
+      "name": "Max Money Instantly | 瞬间金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "No Wanted Level (You Must Have 0 Stars)",
+      "name": "No Wanted Level (You Must Have 0 Stars) | 无通缉等级（需保持0星状态）",
       "type": "checkbox",
       "memory": [
         {

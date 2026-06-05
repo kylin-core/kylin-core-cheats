@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "BE SURE TO READ ALL the comments where available. As a rule of thumb (for all games), ALWAYS enable only cheats that are needed and disable when they are not. You may need to enable Player-No-Dead cheat to prevent dying from fall damage when using the Moon/Super-Jump cheat. For an even more advanced trainer, check out my MultiTrainer2 ShnExt trainer. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares. Credits: Some cheats were ported or derived from older game versions cheats made by TLH and/or Rizla and from the PC trainer made by FLiNG. Enjoy! ;-)",
+      "name": "TRAINER INFO (read only) | 训练器信息（仅只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Codes - Must always enable",
-      "description": "",
+      "name": "Master Codes - Must always enable | 主代码 - 必须始终启用",
       "type": "checkbox",
       "memory": [
         {
@@ -94,8 +92,7 @@
       ]
     },
     {
-      "name": "---Infinite Health (requires MC)",
-      "description": "",
+      "name": "---Infinite Health (requires MC) | ---无限生命（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -106,8 +103,7 @@
       ]
     },
     {
-      "name": "---One Hit Kill (requires MC)",
-      "description": "Using OHK on specific bosses, such as the first Goblin in Hogsmeade will cause progression issues. Also, deactive the cheat when practicing in Hogwarts, especially with dummies (eg. The Chinese chomping cabbage practice) as you may not be able to complete the training. If you get stuck after killing an enemy, disable OHK and reload the last save to complete the fight without it, then you may re-activate the cheat.",
+      "name": "---One Hit Kill (requires MC) | ---一击必杀（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -118,8 +114,7 @@
       ]
     },
     {
-      "name": "Infinite Ancient Magic",
-      "description": "Using OHK on specific bosses, such as the first Goblin in Hogsmeade will cause progression issues. Also, deactive the cheat when practicing in Hogwarts, especially with dummies (eg. The Chinese chomping cabbage practice) as you may not be able to complete the training. If you get stuck after killing an enemy, disable OHK and reload the last save to complete the fight without it, then you may re-activate the cheat.",
+      "name": "Infinite Ancient Magic | 无限古代魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -130,8 +125,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "description": "Works for most items, including potions, resources etc",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -147,8 +141,7 @@
       ]
     },
     {
-      "name": "Infinite Items Usage",
-      "description": "Takes effect when you use an item, the item amount won't decrease. Works for most usable items, such as potios.",
+      "name": "Infinite Items Usage | 无限物品使用",
       "type": "checkbox",
       "memory": [
         {
@@ -159,8 +152,7 @@
       ]
     },
     {
-      "name": "Instant Brew Potions",
-      "description": "Activate before brewing a potion.",
+      "name": "Instant Brew Potions | 瞬间酿造魔药",
       "type": "checkbox",
       "memory": [
         {
@@ -176,8 +168,7 @@
       ]
     },
     {
-      "name": "Instant Grow Plants",
-      "description": "Active before planting seeds.",
+      "name": "Instant Grow Plants | 瞬间种植植物",
       "type": "checkbox",
       "memory": [
         {
@@ -188,8 +179,7 @@
       ]
     },
     {
-      "name": "---Ignore Conjuration Requirements (requires MC)",
-      "description": "When activated, you can craft items using the conjuring spell even if you don't have enough resources. If you do have resources, they will be used.",
+      "name": "---Ignore Conjuration Requirements (requires MC) | ---无视召唤要求（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -200,8 +190,7 @@
       ]
     },
     {
-      "name": "---XP Multiplier x5",
-      "description": "",
+      "name": "---XP Multiplier x5 | ---经验值倍数x5",
       "type": "checkbox",
       "memory": [
         {
@@ -212,8 +201,7 @@
       ]
     },
     {
-      "name": "---XP Multiplier x10",
-      "description": "",
+      "name": "---XP Multiplier x10 | ---经验值倍数x10",
       "type": "checkbox",
       "memory": [
         {
@@ -224,8 +212,7 @@
       ]
     },
     {
-      "name": "---XP Multiplier x50",
-      "description": "",
+      "name": "---XP Multiplier x50 | ---经验值倍数x50",
       "type": "checkbox",
       "memory": [
         {
@@ -236,8 +223,7 @@
       ]
     },
     {
-      "name": "---XP Multiplier x100",
-      "description": "",
+      "name": "---XP Multiplier x100 | ---经验值倍数x100",
       "type": "checkbox",
       "memory": [
         {
@@ -248,8 +234,7 @@
       ]
     },
     {
-      "name": "---XP Multiplier x999",
-      "description": "",
+      "name": "---XP Multiplier x999 | ---经验值倍数x999",
       "type": "checkbox",
       "memory": [
         {
@@ -260,8 +245,7 @@
       ]
     },
     {
-      "name": "---Player Speed x2",
-      "description": "",
+      "name": "---Player Speed x2 | ---玩家速度x2",
       "type": "checkbox",
       "memory": [
         {
@@ -272,8 +256,7 @@
       ]
     },
     {
-      "name": "---Player Speed x3",
-      "description": "",
+      "name": "---Player Speed x3 | ---玩家速度x3",
       "type": "checkbox",
       "memory": [
         {
@@ -284,8 +267,7 @@
       ]
     },
     {
-      "name": "---Player Speed x4",
-      "description": "",
+      "name": "---Player Speed x4 | ---玩家速度x4",
       "type": "checkbox",
       "memory": [
         {
@@ -296,8 +278,7 @@
       ]
     },
     {
-      "name": "Teleport To Map Waypoint",
-      "description": "Enable Infinite HP cheat as a precaution. After being teleported, wait a few seconds for rendering to complete. When its done, press X + DPAD DOWN to continue. If you get teleported BELOW THE MAP after the game completes rendering, first press X + DPAD UP to lift you above the map and then press X + DPAD DOWN to continue. If for any reason you end up falling infinitely below the map, exit the game and re-launch it. AVOID teleporting yourself to places that are still locked, which you are not suppose to be able to reach yet, as this may cause game progession issue or other issues. DOESNT WORK IN FLY MODE.",
+      "name": "Teleport To Map Waypoint | 传送至地图航点",
       "type": "checkbox",
       "memory": [
         {
@@ -333,8 +314,7 @@
       ]
     },
     {
-      "name": "---Unlock All Fast Travel Locations (requires MC)",
-      "description": "When activated, you can fast travel to any fast travel locations, even if they're still locked. If you fast traveled to a locked location, it will then be unlocked.",
+      "name": "---Unlock All Fast Travel Locations (requires MC) | ---解锁所有快速旅行点（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -345,8 +325,8 @@
       ]
     },
     {
-      "name": "Infinite Spells - No Cooldown",
-      "description": "",
+      "name": "Infinite Spells - No Cooldown | 无限法术 - 无冷却",
+      "type": "",
       "memory": [
         {
           "offset": "29CCC79",
@@ -356,8 +336,8 @@
       ]
     },
     {
-      "name": "Max Infinite Potion Duration",
-      "description": "",
+      "name": "Max Infinite Potion Duration | 无限魔药最大持续时间",
+      "type": "",
       "memory": [
         {
           "offset": "3676966",
@@ -367,8 +347,8 @@
       ]
     },
     {
-      "name": "Stealth Mode",
-      "description": "Enemies will be able to see you only after they get attacked. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely).In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
+      "name": "Stealth Mode | 潜行模式",
+      "type": "",
       "memory": [
         {
           "offset": "2AFAA1C",
@@ -378,8 +358,8 @@
       ]
     },
     {
-      "name": "Undetectable",
-      "description": "Enemies can not detect you and will not attack back when being hit. Note that this cheat has not been thoroughly tested and might cause progression issues, especially in case a fight is required to progress, thus enemies need to detect you first (boss fights likely). In such cases, you may need to disable the cheat and continue or restart from the last checkpoint with the cheat disabled.",
+      "name": "Undetectable | 无法被侦测",
+      "type": "",
       "memory": [
         {
           "offset": "2AF9FF9",
@@ -389,8 +369,8 @@
       ]
     },
     {
-      "name": "Infinite Broom Boost",
-      "description": "",
+      "name": "Infinite Broom Boost | 无限扫帚加速",
+      "type": "",
       "memory": [
         {
           "offset": "317F754",
@@ -400,8 +380,8 @@
       ]
     },
     {
-      "name": "Max Combo (on gain)",
-      "description": "",
+      "name": "Max Combo (on gain) | 最大连击（获得时）",
+      "type": "",
       "memory": [
         {
           "offset": "813ED20",
@@ -416,8 +396,8 @@
       ]
     },
     {
-      "name": "0 Quidditch Trial Timer",
-      "description": "Scoreboard will display 1 Second",
+      "name": "0 Quidditch Trial Timer | 魁地奇试炼计时归零",
+      "type": "",
       "memory": [
         {
           "offset": "319C63B",
@@ -427,8 +407,8 @@
       ]
     },
     {
-      "name": "Fast Complete Duelling",
-      "description": "",
+      "name": "Fast Complete Duelling | 快速完成决斗",
+      "type": "",
       "memory": [
         {
           "offset": "813ED40",
@@ -443,8 +423,8 @@
       ]
     },
     {
-      "name": "Fast Complete Challenges",
-      "description": "",
+      "name": "Fast Complete Challenges | 快速完成挑战",
+      "type": "",
       "memory": [
         {
           "offset": "813ED60",
@@ -459,8 +439,8 @@
       ]
     },
     {
-      "name": "Gain Max Money (READ INFO)",
-      "description": "When activated, shop items will cost negative money, which mean you will gain money when buying from shops. This is a one time use cheat. Be sure to enable it ONLY right before starting shopping and disable it immediately after completing shopping. Do not enable the cheat after gaining sufficient funds. 10 million coins are usually enough for the entire game.",
+      "name": "Gain Max Money (READ INFO) | 获得最大金钱（阅读说明）",
+      "type": "",
       "memory": [
         {
           "offset": "813ED80",
@@ -475,8 +455,8 @@
       ]
     },
     {
-      "name": "99 Talent Points",
-      "description": "Takes effect when you open the Talents menu or when you spend talent points.",
+      "name": "99 Talent Points | 99点天赋点",
+      "type": "",
       "memory": [
         {
           "offset": "813EDD0",

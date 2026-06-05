@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Stam",
+      "name": "Inf Stam | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Money (On Buy)",
+      "name": "Inf Money (On Buy) | 无限金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Items (On Sell need 2+)",
+      "name": "Inf Items (On Sell need 2+) | 无限道具（出售时需2个以上）",
       "type": "checkbox",
       "memory": [
         {

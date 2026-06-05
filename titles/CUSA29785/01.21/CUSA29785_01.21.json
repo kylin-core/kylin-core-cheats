@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Master Code)",
+      "name": "Infinite Health/1 Hit Kill (Master Code) | 无限生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable Master Code)",
+      "name": "1 Hit Kill (Enable Master Code) | 一击必杀（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Infinite GillyCoins",
+      "name": "Infinite GillyCoins | 无限吉莉币",
       "type": "checkbox",
       "memory": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "name": "Infinite Tickets (Disable After Use)",
+      "name": "Infinite Tickets (Disable After Use) | 无限票券（使用后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Infinite Surge Gauntlet",
+      "name": "Infinite Surge Gauntlet | 无限涌动拳套",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最高分数",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Reset Time",
+      "name": "Reset Time | 重置时间",
       "type": "checkbox",
       "memory": [
         {
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "Stop Time",
+      "name": "Stop Time | 停止时间",
       "type": "checkbox",
       "memory": [
         {
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "name": "Infinite Power Tokens On Buy (Enable To Work/Disable After Use)",
+      "name": "Infinite Power Tokens On Buy (Enable To Work/Disable After Use) | 购买时无限能量代币（启用生效/使用后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "name": "Weapons Level Up (Pick Up The Weapon/Activate)",
+      "name": "Weapons Level Up (Pick Up The Weapon/Activate) | 武器升级（拾取武器/激活）",
       "type": "checkbox",
       "memory": [
         {

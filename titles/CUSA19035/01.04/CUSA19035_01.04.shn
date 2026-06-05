@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crash Bandicoot™ 4: Its About Time" Moder="TylerMods+CheatingMuppet+Yasseralaa22" Cusa="CUSA19035" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Apples on Gain">
+    <Cheat Text="Max Apples on Gain | 最大苹果获得数">
         <Cheatline>
             <Offset>6B781E0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lock Death Count to 0">
+    <Cheat Text="Lock Death Count to 0 | 锁定死亡次数为0">
         <Cheatline>
             <Offset>6B78260</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jumps">
+    <Cheat Text="Infinite Jumps | 无限跳跃">
         <Cheatline>
             <Offset>6B5D620</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x2 Running Speed">
+    <Cheat Text="x2 Running Speed | 双倍奔跑速度">
         <Cheatline>
             <Offset>6B84A80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Boxes and Apples">
+    <Cheat Text="Max Boxes and Apples | 最大箱子和苹果数">
         <Cheatline>
             <Offset>6757870</Offset>
             <Section>0</Section>

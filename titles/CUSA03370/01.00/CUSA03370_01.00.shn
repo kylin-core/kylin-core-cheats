@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="GOD EATER 2 RAGE BURST" Moder="Weysincha" Cusa="CUSA03370" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>8091DF02</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>8091E672</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-40-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite OP">
+    <Cheat Text="Infinite OP | 无限OP">
         <Cheatline>
             <Offset>8091E302</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-40-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>8090636E</Offset>
             <Section>0</Section>

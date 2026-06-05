@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY TYPE-0 HD" Moder="Weysincha" Cusa="CUSA00937" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>77B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MP">
+    <Cheat Text="Infinite MP | 无限魔力">
         <Cheatline>
             <Offset>77B813</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP">
+    <Cheat Text="Infinite AP | 无限行动力">
         <Cheatline>
             <Offset>77B824</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money/ Gil/ VP">
+    <Cheat Text="Infinite Money/ Gil/ VP | 无限金钱/吉尔/VP">
         <Cheatline>
             <Offset>77B834</Offset>
             <Section>0</Section>

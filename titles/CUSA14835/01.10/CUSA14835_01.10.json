@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf MAX Health",
+      "name": "Inf MAX Health | 无限最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "INF Max Ki",
+      "name": "INF Max Ki | 无限最大气力",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Max rag",
+      "name": "Inf Max rag | 无限最大怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Lv when get xp",
+      "name": "Max Lv when get xp | 获取经验时升至满级",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "items Incressed ",
+      "name": "items Incressed | 物品增加",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "MAX orbs on get/ when you get Max for all Orbs Stop it",
+      "name": "MAX orbs on get/ when you get Max for all Orbs Stop it | 获取所有珠时最大/达到最大后停止",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Earn Cash On Spend (Custom Weapons Menu)",
+      "name": "Earn Cash On Spend (Custom Weapons Menu) | 消费返现（自定义武器菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Get $1.000.000 for each intel purchased (Buy Intel Menu)",
+      "name": "Get $1.000.000 for each intel purchased (Buy Intel Menu) | 每购买一份情报获得100万美元（购买情报菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Freeze save counter (for normal/expert difficulty)",
+      "name": "Freeze save counter (for normal/expert difficulty) | 冻结存档计数器（普通/专家难度）",
       "type": "checkbox",
       "memory": [
         {

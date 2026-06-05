@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需换弹",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "HeartRate Always Calm",
+      "name": "HeartRate Always Calm | 心率始终平静",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "No Visability",
+      "name": "No Visability | 完全隐身",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Silent Footsteps",
+      "name": "Silent Footsteps | 无声脚步",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "No Background Noise",
+      "name": "No Background Noise | 消除环境噪音",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "Max XP on Gain (Get XP Twice for Unlocks)",
+      "name": "Max XP on Gain (Get XP Twice for Unlocks) | 获取双倍经验（解锁翻倍）",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Max Skill Points on Spend",
+      "name": "Max Skill Points on Spend | 技能点消费最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "x2 Skill Points on Spend",
+      "name": "x2 Skill Points on Spend | 技能点双倍消费",
       "type": "checkbox",
       "memory": [
         {
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "name": "Max SP/PP when Reset",
+      "name": "Max SP/PP when Reset | 重置时满技能/专精点",
       "type": "checkbox",
       "memory": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "x2 Perk Points on Spend",
+      "name": "x2 Perk Points on Spend | 专精点双倍消费",
       "type": "checkbox",
       "memory": [
         {
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "name": "Max Money on Gain",
+      "name": "Max Money on Gain | 获取最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "name": "x2 Money on Spend",
+      "name": "x2 Money on Spend | 金钱双倍消费",
       "type": "checkbox",
       "memory": [
         {
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "name": "No Skill Cooldown",
+      "name": "No Skill Cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "name": "Freeze Backpack Weight",
+      "name": "Freeze Backpack Weight | 冻结背包重量",
       "type": "checkbox",
       "memory": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "name": "No Bow Fatigue",
+      "name": "No Bow Fatigue | 弓箭无疲劳",
       "type": "checkbox",
       "memory": [
         {
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "name": "Inf Glowing Animals Once Spotted",
+      "name": "Inf Glowing Animals Once Spotted | 发现后永久发光动物",
       "type": "checkbox",
       "memory": [
         {
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "name": "Max Rifle Score (Get Rifle Kill)",
+      "name": "Max Rifle Score (Get Rifle Kill) | 步枪得分最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "name": "Max Handgun Score (Get Handgun Kill)",
+      "name": "Max Handgun Score (Get Handgun Kill) | 手枪得分最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "name": "Max Shotgun Score (Get Shotgun Kill)",
+      "name": "Max Shotgun Score (Get Shotgun Kill) | 霰弹枪得分最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "name": "Max Arrow Score (Get Arrow Kill)",
+      "name": "Max Arrow Score (Get Arrow Kill) | 弓箭得分最大化",
       "type": "checkbox",
       "memory": [
         {

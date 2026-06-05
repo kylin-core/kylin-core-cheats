@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Onimusha 2 Samurais Destiny" Moder="Ali-mk" Cusa="CUSA49799" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>386590</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-CB-33-DD-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Web-MAGIC">
+    <Cheat Text="Infinite-Web-MAGIC | 无限蛛网魔法">
         <Cheatline>
             <Offset>386B95</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-C6-2D-DD-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Arrow">
+    <Cheat Text="Infinite-Arrow | 无限箭矢">
         <Cheatline>
             <Offset>7C2671</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FE-48-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-All-Items">
+    <Cheat Text="MAX-All-Items | 全道具最大">
         <Cheatline>
             <Offset>170CF3A</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>8B-5D-D4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-Souls-99">
+    <Cheat Text="MAX-Souls-99 | 灵魂最大99">
         <Cheatline>
             <Offset>133E84D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>81-F9-9F-86-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Arrow-Fire">
+    <Cheat Text="Infinite-Arrow-Fire | 无限火矢">
         <Cheatline>
             <Offset>7C2671</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>FE-48-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-GOLD-money">
+    <Cheat Text="MAX-GOLD-money | 金钱最大">
         <Cheatline>
             <Offset>7A57800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-shurikens-The-girl">
+    <Cheat Text="Inf-shurikens-The-girl | 无限手里剑（阿市）">
         <Cheatline>
             <Offset>1FA43E1</Offset>
             <Section>0</Section>

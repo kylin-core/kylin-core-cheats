@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Invincible ( No Attacks )",
+      "name": "Invincible ( No Attacks ) | 无敌（无受击）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill ( Disable Max Skillpoints )",
+      "name": "One Hit Kill ( Disable Max Skillpoints ) | 一击必杀（禁用最大技能点）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Special Combo",
+      "name": "Max Special Combo | 最大特殊连击",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints ( Disable One Hit Kill - on gain / use )",
+      "name": "Max Skillpoints ( Disable One Hit Kill - on gain / use ) | 最大技能点（获得/使用时禁用一击必杀）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Health ( Batmobile )",
+      "name": "Infinite Health ( Batmobile ) | 无限生命（蝙蝠车）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Missiles ( Batmobile )",
+      "name": "Infinite Missiles ( Batmobile ) | 无限导弹（蝙蝠车）",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Infinite Afterburner ( Batmobile )",
+      "name": "Infinite Afterburner ( Batmobile ) | 无限推进器（蝙蝠车）",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Freeze Timer [ER - Challenges]",
+      "name": "Freeze Timer [ER - Challenges] | 冻结计时器【无限脉冲-挑战】",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Max Score [ER - Challenges] ( on gain )",
+      "name": "Max Score [ER - Challenges] ( on gain ) | 最高分【无限脉冲-挑战】（获得时）",
       "type": "checkbox",
       "memory": [
         {

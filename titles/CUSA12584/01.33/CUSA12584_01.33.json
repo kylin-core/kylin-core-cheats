@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "GOD Mod",
+      "name": "GOD Mod | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "freeze Stamina/Breath",
+      "name": "freeze Stamina/Breath | 冻结耐力/呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Items/Craftables/consumables/thrwoables never decrease (Need 2 or more)",
+      "name": "Items/Craftables/consumables/thrwoables never decrease (Need 2 or more) | 物品/制作材料/消耗品/投掷物不减（需2个以上）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "inf lock picks",
+      "name": "inf lock picks | 无限开锁器",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max durability",
+      "name": "Max durability | 最大耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "max money",
+      "name": "max money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "inf immunity",
+      "name": "inf immunity | 无限免疫力",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Freeze timer",
+      "name": "Freeze timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "inf UV Flashlight",
+      "name": "inf UV Flashlight | 无限紫外线手电筒",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "No Reload for Crossbow/Boomsticks",
+      "name": "No Reload for Crossbow/Boomsticks | 弩箭/爆炸物无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "MAX XP/legend/inhibitators on get",
+      "name": "MAX XP/legend/inhibitators on get | 获得时最大经验/传奇/抑制剂",
       "type": "checkbox",
       "memory": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "bounty tokens never decrease (bounty vendor)",
+      "name": "bounty tokens never decrease (bounty vendor) | 赏金代币不减（赏金商人）",
       "type": "checkbox",
       "memory": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "agent level 1000 / get 1000 token (complete a single bounty)",
+      "name": "agent level 1000 / get 1000 token (complete a single bounty) | 特工等级1000/获得1000代币（完成单个赏金）",
       "type": "checkbox",
       "memory": [
         {

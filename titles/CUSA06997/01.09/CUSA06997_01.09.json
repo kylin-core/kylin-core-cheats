@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Heat Gauge",
+      "name": "Infinite Heat Gauge | 无限热血槽",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
+      "name": "Infinite Weapon Durability | 无限武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Weapon Durability",
+      "name": "Max Weapon Durability | 最大武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 最大弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Infinite Money, CP",
+      "name": "Infinite Money, CP | 无限金钱、CP",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints",
+      "name": "Infinite Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Max Money, CP on Use",
+      "name": "Max Money, CP on Use | 使用时金钱、CP最大",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints on Use",
+      "name": "Max Skillpoints on Use | 使用时技能点最大",
       "type": "checkbox",
       "memory": [
         {
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Item Storage: Infinite Items",
+      "name": "Item Storage: Infinite Items | 道具库存：无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Item Storage: Max Items",
+      "name": "Item Storage: Max Items | 道具库存：最大道具",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Bowling: Split-Game Infinite Balls",
+      "name": "Bowling: Split-Game Infinite Balls | 保龄球：分屏模式无限球",
       "type": "checkbox",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "Baseball: Max Score",
+      "name": "Baseball: Max Score | 棒球：最大分数",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "Darts: Easy Win",
+      "name": "Darts: Easy Win | 飞镖：轻松获胜",
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "Easy Train",
+      "name": "Easy Train | 简单训练",
       "type": "checkbox",
       "memory": [
         {
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "name": "Max XP on Get",
+      "name": "Max XP on Get | 获取时经验最大",
       "type": "checkbox",
       "memory": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Pocket Car Circuit: Infinite Stabilize-Gauge",
+      "name": "Pocket Car Circuit: Infinite Stabilize-Gauge | 口袋赛车：无限稳定槽",
       "type": "checkbox",
       "memory": [
         {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "name": "Pocket Car Circuit: Infinite Boost",
+      "name": "Pocket Car Circuit: Infinite Boost | 口袋赛车：无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "Max Shogi-Points on Get",
+      "name": "Max Shogi-Points on Get | 获取时将棋分最大",
       "type": "checkbox",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "Cee-Loo: Max Points on Win",
+      "name": "Cee-Loo: Max Points on Win | Cee-Loo：获胜时分数最大",
       "type": "checkbox",
       "memory": [
         {
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "name": "Casino/Colusseum: Max Chips/Points",
+      "name": "Casino/Colusseum: Max Chips/Points | 赌场/斗技场：最大筹码/点数",
       "type": "checkbox",
       "memory": [
         {
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "name": "Colusseum: Max XP",
+      "name": "Colusseum: Max XP | 斗技场：最大经验",
       "type": "checkbox",
       "memory": [
         {
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "name": "MesuKing: Infinite Health",
+      "name": "MesuKing: Infinite Health | MesuKing：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "name": "MesuKing: 1 Hit Kill",
+      "name": "MesuKing: 1 Hit Kill | MesuKing：一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "name": "Hostess: Max Love-Gauge",
+      "name": "Hostess: Max Love-Gauge | 夜店：最大爱情槽",
       "type": "checkbox",
       "memory": [
         {
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "name": "Easy Majima Rank",
+      "name": "Easy Majima Rank | 简单真岛等级",
       "type": "checkbox",
       "memory": [
         {
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "name": "Alcohol: Sober",
+      "name": "Alcohol: Sober | 酒精：清醒",
       "type": "checkbox",
       "memory": [
         {
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "name": "Alcohol: Drunk",
+      "name": "Alcohol: Drunk | 酒精：醉酒",
       "type": "checkbox",
       "memory": [
         {

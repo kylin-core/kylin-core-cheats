@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lawn Mowing Simulator" Moder="DeathRGH" Cusa="CUSA29809" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Mower Fuel">
+    <Cheat Text="Infinite Mower Fuel | 无限割草机燃料">
         <Cheatline>
             <Offset>835AE8BA</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-10-45-84-E8-BC-35-2A-FD-48-8B-45-B0-C5-FA-11-40-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Strimmer Fuel">
+    <Cheat Text="Infinite Strimmer Fuel | 无限修剪机燃料">
         <Cheatline>
             <Offset>824DB705</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-10-45-84-E8-71-67-37-FE-48-8B-45-B0-C5-FA-11-40-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Ground Check Completion">
+    <Cheat Text="Instant Ground Check Completion | 即时完成地面检查">
         <Cheatline>
             <Offset>821C2FF8</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-7D-FC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Mowing Completion">
+    <Cheat Text="Instant Mowing Completion | 即时完成割草">
         <Cheatline>
             <Offset>821B5BB1</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C3-66-66-66-66-66-2E-0F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="£999.999.999 Contract Rewards">
+    <Cheat Text="£999.999.999 Contract Rewards | 999,999,999英镑合同奖励">
         <Cheatline>
             <Offset>81AEBFDB</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FB-11-40-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999.999.999 RP Contract Rewards">
+    <Cheat Text="999.999.999 RP Contract Rewards | 999,999,999 RP合同奖励">
         <Cheatline>
             <Offset>81AECEB0</Offset>
             <Section>0</Section>

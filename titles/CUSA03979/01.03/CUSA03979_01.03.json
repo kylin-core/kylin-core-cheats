@@ -5,7 +5,7 @@
   "process": "LaunchOrbis.elf",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Eve",
+      "name": "Infinite Eve | 无限伊芙",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "One-hit Kill",
+      "name": "One-hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Cash",
+      "name": "Max Cash | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Max Adam",
+      "name": "Max Adam | 最大亚当",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "Full items",
+      "name": "Full items | 全道具",
       "type": "checkbox",
       "memory": [
         {

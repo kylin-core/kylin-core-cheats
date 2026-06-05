@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NBA 2K19" Moder="AhmadCH" Cusa="CUSA12476" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="infi skill points">
+    <Cheat Text="infi skill points | 无限技能点数">
         <Cheatline>
             <Offset>3F3EF7</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-89-B8-2C-43-44-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max skill points">
+    <Cheat Text="max skill points | 最高技能点数">
         <Cheatline>
             <Offset>3F3EF7</Offset>
             <Section>0</Section>

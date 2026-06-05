@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Biomutant" Moder="wander" Cusa="CUSA09848" Version="02.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="stats points active after getting points ">
+    <Cheat Text="stats points active after getting points | 点数获取后立即激活">
         <Cheatline>
             <Offset>34A172</Offset>
             <Section>0</Section>

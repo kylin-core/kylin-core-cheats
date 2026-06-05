@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Rising" Moder="DeathRGH" Cusa="CUSA04513" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Pictures (Camera Battery)">
+    <Cheat Text="Infinite Pictures (Camera Battery) | 无限拍照（相机电池）">
         <Cheatline>
             <Offset>4B0350</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-FF-CD</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max PP Multiplier">
+    <Cheat Text="Max PP Multiplier | 最大PP倍数">
         <Cheatline>
             <Offset>4B0350</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wolfenstein: Youngblood" Moder="Gatot Kaca And k0song" Cusa="CUSA13094" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Easy Kills">
+    <Cheat Text="Easy Kills | 轻松击杀">
         <Cheatline>
             <Offset>E6ED02</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-F8-2E-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enemy Armor Easy To Destroy">
+    <Cheat Text="Enemy Armor Easy To Destroy | 敌人护甲易毁">
         <Cheatline>
             <Offset>E6EB2F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>0F-83-66-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>ED78E0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>01213D20</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>0F-84-1C-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Share Lives">
+    <Cheat Text="Infinite Share Lives | 无限共享生命">
         <Cheatline>
             <Offset>036946D0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points">
+    <Cheat Text="Max Skill Points | 最大技能点">
         <Cheatline>
             <Offset>03694550</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Undetected By Enemy">
+    <Cheat Text="Undetected By Enemy | 敌人无法察觉">
         <Cheatline>
             <Offset>81335E</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-5D-05-56-DB-1D-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Cloack">
+    <Cheat Text="Infinite Cloak | 无限隐身">
         <Cheatline>
             <Offset>03694580</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Cloack Fast Recharge">
+    <Cheat Text="Cloak Fast Recharge | 隐身快速充能">
         <Cheatline>
             <Offset>0113EF10</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-F2-58-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Level Up When Get EXP">
+    <Cheat Text="Instant Level Up When Get EXP | 获得经验立即升级">
         <Cheatline>
             <Offset>036945F0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Level 30 ( Dont Lock )">
+    <Cheat Text="Level 30 ( Dont Lock ) | 等级30（不锁定）">
         <Cheatline>
             <Offset>036945B0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Multiple Jump">
+    <Cheat Text="Multiple Jump | 多重跳跃">
         <Cheatline>
             <Offset>523C83</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>0F-84-90-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Gravity ( ON )">
+    <Cheat Text="No Gravity ( ON ) | 无重力（开启）">
         <Cheatline>
             <Offset>03694630</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Gravity ( OFF )">
+    <Cheat Text="No Gravity ( OFF ) | 无重力（关闭）">
         <Cheatline>
             <Offset>03694660</Offset>
             <Section>0</Section>

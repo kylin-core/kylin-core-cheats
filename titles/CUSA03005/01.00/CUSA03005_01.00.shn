@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty®: Black Ops III" Moder="gokusuper" Cusa="CUSA03005" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="no reload">
+    <Cheat Text="no reload | 无需装弹">
         <Cheatline>
             <Offset>110F01D</Offset>
             <Section>0</Section>

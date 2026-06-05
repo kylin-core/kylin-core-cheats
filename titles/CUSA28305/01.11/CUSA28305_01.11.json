@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (hero lvl 2)",
+      "name": "Infinite Health (hero lvl 2) | 无限生命（角色2级）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Mana (hero lvl 2)",
+      "name": "Infinite Mana (hero lvl 2) | 无限法力（角色2级）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Speed (turn off after)",
+      "name": "Speed (turn off after) | 加速（之后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {

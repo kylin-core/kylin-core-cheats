@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Watch Dogs®: Legion" Moder="Gatot Kaca+KevinTamvan" Cusa="CUSA13115" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code Player Health">
+    <Cheat Text="Master Code Player Health | 主码玩家生命">
         <Cheatline>
             <Offset>085E3D58</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>085E3E03</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Keeping Players Health">
+    <Cheat Text="Keeping Players Health | 保持玩家生命">
         <Cheatline>
             <Offset>085E3D58</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C6-43-70-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots of Bullets">
+    <Cheat Text="Lots of Bullets | 大量子弹">
         <Cheatline>
             <Offset>085E3D67</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots of Magazine">
+    <Cheat Text="Lots of Magazine | 大量弹匣">
         <Cheatline>
             <Offset>085E3D79</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Wanted Level [ Dont Lock ]">
+    <Cheat Text="No Wanted Level [ Dont Lock ] | 无通缉等级 [不锁定]">
         <Cheatline>
             <Offset>085E3E50</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="A lot of Etto">
+    <Cheat Text="A lot of Etto | 大量埃托币">
         <Cheatline>
             <Offset>085E3D8A</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots of Tech Points">
+    <Cheat Text="Lots of Tech Points | 大量科技点数">
         <Cheatline>
             <Offset>085E3DA4</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hacking Without Cooldown">
+    <Cheat Text="Hacking Without Cooldown | 无冷却黑客">
         <Cheatline>
             <Offset>0163B87F</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>B8-01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Jam Turret">
+    <Cheat Text="No Jam Turret | 无干扰炮塔">
         <Cheatline>
             <Offset>01E117B0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Long Camouflage Duration">
+    <Cheat Text="Long Camouflage Duration | 长伪装持续时间">
         <Cheatline>
             <Offset>017C5E5E</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>77-1B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Camouflage">
+    <Cheat Text="Infinite Camouflage | 无限伪装">
         <Cheatline>
             <Offset>017C6E70</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Undetected By Enemy">
+    <Cheat Text="Undetected By Enemy | 不被敌人发现">
         <Cheatline>
             <Offset>B99DF0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Cooldown Elec-Shock-Missl. Drone">
+    <Cheat Text="Instant Cooldown Elec-Shock-Missl. Drone | 电击导弹无人机瞬间冷却">
         <Cheatline>
             <Offset>010C3F58</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C5-FA-11-43-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [1.35]">
+    <Cheat Text="Speed [1.35] | 速度 [1.35]">
         <Cheatline>
             <Offset>085E3DF2</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [1.5]">
+    <Cheat Text="Speed [1.5] | 速度 [1.5]">
         <Cheatline>
             <Offset>085E3DF2</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [1.875]">
+    <Cheat Text="Speed [1.875] | 速度 [1.875]">
         <Cheatline>
             <Offset>085E3DF2</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [1.95]">
+    <Cheat Text="Speed [1.95] | 速度 [1.95]">
         <Cheatline>
             <Offset>085E3DF2</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [2.15]">
+    <Cheat Text="Speed [2.15] | 速度 [2.15]">
         <Cheatline>
             <Offset>085E3DF2</Offset>
             <Section>0</Section>

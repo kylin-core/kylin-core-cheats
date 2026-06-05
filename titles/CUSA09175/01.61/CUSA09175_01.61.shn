@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DAYS GONE" Moder="TLH" Cusa="CUSA09175" Version="01.61" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>1286B97</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-89-14-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>15C6C3F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-0B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>12756C3</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>12795E0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Molotov: Ignore Crafting Limit">
+    <Cheat Text="Molotov: Ignore Crafting Limit | 燃烧瓶：无视制作限制">
         <Cheatline>
             <Offset>01278C95</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>29-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>015E2417</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitrogen">
+    <Cheat Text="Infinite Nitrogen | 无限氮气">
         <Cheatline>
             <Offset>01525696</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Motor Oil">
+    <Cheat Text="Infinite Motor Oil | 无限机油">
         <Cheatline>
             <Offset>014F2D42</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Silencer">
+    <Cheat Text="Infinite Silencer | 无限消音器">
         <Cheatline>
             <Offset>01612A7E</Offset>
             <Section>0</Section>

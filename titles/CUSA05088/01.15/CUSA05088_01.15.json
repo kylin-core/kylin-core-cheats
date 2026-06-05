@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Zeni on Gain/Spend",
-      "hint": null,
+      "name": "Max Zeni on Gain/Spend | 金钱增减最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -32,8 +31,7 @@
       ]
     },
     {
-      "name": "Max TP/ZP on Spend",
-      "hint": null,
+      "name": "Max TP/ZP on Spend | TP/ZP消费最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "name": "Max Attribute Points",
-      "hint": null,
+      "name": "Max Attribute Points | 属性点数最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -86,8 +83,7 @@
       ]
     },
     {
-      "name": "Max Item on Buy (Use TP Only to Buy)",
-      "hint": null,
+      "name": "Max Item on Buy (Use TP Only to Buy) | 购买物品最大化（仅限TP购买）",
       "type": "checkbox",
       "memory": [
         {
@@ -113,8 +109,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
-      "hint": null,
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -140,8 +135,7 @@
       ]
     },
     {
-      "name": "Infinite KI",
-      "hint": null,
+      "name": "Infinite KI | 无限气力",
       "type": "checkbox",
       "memory": [
         {
@@ -167,8 +161,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -184,8 +177,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
-      "hint": null,
+      "name": "Freeze Timer | 时间冻结",
       "type": "checkbox",
       "memory": [
         {

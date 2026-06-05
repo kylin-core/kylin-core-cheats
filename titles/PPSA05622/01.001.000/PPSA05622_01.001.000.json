@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "Infi Ammo",
+      "name": "Infi Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "Infi Grenades",
+      "name": "Infi Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "Acquire SP x 5",
+      "name": "Acquire SP x 5 | 获取技能点x5",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Acquire Adrenaline x 10",
+      "name": "Acquire Adrenaline x 10 | 获取肾上腺素x10",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Infi Medikit",
+      "name": "Infi Medikit | 无限医疗包",
       "type": "checkbox",
       "memory": [
         {

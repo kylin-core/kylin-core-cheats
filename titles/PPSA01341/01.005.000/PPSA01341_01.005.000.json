@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 不可触碰",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infi HP",
+      "name": "Infi HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infi MP",
+      "name": "Infi MP | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infi Stamina",
+      "name": "Infi Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infi Items",
+      "name": "Infi Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infi Weapons & Armor Durability",
+      "name": "Infi Weapons \u0026 Armor Durability | 无限武器与盔甲耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Souls",
+      "name": "Max Souls | 最大灵魂数",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Mana",
+      "name": "Infinite Mana | 无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Items/bullets/runes (on use)",
+      "name": "Infinite Items/bullets/runes (on use) | 无限物品/子弹/符文（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Breeath",
+      "name": "Infinite Breeath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "max money(on grab disable before leaving places)",
+      "name": "max money(on grab disable before leaving places) | 最大金钱（拾取后禁用，离开区域前）",
       "type": "checkbox",
       "memory": [
         {

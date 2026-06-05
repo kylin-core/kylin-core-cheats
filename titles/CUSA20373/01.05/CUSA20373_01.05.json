@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money (on spend)",
+      "name": "Max Money (on spend) | 最大金钱（花费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite throwable(disable when swapping)",
+      "name": "Infinite throwable(disable when swapping) | 无限投掷物（切换时禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite thermal vision battery",
+      "name": "Infinite thermal vision battery | 无限热成像电池",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Healing/Boosters",
+      "name": "Infinite Healing/Boosters | 无限生命/增强剂",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Skill points (do not decrease)",
+      "name": "Skill points (do not decrease) | 技能点（不减）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Intel points (do not decrease)",
+      "name": "Intel points (do not decrease) | 情报点（不减）",
       "type": "checkbox",
       "memory": [
         {

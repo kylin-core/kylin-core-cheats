@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cuphead" Moder="Celogamez" Cusa="CUSA20499" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>01587DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Extra Special">
+    <Cheat Text="Infinite Extra Special | 无限额外绝招">
         <Cheatline>
             <Offset>01587A50</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Plane Extra Special">
+    <Cheat Text="Infinite Plane Extra Special | 无限飞行额外绝招">
         <Cheatline>
             <Offset>01587770</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gold">
+    <Cheat Text="Infinite Gold | 无限金币">
         <Cheatline>
             <Offset>015878E0</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Boy and the Cursed Kingdom" Moder="Gatot Kaca And Wander" Cusa="CUSA05011" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="1 Hit Kills Boss">
+    <Cheat Text="1 Hit Kills Boss | 一击必杀Boss">
         <Cheatline>
             <Offset>608E90</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kills Enemy">
+    <Cheat Text="1 Hit Kills Enemy | 一击必杀敌人">
         <Cheatline>
             <Offset>608ED0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinte Health">
+    <Cheat Text="Infinte Health | 无限生命">
         <Cheatline>
             <Offset>608A20</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Oxygen">
+    <Cheat Text="Infinite Oxygen | 无限氧气">
         <Cheatline>
             <Offset>21CBD0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Flying Dragon Form Auto Charge">
+    <Cheat Text="Flying Dragon Form Auto Charge | 飞龙形态自动充能">
         <Cheatline>
             <Offset>20DCA0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4F-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dash Human">
+    <Cheat Text="Infinite Dash Human | 人形态无限冲刺">
         <Cheatline>
             <Offset>608D90</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dash Lion">
+    <Cheat Text="Infinite Dash Lion | 狮形态无限冲刺">
         <Cheatline>
             <Offset>608F10</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jump ( Use Double Jump Boots )">
+    <Cheat Text="Infinite Jump ( Use Double Jump Boots ) | 无限跳跃（需使用二段跳靴）">
         <Cheatline>
             <Offset>1D7B29</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>41-FF-84-24-7C-B9-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Coin">
+    <Cheat Text="Max Coin | 最大金币">
         <Cheatline>
             <Offset>608A90</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Size Character To Big">
+    <Cheat Text="Change Size Character To Big | 角色体型变大">
         <Cheatline>
             <Offset>608B20</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Size Character To Normal">
+    <Cheat Text="Change Size Character To Normal | 角色体型恢复">
         <Cheatline>
             <Offset>608AE0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Character Movement Fast">
+    <Cheat Text="Character Movement Fast | 角色快速移动">
         <Cheatline>
             <Offset>608DF0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Character Movement Normal">
+    <Cheat Text="Character Movement Normal | 角色正常移动">
         <Cheatline>
             <Offset>608E50</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Have All Characters">
+    <Cheat Text="Have All Characters | 解锁全部角色">
         <Cheatline>
             <Offset>608C50</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Have All Weapons, Shields, Armor,Bracelets, Boots">
+    <Cheat Text="Have All Weapons, Shields, Armor,Bracelets, Boots | 拥有所有武器、盾牌、护甲、手镯、靴子">
         <Cheatline>
             <Offset>608CE0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Have All Talisman">
+    <Cheat Text="Have All Talisman | 拥有所有护符">
         <Cheatline>
             <Offset>608D30</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Multi Jump">
+    <Cheat Text="Multi Jump | 多重跳跃">
         <Cheatline>
             <Offset>1D889A</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>48-83-C8-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Moon Jump">
+    <Cheat Text="Moon Jump | 月球跳跃">
         <Cheatline>
             <Offset>1D8886</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>0F-8E-4F-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Magic Cast">
+    <Cheat Text="Infinite Magic Cast | 无限魔法施放">
         <Cheatline>
             <Offset>7FC5E360</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Potions x99(on buy)">
+    <Cheat Text="Potions x99(on buy) | 药水x99（购买时生效）">
         <Cheatline>
             <Offset>7FC5EAB0</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Potion x147( on use)">
+    <Cheat Text="Potion x147( on use) | 药水x147（使用时生效）">
         <Cheatline>
             <Offset>7FC5FE40</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Legendary gems x50 (on spent have 2 units)">
+    <Cheat Text="Legendary gems x50 (on spent have 2 units) | 传奇宝石x50（消耗时持有2个）">
         <Cheatline>
             <Offset>7FC5EC80</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rain Drops x99 (on gain/buy)">
+    <Cheat Text="Rain Drops x99 (on gain/buy) | 雨滴x99（获得/购买时生效）">
         <Cheatline>
             <Offset>7FEA7DD0</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rain Drops x99 (on spent for gold)">
+    <Cheat Text="Rain Drops x99 (on spent for gold) | 雨滴x99（用于换金币时生效）">
         <Cheatline>
             <Offset>7FEA7E30</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rain Drops x99 (on spent for treasure maps)">
+    <Cheat Text="Rain Drops x99 (on spent for treasure maps) | 雨滴x99（用于换藏宝图时生效）">
         <Cheatline>
             <Offset>7FEA7EE0</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Power Gems x99 (on gain have 2 units)">
+    <Cheat Text="Power Gems x99 (on gain have 2 units) | 能量宝石x99（获得时持有2个）">
         <Cheatline>
             <Offset>7FEA5EC0</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Golden Gems x99 (on gain have 2 units)">
+    <Cheat Text="Golden Gems x99 (on gain have 2 units) | 黄金宝石x99（获得时持有2个）">
         <Cheatline>
             <Offset>7FEA7E10</Offset>
             <Section>0</Section>

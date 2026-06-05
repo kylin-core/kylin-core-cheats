@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Coins (On Spend, On Get Crashes)",
+      "name": "Inf Coins (On Spend, On Get Crashes) | 无限金币（消费时获得，获取时崩溃）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Bombs(On Use)",
+      "name": "Inf Bombs(On Use) | 无限炸弹（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Red Hearts",
+      "name": "Inf Red Hearts | 无限红心",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Inf Keys(On Get)",
+      "name": "Inf Keys(On Get) | 无限钥匙（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Pedestal Items Dont Disappear (Pedestal item will go invis but its there)",
+      "name": "Pedestal Items Dont Disappear (Pedestal item will go invis but its there) | 底座道具不消失（底座道具会隐形但仍在）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Inf Active Item",
+      "name": "Inf Active Item | 无限主动道具",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Inf Blue Hearts",
+      "name": "Inf Blue Hearts | 无限蓝心",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Inf Cards(On Use)",
+      "name": "Inf Cards(On Use) | 无限卡片（使用时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shadow Warrior 3" Moder="Saso_9.00" Cusa="CUSA26357" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health / Ammo / 1 Hit Kill (Master Code)">
+    <Cheat Text="Inf Health / Ammo / 1 Hit Kill (Master Code) | 无限生命/弹药/一击必杀（主代码）">
         <Cheatline>
             <Offset>63DB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (MC)">
+    <Cheat Text="1 Hit Kill (MC) | 一击必杀（主代码）">
         <Cheatline>
             <Offset>63DB831</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>EB-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo / No Reload (MC)">
+    <Cheat Text="Inf Ammo / No Reload (MC) | 无限弹药/无需换弹（主代码）">
         <Cheatline>
             <Offset>63DB807</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>75-36</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Finisher Gauge / Max Orbs (Master Code)">
+    <Cheat Text="Inf Finisher Gauge / Max Orbs (Master Code) | 无限终结技槽/最大宝珠（主代码）">
         <Cheatline>
             <Offset>63DB8B3</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Orbs (999) On Spend">
+    <Cheat Text="Max Orbs (999) On Spend | 消费时宝珠最大（999）">
         <Cheatline>
             <Offset>63DB8BA</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Street Fighter V" Moder="TLH" Cusa="CUSA01200" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="P1: Infinite Health">
+    <Cheat Text="P1: Infinite Health | P1：无限生命">
         <Cheatline>
             <Offset>4AEB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P1: 1 Hit Kill">
+    <Cheat Text="P1: 1 Hit Kill | P1：一击必杀">
         <Cheatline>
             <Offset>4AEB800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P2: Infinite Health">
+    <Cheat Text="P2: Infinite Health | P2：无限生命">
         <Cheatline>
             <Offset>4AEB801</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="P2: 1 Hit Kill">
+    <Cheat Text="P2: 1 Hit Kill | P2：一击必杀">
         <Cheatline>
             <Offset>4AEB801</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Regeneration">
+    <Cheat Text="Instant Regeneration | 瞬间恢复">
         <Cheatline>
             <Offset>7FD80</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4F-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Critical Gauge">
+    <Cheat Text="Infinite Critical Gauge | 无限能量槽">
         <Cheatline>
             <Offset>801E9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>0F-4E-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite V-Trigger Gauge">
+    <Cheat Text="Infinite V-Trigger Gauge | 无限V触发能量槽">
         <Cheatline>
             <Offset>806A0</Offset>
             <Section>0</Section>

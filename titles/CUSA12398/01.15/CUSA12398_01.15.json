@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": "This is not 100% done! Some special enemies can still damage you.",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "name": "No Hunger",
-      "hint": null,
+      "name": "No Hunger | 无饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "No Thirst",
-      "hint": null,
+      "name": "No Thirst | 无口渴",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -83,8 +79,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "hint": "Items that would be used for crafting/building will stay in your inventory or holders.",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -100,8 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Logs On Shoulder",
-      "hint": null,
+      "name": "Infinite Logs On Shoulder | 肩上无限原木",
       "type": "checkbox",
       "memory": [
         {
@@ -112,8 +106,7 @@
       ]
     },
     {
-      "name": "Instant Build",
-      "hint": null,
+      "name": "Instant Build | 即时建造",
       "type": "checkbox",
       "memory": [
         {
@@ -134,8 +127,7 @@
       ]
     },
     {
-      "name": "Instant Kill",
-      "hint": null,
+      "name": "Instant Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -146,8 +138,7 @@
       ]
     },
     {
-      "name": "Super Jump",
-      "hint": null,
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -168,8 +159,7 @@
       ]
     },
     {
-      "name": "Super Speed",
-      "hint": null,
+      "name": "Super Speed | 超级速度",
       "type": "checkbox",
       "memory": [
         {
@@ -180,8 +170,7 @@
       ]
     },
     {
-      "name": "Infinite Jump/Fly",
-      "hint": "This option is buggy. Sometimes you bounce, sometimes you fly up forever...",
+      "name": "Infinite Jump/Fly | 无限跳跃/飞行",
       "type": "checkbox",
       "memory": [
         {
@@ -202,8 +191,7 @@
       ]
     },
     {
-      "name": "0 Days Survived",
-      "hint": "Set the days you have survived to 0.",
+      "name": "0 Days Survived | 生存0天",
       "type": "button",
       "memory": [
         {
@@ -219,8 +207,7 @@
       ]
     },
     {
-      "name": "100 Days Survived",
-      "hint": "Set the days you have survived to 100.",
+      "name": "100 Days Survived | 生存100天",
       "type": "button",
       "memory": [
         {
@@ -236,8 +223,7 @@
       ]
     },
     {
-      "name": "9999 Days Survived",
-      "hint": "Set the days you have survived to 9999.",
+      "name": "9999 Days Survived | 生存9999天",
       "type": "button",
       "memory": [
         {
@@ -253,8 +239,7 @@
       ]
     },
     {
-      "name": "Disable Grass",
-      "hint": null,
+      "name": "Disable Grass | 禁用草地",
       "type": "checkbox",
       "memory": [
         {
@@ -265,8 +250,7 @@
       ]
     },
     {
-      "name": "No Under Water Blur",
-      "hint": null,
+      "name": "No Under Water Blur | 水下无模糊",
       "type": "checkbox",
       "memory": [
         {

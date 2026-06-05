@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Heal Potion",
+      "name": "Inf Heal Potion | 无限治疗药水",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf HP (leave your max HP at 250)",
+      "name": "Inf HP (leave your max HP at 250) | 无限生命值（锁定最大生命值250）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Money / Gold",
+      "name": "Inf Money / Gold | 无限金钱／金币",
       "type": "checkbox",
       "memory": [
         {

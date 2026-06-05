@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Instant Max Morale",
+      "name": "Instant Max Morale | 瞬间士气最高",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Chain",
+      "name": "Max Chain | 最大连锁",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite DIGS ",
+      "name": "Infinite DIGS | 无限挖掘",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Timeshift | Press R2 To Shift Back To Normal",
+      "name": "Infinite Timeshift | Press R2 To Shift Back To Normal | 无限时光倒流 | 按R2恢复正常",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Gold",
+      "name": "Infinite Gold | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Gold On Buy",
+      "name": "Max Gold On Buy | 购买时金币最大",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Inf Items| On Sell Or Use",
+      "name": "Inf Items| On Sell Or Use | 无限物品 | 出售或使用时",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max+ Inf Items/Components/Captured | On Sell Or Use",
+      "name": "Max+ Inf Items/Components/Captured | On Sell Or Use | 最大+无限物品/组件/捕获 | 出售或使用时",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Unlock All Consumables/Components/Captures/Special Items",
+      "name": "Unlock All Consumables/Components/Captures/Special Items | 解锁所有消耗品/组件/捕获/特殊物品",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Max Items On Buy",
+      "name": "Max Items On Buy | 购买时物品最大",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Boost Strength| Change Accessory",
+      "name": "Boost Strength| Change Accessory | 提升力量 | 更换配件",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Boost DEF | Change Weapon ",
+      "name": "Boost DEF | Change Weapon | 提升防御 | 更换武器",
       "type": "checkbox",
       "memory": [
         {
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Boost ATK Main Hand| Change Weapon ",
+      "name": "Boost ATK Main Hand| Change Weapon | 提升主手攻击 | 更换武器",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Boost ATK 2 Main Hand| Change Weapon ",
+      "name": "Boost ATK 2 Main Hand| Change Weapon | 提升副手攻击 | 更换武器",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Max Off Hand ATK",
+      "name": "Max Off Hand ATK | 副手攻击最大",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "Wizardry Mode|First Person View| Press Down Button ",
+      "name": "Wizardry Mode|First Person View| Press Down Button | 巫师模式|第一人称视角|按下方向键下",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Enhanced Field Of View | Press Down/UP Button",
+      "name": "Enhanced Field Of View | Press Down/UP Button | 增强视野 | 按下方向键下/上",
       "type": "checkbox",
       "memory": [
         {

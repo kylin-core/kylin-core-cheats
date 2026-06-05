@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ICEY" Moder="Ali-mk" Cusa="CUSA08085" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="MAX-money-(MC)">
+    <Cheat Text="MAX-money-(MC) | 无限金钱（MC）">
         <Cheatline>
             <Offset>82457800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible-one-on-dont-off">
+    <Cheat Text="Invincible-one-on-dont-off | 无敌模式（开启后别关闭）">
         <Cheatline>
             <Offset>80659CB3</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-39</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>80659CD2</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-89-46-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-SHELD">
+    <Cheat Text="Infinite-SHELD | 无限护盾">
         <Cheatline>
             <Offset>80659D62</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-46-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-money">
+    <Cheat Text="Infinite-money | 无限金钱">
         <Cheatline>
             <Offset>805FA8F9</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[] Reach 14 Attack & Blocks",
+      "name": "[] Reach 14 Attack \u0026 Blocks | [] 14格攻击距离与方块放置",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "[] Unfair Attack ",
+      "name": "[] Unfair Attack | [] 不公平攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "[] Rapid Hit & Fast Place",
+      "name": "[] Rapid Hit \u0026 Fast Place | [] 快速连击与快速放置",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "[] Hidden Attack",
+      "name": "[] Hidden Attack | [] 隐藏攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "[] Player Speed x2 & Low Gravity ",
+      "name": "[] Player Speed x2 \u0026 Low Gravity | [] 玩家速度双倍与低重力",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "[] Velocity Off XYZ",
+      "name": "[] Velocity Off XYZ | [] 关闭XYZ速度",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "[] Forward jump x4",
+      "name": "[] Forward jump x4 | [] 四倍前跳",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "[] Multi jump",
+      "name": "[] Multi jump | [] 多段跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "[] Zero Gravity & Speed",
+      "name": "[] Zero Gravity \u0026 Speed | [] 零重力与加速",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "[] Smooth Walk",
+      "name": "[] Smooth Walk | [] 平滑行走",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "[] Fast Break",
+      "name": "[] Fast Break | [] 快速破坏",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "[] No Fog",
+      "name": "[] No Fog | [] 无雾",
       "type": "checkbox",
       "memory": [
         {
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "name": "[] Critical attack(Host Only)",
+      "name": "[] Critical attack(Host Only) | [] 暴击攻击（仅主机）",
       "type": "checkbox",
       "memory": [
         {
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "name": "[] One Punchman(Host Only)",
+      "name": "[] One Punchman(Host Only) | [] 一拳超人（仅主机）",
       "type": "checkbox",
       "memory": [
         {
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "[] Change Specified Color To Red",
+      "name": "[] Change Specified Color To Red | [] 将指定颜色改为红色",
       "type": "checkbox",
       "memory": [
         {
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "name": "[] Change Specified Color To Green",
+      "name": "[] Change Specified Color To Green | [] 将指定颜色改为绿色",
       "type": "checkbox",
       "memory": [
         {
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "name": "[] Change Specified Color To Blue",
+      "name": "[] Change Specified Color To Blue | [] 将指定颜色改为蓝色",
       "type": "checkbox",
       "memory": [
         {
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "name": "[] Set Entity Color Aqua",
+      "name": "[] Set Entity Color Aqua | [] 设置实体颜色为青色",
       "type": "checkbox",
       "memory": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "name": "[] Show Dev Strings",
+      "name": "[] Show Dev Strings | [] 显示开发者字符串",
       "type": "checkbox",
       "memory": [
         {
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "name": "[] Change Minecraft Platform Xbox/One/X/S",
+      "name": "[] Change Minecraft Platform Xbox/One/X/S | [] 更改Minecraft平台为Xbox/One/X/S",
       "type": "checkbox",
       "memory": [
         {
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": "[] Bypass Signin",
+      "name": "[] Bypass Signin | [] 绕过登录",
       "type": "checkbox",
       "memory": [
         {
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "name": "[] Enable LAN Play",
+      "name": "[] Enable LAN Play | [] 启用局域网游玩",
       "type": "checkbox",
       "memory": [
         {

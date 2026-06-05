@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ultra Age" Moder="Ali-mk" Cusa="CUSA14715" Version="02.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌模式">
         <Cheatline>
             <Offset>1DD1BB6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-95-58-B0-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Health-(mc)">
+    <Cheat Text="Infinite-Health-(mc) | 无限生命（MC版）">
         <Cheatline>
             <Offset>7593800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Health-One-Hit-Kill-(mc)">
+    <Cheat Text="Inf-Health-One-Hit-Kill-(mc) | 无限生命・一击必杀（MC版）">
         <Cheatline>
             <Offset>7593800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-crystals-Fragments">
+    <Cheat Text="MAX-crystals-Fragments | 最大水晶碎片">
         <Cheatline>
             <Offset>7593840</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX-items-Sword-Power-Gear-0x99">
+    <Cheat Text="MAX-items-Sword-Power-Gear-0x99 | 最大道具・剑・动力装备0x99">
         <Cheatline>
             <Offset>7593853</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-crystals-Fragments">
+    <Cheat Text="Inf-crystals-Fragments | 无限水晶碎片">
         <Cheatline>
             <Offset>1D522BD</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-89-8A-28-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-items-Sword">
+    <Cheat Text="Inf-items-Sword | 无限道具・剑">
         <Cheatline>
             <Offset>1D51DDA</Offset>
             <Section>0</Section>

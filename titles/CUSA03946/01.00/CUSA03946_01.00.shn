@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light: The Following – Enhanced Edition" Moder="Arafat" Cusa="CUSA03946" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Infinite Health">
+    <Cheat Text="Max Infinite Health | 无限生命">
         <Cheatline>
             <Offset>A659DE</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-83-F4-11-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Cash">
+    <Cheat Text="Max Infinite Cash | 无限金钱">
         <Cheatline>
             <Offset>1FBF800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max SP points (deactivate after using)">
+    <Cheat Text="Max SP points (deactivate after using) | 无限技能点数（使用后关闭）">
         <Cheatline>
             <Offset>1FBF814</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1FBF824</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip/No Reload">
+    <Cheat Text="Bottomless Clip/No Reload | 无限弹匣/无需装弹">
         <Cheatline>
             <Offset>5FCB36</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-89-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lock Resources (Sell, Deactivate, Buy Back)">
+    <Cheat Text="Lock Resources (Sell, Deactivate, Buy Back) | 锁定资源（出售、关闭、回购）">
         <Cheatline>
             <Offset>5FCB3B</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>45-89-37</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite UV Light">
+    <Cheat Text="Infinite UV Light | 无限紫外线灯">
         <Cheatline>
             <Offset>1FBF834</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grappling Hook Stamina">
+    <Cheat Text="Infinite Grappling Hook Stamina | 无限抓钩体力">
         <Cheatline>
             <Offset>C2CCD6</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-11-47-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability And Buggy Components">
+    <Cheat Text="Infinite Weapon Durability And Buggy Components | 无限武器耐久度及越野车零件">
         <Cheatline>
             <Offset>1FBF846</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>BA429A</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-43-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite NOS (The Following Only)">
+    <Cheat Text="Infinite NOS (The Following Only) | 无限氮气（仅限信徒）">
         <Cheatline>
             <Offset>1FBF8C8</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fuel (The Following Only)">
+    <Cheat Text="Infinite Fuel (The Following Only) | 无限燃料（仅限信徒）">
         <Cheatline>
             <Offset>1FBF8F3</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Friday The 13Th The Game" Moder="hejran7" Cusa="CUSA10007" Version="01.22" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Instant Rage">
+    <Cheat Text="Instant Rage | 即时怒火">
         <Cheatline>
             <Offset>5357</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>72-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Traps">
+    <Cheat Text="Inf Traps | 无限陷阱">
         <Cheatline>
             <Offset>100810F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-FF-8C-24-08-17-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Knifes">
+    <Cheat Text="Inf Knifes | 无限飞刀">
         <Cheatline>
             <Offset>101159E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-8B-AC-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant All Skills">
+    <Cheat Text="Instant All Skills | 所有技能立刻冷却">
         <Cheatline>
             <Offset>FFA130</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C4-C1-7A-5D-84-94-00-12-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Shift Skill">
+    <Cheat Text="Inf Shift Skill | 无限瞬移技能">
         <Cheatline>
             <Offset>FFA216</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-C1-7A-11-84-24-F8-13-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Morph Skill">
+    <Cheat Text="Inf Morph Skill | 无限变形技能">
         <Cheatline>
             <Offset>FFA2F6</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C4-C1-7A-58-84-84-34-12-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stalker Skill">
+    <Cheat Text="Inf Stalker Skill | 无限潜行技能">
         <Cheatline>
             <Offset>FF96D6</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C4-C1-7A-10-94-24-FC-16-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Sense Skill">
+    <Cheat Text="Inf Sense Skill | 无限感知技能">
         <Cheatline>
             <Offset>FFAFD0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-58-84-24-1C-13-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Knifes Instant Cooldown">
+    <Cheat Text="Knifes Instant Cooldown | 飞刀立刻冷却">
         <Cheatline>
             <Offset>FDD8A0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>89-83-E4-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Skills Instant Cooldown">
+    <Cheat Text="All Skills Instant Cooldown | 所有技能立刻冷却">
         <Cheatline>
             <Offset>FFA300</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C4-81-7A-5D-84-B4-10-12-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Offline Bots Countdown Timer">
+    <Cheat Text="Freeze Offline Bots Countdown Timer | 冻结离线机器人倒计时">
         <Cheatline>
             <Offset>F5C712</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>41-89-8E-FC-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Challenges Countup Timer">
+    <Cheat Text="Freeze Challenges Countup Timer | 冻结挑战计时器">
         <Cheatline>
             <Offset>F5C796</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>41-FF-86-F8-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Out of Bound 15 Sec Warning Test">
+    <Cheat Text="Freeze Out of Bound 15 Sec Warning Test | 冻结越界15秒警告测试">
         <Cheatline>
             <Offset>FA73A2</Offset>
             <Section>0</Section>

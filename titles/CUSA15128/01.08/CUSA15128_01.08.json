@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Experience gained",
+      "name": "Max Experience gained | 最大经验获取",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "100 items (on pick up have 1)",
+      "name": "100 items (on pick up have 1) | 100个物品（拾取时获得1个）",
       "type": "checkbox",
       "memory": [
         {

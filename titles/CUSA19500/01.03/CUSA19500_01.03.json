@@ -5,8 +5,7 @@
   "process": "LTCG-BioGame.elf",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "Cheats for ME-1 ARE ONLY for Mass Effect 1, not for ME2 or ME3 and vice versa, so only enable the cheats for the game that you are playing and only enable AFTER the game is launched, not on the LAUNCHER MENU (game selection) before you launch the game of your choice! Watch Out! If you enable ME-2 cheats on another game like Mass Effect 3, for example, they will not work and it is likely the game will crash. Also - DISABLE ANY ACTIVE CHEAT BEFORE GOING BACK TO THE LAUNCHER MENU OR SWITCHING BETWEEN MASS EFFECT GAMES, OTHERWISE THE GAME MAY CRASH. This trainer was made and tested on PS4 Firmware 9.00, but should also work on other firmwares.",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Mass Effect 1 - Health Master Code (Must be enabled ALL THE TIME after launching ME-1)",
-      "description": "",
+      "name": "Mass Effect 1 - Health Master Code (Must be enabled ALL THE TIME after launching ME-1) | 质量效应1 - 生命主代码（启动ME-1后必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -34,7 +32,7 @@
       ]
     },
     {
-      "name": "---[ME-1] Squad Infinite Health (Requires Master Code)",
+      "name": "---[ME-1] Squad Infinite Health (Requires Master Code) | ---[ME-1] 小队无限生命（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -45,7 +43,7 @@
       ]
     },
     {
-      "name": "---[ME-1] One Hit Kill (Requires Master Code)",
+      "name": "---[ME-1] One Hit Kill (Requires Master Code) | ---[ME-1] 一击必杀（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +54,7 @@
       ]
     },
     {
-      "name": "[ME-1] Shield Master Code (Must be enabled ALL THE TIME after launching ME-1)",
-      "description": "",
+      "name": "[ME-1] Shield Master Code (Must be enabled ALL THE TIME after launching ME-1) | [ME-1] 护盾主代码（启动ME-1后必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +70,7 @@
       ]
     },
     {
-      "name": "---[ME-1] Squad Infinite Shield (Requires Master Code)",
+      "name": "---[ME-1] Squad Infinite Shield (Requires Master Code) | ---[ME-1] 小队无限护盾（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +81,7 @@
       ]
     },
     {
-      "name": "---[ME-1] Enemy No Shield (Requires Master Code)",
+      "name": "---[ME-1] Enemy No Shield (Requires Master Code) | ---[ME-1] 敌人无护盾（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -95,8 +92,7 @@
       ]
     },
     {
-      "name": "[ME-1] Infinite Max Mako Shield",
-      "description": "",
+      "name": "[ME-1] Infinite Max Mako Shield | [ME-1] 无限Mako护盾上限",
       "type": "checkbox",
       "memory": [
         {
@@ -112,8 +108,7 @@
       ]
     },
     {
-      "name": "[ME-1] Inf Grenades",
-      "description": "",
+      "name": "[ME-1] Inf Grenades | [ME-1] 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -129,8 +124,7 @@
       ]
     },
     {
-      "name": "[ME-1] Inf Max Medi-Gel (on get, use)",
-      "description": "",
+      "name": "[ME-1] Inf Max Medi-Gel (on get, use) | [ME-1] 无限医疗凝胶上限（获取或使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -146,8 +140,7 @@
       ]
     },
     {
-      "name": "[ME-1] Inf Max Money (on get)",
-      "description": "",
+      "name": "[ME-1] Inf Max Money (on get) | [ME-1] 无限金钱上限（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -158,8 +151,7 @@
       ]
     },
     {
-      "name": "[ME-1] Inf Max Omni-Gel (On get, use)",
-      "description": "",
+      "name": "[ME-1] Inf Max Omni-Gel (On get, use) | [ME-1] 无限万用凝胶上限（获取或使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -175,8 +167,7 @@
       ]
     },
     {
-      "name": "[ME-1] Infinite Stamina",
-      "description": "",
+      "name": "[ME-1] Infinite Stamina | [ME-1] 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -192,8 +183,7 @@
       ]
     },
     {
-      "name": "[ME-1] No Weapon Cooldown",
-      "description": "",
+      "name": "[ME-1] No Weapon Cooldown | [ME-1] 武器无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -204,8 +194,7 @@
       ]
     },
     {
-      "name": "[ME-1] Reverse Missions Timer",
-      "description": "",
+      "name": "[ME-1] Reverse Missions Timer | [ME-1] 反转任务计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -216,8 +205,7 @@
       ]
     },
     {
-      "name": "[ME-1] Inf Max Talent Points",
-      "description": "",
+      "name": "[ME-1] Inf Max Talent Points | [ME-1] 无限技能点数上限",
       "type": "checkbox",
       "memory": [
         {
@@ -233,8 +221,7 @@
       ]
     },
     {
-      "name": "[ME-1] Instant Max XP (OTU)",
-      "description": "OTU - One Time Use. Takes effect when killing an enemy etc.  When the XP updates to Max (Level 30), disable the cheat.",
+      "name": "[ME-1] Instant Max XP (OTU) | [ME-1] 瞬间满经验（一击即满）",
       "type": "checkbox",
       "memory": [
         {
@@ -250,8 +237,7 @@
       ]
     },
     {
-      "name": "Mass Effect 2 - Health Master Code (Must be enabled ALL THE TIME after launching ME-2)",
-      "description": "",
+      "name": "Mass Effect 2 - Health Master Code (Must be enabled ALL THE TIME after launching ME-2) | 质量效应2 - 生命主代码（启动ME-2后必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -267,7 +253,7 @@
       ]
     },
     {
-      "name": "---[ME-2] Infinite Health (Requires Master Code)",
+      "name": "---[ME-2] Infinite Health (Requires Master Code) | ---[ME-2] 无限生命（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -278,7 +264,7 @@
       ]
     },
     {
-      "name": "---[ME-2] Infinite Shield (Requires Master Code)",
+      "name": "---[ME-2] Infinite Shield (Requires Master Code) | ---[ME-2] 无限护盾（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -289,7 +275,7 @@
       ]
     },
     {
-      "name": "---[ME-2] Enemy No Shield (Requires Master Code)",
+      "name": "---[ME-2] Enemy No Shield (Requires Master Code) | ---[ME-2] 敌人无护盾（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -300,7 +286,7 @@
       ]
     },
     {
-      "name": "---[ME-2] One Hit Kill (Requires Master Code)",
+      "name": "---[ME-2] One Hit Kill (Requires Master Code) | ---[ME-2] 一击必杀（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -311,8 +297,7 @@
       ]
     },
     {
-      "name": "[ME-2] Infinite Max Ammo",
-      "description": "",
+      "name": "[ME-2] Infinite Max Ammo | [ME-2] 无限弹药上限",
       "type": "checkbox",
       "memory": [
         {
@@ -328,8 +313,7 @@
       ]
     },
     {
-      "name": "[ME-2] Infinite Stamina",
-      "description": "",
+      "name": "[ME-2] Infinite Stamina | [ME-2] 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -345,8 +329,7 @@
       ]
     },
     {
-      "name": "[ME-2] Powers - No Cooldown",
-      "description": "",
+      "name": "[ME-2] Powers - No Cooldown | [ME-2] 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -362,8 +345,7 @@
       ]
     },
     {
-      "name": "[ME-2] Super Accuracy",
-      "description": "",
+      "name": "[ME-2] Super Accuracy | [ME-2] 超级精准度",
       "type": "checkbox",
       "memory": [
         {
@@ -379,8 +361,7 @@
       ]
     },
     {
-      "name": "[ME-2] Inf Talent Points",
-      "description": "",
+      "name": "[ME-2] Inf Talent Points | [ME-2] 无限技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -396,8 +377,7 @@
       ]
     },
     {
-      "name": "[ME-2] Max Paragon and Renegade level (OTU)",
-      "description": "Enable the cheat, then open the menu and then the squad to populate. Then save the game and reload. OTU=One time use cheat.",
+      "name": "[ME-2] Max Paragon and Renegade level (OTU) | [ME-2] 满楷模与叛逆等级（一击即满）",
       "type": "checkbox",
       "memory": [
         {
@@ -413,8 +393,7 @@
       ]
     },
     {
-      "name": "[ME-2] Infinite Resources",
-      "description": "Resources are: Credits, Medi-Gel, Platinum, Palladium, Iridium, Element Zero. Open the mission computer (OPTIONS button) to populate the values.",
+      "name": "[ME-2] Infinite Resources | [ME-2] 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -430,8 +409,7 @@
       ]
     },
     {
-      "name": "[ME-2]Reverse Digital Timer",
-      "description": "",
+      "name": "[ME-2]Reverse Digital Timer | [ME-2] 反转数字计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -442,8 +420,7 @@
       ]
     },
     {
-      "name": "Mass Effect 3 - Master Code (Must be enabled ALL THE TIME after launching ME3)",
-      "description": "",
+      "name": "Mass Effect 3 - Master Code (Must be enabled ALL THE TIME after launching ME3) | 质量效应3 - 主代码（启动ME3后必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -459,7 +436,7 @@
       ]
     },
     {
-      "name": "---[ME-3] Max Credits (Requires Master Code)",
+      "name": "---[ME-3] Max Credits (Requires Master Code) | ---[ME-3] 最大信用点（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -470,7 +447,7 @@
       ]
     },
     {
-      "name": "---[ME-3] Infinite Medkits (Requires Master Code)",
+      "name": "---[ME-3] Infinite Medkits (Requires Master Code) | ---[ME-3] 无限医疗包（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -481,7 +458,7 @@
       ]
     },
     {
-      "name": "---[ME-3] Infinite Grenades (Requires Master Code)",
+      "name": "---[ME-3] Infinite Grenades (Requires Master Code) | ---[ME-3] 无限手雷（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -492,7 +469,7 @@
       ]
     },
     {
-      "name": "---[ME-3] Super Damage (Requires Master Code)",
+      "name": "---[ME-3] Super Damage (Requires Master Code) | ---[ME-3] 超级伤害（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -503,7 +480,7 @@
       ]
     },
     {
-      "name": "---[ME-3] Rapid Fire (Requires Master Code)",
+      "name": "---[ME-3] Rapid Fire (Requires Master Code) | ---[ME-3] 快速射击（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -514,7 +491,7 @@
       ]
     },
     {
-      "name": "---[ME-3] Super Accuracy (Requires Master Code)",
+      "name": "---[ME-3] Super Accuracy (Requires Master Code) | ---[ME-3] 超级精准度（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -525,7 +502,7 @@
       ]
     },
     {
-      "name": "---[ME-3] No Recoil (Requires Master Code)",
+      "name": "---[ME-3] No Recoil (Requires Master Code) | ---[ME-3] 无后坐力（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -536,8 +513,7 @@
       ]
     },
     {
-      "name": "---[ME-3] No Shake (Requires Master Code)",
-      "description": "The cheat disables weapon and camera shakes while shooting. Once enabled, the cheat can only be disabled after a game/save reload.",
+      "name": "---[ME-3] No Shake (Requires Master Code) | ---[ME-3] 无抖动（需主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -548,8 +524,7 @@
       ]
     },
     {
-      "name": "[ME-3] Infinite Shield",
-      "description": "",
+      "name": "[ME-3] Infinite Shield | [ME-3] 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -565,8 +540,7 @@
       ]
     },
     {
-      "name": "[ME-3] Infinite Ammo",
-      "description": "",
+      "name": "[ME-3] Infinite Ammo | [ME-3] 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -582,8 +556,7 @@
       ]
     },
     {
-      "name": "[ME-3] Infinite Talent Points",
-      "description": "Must disable this cheat outside the talent upgrade menu!",
+      "name": "[ME-3] Infinite Talent Points | [ME-3] 无限技能点数",
       "type": "checkbox",
       "memory": [
         {

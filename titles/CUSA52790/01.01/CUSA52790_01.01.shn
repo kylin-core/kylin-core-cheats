@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Scar-Lead Salvation" Moder="Ali-mk" Cusa="CUSA52790" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>80D062E9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-12-F5-F3-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-All-Weapon">
+    <Cheat Text="Infinite-All-Weapon | 无限所有武器">
         <Cheatline>
             <Offset>80C0F3B1</Offset>
             <Section>0</Section>

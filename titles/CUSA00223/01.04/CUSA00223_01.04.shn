@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="inFAMOUS: Second Son" Moder="Weysincha" Cusa="CUSA00223" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>5C5732</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-EA-5C-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy">
+    <Cheat Text="Infinite Energy | 无限能量">
         <Cheatline>
             <Offset>5C49A2</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-F2-5D-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints / Shards">
+    <Cheat Text="Infinite Skillpoints / Shards | 无限技能点 / 碎片">
         <Cheatline>
             <Offset>598061</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-9F-E0-00-00-00-80-BF-C9-0A-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bombs / Rockets">
+    <Cheat Text="Infinite Bombs / Rockets | 无限炸弹 / 火箭">
         <Cheatline>
             <Offset>598F18</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-B7-DC-00-00-00-80-BF-C9-0A-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level True Hero">
+    <Cheat Text="Max Level True Hero | 满级正义英雄">
         <Cheatline>
             <Offset>129BD08</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>A0-E6-87-45</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level Infamous">
+    <Cheat Text="Max Level Infamous | 满级恶名英雄">
         <Cheatline>
             <Offset>129BD08</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "9,999,999 Money on Spend",
+      "name": "9,999,999 Money on Spend | 花费时获得9,999,999金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Reputation on Gain",
+      "name": "Max Reputation on Gain | 获得时声望最大化",
       "type": "checkbox",
       "memory": [
         {

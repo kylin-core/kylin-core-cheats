@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated" Moder="TylerMods" Cusa="CUSA14898" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>5CADFC0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="47,000 Flowers on Gain">
+    <Cheat Text="47,000 Flowers on Gain | 获得47000朵花">
         <Cheatline>
             <Offset>5C9DF10</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="+2 Flowers on Gain">
+    <Cheat Text="+2 Flowers on Gain | 获得时+2朵花">
         <Cheatline>
             <Offset>5C9DF80</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="+4 Flowers on Gain">
+    <Cheat Text="+4 Flowers on Gain | 获得时+4朵花">
         <Cheatline>
             <Offset>5C9DF80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="+50 Flowers on Gain">
+    <Cheat Text="+50 Flowers on Gain | 获得时+50朵花">
         <Cheatline>
             <Offset>5C9DF80</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="+500 Flowers on Gain">
+    <Cheat Text="+500 Flowers on Gain | 获得时+500朵花">
         <Cheatline>
             <Offset>5C9DFF0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="12345 Spatulas on Gain">
+    <Cheat Text="12345 Spatulas on Gain | 获得12345把铲子">
         <Cheatline>
             <Offset>5CAE020</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="47,000 Spatulas on Gain">
+    <Cheat Text="47,000 Spatulas on Gain | 获得47000把铲子">
         <Cheatline>
             <Offset>5CAE020</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="47,000 Socks on Gain">
+    <Cheat Text="47,000 Socks on Gain | 获得47000只袜子">
         <Cheatline>
             <Offset>5CAE1D0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jumps">
+    <Cheat Text="Infinite Jumps | 无限跳跃">
         <Cheatline>
             <Offset>5CD4A40</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x4 Running Speed">
+    <Cheat Text="x4 Running Speed | 4倍奔跑速度">
         <Cheatline>
             <Offset>5CD4B40</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x8 Running Speed">
+    <Cheat Text="x8 Running Speed | 8倍奔跑速度">
         <Cheatline>
             <Offset>5CD4B40</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Running Speed to Default">
+    <Cheat Text="Reset Running Speed to Default | 重置奔跑速度至默认">
         <Cheatline>
             <Offset>5CD4B40</Offset>
             <Section>0</Section>

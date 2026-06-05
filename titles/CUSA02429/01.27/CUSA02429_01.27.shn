@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Battlefield 1" Moder="Celogamez" Cusa="CUSA02429" Version="01.27" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 神模式">
         <Cheatline>
             <Offset>3BE3DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite ammo">
+    <Cheat Text="Infinite ammo | 无限弹药">
         <Cheatline>
             <Offset>3BE38D0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload/Grenades/Tank Cannon/Plane Missiles">
+    <Cheat Text="No Reload/Grenades/Tank Cannon/Plane Missiles | 无需装填/手雷/坦克主炮/飞机导弹">
         <Cheatline>
             <Offset>3BE3920</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage For Tank">
+    <Cheat Text="No Damage For Tank | 坦克无敌">
         <Cheatline>
             <Offset>3BE3990</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage For Plane (Disable For Tank)">
+    <Cheat Text="No Damage For Plane (Disable For Tank) | 飞机无敌（对坦克禁用）">
         <Cheatline>
             <Offset>3BE34E0</Offset>
             <Section>0</Section>

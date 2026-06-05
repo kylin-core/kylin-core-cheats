@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mass Effect - Legendary Edition" Moder="Pharaoh2k" Cusa="CUSA19515" Version="01.03" Process="LTCG-BioGame.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset></Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mass Effect 1 - Health Master Code (Must be enabled ALL THE TIME after launching ME-1)">
+    <Cheat Text="Mass Effect 1 - Health Master Code (Must be enabled ALL THE TIME after launching ME-1) | 质量效应1 - 生命主代码（启动ME-1后需始终保持启用）">
         <Cheatline>
             <Offset>2103700</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-1] Squad Infinite Health (Requires Master Code)">
+    <Cheat Text="---[ME-1] Squad Infinite Health (Requires Master Code) | ---[ME-1] 小队无限生命（需主代码）">
         <Cheatline>
             <Offset>210375D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-1] One Hit Kill (Requires Master Code)">
+    <Cheat Text="---[ME-1] One Hit Kill (Requires Master Code) | ---[ME-1] 一击必杀（需主代码）">
         <Cheatline>
             <Offset>2103761</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Shield Master Code (Must be enabled ALL THE TIME after launching ME-1)">
+    <Cheat Text="[ME-1] Shield Master Code (Must be enabled ALL THE TIME after launching ME-1) | [ME-1] 护盾主代码（启动ME-1后需始终保持启用）">
         <Cheatline>
             <Offset>2103770</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-1] Squad Infinite Shield (Requires Master Code)">
+    <Cheat Text="---[ME-1] Squad Infinite Shield (Requires Master Code) | ---[ME-1] 小队无限护盾（需主代码）">
         <Cheatline>
             <Offset>21037C1</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-1] Enemy No Shield (Requires Master Code)">
+    <Cheat Text="---[ME-1] Enemy No Shield (Requires Master Code) | ---[ME-1] 敌人无护盾（需主代码）">
         <Cheatline>
             <Offset>21037C5</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Infinite Max Mako Shield">
+    <Cheat Text="[ME-1] Infinite Max Mako Shield | [ME-1] 无限最大马科护盾">
         <Cheatline>
             <Offset>21037E0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Inf Grenades">
+    <Cheat Text="[ME-1] Inf Grenades | [ME-1] 无限手雷">
         <Cheatline>
             <Offset>2103810</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Inf Max Medi-Gel (on get, use)">
+    <Cheat Text="[ME-1] Inf Max Medi-Gel (on get, use) | [ME-1] 无限最大医疗胶（获取/使用时）">
         <Cheatline>
             <Offset>2103820</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Inf Max Money (on get)">
+    <Cheat Text="[ME-1] Inf Max Money (on get) | [ME-1] 无限最大金钱（获取时）">
         <Cheatline>
             <Offset>1740FBA</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>41-89-87-C4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Inf Max Omni-Gel (On get, use)">
+    <Cheat Text="[ME-1] Inf Max Omni-Gel (On get, use) | [ME-1] 无限最大万能凝胶（获取/使用时）">
         <Cheatline>
             <Offset>2103850</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Infinite Stamina">
+    <Cheat Text="[ME-1] Infinite Stamina | [ME-1] 无限体力">
         <Cheatline>
             <Offset>2103880</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] No Weapon Cooldown">
+    <Cheat Text="[ME-1] No Weapon Cooldown | [ME-1] 武器无冷却">
         <Cheatline>
             <Offset>1B8FE7D</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C4-C1-7A-11-85-18-05-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Reverse Missions Timer">
+    <Cheat Text="[ME-1] Reverse Missions Timer | [ME-1] 反向任务计时器">
         <Cheatline>
             <Offset>16A0737</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Inf Max Talent Points">
+    <Cheat Text="[ME-1] Inf Max Talent Points | [ME-1] 无限最大技能点">
         <Cheatline>
             <Offset>21038A0</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-1] Instant Max XP (OTU)">
+    <Cheat Text="[ME-1] Instant Max XP (OTU) | [ME-1] 瞬间满经验（一次性使用）">
         <Cheatline>
             <Offset>21038D0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mass Effect 2 - Health Master Code (Must be enabled ALL THE TIME after launching ME-2)">
+    <Cheat Text="Mass Effect 2 - Health Master Code (Must be enabled ALL THE TIME after launching ME-2) | 质量效应2 - 生命主代码（启动ME-2后需始终保持启用）">
         <Cheatline>
             <Offset>2166000</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-2] Infinite Health (Requires Master Code)">
+    <Cheat Text="---[ME-2] Infinite Health (Requires Master Code) | ---[ME-2] 无限生命（需主代码）">
         <Cheatline>
             <Offset>21661A8</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-2] Infinite Shield (Requires Master Code)">
+    <Cheat Text="---[ME-2] Infinite Shield (Requires Master Code) | ---[ME-2] 无限护盾（需主代码）">
         <Cheatline>
             <Offset>21661AC</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-2] Enemy No Shield (Requires Master Code)">
+    <Cheat Text="---[ME-2] Enemy No Shield (Requires Master Code) | ---[ME-2] 敌人无护盾（需主代码）">
         <Cheatline>
             <Offset>21661B0</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-2] One Hit Kill (Requires Master Code)">
+    <Cheat Text="---[ME-2] One Hit Kill (Requires Master Code) | ---[ME-2] 一击必杀（需主代码）">
         <Cheatline>
             <Offset>21661B4</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Infinite Max Ammo">
+    <Cheat Text="[ME-2] Infinite Max Ammo | [ME-2] 无限最大弹药">
         <Cheatline>
             <Offset>2166200</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Infinite Stamina">
+    <Cheat Text="[ME-2] Infinite Stamina | [ME-2] 无限体力">
         <Cheatline>
             <Offset>2166250</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Powers - No Cooldown">
+    <Cheat Text="[ME-2] Powers - No Cooldown | [ME-2] 技能无冷却">
         <Cheatline>
             <Offset>2166280</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Super Accuracy">
+    <Cheat Text="[ME-2] Super Accuracy | [ME-2] 超级精准">
         <Cheatline>
             <Offset>21662B0</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Inf Talent Points">
+    <Cheat Text="[ME-2] Inf Talent Points | [ME-2] 无限技能点">
         <Cheatline>
             <Offset>2166300</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Max Paragon and Renegade level (OTU)">
+    <Cheat Text="[ME-2] Max Paragon and Renegade level (OTU) | [ME-2] 最大模范和叛逆等级（一次性使用）">
         <Cheatline>
             <Offset>2166320</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2] Infinite Resources">
+    <Cheat Text="[ME-2] Infinite Resources | [ME-2] 无限资源">
         <Cheatline>
             <Offset>2166370</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-2]Reverse Digital Timer">
+    <Cheat Text="[ME-2]Reverse Digital Timer | [ME-2] 反向数字计时器">
         <Cheatline>
             <Offset>18FF437</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mass Effect 3 - Master Code (Must be enabled ALL THE TIME after launching ME3)">
+    <Cheat Text="Mass Effect 3 - Master Code (Must be enabled ALL THE TIME after launching ME3) | 质量效应3 - 主代码（启动ME3后需始终保持启用）">
         <Cheatline>
             <Offset>2213000</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] Max Credits (Requires Master Code)">
+    <Cheat Text="---[ME-3] Max Credits (Requires Master Code) | ---[ME-3] 最大信用点（需主代码）">
         <Cheatline>
             <Offset>2213220</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] Infinite Medkits (Requires Master Code)">
+    <Cheat Text="---[ME-3] Infinite Medkits (Requires Master Code) | ---[ME-3] 无限医疗包（需主代码）">
         <Cheatline>
             <Offset>2213224</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] Infinite Grenades (Requires Master Code)">
+    <Cheat Text="---[ME-3] Infinite Grenades (Requires Master Code) | ---[ME-3] 无限手雷（需主代码）">
         <Cheatline>
             <Offset>2213228</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] Super Damage (Requires Master Code)">
+    <Cheat Text="---[ME-3] Super Damage (Requires Master Code) | ---[ME-3] 超级伤害（需主代码）">
         <Cheatline>
             <Offset>221322C</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] Rapid Fire (Requires Master Code)">
+    <Cheat Text="---[ME-3] Rapid Fire (Requires Master Code) | ---[ME-3] 快速射击（需主代码）">
         <Cheatline>
             <Offset>2213230</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] Super Accuracy (Requires Master Code)">
+    <Cheat Text="---[ME-3] Super Accuracy (Requires Master Code) | ---[ME-3] 超级精准（需主代码）">
         <Cheatline>
             <Offset>2213234</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] No Recoil (Requires Master Code)">
+    <Cheat Text="---[ME-3] No Recoil (Requires Master Code) | ---[ME-3] 无后坐力（需主代码）">
         <Cheatline>
             <Offset>2213238</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---[ME-3] No Shake (Requires Master Code)">
+    <Cheat Text="---[ME-3] No Shake (Requires Master Code) | ---[ME-3] 无抖动（需主代码）">
         <Cheatline>
             <Offset>221323C</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-3] Infinite Shield">
+    <Cheat Text="[ME-3] Infinite Shield | [ME-3] 无限护盾">
         <Cheatline>
             <Offset>2213300</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-3] Infinite Ammo">
+    <Cheat Text="[ME-3] Infinite Ammo | [ME-3] 无限弹药">
         <Cheatline>
             <Offset>2213350</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ME-3] Infinite Talent Points">
+    <Cheat Text="[ME-3] Infinite Talent Points | [ME-3] 无限技能点">
         <Cheatline>
             <Offset>7EF394</Offset>
             <Section>0</Section>

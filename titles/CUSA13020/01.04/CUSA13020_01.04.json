@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "2EDAC0",
           "on": "9090909090",
           "off": "C5FA11431C"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Infinite Nitro",
+      "name": "Infinite Nitro | 无限氮气",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "419786",
           "on": "9090909090909090",
           "off": "C5FA1183BC000000"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Grenades/Bombs",
+      "name": "Infinite Ammo/Grenades/Bombs | 无限弹药/手雷/炸弹",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "3BFD2C",
           "on": "90909090909090",
           "off": "4489B380000000"
@@ -41,11 +38,10 @@
       ]
     },
     {
-      "name": "Money Freeze (Only use in Shop)",
+      "name": "Money Freeze (Only use in Shop) | 金钱锁定（仅限商店使用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "1ED083",
           "on": "90909090909090",
           "off": "41898574010000"
@@ -53,11 +49,10 @@
       ]
     },
     {
-      "name": "XP Freeze (Only use in XP-Shop)",
+      "name": "XP Freeze (Only use in XP-Shop) | 经验锁定（仅限经验商店使用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "2EB65F",
           "on": "9090",
           "off": "29C3"

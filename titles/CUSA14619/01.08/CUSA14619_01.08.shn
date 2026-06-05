@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sniper Ghost Warrior Contracts" Moder="wild31" Cusa="CUSA14619" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1A44C78</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-89-78-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>5E737F</Offset>
             <Section>0</Section>

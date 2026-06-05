@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "MAX-Skill-Points",
+      "name": "MAX-Skill-Points | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite-Breath)",
+      "name": "Infinite-Breath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {

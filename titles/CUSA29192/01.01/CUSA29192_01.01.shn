@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last Stand: Aftermath" Moder="Wander" Cusa="CUSA29192" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>8D9CA2</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-4E-3C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>2BB49AA</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>42-89-4C-E8-30</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>978BB9</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-89-44-24-5C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Knowledge Points Multiplier (On Gain)">
+    <Cheat Text="Knowledge Points Multiplier (On Gain) | 知识点数倍率（获得时）">
         <Cheatline>
             <Offset>F48E92</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-47-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/Antivirus">
+    <Cheat Text="Infinite Items/Antivirus | 无限物品/杀毒剂">
         <Cheatline>
             <Offset>A3EA06</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-89-47-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Supply Points Multiplier">
+    <Cheat Text="Supply Points Multiplier | 补给点数倍率">
         <Cheatline>
             <Offset>F4FD16</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-89-46-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Knownledge Multiplier(On Spend)">
+    <Cheat Text="Knownledge Multiplier(On Spend) | 知识点数倍率（消耗时）">
         <Cheatline>
             <Offset>8AE316</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>41-89-46-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Melee Weapon Durability">
+    <Cheat Text="Infinite Melee Weapon Durability | 无限近战武器耐久度">
         <Cheatline>
             <Offset>49C0B9</Offset>
             <Section>0</Section>

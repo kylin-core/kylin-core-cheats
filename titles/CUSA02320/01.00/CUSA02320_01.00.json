@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "L3 + Upper L or Upper R Touch Pad",
+      "name": "L3 + Upper L or Upper R Touch Pad | L3 + 触控板上方L或R",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Enable FPS View - Hold L3",
+      "name": "Enable FPS View - Hold L3 | 启用第一人称视角 - 按住L3",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Enable Task View - Hold L3",
+      "name": "Enable Task View - Hold L3 | 启用任务视图 - 按住L3",
       "type": "checkbox",
       "memory": [
         {

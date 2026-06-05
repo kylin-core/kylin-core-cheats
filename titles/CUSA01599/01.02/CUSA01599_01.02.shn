@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry 4 Special Edition" Moder="Ali-mk" Cusa="CUSA01599" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>59EC9A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-21-84-CF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Health-(MC)">
+    <Cheat Text="Inf-Health-(MC) | 无限生命（主控角色）">
         <Cheatline>
             <Offset>12EB800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max-Red-Orbs-99999999">
+    <Cheat Text="Max-Red-Orbs-99999999 | 红魂最大99999999">
         <Cheatline>
             <Offset>12EB81F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max-Proud-Sovl-99999999">
+    <Cheat Text="Max-Proud-Sovl-99999999 | 白魂最大99999999">
         <Cheatline>
             <Offset>12EB831</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-All-Items">
+    <Cheat Text="Infinite-All-Items | 无限全部道具">
         <Cheatline>
             <Offset>2210FB</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-89-57-34</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Red-Orbs">
+    <Cheat Text="Infinite-Red-Orbs | 无限红魂">
         <Cheatline>
             <Offset>20515D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>89-83-84-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Proud-Sovl">
+    <Cheat Text="Infinite-Proud-Sovl | 无限白魂">
         <Cheatline>
             <Offset>221692</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>41-89-8F-C0-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-evil-Trigger-vergil">
+    <Cheat Text="Inf-evil-Trigger-vergil | 无限魔人化（维吉尔）">
         <Cheatline>
             <Offset>598F14</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-10-83-68-2A-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-evil-Trigger-Lady-Trish">
+    <Cheat Text="Inf-evil-Trigger-Lady-Trish | 无限魔人化（蕾蒂/翠西）">
         <Cheatline>
             <Offset>599BFF</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-8B-64-2A-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max-Proud-Sovl-Nero">
+    <Cheat Text="Max-Proud-Sovl-Nero | 白魂最大（尼禄）">
         <Cheatline>
             <Offset>12EB813</Offset>
             <Section>0</Section>
