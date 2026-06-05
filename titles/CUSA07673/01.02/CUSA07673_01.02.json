@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite bombs",
+      "name": "Infinite bombs | 无限炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Player Score",
+      "name": "Max Player Score | 最大玩家得分",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Stage Score",
+      "name": "Max Stage Score | 最大关卡得分",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Cheer Call Gauge",
+      "name": "Max Cheer Call Gauge | 最大应援呼叫槽",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {

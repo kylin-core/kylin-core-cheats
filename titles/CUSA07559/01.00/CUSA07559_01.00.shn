@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game=".hack//G.U. Last Recode" Moder="EvilGoku" Cusa="CUSA07559" Version="01.00" Process="hackGU_vol2.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Never Dec Items Used">
+    <Cheat Text="Never Dec Items Used | 道具数量不减">
         <Cheatline>
             <Offset>5FF9A4</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="500 Smoke Bomb Value">
+    <Cheat Text="500 Smoke Bomb Value | 烟雾弹值500">
         <Cheatline>
             <Offset>50A63A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-C7-80-BA-04-00-00-87-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill ">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>C9B805</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Chin 999">
+    <Cheat Text="Infinite Chin 999 | 无限金币999">
         <Cheatline>
             <Offset>C9B81C</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Aida Battle 1 Hit Kill">
+    <Cheat Text="Aida Battle 1 Hit Kill | 亚达战斗一击必杀">
         <Cheatline>
             <Offset>C9B82E</Offset>
             <Section>0</Section>

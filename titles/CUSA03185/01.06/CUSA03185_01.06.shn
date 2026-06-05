@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DIGIMON STORY CYBER SLEUTH" Moder="Skal" Cusa="CUSA03185" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Items Never Decrease">
+    <Cheat Text="Items Never Decrease | 物品不减">
         <Cheatline>
             <Offset>5B193</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>88-50-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp | 最大经验值">
         <Cheatline>
             <Offset>4C19F</Offset>
             <Section>0</Section>

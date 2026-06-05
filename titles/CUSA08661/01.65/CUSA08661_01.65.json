@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "XP multiplier",
+      "name": "XP multiplier | 经验值倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Skill Points Multiplier",
+      "name": "Skill Points Multiplier | 技能点倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Perk Points Multiplier",
+      "name": "Perk Points Multiplier | 特长点倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Money Multiplier (On Buy)",
+      "name": "Money Multiplier (On Buy) | 金钱倍率（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables",
+      "name": "Infinite Consumables | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {

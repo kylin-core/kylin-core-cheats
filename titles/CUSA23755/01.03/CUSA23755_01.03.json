@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health Energy",
+      "name": "Max Health Energy | 最大生命能量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Max Power Energy",
+      "name": "Max Power Energy | 最大力量能量",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "399FF8",
           "on": "C5F82EC1",
           "off": "C5F82EC8"
@@ -33,17 +32,15 @@
       ]
     },
     {
-      "name": "Max Points ( on gain )",
+      "name": "Max Points ( on gain ) | 最大点数（获得时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "1A8B800",
           "on": "BEFFE0F505897710E913B9BFFE",
           "off": "00000000000000000000000000"
         },
         {
-          "section": "14",
           "offset": "687113",
           "on": "E9E84640019090909090909090",
           "off": "C36666662E0F1F840000000000"
@@ -51,11 +48,10 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "439A9F",
           "on": "C5FA115110",
           "off": "C5FA114910"

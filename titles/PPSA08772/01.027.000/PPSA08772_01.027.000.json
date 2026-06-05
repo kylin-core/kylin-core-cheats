@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Cure Potion",
+      "name": "Inf Cure Potion | 无限治疗药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Items & Throwables",
+      "name": "Inf Items \u0026 Throwables | 无限道具与投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Instant Infinite Divine Beast Gauge (Hit Enemy)",
+      "name": "Instant Infinite Divine Beast Gauge (Hit Enemy) | 瞬间无限神兽槽（击中敌人）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Inf Tiger Beast Gauge",
+      "name": "Inf Tiger Beast Gauge | 无限虎兽槽",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Inf Wizardry Spell",
+      "name": "Inf Wizardry Spell | 无限奇术",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Inf Wizardry Spell Points",
+      "name": "Inf Wizardry Spell Points | 无限奇术点数",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max Moral",
+      "name": "Max Moral | 最大士气",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Inf Buffs",
+      "name": "Inf Buffs | 无限增益效果",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Inf Accolades On Buy",
+      "name": "Inf Accolades On Buy | 购买时无限功绩",
       "type": "checkbox",
       "memory": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Inf Money",
+      "name": "Inf Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "Inf Genuine Qi (Gain/Use)",
+      "name": "Inf Genuine Qi (Gain/Use) | 无限真气（获取/使用）",
       "type": "checkbox",
       "memory": [
         {

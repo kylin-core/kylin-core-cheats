@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Player Pointer",
+      "name": "Player Pointer | 玩家指针",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Invulnerable",
+      "name": "Invulnerable | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Money",
+      "name": "Money | 金币",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Easy LevelUp",
+      "name": "Easy LevelUp | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinte Skillpoints",
+      "name": "Infinte Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Jumping",
+      "name": "Infinite Jumping | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Dashing: No Cooldown",
+      "name": "Dashing: No Cooldown | 冲刺：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Infinite Air Dashing",
+      "name": "Infinite Air Dashing | 无限空中冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Ignore Bloodcosts",
+      "name": "Ignore Bloodcosts | 无视血成本",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Hard Attack: Always available",
+      "name": "Hard Attack: Always available | 重击：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Hard Attack: No Incantation",
+      "name": "Hard Attack: No Incantation | 重击：无需吟唱",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Hard Attack: No Blood Cost",
+      "name": "Hard Attack: No Blood Cost | 重击：无血消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "Hard Attack: No Cooldown",
+      "name": "Hard Attack: No Cooldown | 重击：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Scythe: Always available",
+      "name": "Scythe: Always available | 镰刀：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Scythe: No Blood Cost",
+      "name": "Scythe: No Blood Cost | 镰刀：无血消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "name": "Dark Shield: Always available",
+      "name": "Dark Shield: Always available | 暗影护盾：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "name": "Dark Shield: No cooldown",
+      "name": "Dark Shield: No cooldown | 暗影护盾：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "name": "Shuriken: Always available",
+      "name": "Shuriken: Always available | 手里剑：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "name": "Shuriken: No Cooldown",
+      "name": "Shuriken: No Cooldown | 手里剑：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "name": "Shuriken: No Blood Cost",
+      "name": "Shuriken: No Blood Cost | 手里剑：无血消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "name": "Katana Slash: Always available",
+      "name": "Katana Slash: Always available | 太刀斩：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "Katana Feint: Always available",
+      "name": "Katana Feint: Always available | 太刀佯攻：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "name": "Katana: No Cooldown",
+      "name": "Katana: No Cooldown | 太刀：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "name": "Katana: No Blood Cost",
+      "name": "Katana: No Blood Cost | 太刀：无血消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "name": "Spear: Always available",
+      "name": "Spear: Always available | 长矛：始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "name": "Spear: No Cooldown",
+      "name": "Spear: No Cooldown | 长矛：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "name": "Spear: No Blood Cost",
+      "name": "Spear: No Blood Cost | 长矛：无血消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "name": "Bow: No Cooldown",
+      "name": "Bow: No Cooldown | 弓箭：无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "name": "Bow: Light Arrow always available",
+      "name": "Bow: Light Arrow always available | 弓箭：光箭始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "name": "Bow: Crystal Arrow always available",
+      "name": "Bow: Crystal Arrow always available | 弓箭：水晶箭始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "name": "Bow: Dark Arrow always available",
+      "name": "Bow: Dark Arrow always available | 弓箭：暗箭始终可用",
       "type": "checkbox",
       "memory": [
         {

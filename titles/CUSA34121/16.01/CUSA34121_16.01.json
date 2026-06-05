@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Backport 505-9 only",
-      "description": "none",
+      "name": "Backport 505-9 only | 仅向后移植505-9",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Code Item id modifier",
-      "description": "there are some bugs item id, it may break your item, i recommend you use multitrainer for manual id input, how to use: move your item into free space inventory slot",
+      "name": "Master Code Item id modifier | 主代码物品ID修改器",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "increase item id (MC id)",
-      "description": "none",
+      "name": "increase item id (MC id) | 增加物品ID（主代码ID）",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "decrease item id (MC id)",
-      "description": "none",
+      "name": "decrease item id (MC id) | 减少物品ID（主代码ID）",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "item 99",
-      "description": "move item into free space inventory / pouch slot",
+      "name": "item 99 | 物品99个",
       "type": "checkbox",
       "memory": [
         {
@@ -75,8 +70,7 @@
       ]
     },
     {
-      "name": "Infinite wirebug",
-      "description": "none",
+      "name": "Infinite wirebug | 无限翔虫",
       "type": "checkbox",
       "memory": [
         {
@@ -92,8 +86,7 @@
       ]
     },
     {
-      "name": "Infinite health",
-      "description": "none",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -109,8 +102,7 @@
       ]
     },
     {
-      "name": "Infinite stamina",
-      "description": "none",
+      "name": "Infinite stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -126,8 +118,7 @@
       ]
     },
     {
-      "name": "Hunger disable",
-      "description": "none",
+      "name": "Hunger disable | 饥饿无效",
       "type": "checkbox",
       "memory": [
         {
@@ -143,8 +134,7 @@
       ]
     },
     {
-      "name": "Max Attack",
-      "description": "none",
+      "name": "Max Attack | 最大攻击力",
       "type": "checkbox",
       "memory": [
         {
@@ -160,8 +150,7 @@
       ]
     },
     {
-      "name": "Max Defense",
-      "description": "none",
+      "name": "Max Defense | 最大防御力",
       "type": "checkbox",
       "memory": [
         {
@@ -177,8 +166,7 @@
       ]
     },
     {
-      "name": "Max Affinity",
-      "description": "none",
+      "name": "Max Affinity | 最大会心率",
       "type": "checkbox",
       "memory": [
         {
@@ -189,8 +177,7 @@
       ]
     },
     {
-      "name": "Stop Quest timer",
-      "description": "none",
+      "name": "Stop Quest timer | 停止任务计时",
       "type": "checkbox",
       "memory": [
         {
@@ -206,8 +193,7 @@
       ]
     },
     {
-      "name": "Easy capture and Easy kill",
-      "description": "none",
+      "name": "Easy capture and Easy kill | 简易捕获与简易击杀",
       "type": "checkbox",
       "memory": [
         {
@@ -223,8 +209,7 @@
       ]
     },
     {
-      "name": "Run Speed",
-      "description": "none",
+      "name": "Run Speed | 移动速度",
       "type": "checkbox",
       "memory": [
         {
@@ -240,8 +225,7 @@
       ]
     },
     {
-      "name": "Max sharpness",
-      "description": "none",
+      "name": "Max sharpness | 最大锋利度",
       "type": "checkbox",
       "memory": [
         {
@@ -257,8 +241,7 @@
       ]
     },
     {
-      "name": "Zenny",
-      "description": "open menu",
+      "name": "Zenny | 金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -274,8 +257,7 @@
       ]
     },
     {
-      "name": "Kamura points",
-      "description": "open menu",
+      "name": "Kamura points | 神火点数",
       "type": "checkbox",
       "memory": [
         {
@@ -291,8 +273,7 @@
       ]
     },
     {
-      "name": "Wyvern riding time",
-      "description": "none",
+      "name": "Wyvern riding time | 御龙持续时间",
       "type": "checkbox",
       "memory": [
         {
@@ -308,8 +289,7 @@
       ]
     },
     {
-      "name": "Longsword spirit gauge ",
-      "description": "none",
+      "name": "Longsword spirit gauge | 太刀气刃槽",
       "type": "checkbox",
       "memory": [
         {
@@ -325,8 +305,7 @@
       ]
     },
     {
-      "name": "Dual Blade Demon gauge",
-      "description": "none",
+      "name": "Dual Blade Demon gauge | 双刀鬼人槽",
       "type": "checkbox",
       "memory": [
         {
@@ -342,8 +321,7 @@
       ]
     },
     {
-      "name": "Gunlance shell",
-      "description": "none",
+      "name": "Gunlance shell | 铳枪炮弹",
       "type": "checkbox",
       "memory": [
         {
@@ -359,8 +337,7 @@
       ]
     },
     {
-      "name": "Gunlance stake",
-      "description": "none",
+      "name": "Gunlance stake | 铳枪龙桩",
       "type": "checkbox",
       "memory": [
         {
@@ -371,8 +348,7 @@
       ]
     },
     {
-      "name": "Gunlance wyrmstake cannon",
-      "description": "none",
+      "name": "Gunlance wyrmstake cannon | 铳枪龙击炮",
       "type": "checkbox",
       "memory": [
         {
@@ -383,8 +359,7 @@
       ]
     },
     {
-      "name": "Switchaxe Gauge",
-      "description": "none",
+      "name": "Switchaxe Gauge | 斩斧能量槽",
       "type": "checkbox",
       "memory": [
         {
@@ -395,8 +370,7 @@
       ]
     },
     {
-      "name": "Switchaxe ampede state",
-      "description": "none",
+      "name": "Switchaxe ampede state | 斩斧强化状态",
       "type": "checkbox",
       "memory": [
         {
@@ -412,8 +386,7 @@
       ]
     },
     {
-      "name": "Switchaxe ampede timer",
-      "description": "none",
+      "name": "Switchaxe ampede timer | 斩斧强化计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -424,8 +397,7 @@
       ]
     },
     {
-      "name": "Chargeblade phial",
-      "description": "none",
+      "name": "Chargeblade phial | 盾斧装瓶",
       "type": "checkbox",
       "memory": [
         {
@@ -441,8 +413,7 @@
       ]
     },
     {
-      "name": "Chargeblade no overheat",
-      "description": "none",
+      "name": "Chargeblade no overheat | 盾斧不过热",
       "type": "checkbox",
       "memory": [
         {
@@ -458,8 +429,7 @@
       ]
     },
     {
-      "name": "Chargeblade element boost",
-      "description": "none",
+      "name": "Chargeblade element boost | 盾斧属性强化",
       "type": "checkbox",
       "memory": [
         {
@@ -475,8 +445,7 @@
       ]
     },
     {
-      "name": "Chargeblade sword boost",
-      "description": "you need to do Sword: Condensed Element Slash",
+      "name": "Chargeblade sword boost | 盾斧剑强化",
       "type": "checkbox",
       "memory": [
         {
@@ -492,8 +461,7 @@
       ]
     },
     {
-      "name": "Insect glaive kinsect stamina",
-      "description": "none",
+      "name": "Insect glaive kinsect stamina | 操虫棍猎虫耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -509,8 +477,7 @@
       ]
     },
     {
-      "name": "Insect glaive extract 1",
-      "description": "none",
+      "name": "Insect glaive extract 1 | 操虫棍精华1",
       "type": "checkbox",
       "memory": [
         {
@@ -526,8 +493,7 @@
       ]
     },
     {
-      "name": "Insect glaive extract 2",
-      "description": "none",
+      "name": "Insect glaive extract 2 | 操虫棍精华2",
       "type": "checkbox",
       "memory": [
         {
@@ -543,8 +509,7 @@
       ]
     },
     {
-      "name": "Insect glaive extract 3",
-      "description": "none",
+      "name": "Insect glaive extract 3 | 操虫棍精华3",
       "type": "checkbox",
       "memory": [
         {
@@ -560,8 +525,7 @@
       ]
     },
     {
-      "name": "Grabbed by boss disabled",
-      "description": "none",
+      "name": "Grabbed by boss disabled | 不被怪物抓住",
       "type": "checkbox",
       "memory": [
         {
@@ -572,8 +536,7 @@
       ]
     },
     {
-      "name": "Buffs attack",
-      "description": "none",
+      "name": "Buffs attack | 增益·攻击力",
       "type": "checkbox",
       "memory": [
         {
@@ -589,8 +552,7 @@
       ]
     },
     {
-      "name": "Buffs defence",
-      "description": "none",
+      "name": "Buffs defence | 增益·防御力",
       "type": "checkbox",
       "memory": [
         {
@@ -606,8 +568,7 @@
       ]
     },
     {
-      "name": "Buffs affinity",
-      "description": "none",
+      "name": "Buffs affinity | 增益·会心率",
       "type": "checkbox",
       "memory": [
         {
@@ -623,8 +584,7 @@
       ]
     },
     {
-      "name": "Buffs stamina use reduced",
-      "description": "none",
+      "name": "Buffs stamina use reduced | 增益·耐力消耗减少",
       "type": "checkbox",
       "memory": [
         {
@@ -640,8 +600,7 @@
       ]
     },
     {
-      "name": "Buffs elemental",
-      "description": "not sure what is this",
+      "name": "Buffs elemental | 增益·属性值",
       "type": "checkbox",
       "memory": [
         {
@@ -657,8 +616,7 @@
       ]
     },
     {
-      "name": "Buffs status buildup",
-      "description": "none",
+      "name": "Buffs status buildup | 增益·状态异常积蓄",
       "type": "checkbox",
       "memory": [
         {
@@ -674,8 +632,7 @@
       ]
     },
     {
-      "name": "Buffs knockback",
-      "description": "none",
+      "name": "Buffs knockback | 增益·击退无效",
       "type": "checkbox",
       "memory": [
         {
@@ -691,8 +648,7 @@
       ]
     },
     {
-      "name": "Buffs immunity",
-      "description": "none",
+      "name": "Buffs immunity | 增益·免疫",
       "type": "checkbox",
       "memory": [
         {
@@ -708,8 +664,7 @@
       ]
     },
     {
-      "name": "Buffs natural healing up",
-      "description": "none",
+      "name": "Buffs natural healing up | 增益·自然回复提升",
       "type": "checkbox",
       "memory": [
         {
@@ -725,8 +680,7 @@
       ]
     },
     {
-      "name": "Debuffs less stun timer",
-      "description": "none",
+      "name": "Debuffs less stun timer | 减益·眩晕时间缩短",
       "type": "checkbox",
       "memory": [
         {
@@ -737,8 +691,7 @@
       ]
     },
     {
-      "name": "Debuffs iceblight disable",
-      "description": "none",
+      "name": "Debuffs iceblight disable | 减益·冰封无效",
       "type": "checkbox",
       "memory": [
         {
@@ -754,8 +707,7 @@
       ]
     },
     {
-      "name": "Debuffs poison disable",
-      "description": "none",
+      "name": "Debuffs poison disable | 减益·中毒无效",
       "type": "checkbox",
       "memory": [
         {
@@ -766,8 +718,7 @@
       ]
     },
     {
-      "name": "Debuffs bleed disabled",
-      "description": "none",
+      "name": "Debuffs bleed disabled | 减益·裂伤无效",
       "type": "checkbox",
       "memory": [
         {
@@ -783,8 +734,7 @@
       ]
     },
     {
-      "name": "Debuffs Frenzy1 disabled",
-      "description": "none",
+      "name": "Debuffs Frenzy1 disabled | 减益·狂龙症1无效",
       "type": "checkbox",
       "memory": [
         {
@@ -800,8 +750,7 @@
       ]
     },
     {
-      "name": "Debuffs Frenzy2 disabled",
-      "description": "none",
+      "name": "Debuffs Frenzy2 disabled | 减益·狂龙症2无效",
       "type": "checkbox",
       "memory": [
         {

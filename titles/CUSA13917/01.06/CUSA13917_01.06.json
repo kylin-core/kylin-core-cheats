@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Endurance",
+      "name": "Infinite Endurance | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Breath",
+      "name": "Infinite Breath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Ammo/Medkits/Resources/Ethanol On Use",
+      "name": "Max/Infinite Ammo/Medkits/Resources/Ethanol On Use | 使用后弹药/医疗包/资源/乙醇最大/无限",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Lot Of Perk Points On Use",
+      "name": "Lot Of Perk Points On Use | 使用后大量技能点",
       "type": "checkbox",
       "memory": [
         {

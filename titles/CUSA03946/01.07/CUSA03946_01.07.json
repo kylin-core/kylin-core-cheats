@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Infinite Health",
+      "name": "Max Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Infinite Cash",
+      "name": "Max Infinite Cash | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Skill Points (Deactivate After Get)",
+      "name": "Max Skill Points (Deactivate After Get) | 无限技能点（获取后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip/No Reload",
+      "name": "Bottomless Clip/No Reload | 无限弹匣/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Lock Resources (Sell, Deactivate, Buy Back)",
+      "name": "Lock Resources (Sell, Deactivate, Buy Back) | 锁定资源（出售、关闭、回购）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite UV Light",
+      "name": "Infinite UV Light | 无限紫外线灯",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Infinite Grappling Hook Stamina",
+      "name": "Infinite Grappling Hook Stamina | 无限钩爪体力",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability And Buggy Components",
+      "name": "Infinite Weapon Durability And Buggy Components | 无限武器耐久与越野车部件",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Infinite NOS (The Following Only)",
+      "name": "Infinite NOS (The Following Only) | 无限氮气（仅追随模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Infinite Fuel (The Following Only)",
+      "name": "Infinite Fuel (The Following Only) | 无限燃料（仅追随模式）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "default_mp.elf",
   "mods": [
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 所有客户端无敌",
       "type": "checkbox",
       "memory": [
         {

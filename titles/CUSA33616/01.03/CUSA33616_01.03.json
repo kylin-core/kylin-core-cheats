@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code",
+      "name": "Master Code | 主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health (MC)",
+      "name": "Infinite Health (MC) | 无限生命 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Health 9999 (MC)",
+      "name": "Max Health 9999 (MC) | 最大生命9999 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Dash",
+      "name": "Infinite Dash | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Doesnt Detect / Invincible",
+      "name": "Doesnt Detect / Invincible | 不被察觉/无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Drone View x1000",
+      "name": "Drone View x1000 | 无人机视角x1000",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Drone View x10000",
+      "name": "Drone View x10000 | 无人机视角x10000",
       "type": "checkbox",
       "memory": [
         {

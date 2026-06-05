@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Studs on Gain",
+      "name": "Max Studs on Gain | 获得最大螺丝",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Instant Max Combo",
+      "name": "Instant Max Combo | 瞬间满连击",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "x2 Combo",
+      "name": "x2 Combo | 2倍连击",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "x4 Combo",
+      "name": "x4 Combo | 4倍连击",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "x8 Combo",
+      "name": "x8 Combo | 8倍连击",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill ( Dont use on Boss and Item )",
+      "name": "One Hit Kill ( Dont use on Boss and Item ) | 一击必杀（请勿对Boss和物品使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Blue Orbs ( Shop - on buy )",
+      "name": "Max Blue Orbs ( Shop - on buy ) | 最大蓝色能量球（商店 - 购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Macrons ( Shop - on buy )",
+      "name": "Max Macrons ( Shop - on buy ) | 最大马卡龙（商店 - 购买时）",
       "type": "checkbox",
       "memory": [
         {

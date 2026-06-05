@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atomic Heart" Moder="Wander FW9.00 " Cusa="CUSA37321" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>715F920</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Resource (on pick up)">
+    <Cheat Text="Max Resource (on pick up) | 拾取时资源最大化">
         <Cheatline>
             <Offset>715F850</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9999 Neuropolymer (Only when upgrading)">
+    <Cheat Text="9999 Neuropolymer (Only when upgrading) | 升级时神经聚合物9999">
         <Cheatline>
             <Offset>715FBD0</Offset>
             <Section>0</Section>

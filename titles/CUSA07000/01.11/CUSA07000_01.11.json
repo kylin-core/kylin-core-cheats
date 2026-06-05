@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Crystal Multiplier (on gain have 2)",
+      "name": "Crystal Multiplier (on gain have 2) | 晶体倍数获得（获得时翻倍）",
       "type": "checkbox",
       "memory": [
         {

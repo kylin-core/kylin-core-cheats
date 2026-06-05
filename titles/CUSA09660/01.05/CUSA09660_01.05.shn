@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="YAKUZA 6: The Song of Life" Moder="Weysincha" Cusa="CUSA09660" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>AC236B</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-89-90-70-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gauge">
+    <Cheat Text="Infinite Gauge | 无限气槽">
         <Cheatline>
             <Offset>AB2D00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-80-80-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>DAA1C3</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-89-69-F4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money / Skillpoints">
+    <Cheat Text="Max Money / Skillpoints | 最大金钱/技能点">
         <Cheatline>
             <Offset>DA8F1E</Offset>
             <Section>0</Section>

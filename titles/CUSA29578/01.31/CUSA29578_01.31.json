@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "infinite Job points (On use)",
+      "name": "infinite Job points (On use) | 无限职业点数（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite item use",
+      "name": "Infinite item use | 无限道具使用",
       "type": "checkbox",
       "memory": [
         {

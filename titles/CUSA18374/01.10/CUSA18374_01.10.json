@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health (Dont Use With 1 Hit)",
+      "name": "Inf Health (Dont Use With 1 Hit) | 无限生命（请勿与一击必杀同用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health / 1 Hit Kill",
+      "name": "Inf Health / 1 Hit Kill | 无限生命 / 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf SP",
+      "name": "Inf SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {

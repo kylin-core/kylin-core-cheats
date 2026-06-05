@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 3" Moder="Celogamez" Cusa="CUSA14168" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>17A863C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-5F-86-AD-FE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>7153B80</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1F02BB3</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-51-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload/Infinite Granades">
+    <Cheat Text="No Reload/Infinite Granades | 无需装弹/无限手雷">
         <Cheatline>
             <Offset>1E9599A</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-51-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items on move from Storage">
+    <Cheat Text="Max Items on move from Storage | 从仓库取出物品最大化">
         <Cheatline>
             <Offset>1E96211</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-0F-4E-E8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="20 Inventory Slot">
+    <Cheat Text="20 Inventory Slot | 20格物品栏">
         <Cheatline>
             <Offset>7153B00</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Save Always At 0">
+    <Cheat Text="Save Always At 0 | 始终在0时存档">
         <Cheatline>
             <Offset>7153AE0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Time (Enable/Disable)">
+    <Cheat Text="Reset Time (Enable/Disable) | 重置时间（启用/禁用）">
         <Cheatline>
             <Offset>7153BD0</Offset>
             <Section>0</Section>

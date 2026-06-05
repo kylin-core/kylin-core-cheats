@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SWORD ART ONLINE Re: Hollow Fragment" Moder="Wander FW9.00" Cusa="CUSA02560" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code">
+    <Cheat Text="Master Code | 主代码">
         <Cheatline>
             <Offset>7FE373D0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>B73D9</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-B7-64-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience (on the second moster kill)">
+    <Cheat Text="Max Experience (on the second moster kill) | 最高经验（击杀第二只怪物时）">
         <Cheatline>
             <Offset>7FC4F2B0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max col (on buy and sell exit shop and return)">
+    <Cheat Text="Max col (on buy and sell exit shop and return) | 最大柯尔（进出商店买卖后返回时）">
         <Cheatline>
             <Offset>7FE37450</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite items (on use) (deactivate when buying items)">
+    <Cheat Text="Infinite items (on use) (deactivate when buying items) | 无限道具（使用时激活，购买道具时停用）">
         <Cheatline>
             <Offset>2C3542</Offset>
             <Section>0</Section>

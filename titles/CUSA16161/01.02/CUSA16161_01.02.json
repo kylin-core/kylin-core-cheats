@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( Weapon right )",
+      "name": "Max Ammo ( Weapon right ) | 最大弹药（武器右侧）",
       "type": "checkbox",
       "memory": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( Weapon up )",
+      "name": "Max Ammo ( Weapon up ) | 最大弹药（武器上侧）",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( Weapon down )",
+      "name": "Max Ammo ( Weapon down ) | 最大弹药（武器下侧）",
       "type": "checkbox",
       "memory": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Max Grenades",
+      "name": "Max Grenades | 最大手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "name": "Max EMP Grenades",
+      "name": "Max EMP Grenades | 最大EMP手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Max Total Score ( after Level finished )",
+      "name": "Max Total Score ( after Level finished ) | 最高总分（关卡结束后）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Health ( must be activated )",
+      "name": "Mastercode Health ( must be activated ) | 主码生命（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health [MC]",
+      "name": "Infinite Health [MC] | 无限生命 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [MC]",
+      "name": "One Hit Kill [MC] | 一击必杀 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max Tech - Scrap",
+      "name": "Max Tech - Scrap | 最大科技碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max Ammo ( on gain )",
+      "name": "Max Ammo ( on gain ) | 最大弹药（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Inventory",
+      "name": "Max Inventory | 最大库存",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max Items ( on use )",
+      "name": "Max Items ( on use ) | 最大物品（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Freeze Timer ( Collect Tech - Scrap )",
+      "name": "Freeze Timer ( Collect Tech - Scrap ) | 冻结计时器（收集科技碎片）",
       "type": "checkbox",
       "memory": [
         {

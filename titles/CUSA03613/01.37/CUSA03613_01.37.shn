@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Fallout 4 Game of the Year Edition" Moder="Pharaoh2k" Cusa="CUSA03613" Version="01.37" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>228EFC0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Switch (Must be enabled first)">
+    <Cheat Text="Master Switch (Must be enabled first) | 主开关（必须先启用）">
         <Cheatline>
             <Offset>228F000</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---God Mode  (Req. MS)">
+    <Cheat Text="---God Mode  (Req. MS) | ---上帝模式（需主开关）">
         <Cheatline>
             <Offset>228F10D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---Infinite Health (Req. MS)">
+    <Cheat Text="---Infinite Health (Req. MS) | ---无限生命（需主开关）">
         <Cheatline>
             <Offset>228F111</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---Infinite AP-Stamina (Req. MS)">
+    <Cheat Text="---Infinite AP-Stamina (Req. MS) | ---无限行动力-体力（需主开关）">
         <Cheatline>
             <Offset>228F115</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---No Radiation (Req. MS)">
+    <Cheat Text="---No Radiation (Req. MS) | ---无辐射（需主开关）">
         <Cheatline>
             <Offset>228F119</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---One Hit Kill (Req. MS)">
+    <Cheat Text="---One Hit Kill (Req. MS) | ---一击必杀（需主开关）">
         <Cheatline>
             <Offset>228F11D</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>228F400</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Power Armor Core Power">
+    <Cheat Text="Infinite Power Armor Core Power | 无限动力装甲核心能量">
         <Cheatline>
             <Offset>228F130</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Weight Limit">
+    <Cheat Text="No Weight Limit | 无负重限制">
         <Cheatline>
             <Offset>118106</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>41-8B-44-24-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth Mode">
+    <Cheat Text="Stealth Mode | 隐身模式">
         <Cheatline>
             <Offset>B43F37</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C5-F2-59-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Lock Picking">
+    <Cheat Text="Instant Lock Picking | 瞬间开锁">
         <Cheatline>
             <Offset>D70115</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Terminal Hacking (PWNed)">
+    <Cheat Text="Easy Terminal Hacking (PWNed) | 简易终端破解（已破解）">
         <Cheatline>
             <Offset>88266A</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>0F-85-39-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Hacking Attempts">
+    <Cheat Text="Infinite Hacking Attempts | 无限破解尝试次数">
         <Cheatline>
             <Offset>88265C</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload - Bottomless clip">
+    <Cheat Text="No Reload - Bottomless clip | 无需装弹 - 无限弹匣">
         <Cheatline>
             <Offset>A2A554</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>2B-4D-B8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Accuracy">
+    <Cheat Text="Max Accuracy | 最大精准度">
         <Cheatline>
             <Offset>228F150</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Recoil">
+    <Cheat Text="No Recoil | 无后坐力">
         <Cheatline>
             <Offset>228F190</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Weapon Spin-up">
+    <Cheat Text="No Weapon Spin-up | 无需武器预热">
         <Cheatline>
             <Offset>92203B</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>8B-B6-10-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Manual Weapon Rapid Fire">
+    <Cheat Text="Manual Weapon Rapid Fire | 手动武器连发">
         <Cheatline>
             <Offset>B32E48</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>C5-FA-5F-C2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Small Arms Fully Automatic">
+    <Cheat Text="Small Arms Fully Automatic | 小型武器全自动">
         <Cheatline>
             <Offset>228F450</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items and Ammo On Use or Gain">
+    <Cheat Text="Max Items and Ammo On Use or Gain | 使用或获取时最大化物品和弹药">
         <Cheatline>
             <Offset>115A93</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>8B-4F-0C-01-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>228F290</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2.5 Jump Multiplier">
+    <Cheat Text="---x2.5 Jump Multiplier | ---2.5倍跳跃倍数">
         <Cheatline>
             <Offset>228F2AF</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x5 Jump Multiplier">
+    <Cheat Text="---x5 Jump Multiplier | ---5倍跳跃倍数">
         <Cheatline>
             <Offset>228F2AF</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x10 Jump Multiplier">
+    <Cheat Text="---x10 Jump Multiplier | ---10倍跳跃倍数">
         <Cheatline>
             <Offset>228F2AF</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x20 Jump Multiplier">
+    <Cheat Text="---x20 Jump Multiplier | ---20倍跳跃倍数">
         <Cheatline>
             <Offset>228F2AF</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Game Speed">
+    <Cheat Text="Set Game Speed | 设置游戏速度">
         <Cheatline>
             <Offset>228EFC4</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.1 Speed Multiplier">
+    <Cheat Text="---x0.1 Speed Multiplier | ---0.1倍速度倍数">
         <Cheatline>
             <Offset>1CBF540</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>6F-12-83-3A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.5 Speed Multiplier">
+    <Cheat Text="---x0.5 Speed Multiplier | ---0.5倍速度倍数">
         <Cheatline>
             <Offset>1CBF540</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>6F-12-83-3A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x1.5 Speed Multiplier">
+    <Cheat Text="---x1.5 Speed Multiplier | ---1.5倍速度倍数">
         <Cheatline>
             <Offset>1CBF540</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>6F-12-83-3A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Speed Multiplier">
+    <Cheat Text="---x2 Speed Multiplier | ---2倍速度倍数">
         <Cheatline>
             <Offset>1CBF540</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>6F-12-83-3A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2.5 Speed Multiplier">
+    <Cheat Text="---x2.5 Speed Multiplier | ---2.5倍速度倍数">
         <Cheatline>
             <Offset>1CBF540</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>6F-12-83-3A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x3 Speed Multiplier">
+    <Cheat Text="---x3 Speed Multiplier | ---3倍速度倍数">
         <Cheatline>
             <Offset>1CBF540</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>6F-12-83-3A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Game Speed (Including Speech)">
+    <Cheat Text="Set Game Speed (Including Speech) | 设置游戏速度（包含对话）">
         <Cheatline>
             <Offset>228F500</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.1 Speed Multiplier">
+    <Cheat Text="---x0.1 Speed Multiplier | ---0.1倍速度倍数">
         <Cheatline>
             <Offset>228F517</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.5 Speed Multiplier">
+    <Cheat Text="---x0.5 Speed Multiplier | ---0.5倍速度倍数">
         <Cheatline>
             <Offset>228F517</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x1.5 Speed Multiplier">
+    <Cheat Text="---x1.5 Speed Multiplier | ---1.5倍速度倍数">
         <Cheatline>
             <Offset>228F517</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Speed Multiplier">
+    <Cheat Text="---x2 Speed Multiplier | ---2倍速度倍数">
         <Cheatline>
             <Offset>228F517</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2.5 Speed Multiplier">
+    <Cheat Text="---x2.5 Speed Multiplier | ---2.5倍速度倍数">
         <Cheatline>
             <Offset>228F517</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x3 Speed Multiplier">
+    <Cheat Text="---x3 Speed Multiplier | ---3倍速度倍数">
         <Cheatline>
             <Offset>228F517</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Time of Day">
+    <Cheat Text="Set Time of Day | 设定时间">
         <Cheatline>
             <Offset>228F350</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---12pm">
+    <Cheat Text="---12pm | ---正午12点">
         <Cheatline>
             <Offset>228F362</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>00-00-00-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---6pm">
+    <Cheat Text="---6pm | ---下午6点">
         <Cheatline>
             <Offset>228F362</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>00-00-00-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---12am">
+    <Cheat Text="---12am | ---午夜12点">
         <Cheatline>
             <Offset>228F362</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>00-00-00-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---6am">
+    <Cheat Text="---6am | ---上午6点">
         <Cheatline>
             <Offset>228F362</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>00-00-00-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bottle Caps On Trade">
+    <Cheat Text="Max Bottle Caps On Trade | 交易时最大化瓶盖">
         <Cheatline>
             <Offset>228F300</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="70 Perk Points On Game Start (OTU)">
+    <Cheat Text="70 Perk Points On Game Start (OTU) | 游戏开始时获得70点技能点（一次性）">
         <Cheatline>
             <Offset>228F1C0</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignore Perk Points Requirements">
+    <Cheat Text="Ignore Perk Points Requirements | 忽略技能点需求">
         <Cheatline>
             <Offset>80F208</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>74-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Perk Points Upgrade Requirements">
+    <Cheat Text="Infinite Perk Points Upgrade Requirements | 无限技能点升级需求">
         <Cheatline>
             <Offset>ADF2E4</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>FE-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP and Level (OTU)">
+    <Cheat Text="Max XP and Level (OTU) | 最大经验值和等级（一次性）">
         <Cheatline>
             <Offset>228F200</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Crafting Stock">
+    <Cheat Text="Max Crafting Stock | 最大化制造库存">
         <Cheatline>
             <Offset>228F250</Offset>
             <Section>0</Section>
@@ -413,7 +413,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Minimum Building Requirement">
+    <Cheat Text="Minimum Building Requirement | 最小建筑需求">
         <Cheatline>
             <Offset>228F270</Offset>
             <Section>0</Section>

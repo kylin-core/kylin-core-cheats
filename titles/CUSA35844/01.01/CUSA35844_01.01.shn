@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Jujutsu Kaisen Cursed Clash" Moder="Wander FW9.00" Cusa="CUSA35844" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>57D7BF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Juju Points (on buyig)">
+    <Cheat Text="Max Juju Points (on buyig) | 最大咒点（购买时）">
         <Cheatline>
             <Offset>57D7910</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Timer">
+    <Cheat Text="Infinite Timer | 无限时间">
         <Cheatline>
             <Offset>57D7CB0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Sprinting">
+    <Cheat Text="Infinite Sprinting | 无限冲刺">
         <Cheatline>
             <Offset>57D7B90</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Cursed spirit technique Bar ">
+    <Cheat Text="Max Cursed spirit technique Bar | 最大咒术槽">
         <Cheatline>
             <Offset>57D7D40</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Cursed Technique use ">
+    <Cheat Text="Infinite Cursed Technique use | 无限咒术使用">
         <Cheatline>
             <Offset>57D7AD0</Offset>
             <Section>0</Section>

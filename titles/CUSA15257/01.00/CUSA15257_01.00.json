@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "4903DD",
           "on": "909090",
           "off": "895328"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Tears Gauge",
+      "name": "Infinite Tears Gauge | 无限泪槽",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Money On Gain",
+      "name": "Max Money On Gain | 获得金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -65,11 +64,10 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "58166B",
           "on": "9090909090",
           "off": "E9B3F91081"
@@ -77,11 +75,10 @@
       ]
     },
     {
-      "name": "Infinite Items on Use",
+      "name": "Infinite Items on Use | 使用道具无限",
       "type": "checkbox",
       "memory": [
         {
-          "section": "15",
           "offset": "454FC0",
           "on": "909090",
           "off": "895018"
@@ -89,7 +86,7 @@
       ]
     },
     {
-      "name": "Max Items On Buy",
+      "name": "Max Items On Buy | 购买道具最大",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +102,7 @@
       ]
     },
     {
-      "name": "1 Hit = 50 Chain  | Unlocks Impulse Trophy",
+      "name": "1 Hit = 50 Chain  | Unlocks Impulse Trophy | 一击50连击 解锁冲动奖杯",
       "type": "checkbox",
       "memory": [
         {
@@ -121,7 +118,7 @@
       ]
     },
     {
-      "name": "1 Hit = 100 Chain| Unlocks Unending Impulse",
+      "name": "1 Hit = 100 Chain| Unlocks Unending Impulse | 一击100连击 解锁无尽冲动",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +134,7 @@
       ]
     },
     {
-      "name": "1 Hit = 200 Chain| Unlocks Wild Impulse",
+      "name": "1 Hit = 200 Chain| Unlocks Wild Impulse | 一击200连击 解锁狂暴冲动",
       "type": "checkbox",
       "memory": [
         {
@@ -153,7 +150,7 @@
       ]
     },
     {
-      "name": "Max Chain Hit",
+      "name": "Max Chain Hit | 最大连击数",
       "type": "checkbox",
       "memory": [
         {
@@ -169,7 +166,7 @@
       ]
     },
     {
-      "name": "Boost EXP| 50 Per Kill",
+      "name": "Boost EXP| 50 Per Kill | 经验加成 每击杀50",
       "type": "checkbox",
       "memory": [
         {
@@ -185,7 +182,7 @@
       ]
     },
     {
-      "name": "Extra EXP| 150 Per Kill",
+      "name": "Extra EXP| 150 Per Kill | 额外经验 每击杀150",
       "type": "checkbox",
       "memory": [
         {
@@ -201,7 +198,7 @@
       ]
     },
     {
-      "name": "Even More EXP| 400 Per Kill",
+      "name": "Even More EXP| 400 Per Kill | 更多经验 每击杀400",
       "type": "checkbox",
       "memory": [
         {
@@ -217,7 +214,7 @@
       ]
     },
     {
-      "name": "Lots Of EXP| 2000 Per Kill",
+      "name": "Lots Of EXP| 2000 Per Kill | 大量经验 每击杀2000",
       "type": "checkbox",
       "memory": [
         {
@@ -233,7 +230,7 @@
       ]
     },
     {
-      "name": "Hella EXP| 25000 Per Kill",
+      "name": "Hella EXP| 25000 Per Kill | 海量经验 每击杀25000",
       "type": "checkbox",
       "memory": [
         {
@@ -249,7 +246,7 @@
       ]
     },
     {
-      "name": "EXP OVERLORD| 1 Kill Max Level",
+      "name": "EXP OVERLORD| 1 Kill Max Level | 经验霸主 一击满级",
       "type": "checkbox",
       "memory": [
         {
@@ -265,7 +262,7 @@
       ]
     },
     {
-      "name": "Splendor Master| Enhanced ATK",
+      "name": "Splendor Master| Enhanced ATK | 辉煌大师 强化攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -281,7 +278,7 @@
       ]
     },
     {
-      "name": "Falconer| Powerful ATK",
+      "name": "Falconer| Powerful ATK | 猎鹰者 强力攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -297,7 +294,7 @@
       ]
     },
     {
-      "name": "Kendo Master| Double ATK",
+      "name": "Kendo Master| Double ATK | 剑道大师 双倍攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -313,7 +310,7 @@
       ]
     },
     {
-      "name": "Shaolin Master| Supreme ATK",
+      "name": "Shaolin Master| Supreme ATK | 少林大师 超强攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -329,7 +326,7 @@
       ]
     },
     {
-      "name": "Plastic Slipper| Max ATK",
+      "name": "Plastic Slipper| Max ATK | 塑料拖鞋 最大攻击",
       "type": "checkbox",
       "memory": [
         {

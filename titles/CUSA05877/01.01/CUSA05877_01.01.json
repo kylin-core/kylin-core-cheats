@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Main Hero)",
+      "name": "Infinite Health (Main Hero) | 无限生命（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限精神值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Experience (main hero)",
+      "name": "Max Experience (main hero) | 最大经验值（主角）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Items x90 (On use/get/buy)",
+      "name": "Items x90 (On use/get/buy) | 道具×90（使用/获得/购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Yen (on buy)",
+      "name": "Max Yen (on buy) | 最大金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {

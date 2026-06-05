@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Skyrim: The Elder Scrolls V" Moder="Mrpc85" Cusa="CUSA05486" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health/Stamina/Magic">
+    <Cheat Text="Infinite Health/Stamina/Magic | 无限生命/体力/魔法">
         <Cheatline>
             <Offset>7988D5</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-04-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金币">
         <Cheatline>
             <Offset>13CFBF</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-29-46-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Duplicate Money When Used">
+    <Cheat Text="Duplicate Money When Used | 使用时复制金钱">
         <Cheatline>
             <Offset>13CFBF</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-29-46-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buy To Earn Money">
+    <Cheat Text="Buy To Earn Money | 购买即赚钱">
         <Cheatline>
             <Offset>B86DC9</Offset>
             <Section>0</Section>

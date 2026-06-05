@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinte HP + Invisible (pick ancient potion)",
-      "description": "use ancient potion then ready your ancient potion from item bar, you will be invisible",
+      "name": "Infinte HP + Invisible (pick ancient potion) | 无限生命+隐身（捡上古药剂）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "description": "none",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Item ID modifier",
-      "description": "Master Code Item ID / go to item box then sell item tab and move any item into free space inventory slot",
+      "name": "Item ID modifier | 物品ID修改器",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Increase Item ID",
-      "description": "need MC Item ID",
+      "name": "Increase Item ID | 增加物品ID",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Decrease Item ID",
-      "description": "need MC Item ID",
+      "name": "Decrease Item ID | 减少物品ID",
       "type": "checkbox",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "99 Inventory items",
-      "description": "go to item box then sell tab and go to any free space inventory slot then move / rearranged (square button) the item from there, vice versa of item id modifier",
+      "name": "99 Inventory items | 背包物品99个",
       "type": "checkbox",
       "memory": [
         {
@@ -87,8 +81,7 @@
       ]
     },
     {
-      "name": "x5 Item in Pouch",
-      "description": "none",
+      "name": "x5 Item in Pouch | 道具袋物品5倍",
       "type": "checkbox",
       "memory": [
         {
@@ -104,8 +97,7 @@
       ]
     },
     {
-      "name": "Sharpness",
-      "description": "none",
+      "name": "Sharpness | 锋利度",
       "type": "checkbox",
       "memory": [
         {
@@ -116,8 +108,7 @@
       ]
     },
     {
-      "name": "Easy Capture and Kill All instantly",
-      "description": "Master Code CapKILL",
+      "name": "Easy Capture and Kill All instantly | 简单捕获和秒杀全部",
       "type": "checkbox",
       "memory": [
         {
@@ -133,8 +124,7 @@
       ]
     },
     {
-      "name": "Easy Capture",
-      "description": "need MC CapKILL",
+      "name": "Easy Capture | 简单捕获",
       "type": "checkbox",
       "memory": [
         {
@@ -145,8 +135,7 @@
       ]
     },
     {
-      "name": "Kill All",
-      "description": "need MC CapKILL",
+      "name": "Kill All | 秒杀全部",
       "type": "checkbox",
       "memory": [
         {
@@ -157,8 +146,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
-      "description": "none",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -174,8 +162,7 @@
       ]
     },
     {
-      "name": "Max Spirit Blade Gauge (Longsword)",
-      "description": "none",
+      "name": "Max Spirit Blade Gauge (Longsword) | 气刃槽满（太刀）",
       "type": "checkbox",
       "memory": [
         {
@@ -191,8 +178,7 @@
       ]
     },
     {
-      "name": "Level 3 Spirit Gauge (Longsword)",
-      "description": "none",
+      "name": "Level 3 Spirit Gauge (Longsword) | 三级气刃槽（太刀）",
       "type": "checkbox",
       "memory": [
         {
@@ -208,8 +194,7 @@
       ]
     },
     {
-      "name": "Max Demon Gauge (Dual Blade)",
-      "description": "none",
+      "name": "Max Demon Gauge (Dual Blade) | 鬼人槽满（双刀）",
       "type": "checkbox",
       "memory": [
         {
@@ -220,8 +205,7 @@
       ]
     },
     {
-      "name": "Demon Gauge Timer Disabled (Dual Blade)",
-      "description": "none",
+      "name": "Demon Gauge Timer Disabled (Dual Blade) | 鬼人槽计时停止（双刀）",
       "type": "checkbox",
       "memory": [
         {
@@ -232,8 +216,7 @@
       ]
     },
     {
-      "name": "Fast Charge (GreatSword)",
-      "description": "none",
+      "name": "Fast Charge (GreatSword) | 快速蓄力（大剑）",
       "type": "checkbox",
       "memory": [
         {
@@ -249,8 +232,7 @@
       ]
     },
     {
-      "name": "Switch Gauge (Switch Axe)",
-      "description": "none",
+      "name": "Switch Gauge (Switch Axe) | 切换槽（斩斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -266,8 +248,7 @@
       ]
     },
     {
-      "name": "Ampede State (Switch Axe)",
-      "description": "none",
+      "name": "Ampede State (Switch Axe) | 高出力状态（斩斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -278,8 +259,7 @@
       ]
     },
     {
-      "name": "Gunlance Shell (Gunlance)",
-      "description": "none",
+      "name": "Gunlance Shell (Gunlance) | 铳枪炮弹（铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -290,8 +270,7 @@
       ]
     },
     {
-      "name": "Gunlance Max Shell",
-      "description": "use a shell or shell reload then turn off this cheat after. max of 5 shell",
+      "name": "Gunlance Max Shell | 铳枪最大弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -302,8 +281,7 @@
       ]
     },
     {
-      "name": "Infinite Wyrmstake Cannon (Gunlance) ",
-      "description": "none",
+      "name": "Infinite Wyrmstake Cannon (Gunlance) | 无限龙击炮（铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -314,8 +292,7 @@
       ]
     },
     {
-      "name": "Instant Wyrmstake Blast (Gunlance)",
-      "description": "none",
+      "name": "Instant Wyrmstake Blast (Gunlance) | 瞬间龙击炮爆炸（铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -331,8 +308,7 @@
       ]
     },
     {
-      "name": "Instant Wyrmstake shot (Gunlance)",
-      "description": "none",
+      "name": "Instant Wyrmstake shot (Gunlance) | 瞬间龙击炮射击（铳枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -343,8 +319,7 @@
       ]
     },
     {
-      "name": "Max Phial (Charge Blade)",
-      "description": "none",
+      "name": "Max Phial (Charge Blade) | 全瓶满（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -360,8 +335,7 @@
       ]
     },
     {
-      "name": "Sword Block Attacks Disabled (Charge Blade)",
-      "description": "this is effective when Charge Gauge is in full energy",
+      "name": "Sword Block Attacks Disabled (Charge Blade) | 剑格挡无效（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -372,8 +346,7 @@
       ]
     },
     {
-      "name": "Charge Gauge Disabled (Charge Blade)",
-      "description": "none",
+      "name": "Charge Gauge Disabled (Charge Blade) | 蓄力槽禁用（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -384,8 +357,7 @@
       ]
     },
     {
-      "name": "Fast Charge Rising Slash (Charge Blade)",
-      "description": "sword attack: Rising Slash can be released for 0.5 sec does not effect if pressed too long",
+      "name": "Fast Charge Rising Slash (Charge Blade) | 快速蓄力上斩（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -396,8 +368,7 @@
       ]
     },
     {
-      "name": "Power Axe Mode (Charge Blade)",
-      "description": "this needs 1 or more phial to work",
+      "name": "Power Axe Mode (Charge Blade) | 高出力斧模式（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -413,8 +384,7 @@
       ]
     },
     {
-      "name": "Element Boost (Charge Blade)",
-      "description": "none",
+      "name": "Element Boost (Charge Blade) | 属性强化（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -430,8 +400,7 @@
       ]
     },
     {
-      "name": "Element Slash (Charge Blade)",
-      "description": "none",
+      "name": "Element Slash (Charge Blade) | 属性斩击（充能斧）",
       "type": "checkbox",
       "memory": [
         {
@@ -447,8 +416,7 @@
       ]
     },
     {
-      "name": "Kinsect Stamina (Insect Glaive)",
-      "description": "none",
+      "name": "Kinsect Stamina (Insect Glaive) | 猎虫耐力（操虫棍）",
       "type": "checkbox",
       "memory": [
         {
@@ -459,8 +427,7 @@
       ]
     },
     {
-      "name": "Extract Effects (Insect Glaive)",
-      "description": "none",
+      "name": "Extract Effects (Insect Glaive) | 萃取效果（操虫棍）",
       "type": "checkbox",
       "memory": [
         {
@@ -476,8 +443,7 @@
       ]
     },
     {
-      "name": "Affinity",
-      "description": "requires affinity buffs to work",
+      "name": "Affinity | 会心率",
       "type": "checkbox",
       "memory": [
         {
@@ -488,8 +454,7 @@
       ]
     },
     {
-      "name": "Affinity Buffs",
-      "description": "none",
+      "name": "Affinity Buffs | 会心加成",
       "type": "checkbox",
       "memory": [
         {
@@ -505,8 +470,7 @@
       ]
     },
     {
-      "name": "Defence",
-      "description": "none",
+      "name": "Defence | 防御力",
       "type": "checkbox",
       "memory": [
         {
@@ -522,8 +486,7 @@
       ]
     },
     {
-      "name": "Quest Timer",
-      "description": "none",
+      "name": "Quest Timer | 任务计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -534,8 +497,7 @@
       ]
     },
     {
-      "name": "Infinite Specialized Tools",
-      "description": "none",
+      "name": "Infinite Specialized Tools | 无限特殊装备",
       "type": "checkbox",
       "memory": [
         {
@@ -551,8 +513,7 @@
       ]
     },
     {
-      "name": "Disable Poison",
-      "description": "none",
+      "name": "Disable Poison | 解除毒状态",
       "type": "checkbox",
       "memory": [
         {
@@ -563,8 +524,7 @@
       ]
     },
     {
-      "name": "All Status Buffs",
-      "description": "180 sec",
+      "name": "All Status Buffs | 全状态强化",
       "type": "checkbox",
       "memory": [
         {
@@ -580,8 +540,7 @@
       ]
     },
     {
-      "name": "Natural Fuel steamworks",
-      "description": "none",
+      "name": "Natural Fuel steamworks | 自然燃料（蒸汽机）",
       "type": "checkbox",
       "memory": [
         {
@@ -597,8 +556,7 @@
       ]
     },
     {
-      "name": "Stored Fuel steamworks",
-      "description": "none",
+      "name": "Stored Fuel steamworks | 存储燃料（蒸汽机）",
       "type": "checkbox",
       "memory": [
         {

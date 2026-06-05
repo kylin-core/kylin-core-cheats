@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP 1",
+      "name": "Infinite HP 1 | 无限生命 1",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite HP 2 (Only Enable If 1 Not Work)",
+      "name": "Infinite HP 2 (Only Enable If 1 Not Work) | 无限生命 2（仅在1无效时启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo+No Reload",
+      "name": "Infinite Ammo+No Reload | 无限弹药+无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Money+Items",
+      "name": "Infinite Money+Items | 无限金钱+物品",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Consumable Items",
+      "name": "Infinite Consumable Items | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {

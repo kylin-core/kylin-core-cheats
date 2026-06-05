@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="River City Girls Zero" Moder="Saso" Cusa="CUSA29772" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP / 1 Hit Kill (Master Code)">
+    <Cheat Text="Inf HP / 1 Hit Kill (Master Code) | 无限生命/一击必杀（主代码）">
         <Cheatline>
             <Offset>60F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kunio (MC)">
+    <Cheat Text="Kunio (MC) | 国夫（主控）">
         <Cheatline>
             <Offset>60F810</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>74-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Riki (MC)">
+    <Cheat Text="Riki (MC) | 力（主控）">
         <Cheatline>
             <Offset>60F818</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>74-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Misako (MC)">
+    <Cheat Text="Misako (MC) | 美沙子（主控）">
         <Cheatline>
             <Offset>60F820</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>74-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kyoko (MC)">
+    <Cheat Text="Kyoko (MC) | 京子（主控）">
         <Cheatline>
             <Offset>60F828</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>74-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (MC)">
+    <Cheat Text="1 Hit Kill (MC) | 一击必杀（主控）">
         <Cheatline>
             <Offset>60F82A</Offset>
             <Section>0</Section>

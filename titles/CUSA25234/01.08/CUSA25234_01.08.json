@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health / Stamina (Master Code)",
+      "name": "Infinite Health / Stamina (Master Code) | 无限生命/耐力（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Ability / Easy Kill (Master Code)",
+      "name": "Ability / Easy Kill (Master Code) | 技能/秒杀（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Max Resorce (On Spend)",
+      "name": "Max Resorce (On Spend) | 资源最大化（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Max Fate Points",
+      "name": "Max Fate Points | 命运点数最大",
       "type": "checkbox",
       "memory": [
         {

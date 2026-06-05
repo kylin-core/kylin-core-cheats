@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Remnant: From the Ashes" Moder="GamerX2" Cusa="CUSA18442" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>95C90A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-F7-DE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Materials">
+    <Cheat Text="Infinite Materials | 无限材料">
         <Cheatline>
             <Offset>94A962</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-7A-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金币">
         <Cheatline>
             <Offset>94A798</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items ">
+    <Cheat Text="Infinite Items | 无限物品">
         <Cheatline>
             <Offset>93F992</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-70-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Blindcore Difficulty|Remove Info+Count for Ammo, Items, everything!">
+    <Cheat Text="Blindcore Difficulty|Remove Info+Count for Ammo, Items, everything! | 盲核难度|移除弹药、物品等所有信息与计数">
         <Cheatline>
             <Offset>13BEC0C</Offset>
             <Section>0</Section>

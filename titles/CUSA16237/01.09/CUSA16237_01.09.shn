@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Streets of Rage 4" Moder="Ali-mk" Cusa="CUSA16237" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>374F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-stars-Power">
+    <Cheat Text="Infinite-stars-Power | 无限星能量">
         <Cheatline>
             <Offset>2F3B2A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-69-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-lives">
+    <Cheat Text="Infinite-lives | 无限命数">
         <Cheatline>
             <Offset>330B5E</Offset>
             <Section>0</Section>

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -52,8 +51,7 @@
       ]
     },
     {
-      "name": "Infinite Energy",
-      "hint": null,
+      "name": "Infinite Energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -74,8 +72,7 @@
       ]
     },
     {
-      "name": "Infinite Coins",
-      "hint": "Pick up a coin to max it out.",
+      "name": "Infinite Coins | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -96,8 +93,7 @@
       ]
     },
     {
-      "name": "Infinite Inventory Items",
-      "hint": "Pick up a item to max out its amount.",
+      "name": "Infinite Inventory Items | 无限背包物品",
       "type": "checkbox",
       "memory": [
         {
@@ -128,8 +124,7 @@
       ]
     },
     {
-      "name": "Instant Level Up",
-      "hint": "Earn any XP to level up to max instantly.",
+      "name": "Instant Level Up | 瞬间升级",
       "type": "checkbox",
       "memory": [
         {

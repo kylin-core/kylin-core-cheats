@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Shield (  must be activated )",
+      "name": "Mastercode Shield (  must be activated ) | 大师代码护盾（需手动激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max HP",
+      "name": "Max HP | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Energy",
+      "name": "Max Energy | 最大能量",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Shield [ MC ]",
+      "name": "Infinite Shield [ MC ] | 无限护盾[大师代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Zero Shield Enemies [ MC ]",
+      "name": "Zero Shield Enemies [ MC ] | 敌方无护盾[大师代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Gold",
+      "name": "Max Gold | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

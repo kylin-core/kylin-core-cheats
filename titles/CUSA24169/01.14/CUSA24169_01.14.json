@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP (Don't Work with DLC)",
+      "name": "Inf HP (Don't Work with DLC) | 无限生命（不适用于DLC）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Focus Regen (Press PS4 Pad Once Then Exit)",
+      "name": "Inf Focus Regen (Press PS4 Pad Once Then Exit) | 无限专注回复（按一次PS4手柄后退出）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Jump Time (Till You Jump)",
+      "name": "Inf Jump Time (Till You Jump) | 无限跳跃时间（直至跳跃）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Shuriken Time (Till Run out of Shurikens)",
+      "name": "Inf Shuriken Time (Till Run out of Shurikens) | 无限手里剑时间（直至用完手里剑）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Stealth (Enemies Don't Attack)",
+      "name": "Stealth (Enemies Don't Attack) | 潜行（敌人不攻击）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Inf Time (Use in Kill Run Mode)",
+      "name": "Inf Time (Use in Kill Run Mode) | 无限时间（在杀戮模式中使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "OHK Commander Bakunin (Use Surge)",
+      "name": "OHK Commander Bakunin (Use Surge) | 一击必杀指挥官巴库宁（使用冲击波）",
       "type": "checkbox",
       "memory": [
         {

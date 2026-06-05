@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo/No Reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Enable Dev Menu",
+      "name": "Enable Dev Menu | 启用开发者菜单",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No FPS On Screen",
+      "name": "No FPS On Screen | 隐藏屏幕帧率显示",
       "type": "checkbox",
       "memory": [
         {

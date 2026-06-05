@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gold(on get)",
+      "name": "Max Gold(on get) | 获得时金币最大",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Iron Bars (on get)",
+      "name": "Max Iron Bars (on get) | 获得时铁条最大",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Blood (on get)",
+      "name": "Max Blood (on get) | 获得时血液最大",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Souls (on get)",
+      "name": "Max Souls (on get) | 获得时灵魂最大",
       "type": "checkbox",
       "memory": [
         {

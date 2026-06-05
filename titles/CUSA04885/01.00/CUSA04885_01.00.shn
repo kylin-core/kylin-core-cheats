@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 4" Moder="PS4Guru" Cusa="CUSA04885" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>608A26</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>66-89-88-18-50-00-00-0F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Modded Stock Ammo">
+    <Cheat Text="Modded Stock Ammo | 修改初始弹药">
         <Cheatline>
             <Offset>6E0DEE</Offset>
             <Section>0</Section>

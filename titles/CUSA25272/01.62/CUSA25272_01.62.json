@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Both Player Inf Health",
+      "name": "Both Player Inf Health | 双方无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "P1 INF Health turn off both player",
+      "name": "P1 INF Health turn off both player | P1无限体力（关闭双方）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Player 1 Inf Super ",
+      "name": "Player 1 Inf Super | 玩家1无限能量",
       "type": "checkbox",
       "memory": [
         {

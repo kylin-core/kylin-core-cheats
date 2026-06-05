@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ys IX: Monstrum Nox" Moder="Wander" Cusa="CUSA20414" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Items Multiply On Sell(sell 1)">
+    <Cheat Text="Items Multiply On Sell(sell 1) | 出售物品时数量倍增（出售1个）">
         <Cheatline>
             <Offset>30F470</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>66-43-89-84-66-84-95-16-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money Multiplier When Fighting Monsters">
+    <Cheat Text="Money Multiplier When Fighting Monsters | 战斗时金钱倍率">
         <Cheatline>
             <Offset>325AFE</Offset>
             <Section>0</Section>

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
-      "hint": null,
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Powers",
-      "hint": null,
+      "name": "Inf Powers | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Gain Money after Shop",
-      "hint": null,
+      "name": "Gain Money after Shop | 购物后获得金钱",
       "type": "checkbox",
       "memory": [
         {

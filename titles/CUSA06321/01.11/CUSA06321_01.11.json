@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite REP points (Spend REP points to take effect)",
-      "hint": null,
+      "name": "Infinite REP points (Spend REP points to take effect) | 无限声望点（消耗声望点生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Hype Points (Earn Hype points to take effect)",
-      "hint": null,
+      "name": "Infinite Hype Points (Earn Hype points to take effect) | 无限热度点（赚取热度点生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Skillpoints increase by using",
-      "hint": null,
+      "name": "Skillpoints increase by using | 技能点使用增加",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Set EXP to 9.999.999 (Earn EXP to take effect)",
-      "hint": null,
+      "name": "Set EXP to 9.999.999 (Earn EXP to take effect) | 设置经验值为9,999,999（获取经验生效）",
       "type": "button",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Set Left Team Basket points to 200",
-      "hint": null,
+      "name": "Set Left Team Basket points to 200 | 设置主队得分为200",
       "type": "button",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gunvolt Chronicles: Luminous Avenger iX" Moder="d01v" Cusa="CUSA16446" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>867F1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>75-0F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite EX Weapon Bar">
+    <Cheat Text="Infinite EX Weapon Bar | 无限EX武器槽">
         <Cheatline>
             <Offset>392101</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bullets">
+    <Cheat Text="Infinite Bullets | 无限子弹">
         <Cheatline>
             <Offset>81E3C</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp | 最大经验值">
         <Cheatline>
             <Offset>8367D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>0F-4C-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold">
+    <Cheat Text="Max Gold | 最大金币">
         <Cheatline>
             <Offset>28DE9</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4C-CF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP">
+    <Cheat Text="Infinite SP | 无限SP">
         <Cheatline>
             <Offset>8622C</Offset>
             <Section>0</Section>

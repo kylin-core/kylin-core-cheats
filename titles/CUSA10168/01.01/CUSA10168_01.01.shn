@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword art Online - Fatal Bullet" Moder="TLH" Cusa="CUSA10168" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>5E7B819</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kills">
+    <Cheat Text="1 Hit Kills | 一击必杀">
         <Cheatline>
             <Offset>5E7B81A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>248DFC</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>3BBC94</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>29-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo on Pick">
+    <Cheat Text="Max Ammo on Pick | 拾取弹药最大化">
         <Cheatline>
             <Offset>3BBC06</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4F-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money on Spend">
+    <Cheat Text="Max Money on Spend | 消费金钱最大化">
         <Cheatline>
             <Offset>2A45F2</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>0F-4C-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>2A45E4</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>03-77-70</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignore Money on Buy">
+    <Cheat Text="Ignore Money on Buy | 购买无视金钱">
         <Cheatline>
             <Offset>6607CE</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>0F-8F-8F-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Max Weapon Gauge">
+    <Cheat Text="Instant Max Weapon Gauge | 武器槽瞬间满级">
         <Cheatline>
             <Offset>18B2E2</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level on LevelUp">
+    <Cheat Text="Max Level on LevelUp | 升级等级最大化">
         <Cheatline>
             <Offset>2A3CB8</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>0F-4C-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max CP on LevelUp">
+    <Cheat Text="Max CP on LevelUp | 升级CP最大化">
         <Cheatline>
             <Offset>2A3D13</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>0F-4C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite CP">
+    <Cheat Text="Infinite CP | 无限CP">
         <Cheatline>
             <Offset>7CBAE2</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>29-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Raise CP-Cap from 24520 to 65535">
+    <Cheat Text="Raise CP-Cap from 24520 to 65535 | 将CP上限从24520提升至65535">
         <Cheatline>
             <Offset>2A3D08</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>B8-C8-5F-00-00-81-F9-C9-5F-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Quests">
+    <Cheat Text="Easy Quests | 简单任务">
         <Cheatline>
             <Offset>303933</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>0F-4E-C7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>668628</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>29-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="20k XP each Kill">
+    <Cheat Text="20k XP each Kill | 每次击杀获得2万经验">
         <Cheatline>
             <Offset>1DF03D</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>C5-FA-59-C1-C5-FA-2C-D8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Medals on Get">
+    <Cheat Text="Max Medals on Get | 获取勋章最大化">
         <Cheatline>
             <Offset>2F84F0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>41-0F-4C-D4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Medals on Use">
+    <Cheat Text="Max Medals on Use | 使用勋章最大化">
         <Cheatline>
             <Offset>2F3339</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>0F-4C-FE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Medals">
+    <Cheat Text="Infinite Medals | 无限勋章">
         <Cheatline>
             <Offset>2F3331</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>01-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Chest-Loot">
+    <Cheat Text="Infinite Chest-Loot | 无限宝箱战利品">
         <Cheatline>
             <Offset>278CFA</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>41-C6-46-58-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Box Items">
+    <Cheat Text="Max Box Items | 宝箱物品最大化">
         <Cheatline>
             <Offset>3BBC02</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>29-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Stats 255">
+    <Cheat Text="All Stats 255 | 全属性255">
         <Cheatline>
             <Offset>5E7B84D</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Stats 65535">
+    <Cheat Text="All Stats 65535 | 全属性65535">
         <Cheatline>
             <Offset>5E7B84D</Offset>
             <Section>0</Section>

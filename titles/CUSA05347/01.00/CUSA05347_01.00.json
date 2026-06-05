@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Wrath",
-      "hint": null,
+      "name": "Infinite Wrath | 无限怒火",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Chaos",
-      "hint": null,
+      "name": "Infinite Chaos | 无限混沌",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Refill Chaos On 1 Hit",
-      "hint": null,
+      "name": "Refill Chaos On 1 Hit | 一击满混沌",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Infinite Horse Burst",
-      "hint": null,
+      "name": "Infinite Horse Burst | 无限马匹冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Get Souls For Spending Them",
-      "hint": null,
+      "name": "Get Souls For Spending Them | 消费灵魂获返还",
       "type": "checkbox",
       "memory": [
         {

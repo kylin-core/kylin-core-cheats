@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code Player Health",
+      "name": "Master Code Player Health | 主码玩家生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Keeping Players Health",
+      "name": "Keeping Players Health | 保持玩家生命",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Lots of Bullets",
+      "name": "Lots of Bullets | 大量子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Lots of Magazine",
+      "name": "Lots of Magazine | 大量弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "No Wanted Level [ Dont Lock ]",
+      "name": "No Wanted Level [ Dont Lock ] | 无通缉等级 [不锁定]",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "A lot of Etto",
+      "name": "A lot of Etto | 大量埃托币",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Lots of Tech Points",
+      "name": "Lots of Tech Points | 大量科技点数",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Hacking Without Cooldown",
+      "name": "Hacking Without Cooldown | 无冷却黑客",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "No Jam Turret",
+      "name": "No Jam Turret | 无干扰炮塔",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Long Camouflage Duration",
+      "name": "Long Camouflage Duration | 长伪装持续时间",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Infinite Camouflage",
+      "name": "Infinite Camouflage | 无限伪装",
       "type": "checkbox",
       "memory": [
         {
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "name": "Undetected By Enemy",
+      "name": "Undetected By Enemy | 不被敌人发现",
       "type": "checkbox",
       "memory": [
         {
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "name": "Instant Cooldown Elec-Shock-Missl. Drone",
+      "name": "Instant Cooldown Elec-Shock-Missl. Drone | 电击导弹无人机瞬间冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "name": "Speed [1.35]",
+      "name": "Speed [1.35] | 速度 [1.35]",
       "type": "checkbox",
       "memory": [
         {
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "name": "Speed [1.5]",
+      "name": "Speed [1.5] | 速度 [1.5]",
       "type": "checkbox",
       "memory": [
         {
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "name": "Speed [1.875]",
+      "name": "Speed [1.875] | 速度 [1.875]",
       "type": "checkbox",
       "memory": [
         {
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "name": "Speed [1.95]",
+      "name": "Speed [1.95] | 速度 [1.95]",
       "type": "checkbox",
       "memory": [
         {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Speed [2.15]",
+      "name": "Speed [2.15] | 速度 [2.15]",
       "type": "checkbox",
       "memory": [
         {

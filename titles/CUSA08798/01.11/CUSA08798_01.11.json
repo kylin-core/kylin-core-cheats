@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Souls / Consumables (On Pick)",
+      "name": "Max Souls / Consumables (On Pick) | 灵魂/消耗品最大化（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Instant Wrath/Havoc Bar Refill (L1+R2 To Deactivate Havoc)",
+      "name": "Instant Wrath/Havoc Bar Refill (L1+R2 To Deactivate Havoc) | 怒气/混沌瞬间充满（L1+R2关闭混沌形态）",
       "type": "checkbox",
       "memory": [
         {

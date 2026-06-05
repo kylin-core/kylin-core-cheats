@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "P1 Infinite HP",
+      "name": "P1 Infinite HP | P1 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "P1 Easy Kill",
+      "name": "P1 Easy Kill | P1 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "P1 Infinite X-Ray",
+      "name": "P1 Infinite X-Ray | P1 无限X光",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "P1 Infinite Energy",
+      "name": "P1 Infinite Energy | P1 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Krypt Koins",
+      "name": "Max Krypt Koins | 克普特金币最大",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Fatality Koins + Skip Koins",
+      "name": "Max Fatality Koins + Skip Koins | 终结金币+跳过金币最大",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "Freeze Timer - Tower + Story",
+      "name": "Freeze Timer - Tower + Story | 冻结计时器 - 塔+故事",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Freeze Timer - Test your Might",
+      "name": "Freeze Timer - Test your Might | 冻结计时器 - 力量测试",
       "type": "checkbox",
       "memory": [
         {

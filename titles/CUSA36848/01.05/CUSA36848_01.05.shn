@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lies Of P" Moder="Celogamez" Cusa="CUSA36848" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health/1 Hit Kill/Stamina/Fable/Legion (MASTERCODE/MUST BE ON">
+    <Cheat Text="Infinite Health/1 Hit Kill/Stamina/Fable/Legion (MASTERCODE/MUST BE ON | 无限生命/一击必杀/体力/寓言/军团 (主代码/必须开启)">
         <Cheatline>
             <Offset>69DFDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (hold L1 T Max)">
+    <Cheat Text="Infinite Health (hold L1 T Max) | 无限生命 (按住L1至最大)">
         <Cheatline>
             <Offset>69DFDBB</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>43-89-4C-FD-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>69DFDD5</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>43-89-4C-FD-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>69DFDE5</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>43-89-4C-FD-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fables">
+    <Cheat Text="Infinite Fables | 无限寓言">
         <Cheatline>
             <Offset>69DFDF5</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>43-89-4C-FD-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Legion">
+    <Cheat Text="Infinite Legion | 无限军团">
         <Cheatline>
             <Offset>69DFE05</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>43-89-4C-FD-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items On Pick Up (x2 To Work)">
+    <Cheat Text="Max Items On Pick Up (x2 To Work) | 拾取物品最大化 (需x2生效)">
         <Cheatline>
             <Offset>69DFA30</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items on Use">
+    <Cheat Text="Infinite Items on Use | 使用物品无限">
         <Cheatline>
             <Offset>69DFB60</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Sharpness Durability">
+    <Cheat Text="Infinite Weapon Sharpness Durability | 无限武器锋利度耐久">
         <Cheatline>
             <Offset>69DF6E0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ergo">
+    <Cheat Text="Max Ergo | 最大自我素">
         <Cheatline>
             <Offset>69DF910</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zero Weight">
+    <Cheat Text="Zero Weight | 零重量">
         <Cheatline>
             <Offset>69DFD00</Offset>
             <Section>0</Section>

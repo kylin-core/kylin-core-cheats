@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible+power=no-Weapon",
+      "name": "Invincible+power=no-Weapon | 无敌+力量无武器",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite-lives",
+      "name": "Infinite-lives | 无限生命数",
       "type": "checkbox",
       "memory": [
         {

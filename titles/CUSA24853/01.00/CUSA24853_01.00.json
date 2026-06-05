@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite Rot Fusion (disable when using upgrades and crystals)",
+      "name": "Infinite Rot Fusion (disable when using upgrades and crystals) | 无限腐化融合（使用升级和水晶时禁用）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5F574",
           "on": "90909090",
           "off": "C5FA1107"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Rot Usage",
+      "name": "Infinite Rot Usage | 无限腐化使用次数",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Upgrade points (on gain)",
+      "name": "Max Upgrade points (on gain) | 最高升级点数（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Crystals (on gain)",
+      "name": "Max Crystals (on gain) | 最高水晶数量（获得时）",
       "type": "checkbox",
       "memory": [
         {

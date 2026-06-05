@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Just Dance® 2019 (Demo)" Moder="إبراهيم " Cusa="CUSA14020" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Skills Instant Cooldown">
+    <Cheat Text="Skills Instant Cooldown | 技能瞬间冷却">
         <Cheatline>
             <Offset>15BB2EF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-8B-5D-A0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Power focus">
+    <Cheat Text="Infinite Power focus | 无限蓄力专注">
         <Cheatline>
             <Offset>155D63B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Resources">
+    <Cheat Text="Infinite Resources | 无限资源">
         <Cheatline>
             <Offset>14627AE</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>66-44-89-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite skills">
+    <Cheat Text="Infinite skills | 无限技能">
         <Cheatline>
             <Offset>167C5B9</Offset>
             <Section>0</Section>

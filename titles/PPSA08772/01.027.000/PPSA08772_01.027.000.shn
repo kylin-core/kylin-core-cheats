@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wo Long Fallen Dynasty" Moder="Yharnam" Cusa="PPSA08772" Version="01.027.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限生命">
         <Cheatline>
             <Offset>2CA710E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Cure Potion">
+    <Cheat Text="Inf Cure Potion | 无限治疗药">
         <Cheatline>
             <Offset>1338E48</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FE-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Items & Throwables">
+    <Cheat Text="Inf Items & Throwables | 无限道具与投掷物">
         <Cheatline>
             <Offset>F4ED16</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-77-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Infinite Divine Beast Gauge (Hit Enemy)">
+    <Cheat Text="Instant Infinite Divine Beast Gauge (Hit Enemy) | 瞬间无限神兽槽（击中敌人）">
         <Cheatline>
             <Offset>2CA7087</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Tiger Beast Gauge">
+    <Cheat Text="Inf Tiger Beast Gauge | 无限虎兽槽">
         <Cheatline>
             <Offset>2CA7096</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Wizardry Spell">
+    <Cheat Text="Inf Wizardry Spell | 无限奇术">
         <Cheatline>
             <Offset>4812C8</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>89-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Wizardry Spell Points">
+    <Cheat Text="Inf Wizardry Spell Points | 无限奇术点数">
         <Cheatline>
             <Offset>2CA70AA</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Moral">
+    <Cheat Text="Max Moral | 最大士气">
         <Cheatline>
             <Offset>536764</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>4F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Buffs">
+    <Cheat Text="Inf Buffs | 无限增益效果">
         <Cheatline>
             <Offset>2CA70BE</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Accolades On Buy">
+    <Cheat Text="Inf Accolades On Buy | 购买时无限功绩">
         <Cheatline>
             <Offset>2CA70D2</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money">
+    <Cheat Text="Inf Money | 无限金钱">
         <Cheatline>
             <Offset>133BA9F</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>42</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Genuine Qi (Gain/Use)">
+    <Cheat Text="Inf Genuine Qi (Gain/Use) | 无限真气（获取/使用）">
         <Cheatline>
             <Offset>2CA70E6</Offset>
             <Section>0</Section>

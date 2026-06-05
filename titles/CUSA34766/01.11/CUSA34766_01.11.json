@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite SKills",
+      "name": "Infinite SKills | 无限技能",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite SBA",
+      "name": "Infinite SBA | 无限奥义",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Replenish items at 1",
+      "name": "Replenish items at 1 | 物品保持1个不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max link level",
+      "name": "Max link level | 满连接等级",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Freeze link attack timer",
+      "name": "Freeze link attack timer | 冻结连击计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "All treasure and key items",
+      "name": "All treasure and key items | 全宝藏及钥匙物品",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Instant +999 treasures",
+      "name": "Instant +999 treasures | 立即获得+999宝藏",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Sell item x900",
+      "name": "Sell item x900 | 出售物品x900",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Event timer",
+      "name": "Event timer | 事件计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Increase all level",
+      "name": "Increase all level | 全员等级提升",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max all party exp",
+      "name": "Max all party exp | 全员满经验",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Max base hp all members",
+      "name": "Max base hp all members | 全员基础生命上限",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "Max all members base atk",
+      "name": "Max all members base atk | 全员基础攻击力上限",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Max stun power all members",
+      "name": "Max stun power all members | 全员眩晕值上限",
       "type": "checkbox",
       "memory": [
         {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "name": "Max crit all members",
+      "name": "Max crit all members | 全员暴击率上限",
       "type": "checkbox",
       "memory": [
         {
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "Max rupies",
+      "name": "Max rupies | 金钱上限",
       "type": "checkbox",
       "memory": [
         {
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "name": "Max MSP",
+      "name": "Max MSP | 技能点上限",
       "type": "checkbox",
       "memory": [
         {

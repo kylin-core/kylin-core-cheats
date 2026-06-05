@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money ( on gain )",
+      "name": "Max Money ( on gain ) | 最大金钱（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max XP Level + Skill Points ( on gain )",
+      "name": "Max XP Level + Skill Points ( on gain ) | 最大经验等级+技能点数（获得时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tekken 7" Moder="Talixme" Cusa="CUSA06014" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode Player Left">
+    <Cheat Text="Godmode Player Left | 玩家左无敌模式">
         <Cheatline>
             <Offset>5694784</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-AA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Godmode Player Right">
+    <Cheat Text="Godmode Player Right | 玩家右无敌模式">
         <Cheatline>
             <Offset>5697574</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-AA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Left  1 hit kill">
+    <Cheat Text="Player Left  1 hit kill | 玩家左方一击必杀">
         <Cheatline>
             <Offset>5694784</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-AA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Rigth 1 hit kill">
+    <Cheat Text="Player Rigth 1 hit kill | 玩家右方一击必杀">
         <Cheatline>
             <Offset>5697574</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-AA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money x2 Each Use">
+    <Cheat Text="Money x2 Each Use | 每次使用金钱倍增">
         <Cheatline>
             <Offset>623fb1</Offset>
             <Section>0</Section>

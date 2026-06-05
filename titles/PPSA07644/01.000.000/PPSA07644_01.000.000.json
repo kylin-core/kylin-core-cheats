@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (No Reload)",
+      "name": "Infinite Ammo (No Reload) | 无限弹药（无需装填）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
+      "name": "Infinite Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables",
+      "name": "Infinite Consumables | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {

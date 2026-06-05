@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL REVELATIONS 2" Moder="TLH" Cusa="CUSA01133" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹夹">
         <Cheatline>
             <Offset>407358</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-46-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>7D9558</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-89-4D-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money (Raid)">
+    <Cheat Text="Infinite Money (Raid) | 无限金钱（突袭模式）">
         <Cheatline>
             <Offset>153F800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite BP">
+    <Cheat Text="Infinite BP | 无限BP">
         <Cheatline>
             <Offset>153F813</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>153F823</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>410210</Offset>
             <Section>0</Section>

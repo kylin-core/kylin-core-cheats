@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Terminator Resistance Enhanced Edition" Moder="Celogamez" Cusa="PPSA02474" Version="01.000.500" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>A8E850</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-90-20-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>4A17ED0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>4A17F10</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/Items (Sell For Money)">
+    <Cheat Text="Infinite Ammo/Items (Sell For Money) | 无限弹药/物品（可出售换钱）">
         <Cheatline>
             <Offset>4A17FE0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>BD27C6</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-29-87-F0-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP/Levels On 2? Kill">
+    <Cheat Text="Max XP/Levels On 2? Kill | 击杀2个敌人后满经验/满级">
         <Cheatline>
             <Offset>B93E90</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-89-8E-24-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>B95800</Offset>
             <Section>0</Section>

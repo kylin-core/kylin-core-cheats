@@ -3,22 +3,9 @@
   "id": "CUSA07439",
   "version": "01.00",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "473F800",
-        "on": "534889C348891DF5474CFB5B8B88E40000008988E40000008B88F00000008988F00000008B88D80000008988D8000000488B88D8000000E9B7CD57FC"
-      },
-      {
-        "offset": "CBC5EC",
-        "on": "E90F32A8039090"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -29,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -40,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -51,7 +38,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -67,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Souls",
+      "name": "Infinite Souls | 无限魂量",
       "type": "checkbox",
       "memory": [
         {
@@ -83,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
+      "name": "Infinite Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -99,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Armour Durability",
+      "name": "Infinite Armour Durability | 无限防具耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +102,7 @@
       ]
     },
     {
-      "name": "Max Items on Use",
+      "name": "Max Items on Use | 使用物品上限",
       "type": "checkbox",
       "memory": [
         {
@@ -131,7 +118,7 @@
       ]
     },
     {
-      "name": "No Effects",
+      "name": "No Effects | 无效果",
       "type": "checkbox",
       "memory": [
         {

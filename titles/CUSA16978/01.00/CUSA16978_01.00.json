@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Exp (Finish Training Character)",
+      "name": "Max Exp (Finish Training Character) | 最大经验值（完成训练角色）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Training Points (Turn Off After)",
+      "name": "Training Points (Turn Off After) | 训练点数（使用后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite HP/Mana/CT",
+      "name": "Infinite HP/Mana/CT | 无限HP/魔法/CT",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Unlimited Item (Lucre, Loots disabled)",
+      "name": "Unlimited Item (Lucre, Loots disabled) | 无限道具（卢克、战利品禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "All Gears (use item) (raw codes not fully tested)",
+      "name": "All Gears (use item) (raw codes not fully tested) | 全装备（使用道具）（原始代码未完全测试）",
       "type": "checkbox",
       "memory": [
         {

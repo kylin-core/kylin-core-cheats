@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Godmode",
+      "name": "All Client Godmode | 全体客户端无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Ammo",
+      "name": "All Client Infinite Ammo | 全体客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Points",
+      "name": "All Client Infinite Points | 全体客户端无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "All Client 1-Hit Kill",
+      "name": "All Client 1-Hit Kill | 全体客户端一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "No Recoil",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "No Gun Shake",
+      "name": "No Gun Shake | 无枪口抖动",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Rapid Fire",
+      "name": "Rapid Fire | 快速射击",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Vehicle Godmode",
+      "name": "Vehicle Godmode | 载具无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Objective Godmode",
+      "name": "Objective Godmode | 目标无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "name": "Objective Godmode (OLD)",
+      "name": "Objective Godmode (OLD) | 目标无敌（旧版）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Movement Speed 500",
+      "name": "Movement Speed 500 | 移动速度500",
       "type": "button",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Movement Speed 1000",
+      "name": "Movement Speed 1000 | 移动速度1000",
       "type": "button",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Reset Movement Speed",
+      "name": "Reset Movement Speed | 重置移动速度",
       "type": "button",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Give Porters X2 Ray Gun",
+      "name": "Give Porters X2 Ray Gun | 给予搬运工X2射线枪",
       "type": "button",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Give CRBR-S",
+      "name": "Give CRBR-S | 给予CRBR-S",
       "type": "button",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Give RAI K-84",
+      "name": "Give RAI K-84 | 给予RAI K-84",
       "type": "button",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Force Start Match",
+      "name": "Force Start Match | 强制开始比赛",
       "type": "button",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "Restart Match",
+      "name": "Restart Match | 重新开始比赛",
       "type": "button",
       "memory": [
         {
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "name": "Disconnect",
+      "name": "Disconnect | 断开连接",
       "type": "button",
       "memory": [
         {
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "name": "Draw Lobby Debug",
+      "name": "Draw Lobby Debug | 绘制大厅调试",
       "type": "checkbox",
       "memory": [
         {

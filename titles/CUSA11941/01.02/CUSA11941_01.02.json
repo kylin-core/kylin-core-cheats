@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "High Pts / Score",
+      "name": "High Pts / Score | 高分/得分",
       "type": "checkbox",
       "memory": [
         {
-          "section": "16",
           "offset": "1F1A8A",
           "on": "0108",
           "off": "8908"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Green Tokens (on Spend)",
+      "name": "Inf Green Tokens (on Spend) | 无限绿色符石（消耗时）",
       "type": "checkbox",
       "memory": [
         {

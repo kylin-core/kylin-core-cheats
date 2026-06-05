@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Battlefield 4" Moder="DeathRGH" Cusa="CUSA00049" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>174C17E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-43-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>10289A4</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Recoil / Spread">
+    <Cheat Text="No Recoil / Spread | 无后坐力/散射">
         <Cheatline>
             <Offset>6C6E10</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Wire Frame Rendering">
+    <Cheat Text="Wire Frame Rendering | 线框渲染">
         <Cheatline>
             <Offset>186EF10</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-F1-83-E1-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze FX">
+    <Cheat Text="Freeze FX | 冻结特效">
         <Cheatline>
             <Offset>2350110</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Draw Debug Strings">
+    <Cheat Text="Draw Debug Strings | 显示调试信息">
         <Cheatline>
             <Offset>144CB50</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Small Hud">
+    <Cheat Text="Small Hud | 迷你HUD">
         <Cheatline>
             <Offset>C031B6</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>48-B8-00-00-00-00-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Climb">
+    <Cheat Text="Teleport Climb | 瞬移攀爬">
         <Cheatline>
             <Offset>2787B94</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-20-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Always Able To Climb">
+    <Cheat Text="Always Able To Climb | 始终可攀爬">
         <Cheatline>
             <Offset>993B9D</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C6-85-EB-FD-FF-FF-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch V1">
+    <Cheat Text="Teleport Patch V1 | 瞬移补丁V1">
         <Cheatline>
             <Offset>993A81</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>E9-8F-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 1">
+    <Cheat Text="Teleport Patch 1 | 瞬移补丁1">
         <Cheatline>
             <Offset>993A81</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>E9-8F-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 2">
+    <Cheat Text="Teleport Patch 2 | 瞬移补丁2">
         <Cheatline>
             <Offset>993A5B</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>0F-85-B4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 3">
+    <Cheat Text="Teleport Patch 3 | 瞬移补丁3">
         <Cheatline>
             <Offset>993A51</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>0F-85-BE-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 4">
+    <Cheat Text="Teleport Patch 4 | 瞬移补丁4">
         <Cheatline>
             <Offset>993A2B</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>0F-85-E4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 5">
+    <Cheat Text="Teleport Patch 5 | 瞬移补丁5">
         <Cheatline>
             <Offset>993F68</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>E9-E5-07-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 6">
+    <Cheat Text="Teleport Patch 6 | 瞬移补丁6">
         <Cheatline>
             <Offset>993E71</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>0F-84-C3-0C-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 7">
+    <Cheat Text="Teleport Patch 7 | 瞬移补丁7">
         <Cheatline>
             <Offset>993BA6</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>0F-84-8E-0F-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 8">
+    <Cheat Text="Teleport Patch 8 | 瞬移补丁8">
         <Cheatline>
             <Offset>993A05</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>0F-84-0A-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 9 (Get Stuck)">
+    <Cheat Text="Teleport Patch 9 (Get Stuck) | 瞬移补丁9（卡住）">
         <Cheatline>
             <Offset>9939FA</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>0F-84-E4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 10">
+    <Cheat Text="Teleport Patch 10 | 瞬移补丁10">
         <Cheatline>
             <Offset>9939DF</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>0F-83-30-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 11">
+    <Cheat Text="Teleport Patch 11 | 瞬移补丁11">
         <Cheatline>
             <Offset>993890</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>80-7B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 12 (Inside Trace Function)">
+    <Cheat Text="Teleport Patch 12 (Inside Trace Function) | 瞬移补丁12（追踪函数内部）">
         <Cheatline>
             <Offset>995142</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>73-0B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport Patch 13 (Change 4 to 8)">
+    <Cheat Text="Teleport Patch 13 (Change 4 to 8) | 瞬移补丁13（将4改为8）">
         <Cheatline>
             <Offset>9962B2</Offset>
             <Section>0</Section>

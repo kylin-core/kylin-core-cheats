@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "max upgrade points",
+      "name": "max upgrade points | 最大升级点数",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "when buying from rot shop the crystal amount increase disable when u dont need it",
+      "name": "when buying from rot shop the crystal amount increase disable when u dont need it | 在腐灵商店购买时增加水晶数量，不需要时禁用",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health / Easy Win (Master Code)",
+      "name": "Inf Health / Easy Win (Master Code) | 无限生命 / 轻松胜利（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "1-Easy Win (MC) Opponent Health (15%)",
+      "name": "1-Easy Win (MC) Opponent Health (15%) | 1-轻松胜利（主代码）对手生命（15%）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "14DA0C",
           "on": "7517",
           "off": "75F2"
@@ -33,23 +32,20 @@
       ]
     },
     {
-      "name": "2-Easy Win (MC) Opponent Health (1%)",
+      "name": "2-Easy Win (MC) Opponent Health (1%) | 2-轻松胜利（主代码）对手生命（1%）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "14DA0C",
           "on": "7517",
           "off": "7508"
         },
         {
-          "section": "1",
           "offset": "14DA25",
           "on": "81BB280C00000AD7233C",
           "off": "81BB280C00009A99193E"
         },
         {
-          "section": "1",
           "offset": "14DA31",
           "on": "C783280C00000AD7233C",
           "off": "C783280C00009A99193E"
@@ -57,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Super Meter",
+      "name": "Inf Super Meter | 无限能量槽",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +69,7 @@
       ]
     },
     {
-      "name": "Opponent Super Meter (No Refill)",
+      "name": "Opponent Super Meter (No Refill) | 对手能量槽（无法补充）",
       "type": "checkbox",
       "memory": [
         {

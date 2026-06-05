@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite AP",
+      "name": "Infinite AP | 无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Items (when use)",
+      "name": "Infinite Items (when use) | 无限物品（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Gil (when Buying)",
+      "name": "Max Gil (when Buying) | 最大吉尔（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max SP (after first battle)",
+      "name": "Max SP (after first battle) | 最大SP（第一次战斗后）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Fast Leveling up (after 2nd or 3rd fight)",
+      "name": "Fast Leveling up (after 2nd or 3rd fight) | 快速升级（第2或第3场战斗后）",
       "type": "checkbox",
       "memory": [
         {

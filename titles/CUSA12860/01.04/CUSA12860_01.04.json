@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health + Fast Die Opponent",
+      "name": "Infinite Health + Fast Die Opponent | 无限生命 + 快速击倒对手",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Power",
+      "name": "Infinite Power | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Coins ( on gain )",
+      "name": "Max Coins ( on gain ) | 最大金币（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Unlimited Shoots",
+      "name": "Unlimited Shoots | 无限射击",
       "type": "checkbox",
       "memory": [
         {

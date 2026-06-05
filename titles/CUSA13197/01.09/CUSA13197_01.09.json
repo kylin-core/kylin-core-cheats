@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Heat",
+      "name": "Infinite Heat | 无限热量",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Durability",
+      "name": "Infinite Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max SP",
+      "name": "Max SP | 最大SP",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Tailing: Low awareness",
+      "name": "Tailing: Low awareness | 跟踪：低警觉",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Infinite Challenge-Time",
+      "name": "Infinite Challenge-Time | 无限挑战时间",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Darts: Perfect Shot",
+      "name": "Darts: Perfect Shot | 飞镖：完美投掷",
       "type": "checkbox",
       "memory": [
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Darts: Easy X01",
+      "name": "Darts: Easy X01 | 飞镖：简易X01",
       "type": "checkbox",
       "memory": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Darts: Easy Score",
+      "name": "Darts: Easy Score | 飞镖：简易得分",
       "type": "checkbox",
       "memory": [
         {
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "name": "Kamuro of the Dead: Infinite Health",
+      "name": "Kamuro of the Dead: Infinite Health | 神室町丧尸：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": "Kamuro of the Dead: Infinite Ammo",
+      "name": "Kamuro of the Dead: Infinite Ammo | 神室町丧尸：无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "name": "Kamuro of the Dead: Max Score",
+      "name": "Kamuro of the Dead: Max Score | 神室町丧尸：最高分数",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "name": "Batting Center: Infinite Balls",
+      "name": "Batting Center: Infinite Balls | 打击中心：无限球数",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "Batting Center: Easy Score",
+      "name": "Batting Center: Easy Score | 打击中心：简易得分",
       "type": "checkbox",
       "memory": [
         {
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "name": "Lockpicking: Infinite Time",
+      "name": "Lockpicking: Infinite Time | 开锁：无限时间",
       "type": "checkbox",
       "memory": [
         {
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "name": "Lockpicking: Instant Pick",
+      "name": "Lockpicking: Instant Pick | 开锁：即时开锁",
       "type": "checkbox",
       "memory": [
         {
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "name": "Drone Race: Infinite Health",
+      "name": "Drone Race: Infinite Health | 无人机赛：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "name": "Drone Race: Instant Boost Recharge",
+      "name": "Drone Race: Instant Boost Recharge | 无人机赛：瞬间加速充能",
       "type": "checkbox",
       "memory": [
         {
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "name": "Drone Race: Infinite Boost",
+      "name": "Drone Race: Infinite Boost | 无人机赛：无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "Drone Race: Infinite Time",
+      "name": "Drone Race: Infinite Time | 无人机赛：无限时间",
       "type": "checkbox",
       "memory": [
         {
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "name": "Drone Race: Max Items",
+      "name": "Drone Race: Max Items | 无人机赛：最大道具",
       "type": "checkbox",
       "memory": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "name": "Drone Race: Freeze Time",
+      "name": "Drone Race: Freeze Time | 无人机赛：暂停时间",
       "type": "checkbox",
       "memory": [
         {
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "name": "Drone Race: Finish Line Crossable in both Directions",
+      "name": "Drone Race: Finish Line Crossable in both Directions | 无人机赛：终点线双向可穿",
       "type": "checkbox",
       "memory": [
         {
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "name": "Drone Race: Enemys dont move",
+      "name": "Drone Race: Enemys dont move | 无人机赛：敌人不移动",
       "type": "checkbox",
       "memory": [
         {

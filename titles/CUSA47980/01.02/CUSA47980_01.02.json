@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (MC)",
-      "description": "Some cheats may not work during tutorials",
+      "name": "Master Code (MC) | 主码 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Max Health (Enable MC)",
-      "description": "none",
+      "name": "Max Health (Enable MC) | 最大生命 (启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill (Enable MC)",
-      "description": "none",
+      "name": "One Hit Kill (Enable MC) | 一击必杀 (启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Weapon Health (Enable MC)",
-      "description": "none",
+      "name": "Weapon Health (Enable MC) | 武器耐久 (启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Max Mana (Enable MC)",
-      "description": "none",
+      "name": "Max Mana (Enable MC) | 最大法力 (启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "Ignored by the Enemy (Enable MC)",
-      "description": "none",
+      "name": "Ignored by the Enemy (Enable MC) | 敌人无视 (启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -82,8 +76,7 @@
       ]
     },
     {
-      "name": "Max Coins",
-      "description": "To trigger it, spend coins; disable it after obtaining 9 million coins",
+      "name": "Max Coins | 最大金币",
       "type": "checkbox",
       "memory": [
         {

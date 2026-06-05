@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="arcadegeddon" Moder="Celogamez" Cusa="CUSA29785" Version="01.21" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health/1 Hit Kill (Master Code)">
+    <Cheat Text="Infinite Health/1 Hit Kill (Master Code) | 无限生命/一击必杀（主代码）">
         <Cheatline>
             <Offset>8133DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (Enable Master Code)">
+    <Cheat Text="1 Hit Kill (Enable Master Code) | 一击必杀（启用主代码）">
         <Cheatline>
             <Offset>8133DB6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-13</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>81336B0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>8133D10</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Shield">
+    <Cheat Text="Infinite Shield | 无限护盾">
         <Cheatline>
             <Offset>8133BA0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite GillyCoins">
+    <Cheat Text="Infinite GillyCoins | 无限吉莉币">
         <Cheatline>
             <Offset>81336B0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Tickets (Disable After Use)">
+    <Cheat Text="Infinite Tickets (Disable After Use) | 无限票券（使用后禁用）">
         <Cheatline>
             <Offset>8133460</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Surge Gauntlet">
+    <Cheat Text="Infinite Surge Gauntlet | 无限涌动拳套">
         <Cheatline>
             <Offset>8133860</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score">
+    <Cheat Text="Max Score | 最高分数">
         <Cheatline>
             <Offset>8133540</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Time">
+    <Cheat Text="Reset Time | 重置时间">
         <Cheatline>
             <Offset>8133870</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stop Time">
+    <Cheat Text="Stop Time | 停止时间">
         <Cheatline>
             <Offset>8133230</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Power Tokens On Buy (Enable To Work/Disable After Use)">
+    <Cheat Text="Infinite Power Tokens On Buy (Enable To Work/Disable After Use) | 购买时无限能量代币（启用生效/使用后禁用）">
         <Cheatline>
             <Offset>8133330</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weapons Level Up (Pick Up The Weapon/Activate)">
+    <Cheat Text="Weapons Level Up (Pick Up The Weapon/Activate) | 武器升级（拾取武器/激活）">
         <Cheatline>
             <Offset>81332D0</Offset>
             <Section>0</Section>

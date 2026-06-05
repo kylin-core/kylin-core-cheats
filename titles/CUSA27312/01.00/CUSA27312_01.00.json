@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max HP (Get heart)",
+      "name": "Max HP (Get heart) | 最大生命值（获取心）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Stamina",
+      "name": "Stamina | 体力值",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Stamina Always Show",
+      "name": "Stamina Always Show | 体力值常显",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "99 Potion Items / Collectibles use",
+      "name": "99 Potion Items / Collectibles use | 99药水/收集品使用",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Magic Orb (use)",
+      "name": "Magic Orb (use) | 魔法球（使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Gold (shop)",
+      "name": "Gold (shop) | 金币（商店）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Sacred Fire Full Bar",
+      "name": "Sacred Fire Full Bar | 圣火满格",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Item Timer",
+      "name": "Item Timer | 道具计时器",
       "type": "checkbox",
       "memory": [
         {

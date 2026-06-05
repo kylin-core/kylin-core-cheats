@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghostbusters: The Video Game Remastered" Moder="Reddevil82_9.00" Cusa="CUSA15493" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Team Health">
+    <Cheat Text="Max Team Health | 小队生命值最大">
         <Cheatline>
             <Offset>2D2E9E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (on gain)">
+    <Cheat Text="Max Money (on gain) | 最大金钱（获取时）">
         <Cheatline>
             <Offset>9F3FD0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Deactivate Pack Overheating">
+    <Cheat Text="Deactivate Pack Overheating | 关闭质子背包过热">
         <Cheatline>
             <Offset>2CC4FE</Offset>
             <Section>0</Section>

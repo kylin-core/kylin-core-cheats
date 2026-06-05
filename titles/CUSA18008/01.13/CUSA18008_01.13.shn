@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="Celogamez" Cusa="CUSA18008" Version="01.13" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="(Ethan) Max/Infinite Health">
+    <Cheat Text="(Ethan) Max/Infinite Health | (伊森) 最大/无限生命">
         <Cheatline>
             <Offset>544B71F</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="(Ethan) 1 Hit Kill">
+    <Cheat Text="(Ethan) 1 Hit Kill | (伊森) 一击必杀">
         <Cheatline>
             <Offset>B19FA20</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="(Rose) Infinite Health/1 Hit Kill (Master Code/Must Be On)">
+    <Cheat Text="(Rose) Infinite Health/1 Hit Kill (Master Code/Must Be On) | (萝丝) 无限生命/一击必杀（主控代码/必须开启）">
         <Cheatline>
             <Offset>B19FDE0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="(Rose) Infinite Health (Enable MC)">
+    <Cheat Text="(Rose) Infinite Health (Enable MC) | (萝丝) 无限生命（开启主控代码）">
         <Cheatline>
             <Offset>B19FDE7</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-48-14</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="(Rose) 1 Hit Kill (Enable MC)">
+    <Cheat Text="(Rose) 1 Hit Kill (Enable MC) | (萝丝) 一击必杀（开启主控代码）">
         <Cheatline>
             <Offset>B19FDE5</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>74-12</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Ammo/White Sage (Rose)">
+    <Cheat Text="Max/Infinite Ammo/White Sage (Rose) | 最大/无限弹药/白鼠尾草（萝丝）">
         <Cheatline>
             <Offset>B19FA50</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>4A98FF6</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>B9-01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Stun Enemies (Rose)">
+    <Cheat Text="Max/Infinite Stun Enemies (Rose) | 最大/无限眩晕敌人（萝丝）">
         <Cheatline>
             <Offset>B19F5B0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Throwables/Items On Craft">
+    <Cheat Text="Max/Infinite Throwables/Items On Craft | 最大/无限投掷物/物品制作">
         <Cheatline>
             <Offset>B19F5E0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Lei">
+    <Cheat Text="Max/Infinite Lei | 最大/无限列伊">
         <Cheatline>
             <Offset>B19F610</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lot Of CP Points">
+    <Cheat Text="Lot Of CP Points | 大量CP点数">
         <Cheatline>
             <Offset>1C94B3D</Offset>
             <Section>0</Section>

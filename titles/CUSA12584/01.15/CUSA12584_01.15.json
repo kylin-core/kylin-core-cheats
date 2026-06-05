@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Melee Durability",
+      "name": "Infinite Melee Durability | 无限近战耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Items (on use and buy turn off when upgrading)",
+      "name": "Items (on use and buy turn off when upgrading) | 物品（使用和购买时关闭，升级时禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Experience (use after escaping Waltz)",
+      "name": "Max Experience (use after escaping Waltz) | 最大经验（逃离沃尔兹后使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "A lot of money (on gain)",
+      "name": "A lot of money (on gain) | 大量金钱（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "A lot of Money (on buy)",
+      "name": "A lot of Money (on buy) | 大量金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Items Multiplier (use at risk) Optional for Legendary upgrades",
+      "name": "Items Multiplier (use at risk) Optional for Legendary upgrades | 物品倍率（风险使用）传奇升级可选",
       "type": "checkbox",
       "memory": [
         {

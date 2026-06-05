@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP7013-CUSA32236_00-8367207855877469" Moder="fbin / Talixme only converted to 1.08 and minor fix" Cusa="CUSA32236" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Life">
+    <Cheat Text="Inf Life | 无限生命">
         <Cheatline>
             <Offset>807F4B7D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-70-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="EasyLevel">
+    <Cheat Text="EasyLevel | 简易关卡">
         <Cheatline>
             <Offset>7FC5F074</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Skill Points">
+    <Cheat Text="Inf Skill Points | 无限技能点">
         <Cheatline>
             <Offset>807F7758</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>29-88-1C-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money">
+    <Cheat Text="Inf Money | 无限金钱">
         <Cheatline>
             <Offset>7FC5F142</Offset>
             <Section>0</Section>

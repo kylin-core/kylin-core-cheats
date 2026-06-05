@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "max-ammo",
+      "name": "max-ammo | 最大弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "MAX-AMMO-2",
+      "name": "MAX-AMMO-2 | 最大弹药2",
       "type": "checkbox",
       "memory": [
         {

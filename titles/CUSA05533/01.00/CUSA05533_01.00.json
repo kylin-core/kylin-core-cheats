@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health 1P",
+      "name": "Inf Health 1P | 1P 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Inf Power Bar on Hit 1P",
+      "name": "Max Inf Power Bar on Hit 1P | 1P 击中后无限能量槽",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf SuperMode 1P (Press R3 to deplete)",
+      "name": "Inf SuperMode 1P (Press R3 to deplete) | 1P 无限超级模式（按R3解除）",
       "type": "checkbox",
       "memory": [
         {

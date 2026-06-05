@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil Village" Moder="LMN" Cusa="CUSA18017" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf ammo">
+    <Cheat Text="Inf ammo | 无限弹药">
         <Cheatline>
             <Offset>3124CF6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-45-80-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf crafting matirials">
+    <Cheat Text="Inf crafting matirials | 无限制作材料">
         <Cheatline>
             <Offset>54AB9F1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-4A-13-C7-FD</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf white flower and First Aid Med usage ">
+    <Cheat Text="Inf white flower and First Aid Med usage | 无限白花和急救药使用">
         <Cheatline>
             <Offset>62C04DA</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>FF-90-70-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Pipe Bombs">
+    <Cheat Text="Inf Pipe Bombs | 无限管状炸弹">
         <Cheatline>
             <Offset>3110583</Offset>
             <Section>0</Section>

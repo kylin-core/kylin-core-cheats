@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Necromunda Hired Gun" Moder="Celogamez" Cusa="CUSA25567" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health+Armor (Enable Only When Start A Mission)">
+    <Cheat Text="Infinite Health+Armor (Enable Only When Start A Mission) | 无限生命+护甲（仅在任务开始时启用）">
         <Cheatline>
             <Offset>68DFDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stimms On Use (You Don't Die)">
+    <Cheat Text="Infinite Stimms On Use (You Don't Die) | 无限兴奋剂使用（你不会死）">
         <Cheatline>
             <Offset>68DFA20</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Medkits On Use">
+    <Cheat Text="Infinite Medkits On Use | 无限医疗包使用">
         <Cheatline>
             <Offset>68DFA40</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>13B0CF2</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-04-B1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>13FAD73</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>FF-90-48-07-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手雷">
         <Cheatline>
             <Offset>14430CA</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>E8-D1-87-FB-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Wasting Time To Use Mastiff">
+    <Cheat Text="No Wasting Time To Use Mastiff | 即用马斯提夫犬（无需等待）">
         <Cheatline>
             <Offset>68DF990</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money">
+    <Cheat Text="Max/Infinite Money | 最大/无限金钱">
         <Cheatline>
             <Offset>68DFB60</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Take down">
+    <Cheat Text="Infinite Take down | 无限击倒">
         <Cheatline>
             <Offset>68DF6B0</Offset>
             <Section>0</Section>

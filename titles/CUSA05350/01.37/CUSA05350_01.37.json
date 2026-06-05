@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health/1 Hit Kill (Master Code)",
+      "name": "Max/Infinite Health/1 Hit Kill (Master Code) | 最大生命/无限生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 一击必杀（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限气力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Ki",
+      "name": "Infinite Ki | 无限气功",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Zeni",
+      "name": "Infinite Zeni | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite TP On Activation",
+      "name": "Infinite TP On Activation | 激活时无限TP",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Attribute Points (Activate/Exit/Enter)",
+      "name": "Infinite Attribute Points (Activate/Exit/Enter) | 无限属性点（激活/退出/进入）",
       "type": "checkbox",
       "memory": [
         {

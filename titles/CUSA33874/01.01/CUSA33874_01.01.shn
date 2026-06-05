@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Persona 4 Golden" Moder="d01v" Cusa="CUSA33874" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="backport 9 to 505 only">
+    <Cheat Text="backport 9 to 505 only | 仅向后移植至505">
         <Cheatline>
             <Offset>815731</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite Health">
+    <Cheat Text="infinite Health | 无限生命">
         <Cheatline>
             <Offset>815739</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="infinite SP">
+    <Cheat Text="infinite SP | 无限精神">
         <Cheatline>
             <Offset>815761</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All items">
+    <Cheat Text="All items | 全部道具">
         <Cheatline>
             <Offset>815791</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Player EXP">
+    <Cheat Text="Max Player EXP | 最大主角经验值">
         <Cheatline>
             <Offset>8157D1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max exp persona">
+    <Cheat Text="Max exp persona | 最大人格面具经验值">
         <Cheatline>
             <Offset>815811</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max persona stats">
+    <Cheat Text="Max persona stats | 人格面具属性最大化">
         <Cheatline>
             <Offset>815841</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Social Stats">
+    <Cheat Text="Max Social Stats | 最大社会属性">
         <Cheatline>
             <Offset>815871</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp Social Link">
+    <Cheat Text="Max Exp Social Link | 最大社群经验值">
         <Cheatline>
             <Offset>815901</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Daytime">
+    <Cheat Text="Master Code Daytime | 主代码-白天">
         <Cheatline>
             <Offset>815961</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Early morning (MC daytime)">
+    <Cheat Text="Early morning (MC daytime) | 清晨（主角白天）">
         <Cheatline>
             <Offset>815968</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>EB-2E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Afterschool (MC daytime)">
+    <Cheat Text="Afterschool (MC daytime) | 放学后（主角白天）">
         <Cheatline>
             <Offset>815968</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>EB-2E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Evening (MC daytime)">
+    <Cheat Text="Evening (MC daytime) | 傍晚（主角白天）">
         <Cheatline>
             <Offset>815968</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>EB-2E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Date">
+    <Cheat Text="Master Code Date | 主代码-日期">
         <Cheatline>
             <Offset>8159C1</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Decrease 1 day (MC Date)">
+    <Cheat Text="Decrease 1 day (MC Date) | 减少1天（主角日期）">
         <Cheatline>
             <Offset>8159C5</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Increase 1 day (MC Date)">
+    <Cheat Text="Increase 1 day (MC Date) | 增加1天（主角日期）">
         <Cheatline>
             <Offset>8159C5</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>EB-19</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Yen">
+    <Cheat Text="Yen | 金钱">
         <Cheatline>
             <Offset>815A01</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Persona id (skin)">
+    <Cheat Text="Master Code Persona id (skin) | 主代码-人格面具ID（外观）">
         <Cheatline>
             <Offset>815A51</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Increase id (MC id)">
+    <Cheat Text="Increase id (MC id) | 增加ID（主角ID）">
         <Cheatline>
             <Offset>815A63</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>EB-1F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Decrease id (MC id)">
+    <Cheat Text="Decrease id (MC id) | 减少ID（主角ID）">
         <Cheatline>
             <Offset>815A63</Offset>
             <Section>0</Section>

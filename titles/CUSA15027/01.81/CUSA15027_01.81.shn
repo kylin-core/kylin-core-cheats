@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DAYS GONE" Moder="Pharaoh2k" Cusa="CUSA15027" Version="01.81" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="MASTER CODE For Infinite Life and 1 Hit Kill">
+    <Cheat Text="MASTER CODE For Infinite Life and 1 Hit Kill | 无限生命与一击必杀主代码">
         <Cheatline>
             <Offset>5725000</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Life. MUST enable Master Code first">
+    <Cheat Text="Infinite Life. MUST enable Master Code first | 无限生命（必须先启用主代码）">
         <Cheatline>
             <Offset>5725008</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-5C-85-48-FF-FF-FF-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill. MUST enable Master Code first. Must disable on chases">
+    <Cheat Text="1 Hit Kill. MUST enable Master Code first. Must disable on chases | 一击必杀（必须先启用主代码，追逐任务中需关闭）">
         <Cheatline>
             <Offset>5725016</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-5C-85-48-FF-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1271BA3</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>29-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>2422F48</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-06</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite fuel">
+    <Cheat Text="Infinite fuel | 无限燃料">
         <Cheatline>
             <Offset>14F2A0D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite motorbike durability">
+    <Cheat Text="Infinite motorbike durability | 无限摩托车耐久度">
         <Cheatline>
             <Offset>14EFD61</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C4-C1-7A-11-85-D8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitrous">
+    <Cheat Text="Infinite Nitrous | 无限氮气加速">
         <Cheatline>
             <Offset>15264E8</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-11-87-14-05-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Motorbike Durability excluding enemies">
+    <Cheat Text="Infinite Motorbike Durability excluding enemies | 无限摩托车耐久度（不包含敌人伤害）">
         <Cheatline>
             <Offset>5725031</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dont subtract items when selling">
+    <Cheat Text="Dont subtract items when selling | 出售物品时不消耗库存">
         <Cheatline>
             <Offset>1275C05</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>29-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No skill points reduction">
+    <Cheat Text="No skill points reduction | 技能点数不减">
         <Cheatline>
             <Offset>E76C29</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>2B-91-80-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>15E475E</Offset>
             <Section>0</Section>

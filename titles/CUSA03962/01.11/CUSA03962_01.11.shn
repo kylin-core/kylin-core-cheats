@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 7 Biohazard" Moder="Ali-mk" Cusa="CUSA03962" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>506361D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-50-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Ammo-Never-Reload">
+    <Cheat Text="Inf-Ammo-Never-Reload | 无限弹药无需装弹">
         <Cheatline>
             <Offset>1BD15D9</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-89-45-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-coins">
+    <Cheat Text="Infinite-coins | 无限金币">
         <Cheatline>
             <Offset>187A820</Offset>
             <Section>0</Section>

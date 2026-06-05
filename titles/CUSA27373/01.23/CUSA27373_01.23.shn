@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Callisto Protocol" Moder="Dioniso" Cusa="CUSA27373" Version="01.23" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="[Health] Immunity">
+    <Cheat Text="[Health] Immunity | [生命] 免疫">
         <Cheatline>
             <Offset>7522380</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Weapon] 1 Hit Kill">
+    <Cheat Text="[Weapon] 1 Hit Kill | [武器] 一击必杀">
         <Cheatline>
             <Offset>75222C0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Weapon] Infinite Ammo">
+    <Cheat Text="[Weapon] Infinite Ammo | [武器] 无限弹药">
         <Cheatline>
             <Offset>7522130</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Weapon] Infinite GRP">
+    <Cheat Text="[Weapon] Infinite GRP | [武器] 无限GRP">
         <Cheatline>
             <Offset>7522190</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Item] Infinite Credits">
+    <Cheat Text="[Item] Infinite Credits | [物品] 无限信用点">
         <Cheatline>
             <Offset>7522150</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Game x0,5">
+    <Cheat Text="[Speed] Game x0,5 | [速度] 游戏x0.5">
         <Cheatline>
             <Offset>7522200</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Game x1">
+    <Cheat Text="[Speed] Game x1 | [速度] 游戏x1">
         <Cheatline>
             <Offset>7522200</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Game x2">
+    <Cheat Text="[Speed] Game x2 | [速度] 游戏x2">
         <Cheatline>
             <Offset>7522200</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Game x4">
+    <Cheat Text="[Speed] Game x4 | [速度] 游戏x4">
         <Cheatline>
             <Offset>7522200</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Player x0,5">
+    <Cheat Text="[Speed] Player x0,5 | [速度] 玩家x0.5">
         <Cheatline>
             <Offset>7522220</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Player x1">
+    <Cheat Text="[Speed] Player x1 | [速度] 玩家x1">
         <Cheatline>
             <Offset>7522220</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Player x2">
+    <Cheat Text="[Speed] Player x2 | [速度] 玩家x2">
         <Cheatline>
             <Offset>7522220</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Player x3">
+    <Cheat Text="[Speed] Player x3 | [速度] 玩家x3">
         <Cheatline>
             <Offset>7522220</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] Player x4">
+    <Cheat Text="[Speed] Player x4 | [速度] 玩家x4">
         <Cheatline>
             <Offset>7522220</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] NME x0,25">
+    <Cheat Text="[Speed] NME x0,25 | [速度] 敌人x0.25">
         <Cheatline>
             <Offset>7522290</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] NME x0,5">
+    <Cheat Text="[Speed] NME x0,5 | [速度] 敌人x0.5">
         <Cheatline>
             <Offset>7522290</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] NME x1">
+    <Cheat Text="[Speed] NME x1 | [速度] 敌人x1">
         <Cheatline>
             <Offset>7522290</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Speed] NME x2">
+    <Cheat Text="[Speed] NME x2 | [速度] 敌人x2">
         <Cheatline>
             <Offset>7522290</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Player x0,5">
+    <Cheat Text="[Size] Player x0,5 | [大小] 玩家x0.5">
         <Cheatline>
             <Offset>75221C0</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Player x1">
+    <Cheat Text="[Size] Player x1 | [大小] 玩家x1">
         <Cheatline>
             <Offset>75221C0</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Player x2">
+    <Cheat Text="[Size] Player x2 | [大小] 玩家x2">
         <Cheatline>
             <Offset>75221C0</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Ammo Counter x1">
+    <Cheat Text="[Size] Ammo Counter x1 | [大小] 弹药计数器x1">
         <Cheatline>
             <Offset>7522310</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Ammo Counter x2">
+    <Cheat Text="[Size] Ammo Counter x2 | [大小] 弹药计数器x2">
         <Cheatline>
             <Offset>7522310</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Ammo Counter x4">
+    <Cheat Text="[Size] Ammo Counter x4 | [大小] 弹药计数器x4">
         <Cheatline>
             <Offset>7522310</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[Size] Ammo Counter x8">
+    <Cheat Text="[Size] Ammo Counter x8 | [大小] 弹药计数器x8">
         <Cheatline>
             <Offset>7522310</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ONLY DLC] Puzzle: Timer Stopped">
+    <Cheat Text="[ONLY DLC] Puzzle: Timer Stopped | [仅DLC] 谜题：计时停止">
         <Cheatline>
             <Offset>7522330</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[ONLY DLC] Puzzle: Solved">
+    <Cheat Text="[ONLY DLC] Puzzle: Solved | [仅DLC] 谜题：已解">
         <Cheatline>
             <Offset>7522350</Offset>
             <Section>0</Section>

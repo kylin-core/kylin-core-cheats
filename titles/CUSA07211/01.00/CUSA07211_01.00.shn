@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY VII REMAKE" Moder="GameX2 & DanteClaus" Cusa="CUSA07211" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Quick Level Up">
+    <Cheat Text="Quick Level Up | 快速升级">
         <Cheatline>
             <Offset>EAE73F</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-54-30-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level After Battle">
+    <Cheat Text="Max Level After Battle | 战斗后满级">
         <Cheatline>
             <Offset>EAE73F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-89-54-30-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限HP">
         <Cheatline>
             <Offset>E343C1</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-89-74-08-30</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MP">
+    <Cheat Text="Infinite MP | 无限MP">
         <Cheatline>
             <Offset>E346C8</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>44-89-74-08-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite ATB">
+    <Cheat Text="Infinite ATB | 无限ATB">
         <Cheatline>
             <Offset>E34146</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-44-08-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full+Infinte ATB">
+    <Cheat Text="Full+Infinte ATB | 满ATB+无限ATB">
         <Cheatline>
             <Offset>FFFFFFFFFFC04000</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gil">
+    <Cheat Text="Infinite Gil | 无限吉尔">
         <Cheatline>
             <Offset>E90CEA</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>44-89-B4-C3-3C-56-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items On Sell | Works on Key Items">
+    <Cheat Text="Infinite Items On Sell | Works on Key Items | 出售物品无限 | 对关键道具有效">
         <Cheatline>
             <Offset>E90F88</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>41-89-8C-C7-3C-56-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gain Items on Sell | Works on Key Items">
+    <Cheat Text="Gain Items on Sell | Works on Key Items | 出售获得物品 | 对关键道具有效">
         <Cheatline>
             <Offset>E90F7B</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>44-29-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Moogle Medals | Turn Off When You're Done">
+    <Cheat Text="Infinite Moogle Medals | Turn Off When You're Done | 无限莫古力奖牌 | 完成后关闭">
         <Cheatline>
             <Offset>E90F88</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>41-89-8C-C7-3C-56-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Doubles Moogle Medals On Spend | Turn Off When You're Done">
+    <Cheat Text="Doubles Moogle Medals On Spend | Turn Off When You're Done | 消耗莫古力奖牌翻倍 | 完成后关闭">
         <Cheatline>
             <Offset>E90F88</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>41-89-8C-C7-3C-56-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Moogle Medals On Spend | Turn Off When You're Done ">
+    <Cheat Text="Max Moogle Medals On Spend | Turn Off When You're Done | 消耗莫古力奖牌最大 | 完成后关闭">
         <Cheatline>
             <Offset>E90F7E</Offset>
             <Section>0</Section>

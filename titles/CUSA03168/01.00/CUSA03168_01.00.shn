@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bombing Busters" Moder="OGD38" Cusa="CUSA03168" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Stop Time Clock">
+    <Cheat Text="Stop Time Clock | 停止时间时钟">
         <Cheatline>
             <Offset>7AEFBC</Offset>
             <Section>0</Section>

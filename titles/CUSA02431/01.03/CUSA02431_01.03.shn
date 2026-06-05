@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wasteland 2: Director's Cut" Moder="wander fw9.00" Cusa="CUSA02431" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Items x20 (on use)">
+    <Cheat Text="Items x20 (on use) | 物品×20（使用时）">
         <Cheatline>
             <Offset>831ABD80</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP While Moving">
+    <Cheat Text="Infinite AP While Moving | 移动时无限AP">
         <Cheatline>
             <Offset>831ABDD0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>831ABE20</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP While Shooting">
+    <Cheat Text="Infinite AP While Shooting | 射击时无限AP">
         <Cheatline>
             <Offset>831ABE60</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP While Loading">
+    <Cheat Text="Infinite AP While Loading | 装弹时无限AP">
         <Cheatline>
             <Offset>831ABEA0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite AP while using items">
+    <Cheat Text="Infinite AP while using items | 使用物品时无限AP">
         <Cheatline>
             <Offset>831ABF00</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Water on the Map (turn off scrap cheat)">
+    <Cheat Text="Infinite Water on the Map (turn off scrap cheat) | 地图上无限水（关闭废料作弊）">
         <Cheatline>
             <Offset>831ABF80</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience (at the end of battle)">
+    <Cheat Text="Max Experience (at the end of battle) | 最大经验值（战斗结束时）">
         <Cheatline>
             <Offset>831ABB00</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill points after Commiting points">
+    <Cheat Text="Infinite Skill points after Commiting points | 加点后无限技能点">
         <Cheatline>
             <Offset>831ABB60</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Perk points">
+    <Cheat Text="Infinite Perk points | 无限专长点">
         <Cheatline>
             <Offset>831ABBC0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Attribute points after Commiting points">
+    <Cheat Text="Infinite Attribute points after Commiting points | 加点后无限属性点">
         <Cheatline>
             <Offset>831ABC20</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Scrap on buy (turn off water cheat)">
+    <Cheat Text="Max Scrap on buy (turn off water cheat) | 购买时最大废料（关闭水作弊）">
         <Cheatline>
             <Offset>831AB520</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead or Alive 5 - Last Round" Moder="TLH" Cusa="CUSA01778" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Player 1: Infinite Health">
+    <Cheat Text="Player 1: Infinite Health | 玩家1：无限生命">
         <Cheatline>
             <Offset>144B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player 2: Infinite Health">
+    <Cheat Text="Player 2: Infinite Health | 玩家2：无限生命">
         <Cheatline>
             <Offset>144B800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player 1: 1-Hit K.O.">
+    <Cheat Text="Player 1: 1-Hit K.O. | 玩家1：一击必杀">
         <Cheatline>
             <Offset>144B801</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player 2: 1-Hit K.O.">
+    <Cheat Text="Player 2: 1-Hit K.O. | 玩家2：一击必杀">
         <Cheatline>
             <Offset>144B801</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score">
+    <Cheat Text="Max Score | 最高分数">
         <Cheatline>
             <Offset>363484</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max training Score (Attend the training drill)",
+      "name": "Max training Score (Attend the training drill) | 最大训练评分（参加训练课程）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Budget (after buying players use once)",
+      "name": "Max Budget (after buying players use once) | 最大预算（购买球员后使用一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "100 Sharpness (Attend the training drill)",
+      "name": "100 Sharpness (Attend the training drill) | 100点锐度（参加训练课程）",
       "type": "checkbox",
       "memory": [
         {

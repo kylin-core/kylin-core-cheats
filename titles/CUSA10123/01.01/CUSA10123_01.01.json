@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health Ship",
+      "name": "Infinite Health Ship | 无限船体生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Money on Pick",
+      "name": "Max Money on Pick | 拾取获得最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Money/Items",
+      "name": "Infinite Money/Items | 无限金钱/物品",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Resources on Pick",
+      "name": "Max Resources on Pick | 拾取获得最大资源",
       "type": "checkbox",
       "memory": [
         {

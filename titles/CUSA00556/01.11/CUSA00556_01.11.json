@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Parts, Skills, Items On Use (x999)",
+      "name": "Parts, Skills, Items On Use (x999) | 使用零件、技能、物品（x999）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Tools Level 5 On Gain",
+      "name": "Tools Level 5 On Gain | 获取工具时等级5",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Flashlight Does Not Turn Off",
+      "name": "Flashlight Does Not Turn Off | 手电筒常亮",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Enable Dev Menu",
+      "name": "Enable Dev Menu | 启用开发者菜单",
       "type": "checkbox",
       "memory": [
         {

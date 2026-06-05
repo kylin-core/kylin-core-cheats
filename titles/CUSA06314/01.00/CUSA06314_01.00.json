@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health + 1 Hit Kill",
+      "name": "Infinite Health + 1 Hit Kill | 无限生命 + 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite BP",
+      "name": "Infinite BP | 无限BP",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "1000 Kills Trophy After Kill",
+      "name": "1000 Kills Trophy After Kill | 击杀后解锁千人斩奖杯",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Level After Kill",
+      "name": "Max Level After Kill | 击杀后满级",
       "type": "button",
       "memory": [
         {

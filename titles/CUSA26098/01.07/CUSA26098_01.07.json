@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Gold (when buying recruits)",
+      "name": "Max Gold (when buying recruits) | 最大金币（招募单位时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Gold Coins (when buying Items)",
+      "name": "Max Gold Coins (when buying Items) | 最大金币（购买物品时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Mana (on get)",
+      "name": "Max Mana (on get) | 最大法力（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Hero Max Level (after battle)",
+      "name": "Hero Max Level (after battle) | 英雄满级（战斗后）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Talent Points (on spending)",
+      "name": "Max Talent Points (on spending) | 最大天赋点（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Recruits Max Rank (After winning battle)",
+      "name": "Recruits Max Rank (After winning battle) | 单位最大阶位（战斗胜利后）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Reserve (when taking Have 2)",
+      "name": "Infinite Reserve (when taking Have 2) | 无限后备（持有2时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Power Anarchy Order Finesse Max Level ",
+      "name": "Power Anarchy Order Finesse Max Level | 力量·混沌·秩序·技巧满级",
       "type": "checkbox",
       "memory": [
         {

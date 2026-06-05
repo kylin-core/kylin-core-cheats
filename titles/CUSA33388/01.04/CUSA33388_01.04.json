@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Items (on craft)",
+      "name": "Infinite Items (on craft) | 无限物品（制作时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Knife Durability",
+      "name": "Infinite Knife Durability | 无限小刀耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Ptas (on get)",
+      "name": "Infinite Ptas (on get) | 无限比塞塔（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Spinel (on Spend have 2)",
+      "name": "Max Spinel (on Spend have 2) | 最大尖晶石（消费时持有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Shoot range coins (on spend)",
+      "name": "Infinite Shoot range coins (on spend) | 无限射击场代币（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Score at Shoot range ",
+      "name": "Max Score at Shoot range | 射击场最高分",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max CP (on spend)",
+      "name": "Max CP (on spend) | 最大CP（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Mercenaries)",
+      "name": "Infinite Health (Mercenaries) | 无限生命（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Infinite timer (Mercenaries)",
+      "name": "Infinite timer (Mercenaries) | 无限时间（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {

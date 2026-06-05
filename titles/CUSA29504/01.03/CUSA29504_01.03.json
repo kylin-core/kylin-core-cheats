@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Items ( on use )",
+      "name": "Max Items ( on use ) | 物品最大化（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Player Walk Speed [ x 2 ]",
+      "name": "Player Walk Speed [ x 2 ] | 行走速度 [ 2倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Player Walk Speed [ x 3 ]",
+      "name": "Player Walk Speed [ x 3 ] | 行走速度 [ 3倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Player Walk Speed [ x 4 ]",
+      "name": "Player Walk Speed [ x 4 ] | 行走速度 [ 4倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Player Run Speed [ x 2 ]",
+      "name": "Player Run Speed [ x 2 ] | 奔跑速度 [ 2倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Player Run Speed [ x 3 ]",
+      "name": "Player Run Speed [ x 3 ] | 奔跑速度 [ 3倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Player Run Speed [ x 4 ]",
+      "name": "Player Run Speed [ x 4 ] | 奔跑速度 [ 4倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Player Jump Height [ x 2 ]",
+      "name": "Player Jump Height [ x 2 ] | 跳跃高度 [ 2倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "Player Jump Height [ x 3 ]",
+      "name": "Player Jump Height [ x 3 ] | 跳跃高度 [ 3倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "Player Jump Height [ x 4 ]",
+      "name": "Player Jump Height [ x 4 ] | 跳跃高度 [ 4倍 ]",
       "type": "checkbox",
       "memory": [
         {

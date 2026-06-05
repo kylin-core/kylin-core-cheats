@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry 4" Moder="TLH" Cusa="CUSA00462" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>303F816</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹夹">
         <Cheatline>
             <Offset>145B48A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-CE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>130B2A2</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-29-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手雷">
         <Cheatline>
             <Offset>1301846</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>29-DE</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignore Grenade Count">
+    <Cheat Text="Ignore Grenade Count | 忽略手雷计数">
         <Cheatline>
             <Offset>130127D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>7F-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>1330D55</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints">
+    <Cheat Text="Infinite Skillpoints | 无限技能点">
         <Cheatline>
             <Offset>CDCDF2</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>41-29-44-24-70</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP x2">
+    <Cheat Text="XP x2 | 经验值x2">
         <Cheatline>
             <Offset>CDC2C5</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP x4">
+    <Cheat Text="XP x4 | 经验值x4">
         <Cheatline>
             <Offset>CDC2C5</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP x8">
+    <Cheat Text="XP x8 | 经验值x8">
         <Cheatline>
             <Offset>CDC2C5</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP x16">
+    <Cheat Text="XP x16 | 经验值x16">
         <Cheatline>
             <Offset>CDC2C5</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>8B-4B-64-44-01-F9-89-4B-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="XP x256">
+    <Cheat Text="XP x256 | 经验值x256">
         <Cheatline>
             <Offset>CDC2C5</Offset>
             <Section>0</Section>

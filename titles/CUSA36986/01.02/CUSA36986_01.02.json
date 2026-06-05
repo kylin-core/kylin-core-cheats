@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/Invisible",
+      "name": "Infinite Health/Invisible | 无限生命/隐身",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Buff duration ",
+      "name": "Infinite Buff duration | 无限增益持续时间",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "NoStun/infinite spell(reach max lvl in morals and character)",
+      "name": "NoStun/infinite spell(reach max lvl in morals and character) | 无硬直/无限法术（道德与角色等级满级）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Morals (on losing 1 moral)",
+      "name": "Max Morals (on losing 1 moral) | 最大士气（每损失1点士气生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Accolades (on buy)",
+      "name": "Max Accolades (on buy) | 最大武勋（购买时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "99 Dragon cure potion(on use)",
+      "name": "99 Dragon cure potion(on use) | 99个龙愈药壶（使用时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Genuine Qi (on get)",
+      "name": "Max Genuine Qi (on get) | 最大真气（获取时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Coppers (on get)",
+      "name": "Max Coppers (on get) | 最大铜钱（获取时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "99 Wizardy spell (on spend)",
+      "name": "99 Wizardy spell (on spend) | 99个奇术（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "99 Throwables/items (on use/spend)",
+      "name": "99 Throwables/items (on use/spend) | 99个投掷物/道具（使用/消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Instant Beast power charge (after1 hit done to enemies)",
+      "name": "Instant Beast power charge (after1 hit done to enemies) | 神兽能量瞬间充能（对敌人造成1次伤害后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Infinite Tiger Beast duration",
+      "name": "Infinite Tiger Beast duration | 无限白虎持续时间",
       "type": "checkbox",
       "memory": [
         {

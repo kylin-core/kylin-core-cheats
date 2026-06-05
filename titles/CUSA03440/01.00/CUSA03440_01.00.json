@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health / Easy Kill",
+      "name": "Infinite Health / Easy Kill | 无限生命 / 轻松击杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Helix",
+      "name": "Infinite Helix | 无限螺旋点",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {

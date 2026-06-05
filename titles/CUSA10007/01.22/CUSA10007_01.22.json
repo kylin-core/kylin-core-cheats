@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Instant Rage",
+      "name": "Instant Rage | 即时怒火",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Traps",
+      "name": "Inf Traps | 无限陷阱",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Knifes",
+      "name": "Inf Knifes | 无限飞刀",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Instant All Skills",
+      "name": "Instant All Skills | 所有技能立刻冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Inf Shift Skill",
+      "name": "Inf Shift Skill | 无限瞬移技能",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Inf Morph Skill",
+      "name": "Inf Morph Skill | 无限变形技能",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Inf Stalker Skill",
+      "name": "Inf Stalker Skill | 无限潜行技能",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Inf Sense Skill",
+      "name": "Inf Sense Skill | 无限感知技能",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Knifes Instant Cooldown",
+      "name": "Knifes Instant Cooldown | 飞刀立刻冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "All Skills Instant Cooldown",
+      "name": "All Skills Instant Cooldown | 所有技能立刻冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Freeze Offline Bots Countdown Timer",
+      "name": "Freeze Offline Bots Countdown Timer | 冻结离线机器人倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Freeze Challenges Countup Timer",
+      "name": "Freeze Challenges Countup Timer | 冻结挑战计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Freeze Out of Bound 15 Sec Warning Test",
+      "name": "Freeze Out of Bound 15 Sec Warning Test | 冻结越界15秒警告测试",
       "type": "checkbox",
       "memory": [
         {

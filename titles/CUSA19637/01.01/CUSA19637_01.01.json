@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Sephit",
+      "name": "Sephit | 塞菲石",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Item",
+      "name": "Item | 道具",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Item1",
+      "name": "Item1 | 道具1",
       "type": "checkbox",
       "memory": [
         {

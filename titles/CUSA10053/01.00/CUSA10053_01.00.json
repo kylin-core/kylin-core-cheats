@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 hit Max Aura",
+      "name": "1 hit Max Aura | 一击满斗气",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Aura",
+      "name": "Inf Aura | 无限斗气",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Inf Hokuto Mode",
+      "name": "Inf Hokuto Mode | 无限北斗模式",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Skills Points after spent",
+      "name": "Max Skills Points after spent | 技能点消耗后最大",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max Fiches and Money after spent",
+      "name": "Max Fiches and Money after spent | 代币和金钱消耗后最大",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Inf items",
+      "name": "Inf items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Inf Car Boost",
+      "name": "Inf Car Boost | 无限汽车加速",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Inf Car Durability",
+      "name": "Inf Car Durability | 无限汽车耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Inf Car Fuel",
+      "name": "Inf Car Fuel | 无限汽车燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "Inf Talismans Time",
+      "name": "Inf Talismans Time | 无限护符时间",
       "type": "checkbox",
       "memory": [
         {

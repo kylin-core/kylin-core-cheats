@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty® Ghosts" Moder="DeathRGH" Cusa="CUSA00025" Version="01.00" Process="default_mp.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="All Client Infinite Ammo">
+    <Cheat Text="All Client Infinite Ammo | 所有客户端无限弹药">
         <Cheatline>
             <Offset>1124B3</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-29-7C-81-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Client Godmode">
+    <Cheat Text="All Client Godmode | 所有客户端上帝模式">
         <Cheatline>
             <Offset>2B8F85</Offset>
             <Section>0</Section>

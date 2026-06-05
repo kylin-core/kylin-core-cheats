@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "999 items (on use/get)",
+      "name": "999 items (on use/get) | 物品使用/获取时变为999",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gald (on buy)",
+      "name": "Max Gald (on buy) | 购买时最大金币",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite AP",
+      "name": "Infinite AP | 无限AP",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Fast Exp/Leveling",
+      "name": "Fast Exp/Leveling | 快速经验/升级",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Get 200+ Skillpoints on spend",
+      "name": "Get 200+ Skillpoints on spend | 花费时获得200+技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Get Max Col/Money on buy",
+      "name": "Get Max Col/Money on buy | 购买时获得最大柯尔/金钱",
       "type": "checkbox",
       "memory": [
         {

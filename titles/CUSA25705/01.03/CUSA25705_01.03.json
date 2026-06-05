@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max JDA Ticket (on claim have 2)",
+      "name": "Max JDA Ticket (on claim have 2) | 最大JDA票券（领取时获得2张）",
       "type": "checkbox",
       "memory": [
         {

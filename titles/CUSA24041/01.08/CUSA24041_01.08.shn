@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty®: Vanguard" Moder="Savas" Cusa="CUSA24041" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1125167</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-5C-88-54</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (Zombie Mode)">
+    <Cheat Text="Infinite Health (Zombie Mode) | 无限生命（僵尸模式）">
         <Cheatline>
             <Offset>159A96A</Offset>
             <Section>0</Section>

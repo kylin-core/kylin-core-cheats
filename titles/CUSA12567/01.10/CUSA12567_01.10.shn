@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Surge 2" Moder="Reddevil82 " Cusa="CUSA12567" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode Health ( must be activated )">
+    <Cheat Text="Mastercode Health ( must be activated ) | 主码生命（需激活）">
         <Cheatline>
             <Offset>2E3BD30</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health [MC]">
+    <Cheat Text="Infinite Health [MC] | 无限生命 [MC]">
         <Cheatline>
             <Offset>2E3BD3C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-83-14-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill [MC]">
+    <Cheat Text="One Hit Kill [MC] | 一击必杀 [MC]">
         <Cheatline>
             <Offset>2E3BD49</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-83-14-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>1D3F8F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-83-1C-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy">
+    <Cheat Text="Infinite Energy | 无限能量">
         <Cheatline>
             <Offset>1D49D9</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-83-18-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Tech - Scrap">
+    <Cheat Text="Max Tech - Scrap | 最大科技碎片">
         <Cheatline>
             <Offset>2E3BDDB</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo ( on gain )">
+    <Cheat Text="Max Ammo ( on gain ) | 最大弹药（获得时）">
         <Cheatline>
             <Offset>2E3BE06</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Inventory">
+    <Cheat Text="Max Inventory | 最大库存">
         <Cheatline>
             <Offset>2E3BD60</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items ( on use )">
+    <Cheat Text="Max Items ( on use ) | 最大物品（使用时）">
         <Cheatline>
             <Offset>10DDC90</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>89-77-4C-C3-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer ( Collect Tech - Scrap )">
+    <Cheat Text="Freeze Timer ( Collect Tech - Scrap ) | 冻结计时器（收集科技碎片）">
         <Cheatline>
             <Offset>10904F3</Offset>
             <Section>0</Section>

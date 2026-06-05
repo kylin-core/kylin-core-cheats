@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ghostrunner" Moder="DJFlameDat" Cusa="CUSA24169" Version="01.14" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP (Don't Work with DLC)">
+    <Cheat Text="Inf HP (Don't Work with DLC) | 无限生命（不适用于DLC）">
         <Cheatline>
             <Offset>713F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Focus Regen (Press PS4 Pad Once Then Exit)">
+    <Cheat Text="Inf Focus Regen (Press PS4 Pad Once Then Exit) | 无限专注回复（按一次PS4手柄后退出）">
         <Cheatline>
             <Offset>713F837</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Jump Time (Till You Jump)">
+    <Cheat Text="Inf Jump Time (Till You Jump) | 无限跳跃时间（直至跳跃）">
         <Cheatline>
             <Offset>713F826</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Shuriken Time (Till Run out of Shurikens)">
+    <Cheat Text="Inf Shuriken Time (Till Run out of Shurikens) | 无限手里剑时间（直至用完手里剑）">
         <Cheatline>
             <Offset>713F848</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth (Enemies Don't Attack)">
+    <Cheat Text="Stealth (Enemies Don't Attack) | 潜行（敌人不攻击）">
         <Cheatline>
             <Offset>713F81D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Time (Use in Kill Run Mode)">
+    <Cheat Text="Inf Time (Use in Kill Run Mode) | 无限时间（在杀戮模式中使用）">
         <Cheatline>
             <Offset>713F859</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="OHK Commander Bakunin (Use Surge)">
+    <Cheat Text="OHK Commander Bakunin (Use Surge) | 一击必杀指挥官巴库宁（使用冲击波）">
         <Cheatline>
             <Offset>713F86A</Offset>
             <Section>0</Section>

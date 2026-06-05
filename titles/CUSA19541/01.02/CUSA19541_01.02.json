@@ -1,11 +1,11 @@
 {
-  "name": "Asterix & Obelix XXL",
+  "name": "Asterix \u0026 Obelix XXL",
   "id": "CUSA19541",
   "version": "01.02",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Potion",
+      "name": "Infinite Potion | 无限药水",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Helmets on Gain",
+      "name": "Max Helmets on Gain | 获得时头盔最大化",
       "type": "checkbox",
       "memory": [
         {

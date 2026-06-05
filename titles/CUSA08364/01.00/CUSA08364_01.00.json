@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "INF HEALTH",
+      "name": "INF HEALTH | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "INF INK",
+      "name": "INF INK | 无限墨",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "NEVER LOSE INK POWER",
+      "name": "NEVER LOSE INK POWER | 墨力不减",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "INF UPGRADE POINTS",
+      "name": "INF UPGRADE POINTS | 无限升级点数",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "MAX COINS ON PICKUP / SHOP",
+      "name": "MAX COINS ON PICKUP / SHOP | 拾取/商店最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "MAX DEMON FANGS ON PICK UP",
+      "name": "MAX DEMON FANGS ON PICK UP | 拾取最大魔牙",
       "type": "checkbox",
       "memory": [
         {

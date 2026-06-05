@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Health - One Hit Kill ( must be activated )",
+      "name": "Mastercode Health - One Hit Kill ( must be activated ) | 主代码血量 - 一击必杀（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限血量 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [ MC ]",
+      "name": "One Hit Kill [ MC ] | 一击必杀 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Instant Rage",
+      "name": "Instant Rage | 瞬间暴怒",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Credits",
+      "name": "Max Credits | 最大金币",
       "type": "checkbox",
       "memory": [
         {

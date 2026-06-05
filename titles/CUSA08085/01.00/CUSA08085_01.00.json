@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "MAX-money-(MC)",
+      "name": "MAX-money-(MC) | 无限金钱（MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Invincible-one-on-dont-off",
+      "name": "Invincible-one-on-dont-off | 无敌模式（开启后别关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite-SHELD",
+      "name": "Infinite-SHELD | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite-money",
+      "name": "Infinite-money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {

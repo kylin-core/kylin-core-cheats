@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ratchet & Clank™" Moder="Reddevil82 " Cusa="CUSA01073" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode ( must be activated )">
+    <Cheat Text="Mastercode ( must be activated ) | 主密码（必须激活）">
         <Cheatline>
             <Offset>350B900</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bolts [MC] ( on gain )">
+    <Cheat Text="Max Bolts [MC] ( on gain ) | 最大螺栓 [MC]（获得时）">
         <Cheatline>
             <Offset>350B908</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>45-89-7C-24-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Raritanium [MC] ( on gain )">
+    <Cheat Text="Max Raritanium [MC] ( on gain ) | 最大拉锐钛矿 [MC]（获得时）">
         <Cheatline>
             <Offset>350B91A</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>45-89-7C-24-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="28 Gold Bolts [MC] ( collect 1 to unlock Debug Menu )">
+    <Cheat Text="28 Gold Bolts [MC] ( collect 1 to unlock Debug Menu ) | 28金螺栓 [MC]（收集1个解锁调试菜单）">
         <Cheatline>
             <Offset>350B92C</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>45-89-7C-24-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>350B970</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincibility ">
+    <Cheat Text="Invincibility  | 无敌状态">
         <Cheatline>
             <Offset>EDEA0B</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-F8-2E-81-C0-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill + Invisible">
+    <Cheat Text="One Hit Kill + Invisible | 一击必杀+隐形">
         <Cheatline>
             <Offset>EDEA0B</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-F8-2E-81-C0-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>4BB208</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-5D-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Air under Water">
+    <Cheat Text="Infinite Air under Water | 水下无限氧气">
         <Cheatline>
             <Offset>35A744</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-83-00-01-00-00-77-61</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jet Pack">
+    <Cheat Text="Infinite Jet Pack | 无限喷气背包">
         <Cheatline>
             <Offset>421C5E</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C4-C1-7A-11-A7-4C-04-00-00-C4-C1-78-10-8F-38-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Hoverboard Boost">
+    <Cheat Text="Infinite Hoverboard Boost | 无限悬浮滑板加速">
         <Cheatline>
             <Offset>350B9A0</Offset>
             <Section>0</Section>

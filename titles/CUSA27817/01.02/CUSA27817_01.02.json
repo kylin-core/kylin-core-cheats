@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite lives",
+      "name": "Infinite lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Time always 00:00:00 on time trials",
+      "name": "Time always 00:00:00 on time trials | 时间挑战计时始终为00:00:00",
       "type": "checkbox",
       "memory": [
         {

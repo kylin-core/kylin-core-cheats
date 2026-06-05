@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="EP2638-CUSA29192_00-6306706212209718" Moder="Talixme" Cusa="CUSA29192" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Life">
+    <Cheat Text="Inf Life | 无限生命">
         <Cheatline>
             <Offset>80589D5C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-CF-9D-A4-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限耐力">
         <Cheatline>
             <Offset>7FC5F000</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo">
+    <Cheat Text="Inf Ammo | 无限弹药">
         <Cheatline>
             <Offset>80D23095</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-FF-D4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>80C68B43</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-44-24-5C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Focus">
+    <Cheat Text="Inf Focus | 无限专注">
         <Cheatline>
             <Offset>80D32CD5</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-93-9C-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Items">
+    <Cheat Text="Inf Items | 无限道具">
         <Cheatline>
             <Offset>7FC5F03D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Skill Points">
+    <Cheat Text="Inf Skill Points | 无限技能点">
         <Cheatline>
             <Offset>7FC5F071</Offset>
             <Section>0</Section>

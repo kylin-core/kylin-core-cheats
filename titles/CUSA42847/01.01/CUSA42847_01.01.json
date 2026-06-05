@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最高分数",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Boat Health",
+      "name": "Infinite Boat Health | 无限船只生命",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Mastercode Timer Settings ( must be activated for [ MC ] Cheats )",
+      "name": "Mastercode Timer Settings ( must be activated for [ MC ] Cheats ) | 主码定时器设置（必须激活以使用 [ MC ] 作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Freeze Timer Pelota [ MC ]",
+      "name": "Freeze Timer Pelota [ MC ] | 锁定佩洛塔计时器 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Set Timer to 5 Minutes Pelota [ MC ]",
+      "name": "Set Timer to 5 Minutes Pelota [ MC ] | 将佩洛塔计时器设为5分钟 [ MC ]",
       "type": "checkbox",
       "memory": [
         {

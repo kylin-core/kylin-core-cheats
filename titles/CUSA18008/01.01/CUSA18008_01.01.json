@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Bombs/Mines/Lockpick",
+      "name": "Infinite Bombs/Mines/Lockpick | 无限炸弹/地雷/开锁器",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Usable/Craft Items",
+      "name": "Infinite Usable/Craft Items | 无限消耗品/制作材料",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Craftable Items/Ammo On Use",
+      "name": "Max Craftable Items/Ammo On Use | 使用后制作材料/弹药最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max Treasure",
+      "name": "Max Treasure | 珍宝最大",
       "type": "checkbox",
       "memory": [
         {

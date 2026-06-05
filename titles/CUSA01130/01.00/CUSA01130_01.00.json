@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Charge Gauge Never Drains",
+      "name": "Charge Gauge Never Drains | 充能计量表永不消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Precious Gem On Pickup",
+      "name": "Max Precious Gem On Pickup | 拾取时获得最大珍贵宝石",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Health Never Decreases",
+      "name": "Health Never Decreases | 生命值永不减少",
       "type": "checkbox",
       "memory": [
         {

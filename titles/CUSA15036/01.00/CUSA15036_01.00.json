@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Skipping always Enabled",
+      "name": "Skipping always Enabled | 始终启用跳过",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Autoplay always Enabled",
+      "name": "Autoplay always Enabled | 始终启用自动播放",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Undo",
+      "name": "Max Undo | 最大撤销次数",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Undo",
+      "name": "Infinite Undo | 无限撤销",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Stepchain-Time",
+      "name": "Infinite Stepchain-Time | 无限连锁时间",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最高分数",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Rapunzel: Infinite Coins",
+      "name": "Rapunzel: Infinite Coins | 拉潘泽尔：无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Rapunzel: Infinite Power",
+      "name": "Rapunzel: Infinite Power | 拉潘泽尔：无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Rapunzel: Infinite Undo",
+      "name": "Rapunzel: Infinite Undo | 拉潘泽尔：无限撤销",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Rapunzel: Max Score",
+      "name": "Rapunzel: Max Score | 拉潘泽尔：最高分数",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Rapunzel: Unlock All Stages (Temporairly)",
+      "name": "Rapunzel: Unlock All Stages (Temporairly) | 拉潘泽尔：临时解锁所有关卡",
       "type": "checkbox",
       "memory": [
         {

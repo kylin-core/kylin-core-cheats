@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All items x99 (on use)",
+      "name": "All items x99 (on use) | 所有道具x99（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Money (on gain disable after getting max money)",
+      "name": "Max Money (on gain disable after getting max money) | 最大金钱（获得后禁用，获取最大金钱后）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "0 Weight",
+      "name": "0 Weight | 零负重",
       "type": "checkbox",
       "memory": [
         {

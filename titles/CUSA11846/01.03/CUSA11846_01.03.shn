@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="THE LAST REMNANT Remastered" Moder="GamerX2" Cusa="CUSA11846" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Instant Max Morale">
+    <Cheat Text="Instant Max Morale | 瞬间士气最高">
         <Cheatline>
             <Offset>42F6FC9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Chain">
+    <Cheat Text="Max Chain | 最大连锁">
         <Cheatline>
             <Offset>42F7069</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite DIGS ">
+    <Cheat Text="Infinite DIGS | 无限挖掘">
         <Cheatline>
             <Offset>271CACA</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-B7-58-0B-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Timeshift | Press R2 To Shift Back To Normal">
+    <Cheat Text="Infinite Timeshift | Press R2 To Shift Back To Normal | 无限时光倒流 | 按R2恢复正常">
         <Cheatline>
             <Offset>42F703D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gold">
+    <Cheat Text="Infinite Gold | 无限金币">
         <Cheatline>
             <Offset>25F4AA5</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>89-32</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold On Buy">
+    <Cheat Text="Max Gold On Buy | 购买时金币最大">
         <Cheatline>
             <Offset>42F6F90</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Items| On Sell Or Use">
+    <Cheat Text="Inf Items| On Sell Or Use | 无限物品 | 出售或使用时">
         <Cheatline>
             <Offset>25CFE40</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>88-54-08-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max+ Inf Items/Components/Captured | On Sell Or Use">
+    <Cheat Text="Max+ Inf Items/Components/Captured | On Sell Or Use | 最大+无限物品/组件/捕获 | 出售或使用时">
         <Cheatline>
             <Offset>42F7056</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock All Consumables/Components/Captures/Special Items">
+    <Cheat Text="Unlock All Consumables/Components/Captures/Special Items | 解锁所有消耗品/组件/捕获/特殊物品">
         <Cheatline>
             <Offset>42F6FB0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items On Buy">
+    <Cheat Text="Max Items On Buy | 购买时物品最大">
         <Cheatline>
             <Offset>42F6FA1</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boost Strength| Change Accessory">
+    <Cheat Text="Boost Strength| Change Accessory | 提升力量 | 更换配件">
         <Cheatline>
             <Offset>42F6FEE</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boost DEF | Change Weapon ">
+    <Cheat Text="Boost DEF | Change Weapon | 提升防御 | 更换武器">
         <Cheatline>
             <Offset>42F7003</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boost ATK Main Hand| Change Weapon ">
+    <Cheat Text="Boost ATK Main Hand| Change Weapon | 提升主手攻击 | 更换武器">
         <Cheatline>
             <Offset>42F6FDF</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boost ATK 2 Main Hand| Change Weapon ">
+    <Cheat Text="Boost ATK 2 Main Hand| Change Weapon | 提升副手攻击 | 更换武器">
         <Cheatline>
             <Offset>42F7012</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Off Hand ATK">
+    <Cheat Text="Max Off Hand ATK | 副手攻击最大">
         <Cheatline>
             <Offset>42F7025</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Wizardry Mode|First Person View| Press Down Button ">
+    <Cheat Text="Wizardry Mode|First Person View| Press Down Button | 巫师模式|第一人称视角|按下方向键下">
         <Cheatline>
             <Offset>42F707D</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enhanced Field Of View | Press Down/UP Button">
+    <Cheat Text="Enhanced Field Of View | Press Down/UP Button | 增强视野 | 按下方向键下/上">
         <Cheatline>
             <Offset>42F7090</Offset>
             <Section>0</Section>

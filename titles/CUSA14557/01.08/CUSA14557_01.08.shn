@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sairento VR" Moder="Wander FW9.00" Cusa="CUSA14557" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>83817A80</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jump power">
+    <Cheat Text="Infinite Jump power | 无限跳跃能力">
         <Cheatline>
             <Offset>83817660</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite slow time">
+    <Cheat Text="Infinite slow time | 无限慢动作时间">
         <Cheatline>
             <Offset>838176B0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite sword Charge usage">
+    <Cheat Text="Infinite sword Charge usage | 无限剑刃充能使用">
         <Cheatline>
             <Offset>83817A10</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Plasma Ammo">
+    <Cheat Text="Infinite Plasma Ammo | 无限等离子弹药">
         <Cheatline>
             <Offset>83817CD0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Pistols/SMG/throwable">
+    <Cheat Text="Infinite Pistols/SMG/throwable | 无限手枪/冲锋枪/投掷武器">
         <Cheatline>
             <Offset>83817DF0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Arrows Normal Shots">
+    <Cheat Text="Infinite Arrows Normal Shots | 无限普通箭矢射击">
         <Cheatline>
             <Offset>83817E60</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Multi Shot Arrows">
+    <Cheat Text="Infinite Multi Shot Arrows | 无限多重射击箭矢">
         <Cheatline>
             <Offset>83817EC0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 skill points (on spent)">
+    <Cheat Text="99 skill points (on spent) | 99技能点（使用后生效）">
         <Cheatline>
             <Offset>838176F0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast level up">
+    <Cheat Text="Fast level up | 快速升级">
         <Cheatline>
             <Offset>838179C0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ducats (on buy/sell)">
+    <Cheat Text="Max Ducats (on buy/sell) | 最大杜卡特（购买/出售时生效）">
         <Cheatline>
             <Offset>83817950</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No cooldown for automatic SMG">
+    <Cheat Text="No cooldown for automatic SMG | 自动冲锋枪无冷却">
         <Cheatline>
             <Offset>83817C70</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Intel (on spend)">
+    <Cheat Text="Max Intel (on spend) | 最大情报（消耗时生效）">
         <Cheatline>
             <Offset>83817F20</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Fabricant (on spend)">
+    <Cheat Text="Max Fabricant (on spend) | 最大工质（消耗时生效）">
         <Cheatline>
             <Offset>838177D0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Beacons (on get)">
+    <Cheat Text="Max Beacons (on get) | 最大信标（获取时生效）">
         <Cheatline>
             <Offset>83817840</Offset>
             <Section>0</Section>

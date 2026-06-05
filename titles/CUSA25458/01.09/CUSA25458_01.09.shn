@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="R-TYPE FINAL 2" Moder="Broken Angel" Cusa="CUSA25458" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="2 Hit Kill">
+    <Cheat Text="2 Hit Kill | 两击必杀">
         <Cheatline>
             <Offset>64D1670</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinte Life">
+    <Cheat Text="Infinte Life | 无限生命">
         <Cheatline>
             <Offset>64D14C0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score">
+    <Cheat Text="Max Score | 最大分数">
         <Cheatline>
             <Offset>64D1500</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Coin">
+    <Cheat Text="Max Coin | 最大金币">
         <Cheatline>
             <Offset>64D1540</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="High Beam Shooter Always Max">
+    <Cheat Text="High Beam Shooter Always Max | 高能光束炮始终最大">
         <Cheatline>
             <Offset>64D15E0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dose is always full and available">
+    <Cheat Text="Dose is always full and available | 剂量始终满值可用">
         <Cheatline>
             <Offset>64D1630</Offset>
             <Section>0</Section>

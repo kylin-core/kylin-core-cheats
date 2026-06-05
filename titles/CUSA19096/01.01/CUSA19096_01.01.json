@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo/No Reload (Reload Once For Akimbo)",
+      "name": "Inf Ammo/No Reload (Reload Once For Akimbo) | 无限弹药/无需装弹（双持模式需装弹一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Oxygen",
+      "name": "Inf Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {

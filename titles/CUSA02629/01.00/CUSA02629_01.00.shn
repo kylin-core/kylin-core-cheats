@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Disgaea 5: Alliance of Vengeance" Moder="Molly" Cusa="CUSA02629" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 金钱最大">
         <Cheatline>
             <Offset>587800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Mana "Use Skill Shop"">
+    <Cheat Text="Max Mana "Use Skill Shop" | 魔力最大（使用技能商店）"Use Skill Shop"">
         <Cheatline>
             <Offset>587816</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Level Up">
+    <Cheat Text="Quick Level Up | 快速升级">
         <Cheatline>
             <Offset>587826</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Heal SP In Hospital">
+    <Cheat Text="Max Heal SP In Hospital | 医院SP完全恢复">
         <Cheatline>
             <Offset>587836</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Heal HP In Hospital">
+    <Cheat Text="Max Heal HP In Hospital | 医院HP完全恢复">
         <Cheatline>
             <Offset>587846</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Revive In Hospital ">
+    <Cheat Text="Max Revive In Hospital | 医院复活最大">
         <Cheatline>
             <Offset>587856</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Level Up Skill Power ">
+    <Cheat Text="Quick Level Up Skill Power | 快速提升技能威力">
         <Cheatline>
             <Offset>587867</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quickly Gain Customer Rank">
+    <Cheat Text="Quickly Gain Customer Rank | 快速提升顾客等级">
         <Cheatline>
             <Offset>587872</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quickly Gain "Item World" Prizes">
+    <Cheat Text="Quickly Gain "Item World" Prizes | 快速获得道具界奖励"Item World" Prizes">
         <Cheatline>
             <Offset>587885</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quickly Gain "Range" Skill Shop">
+    <Cheat Text="Quickly Gain "Range" Skill Shop | 快速获得技能商店范围"Range" Skill Shop">
         <Cheatline>
             <Offset>587898</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Item Points "Item World"">
+    <Cheat Text="Max Item Points "Item World" | 道具界道具点数最大"Item World"">
         <Cheatline>
             <Offset>5878A3</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quickly Level Up Squads ">
+    <Cheat Text="Quickly Level Up Squads | 快速升级小队">
         <Cheatline>
             <Offset>587800</Offset>
             <Section>0</Section>

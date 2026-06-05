@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 最大/无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Chant",
+      "name": "Infinite Chant | 无限祈祷",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Items",
+      "name": "Max/Infinite Items | 最大/无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -53,11 +53,10 @@
       ]
     },
     {
-      "name": "Max/Infinite Moolah",
+      "name": "Max/Infinite Moolah | 最大/无限金币",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "1DFA6E6",
           "on": "41895774",
           "off": "41894774"
@@ -75,7 +74,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Flamethrower",
+      "name": "Max/Infinite Flamethrower | 最大/无限火焰喷射器",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "HS/XP Multiplier x10",
+      "name": "HS/XP Multiplier x10 | HS/经验值倍数 x10",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "HS/XP Multiplier x5",
+      "name": "HS/XP Multiplier x5 | HS/经验值倍数 x5",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "HS/XP Multiplier x2",
+      "name": "HS/XP Multiplier x2 | HS/经验值倍数 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "HS/XP/Ressources Multiplier x100",
+      "name": "HS/XP/Ressources Multiplier x100 | HS/经验值/资源倍数 x100",
       "type": "checkbox",
       "memory": [
         {

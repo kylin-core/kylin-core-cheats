@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Armor",
+      "name": "Infinite Armor | 无限护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Ammo Clip",
+      "name": "Max Ammo Clip | 最大弹夹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Mastercode Timer ( must be activated for [ MC ] Cheats )",
+      "name": "Mastercode Timer ( must be activated for [ MC ] Cheats ) | 主密码计时器（必须激活以使用 [ MC ] 作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Reset Timer to 1 [ MC ]",
+      "name": "Reset Timer to 1 [ MC ] | 重置计时器至1 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Freeze Timer [ MC ]",
+      "name": "Freeze Timer [ MC ] | 冻结计时器 [ MC ]",
       "type": "checkbox",
       "memory": [
         {

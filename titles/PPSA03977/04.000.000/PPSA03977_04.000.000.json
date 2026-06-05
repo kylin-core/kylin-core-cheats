@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode + OHK + Stamina",
+      "name": "God Mode + OHK + Stamina | 无敌模式 + 一击必杀 + 体力无限",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "God Mode + Stamina",
+      "name": "God Mode + Stamina | 无敌模式 + 体力无限",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "x99 Items",
+      "name": "x99 Items | 物品x99",
       "type": "checkbox",
       "memory": [
         {

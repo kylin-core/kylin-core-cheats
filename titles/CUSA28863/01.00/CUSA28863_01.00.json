@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Items (Need 2 stock atleast)",
+      "name": "Infinite Items (Need 2 stock atleast) | 无限物品（需至少2个库存）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Mana (FP:500)",
+      "name": "Infinite Mana (FP:500) | 无限法力（FP:500）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Mana (FP=100)",
+      "name": "Infinite Mana (FP=100) | 无限法力（FP=100）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Health (HP=500 fix)",
+      "name": "Infinite Health (HP=500 fix) | 无限生命（HP=500固定）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Health (HP=1000)",
+      "name": "Infinite Health (HP=1000) | 无限生命（HP=1000）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Health (HP=2000)",
+      "name": "Infinite Health (HP=2000) | 无限生命（HP=2000）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Unlock All Items",
+      "name": "Unlock All Items | 解锁所有道具",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Hp",
+      "name": "Max Hp | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "No Equipment Weight",
+      "name": "No Equipment Weight | 装备无重量",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "High Star Amount",
+      "name": "High Star Amount | 高星点数",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Clear All Difficulties ~Load Save~",
+      "name": "Clear All Difficulties ~Load Save~ | 解除所有难度 ~读取存档~",
       "type": "checkbox",
       "memory": [
         {

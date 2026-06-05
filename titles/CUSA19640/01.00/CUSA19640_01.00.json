@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlimited PP",
+      "name": "Unlimited PP | 无限PP值",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Unlimited Bond Point",
+      "name": "Unlimited Bond Point | 无限羁绊点数",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Unlimited SP",
+      "name": "Unlimited SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "HP(seems not working but worth to try)",
+      "name": "HP(seems not working but worth to try) | 生命值(似乎无效但值得一试)",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Unlimited Items",
+      "name": "Unlimited Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max Money (buy something and go to menu)",
+      "name": "Max Money (buy something and go to menu) | 最大金钱(购买物品后进入菜单)",
       "type": "checkbox",
       "memory": [
         {

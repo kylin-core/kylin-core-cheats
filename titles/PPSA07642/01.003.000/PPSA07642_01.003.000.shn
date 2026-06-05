@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Last of Us Part I" Moder="Yharnam" Cusa="PPSA07642" Version="01.003.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health">
+    <Cheat Text="Infi Health | 无限生命">
         <Cheatline>
             <Offset>1371AEC</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-50-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Ammo & Items">
+    <Cheat Text="Infi Ammo & Items | 无限弹药与物品">
         <Cheatline>
             <Offset>2A9E800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Weapon Durability">
+    <Cheat Text="Infi Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>1976876</Offset>
             <Section>0</Section>

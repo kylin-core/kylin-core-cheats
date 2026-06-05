@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated for [ MC ] Cheats )",
+      "name": "Mastercode ( must be activated for [ MC ] Cheats ) | Mastercode（必须激活以使用 [ MC ] 作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "Max Health [ MC ]",
+      "name": "Max Health [ MC ] | 最大生命 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Max Denar [ MC ]",
+      "name": "Max Denar [ MC ] | 最高第纳尔 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Max Items [ MC ]",
+      "name": "Max Items [ MC ] | 最大物品 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen [ MC ]",
+      "name": "Infinite Oxygen [ MC ] | 无限氧气 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Max Oxygen [ MC ]",
+      "name": "Max Oxygen [ MC ] | 最大氧气 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Save Location [ MC ]",
+      "name": "Save Location [ MC ] | 保存位置 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Load Location [ MC ]",
+      "name": "Load Location [ MC ] | 加载位置 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 2 ]",
+      "name": "Player Speed [ x 2 ] | 玩家速度 [ x 2 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 3 ]",
+      "name": "Player Speed [ x 3 ] | 玩家速度 [ x 3 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 4 ]",
+      "name": "Player Speed [ x 4 ] | 玩家速度 [ x 4 ]",
       "type": "checkbox",
       "memory": [
         {

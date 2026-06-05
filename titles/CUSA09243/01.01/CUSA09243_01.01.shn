@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ni no Kuni™ II: Revenant Kingdom" Moder="d01v" Cusa="CUSA09243" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="99M exp after lvl up">
+    <Cheat Text="99M exp after lvl up | 升级后获得99M经验">
         <Cheatline>
             <Offset>127B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max HP 9999 (turn off after)">
+    <Cheat Text="Max HP 9999 (turn off after) | 最大HP 9999（用完关闭）">
         <Cheatline>
             <Offset>127B80F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="gold">
+    <Cheat Text="gold | 金币">
         <Cheatline>
             <Offset>DC0F92</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>81-FE-7F-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="+99 discard item">
+    <Cheat Text="+99 discard item | +99丢弃物品">
         <Cheatline>
             <Offset>127B81B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="loot 999">
+    <Cheat Text="loot 999 | 战利品999">
         <Cheatline>
             <Offset>990B46</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>66-41-89-4D-0A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max KingsGuilder">
+    <Cheat Text="Max KingsGuilder | 最大王者金币">
         <Cheatline>
             <Offset>C6B372</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>89-B2-C4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="100m Influence">
+    <Cheat Text="100m Influence | 1亿影响力">
         <Cheatline>
             <Offset>127B827</Offset>
             <Section>0</Section>

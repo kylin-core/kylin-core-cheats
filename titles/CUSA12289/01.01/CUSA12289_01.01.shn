@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shenmue III" Moder="IMnoob" Cusa="CUSA12289" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite money">
+    <Cheat Text="Infinite money | 无限金钱">
         <Cheatline>
             <Offset>6778FB</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>8B-40-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Token">
+    <Cheat Text="Infinite Token | 无限代币">
         <Cheatline>
             <Offset>6779EB</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>8B-40-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Item">
+    <Cheat Text="Infinite Item | 无限道具">
         <Cheatline>
             <Offset>63FD4D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>8B-04-88</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>63C8D4</Offset>
             <Section>0</Section>

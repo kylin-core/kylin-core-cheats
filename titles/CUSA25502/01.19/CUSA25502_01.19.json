@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Coins ( on buy / sell )",
+      "name": "Max Coins ( on buy / sell ) | 金钱最大化（购买/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Max Gears ( on buy / dissamble )",
+      "name": "Max Gears ( on buy / dissamble ) | 齿轮最大化（购买/拆卸时）",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Max Blind Boxes ( on use )",
+      "name": "Max Blind Boxes ( on use ) | 盲盒最大化（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {

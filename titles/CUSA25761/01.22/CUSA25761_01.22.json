@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Experience / Score (on 2nd kill turn off after)",
+      "name": "Max Experience / Score (on 2nd kill turn off after) | 最大经验/分数（第二次击杀后关闭）",
       "type": "checkbox",
       "memory": [
         {

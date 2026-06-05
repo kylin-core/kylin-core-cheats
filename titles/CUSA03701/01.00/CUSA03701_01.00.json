@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "skill inf",
+      "name": "skill inf | 技能无限",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "max level(god mode)when u get xp",
+      "name": "max level(god mode)when u get xp | 获得经验时达到最高等级（上帝模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "inf ammo",
+      "name": "inf ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "x999999 item each use and deactivate",
+      "name": "x999999 item each use and deactivate | 每次使用获得x999999物品并停用",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "x2 Item Each use (Use and deactivate)",
+      "name": "x2 Item Each use (Use and deactivate) | 每次使用获得双倍物品（使用后停用）",
       "type": "checkbox",
       "memory": [
         {

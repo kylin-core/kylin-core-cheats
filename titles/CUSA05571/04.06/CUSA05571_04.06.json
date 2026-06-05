@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "This is my v04.06 port for Cosmaty's excellent v01.50 trainer. I have added a teleport cheat, reset horse fear bar and No toxicity from decoctions. Important! Please be sure to read the cheats' comments, where available! I have partially tested it and it seems to be working fine, but please let me know if there is any issue. This version is multiCUSA compatible and since it is AOB based it should be fully or partially working on past and future versions of the game. Enjoy! :)",
+      "name": "TRAINER INFO (read only) | TRAINER 信息（仅读取）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Master Codes (Must be enabled!)",
-      "description": "",
+      "name": "Master Codes (Must be enabled!) | 主代码（必须启用！）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,8 +62,7 @@
       ]
     },
     {
-      "name": "--Easy_Kill",
-      "description": "",
+      "name": "--Easy_Kill | --轻松击杀",
       "type": "checkbox",
       "memory": [
         {
@@ -76,8 +73,7 @@
       ]
     },
     {
-      "name": "--Infinite_Adrenaline",
-      "description": "",
+      "name": "--Infinite_Adrenaline | --无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -88,8 +84,7 @@
       ]
     },
     {
-      "name": "--Infinite_HP",
-      "description": "",
+      "name": "--Infinite_HP | --无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -100,8 +95,7 @@
       ]
     },
     {
-      "name": "--Infinite_Horse_Run",
-      "description": "",
+      "name": "--Infinite_Horse_Run | --无限马匹奔跑",
       "type": "checkbox",
       "memory": [
         {
@@ -112,8 +106,7 @@
       ]
     },
     {
-      "name": "--Infinite_Oxygen",
-      "description": "",
+      "name": "--Infinite_Oxygen | --无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -124,8 +117,7 @@
       ]
     },
     {
-      "name": "--Inifinite_Stamina",
-      "description": "",
+      "name": "--Inifinite_Stamina | --无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -136,8 +128,7 @@
       ]
     },
     {
-      "name": "--Min_Horse_Panic",
-      "description": "Enable this together with Reset Horse Fear Bar cheat",
+      "name": "--Min_Horse_Panic | --最小马匹恐慌",
       "type": "checkbox",
       "memory": [
         {
@@ -148,8 +139,7 @@
       ]
     },
     {
-      "name": "--No_Toxicity",
-      "description": "",
+      "name": "--No_Toxicity | --无毒性",
       "type": "checkbox",
       "memory": [
         {
@@ -160,8 +150,7 @@
       ]
     },
     {
-      "name": "No Toxicity From Decoctions 4.06",
-      "description": "",
+      "name": "No Toxicity From Decoctions 4.06 | 魔药无毒性 4.06",
       "type": "checkbox",
       "memory": [
         {
@@ -177,8 +166,7 @@
       ]
     },
     {
-      "name": "Reset Horse Fear Bar",
-      "description": "Enable this together with MinHorsePanic cheat",
+      "name": "Reset Horse Fear Bar | 重置马匹恐惧条",
       "type": "checkbox",
       "memory": [
         {
@@ -194,8 +182,7 @@
       ]
     },
     {
-      "name": "Teleport to Map Waypoint",
-      "description": "Must enable God Mode otherwise the teleport will kill you. Note that teleporting may break some quests.",
+      "name": "Teleport to Map Waypoint | 传送至地图航点",
       "type": "checkbox",
       "memory": [
         {
@@ -221,8 +208,7 @@
       ]
     },
     {
-      "name": "--XP_Multiplier x1",
-      "description": "",
+      "name": "--XP_Multiplier x1 | --经验倍数 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -233,8 +219,7 @@
       ]
     },
     {
-      "name": "--XP_Multiplier x5",
-      "description": "",
+      "name": "--XP_Multiplier x5 | --经验倍数 x5",
       "type": "checkbox",
       "memory": [
         {
@@ -245,8 +230,7 @@
       ]
     },
     {
-      "name": "--XP_Multiplier x10",
-      "description": "",
+      "name": "--XP_Multiplier x10 | --经验倍数 x10",
       "type": "checkbox",
       "memory": [
         {
@@ -257,8 +241,7 @@
       ]
     },
     {
-      "name": "--XP_Multiplier x20",
-      "description": "",
+      "name": "--XP_Multiplier x20 | --经验倍数 x20",
       "type": "checkbox",
       "memory": [
         {
@@ -269,8 +252,7 @@
       ]
     },
     {
-      "name": "--XP_Multiplier x50",
-      "description": "",
+      "name": "--XP_Multiplier x50 | --经验倍数 x50",
       "type": "checkbox",
       "memory": [
         {
@@ -281,8 +263,7 @@
       ]
     },
     {
-      "name": "--XP_Multiplier x999",
-      "description": "",
+      "name": "--XP_Multiplier x999 | --经验倍数 x999",
       "type": "checkbox",
       "memory": [
         {
@@ -293,8 +274,7 @@
       ]
     },
     {
-      "name": "--Game Speed x1",
-      "description": "",
+      "name": "--Game Speed x1 | --游戏速度 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -305,8 +285,7 @@
       ]
     },
     {
-      "name": "--Game Speed x2",
-      "description": "",
+      "name": "--Game Speed x2 | --游戏速度 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -317,8 +296,7 @@
       ]
     },
     {
-      "name": "--Game Speed x3",
-      "description": "",
+      "name": "--Game Speed x3 | --游戏速度 x3",
       "type": "checkbox",
       "memory": [
         {
@@ -329,8 +307,7 @@
       ]
     },
     {
-      "name": "Infinite Items 4.06 ",
-      "description": "In some rare cases you may not be able to clear a loot when the cheat is enabled. Disable the cheat and clear that specific loot.",
+      "name": "Infinite Items 4.06  | 无限物品 4.06",
       "type": "checkbox",
       "memory": [
         {
@@ -356,8 +333,7 @@
       ]
     },
     {
-      "name": "Infinite Potions",
-      "description": "",
+      "name": "Infinite Potions | 无限药水",
       "type": "checkbox",
       "memory": [
         {
@@ -373,8 +349,7 @@
       ]
     },
     {
-      "name": "No Crafting and Alchemy Requirements",
-      "description": "",
+      "name": "No Crafting and Alchemy Requirements | 无需 crafting 和炼金材料",
       "type": "checkbox",
       "memory": [
         {
@@ -385,8 +360,7 @@
       ]
     },
     {
-      "name": "Infinite Money 4.06",
-      "description": "Takes effect when buying or selling",
+      "name": "Infinite Money 4.06 | 无限金钱 4.06",
       "type": "checkbox",
       "memory": [
         {
@@ -402,8 +376,7 @@
       ]
     },
     {
-      "name": "--Walking Speed x1",
-      "description": "",
+      "name": "--Walking Speed x1 | --行走速度 x1",
       "type": "checkbox",
       "memory": [
         {
@@ -414,8 +387,7 @@
       ]
     },
     {
-      "name": "--Walking Speed x2",
-      "description": "",
+      "name": "--Walking Speed x2 | --行走速度 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -426,8 +398,7 @@
       ]
     },
     {
-      "name": "--Walking Speed x3",
-      "description": "",
+      "name": "--Walking Speed x3 | --行走速度 x3",
       "type": "checkbox",
       "memory": [
         {
@@ -438,8 +409,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
-      "description": "",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -455,8 +425,7 @@
       ]
     },
     {
-      "name": "Durable Weapons And Armor",
-      "description": "",
+      "name": "Durable Weapons And Armor | 耐久武器和护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -472,8 +441,7 @@
       ]
     },
     {
-      "name": "Max Weight 99999",
-      "description": "",
+      "name": "Max Weight 99999 | 最大负重 99999",
       "type": "checkbox",
       "memory": [
         {

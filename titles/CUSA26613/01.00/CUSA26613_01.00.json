@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (WIP/Experimental)",
+      "name": "Infinite Health (WIP/Experimental) | 无限生命（测试/实验版）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinte Armour",
+      "name": "Infinte Armour | 无限护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No Reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Get $99.999.999 (Upon Mission Completion)",
+      "name": "Get $99.999.999 (Upon Mission Completion) | 获得99999999美元（任务完成后）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Freeze Money (for Pay N Spray/Ammu-Nation)",
+      "name": "Freeze Money (for Pay N Spray/Ammu-Nation) | 冻结金钱（用于喷漆店/军火商店）",
       "type": "checkbox",
       "memory": [
         {

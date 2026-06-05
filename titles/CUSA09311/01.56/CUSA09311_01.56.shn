@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed® Odyssey" Moder="Saso_9.00" Cusa="CUSA09311" Version="01.56" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7D463A0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>7D464B0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Oxygen">
+    <Cheat Text="Infinite Oxygen | 无限氧气">
         <Cheatline>
             <Offset>64D759A</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-10-88-F0-05-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Adrenaline">
+    <Cheat Text="Infinite Adrenaline | 无限肾上腺素">
         <Cheatline>
             <Offset>36487BA</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>8B-BF-A8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Abilities (No Cooldown)">
+    <Cheat Text="Abilities (No Cooldown) | 技能无冷却">
         <Cheatline>
             <Offset>7D46AA0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ability Points (9999)">
+    <Cheat Text="Max Ability Points (9999) | 最大技能点数(9999)">
         <Cheatline>
             <Offset>7D46470</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ship Health / 1 Hit (Master Code)">
+    <Cheat Text="Infinite Ship Health / 1 Hit (Master Code) | 无限船体生命/一击必杀(主代码)">
         <Cheatline>
             <Offset>7D46510</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ship 1 Hit kill (MC)">
+    <Cheat Text="Ship 1 Hit kill (MC) | 船只一击必杀(主代码)">
         <Cheatline>
             <Offset>7D46518</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>74-03</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ship Adrenaline /  Ram Speed">
+    <Cheat Text="Infinite Ship Adrenaline /  Ram Speed | 无限船只肾上腺素/冲撞速度">
         <Cheatline>
             <Offset>7D464E0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Resorce (On Get)">
+    <Cheat Text="Max Resorce (On Get) | 资源最大(获取时)">
         <Cheatline>
             <Offset>7D46400</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlimited Coins (on gain)",
+      "name": "Unlimited Coins (on gain) | 无限金币（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Unlimited Gears (on gain)",
+      "name": "Unlimited Gears (on gain) | 无限齿轮（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Unlimited Blind Boxes (on gain)",
+      "name": "Unlimited Blind Boxes (on gain) | 无限盲盒（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {

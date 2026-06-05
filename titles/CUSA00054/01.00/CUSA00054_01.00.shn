@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mad Max" Moder="GoldZ" Cusa="CUSA00054" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="```json">
         <Cheatline>
             <Offset>9C88A9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-57-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="["Godmode | 上帝模式", "Infinite Ammo | 无限弹药", "Max Scraps And Canteen | 最大废料和水壶"]"Godmode | 上帝模式", "Infinite Ammo | 无限弹药", "Max Scraps And Canteen | 最大废料和水壶"]"Godmode | 上帝模式", "Infinite Ammo | 无限弹药", "Max Scraps And Canteen | 最大废料和水壶"]"Godmode | 上帝模式", "Infinite Ammo | 无限弹药", "Max Scraps And Canteen | 最大废料和水壶"]">
         <Cheatline>
             <Offset>979C27</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-89-4F-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Scraps And Canteen">
+    <Cheat Text="```">
         <Cheatline>
             <Offset>173FC01</Offset>
             <Section>0</Section>

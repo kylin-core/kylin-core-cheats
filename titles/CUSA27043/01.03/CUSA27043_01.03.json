@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite weapon Durability",
+      "name": "Infinite weapon Durability | 无限武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Fury",
+      "name": "Infinite Fury | 无限狂怒",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Cash (on get turn off items cheat first)",
+      "name": "Max Cash (on get turn off items cheat first) | 最大金钱（获取时先关闭物品作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Experience (on 2nd kill)",
+      "name": "Max Experience (on 2nd kill) | 最大经验值（第二次击杀时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "sell 999 items (on the store if items cheat bugged out)",
+      "name": "sell 999 items (on the store if items cheat bugged out) | 出售999物品（若物品作弊出错时在商店使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "x60 Items (on get turn off the cash cheat and have 2 items)",
+      "name": "x60 Items (on get turn off the cash cheat and have 2 items) | 60倍物品（获取时关闭金钱作弊且拥有2件物品）",
       "type": "checkbox",
       "memory": [
         {

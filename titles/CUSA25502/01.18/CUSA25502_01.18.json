@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Unlimited Coins ( on first buy )",
+      "name": "Unlimited Coins ( on first buy ) | 无限金币 (首次购买生效)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Unlimited Gears ( on first buy )",
+      "name": "Unlimited Gears ( on first buy ) | 无限齿轮 (首次购买生效)",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Unlimited Blind Boxes ( on first buy )",
+      "name": "Unlimited Blind Boxes ( on first buy ) | 无限盲盒 (首次购买生效)",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {

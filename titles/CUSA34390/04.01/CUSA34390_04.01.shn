@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="God Of War Ragnarok" Moder="Celogamez" Cusa="CUSA34390" Version="04.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="(Kratos)Infinite Health/Rage (Disable Health Atreus)">
+    <Cheat Text="(Kratos)Infinite Health/Rage (Disable Health Atreus) | (奎托斯)无限生命/怒火（禁用阿特柔斯生命值）">
         <Cheatline>
             <Offset>1777DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="(Atreus) Infinite Health/Arrows/Rage (Disable Health Kratos)">
+    <Cheat Text="(Atreus) Infinite Health/Arrows/Rage (Disable Health Kratos) | (阿特柔斯)无限生命/箭矢/怒火（禁用奎托斯生命值）">
         <Cheatline>
             <Offset>17777D0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Infinite Rage On First Hit Kratos/Atreus (Disable Health Both)">
+    <Cheat Text="Instant Infinite Rage On First Hit Kratos/Atreus (Disable Health Both) | 首次命中即无限怒火 奎托斯/阿特柔斯（禁用双方生命值）">
         <Cheatline>
             <Offset>1777980</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite XP/HS/Resources On Pick Up/Buy/Sell">
+    <Cheat Text="Max/Infinite XP/HS/Resources On Pick Up/Buy/Sell | 拾取/购买/出售时最大/无限经验/力量/资源">
         <Cheatline>
             <Offset>1777A90</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Crystalline Fragment (100/Use Only For It)">
+    <Cheat Text="Crystalline Fragment (100/Use Only For It) | 水晶碎片（100个/仅用于此）">
         <Cheatline>
             <Offset>1777AC0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cooldown">
+    <Cheat Text="No Cooldown | 无冷却">
         <Cheatline>
             <Offset>1777BB0</Offset>
             <Section>0</Section>

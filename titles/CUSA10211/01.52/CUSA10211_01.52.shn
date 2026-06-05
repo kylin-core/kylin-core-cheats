@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Zero Dawn" Moder="TylerMods/Cain532/Sean" Cusa="CUSA10211" Version="01.52" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>A38B42</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-43-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>A38B42</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-43-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health + One Hit Kill">
+    <Cheat Text="Infinite Health + One Hit Kill | 无限生命 + 一击必杀">
         <Cheatline>
             <Offset>A38B42</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-43-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Arrows">
+    <Cheat Text="Infinite Arrows | 无限箭矢">
         <Cheatline>
             <Offset>F2F020</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>44-29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Resource/Shards">
+    <Cheat Text="Infinite Resource/Shards | 无限资源/碎片">
         <Cheatline>
             <Offset>F2F020</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x2 Skill Points">
+    <Cheat Text="x2 Skill Points | 双倍技能点">
         <Cheatline>
             <Offset>15D7324</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-29-44-24-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Skill Point Cost">
+    <Cheat Text="No Skill Point Cost | 技能点无消耗">
         <Cheatline>
             <Offset>15D7324</Offset>
             <Section>0</Section>

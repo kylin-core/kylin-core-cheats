@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Jump power",
+      "name": "Infinite Jump power | 无限跳跃能力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite slow time",
+      "name": "Infinite slow time | 无限慢动作时间",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite sword Charge usage",
+      "name": "Infinite sword Charge usage | 无限剑刃充能使用",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Plasma Ammo",
+      "name": "Infinite Plasma Ammo | 无限等离子弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Pistols/SMG/throwable",
+      "name": "Infinite Pistols/SMG/throwable | 无限手枪/冲锋枪/投掷武器",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows Normal Shots",
+      "name": "Infinite Arrows Normal Shots | 无限普通箭矢射击",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Infinite Multi Shot Arrows",
+      "name": "Infinite Multi Shot Arrows | 无限多重射击箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "99 skill points (on spent)",
+      "name": "99 skill points (on spent) | 99技能点（使用后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Fast level up",
+      "name": "Fast level up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Ducats (on buy/sell)",
+      "name": "Max Ducats (on buy/sell) | 最大杜卡特（购买/出售时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "No cooldown for automatic SMG",
+      "name": "No cooldown for automatic SMG | 自动冲锋枪无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Max Intel (on spend)",
+      "name": "Max Intel (on spend) | 最大情报（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Max Fabricant (on spend)",
+      "name": "Max Fabricant (on spend) | 最大工质（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Max Beacons (on get)",
+      "name": "Max Beacons (on get) | 最大信标（获取时生效）",
       "type": "checkbox",
       "memory": [
         {

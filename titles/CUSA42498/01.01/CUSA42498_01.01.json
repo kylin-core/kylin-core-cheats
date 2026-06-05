@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Music Notes",
+      "name": "Max Music Notes | 最大音乐音符",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Reset Timer",
+      "name": "Reset Timer | 重置计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Finish Race directly",
+      "name": "Finish Race directly | 直接完成比赛",
       "type": "checkbox",
       "memory": [
         {

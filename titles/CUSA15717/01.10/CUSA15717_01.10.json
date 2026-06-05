@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No Damage",
+      "name": "No Damage | 无伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Sprint/Swim",
+      "name": "Infinite Sprint/Swim | 无限奔跑/游泳",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Throwables",
+      "name": "Infinite Ammo/Throwables | 无限弹药/投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Resource (on get)",
+      "name": "Max Resource (on get) | 最大资源（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "One-hit Kill",
+      "name": "One-hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "One-hit Kill Animals",
+      "name": "One-hit Kill Animals | 一击必杀动物",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "No Overheat",
+      "name": "No Overheat | 不过热",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "No Recoil",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Super Accuracy",
+      "name": "Super Accuracy | 超级精确",
       "type": "checkbox",
       "memory": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Teleport to sky",
+      "name": "Teleport to sky | 传送到天空",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "Always Wanted",
+      "name": "Always Wanted | 一直通缉",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Never Wanted",
+      "name": "Never Wanted | 永不通缉",
       "type": "checkbox",
       "memory": [
         {

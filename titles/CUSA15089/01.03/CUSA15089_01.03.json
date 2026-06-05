@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Energy / Ammo",
+      "name": "Infinite Energy / Ammo | 无限能量/弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Missiles / Warheads ( you need 1 )",
+      "name": "Max Missiles / Warheads ( you need 1 ) | 最大导弹/弹头（需1枚）",
       "type": "checkbox",
       "memory": [
         {

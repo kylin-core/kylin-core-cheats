@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Special Moves Gauge after 1 hit",
+      "name": "Max Special Moves Gauge after 1 hit | 一击满必杀技槽",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Special Moves Gauge",
+      "name": "Inf Special Moves Gauge | 无限必杀技槽",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Awakening Rumble Gauge after 1 hit",
+      "name": "Max Awakening Rumble Gauge after 1 hit | 一击满觉醒乱舞槽",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Inf Awakening Rumble Gauge",
+      "name": "Inf Awakening Rumble Gauge | 无限觉醒乱舞槽",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Awakening always ON after 1 hit",
+      "name": "Awakening always ON after 1 hit | 一击后觉醒常驻",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Awakening always Active",
+      "name": "Awakening always Active | 觉醒持续激活",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Inf Pachi after Shop (USE IT ALONE)",
+      "name": "Inf Pachi after Shop (USE IT ALONE) | 商店后无限小钢珠（单独使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Max CP After Level-Up (USE IT ALONE)",
+      "name": "Max CP After Level-Up (USE IT ALONE) | 升级后最大CP（单独使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Max Combo",
+      "name": "Max Combo | 最大连击数",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Max Kills",
+      "name": "Max Kills | 最大击杀数",
       "type": "checkbox",
       "memory": [
         {

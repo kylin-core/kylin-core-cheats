@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health / 1 Hit (Master Code)",
+      "name": "Infinite Health / 1 Hit (Master Code) | 无限生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "All Resources/Units (9999)",
+      "name": "All Resources/Units (9999) | 所有资源/单位（9999）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Skill Points/Champion Points x99 (have at least 2 skill points)",
+      "name": "Skill Points/Champion Points x99 (have at least 2 skill points) | 技能点/冠军点数x99（需至少拥有2点技能点）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最高经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却时间",
       "type": "checkbox",
       "memory": [
         {
@@ -97,6 +97,6 @@
     }
   ],
   "credits": [
-    "Wander & Saso"
+    "Wander \u0026 Saso"
   ]
 }

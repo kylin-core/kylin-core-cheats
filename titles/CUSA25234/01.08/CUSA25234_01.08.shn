@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Alliance" Moder="Saso" Cusa="CUSA25234" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health / Stamina (Master Code)">
+    <Cheat Text="Infinite Health / Stamina (Master Code) | 无限生命/耐力（主控代码）">
         <Cheatline>
             <Offset>817B500</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ability / Easy Kill (Master Code)">
+    <Cheat Text="Ability / Easy Kill (Master Code) | 技能/秒杀（主控代码）">
         <Cheatline>
             <Offset>817B507</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-53</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Resorce (On Spend)">
+    <Cheat Text="Max Resorce (On Spend) | 资源最大化（消耗时）">
         <Cheatline>
             <Offset>15E4D61</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>8B-80-6C-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Fate Points">
+    <Cheat Text="Max Fate Points | 命运点数最大">
         <Cheatline>
             <Offset>817B700</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Diablo III Eternal Collection" Moder="Vampirexx" Cusa="CUSA00242" Version="01.25" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Gold after Shop and Max Items after Smith">
+    <Cheat Text="Max Gold after Shop and Max Items after Smith | 商店与铁匠铺满金币及满物品">
         <Cheatline>
             <Offset>12D7800</Offset>
             <Section>0</Section>

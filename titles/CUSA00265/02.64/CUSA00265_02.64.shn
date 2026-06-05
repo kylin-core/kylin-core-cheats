@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Minecraft" Moder="🔥MELTED NINJA🔥" Cusa="CUSA00265" Version="02.64" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="🔝Multijump🔝">
+    <Cheat Text="🔝Multijump🔝 | 🔝多段跳跃🔝">
         <Cheatline>
             <Offset>177AE50</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>85-D2-74-52</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="➡️Jump Foward x4➡️">
+    <Cheat Text="➡️Jump Foward x4➡️ | ➡️前跳 x4➡️">
         <Cheatline>
             <Offset>85013C4</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>CD-CC-4C-3E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="➡️Jump Foward x2➡️">
+    <Cheat Text="➡️Jump Foward x2➡️ | ➡️前跳 x2➡️">
         <Cheatline>
             <Offset>85013C4</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>CD-CC-4C-3E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="⚔️Unfair Attack⚔️">
+    <Cheat Text="⚔️Unfair Attack⚔️ | ⚔️不公平攻击⚔️">
         <Cheatline>
             <Offset>8500E43</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-CD-CC-CC-3D-00-00-80</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="⚔️Antiknockback⚔️">
+    <Cheat Text="⚔️Antiknockback⚔️ | ⚔️抗击退⚔️">
         <Cheatline>
             <Offset>4532D10</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="❤️Godmode❤️">
+    <Cheat Text="❤️Godmode❤️ | ❤️上帝模式❤️">
         <Cheatline>
             <Offset>AB9614F</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="🍖Infinite Food🍖">
+    <Cheat Text="🍖Infinite Food🍖 | 🍖无限食物🍖">
         <Cheatline>
             <Offset>AB96166</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="😤Infinite Oxygen😤">
+    <Cheat Text="😤Infinite Oxygen😤 | 😤无限氧气😤">
         <Cheatline>
             <Offset>82B8E55</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>66-44-89-74-08-12</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="♾️Infinite Max Items♾️">
+    <Cheat Text="♾️Infinite Max Items♾️ | ♾️无限最大物品数♾️">
         <Cheatline>
             <Offset>AB9617F</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="♾️Infinite Items♾️">
+    <Cheat Text="♾️Infinite Items♾️ | ♾️无限物品♾️">
         <Cheatline>
             <Offset>AB96196</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="🔴Change Specified Colour To Red🔴">
+    <Cheat Text="🔴Change Specified Colour To Red🔴 | 🔴将指定颜色改为红色🔴">
         <Cheatline>
             <Offset>B351D20</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="🟢Change Specified Colour To Green🟢">
+    <Cheat Text="🟢Change Specified Colour To Green🟢 | 🟢将指定颜色改为绿色🟢">
         <Cheatline>
             <Offset>B351D24</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="🔵Change Specified Colour To Blue🔵">
+    <Cheat Text="🔵Change Specified Colour To Blue🔵 | 🔵将指定颜色改为蓝色🔵">
         <Cheatline>
             <Offset>B351D28</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="🔵Set Entity Colour Aqua🔵">
+    <Cheat Text="🔵Set Entity Colour Aqua🔵 | 🔵将实体颜色设为青色🔵">
         <Cheatline>
             <Offset>B351DB0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="🟢Set Entity Colour Green🟢">
+    <Cheat Text="🟢Set Entity Colour Green🟢 | 🟢将实体颜色设为绿色🟢">
         <Cheatline>
             <Offset>B351DB0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="⚫Set Entity Colour Black⚫">
+    <Cheat Text="⚫Set Entity Colour Black⚫ | ⚫将实体颜色设为黑色⚫">
         <Cheatline>
             <Offset>B351DB0</Offset>
             <Section>0</Section>

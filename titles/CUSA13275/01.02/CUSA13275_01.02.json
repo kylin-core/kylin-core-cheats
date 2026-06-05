@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf. Health",
+      "name": "Inf. Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf. Health + Shield",
+      "name": "Inf. Health + Shield | 无限生命+护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf. Health + Shield + Keys, etc.",
+      "name": "Inf. Health + Shield + Keys, etc. | 无限生命+护盾+钥匙等",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo + Fuel",
+      "name": "Infinite Ammo + Fuel | 无限弹药+燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Jumping Dash",
+      "name": "Infinite Jumping Dash | 无限跳跃冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Health zero = no die",
+      "name": "Health zero = no die | 生命归零不死亡",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "P1: Infinite Health",
+      "name": "P1: Infinite Health | P1：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "P1: 1 Hit Kill",
+      "name": "P1: 1 Hit Kill | P1：一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "P2: Infinite Health",
+      "name": "P2: Infinite Health | P2：无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "P2: 1 Hit Kill",
+      "name": "P2: 1 Hit Kill | P2：一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Instant Regeneration",
+      "name": "Instant Regeneration | 瞬间恢复",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite Critical Gauge",
+      "name": "Infinite Critical Gauge | 无限能量槽",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Infinite V-Trigger Gauge",
+      "name": "Infinite V-Trigger Gauge | 无限V触发能量槽",
       "type": "checkbox",
       "memory": [
         {

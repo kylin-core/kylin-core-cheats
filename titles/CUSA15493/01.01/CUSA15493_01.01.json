@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Team Health",
+      "name": "Max Team Health | 小队生命值最大",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Max Money (on gain)",
+      "name": "Max Money (on gain) | 最大金钱（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Deactivate Pack Overheating",
+      "name": "Deactivate Pack Overheating | 关闭质子背包过热",
       "type": "checkbox",
       "memory": [
         {

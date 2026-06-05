@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Apples on Gain",
+      "name": "Max Apples on Gain | 最大苹果获得数",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Lock Death Count to 0",
+      "name": "Lock Death Count to 0 | 锁定死亡次数为0",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps",
+      "name": "Infinite Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "x2 Running Speed",
+      "name": "x2 Running Speed | 双倍奔跑速度",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Boxes and Apples",
+      "name": "Max Boxes and Apples | 最大箱子和苹果数",
       "type": "checkbox",
       "memory": [
         {

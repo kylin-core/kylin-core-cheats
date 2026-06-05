@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "infinte ammo",
+      "name": "infinte ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "no reload",
+      "name": "no reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {

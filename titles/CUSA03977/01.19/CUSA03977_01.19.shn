@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light: The Following – Enhanced Edition" Moder="Celogamez_9.00" Cusa="CUSA03977" Version="01.19" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC48930</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Endurance (For Fight)">
+    <Cheat Text="Infinite Endurance (For Fight) | 无限耐力（战斗）">
         <Cheatline>
             <Offset>7FC48720</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breathe (For Run)">
+    <Cheat Text="Infinite Breathe (For Run) | 无限呼吸（奔跑）">
         <Cheatline>
             <Offset>7FC49C20</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite/Dupe Items (Need 2/Disable after you have enough)">
+    <Cheat Text="Infinite/Dupe Items (Need 2/Disable after you have enough) | 无限/复制物品（需2个/充足后关闭）">
         <Cheatline>
             <Offset>6296EB</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>45-89-37</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items (Need 2 To Work)">
+    <Cheat Text="Infinite Items (Need 2 To Work) | 无限物品（需2个生效）">
         <Cheatline>
             <Offset>6296EB</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>45-89-37</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Ammo">
+    <Cheat Text="Max/Infinite Ammo | 最大/无限弹药">
         <Cheatline>
             <Offset>7FC48500</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>7FC48D60</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Arrows">
+    <Cheat Text="Max/Infinite Arrows | 最大/无限箭矢">
         <Cheatline>
             <Offset>7FC489B0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Melee Durability">
+    <Cheat Text="Infinite Melee Durability | 无限近战武器耐久">
         <Cheatline>
             <Offset>7FC49170</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite UV Flashlight">
+    <Cheat Text="Infinite UV Flashlight | 无限紫外线手电">
         <Cheatline>
             <Offset>7FC48770</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grappling Hook Stamina">
+    <Cheat Text="Infinite Grappling Hook Stamina | 无限钩爪耐力">
         <Cheatline>
             <Offset>7FC48DA0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Camouflage">
+    <Cheat Text="Infinite Camouflage | 无限伪装">
         <Cheatline>
             <Offset>7FC4B2E0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level All Skill Points On Gain">
+    <Cheat Text="Max Level All Skill Points On Gain | 获得技能点时全满级">
         <Cheatline>
             <Offset>7FC48D70</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money On Gain">
+    <Cheat Text="Max/Infinite Money On Gain | 获得金钱时最大/无限">
         <Cheatline>
             <Offset>7FC48B40</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money On Buy">
+    <Cheat Text="Max/Infinite Money On Buy | 购买时最大/无限金钱">
         <Cheatline>
             <Offset>7FC491B0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Weather Change">
+    <Cheat Text="Weather Change | 天气变换">
         <Cheatline>
             <Offset>7FC49170</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY VII REMAKE" Moder="M3hdi PS" Cusa="CUSA07187" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="INF HP">
+    <Cheat Text="INF HP | 无限生命值">
         <Cheatline>
             <Offset>DFB8D1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-89-74-08-30</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add GIL When Buying">
+    <Cheat Text="Add GIL When Buying | 购买时增加金币">
         <Cheatline>
             <Offset>E560D8</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-89-B4-C3-3C-56-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freez GIL">
+    <Cheat Text="Freez GIL | 锁定金币">
         <Cheatline>
             <Offset>E560D8</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-89-B4-C3-3C-56-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Add Item When Buying">
+    <Cheat Text="Add Item When Buying | 购买时增加道具">
         <Cheatline>
             <Offset>E41E6F</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-11</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freez Mp">
+    <Cheat Text="Freez Mp | 锁定MP">
         <Cheatline>
             <Offset>DFBBD8</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-89-74-08-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="ADD Mp">
+    <Cheat Text="ADD Mp | 增加MP">
         <Cheatline>
             <Offset>DFBBD8</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-89-74-08-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX ATB">
+    <Cheat Text="MAX ATB | 满ATB槽">
         <Cheatline>
             <Offset>DFB656</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-44-08-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freez Special LIMIT">
+    <Cheat Text="Freez Special LIMIT | 锁定极限技">
         <Cheatline>
             <Offset>DFBF76</Offset>
             <Section>0</Section>

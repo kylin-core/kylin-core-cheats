@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tiny Troopers" Moder="DeathRGH" Cusa="CUSA00540" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Get Money For Buying">
+    <Cheat Text="Get Money For Buying | 购买时获得金钱">
         <Cheatline>
             <Offset>E085E8</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>2B-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Get Medals For Buying">
+    <Cheat Text="Get Medals For Buying | 购买时获得奖章">
         <Cheatline>
             <Offset>D93D76</Offset>
             <Section>0</Section>

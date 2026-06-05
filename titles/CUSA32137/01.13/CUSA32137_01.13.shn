@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Like a Dragon Infinite Wealth" Moder="Pharaoh2k" Cusa="CUSA32137" Version="01.13" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>258EFD0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Max HP">
+    <Cheat Text="Infinite Max HP | 无限最大生命值">
         <Cheatline>
             <Offset>258F020</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Max MP">
+    <Cheat Text="Infinite Max MP | 无限最大魔法值">
         <Cheatline>
             <Offset>258F040</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 轻松击杀">
         <Cheatline>
             <Offset>258F060</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>258F090</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="God Mode (Untouchable)">
+    <Cheat Text="God Mode (Untouchable) | 上帝模式（无敌）">
         <Cheatline>
             <Offset>258F0E0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth Mode">
+    <Cheat Text="Stealth Mode | 潜行模式">
         <Cheatline>
             <Offset>14ADC60</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Cash">
+    <Cheat Text="Max Cash | 最大金钱">
         <Cheatline>
             <Offset>258F130</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items Usage">
+    <Cheat Text="Infinite Items Usage | 无限道具使用">
         <Cheatline>
             <Offset>503223</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>44-89-36</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game Speed Multiplier (Movements) Master Code">
+    <Cheat Text="Game Speed Multiplier (Movements) Master Code | 游戏速度倍率（移动）主代码">
         <Cheatline>
             <Offset>1C58FE</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C7-87-F8-00-00-00-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Speed x2 (Movements)">
+    <Cheat Text="--Speed x2 (Movements) | --速度2倍（移动）">
         <Cheatline>
             <Offset>1C5904</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Speed x3 (Movements)">
+    <Cheat Text="--Speed x3 (Movements) | --速度3倍（移动）">
         <Cheatline>
             <Offset>1C5904</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Speed x4 (Movements)">
+    <Cheat Text="--Speed x4 (Movements) | --速度4倍（移动）">
         <Cheatline>
             <Offset>1C5904</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Exp Multiplier (Master Code)">
+    <Cheat Text="Exp Multiplier (Master Code) | 经验值倍率（主代码）">
         <Cheatline>
             <Offset>258F150</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x100">
+    <Cheat Text="--Multiplier x100 | --倍率x100">
         <Cheatline>
             <Offset>258F163</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x1,000">
+    <Cheat Text="--Multiplier x1,000 | --倍率x1,000">
         <Cheatline>
             <Offset>258F163</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10,000">
+    <Cheat Text="--Multiplier x10,000 | --倍率x10,000">
         <Cheatline>
             <Offset>258F163</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x100,000">
+    <Cheat Text="--Multiplier x100,000 | --倍率x100,000">
         <Cheatline>
             <Offset>258F163</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x1,000,000">
+    <Cheat Text="--Multiplier x1,000,000 | --倍率x1,000,000">
         <Cheatline>
             <Offset>258F163</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10,000,000">
+    <Cheat Text="--Multiplier x10,000,000 | --倍率x10,000,000">
         <Cheatline>
             <Offset>258F163</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Job Exp Multiplier (Master Code)">
+    <Cheat Text="Job Exp Multiplier (Master Code) | 职业经验值倍率（主代码）">
         <Cheatline>
             <Offset>258F170</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x100">
+    <Cheat Text="--Multiplier x100 | --倍率x100">
         <Cheatline>
             <Offset>258F183</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x1,000">
+    <Cheat Text="--Multiplier x1,000 | --倍率x1,000">
         <Cheatline>
             <Offset>258F183</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10,000">
+    <Cheat Text="--Multiplier x10,000 | --倍率x10,000">
         <Cheatline>
             <Offset>258F183</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x100,000">
+    <Cheat Text="--Multiplier x100,000 | --倍率x100,000">
         <Cheatline>
             <Offset>258F183</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x1,000,000">
+    <Cheat Text="--Multiplier x1,000,000 | --倍率x1,000,000">
         <Cheatline>
             <Offset>258F183</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10,000,000">
+    <Cheat Text="--Multiplier x10,000,000 | --倍率x10,000,000">
         <Cheatline>
             <Offset>258F183</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Cash Multiplier (Master Code)">
+    <Cheat Text="Cash Multiplier (Master Code) | 金钱倍率（主代码）">
         <Cheatline>
             <Offset>258F190</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x100">
+    <Cheat Text="--Multiplier x100 | --倍率x100">
         <Cheatline>
             <Offset>258F1A3</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x1,000">
+    <Cheat Text="--Multiplier x1,000 | --倍率x1,000">
         <Cheatline>
             <Offset>258F1A3</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10,000">
+    <Cheat Text="--Multiplier x10,000 | --倍率x10,000">
         <Cheatline>
             <Offset>258F1A3</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x100,000">
+    <Cheat Text="--Multiplier x100,000 | --倍率x100,000">
         <Cheatline>
             <Offset>258F1A3</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x1,000,000">
+    <Cheat Text="--Multiplier x1,000,000 | --倍率x1,000,000">
         <Cheatline>
             <Offset>258F1A3</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Multiplier x10,000,000">
+    <Cheat Text="--Multiplier x10,000,000 | --倍率x10,000,000">
         <Cheatline>
             <Offset>258F1A3</Offset>
             <Section>0</Section>

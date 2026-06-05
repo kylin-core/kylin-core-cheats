@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Endurance (For Fight)",
+      "name": "Infinite Endurance (For Fight) | 无限耐力（战斗）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Breathe (For Run)",
+      "name": "Infinite Breathe (For Run) | 无限呼吸（奔跑）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite/Dupe Items (Need 2/Disable after you have enough)",
+      "name": "Infinite/Dupe Items (Need 2/Disable after you have enough) | 无限/复制物品（需2个/充足后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Items (Need 2 To Work)",
+      "name": "Infinite Items (Need 2 To Work) | 无限物品（需2个生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Ammo",
+      "name": "Max/Infinite Ammo | 最大/无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Arrows",
+      "name": "Max/Infinite Arrows | 最大/无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Infinite Melee Durability",
+      "name": "Infinite Melee Durability | 无限近战武器耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinite UV Flashlight",
+      "name": "Infinite UV Flashlight | 无限紫外线手电",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Infinite Grappling Hook Stamina",
+      "name": "Infinite Grappling Hook Stamina | 无限钩爪耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Infinite Camouflage",
+      "name": "Infinite Camouflage | 无限伪装",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Max Level All Skill Points On Gain",
+      "name": "Max Level All Skill Points On Gain | 获得技能点时全满级",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money On Gain",
+      "name": "Max/Infinite Money On Gain | 获得金钱时最大/无限",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money On Buy",
+      "name": "Max/Infinite Money On Buy | 购买时最大/无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Weather Change",
+      "name": "Weather Change | 天气变换",
       "type": "checkbox",
       "memory": [
         {

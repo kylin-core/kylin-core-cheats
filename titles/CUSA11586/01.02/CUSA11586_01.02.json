@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (MC)",
+      "name": "Infinite Health (MC) | 无限生命（主控角色）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Dead / Invincible (MC)",
+      "name": "Dead / Invincible (MC) | 死亡/无敌（主控角色）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Money (MC1)",
+      "name": "Money (MC1) | 金钱（主控角色1）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Hyper Speed (must fill / get money 1st / MC1)",
+      "name": "Hyper Speed (must fill / get money 1st / MC1) | 超级速度（需先填充/获取金钱/主控角色1）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Revolver 357 (force glitch / MC wep)",
+      "name": "Revolver 357 (force glitch / MC wep) | 357左轮手枪（强制故障/主控武器）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "ShotGun (force glitch / MC wep)",
+      "name": "ShotGun (force glitch / MC wep) | 霰弹枪（强制故障/主控武器）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Machine Gun (force glitch / MC wep)",
+      "name": "Machine Gun (force glitch / MC wep) | 机枪（强制故障/主控武器）",
       "type": "checkbox",
       "memory": [
         {

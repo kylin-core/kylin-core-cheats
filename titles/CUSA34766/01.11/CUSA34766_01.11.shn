@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Granblue Fantasy Link" Moder="d01v" Cusa="CUSA34766" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC5C510</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SKills">
+    <Cheat Text="Infinite SKills | 无限技能">
         <Cheatline>
             <Offset>7F8C9E</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-EA-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SBA">
+    <Cheat Text="Infinite SBA | 无限奥义">
         <Cheatline>
             <Offset>7FC5C570</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Replenish items at 1">
+    <Cheat Text="Replenish items at 1 | 物品保持1个不减少">
         <Cheatline>
             <Offset>7FC5C5A0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max link level">
+    <Cheat Text="Max link level | 满连接等级">
         <Cheatline>
             <Offset>7FC5C5D0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze link attack timer">
+    <Cheat Text="Freeze link attack timer | 冻结连击计时器">
         <Cheatline>
             <Offset>7FC5C600</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All treasure and key items">
+    <Cheat Text="All treasure and key items | 全宝藏及钥匙物品">
         <Cheatline>
             <Offset>7FC5C640</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant +999 treasures">
+    <Cheat Text="Instant +999 treasures | 立即获得+999宝藏">
         <Cheatline>
             <Offset>7FC5C680</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Sell item x900">
+    <Cheat Text="Sell item x900 | 出售物品x900">
         <Cheatline>
             <Offset>7FC5C6B0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Event timer">
+    <Cheat Text="Event timer | 事件计时器">
         <Cheatline>
             <Offset>7FC5C6E0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Increase all level">
+    <Cheat Text="Increase all level | 全员等级提升">
         <Cheatline>
             <Offset>7FC5C720</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max all party exp">
+    <Cheat Text="Max all party exp | 全员满经验">
         <Cheatline>
             <Offset>7FC5C750</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max base hp all members">
+    <Cheat Text="Max base hp all members | 全员基础生命上限">
         <Cheatline>
             <Offset>7FC5C780</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max all members base atk">
+    <Cheat Text="Max all members base atk | 全员基础攻击力上限">
         <Cheatline>
             <Offset>7FC5C7B0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max stun power all members">
+    <Cheat Text="Max stun power all members | 全员眩晕值上限">
         <Cheatline>
             <Offset>7FC5C7E0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max crit all members">
+    <Cheat Text="Max crit all members | 全员暴击率上限">
         <Cheatline>
             <Offset>7FC5C810</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max rupies">
+    <Cheat Text="Max rupies | 金钱上限">
         <Cheatline>
             <Offset>7FC5C840</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max MSP">
+    <Cheat Text="Max MSP | 技能点上限">
         <Cheatline>
             <Offset>7FC5C870</Offset>
             <Section>0</Section>

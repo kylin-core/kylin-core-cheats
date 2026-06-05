@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Hearts",
+      "name": "Max Hearts | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Studs ( on gain )",
+      "name": "Max Studs ( on gain ) | 最大螺柱（获得时）",
       "type": "checkbox",
       "memory": [
         {

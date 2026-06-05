@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wonderboy - Return Remix" Moder="Reddevil82 - FW 9.00" Cusa="CUSA16765" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌模式">
         <Cheatline>
             <Offset>1543E78</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Deactivate Invincible">
+    <Cheat Text="Deactivate Invincible | 关闭无敌">
         <Cheatline>
             <Offset>1543E8D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限生命值">
         <Cheatline>
             <Offset>1543DC0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives">
+    <Cheat Text="Max Lives | 最大生命数">
         <Cheatline>
             <Offset>1543DD0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill Boss">
+    <Cheat Text="One Hit Kill Boss | 一击必杀Boss">
         <Cheatline>
             <Offset>1543EB7</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mega Shoots">
+    <Cheat Text="Mega Shoots | 超级射击">
         <Cheatline>
             <Offset>1543DE3</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Power Up ( Square Button )">
+    <Cheat Text="Power Up ( Square Button ) | 强化（方块键）">
         <Cheatline>
             <Offset>1543E20</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Activate Board Equipment">
+    <Cheat Text="Activate Board Equipment | 激活木板装备">
         <Cheatline>
             <Offset>1543E50</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Activate Angel Equipment">
+    <Cheat Text="Activate Angel Equipment | 激活天使装备">
         <Cheatline>
             <Offset>1543E65</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Activate Devil Equipment">
+    <Cheat Text="Activate Devil Equipment | 激活恶魔装备">
         <Cheatline>
             <Offset>1543EA2</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score ( Level )">
+    <Cheat Text="Max Score ( Level ) | 最大分数（关卡）">
         <Cheatline>
             <Offset>1543DB0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score">
+    <Cheat Text="Max Score | 最大分数">
         <Cheatline>
             <Offset>1543E07</Offset>
             <Section>0</Section>

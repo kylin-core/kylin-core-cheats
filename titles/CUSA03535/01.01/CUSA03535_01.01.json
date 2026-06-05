@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Flashlight",
+      "name": "Infinite Flashlight | 无限手电",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "Infinite Scanner",
+      "name": "Infinite Scanner | 无限扫描器",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Infinite Turrent Ammo",
+      "name": "Infinite Turrent Ammo | 无限炮塔弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "No Turrent Overheat",
+      "name": "No Turrent Overheat | 炮塔永不超载",
       "type": "checkbox",
       "memory": [
         {

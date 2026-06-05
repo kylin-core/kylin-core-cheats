@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Rings",
-      "hint": null,
+      "name": "Infinite Rings | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Lives",
-      "hint": null,
+      "name": "Infinite Lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Enable Super Sonic",
-      "hint": null,
+      "name": "Enable Super Sonic | 启用超级索尼克",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Disable Super Sonic",
-      "hint": null,
+      "name": "Disable Super Sonic | 禁用超级索尼克",
       "type": "button",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Super Speed",
-      "hint": null,
+      "name": "Super Speed | 超级速度",
       "type": "button",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "All Silver Medals",
-      "hint": null,
+      "name": "All Silver Medals | 全部银牌",
       "type": "button",
       "memory": [
         {

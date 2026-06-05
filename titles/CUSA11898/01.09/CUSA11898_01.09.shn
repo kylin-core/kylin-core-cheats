@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Divinity: Original Sin 2 - Definitive Edition" Moder="EvilGoku" Cusa="CUSA11898" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP SP AP 1 hit kill">
+    <Cheat Text="Inf HP SP AP 1 hit kill | 无限生命、技能点、行动点，一击必杀">
         <Cheatline>
             <Offset>24A7800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp (Max 35 Level ) Get by kill 1 enemy">
+    <Cheat Text="Max Exp (Max 35 Level ) Get by kill 1 enemy | 最大经验值（最高35级），击杀1名敌人即可获得">
         <Cheatline>
             <Offset>24A786F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money(buy or Sell)">
+    <Cheat Text="Max Money(buy or Sell) | 最大金钱（购买或出售时生效）">
         <Cheatline>
             <Offset>24A7882</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Attribute Points (after using 1 point)">
+    <Cheat Text="99 Attribute Points (after using 1 point) | 99点属性点（使用1点后）">
         <Cheatline>
             <Offset>24A7894</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Combat Ability Points (after using 1 point)">
+    <Cheat Text="99 Combat Ability Points (after using 1 point) | 99点战斗能力点（使用1点后）">
         <Cheatline>
             <Offset>24A78B8</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 civil Ability Points (after using 1 point)">
+    <Cheat Text="99 civil Ability Points (after using 1 point) | 99点公民能力点（使用1点后）">
         <Cheatline>
             <Offset>24A78C9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Talents Ability Points (after using 1 point)">
+    <Cheat Text="99 Talents Ability Points (after using 1 point) | 99点天赋能力点（使用1点后）">
         <Cheatline>
             <Offset>24A78DA</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game Speed x3">
+    <Cheat Text="Game Speed x3 | 游戏速度3倍">
         <Cheatline>
             <Offset>24A78EC</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignore weight and Never Decrease Movement speed">
+    <Cheat Text="Ignore weight and Never Decrease Movement speed | 忽略负重，移动速度永不降低">
         <Cheatline>
             <Offset>88B32</Offset>
             <Section>0</Section>

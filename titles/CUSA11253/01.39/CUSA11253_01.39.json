@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Cells on spend",
+      "name": "Inf Cells on spend | 消费时无限细胞",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Money on spend",
+      "name": "Inf Money on spend | 消费时无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Kill Score",
+      "name": "Inf Kill Score | 无限击杀分数",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Arrow",
+      "name": "Inf Arrow | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Inf Jump",
+      "name": "Inf Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Survival scroll upgrade x99",
+      "name": "Survival scroll upgrade x99 | 生存卷轴升级 x99",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Tactics scroll upgrade x99",
+      "name": "Tactics scroll upgrade x99 | 战术卷轴升级 x99",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Brutality scroll upgrade x99",
+      "name": "Brutality scroll upgrade x99 | 狂暴卷轴升级 x99",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Play lvl Time freeze ",
+      "name": "Play lvl Time freeze | 游戏关卡时间冻结",
       "type": "checkbox",
       "memory": [
         {

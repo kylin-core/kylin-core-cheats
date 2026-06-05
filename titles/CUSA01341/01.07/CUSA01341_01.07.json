@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Zeni on Buy/Sell",
+      "name": "Max Zeni on Buy/Sell | 买卖时最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Points on Spend",
+      "name": "Max Points on Spend | 消费时最大点数",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max LVL/EXP on Gain",
+      "name": "Max LVL/EXP on Gain | 获取时最大等级/经验",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Items on Buy When Refreshed",
+      "name": "Max Items on Buy When Refreshed | 刷新购买时最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Ki",
+      "name": "Infinite Ki | 无限气力",
       "type": "checkbox",
       "memory": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "Max Stamina When Gained",
+      "name": "Max Stamina When Gained | 获得时最大体力",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {

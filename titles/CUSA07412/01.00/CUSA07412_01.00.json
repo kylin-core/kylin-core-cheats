@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible Player (No Damage)",
+      "name": "Invincible Player (No Damage) | 无敌玩家（不受伤害）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Bow Arrows",
+      "name": "Max and Infinite Bow Arrows | 弓箭无限且最大",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max and Infinite XP,HS,Resources When Get or Spend",
+      "name": "Max and Infinite XP,HS,Resources When Get or Spend | 获取或消耗时经验、魂、资源最大且无限",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get",
+      "name": "Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get | 获取或消耗时经验、魂、资源最大且无限（含劳工资源获取时最大）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Rage when Transfer",
+      "name": "Max and Infinite Rage when Transfer | 转换时怒气最大且无限",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Rage when Get or Hit",
+      "name": "Max and Infinite Rage when Get or Hit | 获取或受击时怒气最大且无限",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "coins",
+      "name": "coins | 金币",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "weight",
+      "name": "weight | 负重",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "max weight",
+      "name": "max weight | 最大负重",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "maxxx",
+      "name": "maxxx | 最大属性",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "maxi",
+      "name": "maxi | 最大增强",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "maaaaax",
+      "name": "maaaaax | 极限最大",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "mamax",
+      "name": "mamax | 超级最大",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "stm",
+      "name": "stm | 体力",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "wronf thirst",
+      "name": "wronf thirst | 错误口渴",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Thirst ",
+      "name": "Thirst | 口渴",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Sleep",
+      "name": "Sleep | 睡眠",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Hunger",
+      "name": "Hunger | 饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -197,11 +197,10 @@
       ]
     },
     {
-      "name": "hp",
+      "name": "hp | 生命值",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "46098",
           "on": "909090909090",
           "off": "C4C17A114664"
@@ -209,11 +208,10 @@
       ]
     },
     {
-      "name": "hp1",
+      "name": "hp1 | 生命值1",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "46129",
           "on": "909090909090",
           "off": "C4C17A114664"
@@ -221,7 +219,7 @@
       ]
     },
     {
-      "name": "health",
+      "name": "health | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -237,7 +235,7 @@
       ]
     },
     {
-      "name": "health 2",
+      "name": "health 2 | 生命值2",
       "type": "checkbox",
       "memory": [
         {
@@ -253,7 +251,7 @@
       ]
     },
     {
-      "name": "COINS",
+      "name": "COINS | 金币",
       "type": "checkbox",
       "memory": [
         {
@@ -269,7 +267,7 @@
       ]
     },
     {
-      "name": "coins on sell",
+      "name": "coins on sell | 出售金币",
       "type": "checkbox",
       "memory": [
         {
@@ -285,7 +283,7 @@
       ]
     },
     {
-      "name": "max stm",
+      "name": "max stm | 最大体力",
       "type": "checkbox",
       "memory": [
         {
@@ -301,7 +299,7 @@
       ]
     },
     {
-      "name": "max stm2",
+      "name": "max stm2 | 最大体力2",
       "type": "checkbox",
       "memory": [
         {
@@ -317,7 +315,7 @@
       ]
     },
     {
-      "name": "HPPPPP1",
+      "name": "HPPPPP1 | 超多生命值1",
       "type": "checkbox",
       "memory": [
         {
@@ -333,7 +331,7 @@
       ]
     },
     {
-      "name": "hpppp2",
+      "name": "hpppp2 | 超多生命值2",
       "type": "checkbox",
       "memory": [
         {
@@ -349,7 +347,7 @@
       ]
     },
     {
-      "name": "max hp2",
+      "name": "max hp2 | 最大生命值2",
       "type": "checkbox",
       "memory": [
         {
@@ -365,7 +363,7 @@
       ]
     },
     {
-      "name": "inf hpp",
+      "name": "inf hpp | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -381,7 +379,7 @@
       ]
     },
     {
-      "name": "durability",
+      "name": "durability | 耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -397,7 +395,7 @@
       ]
     },
     {
-      "name": "NoCool down",
+      "name": "NoCool down | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -413,7 +411,7 @@
       ]
     },
     {
-      "name": "Tempetar",
+      "name": "Tempetar | 温度",
       "type": "checkbox",
       "memory": [
         {
@@ -429,7 +427,7 @@
       ]
     },
     {
-      "name": "Mana",
+      "name": "Mana | 法力",
       "type": "checkbox",
       "memory": [
         {
@@ -445,7 +443,7 @@
       ]
     },
     {
-      "name": "ammo",
+      "name": "ammo | 弹药",
       "type": "checkbox",
       "memory": [
         {

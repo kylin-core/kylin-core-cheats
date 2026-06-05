@@ -3,22 +3,9 @@
   "id": "CUSA05574",
   "version": "01.50",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "24F3800",
-        "on": "83792003740E837920077423837920057429EB4190909090909090909090909090909090909090909090909090EB2690909090909090909090EB1A909090909090909090909090909090909090EB06C5FA10448104C5FA11048183FB060F85D3ABC0FEE9B9ABC0FE"
-      },
-      {
-        "offset": "10FE41A",
-        "on": "E9E1533F01"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,7 +16,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 秒杀",
       "type": "checkbox",
       "memory": [
         {
@@ -40,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -51,7 +38,7 @@
       ]
     },
     {
-      "name": "No Toxic",
+      "name": "No Toxic | 无毒素",
       "type": "checkbox",
       "memory": [
         {
@@ -62,7 +49,7 @@
       ]
     },
     {
-      "name": "Inf Adrenaline",
+      "name": "Inf Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +60,7 @@
       ]
     },
     {
-      "name": "Inf Oxygen",
+      "name": "Inf Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +71,7 @@
       ]
     },
     {
-      "name": "Inf Horse Run",
+      "name": "Inf Horse Run | 无限马匹体力",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +82,7 @@
       ]
     },
     {
-      "name": "Min Horse Panic",
+      "name": "Min Horse Panic | 最小马匹惊慌",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +93,7 @@
       ]
     },
     {
-      "name": "Inf Money 999999",
+      "name": "Inf Money 999999 | 无限金钱999999",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +119,7 @@
       ]
     },
     {
-      "name": "Max Waight 999999",
+      "name": "Max Waight 999999 | 最大负重999999",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +135,7 @@
       ]
     },
     {
-      "name": "XP x4 (Turn off first: x8, x16)",
+      "name": "XP x4 (Turn off first: x8, x16) | 经验x4（先关闭：x8, x16）",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +151,7 @@
       ]
     },
     {
-      "name": "XP x8 (Turn off first: x4, x16)",
+      "name": "XP x8 (Turn off first: x4, x16) | 经验x8（先关闭：x4, x16）",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +167,7 @@
       ]
     },
     {
-      "name": "XP x16 (Turn off first: x4, x8)",
+      "name": "XP x16 (Turn off first: x4, x8) | 经验x16（先关闭：x4, x8）",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +183,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -212,7 +199,7 @@
       ]
     },
     {
-      "name": "Durable Weapons and Armor",
+      "name": "Durable Weapons and Armor | 耐用武器与护甲",
       "type": "checkbox",
       "memory": [
         {

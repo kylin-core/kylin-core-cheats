@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Inf. Gold Coins",
+      "name": "Max Inf. Gold Coins | 最大金币数",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf. Item Usage",
+      "name": "Inf. Item Usage | 无限道具使用",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max. Skill Points",
+      "name": "Max. Skill Points | 最大技能点数",
       "type": "checkbox",
       "memory": [
         {

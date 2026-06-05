@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Items / Ammo ( does not deduct any value )",
+      "name": "Infinite Items / Ammo ( does not deduct any value ) | 无限道具/弹药（数值不减）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Items / Ammo ( added after use )",
+      "name": "Infinite Items / Ammo ( added after use ) | 无限道具/弹药（使用后增加）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Stealth Mode ( not in sequences )",
+      "name": "Stealth Mode ( not in sequences ) | 潜行模式（非剧情场景）",
       "type": "checkbox",
       "memory": [
         {

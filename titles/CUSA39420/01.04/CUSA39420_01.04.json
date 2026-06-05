@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Shell Shards - On Pickup",
+      "name": "Max Shell Shards - On Pickup | 拾取时最大贝壳碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Rosary Beads - On Pickup",
+      "name": "Max Rosary Beads - On Pickup | 拾取时最大念珠",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Fly - Press DPAD UP",
+      "name": "Fly - Press DPAD UP | 飞行 - 按方向键上",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Silk",
+      "name": "Inf Silk | 无限丝线",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Consumables",
+      "name": "Inf Weapon Consumables | 无限武器消耗品",
       "type": "checkbox",
       "memory": [
         {

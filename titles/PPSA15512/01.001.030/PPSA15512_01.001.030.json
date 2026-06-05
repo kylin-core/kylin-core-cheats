@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Invincible Mode",
+      "name": "Invincible Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Ammo & Items",
+      "name": "Inf Ammo \u0026 Items | 无限弹药与物品",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Inf Weapon Durability",
+      "name": "Inf Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {

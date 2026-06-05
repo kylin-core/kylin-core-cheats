@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / 1 Hit (Master Code)",
+      "name": "Health / 1 Hit (Master Code) | Health / 一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Stamina",
+      "name": "Stamina | 体力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Shield",
+      "name": "Shield | 护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Finisher (After 1st Use)",
+      "name": "Infinite Finisher (After 1st Use) | 无限终结技（首次使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Shard",
+      "name": "Max Shard | 碎片上限",
       "type": "checkbox",
       "memory": [
         {

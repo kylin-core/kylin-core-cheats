@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Iron (on spend and gain)",
+      "name": "Max Iron (on spend and gain) | 最大铁币（消耗与获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Sin (on spend and gain)",
+      "name": "Max Sin (on spend and gain) | 最大罪孽（消耗与获取时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Lives",
-      "hint": null,
+      "name": "Infinite Lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Bombs",
-      "hint": null,
+      "name": "Infinite Bombs | 无限炸弹",
       "type": "checkbox",
       "memory": [
         {

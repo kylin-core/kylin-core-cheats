@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Rising 4: Franks Big Package" Moder="PS4Guru" Cusa="CUSA08558" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God-Mode/Weapon Damage Meter">
+    <Cheat Text="God-Mode/Weapon Damage Meter | 上帝模式/武器伤害指示器">
         <Cheatline>
             <Offset>215F792</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-45-14-85-C0-7E-6C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Skill Points">
+    <Cheat Text="Unlimited Skill Points | 无限技能点数">
         <Cheatline>
             <Offset>1B5B4BE</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-88-60-1B-00-00-48-8B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Ammo/All Weapons">
+    <Cheat Text="Unlimited Ammo/All Weapons | 无限弹药/全部武器">
         <Cheatline>
             <Offset>211FB2B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-43-28-48-8B-85</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP">
+    <Cheat Text="Max XP | 最大经验值">
         <Cheatline>
             <Offset>117EE05</Offset>
             <Section>0</Section>

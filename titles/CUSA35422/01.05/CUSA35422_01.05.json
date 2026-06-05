@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[00][Master Code] Always ON!",
+      "name": "[00][Master Code] Always ON! | [00][主控代码] 始终开启",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "[01][Health] Immunity",
+      "name": "[01][Health] Immunity | [01][生命] 免疫",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "[02][Health] Infinite",
+      "name": "[02][Health] Infinite | [02][生命] 无限",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "[03][Health] 1 Hit Kill +Explode",
+      "name": "[03][Health] 1 Hit Kill +Explode | [03][生命] 一击必杀+爆炸",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "[04][Unlock] All Items +Infinite",
+      "name": "[04][Unlock] All Items +Infinite | [04][解锁] 所有物品+无限",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "[05][Unlock] All Weapons +666 Ammo",
+      "name": "[05][Unlock] All Weapons +666 Ammo | [05][解锁] 所有武器+666弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "[06][Unlock] All Keys",
+      "name": "[06][Unlock] All Keys | [06][解锁] 所有钥匙",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "[07a][Speed] Player x2",
+      "name": "[07a][Speed] Player x2 | [07a][速度] 玩家2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "name": "[07b][Speed] Player x3",
+      "name": "[07b][Speed] Player x3 | [07b][速度] 玩家3倍",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "[07c][Speed] Player x4",
+      "name": "[07c][Speed] Player x4 | [07c][速度] 玩家4倍",
       "type": "checkbox",
       "memory": [
         {
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "name": "[08][Weapon] Rapidfire",
+      "name": "[08][Weapon] Rapidfire | [08][武器] 速射",
       "type": "checkbox",
       "memory": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "[09][Ammo] Infinite",
+      "name": "[09][Ammo] Infinite | [09][弹药] 无限",
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "[10][Enemy] No Attack",
+      "name": "[10][Enemy] No Attack | [10][敌人] 不攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "name": "[11a][Jump] x1",
+      "name": "[11a][Jump] x1 | [11a][跳跃] 1倍",
       "type": "checkbox",
       "memory": [
         {
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "name": "[11b][Jump] x2",
+      "name": "[11b][Jump] x2 | [11b][跳跃] 2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "name": "[11c][Jump] x4",
+      "name": "[11c][Jump] x4 | [11c][跳跃] 4倍",
       "type": "checkbox",
       "memory": [
         {
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "name": "[11d][Jump] x8",
+      "name": "[11d][Jump] x8 | [11d][跳跃] 8倍",
       "type": "checkbox",
       "memory": [
         {
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "name": "[12a][RGB] Red = 1",
+      "name": "[12a][RGB] Red = 1 | [12a][RGB] 红色=1",
       "type": "checkbox",
       "memory": [
         {
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "name": "[12b][RGB] Red = 8",
+      "name": "[12b][RGB] Red = 8 | [12b][RGB] 红色=8",
       "type": "checkbox",
       "memory": [
         {
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "name": "[13a][RGB] Green = 1",
+      "name": "[13a][RGB] Green = 1 | [13a][RGB] 绿色=1",
       "type": "checkbox",
       "memory": [
         {
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "name": "[13b][RGB] Green = 8",
+      "name": "[13b][RGB] Green = 8 | [13b][RGB] 绿色=8",
       "type": "checkbox",
       "memory": [
         {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "name": "[14a][RGB] Blue = 1",
+      "name": "[14a][RGB] Blue = 1 | [14a][RGB] 蓝色=1",
       "type": "checkbox",
       "memory": [
         {
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "name": "[14b][RGB] Blue = 8",
+      "name": "[14b][RGB] Blue = 8 | [14b][RGB] 蓝色=8",
       "type": "checkbox",
       "memory": [
         {
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "name": "[15] No HUD",
+      "name": "[15] No HUD | [15] 无界面",
       "type": "checkbox",
       "memory": [
         {

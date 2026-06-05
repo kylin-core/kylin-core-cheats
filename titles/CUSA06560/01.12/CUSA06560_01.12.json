@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "x99 All Items(gain/use have 2 at least)",
+      "name": "x99 All Items(gain/use have 2 at least) | 全部物品x99（获取/使用时至少保留2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / No reload",
+      "name": "Infinite Ammo / No reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "1HitKill",
+      "name": "1HitKill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

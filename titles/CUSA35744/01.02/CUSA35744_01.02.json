@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite health",
+      "name": "Infinite health | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Meomry Ambers/Mote",
+      "name": "Max Meomry Ambers/Mote | 最大记忆琥珀/尘",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables(must have 2)",
+      "name": "Infinite Consumables(must have 2) | 无限消耗品（需拥有2个）",
       "type": "checkbox",
       "memory": [
         {

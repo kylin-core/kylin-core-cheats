@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "Infinite Armor",
+      "name": "Infinite Armor | 无限护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "All Weapons",
+      "name": "All Weapons | 全武器",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "3 Keycards",
+      "name": "3 Keycards | 三张钥匙卡",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "3 Skull Keys",
+      "name": "3 Skull Keys | 三把骷髅钥匙",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "3 Demon Keys",
+      "name": "3 Demon Keys | 三把恶魔钥匙",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "Enemies Don't Move (-MAP 28)",
+      "name": "Enemies Don't Move (-MAP 28) | 敌人静止（-第28关）",
       "type": "checkbox",
       "memory": [
         {
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "name": "Turbo Speed",
+      "name": "Turbo Speed | 涡轮加速",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "GodMode",
+      "name": "GodMode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite selling works 2x",
+      "name": "Infinite selling works 2x | 无限出售2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Free Fack",
+      "name": "Free Fack | 免费跳脸",
       "type": "checkbox",
       "memory": [
         {

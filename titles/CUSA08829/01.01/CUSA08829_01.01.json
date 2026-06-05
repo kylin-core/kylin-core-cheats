@@ -5,8 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Reload Ammo",
-      "hint": null,
+      "name": "Infinite Reload Ammo | 无限装填弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
-      "hint": null,
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Death-Barrier Godmode",
-      "hint": null,
+      "name": "Death-Barrier Godmode | 死亡屏障上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "No Recoil",
-      "hint": null,
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {

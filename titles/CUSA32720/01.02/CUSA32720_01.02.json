@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Money Multiplier (on buy)",
+      "name": "Money Multiplier (on buy) | 购买金钱倍数",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "228B79",
           "on": "01481C",
           "off": "89481C"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "No Skill Tree Cost",
+      "name": "No Skill Tree Cost | 无技能树消耗",
       "type": "checkbox",
       "memory": [
         {

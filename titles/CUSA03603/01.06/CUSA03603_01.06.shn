@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dishonored 2" Moder="Celogamez" Cusa="CUSA03603" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>1BB16C6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-D5-48-F2-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1ADB1FE</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-10-40-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath">
+    <Cheat Text="Infinite Breath | 无限呼吸">
         <Cheatline>
             <Offset>1E05082</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-40-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Powers">
+    <Cheat Text="Infinite Powers | 无限能量">
         <Cheatline>
             <Offset>1B28B3E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-47-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo/Items/Runes">
+    <Cheat Text="Infinite Ammo/Items/Runes | 无限弹药/物品/符文">
         <Cheatline>
             <Offset>3557810</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Coins">
+    <Cheat Text="Infinite Coins | 无限金币">
         <Cheatline>
             <Offset>3557880</Offset>
             <Section>0</Section>

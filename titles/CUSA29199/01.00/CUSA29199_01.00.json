@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo/ No Reload",
+      "name": "Infinite Ammo/ No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Nails x99 [On Reload]",
+      "name": "Nails x99 [On Reload] | 钉子×99 [装弹时]",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Morphine / Save Record x5 [On Use]",
+      "name": "Morphine / Save Record x5 [On Use] | 吗啡/存档记录×5 [使用时]",
       "type": "checkbox",
       "memory": [
         {

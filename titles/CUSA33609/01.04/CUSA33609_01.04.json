@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max F&E Skills Points",
+      "name": "Max F\u0026E Skills Points | 最大F\u0026E技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Reputation Level",
+      "name": "Max Reputation Level | 最大声望等级",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Moral",
+      "name": "Max Moral | 最大士气",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max XP ( on gain )",
+      "name": "Max XP ( on gain ) | 最大经验值（获取时）",
       "type": "checkbox",
       "memory": [
         {

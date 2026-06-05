@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Status Values ",
-      "hint": "Health, Water, Food, Stamina,...",
+      "name": "Infinite Status Values | 无限状态值 ",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Multiply Status Value x10 On Upgrade",
-      "hint": null,
+      "name": "Multiply Status Value x10 On Upgrade | 升级时状态值x10",
       "type": "checkbox",
       "memory": [
         {

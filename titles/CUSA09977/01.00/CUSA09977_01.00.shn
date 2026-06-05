@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Digimon Story Cyber Sleuth - Hacker\'s Memory" Moder="Molly" Cusa="CUSA09977" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max YEN &quot;After Gained Or Used&quot;">
+    <Cheat Text="Max YEN "After Gained Or Used" | 金钱最大（获得或使用后）">
         <Cheatline>
             <Offset>AAF800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Hacker Rank &quot;After Gained&quot;">
+    <Cheat Text="Quick Hacker Rank "After Gained" | 黑客等级快速提升（获得后）">
         <Cheatline>
             <Offset>AAF80D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Level Up">
+    <Cheat Text="Quick Level Up | 快速升级">
         <Cheatline>
             <Offset>AAF81B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Hp &quot;After Level Up&quot;">
+    <Cheat Text="Max Hp "After Level Up" | 最大HP（升级后）">
         <Cheatline>
             <Offset>AAF829</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Sp &quot;After Level Up&quot;">
+    <Cheat Text="Max Sp "After Level Up" | 最大SP（升级后）">
         <Cheatline>
             <Offset>AAF83A</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max ATK &quot;After Level Up&quot;">
+    <Cheat Text="Max ATK "After Level Up" | 最大攻击力（升级后）">
         <Cheatline>
             <Offset>AAF84B</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max DEF &quot;After Level Up&quot;">
+    <Cheat Text="Max DEF "After Level Up" | 最大防御力（升级后）">
         <Cheatline>
             <Offset>AAF85C</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max INT &quot;After Level Up&quot;">
+    <Cheat Text="Max INT "After Level Up" | 最大智力（升级后）">
         <Cheatline>
             <Offset>AAF86D</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max SPD &quot;After Level Up&quot; ">
+    <Cheat Text="Max SPD "After Level Up" | 最大速度（升级后）">
         <Cheatline>
             <Offset>AAF87E</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max ABI &quot;After Digivolve Or De-Digivolve&quot;">
+    <Cheat Text="Max ABI "After Digivolve Or De-Digivolve" | 最大ABI（进化或退化后）">
         <Cheatline>
             <Offset>AAF88F</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Cam &quot;After Battle&quot;">
+    <Cheat Text="Max Cam "After Battle" | 最大CAM（战斗后）">
         <Cheatline>
             <Offset>AAF8A0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item &quot;After Used&quot;">
+    <Cheat Text="Item "After Used" | 道具（使用后）">
         <Cheatline>
             <Offset>AAF8B1</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick DigiConvert">
+    <Cheat Text="Quick DigiConvert | 快速数码转换">
         <Cheatline>
             <Offset>AAF8BB</Offset>
             <Section>0</Section>

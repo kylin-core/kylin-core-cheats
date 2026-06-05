@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite AMMO Usage",
+      "name": "Infinite AMMO Usage | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Grenade Usage",
+      "name": "Infinite Grenade Usage | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Black Sight Aways Available",
+      "name": "Black Sight Aways Available | 黑视常驻",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Player Health",
+      "name": "Infinite Player Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Enemy 1 Hit Kill",
+      "name": "Enemy 1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

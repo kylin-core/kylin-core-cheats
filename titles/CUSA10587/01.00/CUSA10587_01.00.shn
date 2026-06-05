@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SUPER ROBOT WARS X" Moder="squall3032" Cusa="CUSA10587" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Money Gain when enemy killed during battle">
+    <Cheat Text="Money Gain when enemy killed during battle | 击破敌机时获得金钱">
         <Cheatline>
             <Offset>4A2D6D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="TacP Gain when enemy killed during battle">
+    <Cheat Text="TacP Gain when enemy killed during battle | 击破敌机时获得TacP">
         <Cheatline>
             <Offset>4A2EBE</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-48-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="TacP Gain on Spend">
+    <Cheat Text="TacP Gain on Spend | 消费时获得TacP">
         <Cheatline>
             <Offset>4A2F4B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-51-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money Gain on Spend">
+    <Cheat Text="Money Gain on Spend | 消费时获得金钱">
         <Cheatline>
             <Offset>4A2E0A</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible-for-attack",
+      "name": "Invincible-for-attack | 攻击无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf-Rage-Power",
+      "name": "Inf-Rage-Power | 无限狂怒之力",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite-All-Weapon",
+      "name": "Infinite-All-Weapon | 无限所有武器",
       "type": "checkbox",
       "memory": [
         {

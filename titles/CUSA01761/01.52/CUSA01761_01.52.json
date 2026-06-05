@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code /Health /Ammo / Skill/Money/Ins_Drill",
+      "name": "Master Code /Health /Ammo / Skill/Money/Ins_Drill | 主代码/生命/弹药/技能/金钱/即时钻机",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo /No Reload",
+      "name": "Infinite Ammo /No Reload | 无限弹药/无需换弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Skill Points",
+      "name": "Max Skill Points | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Money (999999999)",
+      "name": "Max Money (999999999) | 最大金钱（999999999）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Instant Drill ",
+      "name": "Instant Drill | 即时钻机",
       "type": "checkbox",
       "memory": [
         {

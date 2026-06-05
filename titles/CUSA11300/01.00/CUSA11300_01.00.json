@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite-All-MAGIC",
+      "name": "Infinite-All-MAGIC | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "MAX-money",
+      "name": "MAX-money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "MAX-Souls",
+      "name": "MAX-Souls | 最大魂灵",
       "type": "checkbox",
       "memory": [
         {

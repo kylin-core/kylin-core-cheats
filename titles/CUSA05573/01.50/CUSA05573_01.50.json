@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "No Toxic",
+      "name": "No Toxic | 无毒素",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Inf Adrenaline",
+      "name": "Inf Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Inf Oxygen",
+      "name": "Inf Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Inf Horse Run",
+      "name": "Inf Horse Run | 无限马匹耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Min Horse Panic",
+      "name": "Min Horse Panic | 马匹最低恐惧",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Inf Money 999999",
+      "name": "Inf Money 999999 | 无限金钱999999",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Max Waight 999999",
+      "name": "Max Waight 999999 | 最大负重999999",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "XP x4 (Turn off first: x8, x16)",
+      "name": "XP x4 (Turn off first: x8, x16) | 经验x4（先关闭：x8, x16）",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "XP x8 (Turn off first: x4, x16)",
+      "name": "XP x8 (Turn off first: x4, x16) | 经验x8（先关闭：x4, x16）",
       "type": "checkbox",
       "memory": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "XP x16 (Turn off first: x4, x8)",
+      "name": "XP x16 (Turn off first: x4, x8) | 经验x16（先关闭：x4, x8）",
       "type": "checkbox",
       "memory": [
         {
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "name": "Inf Skill Points",
+      "name": "Inf Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "Durable Weapons and Armor",
+      "name": "Durable Weapons and Armor | 武器与护甲不损",
       "type": "checkbox",
       "memory": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {

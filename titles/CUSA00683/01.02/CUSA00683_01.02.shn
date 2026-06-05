@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metro Redux" Moder="Dioniso" Cusa="CUSA00683" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (-Trolley Combat)">
+    <Cheat Text="Infinite Health (-Trolley Combat) | 无限生命（-有轨电车战斗）">
         <Cheatline>
             <Offset>E33B20</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (-Bosses)">
+    <Cheat Text="1 Hit Kill (-Bosses) | 一击必杀（-Boss除外）">
         <Cheatline>
             <Offset>E33B64</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gold (Bullets)">
+    <Cheat Text="Infinite Gold (Bullets) | 无限金币（子弹）">
         <Cheatline>
             <Offset>E33B40</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo - *No Reload Needed">
+    <Cheat Text="Infinite Ammo - *No Reload Needed | 无限弹药 - *无需装弹">
         <Cheatline>
             <Offset>1F2648</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C6-84-03-02-0C-00-00-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo (DShK 12.7mm Machinegun)">
+    <Cheat Text="Infinite Ammo (DShK 12.7mm Machinegun) | 无限弹药（DShK 12.7毫米机枪）">
         <Cheatline>
             <Offset>26DA83</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>FF-8B-18-07-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Low Temperature (DShK 12.7mm Machinegun)">
+    <Cheat Text="Low Temperature (DShK 12.7mm Machinegun) | 低温过热（DShK 12.7毫米机枪）">
         <Cheatline>
             <Offset>E33C50</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Pressure (Tikhar + Flamethrower + Helsing)">
+    <Cheat Text="Infinite Pressure (Tikhar + Flamethrower + Helsing) | 无限气压（Tikhar + 火焰喷射器 + 赫尔辛）">
         <Cheatline>
             <Offset>E33940</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Charge (Hellbreath)">
+    <Cheat Text="Infinite Charge (Hellbreath) | 无限充能（地狱之息）">
         <Cheatline>
             <Offset>E33C90</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Weapons Jam">
+    <Cheat Text="No Weapons Jam | 武器永不卡壳">
         <Cheatline>
             <Offset>E33A00</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mask: Unbreakable">
+    <Cheat Text="Mask: Unbreakable | 面罩：永不破损">
         <Cheatline>
             <Offset>E33C20</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mask: Infinite Filter">
+    <Cheat Text="Mask: Infinite Filter | 面罩：无限滤毒">
         <Cheatline>
             <Offset>E33AB0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mask: Infinite Filter Replacements">
+    <Cheat Text="Mask: Infinite Filter Replacements | 面罩：无限滤毒替换芯">
         <Cheatline>
             <Offset>E33A90</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades And Knives">
+    <Cheat Text="Infinite Grenades And Knives | 无限手雷与飞刀">
         <Cheatline>
             <Offset>E33AD0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Claymore Mines (Last Light)">
+    <Cheat Text="Infinite Claymore Mines (Last Light) | 无限阔剑地雷（《最后的曙光》）">
         <Cheatline>
             <Offset>E33BD0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Aim Cross Stays Small">
+    <Cheat Text="Aim Cross Stays Small | 准星始终缩小">
         <Cheatline>
             <Offset>E33A40</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Machine 'Crazy-Horse' Gun">
+    <Cheat Text="Machine 'Crazy-Horse' Gun | 机枪“疯马”">
         <Cheatline>
             <Offset>E33A60</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Batteries x1">
+    <Cheat Text="Infinite Batteries x1 | 无限电池 x1">
         <Cheatline>
             <Offset>E33845</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Batteries x4">
+    <Cheat Text="Infinite Batteries x4 | 无限电池 x4">
         <Cheatline>
             <Offset>E33845</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Batteries x8">
+    <Cheat Text="Infinite Batteries x8 | 无限电池 x8">
         <Cheatline>
             <Offset>E33845</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Batteries x20">
+    <Cheat Text="Infinite Batteries x20 | 无限电池 x20">
         <Cheatline>
             <Offset>E33845</Offset>
             <Section>0</Section>

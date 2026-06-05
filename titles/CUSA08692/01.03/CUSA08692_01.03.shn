@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dark Souls Remastered" Moder="Skal" Cusa="CUSA08692" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Souls">
+    <Cheat Text="Max Souls | 最大灵魂数">
         <Cheatline>
             <Offset>183782E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill + Godmode">
+    <Cheat Text="1 Hit Kill + Godmode | 一击必杀 + 无敌模式">
         <Cheatline>
             <Offset>1837800</Offset>
             <Section>0</Section>

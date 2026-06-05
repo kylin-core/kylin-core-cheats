@@ -3,54 +3,9 @@
   "id": "CUSA36582",
   "version": "01.11",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "8477F840",
-        "on": "488B4010488B7B28488B7F10488B7F2048893D7947A200488B7B38488B7F18488B7F10488BBF38020000488B7F70488B7F10488BBFB0000000488B7F7848893D5447A200EB07C74728050D0000488BFB4C8BFBE985EE80FC"
-      },
-      {
-        "offset": "80F8E716",
-        "on": "9090E923117F03"
-      },
-      {
-        "offset": "8477F8B0",
-        "on": "483B3D1947A200740055488BEC4157E992A162FC4883FA007415807E4100750F66837E5C017508807E70017502EBDAC3"
-      },
-      {
-        "offset": "80DA9A50",
-        "on": "E95B5E9D0390"
-      },
-      {
-        "offset": "8477F8F0",
-        "on": "FF9038020000483B3DDB46A200EB0641BE3F420F00E9C4A5E4FC"
-      },
-      {
-        "offset": "815C9EC8",
-        "on": "90E9225A1B03"
-      },
-      {
-        "offset": "8477F920",
-        "on": "488905B946A200C680F001000001E9BD8C52FE"
-      },
-      {
-        "offset": "82CA85E9",
-        "on": "9090E93073AD01"
-      },
-      {
-        "offset": "8477F950",
-        "on": "53C5F8138054020000488B1D8046A2004883FB00741980BBF001000001EB10C57A103D07237000C57A11B8580200005BE96E0953FE"
-      },
-      {
-        "offset": "82CB02EB",
-        "on": "909090E95DF6AC01"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "Invincible Mode",
+      "name": "Invincible Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -61,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -72,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Dash",
+      "name": "Infinite Dash | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -83,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Athra Surges",
+      "name": "Infinite Athra Surges | 无限阿斯拉爆发",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Healing Potion",
+      "name": "Infinite Healing Potion | 无限治疗药水",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Memory Shard",
+      "name": "Infinite Memory Shard | 无限记忆碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -126,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +92,7 @@
       ]
     },
     {
-      "name": "Half Screen Arrow Attack",
+      "name": "Half Screen Arrow Attack | 半屏箭矢攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -158,7 +113,7 @@
       ]
     },
     {
-      "name": "Full Screen Arrow Attack",
+      "name": "Full Screen Arrow Attack | 全屏箭矢攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +134,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -190,7 +145,7 @@
       ]
     },
     {
-      "name": "Moon Jump",
+      "name": "Moon Jump | 月步跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -201,7 +156,7 @@
       ]
     },
     {
-      "name": "Infinite Double Jumps",
+      "name": "Infinite Double Jumps | 无限二段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -212,7 +167,7 @@
       ]
     },
     {
-      "name": "Full Screen Collection",
+      "name": "Full Screen Collection | 全屏拾取",
       "type": "checkbox",
       "memory": [
         {
@@ -223,7 +178,7 @@
       ]
     },
     {
-      "name": "Unlock Six Powers",
+      "name": "Unlock Six Powers | 解锁六种能力",
       "type": "checkbox",
       "memory": [
         {
@@ -249,7 +204,7 @@
       ]
     },
     {
-      "name": "All Amulets Can Be Equip",
+      "name": "All Amulets Can Be Equip | 所有护身符可装备",
       "type": "checkbox",
       "memory": [
         {
@@ -265,7 +220,7 @@
       ]
     },
     {
-      "name": "Ignore Buy & Upgrades Requirements",
+      "name": "Ignore Buy \u0026 Upgrades Requirements | 无视购买与升级需求",
       "type": "checkbox",
       "memory": [
         {

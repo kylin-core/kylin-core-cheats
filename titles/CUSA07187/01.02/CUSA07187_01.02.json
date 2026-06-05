@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "INF HP",
+      "name": "INF HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Add GIL When Buying",
+      "name": "Add GIL When Buying | 购买时增加金币",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Freez GIL",
+      "name": "Freez GIL | 锁定金币",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Add Item When Buying",
+      "name": "Add Item When Buying | 购买时增加道具",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Freez Mp",
+      "name": "Freez Mp | 锁定MP",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "ADD Mp",
+      "name": "ADD Mp | 增加MP",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "MAX ATB",
+      "name": "MAX ATB | 满ATB槽",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Freez Special LIMIT",
+      "name": "Freez Special LIMIT | 锁定极限技",
       "type": "checkbox",
       "memory": [
         {

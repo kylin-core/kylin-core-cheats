@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Health - Stamina ( must be activated )",
+      "name": "Mastercode Health - Stamina ( must be activated ) | Mastercode 生命-耐力（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命 [主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina [ MC ]",
+      "name": "Infinite Stamina [ MC ] | 无限耐力 [主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 最大弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Fast Level Up",
+      "name": "Fast Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Gems",
+      "name": "Max Gems | 最大宝石",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Roses",
+      "name": "Max Roses | 最大玫瑰",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Coins",
+      "name": "Max Coins | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Max Chips",
+      "name": "Max Chips | 最大芯片",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Max Cubes",
+      "name": "Max Cubes | 最大立方体",
       "type": "checkbox",
       "memory": [
         {

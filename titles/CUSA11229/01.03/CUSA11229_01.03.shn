@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LEFT ALIVE" Moder="GamerX2" Cusa="CUSA11229" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="V1| Infinite Ammo No Reload">
+    <Cheat Text="V1| Infinite Ammo No Reload | 无限弹药无需装填">
         <Cheatline>
             <Offset>89C636</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-87-10-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V1| Max+ Inf Clip Ammo On Reload">
+    <Cheat Text="V1| Max+ Inf Clip Ammo On Reload | 换弹后弹匣弹药最大化">
         <Cheatline>
             <Offset>89FB49</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V1| Inf Equipped Items/Crossbow/Grenades">
+    <Cheat Text="V1| Inf Equipped Items/Crossbow/Grenades | 装备物品/弩箭/手雷无限">
         <Cheatline>
             <Offset>89C774</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V1| Infinite Box Items">
+    <Cheat Text="V1| Infinite Box Items | 储物箱物品无限">
         <Cheatline>
             <Offset>B4208B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V1| Max Box Items on Move">
+    <Cheat Text="V1| Max Box Items on Move | 移动时储物箱物品最大化">
         <Cheatline>
             <Offset>1653800</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V2| Infinite Ammo No Reload.">
+    <Cheat Text="V2| Infinite Ammo No Reload. | 无限弹药无需装填">
         <Cheatline>
             <Offset>89C636</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>89-87-10-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V2| Max+ Inf Clip Ammo On Realod.">
+    <Cheat Text="V2| Max+ Inf Clip Ammo On Realod. | 换弹后弹匣弹药最大化">
         <Cheatline>
             <Offset>89FB49</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V2| Inf Equipped Items/Crossbow/Grenades.">
+    <Cheat Text="V2| Inf Equipped Items/Crossbow/Grenades. | 装备物品/弩箭/手雷无限">
         <Cheatline>
             <Offset>89C774</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V2| Infinite Box Items.">
+    <Cheat Text="V2| Infinite Box Items. | 储物箱物品无限">
         <Cheatline>
             <Offset>B4208B</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V2| Max Box Items on Move.">
+    <Cheat Text="V2| Max Box Items on Move. | 移动时储物箱物品最大化">
         <Cheatline>
             <Offset>1653800</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V3| Infinite Ammo No Reload!">
+    <Cheat Text="V3| Infinite Ammo No Reload! | 无限弹药无需装填">
         <Cheatline>
             <Offset>89C636</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>89-87-10-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V3| Max+ Inf Clip Ammo On Realod!">
+    <Cheat Text="V3| Max+ Inf Clip Ammo On Realod! | 换弹后弹匣弹药最大化">
         <Cheatline>
             <Offset>89FB49</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V3| Inf Equipped Items/Crossbow/Grenades!">
+    <Cheat Text="V3| Inf Equipped Items/Crossbow/Grenades! | 装备物品/弩箭/手雷无限">
         <Cheatline>
             <Offset>89C774</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V3| Infinite Box Items!">
+    <Cheat Text="V3| Infinite Box Items! | 储物箱物品无限">
         <Cheatline>
             <Offset>B4208B</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="V3| Max Box Items on Move!">
+    <Cheat Text="V3| Max Box Items on Move! | 移动时储物箱物品最大化">
         <Cheatline>
             <Offset>1653800</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Money - XP ( must be activate )",
+      "name": "Mastercode Money - XP ( must be activate ) | 主密码金钱-经验（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Fuel",
+      "name": "Infinite Fuel | 无限燃油",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Damage",
+      "name": "No Damage | 无损坏",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Repair Points",
+      "name": "Max Repair Points | 最高修理点数",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Money Campaign [ MC ]",
+      "name": "Max Money Campaign [ MC ] | 战役模式最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max XP Campaign [ MC ]",
+      "name": "Max XP Campaign [ MC ] | 战役模式最大经验",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Time of the Day [ Night ]",
+      "name": "Time of the Day [ Night ] | 时间设定[夜晚]",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Time of the Day [ Morning ]",
+      "name": "Time of the Day [ Morning ] | 时间设定[清晨]",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Time of the Day [ Midday ]",
+      "name": "Time of the Day [ Midday ] | 时间设定[正午]",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Time of the Day [ Afternoon ]",
+      "name": "Time of the Day [ Afternoon ] | 时间设定[午后]",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Time of the Day [ Evening ]",
+      "name": "Time of the Day [ Evening ] | 时间设定[傍晚]",
       "type": "checkbox",
       "memory": [
         {

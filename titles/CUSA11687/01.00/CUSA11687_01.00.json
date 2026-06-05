@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Infinite Health",
+      "name": "Max Infinite Health | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Earn SP on Spend",
+      "name": "Earn SP on Spend | 消费获得技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max SP (999,999)",
+      "name": "Max SP (999,999) | 最大技能点 (999,999)",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Infinite Rune Energy",
+      "name": "Max Infinite Rune Energy | 无限符文能量",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Infinite Mission Timer (100 Mins)",
+      "name": "Max Infinite Mission Timer (100 Mins) | 无限任务时间 (100分钟)",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Increasing Mission Timer",
+      "name": "Increasing Mission Timer | 任务时间递增",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Freeze Mission Timer",
+      "name": "Freeze Mission Timer | 冻结任务时间",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Rings on hit",
+      "name": "Max Rings on hit | 命中获得最大金环",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max rings (on Get)",
+      "name": "Max rings (on Get) | 获取时获得最大金环",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Hearts/Koco (on get claim 2 )",
+      "name": "Max Hearts/Koco (on get claim 2 ) | 获取时获得最大心/柯柯（领取2份）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Blue seeds (on get)",
+      "name": "Max Blue seeds (on get) | 获取时获得最大蓝种子",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max red Seeds (On get)",
+      "name": "Max red Seeds (On get) | 获取时获得最大红种子",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )(collect 1 each At least)",
+      "name": "Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )(collect 1 each At least) | 获得最大保险库钥匙+传送齿轮（在1-2关卡后首次使用，每种至少收集1个）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Skill Points (activate and die)",
+      "name": "Max Skill Points (activate and die) | 最大技能点数（激活后死亡）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Purple Coins (on get)",
+      "name": "Max Purple Coins (on get) | 获取时获得最大紫金币",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Stars (on collect)",
+      "name": "Max Stars (on collect) | 收集时获得最大星星",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max golden tickets ",
+      "name": "Max golden tickets | 最大金票",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Fish Token (on get)",
+      "name": "Max Fish Token (on get) | 获取时获得最大鱼代币",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Infinite Super Sonic Rings",
+      "name": "Infinite Super Sonic Rings | 无限超级索尼克金环",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Family reunion Infinite Timer",
+      "name": "Family reunion Infinite Timer | 无限家庭团聚倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Springs in the air Infinite Timer",
+      "name": "Springs in the air Infinite Timer | 无限空中弹簧倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Koco round up Infinite timer",
+      "name": "Koco round up Infinite timer | 无限柯柯集结倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "The best defence Infinite Timer",
+      "name": "The best defence Infinite Timer | 无限最佳防御倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "Mechanical collectible Infinite Timer",
+      "name": "Mechanical collectible Infinite Timer | 无限机械收集品倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "name": "Bridge the gap Infinite Timer",
+      "name": "Bridge the gap Infinite Timer | 无限跨越鸿沟倒计时",
       "type": "checkbox",
       "memory": [
         {
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "name": "Clear the game in the ruins MAX SCORE",
+      "name": "Clear the game in the ruins MAX SCORE | 遗迹通关最高分",
       "type": "checkbox",
       "memory": [
         {

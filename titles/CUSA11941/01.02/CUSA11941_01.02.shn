@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Starlit Adventures" Moder="Saso" Cusa="CUSA11941" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="High Pts / Score">
+    <Cheat Text="High Pts / Score | 高分/得分">
         <Cheatline>
             <Offset>1F1A8A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Green Tokens (on Spend)">
+    <Cheat Text="Inf Green Tokens (on Spend) | 无限绿色符石（消耗时）">
         <Cheatline>
             <Offset>154A210</Offset>
             <Section>0</Section>

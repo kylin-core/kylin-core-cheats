@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -44,8 +42,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": null,
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints",
-      "hint": null,
+      "name": "Infinite Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -68,8 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Myth Rank Points",
-      "hint": null,
+      "name": "Infinite Myth Rank Points | 无限神话等级点数",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "Huge XP Multiplier",
-      "hint": null,
+      "name": "Huge XP Multiplier | 巨额经验倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -97,8 +91,7 @@
       ]
     },
     {
-      "name": "x999 Skill Points Upgrades",
-      "hint": null,
+      "name": "x999 Skill Points Upgrades | x999技能点升级",
       "type": "checkbox",
       "memory": [
         {
@@ -119,8 +112,7 @@
       ]
     },
     {
-      "name": "x999999999 Myth Points Upgrades",
-      "hint": "Warning: Only use this on the final upgrades in each tree!",
+      "name": "x999999999 Myth Points Upgrades | x999999999神话点数升级",
       "type": "checkbox",
       "memory": [
         {
@@ -141,8 +133,7 @@
       ]
     },
     {
-      "name": "No Cap On Inventory Upgrades",
-      "hint": "The upgrades that go past the games cap will reset upon restarting the game or loading the save.",
+      "name": "No Cap On Inventory Upgrades | 背包升级无上限",
       "type": "checkbox",
       "memory": [
         {

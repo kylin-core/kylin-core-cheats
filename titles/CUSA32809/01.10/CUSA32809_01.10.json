@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Cash (on buy)",
+      "name": "Max Cash (on buy) | 最大金钱（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "90 Items (on sell)",
+      "name": "90 Items (on sell) | 90件物品（出售时）",
       "type": "checkbox",
       "memory": [
         {

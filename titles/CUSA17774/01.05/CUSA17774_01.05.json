@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "description": "",
-      "name": "Inf Life",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "description": "",
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "description": "",
-      "name": "Inf Resistance",
+      "name": "Inf Resistance | 无限抗性",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "description": "Some items cannot be crafted properly, like the anchor.",
-      "name": "Inf Items",
+      "name": "Inf Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {

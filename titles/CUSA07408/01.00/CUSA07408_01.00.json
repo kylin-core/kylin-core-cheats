@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
+      "name": "Infinite Rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows",
+      "name": "Infinite Arrows | 无限箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max XP/Hacksilver/Resources",
+      "name": "Max XP/Hacksilver/Resources | 最大经验/银片/资源",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Stats/Rank on Item Change",
+      "name": "Max Stats/Rank on Item Change | 道具变更时最大属性/等级",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Freeze Items Usage Timer",
+      "name": "Freeze Items Usage Timer | 冻结道具使用计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Instant Kill Enemies",
+      "name": "Instant Kill Enemies | 秒杀敌人",
       "type": "checkbox",
       "memory": [
         {

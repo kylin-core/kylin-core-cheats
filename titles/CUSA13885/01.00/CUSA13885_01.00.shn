@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry® New Dawn" Moder="Arafat" Cusa="CUSA13885" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>38DDB62</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>45-89-B7-80-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables,resources,medkits,ethanol">
+    <Cheat Text="Infinite Throwables,resources,medkits,ethanol | 无限投掷物、资源、医疗包、乙醇">
         <Cheatline>
             <Offset>11DC9C7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-43-48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gives everything 16959 except perk points">
+    <Cheat Text="Gives everything 16959 except perk points | 给予所有物品（16959）除技能点外">
         <Cheatline>
             <Offset>5F9F800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Perk Points">
+    <Cheat Text="Infinite Perk Points | 无限技能点">
         <Cheatline>
             <Offset>34ABABD</Offset>
             <Section>0</Section>

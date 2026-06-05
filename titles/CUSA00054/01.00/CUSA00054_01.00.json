@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "```json",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "[\"Godmode | 上帝模式\", \"Infinite Ammo | 无限弹药\", \"Max Scraps And Canteen | 最大废料和水壶\"]",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Max Scraps And Canteen",
-      "hint": null,
+      "name": "```",
       "type": "checkbox",
       "memory": [
         {

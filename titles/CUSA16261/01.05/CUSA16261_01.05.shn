@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blasphemous" Moder="Saso" Cusa="CUSA16261" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health / Mana / Points">
+    <Cheat Text="Inf Health / Mana / Points | 无限生命/魔力/点数">
         <Cheatline>
             <Offset>157D0B0</Offset>
             <Section>0</Section>

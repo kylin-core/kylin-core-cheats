@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dynasty Warriors 9 Empires" Moder="Reddevil82 " Cusa="CUSA24463" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1E83D30</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Musou">
+    <Cheat Text="Infinite Musou | 无限无双">
         <Cheatline>
             <Offset>1E83D58</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Special Skill Instant Charge">
+    <Cheat Text="Infinite Special Skill Instant Charge | 无限特殊技瞬发">
         <Cheatline>
             <Offset>1E83D75</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo">
+    <Cheat Text="Max Ammo | 最大弹药">
         <Cheatline>
             <Offset>1E83D85</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Player Troops">
+    <Cheat Text="Max Player Troops | 最大己方兵力">
         <Cheatline>
             <Offset>1E83DA5</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Enemy Troops">
+    <Cheat Text="No Enemy Troops | 敌方无兵力">
         <Cheatline>
             <Offset>1E83DBA</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max KO Points ( on gain )">
+    <Cheat Text="Max KO Points ( on gain ) | 最大击破数（获取时）">
         <Cheatline>
             <Offset>D85869</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-42-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Combo Points ( on gain )">
+    <Cheat Text="Max Combo Points ( on gain ) | 最大连击数（获取时）">
         <Cheatline>
             <Offset>1E83D96</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP Level ( on gain )">
+    <Cheat Text="Max XP Level ( on gain ) | 最高等级（获取时）">
         <Cheatline>
             <Offset>1E83DD2</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Reputation ( on gain )">
+    <Cheat Text="Max Reputation ( on gain ) | 最大名声（获取时）">
         <Cheatline>
             <Offset>1E83DE2</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Food">
+    <Cheat Text="Max Food | 最大军粮">
         <Cheatline>
             <Offset>1E83DF3</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold">
+    <Cheat Text="Max Gold | 最大金钱">
         <Cheatline>
             <Offset>1E83E0B</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health Stats">
+    <Cheat Text="Max Health Stats | 最大体力属性">
         <Cheatline>
             <Offset>1E83EA0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Attack Stats">
+    <Cheat Text="Max Attack Stats | 最大攻击属性">
         <Cheatline>
             <Offset>1E83E23</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Defense Stats">
+    <Cheat Text="Max Defense Stats | 最大防御属性">
         <Cheatline>
             <Offset>1E83E80</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Speed Stats">
+    <Cheat Text="Max Speed Stats | 最大速度属性">
         <Cheatline>
             <Offset>1E83E36</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bow Skill Stats">
+    <Cheat Text="Max Bow Skill Stats | 最大弓术属性">
         <Cheatline>
             <Offset>1E83E49</Offset>
             <Section>0</Section>

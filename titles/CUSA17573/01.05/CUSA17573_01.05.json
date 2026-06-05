@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP / MP/1Hit",
+      "name": "Infinite HP / MP/1Hit | 无限HP/MP/一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Max Money (on gain)",
+      "name": "Max Money (on gain) | 金钱最大（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "All Item x999 (on gain have 1 at least)",
+      "name": "All Item x999 (on gain have 1 at least) | 全物品x999（获得时至少拥有1个）",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Max Rank points (on spend)",
+      "name": "Max Rank points (on spend) | 最大阶位点数（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {

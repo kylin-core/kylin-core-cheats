@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="WRC 10 FIA World Rally Championship" Moder="Reddevil82 " Cusa="CUSA27790" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>204BDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max R&D Skills Points">
+    <Cheat Text="Max R&D Skills Points | 最大研发技能点">
         <Cheatline>
             <Offset>204BDC7</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP Level">
+    <Cheat Text="Max XP Level | 最大经验等级">
         <Cheatline>
             <Offset>204BDDC</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Reputation Level">
+    <Cheat Text="Max Reputation Level | 最大声望等级">
         <Cheatline>
             <Offset>204BDEE</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Moral">
+    <Cheat Text="Max Moral | 最大士气">
         <Cheatline>
             <Offset>204BE00</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Race Timer">
+    <Cheat Text="Freeze Race Timer | 冻结比赛计时器">
         <Cheatline>
             <Offset>172022A</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FA-58-40-48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Race Timer to 0">
+    <Cheat Text="Set Race Timer to 0 | 比赛计时器归零">
         <Cheatline>
             <Offset>204BE17</Offset>
             <Section>0</Section>

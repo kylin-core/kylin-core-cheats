@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated for [ MC ] Cheats )",
+      "name": "Mastercode ( must be activated for [ MC ] Cheats ) | 主密码（需激活以启用[ MC ]作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "Max Health [ MC ]",
+      "name": "Max Health [ MC ] | 最大生命 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [ MC ]",
+      "name": "One Hit Kill [ MC ] | 一击必杀 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina [ MC ]",
+      "name": "Infinite Stamina [ MC ] | 无限体力 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Stamina [ MC ]",
+      "name": "Max Stamina [ MC ] | 最大体力 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Legion [ MC ]",
+      "name": "Infinite Legion [ MC ] | 无限军团 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Legion [ MC ]",
+      "name": "Max Legion [ MC ] | 最大军团 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Infinite Blade Shapeness ( on use )",
+      "name": "Infinite Blade Shapeness ( on use ) | 无限刀刃锋利度（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Infinite Fable",
+      "name": "Infinite Fable | 无限寓言",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max Ergo ( on gain )",
+      "name": "Max Ergo ( on gain ) | 最大厄戈（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Zero Weight",
+      "name": "Zero Weight | 零负重",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "Save Location [ MC ]",
+      "name": "Save Location [ MC ] | 保存位置 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Load Location [ MC ]",
+      "name": "Load Location [ MC ] | 加载位置 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 2 ]",
+      "name": "Player Speed [ x 2 ] | 玩家速度 [ 2倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 3 ]",
+      "name": "Player Speed [ x 3 ] | 玩家速度 [ 3倍 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "Player Speed [ x 4 ]",
+      "name": "Player Speed [ x 4 ] | 玩家速度 [ 4倍 ]",
       "type": "checkbox",
       "memory": [
         {

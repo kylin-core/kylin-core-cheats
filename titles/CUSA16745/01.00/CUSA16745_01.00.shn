@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yakuza: Like A Dragon" Moder="GamerX2" Cusa="CUSA16745" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max+ Inf HP | Battle ">
+    <Cheat Text="Max+ Inf HP | Battle | 最大+无限HP | 战斗">
         <Cheatline>
             <Offset>1DDE400</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max+ Inf MP | Battle">
+    <Cheat Text="Max+ Inf MP | Battle | 最大+无限MP | 战斗">
         <Cheatline>
             <Offset>1DDE417</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money/Pts/Rings On Spend/Gain">
+    <Cheat Text="Max Money/Pts/Rings On Spend/Gain | 金钱/点数/戒指消费或获得时最大">
         <Cheatline>
             <Offset>CBAADD</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>48-89-1C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items On Sell/Use">
+    <Cheat Text="Infinite Items On Sell/Use | 出售或使用时物品无限">
         <Cheatline>
             <Offset>CBB5BC</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>44-89-7A-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots Of Items And Materials on Buy/Sell/Use/Gain">
+    <Cheat Text="Lots Of Items And Materials on Buy/Sell/Use/Gain | 购买/出售/使用/获得时大量物品与材料">
         <Cheatline>
             <Offset>1DDE5BE</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Personality Stats On Gain | Passion/Kindness/Style Etc">
+    <Cheat Text="Max Personality Stats On Gain | Passion/Kindness/Style Etc | 获得时个性数值最大 | 热情/善良/时尚等">
         <Cheatline>
             <Offset>CBAADD</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>48-89-1C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bond Level On Gain| All In Party">
+    <Cheat Text="Max Bond Level On Gain| All In Party | 获得时羁绊等级最大 | 全员">
         <Cheatline>
             <Offset>1DDE597</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MiniGame| Claw Machine| Infinte Turns">
+    <Cheat Text="MiniGame| Claw Machine| Infinte Turns | 小游戏| 抓娃娃机| 无限次数">
         <Cheatline>
             <Offset>1DDE54C</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MiniGame| Movie Theatre | Max Score">
+    <Cheat Text="MiniGame| Movie Theatre | Max Score | 小游戏| 电影院| 最高分">
         <Cheatline>
             <Offset>1DDE55E</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MiniGame| EVocational Tests| Stop Timer">
+    <Cheat Text="MiniGame| EVocational Tests| Stop Timer | 小游戏| 职业测试| 停止计时">
         <Cheatline>
             <Offset>1DDE56E</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MiniGame| Dragon Kart| Infinite Ammo">
+    <Cheat Text="MiniGame| Dragon Kart| Infinite Ammo | 小游戏| 龙之卡丁车| 无限弹药">
         <Cheatline>
             <Offset>139D62A</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>89-83-04-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MiniGame| Dragon Kart| Max Score">
+    <Cheat Text="MiniGame| Dragon Kart| Max Score | 小游戏| 龙之卡丁车| 最高分">
         <Cheatline>
             <Offset>1DDE5AD</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boost EXP">
+    <Cheat Text="Boost EXP | 提升经验值">
         <Cheatline>
             <Offset>1DDE456</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Extra EXP">
+    <Cheat Text="Extra EXP | 额外经验值">
         <Cheatline>
             <Offset>1DDE468</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Even More EXP">
+    <Cheat Text="Even More EXP | 更多经验值">
         <Cheatline>
             <Offset>1DDE47C</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots Of EXP">
+    <Cheat Text="Lots Of EXP | 大量经验值">
         <Cheatline>
             <Offset>1DDE490</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hella EXP">
+    <Cheat Text="Hella EXP | 超多经验值">
         <Cheatline>
             <Offset>1DDE4A4</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="EXP OVERLORD | MAX LEVEL">
+    <Cheat Text="EXP OVERLORD | MAX LEVEL | 经验霸主 | 最高等级">
         <Cheatline>
             <Offset>1DDE530</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Brand Awareness| Boost Job Points">
+    <Cheat Text="Brand Awareness| Boost Job Points | 品牌认知| 提升职业点数">
         <Cheatline>
             <Offset>1DDE4CC</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Retail | Extra Job Points">
+    <Cheat Text="Retail | Extra Job Points | 零售| 额外职业点数">
         <Cheatline>
             <Offset>1DDE4DB</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ecommerce | Even More Points">
+    <Cheat Text="Ecommerce | Even More Points | 电商| 更多点数">
         <Cheatline>
             <Offset>1DDE4EC</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HR | Lots Of Points">
+    <Cheat Text="HR | Lots Of Points | 人力资源| 大量点数">
         <Cheatline>
             <Offset>1DDE4FD</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enterprise | Hella Points">
+    <Cheat Text="Enterprise | Hella Points | 企业| 超多点数">
         <Cheatline>
             <Offset>1DDE50E</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Steve Jobs | MAX Job Rank">
+    <Cheat Text="Steve Jobs | MAX Job Rank | 史蒂夫·乔布斯 | 最高职业等级">
         <Cheatline>
             <Offset>1DDE51F</Offset>
             <Section>0</Section>

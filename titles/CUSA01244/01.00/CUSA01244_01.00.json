@@ -5,7 +5,7 @@
   "process": "ffx_phyreApp.elf",
   "mods": [
     {
-      "name": "Unlock All Summons ~After Gaining New Character~",
+      "name": "Unlock All Summons ~After Gaining New Character~ | 解锁所有召唤兽 ~在获得新角色后~",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 道具最大",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Have All Key Items ~After Gaining An Key Item~ ",
+      "name": "Have All Key Items ~After Gaining An Key Item~ | 拥有所有关键道具 ~在获得一个关键道具后~",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Quickly Gain Overdrive",
+      "name": "Quickly Gain Overdrive | 快速获得过载",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Unlock All Overdrives ~After Battle~",
+      "name": "Unlock All Overdrives ~After Battle~ | 解锁所有过载技 ~战斗后~",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "Set Game Timer To 0",
+      "name": "Set Game Timer To 0 | 游戏时间归零",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Quickly Gain AP",
+      "name": "Quickly Gain AP | 快速获得AP",
       "type": "checkbox",
       "memory": [
         {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "name": "Have All Abilities ~After Battle~ ",
+      "name": "Have All Abilities ~After Battle~ | 拥有所有能力 ~战斗后~",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Max Stats ~Use Sphere Grid~",
+      "name": "Max Stats ~Use Sphere Grid~ | 最大数值 ~使用晶球盘后~",
       "type": "checkbox",
       "memory": [
         {

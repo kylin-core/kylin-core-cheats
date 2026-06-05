@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DARK SOULS II - Scholar of the First Sin" Moder="hejran7" Cusa="CUSA01760" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>2077847</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C7-81-F0-05-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>2077808</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>90-90-90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>2077806</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>75-15</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限体力">
         <Cheatline>
             <Offset>2077829</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Spells">
+    <Cheat Text="Inf Spells | 无限法术">
         <Cheatline>
             <Offset>1E0CC4</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-0F-4F-E8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Items">
+    <Cheat Text="Inf Items | 无限道具">
         <Cheatline>
             <Offset>107CDF9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>76-31</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Shop Items">
+    <Cheat Text="Inf Shop Items | 无限商店物品">
         <Cheatline>
             <Offset>1ED0DE</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>45-28-B4-C7-F3-8F-FD-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Durability">
+    <Cheat Text="Inf Durability | 无限耐久度">
         <Cheatline>
             <Offset>1DF840</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-11-43-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Souls">
+    <Cheat Text="Inf Souls | 无限灵魂">
         <Cheatline>
             <Offset>403C50</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>0F-46-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Pass Through Any Door">
+    <Cheat Text="Pass Through Any Door | 穿越任意门">
         <Cheatline>
             <Offset>207788E</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C7-82-2C-06-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Souls loss Upon Death">
+    <Cheat Text="No Souls loss Upon Death | 死亡不掉落灵魂">
         <Cheatline>
             <Offset>2AC503</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C7-80-EC-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Memory Souls">
+    <Cheat Text="Freeze Memory Souls | 冻结记忆魂量">
         <Cheatline>
             <Offset>403BCF</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>89-87-F4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Memory Souls to 125">
+    <Cheat Text="Reset Memory Souls to 125 | 重置记忆魂量至125级">
         <Cheatline>
             <Offset>403BCF</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>89-87-F4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Hack 1.25">
+    <Cheat Text="Speed Hack 1.25 | 速度修改1.25倍">
         <Cheatline>
             <Offset>2077870</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C7-83-B0-02-00-00-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Hack 1.50">
+    <Cheat Text="Speed Hack 1.50 | 速度修改1.50倍">
         <Cheatline>
             <Offset>2077870</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C7-83-B0-02-00-00-00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Hack 2.00">
+    <Cheat Text="Speed Hack 2.00 | 速度修改2.00倍">
         <Cheatline>
             <Offset>2077870</Offset>
             <Section>0</Section>

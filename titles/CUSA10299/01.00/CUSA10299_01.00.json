@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Color Points",
+      "name": "Inf Color Points | 无限颜色点数",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Color Score",
+      "name": "Max Color Score | 最大颜色分值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Freeze Time",
+      "name": "Freeze Time | 时间冻结",
       "type": "checkbox",
       "memory": [
         {

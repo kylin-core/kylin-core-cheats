@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Zen Pinball 2" Moder="DeathRGH" Cusa="CUSA00186" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Remove Score-Limit For Demo Levels">
+    <Cheat Text="Remove Score-Limit For Demo Levels | 移除试玩关卡分数限制">
         <Cheatline>
             <Offset>593F2E</Offset>
             <Section>0</Section>

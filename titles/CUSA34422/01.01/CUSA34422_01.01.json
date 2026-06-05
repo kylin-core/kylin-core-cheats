@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Debug console",
-      "hint": "Hold L3 to open the console and hold X to open the keyboard",
+      "name": "Debug console | 调试控制台",
       "type": "checkbox",
       "memory": [
         {

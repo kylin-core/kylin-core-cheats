@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Gold On Gain| Battle",
+      "name": "Max Gold On Gain| Battle | 获得金币最大化 | 战斗",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max+ Inf Gold On Buy",
+      "name": "Max+ Inf Gold On Buy | 购买时金币无限+",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Level | Kill  Few Monsters",
+      "name": "Max Level | Kill Few Monsters | 满级 | 击杀少量怪物",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max SP Slots On Hit ",
+      "name": "Max SP Slots On Hit | 击中时SP槽最大",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Instant EXTRA Skill Gauge",
+      "name": "Instant EXTRA Skill Gauge | 瞬间满EXTRA技能槽",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Instant Skill Level Up| Use Skill Once",
+      "name": "Instant Skill Level Up| Use Skill Once | 技能瞬间满级 | 使用一次技能",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Freeze GamePlay Timer",
+      "name": "Freeze GamePlay Timer | 冻结游戏计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Rest GamePlay Timer",
+      "name": "Rest GamePlay Timer | 重置游戏计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max+ Inf  Items On Use",
+      "name": "Max+ Inf Items On Use | 使用道具时数量最大+无限",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Unlock All Weapons/Armour/Usable Items",
+      "name": "Unlock All Weapons/Armour/Usable Items | 解锁所有武器/防具/可使用道具",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max Consumables/Weapons/Minerals/Materials",
+      "name": "Max Consumables/Weapons/Minerals/Materials | 最大消耗品/武器/矿物/材料",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Max+ Inf Minerals and Materials | Blacksmith Shop",
+      "name": "Max+ Inf Minerals and Materials | Blacksmith Shop | 矿物与材料无限+ | 铁匠铺",
       "type": "checkbox",
       "memory": [
         {

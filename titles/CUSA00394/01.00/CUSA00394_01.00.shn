@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Amazing Spider-Man 2" Moder="Talixme" Cusa="CUSA00394" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>1A0458837</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-89-30</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="2x Skill Points After Use">
+    <Cheat Text="2x Skill Points After Use | 使用后技能点翻倍">
         <Cheatline>
             <Offset>1A04A38A5</Offset>
             <Section>0</Section>

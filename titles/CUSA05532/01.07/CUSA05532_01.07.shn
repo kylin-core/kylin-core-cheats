@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="FINAL FANTASY Ⅻ THE ZODIAC AGE" Moder="GamerX2" Cusa="CUSA05532" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max &  Inf  HP | Vaan">
+    <Cheat Text="Max &  Inf  HP | Vaan | Vaan HP最大值及无限">
         <Cheatline>
             <Offset>A90000</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MP">
+    <Cheat Text="Infinite MP | 无限MP">
         <Cheatline>
             <Offset>16B7C2</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-44-89-6F-4C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Action Bar">
+    <Cheat Text="Instant Action Bar | 即时行动槽">
         <Cheatline>
             <Offset>23AB800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>16BBE1</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>66-47-89-1C-4A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items/Loot/Accessories | On Buy/Sell/Gain/Use">
+    <Cheat Text="Max Items/Loot/Accessories | On Buy/Sell/Gain/Use | 购买/出售/获得/使用时道具/战利品/饰品最大化">
         <Cheatline>
             <Offset>A8FF02</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gil">
+    <Cheat Text="Infinite Gil | 无限金币">
         <Cheatline>
             <Offset>23A6802</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gil On Buy/Sell">
+    <Cheat Text="Max Gil On Buy/Sell | 购买/出售时金币最大化">
         <Cheatline>
             <Offset>23A6815</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite LP">
+    <Cheat Text="Infinite LP | 无限执照点数LP">
         <Cheatline>
             <Offset>1A0C82</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>41-89-94-24-90-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max LP On Spend">
+    <Cheat Text="Max LP On Spend | 消耗时LP最大化">
         <Cheatline>
             <Offset>23A6829</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Boost EXP| x1000 Points Per Kill">
+    <Cheat Text="Boost EXP| x1000 Points Per Kill | 每击杀获得1000倍经验值">
         <Cheatline>
             <Offset>23A683D</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Extra EXP| x5000 Points Per Kill">
+    <Cheat Text="Extra EXP| x5000 Points Per Kill | 每击杀获得5000倍经验值">
         <Cheatline>
             <Offset>23A6851</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Eeven More EXP| x10.000 Points Per Kill">
+    <Cheat Text="Eeven More EXP| x10.000 Points Per Kill | 每击杀获得10000倍经验值">
         <Cheatline>
             <Offset>23A6866</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots Of EXP| x15.000 Points Per Kill">
+    <Cheat Text="Lots Of EXP| x15.000 Points Per Kill | 每击杀获得15000倍经验值">
         <Cheatline>
             <Offset>23A687B</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hella EXP| x50.000 Points Per Kill">
+    <Cheat Text="Hella EXP| x50.000 Points Per Kill | 每击杀获得50000倍经验值">
         <Cheatline>
             <Offset>23A6890</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="EXP OVERLORD| 1 Kill = Max LvL All Characters">
+    <Cheat Text="EXP OVERLORD| 1 Kill = Max LvL All Characters | 经验霸主：击杀一次所有角色升至满级">
         <Cheatline>
             <Offset>23A68A5</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x5000 Clan Points Per Kill">
+    <Cheat Text="x5000 Clan Points Per Kill | 每击杀获得5000工会点数">
         <Cheatline>
             <Offset>23A68DC</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x10.000 Clan Points Per Kill">
+    <Cheat Text="x10.000 Clan Points Per Kill | 每击杀获得10000工会点数">
         <Cheatline>
             <Offset>23A68EF</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="x25.000 Clan Points Per Kill">
+    <Cheat Text="x25.000 Clan Points Per Kill | 每击杀获得25000工会点数">
         <Cheatline>
             <Offset>23A6902</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="500.000 Clan Points| To unlock Record Breaker Trophy ">
+    <Cheat Text="500.000 Clan Points| To unlock Record Breaker Trophy | 50万工会点数：解锁纪录破坏者奖杯">
         <Cheatline>
             <Offset>23A6915</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Clan Master| 1 Kill= Max Clan Points ">
+    <Cheat Text="Clan Master| 1 Kill= Max Clan Points | 工会大师：击杀一次获得最大工会点数">
         <Cheatline>
             <Offset>23A6927</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock All Items | Battle Only">
+    <Cheat Text="Unlock All Items | Battle Only | 战斗中解锁全部道具">
         <Cheatline>
             <Offset>23A6939</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Splendor Master| Enhanced ATK">
+    <Cheat Text="Splendor Master| Enhanced ATK | 华丽大师：强化攻击力">
         <Cheatline>
             <Offset>23A694E</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Falconer| Powerful ATK">
+    <Cheat Text="Falconer| Powerful ATK | 猎鹰者：强力攻击力">
         <Cheatline>
             <Offset>23A6971</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kendo Master| Double ATK">
+    <Cheat Text="Kendo Master| Double ATK | 剑道大师：双倍攻击力">
         <Cheatline>
             <Offset>23A6994</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shaolin Master| Supreme ATK">
+    <Cheat Text="Shaolin Master| Supreme ATK | 少林大师：至高攻击力">
         <Cheatline>
             <Offset>23A69B7</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Plastic Slipper| Max ATK">
+    <Cheat Text="Plastic Slipper| Max ATK | 塑料拖鞋：最大攻击力">
         <Cheatline>
             <Offset>23A69DA</Offset>
             <Section>0</Section>

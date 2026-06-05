@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Nero Blade Trigger",
-      "hint": "Fill the trigger first then activate.",
+      "name": "Infinite Nero Blade Trigger | 无限尼禄刀锋触发",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Vergil Devil Trigger",
-      "hint": "Fill the trigger first then activate.",
+      "name": "Infinite Vergil Devil Trigger | 无限维吉尔魔人化",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Devilstar Item",
-      "hint": "Use the item to activate.",
+      "name": "Infinite Devilstar Item | 无限魔星道具",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Red Orbs",
-      "hint": null,
+      "name": "Infinite Red Orbs | 无限红魂石",
       "type": "checkbox",
       "memory": [
         {
@@ -75,8 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Blue Orbs/Rose",
-      "hint": null,
+      "name": "Infinite Blue Orbs/Rose | 无限蓝魂石/蓝玫瑰",
       "type": "checkbox",
       "memory": [
         {

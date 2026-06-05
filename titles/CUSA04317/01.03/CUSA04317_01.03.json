@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Use Attribute/Learning Point for Max Skill and Ability",
+      "name": "Use Attribute/Learning Point for Max Skill and Ability | 属性点/学习点数用于技能与能力最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Items and Money On Use/Sell/Buy",
+      "name": "Max Items and Money On Use/Sell/Buy | 使用/出售/购买时物品与金钱最大化",
       "type": "checkbox",
       "memory": [
         {

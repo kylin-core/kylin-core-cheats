@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Marsupilami - Hoobadventure" Moder="Reddevil82" Cusa="CUSA27816" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Trainer Info (read only)">
+    <Cheat Text="Trainer Info (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>5EFFF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mastercode [ must be enabled for MC Cheats ]">
+    <Cheat Text="Mastercode [ must be enabled for MC Cheats ] | 主代码 [ 必须启用才能使用主作弊功能 ]">
         <Cheatline>
             <Offset>5BD78C3</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>5BD7830</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>5BD784A</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives">
+    <Cheat Text="Max Lives | 最大生命数">
         <Cheatline>
             <Offset>5BD7866</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jumps">
+    <Cheat Text="Infinite Jumps | 无限跳跃">
         <Cheatline>
             <Offset>5BD7877</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Timer [ Dojo Stage ]">
+    <Cheat Text="Max Timer [ Dojo Stage ] | 最大计时器 [ 道场关卡 ]">
         <Cheatline>
             <Offset>5BD7800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer [ Time Challenge ]">
+    <Cheat Text="Freeze Timer [ Time Challenge ] | 冻结计时器 [ 限时挑战 ]">
         <Cheatline>
             <Offset>95EAB6</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-11-40-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Timer to 0 [ Time Challenge ]">
+    <Cheat Text="Set Timer to 0 [ Time Challenge ] | 计时器归零 [ 限时挑战 ]">
         <Cheatline>
             <Offset>5BD7820</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Only one Dojo to finish Stage [ Dojo Stage ]">
+    <Cheat Text="Only one Dojo to finish Stage [ Dojo Stage ] | 只需一个道场即可完成关卡 [ 道场关卡 ]">
         <Cheatline>
             <Offset>5BD780E</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Feathers [ on Map ]">
+    <Cheat Text="Max Feathers [ on Map ] | 最大羽毛 [ 地图上 ]">
         <Cheatline>
             <Offset>5BD7888</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Tickets [ on Map ]">
+    <Cheat Text="Max Tickets [ on Map ] | 最大票券 [ 地图上 ]">
         <Cheatline>
             <Offset>5BD78A6</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Eggs [ Hidden World - on Map ]">
+    <Cheat Text="Max Eggs [ Hidden World - on Map ] | 最大蛋 [ 隐藏世界 - 地图上 ]">
         <Cheatline>
             <Offset>5BD7800</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 1 [ MC ]">
+    <Cheat Text="Jump Multiplier x 1 [ MC ] | 跳跃倍数 x 1 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F80</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 2 [ MC ]">
+    <Cheat Text="Jump Multiplier x 2 [ MC ] | 跳跃倍数 x 2 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F80</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 3 [ MC ]">
+    <Cheat Text="Jump Multiplier x 3 [ MC ] | 跳跃倍数 x 3 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F80</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 4 [ MC ]">
+    <Cheat Text="Jump Multiplier x 4 [ MC ] | 跳跃倍数 x 4 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F80</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 1 [ MC ]">
+    <Cheat Text="Speed Multiplier x 1 [ MC ] | 速度倍数 x 1 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F88</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 2 [ MC ]">
+    <Cheat Text="Speed Multiplier x 2 [ MC ] | 速度倍数 x 2 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F88</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 3 [ MC ]">
+    <Cheat Text="Speed Multiplier x 3 [ MC ] | 速度倍数 x 3 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F88</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 4 [ MC ]">
+    <Cheat Text="Speed Multiplier x 4 [ MC ] | 速度倍数 x 4 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F88</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ascent Multiplier x 1 [ MC ]">
+    <Cheat Text="Ascent Multiplier x 1 [ MC ] | 上升倍数 x 1 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F8C</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ascent Multiplier x 10 [ MC ]">
+    <Cheat Text="Ascent Multiplier x 10 [ MC ] | 上升倍数 x 10 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F8C</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ascent Multiplier x 20 [ MC ]">
+    <Cheat Text="Ascent Multiplier x 20 [ MC ] | 上升倍数 x 20 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F8C</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ascent Multiplier x 30 [ MC ]">
+    <Cheat Text="Ascent Multiplier x 30 [ MC ] | 上升倍数 x 30 [ 主代码 ]">
         <Cheatline>
             <Offset>1DD3F8C</Offset>
             <Section>0</Section>

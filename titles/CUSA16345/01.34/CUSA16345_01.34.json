@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Potions/Arrows",
+      "name": "Infinite Potions/Arrows | 无限药水/箭矢",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Fruits/Upgrade Materials Multiplier (On Gain)",
+      "name": "Fruits/Upgrade Materials Multiplier (On Gain) | 水果/升级材料倍率（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {

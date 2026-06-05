@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Get Reagents For Spending Them",
-      "hint": null,
+      "name": "Get Reagents For Spending Them | 消耗试剂获取试剂",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Get Clues For Spending Them",
-      "hint": null,
+      "name": "Get Clues For Spending Them | 消耗线索获取线索",
       "type": "checkbox",
       "memory": [
         {

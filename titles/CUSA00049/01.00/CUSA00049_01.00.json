@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "No Recoil / Spread",
-      "hint": "Pick up a new weapon for no spread.",
+      "name": "No Recoil / Spread | 无后坐力/散射",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Wire Frame Rendering",
-      "hint": null,
+      "name": "Wire Frame Rendering | 线框渲染",
       "type": "checkbox",
       "memory": [
         {
@@ -73,8 +69,7 @@
       ]
     },
     {
-      "name": "Freeze FX",
-      "hint": null,
+      "name": "Freeze FX | 冻结特效",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "Draw Debug Strings",
-      "hint": null,
+      "name": "Draw Debug Strings | 显示调试信息",
       "type": "checkbox",
       "memory": [
         {
@@ -97,8 +91,7 @@
       ]
     },
     {
-      "name": "Small Hud",
-      "hint": null,
+      "name": "Small Hud | 迷你HUD",
       "type": "checkbox",
       "memory": [
         {
@@ -109,8 +102,7 @@
       ]
     },
     {
-      "name": "Teleport Climb",
-      "hint": null,
+      "name": "Teleport Climb | 瞬移攀爬",
       "type": "checkbox",
       "memory": [
         {
@@ -131,8 +123,7 @@
       ]
     },
     {
-      "name": "Always Able To Climb",
-      "hint": null,
+      "name": "Always Able To Climb | 始终可攀爬",
       "type": "checkbox",
       "memory": [
         {
@@ -143,8 +134,7 @@
       ]
     },
     {
-      "name": "Teleport Patch V1",
-      "hint": "The following options are for testing purposes!",
+      "name": "Teleport Patch V1 | 瞬移补丁V1",
       "type": "checkbox",
       "memory": [
         {
@@ -200,8 +190,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 1",
-      "hint": null,
+      "name": "Teleport Patch 1 | 瞬移补丁1",
       "type": "checkbox",
       "memory": [
         {
@@ -212,8 +201,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 2",
-      "hint": null,
+      "name": "Teleport Patch 2 | 瞬移补丁2",
       "type": "checkbox",
       "memory": [
         {
@@ -224,8 +212,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 3",
-      "hint": null,
+      "name": "Teleport Patch 3 | 瞬移补丁3",
       "type": "checkbox",
       "memory": [
         {
@@ -236,8 +223,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 4",
-      "hint": null,
+      "name": "Teleport Patch 4 | 瞬移补丁4",
       "type": "checkbox",
       "memory": [
         {
@@ -248,8 +234,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 5",
-      "hint": null,
+      "name": "Teleport Patch 5 | 瞬移补丁5",
       "type": "checkbox",
       "memory": [
         {
@@ -260,8 +245,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 6",
-      "hint": null,
+      "name": "Teleport Patch 6 | 瞬移补丁6",
       "type": "checkbox",
       "memory": [
         {
@@ -272,8 +256,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 7",
-      "hint": null,
+      "name": "Teleport Patch 7 | 瞬移补丁7",
       "type": "checkbox",
       "memory": [
         {
@@ -284,8 +267,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 8",
-      "hint": null,
+      "name": "Teleport Patch 8 | 瞬移补丁8",
       "type": "checkbox",
       "memory": [
         {
@@ -296,8 +278,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 9 (Get Stuck)",
-      "hint": null,
+      "name": "Teleport Patch 9 (Get Stuck) | 瞬移补丁9（卡住）",
       "type": "checkbox",
       "memory": [
         {
@@ -308,8 +289,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 10",
-      "hint": null,
+      "name": "Teleport Patch 10 | 瞬移补丁10",
       "type": "checkbox",
       "memory": [
         {
@@ -320,8 +300,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 11",
-      "hint": null,
+      "name": "Teleport Patch 11 | 瞬移补丁11",
       "type": "checkbox",
       "memory": [
         {
@@ -332,8 +311,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 12 (Inside Trace Function)",
-      "hint": null,
+      "name": "Teleport Patch 12 (Inside Trace Function) | 瞬移补丁12（追踪函数内部）",
       "type": "checkbox",
       "memory": [
         {
@@ -344,8 +322,7 @@
       ]
     },
     {
-      "name": "Teleport Patch 13 (Change 4 to 8)",
-      "hint": null,
+      "name": "Teleport Patch 13 (Change 4 to 8) | 瞬移补丁13（将4改为8）",
       "type": "checkbox",
       "memory": [
         {

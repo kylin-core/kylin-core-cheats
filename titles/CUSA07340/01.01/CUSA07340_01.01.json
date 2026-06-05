@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Pawn Health",
+      "name": "Infinite Pawn Health | 无限随从生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Pawn Stamina",
+      "name": "Infinite Pawn Stamina | 无限随从耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Player/Pawn Level Up on XP Gain",
+      "name": "Player/Pawn Level Up on XP Gain | 玩家/随从获得经验升级",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "One/Two Hit Kill",
+      "name": "One/Two Hit Kill | 一击/两击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Player/Pawn 0 Weight",
+      "name": "Player/Pawn 0 Weight | 玩家/随从零负重",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Items on Use",
+      "name": "Max Items on Use | 使用道具时数量最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "x2 Items on Use",
+      "name": "x2 Items on Use | 使用道具时数量翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max RC on Spend",
+      "name": "Max RC on Spend | 花费RC时最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "x2 RC on Spend",
+      "name": "x2 RC on Spend | 花费RC时翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Max Gold on Spend",
+      "name": "Max Gold on Spend | 花费金币时最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "x2 Gold on Spend",
+      "name": "x2 Gold on Spend | 花费金币时翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Player/Pawn Max Vocation Rank on Gain",
+      "name": "Player/Pawn Max Vocation Rank on Gain | 玩家/随从获得职业等级时满级",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Max Discipline on Spend",
+      "name": "Max Discipline on Spend | 花费纪律点时最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "x2 Discipline on Spend",
+      "name": "x2 Discipline on Spend | 花费纪律点时翻倍",
       "type": "checkbox",
       "memory": [
         {

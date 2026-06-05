@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Streets Of Rage 4" Moder="wander" Cusa="CUSA16221" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max/Infinite Health/Special Attack/1 Hit Kill (Master Code)">
+    <Cheat Text="Max/Infinite Health/Special Attack/1 Hit Kill (Master Code) | 最大/无限生命/特殊攻击/一击必杀（主码）">
         <Cheatline>
             <Offset>334FDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (Enable MC)">
+    <Cheat Text="1 Hit Kill (Enable MC) | 一击必杀（启用主码）">
         <Cheatline>
             <Offset>334FDB6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-11</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Lives">
+    <Cheat Text="Max/Infinite Lives | 最大/无限生命数">
         <Cheatline>
             <Offset>334FBA0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Stars">
+    <Cheat Text="Max/Infinite Stars | 最大/无限星星">
         <Cheatline>
             <Offset>334FC60</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score On Gain">
+    <Cheat Text="Max Score On Gain | 获得时分数最大化">
         <Cheatline>
             <Offset>334FB90</Offset>
             <Section>0</Section>

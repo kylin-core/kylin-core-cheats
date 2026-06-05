@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Sub Weapon",
+      "name": "Infinite Sub Weapon | 无限副武器",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Grenade",
+      "name": "Infinite Grenade | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "All Guns (Dungeon)",
+      "name": "All Guns (Dungeon) | 全部枪支（地下城）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Thunder Breaker (Sub Weapon Press L1)",
+      "name": "Thunder Breaker (Sub Weapon Press L1) | 雷电破坏者（副武器按L1）",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Homing Missle (Sub Weapon Press L1)",
+      "name": "Homing Missle (Sub Weapon Press L1) | 追踪导弹（副武器按L1）",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Spark Tackle (Sub Weapon Press L1)",
+      "name": "Spark Tackle (Sub Weapon Press L1) | 火花冲撞（副武器按L1）",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Shield Mine (Sub Weapon Press L1)",
+      "name": "Shield Mine (Sub Weapon Press L1) | 护盾地雷（副武器按L1）",
       "type": "checkbox",
       "memory": [
         {

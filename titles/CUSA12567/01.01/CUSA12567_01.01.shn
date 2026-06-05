@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Surge 2" Moder="Saso" Cusa="CUSA12567" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health (Dont Use With 1 Hit)">
+    <Cheat Text="Inf Health (Dont Use With 1 Hit) | 无限生命（勿与一击必杀共用）">
         <Cheatline>
             <Offset>2EC3FA0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Health / 1 Hit Kill">
+    <Cheat Text="Inf Health / 1 Hit Kill | 无限生命 / 一击必杀">
         <Cheatline>
             <Offset>2EC3FA0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限耐力">
         <Cheatline>
             <Offset>2EC40C0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Energy">
+    <Cheat Text="Inf Energy | 无限能量">
         <Cheatline>
             <Offset>2EC4100</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Res / Drone Ammo">
+    <Cheat Text="Inf Res / Drone Ammo | 无限资源 / 无人机弹药">
         <Cheatline>
             <Offset>2EC4050</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Tech Scrap">
+    <Cheat Text="Inf Tech Scrap | 无限科技废料">
         <Cheatline>
             <Offset>2EC4150</Offset>
             <Section>0</Section>

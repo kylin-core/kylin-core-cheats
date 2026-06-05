@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One-hit Kill",
+      "name": "One-hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max Weapon Durability",
+      "name": "Max Weapon Durability | 武器满耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Keep Items (on use|craft)",
+      "name": "Keep Items (on use|craft) | 物品不减（使用时/制作时）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Item (on get|buy|craft)",
+      "name": "Max Item (on get|buy|craft) | 物品最大数量（获得时/购买时/制作时）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "25x Money Multiplier (on get)",
+      "name": "25x Money Multiplier (on get) | 25倍金钱倍率（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "25x Skill Points Multiplier",
+      "name": "25x Skill Points Multiplier | 25倍技能点数倍率",
       "type": "checkbox",
       "memory": [
         {

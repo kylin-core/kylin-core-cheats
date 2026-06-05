@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Plants vs Zombies Replanted" Moder="Bandicootmonito" Cusa="CUSA55613" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Sun x9990">
+    <Cheat Text="Infinite Sun x9990 | 无限阳光 x9990">
         <Cheatline>
             <Offset>53E3800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Plants Recharge Instantly">
+    <Cheat Text="Plants Recharge Instantly | 植物瞬间冷却">
         <Cheatline>
             <Offset>53E3838</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money x999990">
+    <Cheat Text="Infinite Money x999990 | 无限金钱 x999990">
         <Cheatline>
             <Offset>53E385C</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fertilizer x20">
+    <Cheat Text="Infinite Fertilizer x20 | 无限化肥 x20">
         <Cheatline>
             <Offset>53E3871</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Spray x20">
+    <Cheat Text="Infinite Spray x20 | 无限喷雾 x20">
         <Cheatline>
             <Offset>53E3871</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Tree Food x10">
+    <Cheat Text="Infinite Tree Food x10 | 无限智慧树肥料 x10">
         <Cheatline>
             <Offset>53E3880</Offset>
             <Section>0</Section>

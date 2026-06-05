@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Jump",
+      "name": "Infinite Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Breath Holding",
+      "name": "Infinite Breath Holding | 无限屏息",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Running",
+      "name": "Infinite Running | 无限奔跑",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Water walk",
+      "name": "Infinite Water Walk | 无限水上行走",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Boot Durability",
+      "name": "Infinite Boot Durability | 无限靴子耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Spray/Ladder/Anchor/PCC",
+      "name": "Infinite Spray/Ladder/Anchor/PCC | 无限喷雾/梯子/锚/PCC",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Infinite Speed/Power Skeleton use",
+      "name": "Infinite Speed/Power Skeleton Use | 无限速度/力量骨架使用",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinite Structures Durability",
+      "name": "Infinite Structures Durability | 无限建筑耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Infinite Truck Durability (on land)",
+      "name": "Infinite Truck Durability (On Land) | 无限卡车耐久度（陆地）",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Infinite Truck Durability (on water)",
+      "name": "Infinite Truck Durability (On Water) | 无限卡车耐久度（水面）",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "No Cargo Damage 1",
+      "name": "No Cargo Damage 1 | 货物无损坏1",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "No cargo damage 2 (in case 1 didnt work)",
+      "name": "No Cargo Damage 2 (In Case 1 Didn't Work) | 货物无损坏2（如1无效）",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "No clip",
+      "name": "No Clip | 穿墙",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Fast Running",
+      "name": "Fast Running | 快速奔跑",
       "type": "checkbox",
       "memory": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "0.1 Weight Carrying",
+      "name": "0.1 Weight Carrying | 0.1负重",
       "type": "checkbox",
       "memory": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "name": "Alot of Chiral Crystals (on collect)",
+      "name": "Alot Of Chiral Crystals (On Collect) | 大量开罗尔晶体（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "name": "Special Alloy Wont decrease",
+      "name": "Special Alloy Won't Decrease | 特殊合金不减",
       "type": "checkbox",
       "memory": [
         {
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "name": "Chemicals 900000 (on spend first time)",
+      "name": "Chemicals 900000 (On Spend First Time) | 化学品900000（首次消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "name": "Ceramic 900000 (on spend first time)",
+      "name": "Ceramic 900000 (On Spend First Time) | 陶瓷900000（首次消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "name": "Metal 900000 (on spend first time)",
+      "name": "Metal 900000 (On Spend First Time) | 金属900000（首次消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "name": "Resins 900000 (on spend first time)",
+      "name": "Resins 900000 (On Spend First Time) | 树脂900000（首次消耗时）",
       "type": "checkbox",
       "memory": [
         {

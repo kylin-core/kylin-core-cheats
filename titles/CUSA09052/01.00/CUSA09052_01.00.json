@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Brave Power Meter",
+      "name": "Inf Brave Power Meter | 无限勇气值",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf PA Orbs",
+      "name": "Inf PA Orbs | 无限PA宝珠",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Inf Gold",
+      "name": "Inf Gold | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Inf Health Potions",
+      "name": "Inf Health Potions | 无限生命药水",
       "type": "checkbox",
       "memory": [
         {

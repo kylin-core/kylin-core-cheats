@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf lives",
+      "name": "Inf lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "x999 Each Orb",
+      "name": "x999 Each Orb | 每个宝珠x999",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Each golden orb doubles the total (Deactivate after reaching a large sum)",
+      "name": "Each golden orb doubles the total (Deactivate after reaching a large sum) | 每个金色宝珠使总数加倍（达到大数额后停用）",
       "type": "checkbox",
       "memory": [
         {

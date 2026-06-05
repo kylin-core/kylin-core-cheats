@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": "Activate On Each Level.",
+      "name": "Godmode | 无敌模式",
       "type": "button",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Set Apples to 99",
-      "hint": null,
+      "name": "Set Apples to 99 | 设置苹果为99",
       "type": "button",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Set Lives to 999",
-      "hint": null,
+      "name": "Set Lives to 999 | 设置生命为999",
       "type": "button",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Set Boxes to 999",
-      "hint": null,
+      "name": "Set Boxes to 999 | 设置箱子为999",
       "type": "button",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Set Diamonds to 99",
-      "hint": null,
+      "name": "Set Diamonds to 99 | 设置钻石为99",
       "type": "button",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Set Platin to 99",
-      "hint": null,
+      "name": "Set Platin to 99 | 设置白金为99",
       "type": "button",
       "memory": [
         {
@@ -77,8 +71,7 @@
       ]
     },
     {
-      "name": "Set Gold to 99",
-      "hint": null,
+      "name": "Set Gold to 99 | 设置黄金为99",
       "type": "button",
       "memory": [
         {
@@ -89,8 +82,7 @@
       ]
     },
     {
-      "name": "Set Saphir to 99",
-      "hint": null,
+      "name": "Set Saphir to 99 | 设置蓝宝石为99",
       "type": "button",
       "memory": [
         {
@@ -101,8 +93,7 @@
       ]
     },
     {
-      "name": "Set Keys to 99",
-      "hint": "Only for Crash Bandicoot 1.",
+      "name": "Set Keys to 99 | 设置钥匙为99",
       "type": "button",
       "memory": [
         {
@@ -113,8 +104,7 @@
       ]
     },
     {
-      "name": "Set Crystals to 99",
-      "hint": "only for Crash Bandicoot 2 and 3.",
+      "name": "Set Crystals to 99 | 设置水晶为99",
       "type": "button",
       "memory": [
         {

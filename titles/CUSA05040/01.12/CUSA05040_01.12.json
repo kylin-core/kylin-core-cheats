@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Make Most Shots Hold Left Dpad",
+      "name": "Make Most Shots Hold Left Dpad | 按住左方向键提升命中率",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1.25x Game Clock And Shot Clock",
+      "name": "1.25x Game Clock And Shot Clock | 1.25倍比赛和进攻计时",
       "type": "checkbox",
       "memory": [
         {

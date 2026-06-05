@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Just Cause 4" Moder="leon99" Cusa="CUSA09254" Version="01.31" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="infinte ammo">
+    <Cheat Text="infinte ammo | 无限弹药">
         <Cheatline>
             <Offset>19591DF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-0F-4F-EB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="no reload">
+    <Cheat Text="no reload | 无需装弹">
         <Cheatline>
             <Offset>310F800</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Character Not Easy to Shake",
+      "name": "Character Not Easy to Shake | 角色不易被甩开",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Undetected By Enemy",
+      "name": "Undetected By Enemy | 敌人无法发现",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Cannot Be Touched By Enemy ( ON )",
+      "name": "Cannot Be Touched By Enemy ( ON ) | 敌人无法触碰（开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Cannot Be Touched By Enemy ( OFF )",
+      "name": "Cannot Be Touched By Enemy ( OFF ) | 敌人无法触碰（关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Venom Bar Unlimited",
+      "name": "Venom Bar Unlimited | 毒液能量无限",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Spawns the 3rd Venom Bar",
+      "name": "Spawns the 3rd Venom Bar | 生成第三根毒液能量条",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Unlimited Camouflage duration",
+      "name": "Unlimited Camouflage duration | 无限隐身时间",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Quick Charge Camouflage Bar",
+      "name": "Quick Charge Camouflage Bar | 快速充能隐身条",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Combo x99",
+      "name": "Combo x99 | 连击数x99",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Finisher Always Available",
+      "name": "Finisher Always Available | 终结技始终可用",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Activity Tokens, Tech Part, Gadget Unlimited",
+      "name": "Activity Tokens, Tech Part, Gadget Unlimited | 活动代币、科技零件、装置无限",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Max Skill Point",
+      "name": "Max Skill Point | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Maximum EXP After Getting It",
+      "name": "Maximum EXP After Getting It | 获得后经验值最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Unlimited Combat Challenge Time",
+      "name": "Unlimited Combat Challenge Time | 战斗挑战时间无限",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Travesal Challenge Time Always 0",
+      "name": "Travesal Challenge Time Always 0 | 穿梭挑战时间始终为零",
       "type": "checkbox",
       "memory": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "Camera Becomes motionless",
+      "name": "Camera Becomes motionless | 摄像头静止不动",
       "type": "checkbox",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "Speed Becomes Normal",
+      "name": "Speed Becomes Normal | 速度恢复正常",
       "type": "checkbox",
       "memory": [
         {
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "name": "Speed 1.5x",
+      "name": "Speed 1.5x | 速度1.5倍",
       "type": "checkbox",
       "memory": [
         {
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "name": "Speed 2x",
+      "name": "Speed 2x | 速度2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "name": "Speed 3x",
+      "name": "Speed 3x | 速度3倍",
       "type": "checkbox",
       "memory": [
         {
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "name": "Speed becomes Very Slow",
+      "name": "Speed becomes Very Slow | 速度变得非常慢",
       "type": "checkbox",
       "memory": [
         {

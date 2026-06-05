@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Legend of Heroes: Trails of Cold Steel IV" Moder="SunRise01" Cusa="CUSA19637" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Sephit">
+    <Cheat Text="Sephit | 塞菲石">
         <Cheatline>
             <Offset>3175E8</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item">
+    <Cheat Text="Item | 道具">
         <Cheatline>
             <Offset>30FDD3</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-89-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item1">
+    <Cheat Text="Item1 | 道具1">
         <Cheatline>
             <Offset>30FCF8</Offset>
             <Section>0</Section>

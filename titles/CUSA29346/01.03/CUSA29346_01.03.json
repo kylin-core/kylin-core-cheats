@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Freeze AI + Invincible",
+      "name": "Freeze AI + Invincible | 冻结AI + 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health Drone",
+      "name": "Infinite Health Drone | 无限无人机生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Mushhus",
+      "name": "Infinite Mushhus | 无限蘑菇",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Health Node",
+      "name": "Max Health Node | 生命节点最大",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Health Node Fragment",
+      "name": "Health Node Fragment | 生命节点碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Apocalypse Flask",
+      "name": "Max Apocalypse Flask | 启示瓶最大",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Super Jump [ Land ]",
+      "name": "Super Jump [ Land ] | 超级跳跃[陆地]",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Super Jump [ Water ]",
+      "name": "Super Jump [ Water ] | 超级跳跃[水中]",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Super Jump Drone [ Land ]",
+      "name": "Super Jump Drone [ Land ] | 无人机超级跳跃[陆地]",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Super Jump Drone [ Water ]",
+      "name": "Super Jump Drone [ Water ] | 无人机超级跳跃[水中]",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Zero Death Stats",
+      "name": "Zero Death Stats | 零死亡统计",
       "type": "checkbox",
       "memory": [
         {

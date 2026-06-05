@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP + 1 Hit Kill | All Characters",
+      "name": "Infinite HP + 1 Hit Kill | All Characters | 无限HP+一击必杀 | 全部角色",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Action Gauge",
+      "name": "Infinite Action Gauge | 无限行动槽",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite MP | All Characters",
+      "name": "Infinite MP | All Characters | 无限MP | 全部角色",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite MP | Shining Dragon",
+      "name": "Infinite MP | Shining Dragon | 无限MP | 辉龙",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Instant Full  B.A.N.D Meter | On Strike",
+      "name": "Instant Full B.A.N.D Meter | On Strike | 瞬间满B.A.N.D槽 | 即兴演奏",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Gold",
+      "name": "Infinite Gold | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Max Gold On Buy",
+      "name": "Max Gold On Buy | 购买时金币最大",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Infinite Items on Use/Sell",
+      "name": "Infinite Items on Use/Sell | 使用/出售时物品无限",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Max Items On Buy",
+      "name": "Max Items On Buy | 购买时物品最大",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Unlock All Items/Food/Tools/Medicine| Max",
+      "name": "Unlock All Items/Food/Tools/Medicine | Max | 解锁全部物品/食物/工具/药品 | 最大",
       "type": "checkbox",
       "memory": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Infinite Materials",
+      "name": "Infinite Materials | 无限素材",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Unlock All Materials | Max",
+      "name": "Unlock All Materials | Max | 解锁全部素材 | 最大",
       "type": "checkbox",
       "memory": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "Infinite Aspects",
+      "name": "Infinite Aspects | 无限共鸣",
       "type": "checkbox",
       "memory": [
         {
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "name": "Unlock All Aspects | Max",
+      "name": "Unlock All Aspects | Max | 解锁全部共鸣 | 最大",
       "type": "checkbox",
       "memory": [
         {
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "name": "Freeze GamePlay Timer",
+      "name": "Freeze GamePlay Timer | 冻结游戏计时",
       "type": "checkbox",
       "memory": [
         {
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "name": "Rest GamePlay Timer",
+      "name": "Rest GamePlay Timer | 重置游戏计时",
       "type": "checkbox",
       "memory": [
         {
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "name": "Boost EXP | x500 Per Battle",
+      "name": "Boost EXP | x500 Per Battle | 经验加成 | 每战500倍",
       "type": "checkbox",
       "memory": [
         {
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "name": "Extra EXP | x2000 Per Battle",
+      "name": "Extra EXP | x2000 Per Battle | 额外经验 | 每战2000倍",
       "type": "checkbox",
       "memory": [
         {
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "name": "Even More EXP| x6000 Per Battle",
+      "name": "Even More EXP | x6000 Per Battle | 更多经验 | 每战6000倍",
       "type": "checkbox",
       "memory": [
         {
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "name": "Lots Of EXP | x15.000 Per Battle",
+      "name": "Lots Of EXP | x15.000 Per Battle | 大量经验 | 每战15000倍",
       "type": "checkbox",
       "memory": [
         {
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "name": "Hella EXP | x50.000 Per Battle",
+      "name": "Hella EXP | x50.000 Per Battle | 海量经验 | 每战50000倍",
       "type": "checkbox",
       "memory": [
         {
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "name": "EXP OVERLORD |Max Level After Battle",
+      "name": "EXP OVERLORD | Max Level After Battle | 经验帝 | 战后满级",
       "type": "checkbox",
       "memory": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "name": "Tunings| Boost Rank",
+      "name": "Tunings | Boost Rank | 调谐 | 提升等级",
       "type": "checkbox",
       "memory": [
         {
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "name": "Tunings| Fast Ranking Up",
+      "name": "Tunings | Fast Ranking Up | 调谐 | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "name": "Tunings| Hyper Ranking Up",
+      "name": "Tunings | Hyper Ranking Up | 调谐 | 极速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -365,7 +365,7 @@
       ]
     },
     {
-      "name": "Tunings| Max Rank After Battle",
+      "name": "Tunings | Max Rank After Battle | 调谐 | 战后满级",
       "type": "checkbox",
       "memory": [
         {

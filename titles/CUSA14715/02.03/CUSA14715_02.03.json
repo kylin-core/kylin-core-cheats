@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite-Health-(mc)",
+      "name": "Infinite-Health-(mc) | 无限生命（MC版）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf-Health-One-Hit-Kill-(mc)",
+      "name": "Inf-Health-One-Hit-Kill-(mc) | 无限生命・一击必杀（MC版）",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "MAX-crystals-Fragments",
+      "name": "MAX-crystals-Fragments | 最大水晶碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "MAX-items-Sword-Power-Gear-0x99",
+      "name": "MAX-items-Sword-Power-Gear-0x99 | 最大道具・剑・动力装备0x99",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Inf-crystals-Fragments",
+      "name": "Inf-crystals-Fragments | 无限水晶碎片",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Inf-items-Sword",
+      "name": "Inf-items-Sword | 无限道具・剑",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "game.elf",
   "mods": [
     {
-      "name": "Inf Health / Relic Energy (Master Code)",
+      "name": "Inf Health / Relic Energy (Master Code) | 无限生命/遗物能量（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Relic Energy On Spend (MC)",
+      "name": "Inf Relic Energy On Spend (MC) | 消耗时无限遗物能量（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Super Crystal Gauge",
+      "name": "Inf Super Crystal Gauge | 无限超级水晶能量槽",
       "type": "checkbox",
       "memory": [
         {

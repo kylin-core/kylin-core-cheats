@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "god-mode",
+      "name": "god-mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "MAX-lives",
+      "name": "MAX-lives | 最大生命数",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite-lives",
+      "name": "Infinite-lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite-MASK",
+      "name": "Infinite-MASK | 无限面具",
       "type": "checkbox",
       "memory": [
         {

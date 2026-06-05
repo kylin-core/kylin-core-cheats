@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SIFU" Moder="Yharnam" Cusa="PPSA05132" Version="01.024.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Untouchable">
+    <Cheat Text="Untouchable | 无懈可击">
         <Cheatline>
             <Offset>5F77532</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Health">
+    <Cheat Text="Infi Health | 无限生命">
         <Cheatline>
             <Offset>5F77500</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score">
+    <Cheat Text="Max Score | 最高分数">
         <Cheatline>
             <Offset>5F77592</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp | 最高经验">
         <Cheatline>
             <Offset>5F775C4</Offset>
             <Section>0</Section>

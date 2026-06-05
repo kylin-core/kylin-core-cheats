@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Super Bar Both Player",
+      "name": "Inf Super Bar Both Player | 双方无限气槽",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health Player 1",
+      "name": "Inf Health Player 1 | 玩家1无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Super Bar Player 2, Turn off player 1",
+      "name": "Inf Super Bar Player 2, Turn off player 1 | 玩家2无限气槽，关闭玩家1",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Super Bar Player 1, Turn off player 2",
+      "name": "Infinite Super Bar Player 1, Turn off player 2 | 玩家1无限气槽，关闭玩家2",
       "type": "checkbox",
       "memory": [
         {

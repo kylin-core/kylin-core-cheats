@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cat Quest" Moder="DeathRGH" Cusa="CUSA09499" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金币">
         <Cheatline>
             <Offset>20E790C94</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C0-9E-F8-7F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fill Health">
+    <Cheat Text="Fill Health | 满血">
         <Cheatline>
             <Offset>20E790794</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C0-9E-F8-7F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fill Mana">
+    <Cheat Text="Fill Mana | 满蓝">
         <Cheatline>
             <Offset>20E790694</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C0-9E-F8-7F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health Capacity">
+    <Cheat Text="Max Health Capacity | 最大生命值">
         <Cheatline>
             <Offset>20E790B90</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C0-9E-F8-7F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Attack Value">
+    <Cheat Text="Max Attack Value | 最大攻击力">
         <Cheatline>
             <Offset>20E790B10</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>E0-0F-CC-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Mana Attack Value">
+    <Cheat Text="Max Mana Attack Value | 最大魔法攻击力">
         <Cheatline>
             <Offset>20E790A90</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>E0-0F-CC-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP">
+    <Cheat Text="Max XP | 最大经验值">
         <Cheatline>
             <Offset>20E790CD4</Offset>
             <Section>0</Section>

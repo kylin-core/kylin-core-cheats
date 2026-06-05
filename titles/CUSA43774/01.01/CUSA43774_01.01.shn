@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tomb Raider I–III Remastered" Moder="hejran7" Cusa="CUSA43774" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="-{Tomb Raider I}-">
+    <Cheat Text="-{Tomb Raider I} | -{古墓丽影 I}-">
         <Cheatline>
             <Offset>9A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Health">
+    <Cheat Text="Infinity Health | 无限生命">
         <Cheatline>
             <Offset>C6EDD</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Oxigen">
+    <Cheat Text="Infinity Oxigen | 无限氧气">
         <Cheatline>
             <Offset>7FEDDF48</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>66-41-FF-4F-16</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Supplies">
+    <Cheat Text="Infinity Supplies | 无限道具">
         <Cheatline>
             <Offset>C6EEF</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>C6F02</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Timer">
+    <Cheat Text="Reset Timer | 重置计时器">
         <Cheatline>
             <Offset>7FED342F</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-01-B3-10-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer">
+    <Cheat Text="Freeze Timer | 冻结计时器">
         <Cheatline>
             <Offset>7FED342F</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>44-01-B3-10-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Outfit (Photomode)">
+    <Cheat Text="Change Outfit (Photomode) | 更换服装（拍照模式）">
         <Cheatline>
             <Offset>7FF46F87</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-F8-11-80-B8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="-{Tomb Raider II}-">
+    <Cheat Text="-{Tomb Raider II} | -{古墓丽影 II}-">
         <Cheatline>
             <Offset>9A</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Health">
+    <Cheat Text="Infinity Health | 无限生命">
         <Cheatline>
             <Offset>8399B800</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Ammo">
+    <Cheat Text="Infinity Ammo | 无限弹药">
         <Cheatline>
             <Offset>838FE28E</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>FF-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Oxigen">
+    <Cheat Text="Infinity Oxigen | 无限氧气">
         <Cheatline>
             <Offset>839001C7</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>66-41-FF-4F-16</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Supplies">
+    <Cheat Text="Infinity Supplies | 无限道具">
         <Cheatline>
             <Offset>8399B812</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>8399B823</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Timer">
+    <Cheat Text="Reset Timer | 重置计时器">
         <Cheatline>
             <Offset>838EDEEF</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>44-01-B3-0C-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer">
+    <Cheat Text="Freeze Timer | 冻结计时器">
         <Cheatline>
             <Offset>838EDEEF</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>44-01-B3-0C-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Outfit (Photomode)">
+    <Cheat Text="Change Outfit (Photomode) | 更换服装（拍照模式）">
         <Cheatline>
             <Offset>8396B657</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C5-F8-11-80-B8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="-{Tomb Raider III}-">
+    <Cheat Text="-{Tomb Raider III} | -{古墓丽影 III}-">
         <Cheatline>
             <Offset>9A</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Health">
+    <Cheat Text="Infinity Health | 无限生命">
         <Cheatline>
             <Offset>873EB800</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Oxigen">
+    <Cheat Text="Infinity Oxigen | 无限氧气">
         <Cheatline>
             <Offset>87330AD7</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>66-41-83-44-24-16-FA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Supplies">
+    <Cheat Text="Infinity Supplies | 无限道具">
         <Cheatline>
             <Offset>873EB812</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>873EB823</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Timer">
+    <Cheat Text="Reset Timer | 重置计时器">
         <Cheatline>
             <Offset>87313CDF</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>44-01-B3-A8-08-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer">
+    <Cheat Text="Freeze Timer | 冻结计时器">
         <Cheatline>
             <Offset>87313CDF</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>44-01-B3-A8-08-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Change Outfit (Photomode)">
+    <Cheat Text="Change Outfit (Photomode) | 更换服装（拍照模式）">
         <Cheatline>
             <Offset>873B7027</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>C5-F8-11-80-B8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="***Fast Forward Timer***">
+    <Cheat Text="***Fast Forward Timer*** | ***快进计时器***">
         <Cheatline>
             <Offset>504A</Offset>
             <Section>0</Section>

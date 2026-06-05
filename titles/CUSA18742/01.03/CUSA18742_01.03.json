@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max coins (on buy)",
+      "name": "Max coins (on buy) | 金币最大（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "items (on use critical for the game use only in shops)",
+      "name": "items (on use critical for the game use only in shops) | 物品（使用时关键，仅限商店使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Exp on Gain",
+      "name": "Max Exp on Gain | 获得经验最大",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "1 Hit kill",
+      "name": "1 Hit kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

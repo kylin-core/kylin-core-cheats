@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina/Air",
+      "name": "Infinite Stamina/Air | 无限耐力/氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Items",
+      "name": "Infinite Ammo/Items | 无限弹药/物品",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints",
+      "name": "Max Skillpoints | 最大技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Easy QTE",
+      "name": "Easy QTE | 简单QTE",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Time",
+      "name": "Infinite Time | 无限时间",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最高得分",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Combo",
+      "name": "Max Combo | 最大连击",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Infinite Abilitypoints",
+      "name": "Infinite Abilitypoints | 无限技能点数",
       "type": "checkbox",
       "memory": [
         {

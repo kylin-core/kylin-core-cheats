@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Campaign Mode)",
+      "name": "Infinite Health (Campaign Mode) | 无限生命（战役模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Zombies Mode)",
+      "name": "Infinite Health (Zombies Mode) | 无限生命（僵尸模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / No Reload",
+      "name": "Infinite Ammo / No Reload | 无限弹药 / 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Armor / Max Salvage (9999)",
+      "name": "Infinite Armor / Max Salvage (9999) | 无限护甲 / 最大回收材料（9999）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Money (99999)",
+      "name": "Max Money (99999) | 最大金钱（99999）",
       "type": "checkbox",
       "memory": [
         {

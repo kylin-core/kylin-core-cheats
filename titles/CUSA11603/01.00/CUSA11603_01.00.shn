@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Shikhondo Soul Eater" Moder="Ali-mk" Cusa="CUSA11603" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>80744C9D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-5E-7C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Bomb">
+    <Cheat Text="Infinite-Bomb | 无限炸弹">
         <Cheatline>
             <Offset>8074B93D</Offset>
             <Section>0</Section>

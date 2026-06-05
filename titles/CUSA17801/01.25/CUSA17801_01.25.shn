@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hellpoint" Moder="Rizla" Cusa="CUSA17801" Version="01.25" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="HP Pointer (Must Be ON)">
+    <Cheat Text="HP Pointer (Must Be ON) | HP指针 (必须开启)">
         <Cheatline>
             <Offset>80C723D6</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-8B-03-48-89-DF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Pointer (Must Be ON)">
+    <Cheat Text="Player Pointer (Must Be ON) | 玩家指针 (必须开启)">
         <Cheatline>
             <Offset>80E59124</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-10-40-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="HP Master (Must Be ON)">
+    <Cheat Text="HP Master (Must Be ON) | HP主控 (必须开启)">
         <Cheatline>
             <Offset>80A94115</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-85-58-FF-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1DC7124</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-85-58-FF-FF-FF-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>1DC710F</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-10-85-58-FF-FF-FF-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>80A95476</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FC-11-04-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Fall Damage">
+    <Cheat Text="No Fall Damage | 无坠落伤害">
         <Cheatline>
             <Offset>80A95BEA</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>80-78-1C-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Magic">
+    <Cheat Text="Infinite Magic | 无限法力">
         <Cheatline>
             <Offset>80A97E55</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-11-43-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>81664F3E</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-11-43-54</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Heal">
+    <Cheat Text="Infinite Heal | 无限治疗">
         <Cheatline>
             <Offset>8165D6B1</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-43-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Heal on Gain">
+    <Cheat Text="Max Heal on Gain | 获取时满治疗">
         <Cheatline>
             <Offset>81046C57</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C5-FA-11-43-2C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="0 Weight">
+    <Cheat Text="0 Weight | 零负重">
         <Cheatline>
             <Offset>816662EF</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>41-89-85-A8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Heat+Freeze Increase">
+    <Cheat Text="No Heat+Freeze Increase | 无热量+冻结增加">
         <Cheatline>
             <Offset>81665344</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>C5-EA-5F-D3-C5-F8-2E-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Toxic Increase">
+    <Cheat Text="No Toxic Increase | 无毒素增加">
         <Cheatline>
             <Offset>8166548D</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C5-EA-5F-D3-C5-F8-2E-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Axions when Infuse">
+    <Cheat Text="Max Axions when Infuse | 注魂时最大Axions">
         <Cheatline>
             <Offset>8165EA48</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>49-8B-47-18-49-89-46-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Axions on Get">
+    <Cheat Text="Max Axions on Get | 获取时最大Axions">
         <Cheatline>
             <Offset>80A9822F</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>4D-01-B7-B8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Axions">
+    <Cheat Text="Infinite Axions | 无限Axions">
         <Cheatline>
             <Offset>80A9AC67</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>49-89-8E-B8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Keep Axions after Death">
+    <Cheat Text="Keep Axions after Death | 死后保留Axions">
         <Cheatline>
             <Offset>80C848A6</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>48-89-B7-B8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99999 Crafting Resources on Get">
+    <Cheat Text="99999 Crafting Resources on Get | 获取时99999制作资源">
         <Cheatline>
             <Offset>810AB3D3</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>44-89-73-34-44-89-F1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Crafting Resources">
+    <Cheat Text="Infinite Crafting Resources | 无限制作资源">
         <Cheatline>
             <Offset>810AB502</Offset>
             <Section>0</Section>

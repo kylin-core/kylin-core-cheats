@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Quick Level Up ~Leave Area To See Effect~",
+      "name": "Quick Level Up ~Leave Area To See Effect~ | 快速升级 ~离开区域生效~",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Max MP",
+      "name": "Max MP | 魔法值最大",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Max Skill Points",
+      "name": "Max Skill Points | 技能点数最大",
       "type": "checkbox",
       "memory": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 道具最大",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "Max Tension On Hit",
+      "name": "Max Tension On Hit | 击中时斗志最大",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Items ",
+      "name": "Max Items | 最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Unlimited Stamina",
+      "name": "Unlimited Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Max Total Earnings",
+      "name": "Max Total Earnings | 最大总收入",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Unlimited Watering Can",
+      "name": "Unlimited Watering Can | 无限水量喷壶",
       "type": "checkbox",
       "memory": [
         {

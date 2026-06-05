@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2 stay Human" Moder="Celogamez" Cusa="CUSA12584" Version="01.37" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max/Infinite Health">
+    <Cheat Text="Max/Infinite Health | 最大/无限生命">
         <Cheatline>
             <Offset>61FBDB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina/Breath">
+    <Cheat Text="Infinite Stamina/Breath | 无限体力/呼吸">
         <Cheatline>
             <Offset>3237D80</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-11-44-24-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work)">
+    <Cheat Text="Infinite Items/Arrows/Craft On Use (Need 2 To work) | 无限物品/箭矢/制作消耗（需至少2个生效）">
         <Cheatline>
             <Offset>314BAD8</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>E8-53-F2-AC-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables">
+    <Cheat Text="Infinite Throwables | 无限投掷物">
         <Cheatline>
             <Offset>314BDE0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>E8-4B-EF-AC-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload Crossbow/Boomstick">
+    <Cheat Text="No Reload Crossbow/Boomstick | 无需装填弩/霰弹枪">
         <Cheatline>
             <Offset>338DAB4</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>E8-77-D2-88-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapons Durability">
+    <Cheat Text="Infinite Weapons Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>61FB8D0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Immunity/Chemical Area">
+    <Cheat Text="Infinite Immunity/Chemical Area | 无限免疫/化学区域">
         <Cheatline>
             <Offset>61FB650</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite UV Flashlight">
+    <Cheat Text="Infinite UV Flashlight | 无限紫外线手电筒">
         <Cheatline>
             <Offset>61FB760</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Money">
+    <Cheat Text="Max/Infinite Money | 最大/无限金钱">
         <Cheatline>
             <Offset>61FB900</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Time Missions (Disable B4 Finishing)">
+    <Cheat Text="Freeze Time Missions (Disable B4 Finishing) | 冻结任务时间（完成前关闭）">
         <Cheatline>
             <Offset>3711758</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-FA-11-43-70</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP/Level/Inhibitors (Use After Escaping Waltz)">
+    <Cheat Text="Max XP/Level/Inhibitors (Use After Escaping Waltz) | 最大经验/等级/抑制剂（逃出华尔兹后使用）">
         <Cheatline>
             <Offset>33BC470</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>49-89-44-24-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Time For Parkour And Fighting Challenge">
+    <Cheat Text="Freeze Time For Parkour And Fighting Challenge | 冻结跑酷与战斗挑战时间">
         <Cheatline>
             <Offset>61FB270</Offset>
             <Section>0</Section>

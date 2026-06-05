@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tales of Zestiria™" Moder="Wander FW9.00" Cusa="CUSA02510" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Experience">
+    <Cheat Text="Max Experience | 最大经验值">
         <Cheatline>
             <Offset>114FBD0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 items (on use/get)">
+    <Cheat Text="999 items (on use/get) | 物品使用/获取时变为999">
         <Cheatline>
             <Offset>114FA50</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gald (on buy)">
+    <Cheat Text="Max Gald (on buy) | 购买时最大金币">
         <Cheatline>
             <Offset>114FC70</Offset>
             <Section>0</Section>

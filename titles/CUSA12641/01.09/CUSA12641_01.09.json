@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health",
+      "name": "Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Ko count easy max",
+      "name": "Ko count easy max | 击杀数轻松满",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Growth points x2",
+      "name": "Growth points x2 | 成长点数2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "skill points x2",
+      "name": "skill points x2 | 技能点数2倍",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "weapon Gems x2",
+      "name": "weapon Gems x2 | 武器宝石2倍",
       "type": "checkbox",
       "memory": [
         {

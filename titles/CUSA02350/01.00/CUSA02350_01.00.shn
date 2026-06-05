@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Until Dawn™: Rush of Blood" Moder="Cissa" Cusa="CUSA02350" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Ammo/No Reload">
+    <Cheat Text="Infinite Ammo/No Reload | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>BC9CD2</Offset>
             <Section>0</Section>

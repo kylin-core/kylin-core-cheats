@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible Mode",
+      "name": "Invincible Mode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Running Speed x 2",
+      "name": "Running Speed x 2 | 跑步速度x2",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infi Jump",
+      "name": "Infi Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Death Cnt 0 (Modern Mode)",
+      "name": "Death Cnt 0 (Modern Mode) | 死亡计数0（现代模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Apples",
+      "name": "Max Apples | 最大苹果数",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Boxes",
+      "name": "Max Boxes | 最大箱子数",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infi Trial Time",
+      "name": "Infi Trial Time | 无限挑战时间",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Wo Long Fallen Dynasty" Moder="Pharaoh2k" Cusa="CUSA37028" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code (Must always be enabled)">
+    <Cheat Text="Master Code (Must always be enabled) | 主控代码（必须始终启用）">
         <Cheatline>
             <Offset>3623800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ghost Mode">
+    <Cheat Text="Ghost Mode | 幽灵模式">
         <Cheatline>
             <Offset>402B0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>362383E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>3623860</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Morale">
+    <Cheat Text="Max Morale | 士气最大化">
         <Cheatline>
             <Offset>3623882</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill">
+    <Cheat Text="One Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>36238AE</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Spirit">
+    <Cheat Text="Max Spirit | 气势最大化">
         <Cheatline>
             <Offset>36238DD</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Genuine Qi">
+    <Cheat Text="Max Genuine Qi | 真气最大化">
         <Cheatline>
             <Offset>36238FC</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Buff Duration">
+    <Cheat Text="Infinite Buff Duration | 无限增益持续时间">
         <Cheatline>
             <Offset>36239D0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="World Speed (Master-Code)">
+    <Cheat Text="World Speed (Master-Code) | 世界速度（主控代码）">
         <Cheatline>
             <Offset>3623922</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x0.5 Speed">
+    <Cheat Text="---x0.5 Speed | ---x0.5倍速">
         <Cheatline>
             <Offset>03A0004D</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x2 Speed">
+    <Cheat Text="---x2 Speed | ---x2倍速">
         <Cheatline>
             <Offset>03A0004D</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x3 Speed">
+    <Cheat Text="---x3 Speed | ---x3倍速">
         <Cheatline>
             <Offset>03A0004D</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="---x4 Speed">
+    <Cheat Text="---x4 Speed | ---x4倍速">
         <Cheatline>
             <Offset>03A0004D</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Accolades (On Buy)">
+    <Cheat Text="Max Accolades (On Buy) | 声望最大化（购买时生效）">
         <Cheatline>
             <Offset>3623938</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99 Dragon Cure Potions (On use)">
+    <Cheat Text="99 Dragon Cure Potions (On use) | 99个龙愈之药（使用生效）">
         <Cheatline>
             <Offset>362394C</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Copper">
+    <Cheat Text="Infinite Copper | 无限铜钱">
         <Cheatline>
             <Offset>362395E</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Wizardry Spells (On use)">
+    <Cheat Text="Infinite Wizardry Spells (On use) | 无限奇术（使用生效）">
         <Cheatline>
             <Offset>3623971</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Throwables (On use)">
+    <Cheat Text="Infinite Throwables (On use) | 无限投掷道具（使用生效）">
         <Cheatline>
             <Offset>362398A</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Beast Power Charge">
+    <Cheat Text="Instant Beast Power Charge | 瞬间蓄满神兽能量">
         <Cheatline>
             <Offset>3623997</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Tiger Beast Duration">
+    <Cheat Text="Infinite Tiger Beast Duration | 无限白虎持续时间">
         <Cheatline>
             <Offset>36239AE</Offset>
             <Section>0</Section>

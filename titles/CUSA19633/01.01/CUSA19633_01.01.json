@@ -5,17 +5,15 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[01] Immunity",
+      "name": "[01] Immunity | 免疫",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "2814C0",
           "on": "C3",
           "off": "55"
         },
         {
-          "section": "14",
           "offset": "29BD10",
           "on": "C3",
           "off": "55"
@@ -23,7 +21,7 @@
       ]
     },
     {
-      "name": "[02] Infinite Health (Maxed)",
+      "name": "[02] Infinite Health (Maxed) | 无限生命（满血）",
       "type": "checkbox",
       "memory": [
         {
@@ -39,7 +37,7 @@
       ]
     },
     {
-      "name": "[03] 1 Hit Kill",
+      "name": "[03] 1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -55,7 +53,7 @@
       ]
     },
     {
-      "name": "[04] Speed x2",
+      "name": "[04] Speed x2 | 速度×2",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +69,7 @@
       ]
     },
     {
-      "name": "[05] Infinite Points",
+      "name": "[05] Infinite Points | 无限分数",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +85,7 @@
       ]
     },
     {
-      "name": "[06] Infinite Coins",
+      "name": "[06] Infinite Coins | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -103,11 +101,10 @@
       ]
     },
     {
-      "name": "[07] Hit Bar Always Full",
+      "name": "[07] Hit Bar Always Full | 连击条始终满盈",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "29DDB5",
           "on": "9090",
           "off": "FFC8"
@@ -115,7 +112,7 @@
       ]
     },
     {
-      "name": "[08a] Infinite Item: Bombs",
+      "name": "[08a] Infinite Item: Bombs | 无限道具：炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -131,7 +128,7 @@
       ]
     },
     {
-      "name": "[08b] Infinite Item: Spells",
+      "name": "[08b] Infinite Item: Spells | 无限道具：法术",
       "type": "checkbox",
       "memory": [
         {
@@ -147,7 +144,7 @@
       ]
     },
     {
-      "name": "[08c] Infinite Item: Chickens",
+      "name": "[08c] Infinite Item: Chickens | 无限道具：鸡",
       "type": "checkbox",
       "memory": [
         {
@@ -163,7 +160,7 @@
       ]
     },
     {
-      "name": "[08d] Infinite Item: Potions",
+      "name": "[08d] Infinite Item: Potions | 无限道具：药水",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "No Hunger",
-      "hint": null,
+      "name": "No Hunger | 无饥饿",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "No Thirst",
-      "hint": null,
+      "name": "No Thirst | 无口渴",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Never Tired",
-      "hint": null,
+      "name": "Never Tired | 永不疲劳",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -92,8 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Firesticks",
-      "hint": null,
+      "name": "Infinite Firesticks | 无限火把",
       "type": "checkbox",
       "memory": [
         {
@@ -104,8 +97,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "hint": null,
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -141,8 +133,7 @@
       ]
     },
     {
-      "name": "Max XP",
-      "hint": "Earn XP to max it out.",
+      "name": "Max XP | 满级经验",
       "type": "checkbox",
       "memory": [
         {
@@ -153,8 +144,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints",
-      "hint": "Spend skillpoints to get more.",
+      "name": "Infinite Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {

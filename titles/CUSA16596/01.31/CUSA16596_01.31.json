@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health / Stamina",
+      "name": "Inf Health / Stamina | 无限生命 / 耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Money/Ammo/Med Kit/Craft Res",
+      "name": "Max Money/Ammo/Med Kit/Craft Res | 最大金钱/弹药/医疗包/制作材料",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Attribute / Perks Points / CB-Points (On Spend)",
+      "name": "Max Attribute / Perks Points / CB-Points (On Spend) | 最大属性/技能点/义体容量点数（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables (Get Them First)",
+      "name": "Infinite Throwables (Get Them First) | 无限投掷物（需先获得）",
       "type": "checkbox",
       "memory": [
         {

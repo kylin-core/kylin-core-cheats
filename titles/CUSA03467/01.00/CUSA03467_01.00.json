@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Wingdiver-Engery",
+      "name": "Max Wingdiver-Engery | 飞翼兵能量最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "2x armor pick up",
+      "name": "2x armor pick up | 双倍装甲拾取",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "INF Ammo + Rapidfire",
+      "name": "INF Ammo + Rapidfire | 无限弹药+连发",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Unlock Every Weapon",
+      "name": "Unlock Every Weapon | 解锁所有武器",
       "type": "checkbox",
       "memory": [
         {

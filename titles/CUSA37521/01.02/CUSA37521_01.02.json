@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinte Health",
+      "name": "Infinte Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "all consumable misc event items",
+      "name": "all consumable misc event items | 所有消耗品及活动道具",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "all skill items",
+      "name": "all skill items | 所有技能道具",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "all weapons",
+      "name": "all weapons | 所有武器",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "all armors",
+      "name": "all armors | 所有防具",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "all footwear",
+      "name": "all footwear | 所有鞋子",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "all outfit",
+      "name": "all outfit | 所有服装",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "all accessories",
+      "name": "all accessories | 所有饰品",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "yen",
+      "name": "yen | 游戏币",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "date (master code)",
+      "name": "date (master code) | 日期（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "decrease 1 day (MC / date)",
+      "name": "decrease 1 day (MC / date) | 减少1天（主角/日期）",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "increase 1 day (MC / date)",
+      "name": "increase 1 day (MC / date) | 增加1天（主角/日期）",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "daytime (master code)",
+      "name": "daytime (master code) | 白天（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "early morning (MC / daytime)",
+      "name": "early morning (MC / daytime) | 清晨（主角/白天）",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "after school (MC / daytime)",
+      "name": "after school (MC / daytime) | 放学后（主角/白天）",
       "type": "checkbox",
       "memory": [
         {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "name": "evening (MC / daytime)",
+      "name": "evening (MC / daytime) | 傍晚（主角/白天）",
       "type": "checkbox",
       "memory": [
         {
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "name": "max exp player only",
+      "name": "max exp player only | 仅主角满经验",
       "type": "checkbox",
       "memory": [
         {
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "name": "max exp persona and party",
+      "name": "max exp persona and party | 人格面具和队伍满经验",
       "type": "checkbox",
       "memory": [
         {
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "name": "persona id (master code)",
+      "name": "persona id (master code) | 人格面具ID（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "name": "increase persona id (MC / id)",
+      "name": "increase persona id (MC / id) | 增加人格面具ID（主角/ID）",
       "type": "checkbox",
       "memory": [
         {
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "name": "decrease persona id (MC / id)",
+      "name": "decrease persona id (MC / id) | 减少人格面具ID（主角/ID）",
       "type": "checkbox",
       "memory": [
         {
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "name": "max social stats",
+      "name": "max social stats | 满社交属性",
       "type": "checkbox",
       "memory": [
         {
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "name": "max social links",
+      "name": "max social links | 满羁绊等级",
       "type": "checkbox",
       "memory": [
         {
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "name": "99999999 Yen (On buying)",
+      "name": "99999999 Yen (On buying) | 99999999游戏币（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -371,6 +371,6 @@
     }
   ],
   "credits": [
-    "d01v & Wander FW9.00"
+    "d01v \u0026 Wander FW9.00"
   ]
 }

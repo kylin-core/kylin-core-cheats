@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Super (On Gain)",
+      "name": "Inf Super (On Gain) | 无限超级能量（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Stone Meter (On Gain)",
+      "name": "Inf Stone Meter (On Gain) | 无限宝石能量（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Timer",
+      "name": "Inf Timer | 无限时间",
       "type": "checkbox",
       "memory": [
         {

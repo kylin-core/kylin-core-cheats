@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Stamina/ HP/1HK (Master Code)/ Use After Training",
+      "name": "Stamina/ HP/1HK (Master Code)/ Use After Training | 耐力/生命/一击必杀（主码）/训练后启用",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "HP  (MC)",
+      "name": "HP  (MC) | 生命值（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 HK  (MC)",
+      "name": "1 HK  (MC) | 一击必杀（主码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Ranged Weapon",
+      "name": "Ranged Weapon | 远程武器",
       "type": "checkbox",
       "memory": [
         {

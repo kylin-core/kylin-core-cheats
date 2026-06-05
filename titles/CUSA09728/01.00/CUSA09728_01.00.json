@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (when haunting the other will get inf hp)",
+      "name": "Infinite Health (when haunting the other will get inf hp) | 无限生命（附身他人时获得无限血量）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Golden Cube",
+      "name": "Max Golden Cube | 最大黄金魔方",
       "type": "checkbox",
       "memory": [
         {

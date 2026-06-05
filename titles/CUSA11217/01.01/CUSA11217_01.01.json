@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Health ( must be activated )",
+      "name": "Mastercode Health ( must be activated ) | 主码生命（需启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health [ MC ]",
+      "name": "Infinite Health [ MC ] | 无限生命[主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [ MC ]",
+      "name": "One Hit Kill [ MC ] | 一击必杀[主角]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Resistance ( Ice )",
+      "name": "Max Resistance ( Ice ) | 最大抗性（冰霜）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Resistance ( Poison )",
+      "name": "Max Resistance ( Poison ) | 最大抗性（毒素）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Items ( on use )",
+      "name": "Max Items ( on use ) | 最大物品（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Set Challenger Timer to 1",
+      "name": "Set Challenger Timer to 1 | 设定挑战计时器为1",
       "type": "checkbox",
       "memory": [
         {

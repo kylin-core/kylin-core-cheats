@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lie of P" Moder="Super Death" Cusa="PPSA10261" Version="01.000.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>2790B48</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-43-FB-ED-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>4F13834</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ergo">
+    <Cheat Text="Infinite Ergo | 无限埃戈">
         <Cheatline>
             <Offset>4F13800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items/ Storage">
+    <Cheat Text="Infinite Items/ Storage | 无限物品/库存">
         <Cheatline>
             <Offset>4F13816</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fable Arts">
+    <Cheat Text="Infinite Fable Arts | 无限寓言技艺">
         <Cheatline>
             <Offset>2792CEF</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>E8-CC-D3-B0-FD</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Legion Use">
+    <Cheat Text="Infinite Legion Use | 无限军团使用">
         <Cheatline>
             <Offset>2792ED2</Offset>
             <Section>0</Section>

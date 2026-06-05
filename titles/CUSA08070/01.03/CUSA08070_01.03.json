@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Score x1",
+      "name": "Score x1 | 分数x1",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Score x2",
+      "name": "Score x2 | 分数x2",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Score x10",
+      "name": "Score x10 | 分数x10",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Score x20",
+      "name": "Score x20 | 分数x20",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Score x100",
+      "name": "Score x100 | 分数x100",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Items for Collection Quests",
+      "name": "Max Items for Collection Quests | 收集任务最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinite Time",
+      "name": "Infinite Time | 无限时间",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Max Magic Crystalls on Get",
+      "name": "Max Magic Crystals on Get | 获取时魔力水晶最大",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Unlock Magic Items",
+      "name": "Unlock Magic Items | 解锁魔法道具",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "99x Combo",
+      "name": "99x Combo | 99连击",
       "type": "checkbox",
       "memory": [
         {

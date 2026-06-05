@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Samurai Bringer" Moder="Dioniso" Cusa="CUSA32805" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="[00] Master Code (MUST BE ON!!!)">
+    <Cheat Text="[00] Master Code (MUST BE ON!!!) | 主代码（必须开启！！！）">
         <Cheatline>
             <Offset>5207830</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[01] Infinite HP">
+    <Cheat Text="[01] Infinite HP | 无限生命值">
         <Cheatline>
             <Offset>5207600</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[02] Infinite SP">
+    <Cheat Text="[02] Infinite SP | 无限技能值">
         <Cheatline>
             <Offset>52079A0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[03] 1 Hit Kill (The Purple Death)">
+    <Cheat Text="[03] 1 Hit Kill (The Purple Death) | 一击必杀（紫色死神）">
         <Cheatline>
             <Offset>5207650</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[04] Player`s Speed x3">
+    <Cheat Text="[04] Player`s Speed x3 | 玩家速度x3">
         <Cheatline>
             <Offset>5207B40</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[05] Player`s Megajump">
+    <Cheat Text="[05] Player`s Megajump | 超级跳跃">
         <Cheatline>
             <Offset>5207B00</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[06] Player`s Weapons SuperDAMAGE">
+    <Cheat Text="[06] Player`s Weapons SuperDAMAGE | 武器超级伤害">
         <Cheatline>
             <Offset>5207C40</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[07] Player`s Weapons SuperSIZE">
+    <Cheat Text="[07] Player`s Weapons SuperSIZE | 武器超级尺寸">
         <Cheatline>
             <Offset>5207C00</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[08] 5 Keys">
+    <Cheat Text="[08] 5 Keys | 5把钥匙">
         <Cheatline>
             <Offset>5207960</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[09] Infinite Coins (Starts At 66.666)">
+    <Cheat Text="[09] Infinite Coins (Starts At 66.666) | 无限金币（从66.666开始）">
         <Cheatline>
             <Offset>5207910</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[10a] Sets and Stops At 1st Day 00:00 AM (Night)">
+    <Cheat Text="[10a] Sets and Stops At 1st Day 00:00 AM (Night) | 锁定并停止在第一天午夜0点（夜晚）">
         <Cheatline>
             <Offset>52079F0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[10b] Sets and Stops At 1st Day 12:00 PM (Daylight)">
+    <Cheat Text="[10b] Sets and Stops At 1st Day 12:00 PM (Daylight) | 锁定并停止在第一天正午12点（白昼）">
         <Cheatline>
             <Offset>52079F0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[11] NME Don`t Attack">
+    <Cheat Text="[11] NME Don`t Attack | 敌人不攻击">
         <Cheatline>
             <Offset>5207A80</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[12] NME Don`t Walk/Run">
+    <Cheat Text="[12] NME Don`t Walk/Run | 敌人不移动/奔跑">
         <Cheatline>
             <Offset>5207B80</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[13] Press L3 To Zoom In/Out (12 Steps)">
+    <Cheat Text="[13] Press L3 To Zoom In/Out (12 Steps) | 按L3拉近/拉远视角（12级）">
         <Cheatline>
             <Offset>52076A0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="[14] Game Speed x2 (ON/OFF + Up Arrow Menu)">
+    <Cheat Text="[14] Game Speed x2 (ON/OFF + Up Arrow Menu) | 游戏速度x2（开启/关闭 + 上箭头菜单）">
         <Cheatline>
             <Offset>5207AC0</Offset>
             <Section>0</Section>

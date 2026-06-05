@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Blaster Master Zero 3" Moder="d01v" Cusa="CUSA27578" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>2FEC633</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Main Weapon SP (Gaia)">
+    <Cheat Text="Infinite Main Weapon SP (Gaia) | 无限主武器SP（盖亚）">
         <Cheatline>
             <Offset>1A1C54E</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>0F-4E-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Sub Weapon SP (Gaia)">
+    <Cheat Text="Infinite Sub Weapon SP (Gaia) | 无限副武器SP（盖亚）">
         <Cheatline>
             <Offset>1A1C77E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>0F-4E-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy Guard (Pilot)">
+    <Cheat Text="Infinite Energy Guard (Pilot) | 无限能量护盾（驾驶员）">
         <Cheatline>
             <Offset>1A1CE4D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>83-F8-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Sub Weapon (Pilot)">
+    <Cheat Text="Infinite Sub Weapon (Pilot) | 无限副武器（驾驶员）">
         <Cheatline>
             <Offset>1A1CD60</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-39-C4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dash (Pilot)">
+    <Cheat Text="Infinite Dash (Pilot) | 无限冲刺（驾驶员）">
         <Cheatline>
             <Offset>1194AC8</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FA-11-87-30-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Counter (Pilot)">
+    <Cheat Text="Infinite Counter (Pilot) | 无限反击（驾驶员）">
         <Cheatline>
             <Offset>1A207BD</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-80-34-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="G Crusher Shot Plus (Main Wep Gaia)">
+    <Cheat Text="G Crusher Shot Plus (Main Wep Gaia) | G粉碎射击增强（盖亚主武器）">
         <Cheatline>
             <Offset>1A1C320</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>8A-46-3C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Anti SF Ammo (Main Wep Gaia)">
+    <Cheat Text="Anti SF Ammo (Main Wep Gaia) | 反宇宙力量弹药（盖亚主武器）">
         <Cheatline>
             <Offset>1A1C320</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>8A-46-3C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rain Cluster (Main Wep Gaia)">
+    <Cheat Text="Rain Cluster (Main Wep Gaia) | 雨滴集束（盖亚主武器）">
         <Cheatline>
             <Offset>1A1C320</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>8A-46-3C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Homing Laser (Sub Wep Gaia)">
+    <Cheat Text="Homing Laser (Sub Wep Gaia) | 追踪激光（盖亚副武器）">
         <Cheatline>
             <Offset>1A1C340</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>8A-46-3D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Aqua Shift (Sub Wep Gaia)">
+    <Cheat Text="Aqua Shift (Sub Wep Gaia) | 水流移位（盖亚副武器）">
         <Cheatline>
             <Offset>1A1C340</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>8A-46-3D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Ignition Spark (Sub Wep Gaia)">
+    <Cheat Text="Ignition Spark (Sub Wep Gaia) | 点火火花（盖亚副武器）">
         <Cheatline>
             <Offset>1A1C340</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>8A-46-3D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Phantom Solid (Sub Wep Gaia)">
+    <Cheat Text="Phantom Solid (Sub Wep Gaia) | 幻影实体（盖亚副武器）">
         <Cheatline>
             <Offset>1A1C340</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>8A-46-3D</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Final Acceleration Blast (Sub Wep Gaia)">
+    <Cheat Text="Final Acceleration Blast (Sub Wep Gaia) | 终极加速爆破（盖亚副武器）">
         <Cheatline>
             <Offset>1A1C340</Offset>
             <Section>0</Section>

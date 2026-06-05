@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Money Gain on Spend",
+      "name": "Money Gain on Spend | 消费获得资金",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "TacP Gain when enemy killed during battle",
+      "name": "TacP Gain when enemy killed during battle | 击坠敌方获得TacP",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "TacP Gain on Spend",
+      "name": "TacP Gain on Spend | 消费获得TacP",
       "type": "checkbox",
       "memory": [
         {

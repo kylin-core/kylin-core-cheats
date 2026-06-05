@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Frozen: Snowball Fight" Moder="DeathRGH" Cusa="CUSA02396" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Score Multiplier">
+    <Cheat Text="Max Score Multiplier | 最高分数倍率">
         <Cheatline>
             <Offset>EDCE6E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-46-30</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Moves">
+    <Cheat Text="Infinite Moves | 无限步数">
         <Cheatline>
             <Offset>EED75E</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-89-47-4C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Hearts">
+    <Cheat Text="Infinite Hearts | 无限爱心">
         <Cheatline>
             <Offset>F51976</Offset>
             <Section>0</Section>

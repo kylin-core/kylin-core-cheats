@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Attributes",
-      "hint": null,
+      "name": "Max Attributes | 最大属性",
       "type": "button",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Max Money",
-      "hint": null,
+      "name": "Max Money | 最大金钱",
       "type": "button",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷道具",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Adrenaline Syringes",
+      "name": "Infinite Adrenaline Syringes | 无限肾上腺素注射器",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Get 9.999 Ammo per Reload",
+      "name": "Get 9.999 Ammo per Reload | 每次装弹获得9999弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Get 9.999 Throwables (with each throw)",
+      "name": "Get 9.999 Throwables (with each throw) | 每次投掷获得9999投掷道具",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Get $9.999.999 (with every earnings)",
+      "name": "Get $9.999.999 (with every earnings) | 每次收入获得9999999美元",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Get 9.999 Adrenaline Syringes (with each use)",
+      "name": "Get 9.999 Adrenaline Syringes (with each use) | 每次使用获得9999肾上腺素注射器",
       "type": "checkbox",
       "memory": [
         {

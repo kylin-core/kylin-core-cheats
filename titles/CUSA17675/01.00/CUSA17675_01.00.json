@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "freeze time",
+      "name": "freeze time | 冻结时间",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "21FA7A6",
           "on": "9090909090",
           "off": "C5FA114720"

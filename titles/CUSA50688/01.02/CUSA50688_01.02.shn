@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nine Sols" Moder="Talixme" Cusa="CUSA50688" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf life">
+    <Cheat Text="Inf life | 无限生命">
         <Cheatline>
             <Offset>80B43A40</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-47-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Healer">
+    <Cheat Text="Inf Healer | 无限治疗师">
         <Cheatline>
             <Offset>80B4C895</Offset>
             <Section>0</Section>

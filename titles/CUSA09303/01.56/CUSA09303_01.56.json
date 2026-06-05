@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Adrenaline",
+      "name": "Infinite Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Abilities (No Cooldown)",
+      "name": "Abilities (No Cooldown) | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Ability Points (9999)",
+      "name": "Max Ability Points (9999) | 最大技能点 (9999)",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Resorce / Drachma / Arrows (On Get)",
+      "name": "Max Resorce / Drachma / Arrows (On Get) | 获取时资源/德拉克马/箭矢最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Infinite Ship Health / 1 Hit (Master Code)",
+      "name": "Infinite Ship Health / 1 Hit (Master Code) | 船只无限生命/一击必杀 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "1 Hit kill (MC)",
+      "name": "1 Hit kill (MC) | 一击必杀 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinite Ship Adrenaline+Ram Speed",
+      "name": "Infinite Ship Adrenaline+Ram Speed | 无限船只肾上腺素+冲撞速度",
       "type": "checkbox",
       "memory": [
         {

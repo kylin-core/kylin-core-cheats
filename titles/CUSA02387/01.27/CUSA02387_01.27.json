@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Enemies AFK",
+      "name": "Enemies AFK | 敌人挂机",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "No Weapon Overheat",
+      "name": "No Weapon Overheat | 武器无过热",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Better Aiming",
+      "name": "Better Aiming | 辅助瞄准增强",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Vsync off for more fps 120+ laggy on PS4",
+      "name": "Vsync off for more fps 120+ laggy on PS4 | 关闭垂直同步提高帧数 120+ 但PS4可能卡顿",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Speed Hack x2",
+      "name": "Speed Hack x2 | 速度作弊 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Player isGrounded",
+      "name": "Player isGrounded | 玩家接地状态",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Fire rate 60 / 2",
+      "name": "Fire rate 60 / 2 | 射速 60 / 2",
       "type": "checkbox",
       "memory": [
         {

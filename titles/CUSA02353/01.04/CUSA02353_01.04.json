@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Inf Focus",
+      "name": "Inf Focus | 无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Max Salt on Pickup",
+      "name": "Max Salt on Pickup | 拾取最大盐量",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Max Money on Pickup",
+      "name": "Max Money on Pickup | 拾取最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Inf Items and Weapons (L3 Pressed while save to avoid freeze)",
+      "name": "Inf Items and Weapons (L3 Pressed while save to avoid freeze) | 无限物品与武器（存档时按住L3以防卡死）",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Inf Upgrade Points",
+      "name": "Inf Upgrade Points | 无限升级点数",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On) | 无限生命/一击必杀（主代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Enable MC)",
+      "name": "Infinite Health (Enable MC) | 无限生命（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 一击必杀（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Jetpack",
+      "name": "Infinite Jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {

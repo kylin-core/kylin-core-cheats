@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nanatsu no Taizai (Seven Deadly Sins) - Knights of Britannia" Moder="TLH" Cusa="CUSA08070" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1297800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kills">
+    <Cheat Text="1 Hit Kills | 一击必杀">
         <Cheatline>
             <Offset>6032E5</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>F3-0F-10-00-F3-0F-5A-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Magic">
+    <Cheat Text="Infinite Magic | 无限魔力">
         <Cheatline>
             <Offset>84D4A8</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>F2-0F-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Score x1">
+    <Cheat Text="Score x1 | 分数x1">
         <Cheatline>
             <Offset>1297812</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Score x2">
+    <Cheat Text="Score x2 | 分数x2">
         <Cheatline>
             <Offset>1297812</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Score x10">
+    <Cheat Text="Score x10 | 分数x10">
         <Cheatline>
             <Offset>1297812</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Score x20">
+    <Cheat Text="Score x20 | 分数x20">
         <Cheatline>
             <Offset>1297812</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Score x100">
+    <Cheat Text="Score x100 | 分数x100">
         <Cheatline>
             <Offset>1297812</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items for Collection Quests">
+    <Cheat Text="Max Items for Collection Quests | 收集任务最大物品">
         <Cheatline>
             <Offset>605FF4</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>49-63-47-60-FF-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Time">
+    <Cheat Text="Infinite Time | 无限时间">
         <Cheatline>
             <Offset>5F5E49</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>F2-0F-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Magic Crystalls on Get">
+    <Cheat Text="Max Magic Crystals on Get | 获取时魔力水晶最大">
         <Cheatline>
             <Offset>61F1B9</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>48-63-08-03-4C-24-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Magic Items">
+    <Cheat Text="Unlock Magic Items | 解锁魔法道具">
         <Cheatline>
             <Offset>1297823</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="99x Combo">
+    <Cheat Text="99x Combo | 99连击">
         <Cheatline>
             <Offset>90CBEA</Offset>
             <Section>0</Section>

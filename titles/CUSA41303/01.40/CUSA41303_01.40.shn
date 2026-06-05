@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metal Gear Solid 2_Sons of Liberty" Moder="Big_Wadger" Cusa="CUSA41303" Version="01.40" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Rations">
+    <Cheat Text="Inf Rations | 无限口粮">
         <Cheatline>
             <Offset>101318</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>66-89-34-48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo">
+    <Cheat Text="Inf Ammo | 无限弹药">
         <Cheatline>
             <Offset>1012EC</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode Left Player",
+      "name": "Godmode Left Player | 左方玩家无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Chakra Left Player",
+      "name": "Infinite Chakra Left Player | 左方玩家无限查克拉",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Money / Ryo",
+      "name": "Infinite Money / Ryo | 无限金钱/两",
       "type": "checkbox",
       "memory": [
         {

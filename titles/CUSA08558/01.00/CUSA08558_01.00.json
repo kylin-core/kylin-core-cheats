@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God-Mode/Weapon Damage Meter",
-      "hint": null,
+      "name": "God-Mode/Weapon Damage Meter | 上帝模式/武器伤害指示器",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Unlimited Skill Points",
-      "hint": null,
+      "name": "Unlimited Skill Points | 无限技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Unlimited Ammo/All Weapons",
-      "hint": null,
+      "name": "Unlimited Ammo/All Weapons | 无限弹药/全部武器",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Max XP",
-      "hint": null,
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {

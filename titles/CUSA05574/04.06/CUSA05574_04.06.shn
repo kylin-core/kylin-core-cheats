@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Witcher 3 Wild Hunt" Moder="Pharaoh2k" Cusa="CUSA05574" Version="04.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="TRAINER INFO (read only)">
+    <Cheat Text="TRAINER INFO (read only) | 修改器信息（只读）">
         <Cheatline>
             <Offset>24EEFFF</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Codes (Must be enabled!)">
+    <Cheat Text="Master Codes (Must be enabled!) | 主代码（必须启用！）">
         <Cheatline>
             <Offset>24EF000</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Easy_Kill">
+    <Cheat Text="--Easy_Kill | --轻松击杀">
         <Cheatline>
             <Offset>24EF0B5</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite_Adrenaline">
+    <Cheat Text="--Infinite_Adrenaline | --无限肾上腺素">
         <Cheatline>
             <Offset>24EF0C5</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite_HP">
+    <Cheat Text="--Infinite_HP | --无限生命值">
         <Cheatline>
             <Offset>24EF0B1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite_Horse_Run">
+    <Cheat Text="--Infinite_Horse_Run | --无限马匹耐力">
         <Cheatline>
             <Offset>24EF0BD</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Infinite_Oxygen">
+    <Cheat Text="--Infinite_Oxygen | --无限氧气">
         <Cheatline>
             <Offset>24EF0C1</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Inifinite_Stamina">
+    <Cheat Text="--Inifinite_Stamina | --无限体力">
         <Cheatline>
             <Offset>24EF0CD</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Min_Horse_Panic">
+    <Cheat Text="--Min_Horse_Panic | --最小马匹恐慌">
         <Cheatline>
             <Offset>24EF0B9</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--No_Toxicity">
+    <Cheat Text="--No_Toxicity | --无毒性">
         <Cheatline>
             <Offset>24EF0C9</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Toxicity From Decoctions 4.06">
+    <Cheat Text="No Toxicity From Decoctions 4.06 | 煎药无毒性 4.06">
         <Cheatline>
             <Offset>24EF0F1</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Horse Fear Bar">
+    <Cheat Text="Reset Horse Fear Bar | 重置马匹恐惧值">
         <Cheatline>
             <Offset>24EF126</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Teleport to Map Waypoint">
+    <Cheat Text="Teleport to Map Waypoint | 传送至地图路标点">
         <Cheatline>
             <Offset>24EF179</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--XP_Multiplier x1">
+    <Cheat Text="--XP_Multiplier x1 | --经验倍率 x1">
         <Cheatline>
             <Offset>24EF288</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--XP_Multiplier x5">
+    <Cheat Text="--XP_Multiplier x5 | --经验倍率 x5">
         <Cheatline>
             <Offset>24EF288</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--XP_Multiplier x10">
+    <Cheat Text="--XP_Multiplier x10 | --经验倍率 x10">
         <Cheatline>
             <Offset>24EF288</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--XP_Multiplier x20">
+    <Cheat Text="--XP_Multiplier x20 | --经验倍率 x20">
         <Cheatline>
             <Offset>24EF288</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--XP_Multiplier x50">
+    <Cheat Text="--XP_Multiplier x50 | --经验倍率 x50">
         <Cheatline>
             <Offset>24EF288</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--XP_Multiplier x999">
+    <Cheat Text="--XP_Multiplier x999 | --经验倍率 x999">
         <Cheatline>
             <Offset>24EF288</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Game Speed x1">
+    <Cheat Text="--Game Speed x1 | --游戏速度 x1">
         <Cheatline>
             <Offset>24EF2C0</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Game Speed x2">
+    <Cheat Text="--Game Speed x2 | --游戏速度 x2">
         <Cheatline>
             <Offset>24EF2C0</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Game Speed x3">
+    <Cheat Text="--Game Speed x3 | --游戏速度 x3">
         <Cheatline>
             <Offset>24EF2C0</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items 4.06 ">
+    <Cheat Text="Infinite Items 4.06 | 无限物品 4.06">
         <Cheatline>
             <Offset>24EF2E4</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Potions">
+    <Cheat Text="Infinite Potions | 无限药水">
         <Cheatline>
             <Offset>24EF357</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Crafting and Alchemy Requirements">
+    <Cheat Text="No Crafting and Alchemy Requirements | 无制作与炼金要求">
         <Cheatline>
             <Offset>AEEB4</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>8B-42-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money 4.06">
+    <Cheat Text="Infinite Money 4.06 | 无限金钱 4.06">
         <Cheatline>
             <Offset>24EF389</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Walking Speed x1">
+    <Cheat Text="--Walking Speed x1 | --行走速度 x1">
         <Cheatline>
             <Offset>24EF3C9</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Walking Speed x2">
+    <Cheat Text="--Walking Speed x2 | --行走速度 x2">
         <Cheatline>
             <Offset>24EF3C9</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="--Walking Speed x3">
+    <Cheat Text="--Walking Speed x3 | --行走速度 x3">
         <Cheatline>
             <Offset>24EF3C9</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>24EF3ED</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Durable Weapons And Armor">
+    <Cheat Text="Durable Weapons And Armor | 耐用武器与盔甲">
         <Cheatline>
             <Offset>24EF435</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Weight 99999">
+    <Cheat Text="Max Weight 99999 | 最大负重99999">
         <Cheatline>
             <Offset>24EF465</Offset>
             <Section>0</Section>

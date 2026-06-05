@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Snow Runner" Moder="Reddevil82 " Cusa="CUSA17425" Version="01.37" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Fuel">
+    <Cheat Text="Infinite Fuel | 无限燃油">
         <Cheatline>
             <Offset>2753DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage">
+    <Cheat Text="No Damage | 无损伤">
         <Cheatline>
             <Offset>2753DE1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Repair Points ( on use )">
+    <Cheat Text="Max Repair Points ( on use ) | 最大修复点数（使用后）">
         <Cheatline>
             <Offset>2753DF0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer">
+    <Cheat Text="Freeze Timer | 冻结计时器">
         <Cheatline>
             <Offset>E2D7F5</Offset>
             <Section>0</Section>

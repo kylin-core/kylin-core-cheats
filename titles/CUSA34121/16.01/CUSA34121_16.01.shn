@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter Rise Sunbreak" Moder="d01v" Cusa="CUSA34121" Version="16.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Backport 505-9 only">
+    <Cheat Text="Backport 505-9 only | 仅向后移植505-9">
         <Cheatline>
             <Offset>84894F1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Item id modifier">
+    <Cheat Text="Master Code Item id modifier | 主代码物品ID修改器">
         <Cheatline>
             <Offset>8489501</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="increase item id (MC id)">
+    <Cheat Text="increase item id (MC id) | 增加物品ID（主代码ID）">
         <Cheatline>
             <Offset>8489504</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>EB-21</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="decrease item id (MC id)">
+    <Cheat Text="decrease item id (MC id) | 减少物品ID（主代码ID）">
         <Cheatline>
             <Offset>8489504</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>EB-21</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="item 99">
+    <Cheat Text="item 99 | 物品99个">
         <Cheatline>
             <Offset>8489541</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite wirebug">
+    <Cheat Text="Infinite wirebug | 无限翔虫">
         <Cheatline>
             <Offset>8489561</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite health">
+    <Cheat Text="Infinite health | 无限生命">
         <Cheatline>
             <Offset>8489581</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite stamina">
+    <Cheat Text="Infinite stamina | 无限耐力">
         <Cheatline>
             <Offset>84895A1</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hunger disable">
+    <Cheat Text="Hunger disable | 饥饿无效">
         <Cheatline>
             <Offset>84895C1</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Attack">
+    <Cheat Text="Max Attack | 最大攻击力">
         <Cheatline>
             <Offset>84895E1</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Defense">
+    <Cheat Text="Max Defense | 最大防御力">
         <Cheatline>
             <Offset>8489611</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Affinity">
+    <Cheat Text="Max Affinity | 最大会心率">
         <Cheatline>
             <Offset>27EF400</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>0F-4C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stop Quest timer">
+    <Cheat Text="Stop Quest timer | 停止任务计时">
         <Cheatline>
             <Offset>8489641</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy capture and Easy kill">
+    <Cheat Text="Easy capture and Easy kill | 简易捕获与简易击杀">
         <Cheatline>
             <Offset>8489661</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Run Speed">
+    <Cheat Text="Run Speed | 移动速度">
         <Cheatline>
             <Offset>8489681</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max sharpness">
+    <Cheat Text="Max sharpness | 最大锋利度">
         <Cheatline>
             <Offset>84896B1</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zenny">
+    <Cheat Text="Zenny | 金钱">
         <Cheatline>
             <Offset>84896F1</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Kamura points">
+    <Cheat Text="Kamura points | 神火点数">
         <Cheatline>
             <Offset>8489721</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Wyvern riding time">
+    <Cheat Text="Wyvern riding time | 御龙持续时间">
         <Cheatline>
             <Offset>8489761</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Longsword spirit gauge ">
+    <Cheat Text="Longsword spirit gauge | 太刀气刃槽">
         <Cheatline>
             <Offset>8489791</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dual Blade Demon gauge">
+    <Cheat Text="Dual Blade Demon gauge | 双刀鬼人槽">
         <Cheatline>
             <Offset>84897C1</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gunlance shell">
+    <Cheat Text="Gunlance shell | 铳枪炮弹">
         <Cheatline>
             <Offset>84897F1</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gunlance stake">
+    <Cheat Text="Gunlance stake | 铳枪龙桩">
         <Cheatline>
             <Offset>F7DF0D</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>41-C6-87-20-0A-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gunlance wyrmstake cannon">
+    <Cheat Text="Gunlance wyrmstake cannon | 铳枪龙击炮">
         <Cheatline>
             <Offset>2A2A129</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>C5-FA-11-80-F4-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Switchaxe Gauge">
+    <Cheat Text="Switchaxe Gauge | 斩斧能量槽">
         <Cheatline>
             <Offset>D5E98B</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>0F-4C-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Switchaxe ampede state">
+    <Cheat Text="Switchaxe ampede state | 斩斧强化状态">
         <Cheatline>
             <Offset>8489821</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Switchaxe ampede timer">
+    <Cheat Text="Switchaxe ampede timer | 斩斧强化计时器">
         <Cheatline>
             <Offset>D5E7A0</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>C7-83-84-0A-00-00-00-C0-28-45</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Chargeblade phial">
+    <Cheat Text="Chargeblade phial | 盾斧装瓶">
         <Cheatline>
             <Offset>8489851</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Chargeblade no overheat">
+    <Cheat Text="Chargeblade no overheat | 盾斧不过热">
         <Cheatline>
             <Offset>8489881</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Chargeblade element boost">
+    <Cheat Text="Chargeblade element boost | 盾斧属性强化">
         <Cheatline>
             <Offset>84898C1</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Chargeblade sword boost">
+    <Cheat Text="Chargeblade sword boost | 盾斧剑强化">
         <Cheatline>
             <Offset>84898F1</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Insect glaive kinsect stamina">
+    <Cheat Text="Insect glaive kinsect stamina | 操虫棍猎虫耐力">
         <Cheatline>
             <Offset>8489921</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Insect glaive extract 1">
+    <Cheat Text="Insect glaive extract 1 | 操虫棍精华1">
         <Cheatline>
             <Offset>8489951</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Insect glaive extract 2">
+    <Cheat Text="Insect glaive extract 2 | 操虫棍精华2">
         <Cheatline>
             <Offset>8489981</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Insect glaive extract 3">
+    <Cheat Text="Insect glaive extract 3 | 操虫棍精华3">
         <Cheatline>
             <Offset>84899B1</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Grabbed by boss disabled">
+    <Cheat Text="Grabbed by boss disabled | 不被怪物抓住">
         <Cheatline>
             <Offset>2A23D4C</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>41-89-8D-28-08-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs attack">
+    <Cheat Text="Buffs attack | 增益·攻击力">
         <Cheatline>
             <Offset>84899E1</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs defence">
+    <Cheat Text="Buffs defence | 增益·防御力">
         <Cheatline>
             <Offset>8489A21</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs affinity">
+    <Cheat Text="Buffs affinity | 增益·会心率">
         <Cheatline>
             <Offset>8489A61</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs stamina use reduced">
+    <Cheat Text="Buffs stamina use reduced | 增益·耐力消耗减少">
         <Cheatline>
             <Offset>8489AA1</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs elemental">
+    <Cheat Text="Buffs elemental | 增益·属性值">
         <Cheatline>
             <Offset>8489AD1</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs status buildup">
+    <Cheat Text="Buffs status buildup | 增益·状态异常积蓄">
         <Cheatline>
             <Offset>8489B01</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs knockback">
+    <Cheat Text="Buffs knockback | 增益·击退无效">
         <Cheatline>
             <Offset>8489B31</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs immunity">
+    <Cheat Text="Buffs immunity | 增益·免疫">
         <Cheatline>
             <Offset>8489B61</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Buffs natural healing up">
+    <Cheat Text="Buffs natural healing up | 增益·自然回复提升">
         <Cheatline>
             <Offset>8489B91</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debuffs less stun timer">
+    <Cheat Text="Debuffs less stun timer | 减益·眩晕时间缩短">
         <Cheatline>
             <Offset>2A547E3</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>C5-FA-11-83-A8-08-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debuffs iceblight disable">
+    <Cheat Text="Debuffs iceblight disable | 减益·冰封无效">
         <Cheatline>
             <Offset>8489BC1</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debuffs poison disable">
+    <Cheat Text="Debuffs poison disable | 减益·中毒无效">
         <Cheatline>
             <Offset>2A54642</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>C5-FA-11-83-A4-08-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debuffs bleed disabled">
+    <Cheat Text="Debuffs bleed disabled | 减益·裂伤无效">
         <Cheatline>
             <Offset>8489BF1</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debuffs Frenzy1 disabled">
+    <Cheat Text="Debuffs Frenzy1 disabled | 减益·狂龙症1无效">
         <Cheatline>
             <Offset>8489C21</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debuffs Frenzy2 disabled">
+    <Cheat Text="Debuffs Frenzy2 disabled | 减益·狂龙症2无效">
         <Cheatline>
             <Offset>8489C51</Offset>
             <Section>0</Section>

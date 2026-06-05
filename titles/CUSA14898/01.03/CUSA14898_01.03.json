@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "47,000 Flowers on Gain",
+      "name": "47,000 Flowers on Gain | 获得47000朵花",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "+2 Flowers on Gain",
+      "name": "+2 Flowers on Gain | 获得时+2朵花",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "+4 Flowers on Gain",
+      "name": "+4 Flowers on Gain | 获得时+4朵花",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "+50 Flowers on Gain",
+      "name": "+50 Flowers on Gain | 获得时+50朵花",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "+500 Flowers on Gain",
+      "name": "+500 Flowers on Gain | 获得时+500朵花",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "12345 Spatulas on Gain",
+      "name": "12345 Spatulas on Gain | 获得12345把铲子",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "47,000 Spatulas on Gain",
+      "name": "47,000 Spatulas on Gain | 获得47000把铲子",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "47,000 Socks on Gain",
+      "name": "47,000 Socks on Gain | 获得47000只袜子",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps",
+      "name": "Infinite Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "x4 Running Speed",
+      "name": "x4 Running Speed | 4倍奔跑速度",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "x8 Running Speed",
+      "name": "x8 Running Speed | 8倍奔跑速度",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Reset Running Speed to Default",
+      "name": "Reset Running Speed to Default | 重置奔跑速度至默认",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 最大/无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health+1 Hit Kill",
+      "name": "Infinite Health+1 Hit Kill | 无限生命+一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Magic ",
+      "name": "Infinite Magic | 无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Attribute Points (on spend)",
+      "name": "Infinite Attribute Points (on spend) | 无限属性点数（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Potions/Runes (on use)",
+      "name": "Infinite Potions/Runes (on use) | 无限药水/符文（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Spell points (on spend)",
+      "name": "Infinite Spell points (on spend) | 无限法术点数（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Alot of Experience (on spend)",
+      "name": "Alot of Experience (on spend) | 大量经验（消耗时）",
       "type": "checkbox",
       "memory": [
         {

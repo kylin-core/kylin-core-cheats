@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="STAR WARS Battlefront II" Moder="Talixme" Cusa="CUSA05749" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>2584D35</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-10-45-C0-48-89-DF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo / No overheat">
+    <Cheat Text="Infinite Ammo / No overheat | 无限弹药 / 无过热">
         <Cheatline>
             <Offset>27BEAA5</Offset>
             <Section>0</Section>

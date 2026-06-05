@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无人能挡",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Stealth Mode",
+      "name": "Stealth Mode | 潜行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Adrenaline",
+      "name": "Infinite Adrenaline | 无限肾上腺素",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需换弹",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Max Clip Ammo",
+      "name": "Max Clip Ammo | 弹匣满弹",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Infinite Vision Mode",
+      "name": "Infinite Vision Mode | 无限视野模式",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints",
+      "name": "Max Skillpoints | 满技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "Game Speed Mastercode [ Mastercode must be enabled for MC Cheats ]",
+      "name": "Game Speed Mastercode [ Mastercode must be enabled for MC Cheats ] | 游戏速度主控代码 [ 启用主控代码才可使用菜单作弊 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "name": "Game Speed x 1 [ MC ]",
+      "name": "Game Speed x 1 [ MC ] | 游戏速度 x 1 [ 主控 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "name": "Game Speed x 2 [ MC ]",
+      "name": "Game Speed x 2 [ MC ] | 游戏速度 x 2 [ 主控 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "name": "Game Speed x 3 [ MC ]",
+      "name": "Game Speed x 3 [ MC ] | 游戏速度 x 3 [ 主控 ]",
       "type": "checkbox",
       "memory": [
         {

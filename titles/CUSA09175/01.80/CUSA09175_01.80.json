@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "MASTER CODE For Infinite Life and 1 Hit Kill",
+      "name": "MASTER CODE For Infinite Life and 1 Hit Kill | 无限生命与一击必杀主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Life. MUST enable Master Code first",
+      "name": "Infinite Life. MUST enable Master Code first | 无限生命. 必须先启用主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill. MUST enable Master Code first. Must disable on chases",
+      "name": "1 Hit Kill. MUST enable Master Code first. Must disable on chases | 一击必杀. 必须先启用主代码. 追逐时需关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite fuel",
+      "name": "Infinite fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite motorbike durability",
+      "name": "Infinite motorbike durability | 无限摩托车耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Infinite Nitrous",
+      "name": "Infinite Nitrous | 无限氮气加速",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Infinite Motorbike Durability excluding enemies",
+      "name": "Infinite Motorbike Durability excluding enemies | 无限摩托车耐久（敌人除外）",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Dont subtract items when selling",
+      "name": "Dont subtract items when selling | 出售时不扣除物品",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "No skill points reduction",
+      "name": "No skill points reduction | 技能点不减",
       "type": "checkbox",
       "memory": [
         {

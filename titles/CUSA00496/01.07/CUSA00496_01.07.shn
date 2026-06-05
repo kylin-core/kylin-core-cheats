@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Far Cry® 4" Moder="KevinTamvan" Cusa="CUSA00496" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Faster Movement MasterCode">
+    <Cheat Text="Faster Movement MasterCode | 快速移动主控代码">
         <Cheatline>
             <Offset>303F911</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Run/Swim Faster MasterCode">
+    <Cheat Text="Run/Swim Faster MasterCode | 奔跑/游泳加速主控代码">
         <Cheatline>
             <Offset>303F956</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gravity MasterCode">
+    <Cheat Text="Gravity MasterCode | 重力主控代码">
         <Cheatline>
             <Offset>303F99B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reduce Slipp. MasterCode">
+    <Cheat Text="Reduce Slipp. MasterCode | 防滑主控代码">
         <Cheatline>
             <Offset>303F9D6</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump MasterCode">
+    <Cheat Text="Super Jump MasterCode | 超级跳跃主控代码">
         <Cheatline>
             <Offset>303FA0F</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Forward Day Time MasterCode">
+    <Cheat Text="Forward Day Time MasterCode | 快进白天主控代码">
         <Cheatline>
             <Offset>303FA6F</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Oxygen Mask MasterCode">
+    <Cheat Text="Oxygen Mask MasterCode | 氧气面罩主控代码">
         <Cheatline>
             <Offset>303FAA5</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health Player">
+    <Cheat Text="Infinite Health Player | 无限生命">
         <Cheatline>
             <Offset>1246298</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>41-8B-5E-34</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>303F800</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>1457607</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>8B-80-04-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>303F80F</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Extra XP On Gain">
+    <Cheat Text="Extra XP On Gain | 额外经验值获得">
         <Cheatline>
             <Offset>303F83E</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Extra Karma Pts. On Gain">
+    <Cheat Text="Extra Karma Pts. On Gain | 额外业力点数获得">
         <Cheatline>
             <Offset>303F84F</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>303F8DD</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Extra Carry On Loot Bag">
+    <Cheat Text="Extra Carry On Loot Bag | 额外战利品袋容量">
         <Cheatline>
             <Offset>303F8E8</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stealth">
+    <Cheat Text="Stealth | 潜行模式">
         <Cheatline>
             <Offset>1245E60</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Movement Faster">
+    <Cheat Text="Movement Faster | 移动加速">
         <Cheatline>
             <Offset>303F915</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>74-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Run/Swim Faster (Press L3)">
+    <Cheat Text="Run/Swim Faster (Press L3) | 奔跑/游泳加速（按下L3）">
         <Cheatline>
             <Offset>303F95A</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>74-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Low Gravity">
+    <Cheat Text="Low Gravity | 低重力">
         <Cheatline>
             <Offset>303F99F</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>74-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Climb (Reduce Slipp.)">
+    <Cheat Text="Easy Climb (Reduce Slipp.) | 简易攀爬（防滑）">
         <Cheatline>
             <Offset>303F9DD</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>74-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>303FA16</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>74-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Forward Day Time">
+    <Cheat Text="Forward Day Time | 快进白天">
         <Cheatline>
             <Offset>303FA73</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>74-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Oxygen Mask">
+    <Cheat Text="Infinite Oxygen Mask | 无限氧气面罩">
         <Cheatline>
             <Offset>303FAAC</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>74-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Floating/Fly [Multi Tap X (Jump)]">
+    <Cheat Text="Floating/Fly [Multi Tap X (Jump)] | 悬浮/飞行（多次按X跳跃）">
         <Cheatline>
             <Offset>303FAC8</Offset>
             <Section>0</Section>

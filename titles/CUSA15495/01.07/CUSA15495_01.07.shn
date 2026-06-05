@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Surviving the Aftermath" Moder="Wander FW9.00" Cusa="CUSA15495" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="ressources field Quickly taken">
+    <Cheat Text="ressources field Quickly taken | 资源田快速采集">
         <Cheatline>
             <Offset>48DB43</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Field Ressources Multiplies (use with Caution)">
+    <Cheat Text="Field Ressources Multiplies (use with Caution) | 资源田倍率（谨慎使用）">
         <Cheatline>
             <Offset>48DB40</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>89-41-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Research Points Multiplier (use with Caution)">
+    <Cheat Text="Research Points Multiplier (use with Caution) | 研究点数倍率（谨慎使用）">
         <Cheatline>
             <Offset>3C0CDD</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-70-60</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Free Starter building do not decrease">
+    <Cheat Text="Free Starter building do not decrease | 免费初始建筑不减少">
         <Cheatline>
             <Offset>733FF8</Offset>
             <Section>0</Section>

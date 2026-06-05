@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Musou",
+      "name": "Infinite Musou | 无限无双",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Special Skill Instant Charge",
+      "name": "Infinite Special Skill Instant Charge | 无限特殊技瞬发",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 最大弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Player Troops",
+      "name": "Max Player Troops | 最大己方兵力",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "No Enemy Troops",
+      "name": "No Enemy Troops | 敌方无兵力",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max KO Points ( on gain )",
+      "name": "Max KO Points ( on gain ) | 最大击破数（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Max Combo Points ( on gain )",
+      "name": "Max Combo Points ( on gain ) | 最大连击数（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max XP Level ( on gain )",
+      "name": "Max XP Level ( on gain ) | 最高等级（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max Reputation ( on gain )",
+      "name": "Max Reputation ( on gain ) | 最大名声（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Max Food",
+      "name": "Max Food | 最大军粮",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max Gold",
+      "name": "Max Gold | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Max Health Stats",
+      "name": "Max Health Stats | 最大体力属性",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "Max Attack Stats",
+      "name": "Max Attack Stats | 最大攻击属性",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Max Defense Stats",
+      "name": "Max Defense Stats | 最大防御属性",
       "type": "checkbox",
       "memory": [
         {
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "name": "Max Speed Stats",
+      "name": "Max Speed Stats | 最大速度属性",
       "type": "checkbox",
       "memory": [
         {
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "Max Bow Skill Stats",
+      "name": "Max Bow Skill Stats | 最大弓术属性",
       "type": "checkbox",
       "memory": [
         {

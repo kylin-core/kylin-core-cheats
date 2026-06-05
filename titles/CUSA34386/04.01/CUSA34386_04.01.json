@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / 1 Hit Kill (Master Code)",
+      "name": "Health / 1 Hit Kill (Master Code) | 生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Rage / Arrows (Master Code)",
+      "name": "Rage / Arrows (Master Code) | 怒火/箭矢（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Inf Arrows (MC)",
+      "name": "Inf Arrows (MC) | 无限箭矢（MC）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max Resource / XP",
+      "name": "Max Resource / XP | 最大资源/经验值",
       "type": "checkbox",
       "memory": [
         {

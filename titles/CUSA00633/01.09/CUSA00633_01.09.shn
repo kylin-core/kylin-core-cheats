@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="battlefield-hardline" Moder="Ali-mk" Cusa="CUSA00633" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>6FAF4D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>FF-90-F8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>6FA510</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>E8-3B-EC-14-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Ammo-NO-Reload">
+    <Cheat Text="Inf-Ammo-NO-Reload | 无限弹药无需装弹">
         <Cheatline>
             <Offset>1095F07</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-83-A8-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Ammo">
+    <Cheat Text="Infinite-Ammo | 无限弹药">
         <Cheatline>
             <Offset>1094E1C</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>44-89-8B-AC-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX + In-Ammo-999">
+    <Cheat Text="MAX + In-Ammo-999 | 最大弹药 + 无限弹药999">
         <Cheatline>
             <Offset>34FF800</Offset>
             <Section>0</Section>

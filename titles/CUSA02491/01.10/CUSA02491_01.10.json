@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "2 Hit Kills",
+      "name": "2 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Life Conservation",
+      "name": "Infinite Life Conservation | 无限生命维持",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Bottomless Clip",
+      "name": "Bottomless Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Energycells",
+      "name": "Infinite Energycells | 无限能量电池",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints",
+      "name": "Infinite Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Max Skillpoints",
+      "name": "Max Skillpoints | 最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Infinite Credits",
+      "name": "Infinite Credits | 无限信用点",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Max Credits/Resources/Research Points",
+      "name": "Max Credits/Resources/Research Points | 最大信用点/资源/研究点数",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Instant Max Level",
+      "name": "Instant Max Level | 瞬间满级",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Easy Monolith Scanning",
+      "name": "Easy Monolith Scanning | 轻松扫描石碑",
       "type": "checkbox",
       "memory": [
         {

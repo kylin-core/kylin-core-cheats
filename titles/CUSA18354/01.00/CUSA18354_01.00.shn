@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Yet Another Zombie Defense HD" Moder="DeathRGH" Cusa="CUSA18354" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>808B4892</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-84-24-B4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>809A5CDA</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>31-FF-C6-40-39-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>80A44123</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-5C-43-50-C5-FA-10-4B-60-C5-FA-11-43-54</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>809A5BB3</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-10-43-18-C5-FA-2C-C1-C5-FA-5C-C1-C5-FA-11-43-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>80875F9A</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gold Mining Simulator" Moder="Reddevil82" Cusa="CUSA16668" Version="01.20" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode [ Must be enabled for MC Cheats ]">
+    <Cheat Text="Mastercode [ Must be enabled for MC Cheats ] | 主代码 [ 必须启用才能使用MC作弊 ]">
         <Cheatline>
             <Offset>7FC6FF00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>7F-96-18-4B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money [ MC - Normal Mode ]">
+    <Cheat Text="Max Money [ MC - Normal Mode ] | 最大金钱 [ MC - 普通模式 ]">
         <Cheatline>
             <Offset>7FC6FF0C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold [ MC - Normal Mode ]">
+    <Cheat Text="Max Gold [ MC - Normal Mode ] | 最大黄金 [ MC - 普通模式 ]">
         <Cheatline>
             <Offset>7FC6FF0E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Magnetite [ MC - Normal Mode ]">
+    <Cheat Text="Max Magnetite [ MC - Normal Mode ] | 最大磁铁矿 [ MC - 普通模式 ]">
         <Cheatline>
             <Offset>7FC6FF10</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money [ MC - Hard Mode ]">
+    <Cheat Text="Max Money [ MC - Hard Mode ] | 最大金钱 [ MC - 困难模式 ]">
         <Cheatline>
             <Offset>7FC6FF24</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold [ MC - Hard Mode ]">
+    <Cheat Text="Max Gold [ MC - Hard Mode ] | 最大黄金 [ MC - 困难模式 ]">
         <Cheatline>
             <Offset>7FC6FF20</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Magnetite [ MC - Hard Mode ]">
+    <Cheat Text="Max Magnetite [ MC - Hard Mode ] | 最大磁铁矿 [ MC - 困难模式 ]">
         <Cheatline>
             <Offset>7FC6FF22</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fuel">
+    <Cheat Text="Infinite Fuel | 无限燃料">
         <Cheatline>
             <Offset>7FC5F078</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 1 [ MC ]">
+    <Cheat Text="Speed Multiplier x 1 [ MC ] | 速度倍率 x1 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF28</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 2 [ MC ]">
+    <Cheat Text="Speed Multiplier x 2 [ MC ] | 速度倍率 x2 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF28</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 3 [ MC ]">
+    <Cheat Text="Speed Multiplier x 3 [ MC ] | 速度倍率 x3 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF28</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 4 [ MC ]">
+    <Cheat Text="Speed Multiplier x 4 [ MC ] | 速度倍率 x4 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF28</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed Multiplier x 5 [ MC ]">
+    <Cheat Text="Speed Multiplier x 5 [ MC ] | 速度倍率 x5 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF28</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 1 [ MC ]">
+    <Cheat Text="Jump Multiplier x 1 [ MC ] | 跳跃倍率 x1 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF2C</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 2 [ MC ]">
+    <Cheat Text="Jump Multiplier x 2 [ MC ] | 跳跃倍率 x2 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF2C</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 3 [ MC ]">
+    <Cheat Text="Jump Multiplier x 3 [ MC ] | 跳跃倍率 x3 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF2C</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 4 [ MC ]">
+    <Cheat Text="Jump Multiplier x 4 [ MC ] | 跳跃倍率 x4 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF2C</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-80-3F</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Multiplier x 5 [ MC ]">
+    <Cheat Text="Jump Multiplier x 5 [ MC ] | 跳跃倍率 x5 [ MC ]">
         <Cheatline>
             <Offset>7FC6FF2C</Offset>
             <Section>0</Section>

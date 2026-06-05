@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Campaign Mode)",
+      "name": "Infinite Health (Campaign Mode) | 无限生命（战役模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Zombie Mode)",
+      "name": "Infinite Health (Zombie Mode) | 无限生命（僵尸模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Reload/Infinite Grenades",
+      "name": "No Reload/Infinite Grenades | 无需装弹/无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Money (Make Money Before)",
+      "name": "Infinite Money (Make Money Before) | 无限金钱（需提前赚钱）",
       "type": "checkbox",
       "memory": [
         {

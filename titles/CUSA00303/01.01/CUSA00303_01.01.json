@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Mana",
+      "name": "Infinite Mana | 无限法力",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Items/Resources",
+      "name": "Infinite Items/Resources | 无限物品/资源",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Items/Resources on Get",
+      "name": "Max Items/Resources on Get | 获取时物品/资源最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Items have no Weight",
+      "name": "Items have no Weight | 物品无重量",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Infinite Skillpoints",
+      "name": "Infinite Skillpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Infinite Feat-Points",
+      "name": "Infinite Feat-Points | 无限专长点",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Max Items/Resources",
+      "name": "Max Items/Resources | 物品/资源最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Instant Level 50",
+      "name": "Instant Level 50 | 立即升至50级",
       "type": "checkbox",
       "memory": [
         {

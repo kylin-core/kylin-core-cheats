@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "All resources/Units 9999",
+      "name": "All resources/Units 9999 | 所有资源/单位9999",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Experience (activate on first mission as a hero)",
+      "name": "Max Experience (activate on first mission as a hero) | 最大经验值（首次以英雄身份执行任务时激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Skill Points/Champion Points x99 (have at least 2 skill points)",
+      "name": "Skill Points/Champion Points x99 (have at least 2 skill points) | 技能点/冠军点数x99（需至少拥有2点技能点）",
       "type": "checkbox",
       "memory": [
         {

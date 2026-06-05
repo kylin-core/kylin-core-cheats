@@ -6,7 +6,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands® 3" Moder="AhmadCH" Cusa="CUSA08025" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
     <Cheat Text="Infinite
- shield+health">
+ shield+health | 无限护盾+生命">
         <Cheatline>
             <Offset>4C3287C</Offset>
             <Section>0</Section>
@@ -14,7 +14,7 @@
             <ValueOff>C5-FA-10-53-5C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max mony">
+    <Cheat Text="max mony | 最大金钱">
         <Cheatline>
             <Offset>5183A82</Offset>
             <Section>0</Section>
@@ -22,7 +22,7 @@
             <ValueOff>48-83-C2-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite ammo">
+    <Cheat Text="Infinite ammo | 无限弹药">
         <Cheatline>
             <Offset>52957D4</Offset>
             <Section>0</Section>
@@ -30,7 +30,7 @@
             <ValueOff>4C-89-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="no reload [use ammo]">
+    <Cheat Text="no reload [use ammo] | 无需换弹[消耗弹药]">
         <Cheatline>
             <Offset>52957CD</Offset>
             <Section>0</Section>
@@ -38,7 +38,7 @@
             <ValueOff>41-89-87-B0-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite skill points">
+    <Cheat Text="Infinite skill points | 无限技能点">
         <Cheatline>
             <Offset>9A443A</Offset>
             <Section>0</Section>
@@ -46,7 +46,7 @@
             <ValueOff>41-89-8E-60-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手雷">
         <Cheatline>
             <Offset>12267C1</Offset>
             <Section>0</Section>

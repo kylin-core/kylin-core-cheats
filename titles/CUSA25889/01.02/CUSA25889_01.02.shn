@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="NINJA GAIDEN Σ" Moder="d01v" Cusa="CUSA25889" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Ryu Infinite HP + 1Hk (Dragon Sword)">
+    <Cheat Text="Ryu Infinite HP + 1Hk (Dragon Sword) | 龙隼无限生命+一击必杀（龙剑）">
         <Cheatline>
             <Offset>CD6617</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rachel Infinite HP + 1Hk (War Hammer)">
+    <Cheat Text="Rachel Infinite HP + 1Hk (War Hammer) | 瑞秋无限生命+一击必杀（战锤）">
         <Cheatline>
             <Offset>CD6656</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Item (On Use)">
+    <Cheat Text="Max Item (On Use) | 使用道具时达到最大数量">
         <Cheatline>
             <Offset>71FDEF</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>41-00-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ki (On Use)">
+    <Cheat Text="Max Ki (On Use) | 使用忍法时达到最大灵力">
         <Cheatline>
             <Offset>71A143</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>66-89-0A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Yellow Essence">
+    <Cheat Text="Infinite Yellow Essence | 无限黄魂">
         <Cheatline>
             <Offset>8458FE</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4C-CB</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Karma">
+    <Cheat Text="Infinite Karma | 无限业力值">
         <Cheatline>
             <Offset>A0A134</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>81-FF-00-CA-9A-3B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Air (Under Water)">
+    <Cheat Text="Infinite Air (Under Water) | 无限空气（水下）">
         <Cheatline>
             <Offset>721F92</Offset>
             <Section>0</Section>

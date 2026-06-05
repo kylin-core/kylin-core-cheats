@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Witcher 3 Wild Hunt Complete Edition" Moder="Yharnam" Cusa="PPSA03977" Version="04.040.100" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code - MC (Must Enable First)">
+    <Cheat Text="Master Code - MC (Must Enable First) | 主代码 - 必先启用">
         <Cheatline>
             <Offset>2677C50</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>2677C64</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>2677C69</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 秒杀">
         <Cheatline>
             <Offset>2677C8B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Adrenaline">
+    <Cheat Text="Infinite Adrenaline | 无限肾上腺素">
         <Cheatline>
             <Offset>2677C73</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Oxygen">
+    <Cheat Text="Infinite Oxygen | 无限氧气">
         <Cheatline>
             <Offset>2677C78</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Horse Run">
+    <Cheat Text="Infinite Horse Run | 无限马匹耐力">
         <Cheatline>
             <Offset>2677C7F</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Minimum Horse Panic">
+    <Cheat Text="Minimum Horse Panic | 最低马匹恐慌">
         <Cheatline>
             <Offset>2677C84</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Toxic">
+    <Cheat Text="No Toxic | 无毒性">
         <Cheatline>
             <Offset>2677C6E</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>90-90-90-90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (Sell)">
+    <Cheat Text="Max Money (Sell) | 最大金钱（出售）">
         <Cheatline>
             <Offset>2677D00</Offset>
             <Section>0</Section>

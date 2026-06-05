@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DRAGON QUEST HEROES" Moder="Weysincha" Cusa="CUSA02769" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Lvl/Exp">
+    <Cheat Text="Max Lvl/Exp | 最大等级/经验值">
         <Cheatline>
             <Offset>B7E39</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>81-FA-7F-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf MP">
+    <Cheat Text="Inf MP | 无限MP">
         <Cheatline>
             <Offset>61DED</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-84-01-08-A2-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Gold">
+    <Cheat Text="Inf Gold | 无限金钱">
         <Cheatline>
             <Offset>E97823</Offset>
             <Section>0</Section>

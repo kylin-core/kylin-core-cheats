@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Mana",
-      "hint": null,
+      "name": "Infinite Mana | 无限法力",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Item / Kill Multiplier",
-      "hint": null,
+      "name": "Item / Kill Multiplier | 物品/击杀倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Freeze Item Count",
-      "hint": null,
+      "name": "Freeze Item Count | 物品数量锁定",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Max Money",
-      "hint": "Collect money once to max it out.",
+      "name": "Max Money | 金钱上限",
       "type": "button",
       "memory": [
         {

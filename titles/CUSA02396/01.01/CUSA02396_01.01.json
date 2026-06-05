@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Score Multiplier",
-      "hint": null,
+      "name": "Max Score Multiplier | 最高分数倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Moves",
-      "hint": null,
+      "name": "Infinite Moves | 无限步数",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Hearts",
-      "hint": null,
+      "name": "Infinite Hearts | 无限爱心",
       "type": "checkbox",
       "memory": [
         {

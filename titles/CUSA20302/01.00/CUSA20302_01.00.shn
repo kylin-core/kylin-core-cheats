@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="New Super Luckys Tale" Moder="Reddevil82 " Cusa="CUSA20302" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode Coins/Lives ( must be activated )">
+    <Cheat Text="Mastercode Coins/Lives ( must be activated ) | Mastercode 金币/生命（需激活）">
         <Cheatline>
             <Offset>1F13800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Coins ( on gain ) [MC]">
+    <Cheat Text="Max Coins ( on gain ) [MC] | 最大金币（获得时）[MC]">
         <Cheatline>
             <Offset>1F13806</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-44-88-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives [MC]">
+    <Cheat Text="Max Lives [MC] | 最大生命 [MC]">
         <Cheatline>
             <Offset>1F13817</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-44-88-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Hearts">
+    <Cheat Text="Infinite Hearts | 无限爱心">
         <Cheatline>
             <Offset>1583E00</Offset>
             <Section>0</Section>

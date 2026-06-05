@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Tales of Arise" Moder="aaa" Cusa="CUSA17195" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="inf Items Use">
+    <Cheat Text="inf Items Use | 无限使用道具">
         <Cheatline>
             <Offset>1B670B2</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>45-89-34-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Attack">
+    <Cheat Text="Inf Attack | 无限攻击">
         <Cheatline>
             <Offset>670F800</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite-All-Weapon",
+      "name": "Infinite-All-Weapon | 无限所有武器",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "All-Weapon-Rapid-Fire",
+      "name": "All-Weapon-Rapid-Fire | 所有武器速射",
       "type": "checkbox",
       "memory": [
         {

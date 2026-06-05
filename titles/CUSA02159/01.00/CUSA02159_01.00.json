@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Blood Bar (No Refill)",
+      "name": "Blood Bar (No Refill) | 血槽（无需补充）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Energy Bar",
+      "name": "Infinite Energy Bar | 无限能量条",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "No Blood On Weapon",
+      "name": "No Blood On Weapon | 武器无血迹",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Orbs",
+      "name": "Max Orbs | 最大宝珠",
       "type": "checkbox",
       "memory": [
         {

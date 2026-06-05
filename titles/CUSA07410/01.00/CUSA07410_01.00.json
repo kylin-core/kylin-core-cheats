@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible Player (No Damage)",
+      "name": "Invincible Player (No Damage) | 玩家无敌（不受伤害）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Bow Arrows",
+      "name": "Max and Infinite Bow Arrows | 最大无限弓箭",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max and Infinite XP,HS,Resources When Get or Spend",
+      "name": "Max and Infinite XP,HS,Resources When Get or Spend | 获取或消耗时最大无限经验、银币、资源",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get",
+      "name": "Max and Infinite XP,HS,Resources When Get or Spend Includes Max Labours Resources When Get | 获取或消耗时最大无限经验、银币、资源，包含获取时最大劳工资源",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Rage when Transfer",
+      "name": "Max and Infinite Rage when Transfer | 转移时最大无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max and Infinite Rage when Get or Hit",
+      "name": "Max and Infinite Rage when Get or Hit | 获取或受击时最大无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Stats/Rank on Item Change",
+      "name": "Max Stats/Rank on Item Change | 装备变更时最大属性/等级",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max XP/Hacksilver/Resources",
+      "name": "Max XP/Hacksilver/Resources | 最大经验/银币/资源",
       "type": "checkbox",
       "memory": [
         {

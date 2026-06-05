@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MLB® The Show™ 17" Moder="nolberto82" Cusa="CUSA06387" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Hold Right-Dpad To Hit Homerun">
+    <Cheat Text="Hold Right-Dpad To Hit Homerun | 按住右方向键击出本垒打">
         <Cheatline>
             <Offset>18C3800</Offset>
             <Section>0</Section>

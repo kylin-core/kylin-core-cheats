@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lies Of Pi" Moder="Celogamez" Cusa="CUSA36848" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health+Stamina+Fable+Legion">
+    <Cheat Text="Infinite Health+Stamina+Fable+Legion | 无限生命+体力+神之共鸣+军团">
         <Cheatline>
             <Offset>69B7DB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health+Stamina+Fable+Legion+1 Hit Kill">
+    <Cheat Text="Infinite Health+Stamina+Fable+Legion+1 Hit Kill | 无限生命+体力+神之共鸣+军团+一击必杀">
         <Cheatline>
             <Offset>69B7DB0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items On Pick Up (x2 To Work)">
+    <Cheat Text="Max Items On Pick Up (x2 To Work) | 拾取物品最大化（需x2生效）">
         <Cheatline>
             <Offset>69B75D0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items on Use">
+    <Cheat Text="Infinite Items on Use | 使用物品无限">
         <Cheatline>
             <Offset>69B78D0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapons Durability">
+    <Cheat Text="Infinite Weapons Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>69B7850</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ergo">
+    <Cheat Text="Max Ergo | 最大自我素">
         <Cheatline>
             <Offset>69B7690</Offset>
             <Section>0</Section>

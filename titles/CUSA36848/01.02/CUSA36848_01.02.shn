@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lies of P" Moder="Reddevil82 - FW 9.00" Cusa="CUSA36848" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode ( must be activated for [ MC ] Cheats )">
+    <Cheat Text="Mastercode ( must be activated for [ MC ] Cheats ) | 主密码（需激活以启用[ MC ]作弊）">
         <Cheatline>
             <Offset>69B7280</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health [ MC ]">
+    <Cheat Text="Infinite Health [ MC ] | 无限生命 [ MC ]">
         <Cheatline>
             <Offset>7600050</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Health [ MC ]">
+    <Cheat Text="Max Health [ MC ] | 最大生命 [ MC ]">
         <Cheatline>
             <Offset>7600051</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill [ MC ]">
+    <Cheat Text="One Hit Kill [ MC ] | 一击必杀 [ MC ]">
         <Cheatline>
             <Offset>7600052</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina [ MC ]">
+    <Cheat Text="Infinite Stamina [ MC ] | 无限体力 [ MC ]">
         <Cheatline>
             <Offset>7600053</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Stamina [ MC ]">
+    <Cheat Text="Max Stamina [ MC ] | 最大体力 [ MC ]">
         <Cheatline>
             <Offset>7600054</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Legion [ MC ]">
+    <Cheat Text="Infinite Legion [ MC ] | 无限军团 [ MC ]">
         <Cheatline>
             <Offset>7600055</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Legion [ MC ]">
+    <Cheat Text="Max Legion [ MC ] | 最大军团 [ MC ]">
         <Cheatline>
             <Offset>7600056</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Blade Shapeness ( on use )">
+    <Cheat Text="Infinite Blade Shapeness ( on use ) | 无限刀刃锋利度（使用时）">
         <Cheatline>
             <Offset>69B7A90</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Fable">
+    <Cheat Text="Infinite Fable | 无限寓言">
         <Cheatline>
             <Offset>69B7230</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items">
+    <Cheat Text="Max Items | 最大物品">
         <Cheatline>
             <Offset>69B7BCA</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ergo ( on gain )">
+    <Cheat Text="Max Ergo ( on gain ) | 最大厄戈（获取时）">
         <Cheatline>
             <Offset>69B7210</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Zero Weight">
+    <Cheat Text="Zero Weight | 零负重">
         <Cheatline>
             <Offset>69B7250</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Save Location [ MC ]">
+    <Cheat Text="Save Location [ MC ] | 保存位置 [ MC ]">
         <Cheatline>
             <Offset>760006C</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Load Location [ MC ]">
+    <Cheat Text="Load Location [ MC ] | 加载位置 [ MC ]">
         <Cheatline>
             <Offset>760006D</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Speed [ x 2 ]">
+    <Cheat Text="Player Speed [ x 2 ] | 玩家速度 [ 2倍 ]">
         <Cheatline>
             <Offset>69B7BA4</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Speed [ x 3 ]">
+    <Cheat Text="Player Speed [ x 3 ] | 玩家速度 [ 3倍 ]">
         <Cheatline>
             <Offset>69B7BA4</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Speed [ x 4 ]">
+    <Cheat Text="Player Speed [ x 4 ] | 玩家速度 [ 4倍 ]">
         <Cheatline>
             <Offset>69B7BA4</Offset>
             <Section>0</Section>

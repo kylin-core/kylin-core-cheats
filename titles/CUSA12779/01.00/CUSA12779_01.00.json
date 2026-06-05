@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Gravity Jump",
+      "name": "Gravity Jump | 重力跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Jump Height",
+      "name": "Jump Height | 跳跃高度",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Gravity Jump Forward (must turn on Gravity Jump)",
+      "name": "Gravity Jump Forward (must turn on Gravity Jump) | 重力向前跳跃 (需开启重力跳跃)",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Jump Forward",
+      "name": "Jump Forward | 向前跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Jump Forward (Run)",
+      "name": "Jump Forward (Run) | 奔跑中向前跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Jump Forward Height + Run",
+      "name": "Jump Forward Height + Run | 向前跳跃高度 + 奔跑",
       "type": "checkbox",
       "memory": [
         {

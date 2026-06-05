@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Inf Spells",
+      "name": "Inf Spells | 无限法术",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Inf Items",
+      "name": "Inf Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Inf Shop Items",
+      "name": "Inf Shop Items | 无限商店物品",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Inf Durability",
+      "name": "Inf Durability | 无限耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Inf Souls",
+      "name": "Inf Souls | 无限灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Pass Through Any Door",
+      "name": "Pass Through Any Door | 穿越任意门",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "No Souls loss Upon Death",
+      "name": "No Souls loss Upon Death | 死亡不掉落灵魂",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Freeze Memory Souls",
+      "name": "Freeze Memory Souls | 冻结记忆魂量",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Reset Memory Souls to 125",
+      "name": "Reset Memory Souls to 125 | 重置记忆魂量至125级",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Speed Hack 1.25",
+      "name": "Speed Hack 1.25 | 速度修改1.25倍",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Speed Hack 1.50",
+      "name": "Speed Hack 1.50 | 速度修改1.50倍",
       "type": "checkbox",
       "memory": [
         {
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "name": "Speed Hack 2.00",
+      "name": "Speed Hack 2.00 | 速度修改2.00倍",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DIGIMON SURVIVE" Moder="Wander FW9.00" Cusa="CUSA18223" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Items (on use inside the battle)">
+    <Cheat Text="Items (on use inside the battle) | 战斗中道具（使用后生效）">
         <Cheatline>
             <Offset>250F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP(when using skill Attacks not Evolution cost)">
+    <Cheat Text="Infinite SP(when using skill Attacks not Evolution cost) | 无限SP（技能攻击时生效，不含进化消耗）">
         <Cheatline>
             <Offset>5E420</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp (on first or 2nd fight)">
+    <Cheat Text="Max Exp (on first or 2nd fight) | 最大经验值（第一或第二场战斗生效）">
         <Cheatline>
             <Offset>113610</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items Multiplier (on use outside the battle)">
+    <Cheat Text="Items Multiplier (on use outside the battle) | 道具倍率（战斗外使用时生效）">
         <Cheatline>
             <Offset>99CB8C</Offset>
             <Section>0</Section>

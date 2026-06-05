@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite health",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Battery instant charge",
+      "name": "Battery instant charge | 电池瞬间充电",
       "type": "checkbox",
       "memory": [
         {

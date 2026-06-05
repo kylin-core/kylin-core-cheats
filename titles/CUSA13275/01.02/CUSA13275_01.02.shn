@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DOOM Eternal" Moder="Dioniso" Cusa="CUSA13275" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf. Health">
+    <Cheat Text="Inf. Health | 无限生命">
         <Cheatline>
             <Offset>6D91B1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>74-6A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf. Health + Shield">
+    <Cheat Text="Inf. Health + Shield | 无限生命+护盾">
         <Cheatline>
             <Offset>6D91B1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>74-6A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf. Health + Shield + Keys, etc.">
+    <Cheat Text="Inf. Health + Shield + Keys, etc. | 无限生命+护盾+钥匙等">
         <Cheatline>
             <Offset>6D91B1</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>74-6A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo + Fuel">
+    <Cheat Text="Infinite Ammo + Fuel | 无限弹药+燃料">
         <Cheatline>
             <Offset>1392706</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>39-C1-0F-4E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jumping Dash">
+    <Cheat Text="Infinite Jumping Dash | 无限跳跃冲刺">
         <Cheatline>
             <Offset>E8BEB1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C6-47-7B-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Health zero = no die">
+    <Cheat Text="Health zero = no die | 生命归零不死亡">
         <Cheatline>
             <Offset>6D2FFA</Offset>
             <Section>0</Section>

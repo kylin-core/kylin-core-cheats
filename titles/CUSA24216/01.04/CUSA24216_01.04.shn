@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Cyber Shadow" Moder="Wander" Cusa="CUSA24216" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite HP (Ranged Damage)">
+    <Cheat Text="Infinite HP (Ranged Damage) | 无限生命（远程伤害）">
         <Cheatline>
             <Offset>9B274B</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7B-11-84-24-20-27-0B-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HP (close damage)">
+    <Cheat Text="Infinite HP (close damage) | 无限生命（近战伤害）">
         <Cheatline>
             <Offset>9B1289</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7B-11-87-20-27-0B-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP Shuriken">
+    <Cheat Text="Infinite SP Shuriken | 无限SP飞镖">
         <Cheatline>
             <Offset>1168213</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C4-C1-7B-11-85-58-27-0B-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP Rising fire">
+    <Cheat Text="Infinite SP Rising fire | 无限SP升龙火">
         <Cheatline>
             <Offset>12BFEE0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C4-C1-7B-11-85-58-27-0B-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP Airstrike">
+    <Cheat Text="Infinite SP Airstrike | 无限SP空中攻击">
         <Cheatline>
             <Offset>1212BB5</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-C1-7B-11-85-58-27-0B-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite SP Sprint Attack">
+    <Cheat Text="Infinite SP Sprint Attack | 无限SP冲刺攻击">
         <Cheatline>
             <Offset>9E8C98</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health All Players",
+      "name": "Infinite Health All Players | 所有玩家无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Infinite Clip Ammo",
+      "name": "Infinite Clip Ammo | 无限弹匣弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Save Always 0",
+      "name": "Save Always 0 | 保存次数始终为0",
       "type": "checkbox",
       "memory": [
         {
@@ -79,11 +79,10 @@
       ]
     },
     {
-      "name": "Attache Case XL (Activate B4 Starting The Game)",
+      "name": "Attache Case XL (Activate B4 Starting The Game) | 大型公文包（开始游戏前激活）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "21",
           "offset": "740806",
           "on": "7F",
           "off": "AD"
@@ -91,11 +90,10 @@
       ]
     },
     {
-      "name": "Infinite R. Launcher (Put Handgun In The Center)",
+      "name": "Infinite R. Launcher (Put Handgun In The Center) | 无限火箭筒（把手枪放在中央）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "6D00",
           "off": "2300"
@@ -103,17 +101,15 @@
       ]
     },
     {
-      "name": "Infinite Chicago Typewriter (Put Handgun In The Center)",
+      "name": "Infinite Chicago Typewriter (Put Handgun In The Center) | 无限芝加哥打字机（把手枪放在中央）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "3400",
           "off": "2300"
         },
         {
-          "section": "21",
           "offset": "7407D4",
           "on": "0660",
           "off": "0000"
@@ -121,11 +117,10 @@
       ]
     },
     {
-      "name": "P.R.L 412 (Put Handgun In The Center)",
+      "name": "P.R.L 412 (Put Handgun In The Center) | P.R.L 412（把手枪放在中央）",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "4100",
           "off": "2300"
@@ -133,11 +128,10 @@
       ]
     },
     {
-      "name": "Handgun",
+      "name": "Handgun | 手枪",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2300",
           "off": "2300"
@@ -145,11 +139,10 @@
       ]
     },
     {
-      "name": "Punisher",
+      "name": "Punisher | 惩罚者",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2100",
           "off": "2300"
@@ -157,11 +150,10 @@
       ]
     },
     {
-      "name": "Red9",
+      "name": "Red9 | 红9",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2500",
           "off": "2300"
@@ -169,11 +161,10 @@
       ]
     },
     {
-      "name": "Blacktail",
+      "name": "Blacktail | 黑尾",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2700",
           "off": "2300"
@@ -181,11 +172,10 @@
       ]
     },
     {
-      "name": "Broken Butterfly",
+      "name": "Broken Butterfly | 破损蝴蝶",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2900",
           "off": "2300"
@@ -193,11 +183,10 @@
       ]
     },
     {
-      "name": "TMP",
+      "name": "TMP | TMP冲锋枪",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "3000",
           "off": "2300"
@@ -205,11 +194,10 @@
       ]
     },
     {
-      "name": "Mine Thrower",
+      "name": "Mine Thrower | 地雷发射器",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "3600",
           "off": "2300"
@@ -217,11 +205,10 @@
       ]
     },
     {
-      "name": "Handcannon",
+      "name": "Handcannon | 手炮",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "3700",
           "off": "2300"
@@ -229,11 +216,10 @@
       ]
     },
     {
-      "name": "Shotgun",
+      "name": "Shotgun | 霰弹枪",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "4700",
           "off": "2300"
@@ -241,11 +227,10 @@
       ]
     },
     {
-      "name": "Krausers Bow",
+      "name": "Krausers Bow | 克劳萨之弓",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "5200",
           "off": "2300"
@@ -253,11 +238,10 @@
       ]
     },
     {
-      "name": "Bowgun",
+      "name": "Bowgun | 弩枪",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "1000",
           "off": "2300"
@@ -265,11 +249,10 @@
       ]
     },
     {
-      "name": "Matilda",
+      "name": "Matilda | 玛蒂尔达",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "0300",
           "off": "2300"
@@ -277,11 +260,10 @@
       ]
     },
     {
-      "name": "Riot Gun",
+      "name": "Riot Gun | 防暴枪",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "9400",
           "off": "2300"
@@ -289,11 +271,10 @@
       ]
     },
     {
-      "name": "Killer 7",
+      "name": "Killer 7 | 杀手7",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2A00",
           "off": "2300"
@@ -301,11 +282,10 @@
       ]
     },
     {
-      "name": "Striker",
+      "name": "Striker | 镇暴者",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2D00",
           "off": "2300"
@@ -313,11 +293,10 @@
       ]
     },
     {
-      "name": "Rifle (Put Handgun In The Center)",
+      "name": "Rifle (Put Handgun In The Center) | 步枪（把手枪放在中央）",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2E00",
           "off": "2300"
@@ -325,11 +304,10 @@
       ]
     },
     {
-      "name": "Rifle Semi Auto",
+      "name": "Rifle Semi Auto | 半自动步枪",
       "type": "button",
       "memory": [
         {
-          "section": "21",
           "offset": "7407CE",
           "on": "2F00",
           "off": "2300"

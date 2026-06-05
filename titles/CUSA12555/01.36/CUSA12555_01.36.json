@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 最大/无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina/Breath",
+      "name": "Infinite Stamina/Breath | 无限耐力/氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Items/Arrows/Craft On Use (Need 2 To work)",
+      "name": "Infinite Items/Arrows/Craft On Use (Need 2 To work) | 无限物品/箭矢/制作消耗（需2个生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷道具",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "No Reload Crossbow/Boomstick",
+      "name": "No Reload Crossbow/Boomstick | 弩/霰弹枪无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Weapons Durability",
+      "name": "Infinite Weapons Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Immunity/Chemical Area",
+      "name": "Infinite Immunity/Chemical Area | 无限免疫/化学区域",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Infinite UV Flashlight",
+      "name": "Infinite UV Flashlight | 无限UV手电筒",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Max XP/Level/Inhibitors (Use After Escaping Waltz)",
+      "name": "Max XP/Level/Inhibitors (Use After Escaping Waltz) | 最大经验/等级/抑制剂（逃离沃尔兹后使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money",
+      "name": "Max/Infinite Money | 最大/无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Freeze Time Missions (Disable B4 Finishing)",
+      "name": "Freeze Time Missions (Disable B4 Finishing) | 任务时间冻结（完成前禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Freeze Time For Parkour And Fighting Challenge",
+      "name": "Freeze Time For Parkour And Fighting Challenge | 跑酷与战斗挑战时间冻结",
       "type": "checkbox",
       "memory": [
         {

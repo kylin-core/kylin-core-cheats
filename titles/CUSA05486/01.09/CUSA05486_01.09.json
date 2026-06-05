@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Enemy Infinite Health",
+      "name": "Enemy Infinite Health | 敌人无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "No Enemy Magic",
+      "name": "No Enemy Magic | 敌人无魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "No Enemy Stamina",
+      "name": "No Enemy Stamina | 敌人无体力",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Max Items on Move",
+      "name": "Max Items on Move | 移动时物品最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Infinite Talentpoints",
+      "name": "Infinite Talentpoints | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Max Talentpoints",
+      "name": "Max Talentpoints | 满技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 物品最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Max Legendary",
+      "name": "Max Legendary | 传奇等级最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Max Level",
+      "name": "Max Level | 满级",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Max Stats",
+      "name": "Max Stats | 属性最大化",
       "type": "checkbox",
       "memory": [
         {

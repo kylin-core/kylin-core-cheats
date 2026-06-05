@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light 2: Stay Human" Moder="Wander_9.00" Cusa="CUSA12584" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Melee Durability">
+    <Cheat Text="Infinite Melee Durability | 无限近战耐久">
         <Cheatline>
             <Offset>7FC5EAE0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>7FC5EB20</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items (on use and buy turn off when upgrading)">
+    <Cheat Text="Items (on use and buy turn off when upgrading) | 物品（使用和购买时关闭，升级时禁用）">
         <Cheatline>
             <Offset>7FC5EB50</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience (use after escaping Waltz)">
+    <Cheat Text="Max Experience (use after escaping Waltz) | 最大经验（逃离沃尔兹后使用）">
         <Cheatline>
             <Offset>7FC5EC90</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="A lot of money (on gain)">
+    <Cheat Text="A lot of money (on gain) | 大量金钱（获得时）">
         <Cheatline>
             <Offset>7FC5ECD0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC5FF10</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="A lot of Money (on buy)">
+    <Cheat Text="A lot of Money (on buy) | 大量金钱（购买时）">
         <Cheatline>
             <Offset>7FEA3E40</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items Multiplier (use at risk) Optional for Legendary upgrades">
+    <Cheat Text="Items Multiplier (use at risk) Optional for Legendary upgrades | 物品倍率（风险使用）传奇升级可选">
         <Cheatline>
             <Offset>2A51C10</Offset>
             <Section>0</Section>

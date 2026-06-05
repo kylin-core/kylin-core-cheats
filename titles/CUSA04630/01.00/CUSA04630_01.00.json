@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money ",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Max Action Points",
+      "name": "Max Action Points | 最大行动点数",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Have All Items ~After Buy No Weapos Or Gear~",
+      "name": "Have All Items ~After Buy No Weapos Or Gear~ | 获得所有物品 ~购买后无武器或装备~",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Max Tp",
+      "name": "Max Tp | 最大TP",
       "type": "checkbox",
       "memory": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "Max Morale",
+      "name": "Max Morale | 最大士气",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "name": "Inf Bonus Points",
+      "name": "Inf Bonus Points | 无限奖励点数",
       "type": "checkbox",
       "memory": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {

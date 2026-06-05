@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Ap ~After Battle~",
+      "name": "Max Ap ~After Battle~ | 战后AP最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Money ~After Buy or Sell~",
+      "name": "Max Money ~After Buy or Sell~ | 交易后金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Max Items/Accessories ~Buy 1 Potion~ ~Do Not Use With Have All Weapons~",
+      "name": "Max Items/Accessories ~Buy 1 Potion~ ~Do Not Use With Have All Weapons~ | 道具/饰品最大化（购买1瓶恢复剂）~请勿与“拥有全部武器”共用~",
       "type": "checkbox",
       "memory": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "Have All Weapons ~Buy 1 Potion~ ~Do Not Use With Max Items~",
+      "name": "Have All Weapons ~Buy 1 Potion~ ~Do Not Use With Max Items~ | 拥有全部武器（购买1瓶恢复剂）~请勿与“道具最大化”共用~",
       "type": "checkbox",
       "memory": [
         {
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "name": "Save Anytime ~Leave Any Area~",
+      "name": "Save Anytime ~Leave Any Area~ | 随时存档（任意区域离开）",
       "type": "checkbox",
       "memory": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "Have Sephiroth In Slot 3 ~Swap Character From Slot 2 To Slot 3~",
+      "name": "Have Sephiroth In Slot 3 ~Swap Character From Slot 2 To Slot 3~ | 萨菲罗斯加入第3栏（将第2栏角色换至第3栏）",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Max Stats ~After Level Up~",
+      "name": "Max Stats ~After Level Up~ | 升级后全属性最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Max Hp//MP ~After Level Up~",
+      "name": "Max Hp//MP ~After Level Up~ | 升级后HP/MP最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "name": "Unlock Limit Breaks ~Select Limit Level Go Into Battle To Unlock~ ~2 battles~",
+      "name": "Unlock Limit Breaks ~Select Limit Level Go Into Battle To Unlock~ ~2 battles~ | 解锁极限技（选择极限等级后进入战斗解锁）~需2场战斗~",
       "type": "checkbox",
       "memory": [
         {
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "name": "Always Have Limit break ~In Battle~",
+      "name": "Always Have Limit break ~In Battle~ | 战斗中始终满极限技",
       "type": "checkbox",
       "memory": [
         {
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "name": "Have All Materia ~Buy One Materia~",
+      "name": "Have All Materia ~Buy One Materia~ | 拥有全部魔晶石（购买1颗魔晶石）",
       "type": "checkbox",
       "memory": [
         {

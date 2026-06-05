@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / 1 Hit Kill (Master Code)",
+      "name": "Health / 1 Hit Kill (Master Code) | 生命值/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀（MC）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5C51A",
           "on": "7413",
           "off": "7409"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Gold",
+      "name": "Max Gold | 最大金币",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Inf Points",
+      "name": "Inf Points | 无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "name": "X2 Speed",
+      "name": "X2 Speed | 2倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +80,7 @@
       ]
     },
     {
-      "name": "Rabbit Speed",
+      "name": "Rabbit Speed | 兔子速度",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +96,7 @@
       ]
     },
     {
-      "name": "Ghost Speed",
+      "name": "Ghost Speed | 鬼魂速度",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +112,7 @@
       ]
     },
     {
-      "name": "Normal Speed",
+      "name": "Normal Speed | 正常速度",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Experience Multiplier",
+      "name": "Experience Multiplier | 经验倍数",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Max items(turn on grabbing items and turn off to use items)",
+      "name": "Max items(turn on grabbing items and turn off to use items) | 最大化物品（开启时拾取物品，关闭后使用物品）",
       "type": "checkbox",
       "memory": [
         {

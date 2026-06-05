@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated )",
+      "name": "Mastercode ( must be activated ) | 主代码（必须激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Infinite Health Player 1 [ MC ]",
+      "name": "Infinite Health Player 1 [ MC ] | 玩家1无限生命 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "One Hit Kill Player 1 [ MC ]",
+      "name": "One Hit Kill Player 1 [ MC ] | 玩家1一击必杀 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Health Player 2 [ MC ]",
+      "name": "Infinite Health Player 2 [ MC ] | 玩家2无限生命 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "One Hit Kill Player 2 [ MC ]",
+      "name": "One Hit Kill Player 2 [ MC ] | 玩家2一击必杀 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Supermeter Player 1 [ MC ]",
+      "name": "Infinite Supermeter Player 1 [ MC ] | 玩家1无限超必杀计量 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Zero Supermeter Player 1 [ MC ]",
+      "name": "Zero Supermeter Player 1 [ MC ] | 玩家1零超必杀计量 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Infinite Supermeter Player 2 [ MC ]",
+      "name": "Infinite Supermeter Player 2 [ MC ] | 玩家2无限超必杀计量 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Zero Supermeter Player 2 [ MC ]",
+      "name": "Zero Supermeter Player 2 [ MC ] | 玩家2零超必杀计量 [主代码]",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Max Player XP Level",
+      "name": "Max Player XP Level | 玩家经验值最高等级",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Max Access Cards ( on gain - use )",
+      "name": "Max Access Cards ( on gain - use ) | 最大通行卡（获得时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Max Arsenal Keys ( on gain - use )",
+      "name": "Max Arsenal Keys ( on gain - use ) | 最大武器库钥匙（获得时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "name": "Change Timer to 999",
+      "name": "Change Timer to 999 | 将计时器改为999",
       "type": "checkbox",
       "memory": [
         {

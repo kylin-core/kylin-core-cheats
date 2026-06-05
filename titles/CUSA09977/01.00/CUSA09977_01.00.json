@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max YEN &quot;After Gained Or Used&quot;",
+      "name": "Max YEN \"After Gained Or Used\" | 金钱最大（获得或使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Quick Hacker Rank &quot;After Gained&quot;",
+      "name": "Quick Hacker Rank \"After Gained\" | 黑客等级快速提升（获得后）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Hp &quot;After Level Up&quot;",
+      "name": "Max Hp \"After Level Up\" | 最大HP（升级后）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Sp &quot;After Level Up&quot;",
+      "name": "Max Sp \"After Level Up\" | 最大SP（升级后）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max ATK &quot;After Level Up&quot;",
+      "name": "Max ATK \"After Level Up\" | 最大攻击力（升级后）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max DEF &quot;After Level Up&quot;",
+      "name": "Max DEF \"After Level Up\" | 最大防御力（升级后）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max INT &quot;After Level Up&quot;",
+      "name": "Max INT \"After Level Up\" | 最大智力（升级后）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max SPD &quot;After Level Up&quot; ",
+      "name": "Max SPD \"After Level Up\" | 最大速度（升级后）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max ABI &quot;After Digivolve Or De-Digivolve&quot;",
+      "name": "Max ABI \"After Digivolve Or De-Digivolve\" | 最大ABI（进化或退化后）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Cam &quot;After Battle&quot;",
+      "name": "Max Cam \"After Battle\" | 最大CAM（战斗后）",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Item &quot;After Used&quot;",
+      "name": "Item \"After Used\" | 道具（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Quick DigiConvert",
+      "name": "Quick DigiConvert | 快速数码转换",
       "type": "checkbox",
       "memory": [
         {

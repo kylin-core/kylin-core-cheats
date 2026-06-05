@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Earn more Red Orbs",
-      "hint": null,
+      "name": "Earn more Red Orbs | 获得更多红魂",
       "type": "checkbox",
       "memory": [
         {

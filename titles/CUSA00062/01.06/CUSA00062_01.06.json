@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Switch (enable this first)",
+      "name": "Master Switch (enable this first) | 主开关（请先启用此项）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Pause/Unpause Game (Click Touch-Pad+Dpad Right/Left)",
+      "name": "Pause/Unpause Game (Click Touch-Pad+Dpad Right/Left) | 暂停/继续游戏（点击触摸板+方向键右/左）",
       "type": "checkbox",
       "memory": [
         {

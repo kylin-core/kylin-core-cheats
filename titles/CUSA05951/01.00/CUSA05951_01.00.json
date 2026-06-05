@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max bomb (arcade mode)",
+      "name": "Max bomb (arcade mode) | 最大炸弹（街机模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Multiplier (arcade mode)",
+      "name": "Max Multiplier (arcade mode) | 最大倍率（街机模式）",
       "type": "checkbox",
       "memory": [
         {

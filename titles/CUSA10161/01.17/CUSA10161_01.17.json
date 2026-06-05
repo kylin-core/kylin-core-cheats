@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / All (Master Code)",
+      "name": "Health / All (Master Code) | 生命值 / 全部（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Ammo / Stamina / Energy / Consumable (MC)",
+      "name": "Ammo / Stamina / Energy / Consumable (MC) | 弹药 / 耐力 / 能量 / 消耗品（主代码）",
       "type": "checkbox",
       "memory": [
         {

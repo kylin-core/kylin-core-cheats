@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (-Bosses)",
+      "name": "1 Hit Kill (-Bosses) | 一击必杀（-Boss除外）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Mask Filter",
+      "name": "Infinite Mask Filter | 无限面罩滤芯",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Infinite Pressure (Air Gun / Flamethrower)",
+      "name": "Infinite Pressure (Air Gun / Flamethrower) | 无限气压（气枪/火焰喷射器）",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "No Weapon Jam",
+      "name": "No Weapon Jam | 武器不会卡壳",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Infinite Bombs",
+      "name": "Infinite Bombs | 无限炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Infinite Molotovs",
+      "name": "Infinite Molotovs | 无限燃烧弹",
       "type": "checkbox",
       "memory": [
         {
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "Infinite Knives",
+      "name": "Infinite Knives | 无限飞刀",
       "type": "checkbox",
       "memory": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "name": "Infinite Cans",
+      "name": "Infinite Cans | 无限罐头",
       "type": "checkbox",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "Infinite Resources (Pick Up)",
+      "name": "Infinite Resources (Pick Up) | 无限资源（拾取）",
       "type": "checkbox",
       "memory": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "No Decrease: Medkits",
+      "name": "No Decrease: Medkits | 医疗包不减",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Infinite Batteries x1 (Goggles, Torch)",
+      "name": "Infinite Batteries x1 (Goggles, Torch) | 无限电池x1（夜视仪、手电筒）",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Infinite Batteries x2 Intensity",
+      "name": "Infinite Batteries x2 Intensity | 无限电池x2强度",
       "type": "checkbox",
       "memory": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Infinite Batteries x4 Intensity",
+      "name": "Infinite Batteries x4 Intensity | 无限电池x4强度",
       "type": "checkbox",
       "memory": [
         {
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "Infinite Batteries x8 Intensity",
+      "name": "Infinite Batteries x8 Intensity | 无限电池x8强度",
       "type": "checkbox",
       "memory": [
         {

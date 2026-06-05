@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Vikings - Wolves of Midgard" Moder="TLH" Cusa="CUSA05032" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>11CF800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kills">
+    <Cheat Text="1 Hit Kills | 一击必杀">
         <Cheatline>
             <Offset>11CF801</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gift-Points">
+    <Cheat Text="Infinite Gift-Points | 无限赠礼点数">
         <Cheatline>
             <Offset>4B0137</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>2B-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Regeneration">
+    <Cheat Text="Instant Regeneration | 瞬间回复">
         <Cheatline>
             <Offset>11CF856</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cooldown">
+    <Cheat Text="No Cooldown | 无冷却时间">
         <Cheatline>
             <Offset>509B6D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>F3-0F-5A-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Heal-Skill Usage">
+    <Cheat Text="Infinite Heal-Skill Usage | 无限治疗技能使用次数">
         <Cheatline>
             <Offset>11CF841</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>1FA24A2</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>F3-44-0F-11-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Blood on Get">
+    <Cheat Text="Max Blood on Get | 获取时血量为最大">
         <Cheatline>
             <Offset>4AFE1D</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>8B-08-03-4C-24-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold on Get">
+    <Cheat Text="Max Gold on Get | 获取时金币为最大">
         <Cheatline>
             <Offset>4B02D6</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>8B-08-03-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Iron on Get">
+    <Cheat Text="Max Iron on Get | 获取时铁矿为最大">
         <Cheatline>
             <Offset>4B0429</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>8B-08-03-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Wood on Get">
+    <Cheat Text="Max Wood on Get | 获取时木材为最大">
         <Cheatline>
             <Offset>4B0579</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>8B-08-03-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Blood">
+    <Cheat Text="Infinite Blood | 无限血量">
         <Cheatline>
             <Offset>4B0230</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>2B-4C-24-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Gold">
+    <Cheat Text="Infinite Gold | 无限金币">
         <Cheatline>
             <Offset>4B039C</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>2B-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Iron">
+    <Cheat Text="Infinite Iron | 无限铁矿">
         <Cheatline>
             <Offset>4B04EF</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>2B-0C-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Wood">
+    <Cheat Text="Infinite Wood | 无限木材">
         <Cheatline>
             <Offset>4B063F</Offset>
             <Section>0</Section>

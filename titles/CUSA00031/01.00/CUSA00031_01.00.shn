@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rayman® Legends" Moder="Reddevil82 " Cusa="CUSA00031" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Live">
+    <Cheat Text="Infinite Live | 无限生命">
         <Cheatline>
             <Offset>F3A54</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9.999 Lums ( per Level )">
+    <Cheat Text="9.999 Lums ( per Level ) | 每关9.999光之精灵">
         <Cheatline>
             <Offset>143B840</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9.999.999 Lums ( Unlocked all Character - Main Menu )">
+    <Cheat Text="9.999.999 Lums ( Unlocked all Character - Main Menu ) | 9,999,999光之精灵（解锁所有角色 - 主菜单）">
         <Cheatline>
             <Offset>1493EC0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Lucky Tickets">
+    <Cheat Text="Infinite Lucky Tickets | 无限幸运票">
         <Cheatline>
             <Offset>1493EE0</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Resolve",
+      "name": "Inf Resolve | 无限决心",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Resources",
+      "name": "Inf Resources | 无限资源",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Tech Points (Enable After Earn 1 point)",
+      "name": "Inf Tech Points (Enable After Earn 1 point) | 无限技术点（获取1点后启用）",
       "type": "checkbox",
       "memory": [
         {

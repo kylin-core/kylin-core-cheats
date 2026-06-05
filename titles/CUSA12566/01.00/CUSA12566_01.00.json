@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite CP | In Battle",
+      "name": "Infinite CP | In Battle | 无限CP（战斗中）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max CP In Battle | Don't Use With Max EP",
+      "name": "Max CP In Battle | Don't Use With Max EP | 最大CP（战斗中，勿与最大EP共用）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite EP In Battle",
+      "name": "Infinite EP In Battle | 无限EP（战斗中）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max EP On Use | Don't Use With Max CP",
+      "name": "Max EP On Use | Don't Use With Max CP | 使用或出售时最大EP（勿与最大CP共用）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Items | Inventory",
+      "name": "Infinite Items | Inventory | 无限道具（背包）",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max Items/Quratz/Event/Ingredients On Use or Sell",
+      "name": "Max Items/Quratz/Event/Ingredients On Use or Sell | 使用或出售时最大道具/回路/事件道具/食材",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Items | Battle",
+      "name": "Infinite Items | Battle | 无限道具（战斗中）",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Items | Battle",
+      "name": "Max Items | Battle | 最大道具（战斗中）",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限米拉",
       "type": "checkbox",
       "memory": [
         {
@@ -125,6 +125,6 @@
     }
   ],
   "credits": [
-    "GamerX2 & DanteClaus"
+    "GamerX2 \u0026 DanteClaus"
   ]
 }

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No Mans Sky" Moder="Wander_9.00" Cusa="CUSA04841" Version="03.75" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="999 Minerals (on gain)">
+    <Cheat Text="999 Minerals (on gain) | 矿物999（获得时）">
         <Cheatline>
             <Offset>7FC5E2F0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Minerals (on use)">
+    <Cheat Text="999 Minerals (on use) | 矿物999（使用时）">
         <Cheatline>
             <Offset>7FC5E340</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 (on consume for food deactivate to discard items)">
+    <Cheat Text="999 (on consume for food deactivate to discard items) | 食物消耗999（关闭以丢弃物品）">
         <Cheatline>
             <Offset>7FC5EBC0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999 Salvaged Data (on spend)">
+    <Cheat Text="999 Salvaged Data (on spend) | 回收数据999（花费时）">
         <Cheatline>
             <Offset>7FC5EB80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite jetpack">
+    <Cheat Text="Infinite jetpack | 无限喷气背包">
         <Cheatline>
             <Offset>7FC5DE80</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Sprint">
+    <Cheat Text="Infinite Sprint | 无限冲刺">
         <Cheatline>
             <Offset>7FC5DF20</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999999999 Units (on gain)">
+    <Cheat Text="999999999 Units (on gain) | 单位999999999（获得时）">
         <Cheatline>
             <Offset>7FEA3DE0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999999999 Nanites (on gain">
+    <Cheat Text="999999999 Nanites (on gain) | 纳米星团999999999（获得时）">
         <Cheatline>
             <Offset>7FEA3E40</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinte Ammo">
+    <Cheat Text="Infinte Ammo | 无限弹药">
         <Cheatline>
             <Offset>1226F9F</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>47-29-AC-B4-D0-14-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Pet Sprint">
+    <Cheat Text="Infinite Pet Sprint | 宠物无限冲刺">
         <Cheatline>
             <Offset>7FC5F590</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite ExoMech Jetpack">
+    <Cheat Text="Infinite ExoMech Jetpack | 机甲无限喷气背包">
         <Cheatline>
             <Offset>149D866</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C5-FA-11-86-14-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="999999999 Quicksilver (on spend)">
+    <Cheat Text="999999999 Quicksilver (on spend) | 水银999999999（花费时）">
         <Cheatline>
             <Offset>7FC5FE70</Offset>
             <Section>0</Section>

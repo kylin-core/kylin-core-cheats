@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="TheBindingOfIsaacAfterbirth" Moder="Xiko" Cusa="CUSA10195" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Coins (On Spend, On Get Crashes)">
+    <Cheat Text="Inf Coins (On Spend, On Get Crashes) | 无限金币（消费时获得，获取时崩溃）">
         <Cheatline>
             <Offset>527800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Bombs(On Use)">
+    <Cheat Text="Inf Bombs(On Use) | 无限炸弹（使用时）">
         <Cheatline>
             <Offset>19479B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-FF-8D-B8-27-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Red Hearts">
+    <Cheat Text="Inf Red Hearts | 无限红心">
         <Cheatline>
             <Offset>527800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Keys(On Get)">
+    <Cheat Text="Inf Keys(On Get) | 无限钥匙（获取时）">
         <Cheatline>
             <Offset>527810</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Pedestal Items Dont Disappear (Pedestal item will go invis but its there)">
+    <Cheat Text="Pedestal Items Dont Disappear (Pedestal item will go invis but its there) | 底座道具不消失（底座道具会隐形但仍在）">
         <Cheatline>
             <Offset>157DB0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>41-C7-45-40-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Active Item">
+    <Cheat Text="Inf Active Item | 无限主动道具">
         <Cheatline>
             <Offset>16D38E</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>45-89-BD-F8-29-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Blue Hearts">
+    <Cheat Text="Inf Blue Hearts | 无限蓝心">
         <Cheatline>
             <Offset>527800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Cards(On Use)">
+    <Cheat Text="Inf Cards(On Use) | 无限卡片（使用时）">
         <Cheatline>
             <Offset>19AEDC</Offset>
             <Section>0</Section>

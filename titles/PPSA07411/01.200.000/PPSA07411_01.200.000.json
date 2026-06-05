@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi Health",
+      "name": "Infi Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infi Ammo (No Reload)",
+      "name": "Infi Ammo (No Reload) | 无限弹药（无需装填）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Perfect Aim",
+      "name": "Perfect Aim | 完美瞄准",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infi Grenades",
+      "name": "Infi Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infi Knife Durability",
+      "name": "Infi Knife Durability | 无限刀具耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "No Damage For Boat",
+      "name": "No Damage For Boat | 船体无伤",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "No Damage For Wagon",
+      "name": "No Damage For Wagon | 马车无伤",
       "type": "checkbox",
       "memory": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Max CP",
+      "name": "Max CP | 最大CP",
       "type": "checkbox",
       "memory": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Max Spinels",
+      "name": "Max Spinels | 最大尖晶石",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Save always 0",
+      "name": "Save always 0 | 存档始终为0",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Stop Time (Story)",
+      "name": "Stop Time (Story) | 停止时间（剧情）",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Stop Time (Mercenaries)",
+      "name": "Stop Time (Mercenaries) | 停止时间（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "Instant Max Mayhen Mode (Mercenaries)",
+      "name": "Instant Max Mayhen Mode (Mercenaries) | 瞬间最大狂暴模式（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "name": "Infinite Mayhen Mode (Mercenaries)",
+      "name": "Infinite Mayhen Mode (Mercenaries) | 无限狂暴模式（佣兵模式）",
       "type": "checkbox",
       "memory": [
         {

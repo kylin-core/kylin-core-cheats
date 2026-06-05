@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "Please note that you MUST read the comment on each individual cheat, if a comment is available, or your game/saves may have issues. Enjoy this incredible game! :-)",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Currencies, Arrows and Consumables",
-      "description": "Must have at least one piece for the cheat to take effect to stop subtracting the remaining quantity.",
+      "name": "Infinite Currencies, Arrows and Consumables | 无限货币、箭矢与消耗品",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "No Purchase and Upgrade Limits",
-      "description": "Can purchase and upgrade anything, even if you dont have enough currencies. Best to enable/use together with Infinite Currencies, Arrows and Consumables cheat",
+      "name": "No Purchase and Upgrade Limits | 无购买与升级限制",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "God Mode (Untouchable)",
-      "description": "Can still be frozen by enemies. That is intentional.",
+      "name": "God Mode (Untouchable) | 上帝模式（无敌）",
       "type": "checkbox",
       "memory": [
         {
@@ -73,8 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
-      "description": "",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -85,8 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps",
-      "description": "Do NOT jump to places that you are not suppose to reach yet or you may mess up your game and saves with a progression issue that will require to start the game from an earlier point or start from the beginning. Only use this cheat to easily reach places you have already been to before or you are suppose to reach and can reach even without the cheat.",
+      "name": "Infinite Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -97,8 +91,7 @@
       ]
     },
     {
-      "name": "Instant Athra Surge Charge",
-      "description": "",
+      "name": "Instant Athra Surge Charge | 立即充能阿特拉之力",
       "type": "checkbox",
       "memory": [
         {
@@ -114,8 +107,7 @@
       ]
     },
     {
-      "name": "No Athra Surge Cooldown",
-      "description": "",
+      "name": "No Athra Surge Cooldown | 无阿特拉之力冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -131,8 +123,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier (Master Code)",
-      "description": "RECOMMENDED to disable this cheat in boss fights. Enable this MC first and then choose only one of multipliers below. May cause progression issues when used when fighting some bosses, especially in the beginning of the game, before mount Qaf.",
+      "name": "Damage Multiplier (Master Code) | 伤害倍率（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -158,8 +149,7 @@
       ]
     },
     {
-      "name": "--Damage x5",
-      "description": "",
+      "name": "--Damage x5 | --伤害x5",
       "type": "button",
       "memory": [
         {
@@ -170,8 +160,7 @@
       ]
     },
     {
-      "name": "--Damage x10",
-      "description": "",
+      "name": "--Damage x10 | --伤害x10",
       "type": "button",
       "memory": [
         {
@@ -182,8 +171,7 @@
       ]
     },
     {
-      "name": "--Damage x20",
-      "description": "",
+      "name": "--Damage x20 | --伤害x20",
       "type": "button",
       "memory": [
         {
@@ -194,8 +182,7 @@
       ]
     },
     {
-      "name": "--Damage x50",
-      "description": "",
+      "name": "--Damage x50 | --伤害x50",
       "type": "button",
       "memory": [
         {
@@ -206,8 +193,7 @@
       ]
     },
     {
-      "name": "--Damage x100",
-      "description": "",
+      "name": "--Damage x100 | --伤害x100",
       "type": "button",
       "memory": [
         {
@@ -218,8 +204,7 @@
       ]
     },
     {
-      "name": "Jump Height Multiplier (Master Code)",
-      "description": "Enable this MC first and then choose only one of multipliers below. Do NOT jump to places that you are not suppose to reach yet or you may mess up your game and saves with a progression issue that will require to start the game from an earlier point or start from the beginning. Only use this cheat to easily reach places you have already been to before or you are suppose to reach and can reach even without the cheat.",
+      "name": "Jump Height Multiplier (Master Code) | 跳跃高度倍率（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -235,8 +220,7 @@
       ]
     },
     {
-      "name": "--Jump x2",
-      "description": "",
+      "name": "--Jump x2 | --跳跃x2",
       "type": "button",
       "memory": [
         {
@@ -247,8 +231,7 @@
       ]
     },
     {
-      "name": "--Jump x3",
-      "description": "",
+      "name": "--Jump x3 | --跳跃x3",
       "type": "button",
       "memory": [
         {
@@ -259,8 +242,7 @@
       ]
     },
     {
-      "name": "--Jump x4",
-      "description": "",
+      "name": "--Jump x4 | --跳跃x4",
       "type": "button",
       "memory": [
         {
@@ -271,8 +253,7 @@
       ]
     },
     {
-      "name": "--Jump x5",
-      "description": "",
+      "name": "--Jump x5 | --跳跃x5",
       "type": "button",
       "memory": [
         {

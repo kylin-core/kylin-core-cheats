@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty®: Vanguard" Moder="Saso" Cusa="CUSA29092" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (Campaign Mode)">
+    <Cheat Text="Infinite Health (Campaign Mode) | 无限生命（战役模式）">
         <Cheatline>
             <Offset>10ADF3B</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-2C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (Zombies Mode)">
+    <Cheat Text="Infinite Health (Zombies Mode) | 无限生命（僵尸模式）">
         <Cheatline>
             <Offset>27AF240</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo / No Reload">
+    <Cheat Text="Infinite Ammo / No Reload | 无限弹药 / 无需装弹">
         <Cheatline>
             <Offset>27AF100</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Armor / Max Salvage (9999)">
+    <Cheat Text="Infinite Armor / Max Salvage (9999) | 无限护甲 / 最大回收材料（9999）">
         <Cheatline>
             <Offset>27AF2D0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money (99999)">
+    <Cheat Text="Max Money (99999) | 最大金钱（99999）">
         <Cheatline>
             <Offset>27AF1A0</Offset>
             <Section>0</Section>

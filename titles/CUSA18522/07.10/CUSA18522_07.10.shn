@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin's Creed® Valhalla" Moder="Celogamez" Cusa="CUSA18522" Version="07.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>62ABD00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Endurance Instant Refill">
+    <Cheat Text="Endurance Instant Refill | 耐力瞬间恢复">
         <Cheatline>
             <Offset>7FC5F5D0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Air">
+    <Cheat Text="Infinite Air | 无限氧气">
         <Cheatline>
             <Offset>7FC5D3B0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy)">
+    <Cheat Text="Max/Infinite Resources/Consumables//Arrows/Money(On Use/Buy) | 最大/无限资源/消耗品/箭矢/金钱（使用/购买时）">
         <Cheatline>
             <Offset>7FC5F350</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Max/Infinite Adrenaline On Use/Gain">
+    <Cheat Text="Instant Max/Infinite Adrenaline On Use/Gain | 使用/获得时瞬间最大/无限肾上腺素">
         <Cheatline>
             <Offset>7FC5F630</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Skill Points On Gain">
+    <Cheat Text="Max/Infinite Skill Points On Gain | 获得时最大/无限技能点">
         <Cheatline>
             <Offset>7FC5DE10</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Mastery Points On Gain">
+    <Cheat Text="Max/Infinite Mastery Points On Gain | 获得时最大/无限专精点数">
         <Cheatline>
             <Offset>7FC5F8C0</Offset>
             <Section>0</Section>

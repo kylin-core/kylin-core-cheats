@@ -1,11 +1,11 @@
 {
-  "name": "Shootas, Blood & Teef",
+  "name": "Shootas, Blood \u0026 Teef",
   "id": "CUSA31022",
   "version": "01.01",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health",
+      "name": "Max/Infinite Health | 无限/最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/Throwables",
+      "name": "Infinite Ammo/Throwables | 无限弹药/投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Instant Max Infinite Rage",
+      "name": "Instant Max Infinite Rage | 瞬间满怒气无限",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money",
+      "name": "Max/Infinite Money | 无限/最大金钱",
       "type": "checkbox",
       "memory": [
         {

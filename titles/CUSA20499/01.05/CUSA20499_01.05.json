@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Extra Special",
+      "name": "Infinite Extra Special | 无限额外绝招",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Plane Extra Special",
+      "name": "Infinite Plane Extra Special | 无限飞行额外绝招",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Gold",
+      "name": "Infinite Gold | 无限金币",
       "type": "checkbox",
       "memory": [
         {

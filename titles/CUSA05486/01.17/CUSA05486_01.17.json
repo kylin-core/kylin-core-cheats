@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Coins (after taking a stack from corpses)",
+      "name": "Max Coins (after taking a stack from corpses) | 最大金币（从尸体拾取堆叠后）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "99 Crafting Items (after Spending)",
+      "name": "99 Crafting Items (after Spending) | 99个制造材料（消耗后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "99 Perks Points (reach level 2)",
+      "name": "99 Perks Points (reach level 2) | 99个技能点（达到2级时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Skills and stats( need perks and save/load game after activating)",
+      "name": "Max Skills and stats( need perks and save/load game after activating) | 最大技能与属性（需要技能点，激活后存档再读档）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,10 +5,8 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "This is my v04.00 port for Cosmaty v01.50 trainer. I have added a teleport cheat, reset horse fear bar, XP multiplier and No toxicity from decoctions. IMPORTANT!  ENABLE CHEATS ONLY AFTER YOU START PLAYING! Please be sure to read the cheats comments, where available! I have partially tested it and it seems to be working fine, but please let me know if there is any issue. Enjoy! :-)",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7F7",
@@ -18,10 +16,8 @@
       ]
     },
     {
-      "name": "Master Code (Enable this first!)",
-      "description": "none",
+      "name": "Master Code (Enable this first!) | 主代码（请先启用此项！）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7F8",
@@ -36,10 +32,8 @@
       ]
     },
     {
-      "name": "--Infinite Health (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Infinite Health (req MC) | --无限生命（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7F8",
@@ -49,10 +43,8 @@
       ]
     },
     {
-      "name": "--Easy Kill  (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Easy Kill  (req MC) | --一击必杀（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7F9",
@@ -62,10 +54,8 @@
       ]
     },
     {
-      "name": "--Minimum Horse Panic (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Minimum Horse Panic (req MC) | --马匹最小恐慌（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7FA",
@@ -85,10 +75,8 @@
       ]
     },
     {
-      "name": "--Infinite Horse Run  (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Infinite Horse Run  (req MC) | --马匹无限耐力（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7FB",
@@ -98,10 +86,8 @@
       ]
     },
     {
-      "name": "--Infinite Oxygen  (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Infinite Oxygen  (req MC) | --无限氧气（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7FC",
@@ -111,10 +97,8 @@
       ]
     },
     {
-      "name": "--Infinite Adrenaline (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Infinite Adrenaline (req MC) | --无限肾上腺素（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7FD",
@@ -124,10 +108,8 @@
       ]
     },
     {
-      "name": "--No Toxicity (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--No Toxicity (req MC) | --无毒性（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7FE",
@@ -147,10 +129,8 @@
       ]
     },
     {
-      "name": "--Infinite Stamina  (req MC)",
-      "description": "Must enable Master Code First",
+      "name": "--Infinite Stamina  (req MC) | --无限体力（需主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B7FF",
@@ -160,10 +140,8 @@
       ]
     },
     {
-      "name": "Teleport to map waypoint",
-      "description": "Enable Infinite Health or you may die when being teleported",
+      "name": "Teleport to map waypoint | 传送至地图路标",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BB00",
@@ -188,10 +166,8 @@
       ]
     },
     {
-      "name": "XP Multiplier (Master Code)",
-      "description": "Must enable only while already playing OR THE GAME WILL CRASH. Enable this first and then pick only ONE of the multipliers below",
+      "name": "XP Multiplier (Master Code) | 经验值倍率（主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BD00",
@@ -206,10 +182,8 @@
       ]
     },
     {
-      "name": "--2x XP",
-      "description": "none",
+      "name": "--2x XP | --2倍经验值",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B833",
@@ -219,10 +193,8 @@
       ]
     },
     {
-      "name": "--3x XP",
-      "description": "none",
+      "name": "--3x XP | --3倍经验值",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B833",
@@ -232,10 +204,8 @@
       ]
     },
     {
-      "name": "--4x XP",
-      "description": "none",
+      "name": "--4x XP | --4倍经验值",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B833",
@@ -245,10 +215,8 @@
       ]
     },
     {
-      "name": "--5x XP",
-      "description": "none",
+      "name": "--5x XP | --5倍经验值",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B833",
@@ -258,10 +226,8 @@
       ]
     },
     {
-      "name": "--10x XP",
-      "description": "none",
+      "name": "--10x XP | --10倍经验值",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293B833",
@@ -271,10 +237,8 @@
       ]
     },
     {
-      "name": "Game Speed (Master Code)",
-      "description": "Enable this first and then pick only ONE of the multipliers below",
+      "name": "Game Speed (Master Code) | 游戏速度（主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BE00",
@@ -289,10 +253,8 @@
       ]
     },
     {
-      "name": "--2x Speed",
-      "description": "none",
+      "name": "--2x Speed | --2倍速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BE14",
@@ -302,10 +264,8 @@
       ]
     },
     {
-      "name": "--3x Speed",
-      "description": "none",
+      "name": "--3x Speed | --3倍速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BE14",
@@ -315,10 +275,8 @@
       ]
     },
     {
-      "name": "--4x Speed",
-      "description": "none",
+      "name": "--4x Speed | --4倍速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BE14",
@@ -328,10 +286,8 @@
       ]
     },
     {
-      "name": "--5x Speed",
-      "description": "none",
+      "name": "--5x Speed | --5倍速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BE14",
@@ -341,10 +297,8 @@
       ]
     },
     {
-      "name": "Infinite Items",
-      "description": "",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "253BF00",
@@ -364,10 +318,8 @@
       ]
     },
     {
-      "name": "Infinite Money (on buy or sell)",
-      "description": "",
+      "name": "Infinite Money (on buy or sell) | 无限金钱（购买或出售时生效）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BA18",
@@ -382,10 +334,8 @@
       ]
     },
     {
-      "name": "Walking Speed (Master Code)",
-      "description": "Enable this first and then pick only ONE of the multipliers below",
+      "name": "Walking Speed (Master Code) | 行走速度（主代码）",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "ACFAAA",
@@ -395,10 +345,8 @@
       ]
     },
     {
-      "name": "--x2 Walking Speed",
-      "description": "",
+      "name": "--x2 Walking Speed | --2倍行走速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "ACFAAC",
@@ -408,10 +356,8 @@
       ]
     },
     {
-      "name": "--x3 Walking Speed",
-      "description": "",
+      "name": "--x3 Walking Speed | --3倍行走速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "ACFAAC",
@@ -421,10 +367,8 @@
       ]
     },
     {
-      "name": "--x4 Walking Speed",
-      "description": "",
+      "name": "--x4 Walking Speed | --4倍行走速度",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "ACFAAC",
@@ -434,10 +378,8 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
-      "description": "",
+      "name": "Infinite Skill Points | 无限技能点数",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BA38",
@@ -452,10 +394,8 @@
       ]
     },
     {
-      "name": "Durable Weapons And Armour",
-      "description": "",
+      "name": "Durable Weapons And Armour | 耐用武器与护甲",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BA68",
@@ -470,10 +410,8 @@
       ]
     },
     {
-      "name": "Max Weight 99999",
-      "description": "",
+      "name": "Max Weight 99999 | 最大负重99999",
       "type": "checkbox",
-      "hint": "null",
       "memory": [
         {
           "offset": "293BA83",

@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "10132CA",
           "on": "9090909090",
           "off": "E8A165FFFF"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "FFC8B3",
           "on": "9090909090",
           "off": "E8386C48FF"
@@ -29,7 +27,7 @@
       ]
     },
     {
-      "name": "Max Lives ( on gain / lose )",
+      "name": "Max Lives ( on gain / lose ) | 最大生命数（获得/失去时）",
       "type": "checkbox",
       "memory": [
         {
@@ -45,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Items ( collect 2 )",
+      "name": "Max Items ( collect 2 ) | 最大道具（收集2个）",
       "type": "checkbox",
       "memory": [
         {

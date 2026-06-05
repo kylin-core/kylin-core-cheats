@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP",
+      "name": "Infinite HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Bolt / Arrows",
+      "name": "Infinite Bolt / Arrows | 无限弩箭/弓箭",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Item",
+      "name": "Infinite Item | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "ADD Item",
+      "name": "ADD Item | 添加道具",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "ADD Cash",
+      "name": "ADD Cash | 添加金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Infinite Durability/No Buggy Damage",
+      "name": "Infinite Durability/No Buggy Damage | 无限耐久/无越野车损伤",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina ",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "STOP Timer : Main Game",
+      "name": "STOP Timer : Main Game | 停止计时：主线游戏",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "STOP Timer : Bozak DLC",
+      "name": "STOP Timer : Bozak DLC | 停止计时：波扎克DLC",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Infinite Fuel",
+      "name": "Infinite Fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {

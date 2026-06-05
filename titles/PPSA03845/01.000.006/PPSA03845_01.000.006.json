@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infi HP",
+      "name": "Infi HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Reduction (Money,Node, Etc)",
+      "name": "No Reduction (Money,Node, Etc) | 不减消耗（金钱、节点等）",
       "type": "checkbox",
       "memory": [
         {

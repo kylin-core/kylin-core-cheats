@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Ary and the Secret of Seasons" Moder="saso" Cusa="CUSA13262" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FEA38C0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill">
+    <Cheat Text="Easy Kill | 一击必杀">
         <Cheatline>
             <Offset>7FEA38E0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold / Consumables (On Get / Spend)">
+    <Cheat Text="Max Gold / Consumables (On Get / Spend) | 最大金币/消耗品（获取/花费时）">
         <Cheatline>
             <Offset>7FEA3900</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>7FEA3970</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Extra Jump">
+    <Cheat Text="Super Extra Jump | 超级二段跳">
         <Cheatline>
             <Offset>7FEA3990</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Default Jump (Use With Super Jump)">
+    <Cheat Text="Default Jump (Use With Super Jump) | 默认跳跃（与超级跳跃配合使用）">
         <Cheatline>
             <Offset>113970</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C7-47-3C-00-C0-0A-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Default Extra Jump (Use With Super Extra Jump)">
+    <Cheat Text="Default Extra Jump (Use With Super Extra Jump) | 默认二段跳（与超级二段跳配合使用）">
         <Cheatline>
             <Offset>113990</Offset>
             <Section>0</Section>

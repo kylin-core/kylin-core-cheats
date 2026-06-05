@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Nights of Azure 2: Bride of the New Moon" Moder="Reddevil82 " Cusa="CUSA09910" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode Infinite Health + One Hit Kill ( must be activate )">
+    <Cheat Text="Mastercode Infinite Health + One Hit Kill ( must be activate ) | 大师代码无限生命+一击必杀（需激活）">
         <Cheatline>
             <Offset>B87DAB</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health [MC]">
+    <Cheat Text="Infinite Health [MC] | 无限生命 [MC]">
         <Cheatline>
             <Offset>B87DB6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>43-8B-44-BD-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill [MC]">
+    <Cheat Text="One Hit Kill [MC] | 一击必杀 [MC]">
         <Cheatline>
             <Offset>B87DC9</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>43-8B-44-BD-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MP">
+    <Cheat Text="Infinite MP | 无限魔力">
         <Cheatline>
             <Offset>B87F20</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Skill no Cooldown">
+    <Cheat Text="Skill no Cooldown | 技能无冷却">
         <Cheatline>
             <Offset>B87E04</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Double Chase Gauge">
+    <Cheat Text="Infinite Double Chase Gauge | 无限双重追击槽">
         <Cheatline>
             <Offset>B87E19</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Tension Gauge">
+    <Cheat Text="Max Tension Gauge | 满张力槽">
         <Cheatline>
             <Offset>B87E33</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Blood">
+    <Cheat Text="Max Blood | 满鲜血量">
         <Cheatline>
             <Offset>B87E48</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Libra">
+    <Cheat Text="Max Libra | 满天秤值">
         <Cheatline>
             <Offset>B87E5F</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ability Points">
+    <Cheat Text="Max Ability Points | 满能力点">
         <Cheatline>
             <Offset>B87E76</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Servan Points">
+    <Cheat Text="Max Servan Points | 满Servan点数">
         <Cheatline>
             <Offset>B87E8D</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level Aluche">
+    <Cheat Text="Max Level Aluche | 阿露谢满级">
         <Cheatline>
             <Offset>B87EA3</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max XP Lilly ( on gain )">
+    <Cheat Text="Max XP Lilly ( on gain ) | 莉莉满经验（获得时）">
         <Cheatline>
             <Offset>B87EB6</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Affinity Level">
+    <Cheat Text="Max Affinity Level | 满羁绊等级">
         <Cheatline>
             <Offset>B87ECD</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Combo ( on gain )">
+    <Cheat Text="Max Combo ( on gain ) | 满连击（获得时）">
         <Cheatline>
             <Offset>B87EE0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Moon Phase">
+    <Cheat Text="Infinite Moon Phase | 无限月相">
         <Cheatline>
             <Offset>B87EF3</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Mission Timer">
+    <Cheat Text="Freeze Mission Timer | 冻结任务计时">
         <Cheatline>
             <Offset>271748</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C5-FA-5C-45-E4</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Mission Timer ( 1 hour )">
+    <Cheat Text="Set Mission Timer ( 1 hour ) | 设置任务计时（1小时）">
         <Cheatline>
             <Offset>B87F06</Offset>
             <Section>0</Section>

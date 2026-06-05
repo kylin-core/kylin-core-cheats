@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sword and Fairy : Together Forever" Moder="Wander FW9.00" Cusa="CUSA29794" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7D46BB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience">
+    <Cheat Text="Max Experience | 最大经验">
         <Cheatline>
             <Offset>7D46C00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items (on use)">
+    <Cheat Text="Max Items (on use) | 使用物品最大数量">
         <Cheatline>
             <Offset>7D46C70</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max coins">
+    <Cheat Text="Max coins | 最大金币">
         <Cheatline>
             <Offset>7D46CF0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gift points (on spend)">
+    <Cheat Text="Max Gift points (on spend) | 消耗礼物最大好感度">
         <Cheatline>
             <Offset>7D46AA0</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lords of the Fallen" Moder="cjwine" Cusa="CUSA02468" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="GOD MODE">
+    <Cheat Text="GOD MODE | 上帝模式">
         <Cheatline>
             <Offset>1AB38C7</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Energy">
+    <Cheat Text="Infinite Energy | 无限能量">
         <Cheatline>
             <Offset>231E31</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-5B-7C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX XP">
+    <Cheat Text="MAX XP | 最大经验值">
         <Cheatline>
             <Offset>1AB381F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Magic">
+    <Cheat Text="Infinite Magic | 无限魔法">
         <Cheatline>
             <Offset>1AB3841</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="ap max after used">
+    <Cheat Text="ap max after used | 使用后最大活力">
         <Cheatline>
             <Offset>1AB385E</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="sp max after used">
+    <Cheat Text="sp max after used | 使用后最大法力">
         <Cheatline>
             <Offset>1AB386D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max luck after used">
+    <Cheat Text="max luck after used | 使用后最大幸运">
         <Cheatline>
             <Offset>1AB387C</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="MAX Agility after used">
+    <Cheat Text="MAX Agility after used | 使用后最大敏捷">
         <Cheatline>
             <Offset>1AB388B</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max Strength after used">
+    <Cheat Text="max Strength after used | 使用后最大力量">
         <Cheatline>
             <Offset>1AB389A</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max Faith after used">
+    <Cheat Text="max Faith after used | 使用后最大信仰">
         <Cheatline>
             <Offset>1AB38A9</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max Life Force after used">
+    <Cheat Text="max Life Force after used | 使用后最大生命力">
         <Cheatline>
             <Offset>1AB38B8</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Runes 999 after used">
+    <Cheat Text="Runes 999 after used | 使用后符文999">
         <Cheatline>
             <Offset>1AB38E3</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="SPEED RUN">
+    <Cheat Text="SPEED RUN | 极速奔跑">
         <Cheatline>
             <Offset>1AB38F2</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="FLY MODE(jumper fly turn off down then turn on walk air down)">
+    <Cheat Text="FLY MODE(jumper fly turn off down then turn on walk air down) | 飞行模式（跳伞飞行，先关闭下落，再开启空中行走）">
         <Cheatline>
             <Offset>1AB392C</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="one hit kill">
+    <Cheat Text="one hit kill | 一击必杀">
         <Cheatline>
             <Offset>1AB3953</Offset>
             <Section>0</Section>

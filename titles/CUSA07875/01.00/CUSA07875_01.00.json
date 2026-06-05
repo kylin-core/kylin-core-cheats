@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Dev Menu = L3 + L Touch Pad",
-      "hint": null,
+      "name": "Dev Menu = L3 + L Touch Pad | 开发者菜单 = 左摇杆按下 + 触摸板左键",
       "type": "checkbox",
       "memory": [
         {

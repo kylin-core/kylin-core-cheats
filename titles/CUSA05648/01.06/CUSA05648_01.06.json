@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health / (Master Code)",
+      "name": "Infinite Health / (Master Code) | 无限生命 / (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Mana (MC)",
+      "name": "Infinite Mana (MC) | 无限法力 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / No Reload (MC)",
+      "name": "Infinite Ammo / No Reload (MC) | 无限弹药 / 无需装弹 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Plasma (MC)",
+      "name": "Infinite Plasma (MC) | 无限等离子 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max Skill Points 99 (MC)",
+      "name": "Max Skill Points 99 (MC) | 技能点上限99 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Max Money 1M (MC)/ Turn Off To Collect More",
+      "name": "Max Money 1M (MC)/ Turn Off To Collect More | 金币上限100万 (主代码)/ 关闭后继续收集",
       "type": "checkbox",
       "memory": [
         {

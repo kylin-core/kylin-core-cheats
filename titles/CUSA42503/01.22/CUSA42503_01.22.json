@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite-Health",
+      "name": "Infinite-Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf-Ammo-Never-Reload",
+      "name": "Inf-Ammo-Never-Reload | 无限弹药无需装填",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "MAX-SkillS-Points",
+      "name": "MAX-SkillS-Points | 满技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "MAX-All-Items",
+      "name": "MAX-All-Items | 全物品最大",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite-Ammo",
+      "name": "Infinite-Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Rapid-Fire",
+      "name": "Rapid-Fire | 快速射击",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "one-Hit-Kill",
+      "name": "one-Hit-Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

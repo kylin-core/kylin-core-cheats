@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode Health ( must be activated )",
+      "name": "Mastercode Health ( must be activated ) | 主码生命值（需激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health [MC]",
+      "name": "Infinite Health [MC] | 无限生命值 [主码]",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [MC] ( Disable Anesthetize )",
+      "name": "One Hit Kill [MC] ( Disable Anesthetize ) | 一击必杀 [主码]（禁用麻醉）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Enemies only Anesthetize [MC] ( Disable One Hit Kill )",
+      "name": "Enemies only Anesthetize [MC] ( Disable One Hit Kill ) | 仅麻醉敌人 [主码]（禁用一击必杀）",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "No Reload ( Weapon )",
+      "name": "No Reload ( Weapon ) | 无需装弹（武器）",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Freeze Enemies",
+      "name": "Freeze Enemies | 冻结敌人",
       "type": "checkbox",
       "memory": [
         {

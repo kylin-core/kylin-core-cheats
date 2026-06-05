@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="BLUE REFLECTION: Second Light" Moder="Wander FW9.00" Cusa="CUSA25335" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>141B5C0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite EP (turn off at the tutorial)">
+    <Cheat Text="Infinite EP (turn off at the tutorial) | 无限EP（教程结束时关闭）">
         <Cheatline>
             <Offset>141B9B0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Experience Multiplier by 500">
+    <Cheat Text="Experience Multiplier by 500 | 经验值500倍">
         <Cheatline>
             <Offset>141B950</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Experience Multiplier by 10000 (disable previous one)">
+    <Cheat Text="Experience Multiplier by 10000 (disable previous one) | 经验值10000倍（禁用上一项）">
         <Cheatline>
             <Offset>141B950</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="80 items (on pickup and Craft)">
+    <Cheat Text="80 items (on pickup and Craft) | 80个物品（拾取与制作时）">
         <Cheatline>
             <Offset>141BBD0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="90 TP (on spend )">
+    <Cheat Text="90 TP (on spend ) | 90TP（消耗时）">
         <Cheatline>
             <Offset>141BC10</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rogue Stormers" Moder="Weysincha" Cusa="CUSA06072" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>4ABC09</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-95-60-03-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Gold">
+    <Cheat Text="Inf Gold | 无限金币">
         <Cheatline>
             <Offset>12BF800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Max EXP">
+    <Cheat Text="Inf Max EXP | 无限最大经验值">
         <Cheatline>
             <Offset>12BF810</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo">
+    <Cheat Text="Inf Ammo | 无限弹药">
         <Cheatline>
             <Offset>4B8D8F</Offset>
             <Section>0</Section>

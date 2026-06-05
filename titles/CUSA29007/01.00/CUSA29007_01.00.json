@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health Seryngs",
+      "name": "Infinite Health Seryngs | 无限生命补给",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Ammo/No Reload",
+      "name": "Max/Infinite Ammo/No Reload | 最大/无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables (After Getting Throwables)",
+      "name": "Infinite Throwables (After Getting Throwables) | 无限投掷物（获取投掷物后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Money (Buy On Refill Inventory N Turn Off)",
+      "name": "Max Money (Buy On Refill Inventory N Turn Off) | 最大金钱（购买时自动补充库存并关闭）",
       "type": "checkbox",
       "memory": [
         {

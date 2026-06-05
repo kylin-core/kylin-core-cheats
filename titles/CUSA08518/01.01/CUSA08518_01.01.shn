@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DRAGON QUEST XI: Echoes of an Elusive Age" Moder="Faizzudin" Cusa="CUSA08518" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Money Gain After Battle Is Always +500(Disable Exp Cheat)">
+    <Cheat Text="Money Gain After Battle Is Always +500(Disable Exp Cheat) | 战后金钱获得固定+500（关闭经验作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money Gain After Battle Is Always +1K(Disable Exp Cheat)">
+    <Cheat Text="Money Gain After Battle Is Always +1K(Disable Exp Cheat) | 战后金钱获得固定+1K（关闭经验作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money Gain After Battle Is Always +10K(Disable Exp Cheat)">
+    <Cheat Text="Money Gain After Battle Is Always +10K(Disable Exp Cheat) | 战后金钱获得固定+10K（关闭经验作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money Gain After Battle Is Always +100K(Disable Exp Cheat)">
+    <Cheat Text="Money Gain After Battle Is Always +100K(Disable Exp Cheat) | 战后金钱获得固定+100K（关闭经验作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item Increase Upon Use/Sell(Dont Use In Battle)">
+    <Cheat Text="Item Increase Upon Use/Sell(Dont Use In Battle) | 使用/出售道具时数量增加（战斗中勿用）">
         <Cheatline>
             <Offset>125A5D8</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Exp Gain(+1K)(Disable Money Cheat)">
+    <Cheat Text="Quick Exp Gain(+1K)(Disable Money Cheat) | 快速获得经验（+1K）（关闭金钱作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Exp Gain After Battle(+5K)(Disable Money Cheat)">
+    <Cheat Text="Quick Exp Gain After Battle(+5K)(Disable Money Cheat) | 战后快速获得经验（+5K）（关闭金钱作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Exp Gain After Battle(+10K)(Disable Money Cheat)">
+    <Cheat Text="Quick Exp Gain After Battle(+10K)(Disable Money Cheat) | 战后快速获得经验（+10K）（关闭金钱作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Exp Gain After Battle(+100K)(Disable Money Cheat)">
+    <Cheat Text="Quick Exp Gain After Battle(+100K)(Disable Money Cheat) | 战后快速获得经验（+100K）（关闭金钱作弊）">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Focus Point">
+    <Cheat Text="Infinite Focus Point | 无限集中力">
         <Cheatline>
             <Offset>1E8874E</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>41-29-86-98-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perfectionist Pearl Gain Extra 10">
+    <Cheat Text="Perfectionist Pearl Gain Extra 10 | 完美珍珠额外获得10">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perfectionist Pearl Gain Extra 50">
+    <Cheat Text="Perfectionist Pearl Gain Extra 50 | 完美珍珠额外获得50">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perfectionist Pearl Gain Extra 100">
+    <Cheat Text="Perfectionist Pearl Gain Extra 100 | 完美珍珠额外获得100">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Perfectionist Pearl Gain Extra 500">
+    <Cheat Text="Perfectionist Pearl Gain Extra 500 | 完美珍珠额外获得500">
         <Cheatline>
             <Offset>71BF800</Offset>
             <Section>0</Section>

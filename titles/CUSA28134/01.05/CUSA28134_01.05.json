@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Experience / level / AP / LP (on 2nd fight)",
+      "name": "Experience / level / AP / LP (on 2nd fight) | 经验/等级/AP/LP（第二场战斗后）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5E380",
           "on": "41C744871C0F270000E91DEAF580",
           "off": "0000000000000000000000000000"
@@ -22,11 +21,10 @@
       ]
     },
     {
-      "name": "Elexit / All items (on gain and spent)",
+      "name": "Elexit / All items (on gain and spent) | 艾莱克西特/全部物品（获得及消耗时）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "3",
           "offset": "5F9E0",
           "on": "C7473C9F860100488B4708E9D311E280",
           "off": "00000000000000000000000000000000"

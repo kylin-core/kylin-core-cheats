@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Baldo The guardian owls" Moder="Wander Fw9.00" Cusa="CUSA27312" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>29C51C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-48-3C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Run">
+    <Cheat Text="Infinite Run | 无限奔跑">
         <Cheatline>
             <Offset>18524F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-47-5C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items Multiplier on use (dont go over 9000)">
+    <Cheat Text="Items Multiplier on use (dont go over 9000) | 物品使用倍率（请勿超过9000）">
         <Cheatline>
             <Offset>29C2B5</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>66-89-74-51-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9999 items on sell in shop (turn off Multiplier)">
+    <Cheat Text="9999 items on sell in shop (turn off Multiplier) | 商店出售9999物品（关闭倍率）">
         <Cheatline>
             <Offset>18D6C50</Offset>
             <Section>0</Section>

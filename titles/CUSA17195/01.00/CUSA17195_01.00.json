@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Exp",
+      "name": "Max Exp | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Exp x32",
+      "name": "Exp x32 | 经验值32倍",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite AG",
+      "name": "Infinite AG | 无限AG",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Refill HP by equiping",
+      "name": "Refill HP by equiping | 装备时回复HP",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Max Stats by equiping",
+      "name": "Max Stats by equiping | 装备时全属性最大",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "SP",
+      "name": "SP | SP点数",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "99 item (use, drop, pick, cook, refine, buy / sell)",
+      "name": "99 item (use, drop, pick, cook, refine, buy / sell) | 99物品（使用、掉落、拾取、烹饪、精炼、买卖）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Gald",
+      "name": "Gald | 金币",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Arte Max Count",
+      "name": "Arte Max Count | 术技最大计数",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "No Cooldown Boost Attack",
+      "name": "No Cooldown Boost Attack | 爆裂攻击无冷却",
       "type": "checkbox",
       "memory": [
         {

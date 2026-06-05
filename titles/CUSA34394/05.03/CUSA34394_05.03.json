@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
+      "name": "TRAINER INFO (read only) | 训练器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
+      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA] | 上帝模式（无敌+无特效）[请勿在英灵殿中使用]",
       "type": "checkbox",
       "memory": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "No Damage Taken",
+      "name": "No Damage Taken | 不受伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "No XP,HS, Resources subtracted when used",
+      "name": "No XP,HS, Resources subtracted when used | 使用时不消耗经验值、资源与材料",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "No Crafting And Upgrade Limits",
+      "name": "No Crafting And Upgrade Limits | 无制作与升级限制",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Arrows and Throwables [DO NOT USE IN VALHALLA]",
+      "name": "Infinite Arrows and Throwables [DO NOT USE IN VALHALLA] | 无限箭矢与投掷物 [请勿在英灵殿中使用]",
       "type": "checkbox",
       "memory": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "Infinite Rage (incl. Kratos and Atreus)",
+      "name": "Infinite Rage (incl. Kratos and Atreus) | 无限怒火（包括奎托斯与阿特柔斯）",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA]",
+      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA] | 伤害倍率（主代码）[请勿在英灵殿中使用]",
       "type": "checkbox",
       "memory": [
         {
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": "--5x damage",
+      "name": "--5x damage | --5倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "--10x damage",
+      "name": "--10x damage | --10倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "name": "--20x damage",
+      "name": "--20x damage | --20倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "--30x damage",
+      "name": "--30x damage | --30倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "--40x damage",
+      "name": "--40x damage | --40倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "--50x damage",
+      "name": "--50x damage | --50倍伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "--100x damage (one hit kill)",
+      "name": "--100x damage (one hit kill) | --100倍伤害（一击必杀）",
       "type": "checkbox",
       "memory": [
         {
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "One Hit Stun [DO NOT USE IN VALHALLA]",
+      "name": "One Hit Stun [DO NOT USE IN VALHALLA] | 一击眩晕 [请勿在英灵殿中使用]",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Infinite Max Shield Charge",
+      "name": "Infinite Max Shield Charge | 无限最大盾牌充能",
       "type": "checkbox",
       "memory": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "name": "No Talisman and Relic Cooldown",
+      "name": "No Talisman and Relic Cooldown | 护符与遗物无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "name": "Infinite Weapon Charge (L1+Triangle)",
+      "name": "Infinite Weapon Charge (L1+Triangle) | 无限武器充能（L1+三角键）",
       "type": "checkbox",
       "memory": [
         {

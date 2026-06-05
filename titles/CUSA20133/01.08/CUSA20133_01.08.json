@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Health / Stamina / Resolve / Speed (Master Code)",
+      "name": "Health / Stamina / Resolve / Speed (Master Code) | 生命/耐力/决心/速度 (主代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "X2 Sprint Speed",
+      "name": "X2 Sprint Speed | 2倍冲刺速度",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "X3 Sprint Speed",
+      "name": "X3 Sprint Speed | 3倍冲刺速度",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Tar (65535)",
+      "name": "Tar (65535) | 焦油 (65535)",
       "type": "checkbox",
       "memory": [
         {

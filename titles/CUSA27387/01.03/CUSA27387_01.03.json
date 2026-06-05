@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (required by other cheats)",
+      "name": "Master Code (required by other cheats) | 主代码（其他作弊码所需）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Obol (activates on coin loot)",
+      "name": "Infinite Obol (activates on coin loot) | 无限奥波（拾取金币时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite health",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {

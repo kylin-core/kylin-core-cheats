@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health",
+      "name": "Max Health | 生命值上限",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "XP x2",
+      "name": "XP x2 | 经验值加倍",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Money x2",
+      "name": "Money x2 | 金钱加倍",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Items x99",
+      "name": "Items x99 | 物品x99",
       "type": "checkbox",
       "memory": [
         {

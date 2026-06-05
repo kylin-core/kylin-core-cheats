@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Coins Multiplier",
+      "name": "Coins Multiplier | 金币倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Skill Fire Multiplier",
+      "name": "Skill Fire Multiplier | 技能火焰倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Bushido Spirit Points Multiplier",
+      "name": "Bushido Spirit Points Multiplier | 武士道精神点数倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷道具",
       "type": "checkbox",
       "memory": [
         {

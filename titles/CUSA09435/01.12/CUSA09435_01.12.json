@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Stop Timer",
-      "description": "",
+      "name": "Stop Timer | 停止计时",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Restart Counter",
-      "description": "",
+      "name": "Restart Counter | 重置计数器",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "--number",
-      "description": "0 Restarts",
+      "name": "--number | --数字",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Multiplier Gold",
-      "description": "",
+      "name": "Multiplier Gold | 金币倍率",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "--gold",
-      "description": "999999 Each race",
+      "name": "--gold | --金币",
       "type": "checkbox",
       "memory": [
         {
@@ -75,8 +70,7 @@
       ]
     },
     {
-      "name": "Easy Exp",
-      "description": "",
+      "name": "Easy Exp | 轻松经验",
       "type": "checkbox",
       "memory": [
         {
@@ -92,8 +86,7 @@
       ]
     },
     {
-      "name": "--exper",
-      "description": "999999 ExpEach Race",
+      "name": "--exper | --经验值",
       "type": "checkbox",
       "memory": [
         {

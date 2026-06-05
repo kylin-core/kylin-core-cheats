@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (Must always be enabled)",
+      "name": "Master Code (Must always be enabled) | 主控代码（必须始终启用）",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Ghost Mode",
+      "name": "Ghost Mode | 幽灵模式",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Max Morale",
+      "name": "Max Morale | 最大士气",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "Max Spirit",
+      "name": "Max Spirit | 最大气力",
       "type": "checkbox",
       "memory": [
         {
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "Max Genuine Qi",
+      "name": "Max Genuine Qi | 最大真气",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Infinite Buff Duration",
+      "name": "Infinite Buff Duration | 无限增益持续时间",
       "type": "checkbox",
       "memory": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "World Speed (Master-Code)",
+      "name": "World Speed (Master-Code) | 世界速度（主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "name": "---x0.5 Speed",
+      "name": "---x0.5 Speed | ---0.5倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "---x2 Speed",
+      "name": "---x2 Speed | ---2倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "---x3 Speed",
+      "name": "---x3 Speed | ---3倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "name": "---x4 Speed",
+      "name": "---x4 Speed | ---4倍速度",
       "type": "checkbox",
       "memory": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Max Accolades (On Buy)",
+      "name": "Max Accolades (On Buy) | 最大荣誉（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "99 Dragon Cure Potions (On use)",
+      "name": "99 Dragon Cure Potions (On use) | 99条龙愈药（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "Infinite Copper",
+      "name": "Infinite Copper | 无限铜钱",
       "type": "checkbox",
       "memory": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "Infinite Wizardry Spells (On use)",
+      "name": "Infinite Wizardry Spells (On use) | 无限奇术（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables (On use)",
+      "name": "Infinite Throwables (On use) | 无限投掷物（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "name": "Instant Beast Power Charge",
+      "name": "Instant Beast Power Charge | 瞬间神兽之力充能",
       "type": "checkbox",
       "memory": [
         {
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "name": "Infinite Tiger Beast Duration",
+      "name": "Infinite Tiger Beast Duration | 无限白虎持续时间",
       "type": "checkbox",
       "memory": [
         {

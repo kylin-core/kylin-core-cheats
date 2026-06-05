@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Venom (after 1st charge activate only after defeating Rhino)",
+      "name": "Infinite Venom (after 1st charge activate only after defeating Rhino) | 无限毒液（首次充能后激活，需击败犀牛人后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Gadget use",
+      "name": "Infinite Gadget use | 无限道具使用",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Experience (activate once)",
+      "name": "Max Experience (activate once) | 最大经验值（激活一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max skill points (on spend have 2)",
+      "name": "Max skill points (on spend have 2) | 最大技能点数（使用后保留2点）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max infinite Resources (on spend on gadget and suits activate after the toturial)",
+      "name": "Max infinite Resources (on spend on gadget and suits activate after the toturial) | 无限最大资源（用于道具和战衣消耗，教程后激活）",
       "type": "checkbox",
       "memory": [
         {

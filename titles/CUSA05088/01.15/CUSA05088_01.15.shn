@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Ball Xenoverse 2" Moder="Rizla" Cusa="CUSA05088" Version="01.15" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Zeni on Gain/Spend">
+    <Cheat Text="Max Zeni on Gain/Spend | 金钱增减最大化">
         <Cheatline>
             <Offset>27AB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max TP/ZP on Spend">
+    <Cheat Text="Max TP/ZP on Spend | TP/ZP消费最大化">
         <Cheatline>
             <Offset>27AB81F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Attribute Points">
+    <Cheat Text="Max Attribute Points | 属性点数最大化">
         <Cheatline>
             <Offset>27AB83F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Item on Buy (Use TP Only to Buy)">
+    <Cheat Text="Max Item on Buy (Use TP Only to Buy) | 购买物品最大化（仅限TP购买）">
         <Cheatline>
             <Offset>27AB800</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>27AB800</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite KI">
+    <Cheat Text="Infinite KI | 无限气力">
         <Cheatline>
             <Offset>27AB815</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>27AB82A</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer">
+    <Cheat Text="Freeze Timer | 时间冻结">
         <Cheatline>
             <Offset>3870AE</Offset>
             <Section>0</Section>

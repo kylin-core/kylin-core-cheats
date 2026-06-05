@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "god mode",
+      "name": "god mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "money max",
+      "name": "money max | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "one hit kill",
+      "name": "one hit kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "inf mp",
+      "name": "inf mp | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "max lv99",
+      "name": "max lv99 | 最大等级99",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "add point after used",
+      "name": "add point after used | 使用后加点",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "item buy get max",
+      "name": "item buy get max | 购买物品最大数量",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "item  used get more",
+      "name": "item used get more | 使用物品获取更多",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "SPPED UP",
+      "name": "SPPED UP | 加速",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "fly to sky (wall pass)",
+      "name": "fly to sky (wall pass) | 飞空（穿墙）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sd Gundam G Generation Cross Rays" Moder="zeth001" Cusa="CUSA16319" Version="01.65" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinie MP">
+    <Cheat Text="Infinie MP | 无限MP">
         <Cheatline>
             <Offset>7FFCC0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money">
+    <Cheat Text="Money | 金钱">
         <Cheatline>
             <Offset>11EB74</Offset>
             <Section>0</Section>

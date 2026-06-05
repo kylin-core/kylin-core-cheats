@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/Easy Kill/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON)",
+      "name": "Infinite Health/Easy Kill/Energy/Polymeric Ability/Shock/Dash (MASTERCODE/MUST BE ON) | 无限生命/秒杀/能量/聚合物能力/电击/冲刺（主控代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 秒杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite energy",
+      "name": "Infinite energy | 无限能量",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Polymeric Ability",
+      "name": "Infinite Polymeric Ability | 无限聚合物能力",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Shock",
+      "name": "Infinite Shock | 无限电击",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Dash",
+      "name": "Infinite Dash | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Infinite Neuropolymer/Resources (On Pick Up)",
+      "name": "Infinite Neuropolymer/Resources (On Pick Up) | 无限神经聚合物/资源（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Infinite Neuropolymer/Resources (On use)",
+      "name": "Infinite Neuropolymer/Resources (On use) | 无限神经聚合物/资源（使用后）",
       "type": "checkbox",
       "memory": [
         {

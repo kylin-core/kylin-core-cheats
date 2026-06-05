@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Costume Quest 2" Moder="Molly" Cusa="CUSA01202" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Candy">
+    <Cheat Text="Max Candy | 最大糖果">
         <Cheatline>
             <Offset>AA7800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Quick Level Up">
+    <Cheat Text="Quick Level Up | 快速升级">
         <Cheatline>
             <Offset>AA7831</Offset>
             <Section>0</Section>

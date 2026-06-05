@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Lives",
+      "name": "Max Lives | 最大生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill ( dont use on boss )",
+      "name": "One Hit Kill ( dont use on boss ) | 一击必杀（请勿对Boss使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Coins ( on gain )",
+      "name": "Max Coins ( on gain ) | 最大金币（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Combo",
+      "name": "Max Combo | 最大连击",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Medailles",
+      "name": "Max Medailles | 最大奖章",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Cokiajs",
+      "name": "Max Cokiajs | 最大科基亚",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Infinite Combo Time",
+      "name": "Infinite Combo Time | 无限连击时间",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Mastercode: Infinite Items Time ( after use )",
+      "name": "Mastercode: Infinite Items Time ( after use ) | 主代码：无限道具时间（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Infinite Fire Boost Time [MC] ( after use  )",
+      "name": "Infinite Fire Boost Time [MC] ( after use  ) | 无限火焰强化时间 [主代码]（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Infinite Ice Boost Time [MC] ( after use  )",
+      "name": "Infinite Ice Boost Time [MC] ( after use  ) | 无限冰霜强化时间 [主代码]（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Infinite Invincible Time [MC] ( after use  )",
+      "name": "Infinite Invincible Time [MC] ( after use  ) | 无限无敌时间 [主代码]（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Infinite Attack Boost Time [MC] ( after use  )",
+      "name": "Infinite Attack Boost Time [MC] ( after use  ) | 无限攻击强化时间 [主代码]（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {

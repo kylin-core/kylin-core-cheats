@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code",
+      "name": "Master Code | 主代码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "7",
           "offset": "B73D9",
           "on": "909090909090",
           "off": "89B764020000"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Experience (on the second moster kill)",
+      "name": "Max Experience (on the second moster kill) | 最高经验（击杀第二只怪物时）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Max col (on buy and sell exit shop and return)",
+      "name": "Max col (on buy and sell exit shop and return) | 最大柯尔（进出商店买卖后返回时）",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite items (on use) (deactivate when buying items)",
+      "name": "Infinite items (on use) (deactivate when buying items) | 无限道具（使用时激活，购买道具时停用）",
       "type": "checkbox",
       "memory": [
         {

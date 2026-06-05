@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo (No reload)",
+      "name": "Infinite Ammo (No reload) | 无限弹药（无需装填）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "46",
           "offset": "1D8666",
           "on": "90909090909090",
           "off": "418986F0000000"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Stupid Zombies",
+      "name": "Stupid Zombies | 愚蠢僵尸",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "9,999,999 Total Points on Gain",
+      "name": "9,999,999 Total Points on Gain | 获得时总点数9,999,999",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "9,999,999 Player Points on Gain",
+      "name": "9,999,999 Player Points on Gain | 获得时玩家点数9,999,999",
       "type": "checkbox",
       "memory": [
         {

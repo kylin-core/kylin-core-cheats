@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Deep Rock Galactic" Moder="Reddevil82 - FW 9.00" Cusa="CUSA15094" Version="01.33" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Oxygen">
+    <Cheat Text="Infinite Oxygen | 无限氧气">
         <Cheatline>
             <Offset>623F800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bosco Revives">
+    <Cheat Text="Max Bosco Revives | 最大博斯科复活次数">
         <Cheatline>
             <Offset>623F826</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Overheat">
+    <Cheat Text="No Overheat | 不过热">
         <Cheatline>
             <Offset>623F83D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Overheat Drill">
+    <Cheat Text="No Overheat Drill | 钻机不过热">
         <Cheatline>
             <Offset>623F856</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Drill Fuel">
+    <Cheat Text="Infinite Drill Fuel | 无限钻机燃料">
         <Cheatline>
             <Offset>623F868</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Flares">
+    <Cheat Text="Infinite Flares | 无限照明弹">
         <Cheatline>
             <Offset>623FDC7</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo ( Primary )">
+    <Cheat Text="Max Ammo ( Primary ) | 最大弹药 (主武器)">
         <Cheatline>
             <Offset>623F88D</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo ( Secondary )">
+    <Cheat Text="Max Ammo ( Secondary ) | 最大弹药 (副武器)">
         <Cheatline>
             <Offset>623F8A4</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Shield Generator">
+    <Cheat Text="Max Shield Generator | 最大护盾发生器">
         <Cheatline>
             <Offset>623F8B5</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Grenades ( on use )">
+    <Cheat Text="Max Grenades ( on use ) | 最大手雷 (使用后)">
         <Cheatline>
             <Offset>623F8CC</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需换弹">
         <Cheatline>
             <Offset>CB33C8</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>2B-83-30-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Clip Ammo">
+    <Cheat Text="Max Clip Ammo | 最大弹匣弹药">
         <Cheatline>
             <Offset>623F8DD</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Bosco Rockets">
+    <Cheat Text="Max Bosco Rockets | 最大博斯科火箭">
         <Cheatline>
             <Offset>623F8F4</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Credits">
+    <Cheat Text="Max Credits | 最大信用币">
         <Cheatline>
             <Offset>623FDB0</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Scrip">
+    <Cheat Text="Max Scrip | 最大兑换券">
         <Cheatline>
             <Offset>623F90B</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ressources">
+    <Cheat Text="Max Ressources | 最大资源">
         <Cheatline>
             <Offset>623F920</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Perks ( on use )">
+    <Cheat Text="Max Perks ( on use ) | 最大特长 (使用后)">
         <Cheatline>
             <Offset>623F935</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Performance">
+    <Cheat Text="Max Performance | 最大性能">
         <Cheatline>
             <Offset>623F94C</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer ( Mission )">
+    <Cheat Text="Freeze Timer ( Mission ) | 冻结任务计时器">
         <Cheatline>
             <Offset>AB431B</Offset>
             <Section>0</Section>

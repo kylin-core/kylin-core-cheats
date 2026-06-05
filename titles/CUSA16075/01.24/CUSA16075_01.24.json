@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max/Infinite Health/1 Shot Kills (Master Code)",
+      "name": "Max/Infinite Health/1 Shot Kills (Master Code) | 最大/无限生命/一击必杀（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Health (Enable MC)",
+      "name": "Max/Infinite Health (Enable MC) | 最大/无限生命（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Shot Kills (Enable MC)",
+      "name": "1 Shot Kills (Enable MC) | 一击必杀（启用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina (For Running)",
+      "name": "Infinite Stamina (For Running) | 无限耐力（跑步时）",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Focus",
+      "name": "Infinite Focus | 无限专注力",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Ammo/Items",
+      "name": "Max/Infinite Ammo/Items | 最大/无限弹药/物品",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Max XP/Levels/Skill Points On Gain (Disable/Restart The Game)",
+      "name": "Max XP/Levels/Skill Points On Gain (Disable/Restart The Game) | 获得时最大经验/等级/技能点（禁用或重启游戏）",
       "type": "checkbox",
       "memory": [
         {

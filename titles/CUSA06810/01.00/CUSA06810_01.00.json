@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Refill + Infinite RP on Use| Selected Characters",
+      "name": "Refill + Infinite RP on Use| Selected Characters | 使用后无限技能点 | 指定角色",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Refill + Infinite HP When Hit| Selected Characters",
+      "name": "Refill + Infinite HP When Hit| Selected Characters | 受击时无限生命 | 指定角色",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Max Money On Sell",
+      "name": "Max Money On Sell | 出售时金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Items on Sell",
+      "name": "Max Items on Sell | 出售时物品最大",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Max Materials on Sell",
+      "name": "Max Materials on Sell | 出售时素材最大",
       "type": "checkbox",
       "memory": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Infinite Materials",
+      "name": "Infinite Materials | 无限素材",
       "type": "checkbox",
       "memory": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "Infinite Sub Weapons| Long Arms",
+      "name": "Infinite Sub Weapons| Long Arms | 无限副武器 | 长枪",
       "type": "checkbox",
       "memory": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "name": "Infinite Sub Weapons| Grenades",
+      "name": "Infinite Sub Weapons| Grenades | 无限副武器 | 手榴弹",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables Items in Battle",
+      "name": "Infinite Consumables Items in Battle | 战斗中无限消耗品",
       "type": "checkbox",
       "memory": [
         {

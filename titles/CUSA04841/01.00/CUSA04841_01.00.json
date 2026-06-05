@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "999 Minerals (on gain)",
+      "name": "999 Minerals (on gain) | 获得时999矿物",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "999 Minerals (on use)",
+      "name": "999 Minerals (on use) | 使用时999矿物",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "999 (on consume for food deactivate to discard items)",
+      "name": "999 (on consume for food deactivate to discard items) | 消耗食物时999（禁用丢弃物品）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "999 Salvaged Data (on spend)",
+      "name": "999 Salvaged Data (on spend) | 花费时999回收数据",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite jetpack",
+      "name": "Infinite jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Sprint",
+      "name": "Infinite Sprint | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "999999999 Units (on gain)",
+      "name": "999999999 Units (on gain) | 获得时999999999货币单位",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "999999999 Nanites (on gain",
+      "name": "999999999 Nanites (on gain) | 获得时999999999纳米星团",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Infinte Ammo",
+      "name": "Infinte Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Infinite Pet Sprint",
+      "name": "Infinite Pet Sprint | 宠物无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Infinite ExoMech Jetpack",
+      "name": "Infinite ExoMech Jetpack | 外骨骼机甲无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "999999999 Quicksilver (on spend)",
+      "name": "999999999 Quicksilver (on spend) | 花费时999999999水银",
       "type": "checkbox",
       "memory": [
         {

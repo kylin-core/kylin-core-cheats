@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health/Wrath Bottles Potion",
+      "name": "Infinite Health/Wrath Bottles Potion | 无限生命/愤怒瓶药水",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Wrath",
+      "name": "Infinite Wrath | 无限愤怒",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Horse Stamina",
+      "name": "Infinite Horse Stamina | 无限坐骑耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Reaper Power",
+      "name": "Infinite Reaper Power | 无限死神之力",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets",
+      "name": "Infinite Bullets | 无限子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points",
+      "name": "Max/Infinite Skill Points | 最大/无限技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Lot Of Money On Gain (Disable After Use)",
+      "name": "Lot Of Money On Gain (Disable After Use) | 大量金钱获取（使用后禁用）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Lot Of Boatman Coins (Disable After Use)",
+      "name": "Lot Of Boatman Coins (Disable After Use) | 大量船夫硬币获取（使用后禁用）",
       "type": "checkbox",
       "memory": [
         {

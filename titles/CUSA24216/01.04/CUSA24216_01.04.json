@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite HP (Ranged Damage)",
+      "name": "Infinite HP (Ranged Damage) | 无限生命（远程伤害）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite HP (close damage)",
+      "name": "Infinite HP (close damage) | 无限生命（近战伤害）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite SP Shuriken",
+      "name": "Infinite SP Shuriken | 无限SP飞镖",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite SP Rising fire",
+      "name": "Infinite SP Rising fire | 无限SP升龙火",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite SP Airstrike",
+      "name": "Infinite SP Airstrike | 无限SP空中攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinite SP Sprint Attack",
+      "name": "Infinite SP Sprint Attack | 无限SP冲刺攻击",
       "type": "checkbox",
       "memory": [
         {

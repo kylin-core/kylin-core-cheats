@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON)",
+      "name": "Infinite Health/1 Hit Kill (MASTERCODE/MUST BE ON) | 无限生命/一击必杀（主代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite FP",
+      "name": "Infinite FP | 无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Items/Potions/Arrows (On Pick Up/x2 To Work)",
+      "name": "Infinite Items/Potions/Arrows (On Pick Up/x2 To Work) | 无限道具/药水/箭矢（拾取时生效/需启用x2）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Flasks (On Use/x2 To Work)",
+      "name": "Infinite Flasks (On Use/x2 To Work) | 无限圣杯瓶（使用时生效/需启用x2）",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Runes",
+      "name": "Max/Infinite Runes | 最大/无限卢恩",
       "type": "checkbox",
       "memory": [
         {

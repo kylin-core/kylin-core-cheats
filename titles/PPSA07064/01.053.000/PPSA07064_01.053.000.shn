@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Lords of The Fallen" Moder="Yharnam" Cusa="PPSA07064" Version="01.053.000" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="God Mode">
+    <Cheat Text="God Mode | 上帝模式">
         <Cheatline>
             <Offset>547AB00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Weight Gain">
+    <Cheat Text="No Weight Gain | 无负重限制">
         <Cheatline>
             <Offset>1DD3D24</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-90-98-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Seed">
+    <Cheat Text="Infi Seed | 无限种子">
         <Cheatline>
             <Offset>547AC03</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Items">
+    <Cheat Text="Inf Items | 无限物品">
         <Cheatline>
             <Offset>21DF469</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Souls (get)">
+    <Cheat Text="Max Souls (get) | 最大灵魂（获取）">
         <Cheatline>
             <Offset>21133DC</Offset>
             <Section>0</Section>

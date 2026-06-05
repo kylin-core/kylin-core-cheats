@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,11 +21,10 @@
       ]
     },
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "635AC0",
           "on": "C5FA10404490",
           "off": "C5FA104424F4"
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Items",
+      "name": "Inf Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +48,7 @@
       ]
     },
     {
-      "name": "Super Jump (Master Code)",
+      "name": "Super Jump (Master Code) | 超级跳跃（主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -65,11 +64,10 @@
       ]
     },
     {
-      "name": "Xtera Super Jump (MC)",
+      "name": "Xtera Super Jump (MC) | 赛特拉超级跳跃（主代码）",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "409219B",
           "on": "48C7C30000C841",
           "off": "48C7C30000A641"

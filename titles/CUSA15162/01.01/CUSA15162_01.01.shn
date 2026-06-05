@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Toki" Moder="Saso" Cusa="CUSA15162" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Lives / Coins (Master Code)">
+    <Cheat Text="Lives / Coins (Master Code) | 生命/金币（主码）">
         <Cheatline>
             <Offset>17CEF00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Coins x99 (MC) Turn Off To Collect More">
+    <Cheat Text="Coins x99 (MC) Turn Off To Collect More | 金币x99（主码）关闭后可继续收集">
         <Cheatline>
             <Offset>17CEF21</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-0A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Time (Arcade Mode) Pause To Activate">
+    <Cheat Text="Freeze Time (Arcade Mode) Pause To Activate | 暂停时间（街机模式）暂停后激活">
         <Cheatline>
             <Offset>17CF000</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Resume Time (Use With Freeze Time)">
+    <Cheat Text="Resume Time (Use With Freeze Time) | 恢复时间（与暂停时间配合使用）">
         <Cheatline>
             <Offset>17CF02B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>66-41-C7-47-45-00-01</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Time (SpeedRun Mode)">
+    <Cheat Text="Freeze Time (SpeedRun Mode) | 暂停时间（速通模式）">
         <Cheatline>
             <Offset>180756</Offset>
             <Section>0</Section>

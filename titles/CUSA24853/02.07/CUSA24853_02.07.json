@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On) | 无限生命/一击必杀（主控代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Enable MC)",
+      "name": "Infinite Health (Enable MC) | 无限生命（开启主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 一击必杀（开启主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Invincibility",
+      "name": "Invincibility | 无敌状态",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Infinite Rots/Level On Gain",
+      "name": "Max Infinite Rots/Level On Gain | 最大/无限腐化者及等级提升",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Rots On Use (Disable Master Code)",
+      "name": "Max/Infinite Rots On Use (Disable Master Code) | 使用腐化者时最大/无限（关闭主控代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "No Wasting Time To Use Rots",
+      "name": "No Wasting Time To Use Rots | 腐化者立即使用无延迟",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points On Gain/Use",
+      "name": "Max/Infinite Skill Points On Gain/Use | 获取/使用时最大/无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Cristals On Gain/Buy",
+      "name": "Max/Infinite Cristals On Gain/Buy | 获取/购买时最大/无限水晶",
       "type": "checkbox",
       "memory": [
         {

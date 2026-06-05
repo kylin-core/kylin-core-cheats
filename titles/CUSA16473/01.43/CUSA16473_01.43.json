@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "infinite oxygen",
+      "name": "infinite oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "printing material never disappears",
+      "name": "printing material never disappears | 打印材料永不消耗",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "inf fuel",
+      "name": "inf fuel | 无限燃料",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "bytes never decrease",
+      "name": "bytes never decrease | 字节永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "inf soil canister",
+      "name": "inf soil canister | 无限土壤罐",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "inf jetpack fuel",
+      "name": "inf jetpack fuel | 无限喷气背包燃料",
       "type": "checkbox",
       "memory": [
         {

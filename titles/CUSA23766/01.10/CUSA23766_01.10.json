@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf XP",
+      "name": "Inf XP | 无限经验",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Skill Point use it once After max XP cheat",
+      "name": "Inf Skill Point use it once After max XP cheat | 无限技能点（最大经验后使用一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Money on gain",
+      "name": "Inf Money on gain | 无限金钱（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Money on spend ",
+      "name": "Inf Money on spend | 无限金钱（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Inf Ammo use it with No Reload",
+      "name": "Inf Ammo use it with No Reload | 无限弹药（配合无需装弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Inf Myth Points use it once After max XP cheat",
+      "name": "Inf Myth Points use it once After max XP cheat | 无限神话点数（最大经验后使用一次）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Inf Hero Points use it once After max XP cheat",
+      "name": "Inf Hero Points use it once After max XP cheat | 无限英雄点数（最大经验后使用一次）",
       "type": "checkbox",
       "memory": [
         {

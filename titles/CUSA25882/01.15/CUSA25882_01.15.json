@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Attribute points(on use)",
+      "name": "Attribute points(on use) | 属性点数（使用时）",
       "type": "checkbox",
       "memory": [
         {

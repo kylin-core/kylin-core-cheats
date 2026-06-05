@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Gintama Rumble" Moder="Vampirexx" Cusa="CUSA08279" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>1C9958</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FC-11-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Special Moves Gauge after 1 hit">
+    <Cheat Text="Max Special Moves Gauge after 1 hit | 一击满必杀技槽">
         <Cheatline>
             <Offset>DF64D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-83-F8-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Special Moves Gauge">
+    <Cheat Text="Inf Special Moves Gauge | 无限必杀技槽">
         <Cheatline>
             <Offset>DF690</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-87-F8-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Awakening Rumble Gauge after 1 hit">
+    <Cheat Text="Max Awakening Rumble Gauge after 1 hit | 一击满觉醒乱舞槽">
         <Cheatline>
             <Offset>DABDA</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-83-F0-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Awakening Rumble Gauge">
+    <Cheat Text="Inf Awakening Rumble Gauge | 无限觉醒乱舞槽">
         <Cheatline>
             <Offset>DF519</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>89-87-F0-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Awakening always ON after 1 hit">
+    <Cheat Text="Awakening always ON after 1 hit | 一击后觉醒常驻">
         <Cheatline>
             <Offset>9A7830</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Awakening always Active">
+    <Cheat Text="Awakening always Active | 觉醒持续激活">
         <Cheatline>
             <Offset>DF3B5</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-83-E4-15-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Pachi after Shop (USE IT ALONE)">
+    <Cheat Text="Inf Pachi after Shop (USE IT ALONE) | 商店后无限小钢珠（单独使用）">
         <Cheatline>
             <Offset>9A7800</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max CP After Level-Up (USE IT ALONE)">
+    <Cheat Text="Max CP After Level-Up (USE IT ALONE) | 升级后最大CP（单独使用）">
         <Cheatline>
             <Offset>9A7800</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Combo">
+    <Cheat Text="Max Combo | 最大连击数">
         <Cheatline>
             <Offset>9A7819</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Kills">
+    <Cheat Text="Max Kills | 最大击杀数">
         <Cheatline>
             <Offset>9A7800</Offset>
             <Section>0</Section>

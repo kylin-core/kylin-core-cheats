@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Max Money on Buy/Sell",
+      "name": "Max Money on Buy/Sell | 买卖时金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Items on Use/Sell| Turn Off When Done ",
+      "name": "Max Items on Use/Sell| Turn Off When Done  | 使用/出售时道具最大 | 完成后关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Items | Battle ",
+      "name": "Infinite Items | Battle  | 战斗中无限道具",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Max SP On Spend",
+      "name": "Max SP On Spend | 消耗时SP最大",
       "type": "checkbox",
       "memory": [
         {

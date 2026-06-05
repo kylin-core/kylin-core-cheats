@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Life",
-      "description": "Use it After contract.",
+      "name": "Inf Life | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Inf Exp",
-      "description": "",
+      "name": "Inf Exp | 无限经验",
       "type": "checkbox",
       "memory": [
         {

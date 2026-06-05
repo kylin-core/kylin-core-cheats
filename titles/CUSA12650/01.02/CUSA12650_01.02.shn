@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Hitman Absolution HD" Moder="Arafat" Cusa="CUSA12650" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Infinite Health">
+    <Cheat Text="Max Infinite Health | 无限生命">
         <Cheatline>
             <Offset>F87800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Instinct">
+    <Cheat Text="Infinite Instinct | 无限直觉">
         <Cheatline>
             <Offset>6909BF</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-12</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Ammo [99]">
+    <Cheat Text="Max Infinite Ammo [99] | 无限弹药[99]">
         <Cheatline>
             <Offset>F87812</Offset>
             <Section>0</Section>

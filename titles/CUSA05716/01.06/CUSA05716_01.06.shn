@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rise of the Tomb Raider: 20 Year Celebration" Moder="Weysincha" Cusa="CUSA05716" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>7A3789</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-4F-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>C8750C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-89-58-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Get Skillpoints For Spending Them">
+    <Cheat Text="Get Skillpoints For Spending Them | 消费获得技能点">
         <Cheatline>
             <Offset>FE0F7F</Offset>
             <Section>0</Section>

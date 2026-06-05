@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands THC: Borderlands Pre-Sequel" Moder="DeathRGH" Cusa="CUSA02980" Version="01.00" Process="ARBUTUS.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Skillpoints / Badass-Tokens">
+    <Cheat Text="Infinite Skillpoints / Badass-Tokens | 无限技能点 / 坏蛋代币">
         <Cheatline>
             <Offset>45C0DB</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>2B-45-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Max Money / Moonstone">
+    <Cheat Text="Set Max Money / Moonstone | 设置最大金钱 / 月之石">
         <Cheatline>
             <Offset>10366D2</Offset>
             <Section>0</Section>

@@ -3,22 +3,9 @@
   "id": "CUSA01363",
   "version": "01.09",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "50DB810",
-        "on": "48A300400000000000008B88F80000008988F80000008B88F800000041894C2418E981C081FC"
-      },
-      {
-        "offset": "18F78B1",
-        "on": "E95A3F7E0390"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "Infinite  BloodEcho",
+      "name": "Infinite  BloodEcho | 无限回响",
       "type": "checkbox",
       "memory": [
         {
@@ -34,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Lucidity",
+      "name": "Infinite Lucidity | 无限灵视",
       "type": "checkbox",
       "memory": [
         {
@@ -50,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -61,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -77,7 +64,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Items",
+      "name": "Infinite Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {

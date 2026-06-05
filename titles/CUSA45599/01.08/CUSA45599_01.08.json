@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf O2",
+      "name": "Inf O2 | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "weight never Inc",
+      "name": "weight never Inc | 体重不增",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Dave Stamina at the Resturant ",
+      "name": "Inf Dave Stamina at the Resturant  | 无限戴夫体力（餐厅）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf Speargun Ammo",
+      "name": "Inf Speargun Ammo | 无限鱼叉弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Itmes use only in resturant sell 1 item to restore it to x99",
+      "name": "Inf Itmes use only in resturant sell 1 item to restore it to x99 | 无限道具（仅限餐厅出售1个道具恢复至x99）",
       "type": "checkbox",
       "memory": [
         {

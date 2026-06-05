@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money (On Spend)",
+      "name": "Max Money (On Spend) | 金钱最大（花费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Items And Arrows (On Use and Sell)",
+      "name": "Max Items And Arrows (On Use and Sell) | 物品与箭矢最大（使用和出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Upgrade points (On Spend)",
+      "name": "Max Upgrade points (On Spend) | 升级点数最大（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Player and Horse Stamina",
+      "name": "Infinite Player and Horse Stamina | 玩家与马匹无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -64,11 +64,10 @@
       ]
     },
     {
-      "name": "Infinite Musou",
+      "name": "Infinite Musou | 无双无限",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "210682",
           "on": "909090909090909090",
           "off": "C5FA1184084C040000"

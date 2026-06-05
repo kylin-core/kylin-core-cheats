@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo (nop)",
+      "name": "Infinite Ammo (nop) | 无限弹药 (nop)",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health (nop) might affect enemies",
+      "name": "Infinite Health (nop) might affect enemies | 无限生命 (nop) 可能影响敌人",
       "type": "checkbox",
       "memory": [
         {

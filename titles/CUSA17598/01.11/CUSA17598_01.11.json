@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No Reload (nop)",
+      "name": "No Reload (nop) | 无需装弹(nop)",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite AP (nop)",
+      "name": "Infinite AP (nop) | 无限行动点(nop)",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite HP (nop) might affect enemies",
+      "name": "Infinite HP (nop) might affect enemies | 无限生命值(nop)可能影响敌人",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Durability",
+      "name": "Infinite Durability | 无限耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite Item (nop)",
+      "name": "Infinite Item (nop) | 无限物品(nop)",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rage 2" Moder="hejran7" Cusa="CUSA10300" Version="01.10" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Player Infinity HP">
+    <Cheat Text="Player Infinity HP | 玩家无限生命">
         <Cheatline>
             <Offset>4EE924A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Player Infinity Ammo">
+    <Cheat Text="Player Infinity Ammo | 玩家无限弹药">
         <Cheatline>
             <Offset>4EE928D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>4EE9224</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Vehicle Infinity Ammo">
+    <Cheat Text="Vehicle Infinity Ammo | 载具无限弹药">
         <Cheatline>
             <Offset>4EE929C</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Vehicle Infinity HP">
+    <Cheat Text="Vehicle Infinity HP | 载具无限生命">
         <Cheatline>
             <Offset>4EE9265</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Vehicle Infinity Boost">
+    <Cheat Text="Vehicle Infinity Boost | 载具无限加速">
         <Cheatline>
             <Offset>382E1E2</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C5-FA-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Vehicle Machine Gun No Overheat">
+    <Cheat Text="Vehicle Machine Gun No Overheat | 载具机枪无过热">
         <Cheatline>
             <Offset>2A5E7D0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C4-C1-7A-58-87-28-06-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant OverDirve">
+    <Cheat Text="Instant OverDirve | 瞬间超载">
         <Cheatline>
             <Offset>4EE91FE</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Cash Open Game Menu">
+    <Cheat Text="Max Cash Open Game Menu | 最大金钱（打开游戏菜单）">
         <Cheatline>
             <Offset>4EE9215</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Vendor Items">
+    <Cheat Text="Infinity Vendor Items | 无限商人物品">
         <Cheatline>
             <Offset>36CC0B5</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>44-29-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Items\Throwables">
+    <Cheat Text="Infinity Items\Throwables | 无限道具\投掷物">
         <Cheatline>
             <Offset>2698BFF</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>44-89-68-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Upgrade Material">
+    <Cheat Text="Infinity Upgrade Material | 无限升级材料">
         <Cheatline>
             <Offset>4EE9235</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinity Project Points">
+    <Cheat Text="Infinity Project Points | 无限项目点数">
         <Cheatline>
             <Offset>4EE927A</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="UP3864-CUSA33533_00-GHOSTSONG000000A" Moder="Talixme" Cusa="CUSA33533" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Dash">
+    <Cheat Text="Inf Dash | 无限冲刺">
         <Cheatline>
             <Offset>28BB7A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-80-E8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Life">
+    <Cheat Text="Inf Life | 无限生命">
         <Cheatline>
             <Offset>27517D</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-88-84-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Modules Use">
+    <Cheat Text="Inf Modules Use | 无限模块使用">
         <Cheatline>
             <Offset>16D7D8F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>01-88-5C-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money">
+    <Cheat Text="Inf Money | 无限金钱">
         <Cheatline>
             <Offset>5F000</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stamina">
+    <Cheat Text="Inf Stamina | 无限体力">
         <Cheatline>
             <Offset>29FF5D</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-80-E8-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Increment the Suit Level">
+    <Cheat Text="No Increment the Suit Level | 不增加装甲等级">
         <Cheatline>
             <Offset>30D1E9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-FF-87-58-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Overheating">
+    <Cheat Text="No Overheating | 不会过热">
         <Cheatline>
             <Offset>B1B51F</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-11-80-90-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Requires Level Up">
+    <Cheat Text="No Requires Level Up | 无需升级">
         <Cheatline>
             <Offset>30D29A</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-C1-7A-11-87-68-02-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Collision">
+    <Cheat Text="No Collision | 无碰撞">
         <Cheatline>
             <Offset>C8CB88</Offset>
             <Section>0</Section>

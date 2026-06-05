@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Fat (On Consume)",
+      "name": "Fat (On Consume) | 脂肪（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Mineral (On consume)",
+      "name": "Mineral (On consume) | 矿物（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Protein (On Consume)",
+      "name": "Protein (On Consume) | 蛋白质（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Mutagen (On Consume)",
+      "name": "Mutagen (On Consume) | 诱变剂（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "XP Multiplier",
+      "name": "XP Multiplier | 经验值倍数",
       "type": "checkbox",
       "memory": [
         {

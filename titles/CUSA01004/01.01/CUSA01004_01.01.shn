@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sleeping Dogs" Moder="TLH" Cusa="CUSA01004" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>12B3800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>12B3801</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Health Regeneration">
+    <Cheat Text="Instant Health Regeneration | 瞬间回血">
         <Cheatline>
             <Offset>5A154B</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-5D-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>4BBAC4</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>44-29-B0-C4-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money on use">
+    <Cheat Text="Max Money on use | 使用后金钱最大化">
         <Cheatline>
             <Offset>4BBAC4</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-29-B0-C4-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>569F63</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>0F-4F-D6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹夹">
         <Cheatline>
             <Offset>569841</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-4F-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Never Wanted">
+    <Cheat Text="Never Wanted | 永不通缉">
         <Cheatline>
             <Offset>4B63BB</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C5-FA-10-45-EC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Gauge">
+    <Cheat Text="Easy Gauge | 轻松量表">
         <Cheatline>
             <Offset>12B3852</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Skills">
+    <Cheat Text="Unlock Skills | 解锁技能">
         <Cheatline>
             <Offset>12B387A</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game-Speed: Very Slow (0.1)">
+    <Cheat Text="Game-Speed: Very Slow (0.1) | 游戏速度: 极慢 (0.1)">
         <Cheatline>
             <Offset>12B38CA</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game-Speed: Slow (0.3)">
+    <Cheat Text="Game-Speed: Slow (0.3) | 游戏速度: 慢速 (0.3)">
         <Cheatline>
             <Offset>12B38CA</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game-Speed: Fast (2)">
+    <Cheat Text="Game-Speed: Fast (2) | 游戏速度: 快速 (2)">
         <Cheatline>
             <Offset>12B38CA</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Day-Time: Midnight">
+    <Cheat Text="Day-Time: Midnight | 时间: 午夜">
         <Cheatline>
             <Offset>12B3912</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Day-Time: Noon">
+    <Cheat Text="Day-Time: Noon | 时间: 正午">
         <Cheatline>
             <Offset>12B3912</Offset>
             <Section>0</Section>

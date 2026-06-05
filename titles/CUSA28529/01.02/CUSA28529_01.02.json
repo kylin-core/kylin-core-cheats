@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "7E3766",
           "on": "9090909090909090",
           "off": "C5FA118004030000"
@@ -17,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Special Attack bar ",
+      "name": "Infinite Special Attack bar | 无限特殊攻击槽",
       "type": "checkbox",
       "memory": [
         {
@@ -33,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Skill points (on use)",
+      "name": "Max Skill points (on use) | 最大技能点数（使用后）",
       "type": "checkbox",
       "memory": [
         {

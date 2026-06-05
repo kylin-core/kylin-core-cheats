@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "P1 Inf HP",
+      "name": "P1 Inf HP | P1 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "inf hp 1HK ",
+      "name": "inf hp 1HK | 无限血量 一击必杀",
       "type": "checkbox",
       "memory": [
         {

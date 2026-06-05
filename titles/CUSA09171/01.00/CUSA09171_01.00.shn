@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="RESIDENT EVIL 2" Moder="TLH" Cusa="CUSA09171" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>10662A5</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>29-F9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bottomless Clip">
+    <Cheat Text="Bottomless Clip | 无限弹匣">
         <Cheatline>
             <Offset>1FE4CD9</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>44-29-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>34EE073</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>45-29-E6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Ammo">
+    <Cheat Text="Max Ammo | 最大弹药量">
         <Cheatline>
             <Offset>34EE079</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>44-0F-4E-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Clip Ammo">
+    <Cheat Text="Max Clip Ammo | 最大弹匣容量">
         <Cheatline>
             <Offset>1FE4CE1</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4E-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite (Stackable-)Items">
+    <Cheat Text="Infinite (Stackable-)Items | 无限（可堆叠）物品">
         <Cheatline>
             <Offset>3082FF4</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>29-48-20</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items on Move (Storage)">
+    <Cheat Text="Max Items on Move (Storage) | 搬运时最大物品数（储物）">
         <Cheatline>
             <Offset>308290E</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-4E-D9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items on get">
+    <Cheat Text="Max Items on get | 获取时最大物品数">
         <Cheatline>
             <Offset>34ED902</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>44-0F-4E-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Short Animationtime for Aiming">
+    <Cheat Text="Short Animationtime for Aiming | 缩短瞄准动画时间">
         <Cheatline>
             <Offset>2E204FB</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C5-FA-5C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Gun-Focus">
+    <Cheat Text="Instant Gun-Focus | 即时枪械聚焦">
         <Cheatline>
             <Offset>32F7909</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-EB-59-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items on Use">
+    <Cheat Text="Max Items on Use | 使用时最大物品数">
         <Cheatline>
             <Offset>1FE4C92</Offset>
             <Section>0</Section>

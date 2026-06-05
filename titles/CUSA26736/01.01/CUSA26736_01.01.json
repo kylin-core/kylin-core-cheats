@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Red Hearts",
+      "name": "Infinite Red Hearts | 无限红心",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Red Hearts",
+      "name": "Max Red Hearts | 最大红心",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Blue Hearts",
+      "name": "Infinite Blue Hearts | 无限蓝心",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Blue Hearts",
+      "name": "Max Blue Hearts | 最大蓝心",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Charge Power",
+      "name": "Infinite Charge Power | 无限蓄力能量",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Items",
+      "name": "Max Items | 最大物品数",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Coins ( on gain )",
+      "name": "Max Coins ( on gain ) | 最大金币（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Change Difficult [ EASY ]",
+      "name": "Change Difficult [ EASY ] | 变更难度【简单】",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Change Difficult [ NORMAL ]",
+      "name": "Change Difficult [ NORMAL ] | 变更难度【普通】",
       "type": "checkbox",
       "memory": [
         {

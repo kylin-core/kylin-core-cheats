@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Crazy Chicken Traps and Treasure 2" Moder="Saso_9.00" Cusa="CUSA45404" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>838B3800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Shield Timer">
+    <Cheat Text="Inf Shield Timer | 无限护盾时间">
         <Cheatline>
             <Offset>80BF1961</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-10-83-C0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freez Timer">
+    <Cheat Text="Freez Timer | 冻结计时器">
         <Cheatline>
             <Offset>80B5B390</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C4-C1-7A-10-4E-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Jump">
+    <Cheat Text="Inf Jump | 无限跳跃">
         <Cheatline>
             <Offset>838B3820</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold">
+    <Cheat Text="Max Gold | 最大金币">
         <Cheatline>
             <Offset>838B380F</Offset>
             <Section>0</Section>

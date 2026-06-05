@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On)",
+      "name": "Infinite Health/1 Hit Kill (Mastercode/Must Be On) | 无限生命/一击必杀（主码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina/Javelin/No Weight (Mastercode/Must Be On)",
+      "name": "Infinite Stamina/Javelin/No Weight (Mastercode/Must Be On) | 无限耐力/标枪/无负重（主码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Javelin",
+      "name": "Infinite Javelin | 无限标枪",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "No Weight",
+      "name": "No Weight | 无负重",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Consumables On Use",
+      "name": "Infinite Consumables On Use | 使用消耗品无限",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Gold",
+      "name": "Max/Infinite Gold | 最大/无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Lacrimas",
+      "name": "Max/Infinite Lacrimas | 最大/无限泪泉",
       "type": "checkbox",
       "memory": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points",
+      "name": "Max/Infinite Skill Points | 最大/无限技能点",
       "type": "checkbox",
       "memory": [
         {

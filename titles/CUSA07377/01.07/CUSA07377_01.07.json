@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Armour",
+      "name": "Infinite Armour | 无限护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Throwables",
+      "name": "Infinite Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Enigma Codes/Upgrades on Use",
+      "name": "Max Enigma Codes/Upgrades on Use | 使用即满谜题代码/升级",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Venus Suit Never Overheats",
+      "name": "Venus Suit Never Overheats | 金星护甲永不超载",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Infinite Health (3D Minigame)",
+      "name": "Infinite Health (3D Minigame) | 无限生命（3D小游戏）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinite Lives (3D Minigame)",
+      "name": "Infinite Lives (3D Minigame) | 无限生命数（3D小游戏）",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (3D Minigame)",
+      "name": "Infinite Ammo (3D Minigame) | 无限弹药（3D小游戏）",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Max Score on Gain (3D Minigame)",
+      "name": "Max Score on Gain (3D Minigame) | 得分即满（3D小游戏）",
       "type": "checkbox",
       "memory": [
         {

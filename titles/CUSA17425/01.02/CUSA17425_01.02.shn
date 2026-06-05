@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SnowRunner" Moder="TylerMods" Cusa="CUSA17425" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Fuel">
+    <Cheat Text="Infinite Fuel | 无限燃油">
         <Cheatline>
             <Offset>1EC5500</Offset>
             <Section>0</Section>

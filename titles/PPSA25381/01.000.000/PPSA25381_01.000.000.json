@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Mastecode/Must Be On)",
+      "name": "Infinite Health/1 Hit Kill (Mastecode/Must Be On) | 无限血量/一击必杀（主代码/需开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite FP",
+      "name": "Infinite FP | 无限专注值",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Items On Use",
+      "name": "Infinite Items On Use | 使用道具无限",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "No Skill Cooldown",
+      "name": "No Skill Cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Infinite Ultimate Art",
+      "name": "Infinite Ultimate Art | 无限终极技",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Murks",
+      "name": "Max/Infinite Murks | 最大/无限暗痕",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Runes",
+      "name": "Max/Infinite Runes | 最大/无限卢恩",
       "type": "checkbox",
       "memory": [
         {

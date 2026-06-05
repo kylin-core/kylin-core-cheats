@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Strange Brigade" Moder="TylerMods | Saso" Cusa="CUSA07905" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health / 1 Hit Kill">
+    <Cheat Text="Infinite Health / 1 Hit Kill | 无限生命 / 一击必杀">
         <Cheatline>
             <Offset>BE7800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo (No Reload)">
+    <Cheat Text="Infinite Ammo (No Reload) | 无限弹药（无需装弹）">
         <Cheatline>
             <Offset>BE6DA0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="4,700,000 Gold on Gain">
+    <Cheat Text="4,700,000 Gold on Gain | 获得时增加4,700,000金币">
         <Cheatline>
             <Offset>BE7A00</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No cooldown on equipment">
+    <Cheat Text="No cooldown on equipment | 装备无冷却">
         <Cheatline>
             <Offset>BE7D00</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ability">
+    <Cheat Text="Infinite Ability | 无限技能">
         <Cheatline>
             <Offset>BE7DE0</Offset>
             <Section>0</Section>

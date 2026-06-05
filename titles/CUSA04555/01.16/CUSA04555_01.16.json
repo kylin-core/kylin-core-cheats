@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大值",
       "type": "checkbox",
       "memory": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 经验值最大值",
       "type": "checkbox",
       "memory": [
         {

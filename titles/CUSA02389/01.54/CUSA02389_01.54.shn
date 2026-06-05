@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassin?s Creed Syndicate" Moder="Saso" Cusa="CUSA02389" Version="01.54" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>552B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Skill Points (99)">
+    <Cheat Text="Skill Points (99) | 技能点(99)">
         <Cheatline>
             <Offset>552B887</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo / Knifs / Darts">
+    <Cheat Text="Inf Ammo / Knifs / Darts | 无限弹药/飞刀/飞镖">
         <Cheatline>
             <Offset>1AE4EF5</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-0F-42-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Relaod">
+    <Cheat Text="No Relaod | 无需装弹">
         <Cheatline>
             <Offset>11B8E7D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>0F-44-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Money / Bombs">
+    <Cheat Text="Inf Money / Bombs | 无限金钱/炸弹">
         <Cheatline>
             <Offset>552B854</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Kill (Affects Your Ally / Use Only in Fight Club)">
+    <Cheat Text="Easy Kill (Affects Your Ally / Use Only in Fight Club) | 简单击杀（影响盟友/仅限拳击俱乐部使用）">
         <Cheatline>
             <Offset>552B813</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Skill Points">
+    <Cheat Text="Skill Points | 技能点">
         <Cheatline>
             <Offset>552B87A</Offset>
             <Section>0</Section>

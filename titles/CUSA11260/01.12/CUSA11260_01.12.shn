@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DEATH STRANDING" Moder="Vicodin10 Rizla" Cusa="CUSA11260" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Blood Never Decreases (God Mode)">
+    <Cheat Text="Blood Never Decreases (God Mode) | 血量不减（上帝模式）">
         <Cheatline>
             <Offset>17B44A1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No BB Stress Meter Drain">
+    <Cheat Text="No BB Stress Meter Drain | BB压力计不下降">
         <Cheatline>
             <Offset>1833D19</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cargo Weight (Even with carriers)">
+    <Cheat Text="No Cargo Weight (Even with carriers) | 货物无重量（包括载具）">
         <Cheatline>
             <Offset>1F425D5</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Cargo Deterioration or Damage (Everything in Cargo Management.)">
+    <Cheat Text="No Cargo Deterioration or Damage (Everything in Cargo Management.) | 货物不腐坏或损坏（货物管理全项）">
         <Cheatline>
             <Offset>35D3080</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Boot Durability">
+    <Cheat Text="Infinite Boot Durability | 无限靴子耐久度">
         <Cheatline>
             <Offset>17C2E16</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C4-C1-7A-11-8D-0C-03-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Road Deterioration">
+    <Cheat Text="No Road Deterioration | 道路不损坏">
         <Cheatline>
             <Offset>205A6B9</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C4-C1-7A-11-47-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Structure Deterioration">
+    <Cheat Text="No Structure Deterioration | 建筑不损坏">
         <Cheatline>
             <Offset>1F69B4D</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set all Structure Builds to 10Mil">
+    <Cheat Text="Set all Structure Builds to 10Mil | 所有建筑建造值设为1000万">
         <Cheatline>
             <Offset>35D3060</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Structure Builds">
+    <Cheat Text="Instant Structure Builds | 建筑瞬间建造">
         <Cheatline>
             <Offset>1F69092</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>1ABED51</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>39-D9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite (Sticky Gun/Repair Spray/Ladder/PCC/Climbing Anchor)">
+    <Cheat Text="Infinite (Sticky Gun/Repair Spray/Ladder/PCC/Climbing Anchor) | 无限（粘性枪/修复喷雾/梯子/PCC/攀岩锚）">
         <Cheatline>
             <Offset>1864173</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Battery Recharge">
+    <Cheat Text="Infinite Battery Recharge | 无限电池充电">
         <Cheatline>
             <Offset>188E5D5</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>80-28-00-00-C5-FA-5C-C3-C5-FA-5F-C1-C5-F8-2E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Vehicle Battery">
+    <Cheat Text="Infinite Vehicle Battery | 无限车辆电池">
         <Cheatline>
             <Offset>2923CF5</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>FA-11-40</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Vehicle Durability">
+    <Cheat Text="Infinite Vehicle Durability | 无限车辆耐久度">
         <Cheatline>
             <Offset>292B809</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C5-FA-5D-CA-C5-F8-57-C0-C5-EA-C2-D0-01-C5-E8-55-C9-C4-C1-7A-11-4D-78</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Resistance to Rough Terrain">
+    <Cheat Text="Infinite Resistance to Rough Terrain | 无尽崎岖地形适应力">
         <Cheatline>
             <Offset>17C122D</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C4-C1-7A-11-84-24-34-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Monster Energy Drinks">
+    <Cheat Text="Infinite Monster Energy Drinks | 无限魔爪能量饮料">
         <Cheatline>
             <Offset>18671CC</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>48</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Hold Breath">
+    <Cheat Text="Infinite Hold Breath | 无限屏息时间">
         <Cheatline>
             <Offset>17BFFD7</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Consciousness Drain">
+    <Cheat Text="No Consciousness Drain | 意识条不下降">
         <Cheatline>
             <Offset>17B664F</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>8C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast Run">
+    <Cheat Text="Fast Run | 快速奔跑">
         <Cheatline>
             <Offset>35D3040</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Resources Never Decrease">
+    <Cheat Text="Resources Never Decrease | 资源永不减少">
         <Cheatline>
             <Offset>2CF8E33</Offset>
             <Section>0</Section>

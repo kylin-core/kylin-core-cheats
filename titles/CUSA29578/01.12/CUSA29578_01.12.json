@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "STRANGER OF PARADISE Backport 5.05",
+      "name": "STRANGER OF PARADISE Backport 5.05 | 降级至5.05系统",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Magic + Max",
+      "name": "Infinite Magic + Max | 无限魔法 + 最大值",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Disable Enemy Gauge",
+      "name": "Disable Enemy Gauge | 禁用敌人量表",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Job points 99 use / level up",
+      "name": "Job points 99 use / level up | 职业点数99使用/等级提升",
       "type": "checkbox",
       "memory": [
         {

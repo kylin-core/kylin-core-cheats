@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Metaphor ReFantazio" Moder="d01v" Cusa="CUSA47038" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Backport by CyB1K 505 - 9">
+    <Cheat Text="Backport by CyB1K 505 - 9 | Backport by CyB1K 505 - 9">
         <Cheatline>
             <Offset>2298A11</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Walkthrough Walls">
+    <Cheat Text="Walkthrough Walls | 穿墙">
         <Cheatline>
             <Offset>2298A21</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Walkthrough Walls Fixed">
+    <Cheat Text="Walkthrough Walls Fixed | 穿墙修正">
         <Cheatline>
             <Offset>7254BB</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>80-B8-80-0A-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Enemy from Orignal Posistion">
+    <Cheat Text="Freeze Enemy from Orignal Posistion | 冻结敌人原始位置">
         <Cheatline>
             <Offset>727FA5</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-80-BD-80-0A-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invulnerable">
+    <Cheat Text="Invulnerable | 无敌">
         <Cheatline>
             <Offset>6EA08C</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>E8-CF-7D-02-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Run Speed">
+    <Cheat Text="Run Speed | 移动速度">
         <Cheatline>
             <Offset>9164B0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C4-C1-7A-59-04-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Master Code Archetype ID Modifier">
+    <Cheat Text="Master Code Archetype ID Modifier | 主码原型ID修改器">
         <Cheatline>
             <Offset>2298A91</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Increase Archetype ID">
+    <Cheat Text="Increase Archetype ID | 增加原型ID">
         <Cheatline>
             <Offset>2298A9D</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>74-1B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Decrease Archetype ID">
+    <Cheat Text="Decrease Archetype ID | 减少原型ID">
         <Cheatline>
             <Offset>2298A9D</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>74-1B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HP">
+    <Cheat Text="Infinite HP | 无限HP">
         <Cheatline>
             <Offset>2298AD1</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite MP">
+    <Cheat Text="Infinite MP | 无限MP">
         <Cheatline>
             <Offset>2298B01</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Turn">
+    <Cheat Text="Infinite Turn | 无限回合">
         <Cheatline>
             <Offset>15E3AB</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>66-83-BD-2C-FF-FF-FF-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp | 最大经验值">
         <Cheatline>
             <Offset>462C30</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>44-0F-42-F8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp Rank Archetype">
+    <Cheat Text="Max Exp Rank Archetype | 最大原型经验等级">
         <Cheatline>
             <Offset>425364</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>41-0F-43-DD</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Archetype Bonus Stats">
+    <Cheat Text="Max Archetype Bonus Stats | 最大原型额外属性">
         <Cheatline>
             <Offset>2298B31</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max PlayerStats">
+    <Cheat Text="Max PlayerStats | 最大玩家属性">
         <Cheatline>
             <Offset>2298B61</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Consumable and Exchange Items">
+    <Cheat Text="All Consumable and Exchange Items | 全消耗品与交换品">
         <Cheatline>
             <Offset>2298B81</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Key and Information Items">
+    <Cheat Text="All Key and Information Items | 全钥匙与信息道具">
         <Cheatline>
             <Offset>2298BA1</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Weapons">
+    <Cheat Text="All Weapons | 全武器">
         <Cheatline>
             <Offset>2298BE1</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Armours">
+    <Cheat Text="All Armours | 全防具">
         <Cheatline>
             <Offset>2298C01</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Gears">
+    <Cheat Text="All Gears | 全饰品">
         <Cheatline>
             <Offset>2298C21</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Accessories">
+    <Cheat Text="All Accessories | 全配件">
         <Cheatline>
             <Offset>2298C41</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>43221B</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>0F-42-C7</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max MAG">
+    <Cheat Text="Max MAG | 最大玛格">
         <Cheatline>
             <Offset>4322F1</Offset>
             <Section>0</Section>

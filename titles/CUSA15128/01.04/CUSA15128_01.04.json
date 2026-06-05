@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (close combats only)",
+      "name": "Infinite Health (close combats only) | 无限生命（仅限近战）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Experience (On kill Activate once and turn off)",
+      "name": "Max Experience (On kill Activate once and turn off) | 最大经验（击杀时激活一次后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Alot of Items (on collect have 2 pieces of the item)",
+      "name": "Alot of Items (on collect have 2 pieces of the item) | 大量物品（拾取时获得2个该物品）",
       "type": "checkbox",
       "memory": [
         {

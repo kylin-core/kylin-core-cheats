@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max SP (on Get after second gain)",
+      "name": "Max SP (on Get after second gain) | 最高技能点（第二次获得后获取）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max CP (on lose)",
+      "name": "Max CP (on lose) | 最高职业点（扣除时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite ammo (handgun)",
+      "name": "Infinite ammo (handgun) | 无限弹药（手枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (stun gun)",
+      "name": "Infinite Ammo (stun gun) | 无限弹药（电击枪）",
       "type": "checkbox",
       "memory": [
         {

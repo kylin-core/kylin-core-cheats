@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "Enjoy!",
+      "name": "TRAINER INFO (read only) | 修改器信息（只读）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
-      "description": "",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "All Existing Inventory Items - 99pcs",
-      "description": "",
+      "name": "All Existing Inventory Items - 99pcs | 全部现有道具99个",
       "type": "checkbox",
       "memory": [
         {
@@ -51,8 +48,7 @@
       ]
     },
     {
-      "name": "Current BP x2",
-      "description": "",
+      "name": "Current BP x2 | 当前BP翻倍",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Darts - Top Score",
-      "description": "",
+      "name": "Darts - Top Score | 飞镖最高分",
       "type": "checkbox",
       "memory": [
         {
@@ -75,8 +70,7 @@
       ]
     },
     {
-      "name": "Easy BP (~L50)",
-      "description": "",
+      "name": "Easy BP (~L50) | 轻松获取BP（约L50）",
       "type": "checkbox",
       "memory": [
         {
@@ -87,8 +81,7 @@
       ]
     },
     {
-      "name": "Easy Complete Quests v102",
-      "description": "",
+      "name": "Easy Complete Quests v102 | 轻松完成任务v102",
       "type": "checkbox",
       "memory": [
         {
@@ -99,8 +92,7 @@
       ]
     },
     {
-      "name": "Easy FP (Materia)",
-      "description": "",
+      "name": "Easy FP (Materia) | 轻松FP（魔晶石）",
       "type": "checkbox",
       "memory": [
         {
@@ -111,8 +103,7 @@
       ]
     },
     {
-      "name": "Easy Skillmaster",
-      "description": "",
+      "name": "Easy Skillmaster | 轻松习得技能大师",
       "type": "checkbox",
       "memory": [
         {
@@ -123,8 +114,7 @@
       ]
     },
     {
-      "name": "Freeze PlayTime",
-      "description": "Do Not use together with Null PlayTime cheat!",
+      "name": "Freeze PlayTime | 冻结游戏时间",
       "type": "checkbox",
       "memory": [
         {
@@ -135,8 +125,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
-      "description": "HealthPoisonBikeXIII (Time)XIII (Hit)Bike (Allies)",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -167,8 +156,7 @@
       ]
     },
     {
-      "name": "Infinite Limit",
-      "description": "",
+      "name": "Infinite Limit | 无限极限技",
       "type": "checkbox",
       "memory": [
         {
@@ -194,8 +182,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
-      "description": "",
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -206,8 +193,7 @@
       ]
     },
     {
-      "name": "Infinite Special Attacks",
-      "description": "CloudOthers, Barret",
+      "name": "Infinite Special Attacks | 无限特殊攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -223,8 +209,7 @@
       ]
     },
     {
-      "name": "Infinite StackItems",
-      "description": "",
+      "name": "Infinite StackItems | 道具堆叠无限",
       "type": "checkbox",
       "memory": [
         {
@@ -240,8 +225,7 @@
       ]
     },
     {
-      "name": "Instant ButtonHold Actions",
-      "description": "",
+      "name": "Instant ButtonHold Actions | 瞬间完成长按操作",
       "type": "checkbox",
       "memory": [
         {
@@ -252,8 +236,7 @@
       ]
     },
     {
-      "name": "Invulnerable Enemys",
-      "description": "",
+      "name": "Invulnerable Enemys | 敌人无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -264,8 +247,7 @@
       ]
     },
     {
-      "name": "Max ATB Gauge",
-      "description": "",
+      "name": "Max ATB Gauge | ATB槽全满",
       "type": "checkbox",
       "memory": [
         {
@@ -281,8 +263,7 @@
       ]
     },
     {
-      "name": "Max Gil on Get",
-      "description": "",
+      "name": "Max Gil on Get | 获得金钱最大化",
       "type": "checkbox",
       "memory": [
         {
@@ -293,8 +274,7 @@
       ]
     },
     {
-      "name": "Null PlayTime",
-      "description": "Do Not use together with Freeze PlayTime cheat!",
+      "name": "Null PlayTime | 游戏时间归零",
       "type": "checkbox",
       "memory": [
         {
@@ -305,8 +285,7 @@
       ]
     },
     {
-      "name": "Stats - Luck 9999",
-      "description": "",
+      "name": "Stats - Luck 9999 | 属性-运气9999",
       "type": "checkbox",
       "memory": [
         {
@@ -317,8 +296,7 @@
       ]
     },
     {
-      "name": "Stats - Magic 9999",
-      "description": "",
+      "name": "Stats - Magic 9999 | 属性-魔力9999",
       "type": "checkbox",
       "memory": [
         {
@@ -329,8 +307,7 @@
       ]
     },
     {
-      "name": "Stats - Magical Damage 9999",
-      "description": "",
+      "name": "Stats - Magical Damage 9999 | 属性-魔法伤害9999",
       "type": "checkbox",
       "memory": [
         {
@@ -341,8 +318,7 @@
       ]
     },
     {
-      "name": "Stats - Magical Defense 9999",
-      "description": "",
+      "name": "Stats - Magical Defense 9999 | 属性-魔法防御9999",
       "type": "checkbox",
       "memory": [
         {
@@ -353,8 +329,7 @@
       ]
     },
     {
-      "name": "Stats - MP 9999",
-      "description": "",
+      "name": "Stats - MP 9999 | 属性-MP 9999",
       "type": "checkbox",
       "memory": [
         {
@@ -375,8 +350,7 @@
       ]
     },
     {
-      "name": "Stats - Physical Damage 9999",
-      "description": "",
+      "name": "Stats - Physical Damage 9999 | 属性-物理伤害9999",
       "type": "checkbox",
       "memory": [
         {
@@ -387,8 +361,7 @@
       ]
     },
     {
-      "name": "Stats - Physical Defense 9999",
-      "description": "",
+      "name": "Stats - Physical Defense 9999 | 属性-物理防御9999",
       "type": "checkbox",
       "memory": [
         {
@@ -399,8 +372,7 @@
       ]
     },
     {
-      "name": "Stats - Speed 9999",
-      "description": "",
+      "name": "Stats - Speed 9999 | 属性-速度9999",
       "type": "checkbox",
       "memory": [
         {
@@ -416,8 +388,7 @@
       ]
     },
     {
-      "name": "Stats - Strength 9999",
-      "description": "",
+      "name": "Stats - Strength 9999 | 属性-力量9999",
       "type": "checkbox",
       "memory": [
         {
@@ -428,8 +399,7 @@
       ]
     },
     {
-      "name": "Stats - Vitality 9999",
-      "description": "",
+      "name": "Stats - Vitality 9999 | 属性-体力9999",
       "type": "checkbox",
       "memory": [
         {
@@ -440,8 +410,7 @@
       ]
     },
     {
-      "name": "Stats - Will 9999",
-      "description": "",
+      "name": "Stats - Will 9999 | 属性-意志9999",
       "type": "checkbox",
       "memory": [
         {

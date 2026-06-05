@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 神模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Bombs",
-      "hint": null,
+      "name": "Infinite Bombs | 无限炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Coins",
-      "hint": null,
+      "name": "Infinite Coins | 无限金币",
       "type": "checkbox",
       "memory": [
         {

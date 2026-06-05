@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Break Gauge",
+      "name": "Infinite Break Gauge | 无限Break槽",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite MP + Max MP",
+      "name": "Infinite MP + Max MP | 无限MP+最大MP",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Max Potion",
+      "name": "Max Potion | 最大恢复药",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Max Abilities ( if available )",
+      "name": "Max Abilities ( if available ) | 最大能力（如果可用）",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Max Anima ( Job Menu - you need one )",
+      "name": "Max Anima ( Job Menu - you need one ) | 最大阿尼玛（职业菜单 - 需要拥有一个）",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max Anima, Maginit ( Items Inventory - you need one )",
+      "name": "Max Anima, Maginit ( Items Inventory - you need one ) | 最大阿尼玛、魔导石（物品栏 - 需要拥有一个）",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Max Job Points ( on use )",
+      "name": "Max Job Points ( on use ) | 最大职业点数（使用时）",
       "type": "checkbox",
       "memory": [
         {

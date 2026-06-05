@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bound By Flame" Moder="Rizla, TLH" Cusa="CUSA00303" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>CFB800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill">
+    <Cheat Text="1 Hit Kill | 一击必杀">
         <Cheatline>
             <Offset>CFB801</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Mana">
+    <Cheat Text="Infinite Mana | 无限法力">
         <Cheatline>
             <Offset>3C8C7F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-F2-5D-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold/Items/Resources on Crafting/Usage">
+    <Cheat Text="Max Gold/Items/Resources on Crafting/Usage | 制作/使用获得最大金钱/物品/资源">
         <Cheatline>
             <Offset>CFB85D</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="0 Weight">
+    <Cheat Text="0 Weight | 零重量">
         <Cheatline>
             <Offset>3E1234</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-59-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="High XP on Gain">
+    <Cheat Text="High XP on Gain | 获得高额经验">
         <Cheatline>
             <Offset>CFB844</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skillpoints">
+    <Cheat Text="Infinite Skillpoints | 无限技能点">
         <Cheatline>
             <Offset>3CA575</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>FF-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Feat Points">
+    <Cheat Text="Infinite Feat Points | 无限专长点">
         <Cheatline>
             <Offset>3CA623</Offset>
             <Section>0</Section>

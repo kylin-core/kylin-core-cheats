@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Grand Theft Auto V" Moder="k0s0ng" Cusa="CUSA00419" Version="01.33" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible [On]">
+    <Cheat Text="Invincible [On] | 无敌 [开启]">
         <Cheatline>
             <Offset>02E55140</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible [Off]">
+    <Cheat Text="Invincible [Off] | 无敌 [关闭]">
         <Cheatline>
             <Offset>02E55140</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Player Health">
+    <Cheat Text="Full Player Health | 恢复生命值">
         <Cheatline>
             <Offset>02E55159</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Player Armor">
+    <Cheat Text="Full Player Armor | 满护甲">
         <Cheatline>
             <Offset>14409C</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-10-87-64-14-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Player Special Ability">
+    <Cheat Text="Full Player Special Ability | 满特殊能力">
         <Cheatline>
             <Offset>02E5516E</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Full Player Oxygen">
+    <Cheat Text="Full Player Oxygen | 满氧气">
         <Cheatline>
             <Offset>02E5517D</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Player Stamina">
+    <Cheat Text="Infinite Player Stamina | 无限体力">
         <Cheatline>
             <Offset>02E5518E</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>02E551A3</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>015E1830</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Vehicle Engine Durable [On]">
+    <Cheat Text="Vehicle Engine Durable [On] | 车辆引擎耐用 [开启]">
         <Cheatline>
             <Offset>02E55287</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Vehicle Engine Durable [Off]">
+    <Cheat Text="Vehicle Engine Durable [Off] | 车辆引擎耐用 [关闭]">
         <Cheatline>
             <Offset>02E55287</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Run Speed Faster [1.5]">
+    <Cheat Text="Run Speed Faster [1.5] | 跑步速度加快 [1.5]">
         <Cheatline>
             <Offset>02E55225</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Swim Speed Faster [2.5]">
+    <Cheat Text="Swim Speed Faster [2.5] | 游泳速度加快 [2.5]">
         <Cheatline>
             <Offset>02E552B4</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Powerful Shot [On]">
+    <Cheat Text="Powerful Shot [On] | 强力射击 [开启]">
         <Cheatline>
             <Offset>02E55255</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Shot Power [Normal-Off]">
+    <Cheat Text="Shot Power [Normal-Off] | 射击威力 [普通-关闭]">
         <Cheatline>
             <Offset>02E55255</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Power Punch [On]">
+    <Cheat Text="Super Power Punch [On] | 超级重拳 [开启]">
         <Cheatline>
             <Offset>02E55270</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Power Punch [Normal-Off]">
+    <Cheat Text="Power Punch [Normal-Off] | 重拳 [普通-关闭]">
         <Cheatline>
             <Offset>02E55270</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Reset Wanted Star Level">
+    <Cheat Text="Reset Wanted Star Level | 重置通缉等级">
         <Cheatline>
             <Offset>02E551B7</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Remove Noise On Wanted">
+    <Cheat Text="Remove Noise On Wanted | 消除被通缉时的噪音">
         <Cheatline>
             <Offset>63C380</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Have 2.1 B Money [Don't Freez It]">
+    <Cheat Text="Have 2.1 B Money [Don't Freez It] | 拥有21亿金钱 [勿冻结]">
         <Cheatline>
             <Offset>02E551EF</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump {On}">
+    <Cheat Text="Super Jump {On} | 超级跳跃 {开启}">
         <Cheatline>
             <Offset>02E5529E</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Explosive Ammo {On}">
+    <Cheat Text="Explosive Ammo {On} | 爆炸弹药 {开启}">
         <Cheatline>
             <Offset>02E5529E</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump-Expl. Ammo {On}">
+    <Cheat Text="Super Jump-Expl. Ammo {On} | 超级跳跃+爆炸弹药 {开启}">
         <Cheatline>
             <Offset>02E5529E</Offset>
             <Section>0</Section>

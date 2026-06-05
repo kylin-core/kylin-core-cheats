@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted: The Lost Legacy" Moder="DeathRGH" Cusa="CUSA09564" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Enable Debug Menu">
+    <Cheat Text="Enable Debug Menu | 启用调试菜单">
         <Cheatline>
             <Offset>1104B1AEF9</Offset>
             <Section>0</Section>

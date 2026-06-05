@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="This War of Mine" Moder="Vampirexx" Cusa="CUSA02646" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Items Backpack">
+    <Cheat Text="Infinite Items Backpack | 无限物品背包">
         <Cheatline>
             <Offset>B87C01</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo and Items Consumables">
+    <Cheat Text="Infinite Ammo and Items Consumables | 无限弹药与消耗品">
         <Cheatline>
             <Offset>B87FF0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Day never increased">
+    <Cheat Text="Day never increased | 天数永不增加">
         <Cheatline>
             <Offset>6A4546</Offset>
             <Section>0</Section>

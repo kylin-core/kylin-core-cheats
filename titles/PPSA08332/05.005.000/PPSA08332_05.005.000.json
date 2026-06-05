@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible",
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infi Arrows & Throwables",
+      "name": "Infi Arrows \u0026 Throwables | 无限箭矢与投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "Infi Rage",
+      "name": "Infi Rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Instant Cooldown (Talisman, Relic)",
+      "name": "Instant Cooldown (Talisman, Relic) | 瞬间冷却（护符、遗物）",
       "type": "checkbox",
       "memory": [
         {
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "name": "1 Hit Stun",
+      "name": "1 Hit Stun | 一击眩晕",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "No Resource Deduction (XP,HS)",
+      "name": "No Resource Deduction (XP,HS) | 无资源消耗（经验值、技能点）",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "No Limits (Crafting, Upgrade)",
+      "name": "No Limits (Crafting, Upgrade) | 无限制（制造、升级）",
       "type": "checkbox",
       "memory": [
         {

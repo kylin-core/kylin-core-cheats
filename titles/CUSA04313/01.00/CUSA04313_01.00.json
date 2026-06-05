@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Max Money",
+      "name": "Max Money | 金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Quick Level Up",
+      "name": "Quick Level Up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "1 Hit Attack And 3x Throw &quot;After Level Up&quot;",
+      "name": "1 Hit Attack And 3x Throw \"After Level Up\" | 一击必杀及三倍投掷（升级后生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Fast Zombie Kills",
+      "name": "Fast Zombie Kills | 快速击杀丧尸",
       "type": "checkbox",
       "memory": [
         {

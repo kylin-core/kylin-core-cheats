@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (sticky gun)",
+      "name": "Infinite Ammo (sticky gun) | 无限弹药（黏性枪）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite health",
+      "name": "Infinite health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "run with  (max cargo)",
+      "name": "run with  (max cargo) | 奔跑携带（最大货物）",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Infinite (repair spray/ ladder/PCC/climbing anchor )",
+      "name": "Infinite (repair spray/ ladder/PCC/climbing anchor ) | 无限（修复喷雾/梯子/PCC/攀爬锚）",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Metals Never Decrease",
+      "name": "Metals Never Decrease | 金属永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Resins Never Decrease",
+      "name": "Resins Never Decrease | 树脂永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "crystals Never Decrease",
+      "name": "crystals Never Decrease | 晶体永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Ceramics Never Decrease",
+      "name": "Ceramics Never Decrease | 陶瓷永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Special alloys Never Decrease",
+      "name": "Special alloys Never Decrease | 特殊合金永不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Chemicals Never Decrease",
+      "name": "Chemicals Never Decrease | 化学品永不减少",
       "type": "checkbox",
       "memory": [
         {

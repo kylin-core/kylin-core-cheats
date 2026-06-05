@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Mania" Moder="Reddevil82_9.00" Cusa="CUSA07010" Version="01.04" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="All Emeralds / Activate Super Sonic with X + Triangle">
+    <Cheat Text="All Emeralds / Activate Super Sonic with X + Triangle | 全翡翠 / X+三角激活超级索尼克">
         <Cheatline>
             <Offset>3C7EF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives">
+    <Cheat Text="Max Lives | 最大生命数">
         <Cheatline>
             <Offset>7ADEF</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>41-8B-8D-00-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings / No loose after hit">
+    <Cheat Text="Max Rings / No loose after hit | 最大金环 / 击中后不掉落">
         <Cheatline>
             <Offset>30A4D</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89-B3-F4-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincibility">
+    <Cheat Text="Invincibility | 无敌状态">
         <Cheatline>
             <Offset>3C6120</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score">
+    <Cheat Text="Max Score | 最大分数">
         <Cheatline>
             <Offset>2DF73</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-4C-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill ( Boss )">
+    <Cheat Text="One Hit Kill ( Boss ) | 一击必杀（Boss）">
         <Cheatline>
             <Offset>17131B</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>7C-43</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Timer to 0">
+    <Cheat Text="Set Timer to 0 | 计时器归零">
         <Cheatline>
             <Offset>3C7E90</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Breathe Under Water">
+    <Cheat Text="Unlimited Breathe Under Water | 无限水下呼吸">
         <Cheatline>
             <Offset>3C7ED0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic )">
+    <Cheat Text="Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic ) | 替代模式 - 获取1颗翡翠即可获得全部（含超级索尼克）">
         <Cheatline>
             <Offset>3C7380</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Ring Timer ( Bonus Game )">
+    <Cheat Text="Freeze Ring Timer ( Bonus Game ) | 冻结金环计时器（奖励关）">
         <Cheatline>
             <Offset>3C7F50</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode )">
+    <Cheat Text="Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode ) | 收集1枚银质奖章（解锁所有特殊/调试模式）">
         <Cheatline>
             <Offset>D1F28</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>45-89-A5-C4-25-01-00-E8-9C-E1-F2-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Only 1 Blue Sphere ( Bonus Game )">
+    <Cheat Text="Only 1 Blue Sphere ( Bonus Game ) | 仅1个蓝色球（奖励关）">
         <Cheatline>
             <Offset>3C7EB0</Offset>
             <Section>0</Section>

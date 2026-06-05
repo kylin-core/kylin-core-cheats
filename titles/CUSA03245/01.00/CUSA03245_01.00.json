@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinte Health",
+      "name": "Infinte Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Momentum Bars (On Use)",
+      "name": "Infinite Momentum Bars (On Use) | 无限动量槽（使用中）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo / Grenades / Mines",
+      "name": "Infinite Ammo / Grenades / Mines | 无限弹药/手雷/地雷",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max DP Pointes",
+      "name": "Max DP Pointes | 最大DP点数",
       "type": "checkbox",
       "memory": [
         {

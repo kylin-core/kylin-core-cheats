@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragonball Xenoverse 2" Moder="Weysincha" Cusa="CUSA05088" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Set Zeni to 9.999.999">
+    <Cheat Text="Set Zeni to 9.999.999 | 设置金币为9,999,999">
         <Cheatline>
             <Offset>2019691A4</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>7F-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set TP/ZP to 9.999.999">
+    <Cheat Text="Set TP/ZP to 9.999.999 | 设置TP/ZP为9,999,999">
         <Cheatline>
             <Offset>2019691A8</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>7F-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Exp to 9.999.999">
+    <Cheat Text="Set Exp to 9.999.999 | 设置经验值为9,999,999">
         <Cheatline>
             <Offset>20196C200</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>7F-96-98-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Skillpoints to 999">
+    <Cheat Text="Set Skillpoints to 999 | 设置技能点为999">
         <Cheatline>
             <Offset>20196C204</Offset>
             <Section>0</Section>

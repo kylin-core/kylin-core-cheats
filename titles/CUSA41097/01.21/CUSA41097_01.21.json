@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health + Invincible (Turn OFF when enter to the first boss, die is needed to continue the gameplay)",
+      "name": "Infinite Health + Invincible (Turn OFF when enter to the first boss, die is needed to continue the gameplay) | 无限生命 + 无敌（进入第一个Boss时关闭，需死亡以继续游戏进程）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic / Mana (You obtain magic when collect the Book of Hydro)",
+      "name": "Infinite Magic / Mana (You obtain magic when collect the Book of Hydro) | 无限魔法/法力（收集水文之书后获得魔法）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Money (Dew) x999999",
+      "name": "Infinite Money (Dew) x999999 | 无限金币（露珠）x999999",
       "type": "checkbox",
       "memory": [
         {

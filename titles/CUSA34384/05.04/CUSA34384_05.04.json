@@ -5,10 +5,8 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "TRAINER INFO (read only)",
-      "description": "Please  be sure to read the comment on each individual cheat, if a comment is available. For my most advanced Ragnarok trainer I recommend using my ShnExt trainer with MultiTrainer2. Enjoy! :-)",
+      "name": "TRAINER INFO (read only) | 训练器信息（仅读）",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87840",
@@ -18,10 +16,8 @@
       ]
     },
     {
-      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA]",
-      "description": "May cause progression issues with some bosses. Disable and restart from checkpoint if and when it does. Use No Damage Taken instead.",
+      "name": "God Mode (Untouchable+No Effects) [DO NOT USE IN VALHALLA] | 上帝模式（无敌+无特效）【瓦尔哈拉模式禁用】",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87000",
@@ -56,10 +52,8 @@
       ]
     },
     {
-      "name": "No Damage Taken",
-      "description": "none",
+      "name": "No Damage Taken | 免疫所有伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87080",
@@ -74,10 +68,8 @@
       ]
     },
     {
-      "name": "No XP,HS, Resources subtracted when used",
-      "description": "none",
+      "name": "No XP,HS, Resources subtracted when used | 使用时不消耗经验、技能点、资源",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87090",
@@ -92,10 +84,8 @@
       ]
     },
     {
-      "name": "No Crafting And Upgrade Limits",
-      "description": "none",
+      "name": "No Crafting And Upgrade Limits | 无制作与升级限制",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "103EED6",
@@ -105,10 +95,8 @@
       ]
     },
     {
-      "name": "Infinite Arrows and Throwables [DO NOT USE IN VALHALLA]",
-      "description": "none",
+      "name": "Infinite Arrows and Throwables [DO NOT USE IN VALHALLA] | 无限弓箭与投掷物【瓦尔哈拉模式禁用】",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B870A0",
@@ -133,10 +121,8 @@
       ]
     },
     {
-      "name": "Infinite Rage (incl. Kratos and Atreus)",
-      "description": "none",
+      "name": "Infinite Rage (incl. Kratos and Atreus) | 无限愤怒（包括奎托斯与阿特柔斯）",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B870E0",
@@ -151,10 +137,8 @@
       ]
     },
     {
-      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA]",
-      "description": "Enable this first and then only one of the damage levels. May not affect some travelers (mini bosses)",
+      "name": "Damage Multiplier(Master Code) [DO NOT USE IN VALHALLA] | 伤害倍率（主代码）【瓦尔哈拉模式禁用】",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87120",
@@ -169,10 +153,8 @@
       ]
     },
     {
-      "name": "--5x damage",
-      "description": "none",
+      "name": "--5x damage | --5倍伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -182,10 +164,8 @@
       ]
     },
     {
-      "name": "--10x damage",
-      "description": "none",
+      "name": "--10x damage | --10倍伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -195,10 +175,8 @@
       ]
     },
     {
-      "name": "--20x damage",
-      "description": "none",
+      "name": "--20x damage | --20倍伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -208,10 +186,8 @@
       ]
     },
     {
-      "name": "--30x damage",
-      "description": "none",
+      "name": "--30x damage | --30倍伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -221,10 +197,8 @@
       ]
     },
     {
-      "name": "--40x damage",
-      "description": "none",
+      "name": "--40x damage | --40倍伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -234,10 +208,8 @@
       ]
     },
     {
-      "name": "--50x damage",
-      "description": "none",
+      "name": "--50x damage | --50倍伤害",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -247,10 +219,8 @@
       ]
     },
     {
-      "name": "--100x damage (one hit kill)",
-      "description": "none",
+      "name": "--100x damage (one hit kill) | --100倍伤害（一击必杀）",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "01B8713A",
@@ -260,10 +230,8 @@
       ]
     },
     {
-      "name": "One Hit Stun [DO NOT USE IN VALHALLA]",
-      "description": "This cheat may cause progression issues with some enemies (especially bosses).If and when it does, be sure to disable it and reload the checkpoint.",
+      "name": "One Hit Stun [DO NOT USE IN VALHALLA] | 一击眩晕【瓦尔哈拉模式禁用】",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87140",
@@ -278,10 +246,8 @@
       ]
     },
     {
-      "name": "Infinite Max Shield Charge",
-      "description": "none",
+      "name": "Infinite Max Shield Charge | 无限最大盾牌充能",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87160",
@@ -296,10 +262,8 @@
       ]
     },
     {
-      "name": "No Talisman and Relic Cooldown",
-      "description": "none",
+      "name": "No Talisman and Relic Cooldown | 护符与遗物无冷却",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B87190",
@@ -314,10 +278,8 @@
       ]
     },
     {
-      "name": "Infinite Weapon Charge (L1+Triangle)",
-      "description": "none",
+      "name": "Infinite Weapon Charge (L1+Triangle) | 无限武器充能（L1+三角键）",
       "type": "checkbox",
-      "hint": null,
       "memory": [
         {
           "offset": "1B871B0",

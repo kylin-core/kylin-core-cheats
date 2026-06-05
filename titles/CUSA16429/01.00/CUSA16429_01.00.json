@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Health",
+      "name": "Max Health | 最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Special Guage ",
+      "name": "Max Special Guage | 最大特殊能量槽",
       "type": "checkbox",
       "memory": [
         {

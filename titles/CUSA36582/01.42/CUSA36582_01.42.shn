@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Prince of Persia The Lost Crown" Moder="Ali-mk" Cusa="CUSA36582" Version="01.42" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>80CA6C30</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-29-44-24-28</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Arrow + Inf-Elixir-healing + Inf-Crystals-of-time">
+    <Cheat Text="Inf-Arrow + Inf-Elixir-healing + Inf-Crystals-of-time | 无限箭矢 + 无限治疗药剂 + 无限时间水晶">
         <Cheatline>
             <Offset>809C088C</Offset>
             <Section>0</Section>

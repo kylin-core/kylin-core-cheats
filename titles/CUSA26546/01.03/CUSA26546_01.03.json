@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Stamina",
+      "name": "Inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "C76426",
           "on": "C4C17A114E2C",
           "off": "C4C17A11462C"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "C76EE1",
           "on": "C5FA58C1",
           "off": "C5FA5DC1"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Water",
+      "name": "Water | 水分",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "C78FB2",
           "on": "C5F258C8",
           "off": "C5F25DC8"
@@ -41,11 +38,10 @@
       ]
     },
     {
-      "name": "Carbohydrate",
+      "name": "Carbohydrate | 碳水",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "C77921",
           "on": "C5F258C8",
           "off": "C5F25DC8"
@@ -53,11 +49,10 @@
       ]
     },
     {
-      "name": "Proteins",
+      "name": "Proteins | 蛋白质",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "C77BEF",
           "on": "C5F258C8",
           "off": "C5F25DC8"
@@ -65,11 +60,10 @@
       ]
     },
     {
-      "name": "FAT",
+      "name": "FAT | 脂肪",
       "type": "checkbox",
       "memory": [
         {
-          "section": "14",
           "offset": "C77A8C",
           "on": "C5F258C8",
           "off": "C5F25DC8"

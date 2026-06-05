@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill/Shield/Action (MASTERCODE/MUST BE ON)",
+      "name": "Infinite Health/1 Hit Kill/Shield/Action (MASTERCODE/MUST BE ON) | 无限生命/一击必杀/护盾/技能 (主控代码/必须开启)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit kill",
+      "name": "1 Hit kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Infinite Action (When Full)",
+      "name": "Infinite Action (When Full) | 无限技能（满值时）",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No Reload",
+      "name": "Infinite Ammo/No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Infinite Grenades",
+      "name": "Infinite Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Money On Pick Up",
+      "name": "Max/Infinite Money On Pick Up | 拾取时获得最大/无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points On Use",
+      "name": "Max/Infinite Skill Points On Use | 使用后获得最大/无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "Max XP/ Levels On Kill",
+      "name": "Max XP/ Levels On Kill | 击杀后获得最大经验值/升级",
       "type": "checkbox",
       "memory": [
         {

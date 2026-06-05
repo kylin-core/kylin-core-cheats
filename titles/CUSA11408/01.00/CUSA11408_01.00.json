@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Clip Ammo",
+      "name": "Inf Clip Ammo | 无限弹匣弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Inf Air Filter",
+      "name": "Inf Air Filter | 无限滤毒罐",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Inf Items",
+      "name": "Inf Items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Inf Medkit",
+      "name": "Inf Medkit | 无限医疗包",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "No reload",
+      "name": "No reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Weapon Dont stuck",
+      "name": "Weapon Dont stuck | 武器不卡壳",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Witcher III: GOTY Edition" Moder="PS4Guru" Cusa="CUSA05725" Version="01.30" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="x2 Item On Pickup (ON & OFF)">
+    <Cheat Text="x2 Item On Pickup (ON & OFF) | 拾取物品双倍（开/关）">
         <Cheatline>
             <Offset>666912</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>2B-55-AC-76-16-48-8D-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health/Stamina/Roach Stamina/1 Hit/(ON & OFF)">
+    <Cheat Text="Infinite Health/Stamina/Roach Stamina/1 Hit/(ON & OFF) | 无限生命/体力/萝卜耐力/一击必杀（开/关）">
         <Cheatline>
             <Offset>c294ed</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-04-81-83-FB-06</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="2x Skill Points (ON & OFF)">
+    <Cheat Text="2x Skill Points (ON & OFF) | 技能点数双倍（开/关）">
         <Cheatline>
             <Offset>daf082</Offset>
             <Section>0</Section>

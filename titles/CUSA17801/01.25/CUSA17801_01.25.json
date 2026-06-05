@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "HP Pointer (Must Be ON)",
-      "hint": "Required for HP Master and Invincible",
+      "name": "HP Pointer (Must Be ON) | HP指针 (必须开启)",
       "type": "checkbox",
       "memory": [
         {
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "name": "Player Pointer (Must Be ON)",
-      "hint": "Required for Weight, Heat+Cooling and Toxic cheats.",
+      "name": "Player Pointer (Must Be ON) | 玩家指针 (必须开启)",
       "type": "checkbox",
       "memory": [
         {
@@ -49,8 +47,7 @@
       ]
     },
     {
-      "name": "HP Master (Must Be ON)",
-      "hint": "Required for HP/One Hit",
+      "name": "HP Master (Must Be ON) | HP主控 (必须开启)",
       "type": "checkbox",
       "memory": [
         {
@@ -71,8 +68,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
-      "hint": null,
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -83,8 +79,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
-      "hint": null,
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -95,8 +90,7 @@
       ]
     },
     {
-      "name": "Invincible",
-      "hint": null,
+      "name": "Invincible | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -117,8 +111,7 @@
       ]
     },
     {
-      "name": "No Fall Damage",
-      "hint": "If you fall out of the map disable this cheat to die and respawn or reload save.",
+      "name": "No Fall Damage | 无坠落伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -129,8 +122,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
-      "hint": null,
+      "name": "Infinite Magic | 无限法力",
       "type": "checkbox",
       "memory": [
         {
@@ -156,8 +148,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -178,8 +169,7 @@
       ]
     },
     {
-      "name": "Infinite Heal",
-      "hint": null,
+      "name": "Infinite Heal | 无限治疗",
       "type": "checkbox",
       "memory": [
         {
@@ -190,8 +180,7 @@
       ]
     },
     {
-      "name": "Max Heal on Gain",
-      "hint": null,
+      "name": "Max Heal on Gain | 获取时满治疗",
       "type": "checkbox",
       "memory": [
         {
@@ -212,8 +201,7 @@
       ]
     },
     {
-      "name": "0 Weight",
-      "hint": null,
+      "name": "0 Weight | 零负重",
       "type": "checkbox",
       "memory": [
         {
@@ -234,8 +222,7 @@
       ]
     },
     {
-      "name": "No Heat+Freeze Increase",
-      "hint": null,
+      "name": "No Heat+Freeze Increase | 无热量+冻结增加",
       "type": "checkbox",
       "memory": [
         {
@@ -256,8 +243,7 @@
       ]
     },
     {
-      "name": "No Toxic Increase",
-      "hint": null,
+      "name": "No Toxic Increase | 无毒素增加",
       "type": "checkbox",
       "memory": [
         {
@@ -278,8 +264,7 @@
       ]
     },
     {
-      "name": "Max Axions when Infuse",
-      "hint": "You will be able to level up when you open the Infuse menu, to see changes you must level up or kill an enemy.",
+      "name": "Max Axions when Infuse | 注魂时最大Axions",
       "type": "checkbox",
       "memory": [
         {
@@ -300,8 +285,7 @@
       ]
     },
     {
-      "name": "Max Axions on Get",
-      "hint": null,
+      "name": "Max Axions on Get | 获取时最大Axions",
       "type": "checkbox",
       "memory": [
         {
@@ -322,8 +306,7 @@
       ]
     },
     {
-      "name": "Infinite Axions",
-      "hint": null,
+      "name": "Infinite Axions | 无限Axions",
       "type": "checkbox",
       "memory": [
         {
@@ -339,8 +322,7 @@
       ]
     },
     {
-      "name": "Keep Axions after Death",
-      "hint": null,
+      "name": "Keep Axions after Death | 死后保留Axions",
       "type": "checkbox",
       "memory": [
         {
@@ -351,8 +333,7 @@
       ]
     },
     {
-      "name": "99999 Crafting Resources on Get",
-      "hint": null,
+      "name": "99999 Crafting Resources on Get | 获取时99999制作资源",
       "type": "checkbox",
       "memory": [
         {
@@ -363,8 +344,7 @@
       ]
     },
     {
-      "name": "Infinite Crafting Resources",
-      "hint": null,
+      "name": "Infinite Crafting Resources | 无限制作资源",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Rogue Legacy" Moder="Wander" Cusa="CUSA00587" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Coins (On Gain)">
+    <Cheat Text="Max Coins (On Gain) | 金币最大化（获得时）">
         <Cheatline>
             <Offset>9F3F50</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Dev Features",
+      "name": "Dev Features | 开发者功能",
       "type": "button",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "All Gamemodes",
+      "name": "All Gamemodes | 所有游戏模式",
       "type": "button",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Third Person",
+      "name": "Third Person | 第三人称",
       "type": "button",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Fov",
+      "name": "Fov | 视野范围",
       "type": "button",
       "memory": [
         {

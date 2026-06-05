@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible cant be hit ",
+      "name": "Invincible cant be hit | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf HP + Easy Kill",
+      "name": "Inf HP + Easy Kill | 无限生命+秒杀",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Inf HP Hell and Hell",
+      "name": "Inf HP Hell and Hell | 地狱地狱无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Inf HP Player + Enemy for Practice",
+      "name": "Inf HP Player + Enemy for Practice | 练习模式双方无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Nero Inf Max Act",
+      "name": "Nero Inf Max Act | 尼禄无限最大蓄力",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Nero Instant Charge Shot",
+      "name": "Nero Instant Charge Shot | 尼禄秒蓄枪击",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Dante Inf Round Trip",
+      "name": "Dante Inf Round Trip | 但丁无限回旋镖",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Dante Inf Disaster Gauge",
+      "name": "Dante Inf Disaster Gauge | 但丁无限灾厄槽",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Dante Inf Royal Guard",
+      "name": "Dante Inf Royal Guard | 但丁无限皇家护卫",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Vergil Inf Concentration Gauge",
+      "name": "Vergil Inf Concentration Gauge | 维吉尔无限专注槽",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Vergil Inf Round Trip",
+      "name": "Vergil Inf Round Trip | 维吉尔无限回旋镖",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Vergil Instant Charge Round Trip",
+      "name": "Vergil Instant Charge Round Trip | 维吉尔秒蓄回旋斩",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "name": "Vergil Inf Trick Up",
+      "name": "Vergil Inf Trick Up | 维吉尔无限上瞬移",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Lady Instant Charge Shot",
+      "name": "Lady Instant Charge Shot | 蕾蒂秒蓄枪击",
       "type": "checkbox",
       "memory": [
         {
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "name": "Trish Inf Round Trip",
+      "name": "Trish Inf Round Trip | 翠西无限回旋镖",
       "type": "checkbox",
       "memory": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "name": "Int Air Hike",
+      "name": "Int Air Hike | 疾走二段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "name": "Easy SSS Style",
+      "name": "Easy SSS Style | 简易SSS风格",
       "type": "checkbox",
       "memory": [
         {
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "name": "Fast SSS Style",
+      "name": "Fast SSS Style | 快速SSS风格",
       "type": "checkbox",
       "memory": [
         {
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "name": "Freeze Mission Time",
+      "name": "Freeze Mission Time | 冻结任务时间",
       "type": "checkbox",
       "memory": [
         {
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": "Max Inf Devil Trigger",
+      "name": "Max Inf Devil Trigger | 最大无限魔人化",
       "type": "checkbox",
       "memory": [
         {
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "name": "Max Inf Red Orbs",
+      "name": "Max Inf Red Orbs | 最大无限红魂",
       "type": "checkbox",
       "memory": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "name": "Max Inf Proud Souls",
+      "name": "Max Inf Proud Souls | 最大无限骄傲之魂",
       "type": "checkbox",
       "memory": [
         {
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "name": "Inf Gold Orbs Hell and Hell",
+      "name": "Inf Gold Orbs Hell and Hell | 地狱地狱无限金魂",
       "type": "checkbox",
       "memory": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "name": "Inf Gold Orbs in Inventory",
+      "name": "Inf Gold Orbs in Inventory | 背包无限金魂",
       "type": "checkbox",
       "memory": [
         {
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "name": "100% Mission Bonus Red Orbs",
+      "name": "100% Mission Bonus Red Orbs | 任务奖励红魂100%",
       "type": "checkbox",
       "memory": [
         {

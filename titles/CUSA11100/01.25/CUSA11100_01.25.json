@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 所有客户端无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 所有客户端无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Points",
-      "hint": null,
+      "name": "Infinite Points | 无限点数",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Specialist / Grenades",
-      "hint": null,
+      "name": "Infinite Specialist / Grenades | 无限专家技能/手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -63,8 +59,7 @@
       ]
     },
     {
-      "name": "Infinite Shield Durability",
-      "hint": null,
+      "name": "Infinite Shield Durability | 无限护盾耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -75,8 +70,7 @@
       ]
     },
     {
-      "name": "1-Hit Kill",
-      "hint": null,
+      "name": "1-Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -87,8 +81,7 @@
       ]
     },
     {
-      "name": "Draw Lobby Debug",
-      "hint": null,
+      "name": "Draw Lobby Debug | 绘制大厅调试信息",
       "type": "checkbox",
       "memory": [
         {
@@ -99,8 +92,7 @@
       ]
     },
     {
-      "name": "Remove Dvar Protections",
-      "hint": "The following options are for testing purposes only!",
+      "name": "Remove Dvar Protections | 移除Dvar保护",
       "type": "checkbox",
       "memory": [
         {
@@ -116,8 +108,7 @@
       ]
     },
     {
-      "name": "Spoof Lobby ZM",
-      "hint": null,
+      "name": "Spoof Lobby ZM | 伪装僵尸模式大厅",
       "type": "button",
       "memory": [
         {
@@ -128,8 +119,7 @@
       ]
     },
     {
-      "name": "Spoof Lobby WZ",
-      "hint": null,
+      "name": "Spoof Lobby WZ | 伪装战争模式大厅",
       "type": "button",
       "memory": [
         {
@@ -140,8 +130,7 @@
       ]
     },
     {
-      "name": "exec wz default settings.cfg",
-      "hint": null,
+      "name": "exec wz default settings.cfg | 执行战争模式默认设置配置文件",
       "type": "button",
       "memory": [
         {
@@ -157,8 +146,7 @@
       ]
     },
     {
-      "name": "map wz open skyscrapers",
-      "hint": null,
+      "name": "map wz open skyscrapers | 加载战争模式地图：摩天大楼",
       "type": "button",
       "memory": [
         {
@@ -174,8 +162,7 @@
       ]
     },
     {
-      "name": "map wz escape",
-      "hint": null,
+      "name": "map wz escape | 加载战争模式地图：逃脱",
       "type": "button",
       "memory": [
         {
@@ -191,8 +178,7 @@
       ]
     },
     {
-      "name": "sv mapname wz open skyscrapers",
-      "hint": null,
+      "name": "sv mapname wz open skyscrapers | 服务器设置地图名：战争模式摩天大楼",
       "type": "button",
       "memory": [
         {
@@ -208,8 +194,7 @@
       ]
     },
     {
-      "name": "disconnect",
-      "hint": null,
+      "name": "disconnect | 断开连接",
       "type": "button",
       "memory": [
         {
@@ -225,8 +210,7 @@
       ]
     },
     {
-      "name": "Blackout Step 1",
-      "hint": null,
+      "name": "Blackout Step 1 | 黑色冲突步骤1",
       "type": "button",
       "memory": [
         {
@@ -237,8 +221,7 @@
       ]
     },
     {
-      "name": "Blackout Step 2",
-      "hint": null,
+      "name": "Blackout Step 2 | 黑色冲突步骤2",
       "type": "button",
       "memory": [
         {
@@ -249,8 +232,7 @@
       ]
     },
     {
-      "name": "Blackout Step 3",
-      "hint": null,
+      "name": "Blackout Step 3 | 黑色冲突步骤3",
       "type": "button",
       "memory": [
         {
@@ -261,8 +243,7 @@
       ]
     },
     {
-      "name": "Patch FindXAssetHeader",
-      "hint": null,
+      "name": "Patch FindXAssetHeader | 修补FindXAssetHeader函数",
       "type": "button",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo/No reload (needs ammo in weapon)",
+      "name": "Infinite Ammo/No reload (needs ammo in weapon) | 无限弹药/无需装弹（需武器中已有弹药）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Car Nitro use",
+      "name": "Infinite Car Nitro use | 无限车辆氮气加速",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Money/Experience (on gain)",
+      "name": "Max Money/Experience (on gain) | 金钱/经验最大化（获得时生效）",
       "type": "checkbox",
       "memory": [
         {

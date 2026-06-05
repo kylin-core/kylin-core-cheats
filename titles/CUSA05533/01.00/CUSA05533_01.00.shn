@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The King of Fighters XIV" Moder="Vampirexx" Cusa="CUSA05533" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health 1P">
+    <Cheat Text="Inf Health 1P | 1P 无限血量">
         <Cheatline>
             <Offset>A2B818</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Inf Power Bar on Hit 1P">
+    <Cheat Text="Max Inf Power Bar on Hit 1P | 1P 击中后无限能量槽">
         <Cheatline>
             <Offset>A2B800</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf SuperMode 1P (Press R3 to deplete)">
+    <Cheat Text="Inf SuperMode 1P (Press R3 to deplete) | 1P 无限超级模式（按R3解除）">
         <Cheatline>
             <Offset>A2B82F</Offset>
             <Section>0</Section>

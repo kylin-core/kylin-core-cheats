@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite SP",
+      "name": "Infinite SP | 无限SP",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite MP [ on use ]",
+      "name": "Infinite MP [ on use ] | 无限MP（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Time Skill",
+      "name": "Infinite Time Skill | 无限时间技能",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Special Moves",
+      "name": "Infinite Special Moves | 无限特殊技",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Yellow Orbs",
+      "name": "Max Yellow Orbs | 黄色宝珠最大",
       "type": "checkbox",
       "memory": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Max Items [ Quick Slot ]",
+      "name": "Max Items [ Quick Slot ] | 物品最大（快捷栏）",
       "type": "checkbox",
       "memory": [
         {
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "name": "Infinite Jumps",
+      "name": "Infinite Jumps | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier Mastercode",
+      "name": "Damage Multiplier Mastercode | 伤害倍率主控码",
       "type": "checkbox",
       "memory": [
         {
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier x 2 [ MC ]",
+      "name": "Damage Multiplier x 2 [ MC ] | 伤害倍率x2（主控）",
       "type": "checkbox",
       "memory": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier x 4 [ MC ]",
+      "name": "Damage Multiplier x 4 [ MC ] | 伤害倍率x4（主控）",
       "type": "checkbox",
       "memory": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier x 6 [ MC ]",
+      "name": "Damage Multiplier x 6 [ MC ] | 伤害倍率x6（主控）",
       "type": "checkbox",
       "memory": [
         {
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier x 8 [ MC ]",
+      "name": "Damage Multiplier x 8 [ MC ] | 伤害倍率x8（主控）",
       "type": "checkbox",
       "memory": [
         {

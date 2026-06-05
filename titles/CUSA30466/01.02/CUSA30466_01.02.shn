@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="The Legend of Tianding" Moder="Ali-mk" Cusa="CUSA30466" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincible">
+    <Cheat Text="Invincible | 无敌">
         <Cheatline>
             <Offset>80A0EAF0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-BB-A4-BA-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Stamina">
+    <Cheat Text="Infinite-Stamina | 无限体力">
         <Cheatline>
             <Offset>80986956</Offset>
             <Section>0</Section>

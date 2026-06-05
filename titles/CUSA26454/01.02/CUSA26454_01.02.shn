@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Oddworld - Strangers" Moder="Reddevil82 " Cusa="CUSA26454" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode Health ( must be activated )">
+    <Cheat Text="Mastercode Health ( must be activated ) | 主码生命值（需激活）">
         <Cheatline>
             <Offset>6CBDF4</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 上帝模式">
         <Cheatline>
             <Offset>205AA3</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>FF-90-A8-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health [MC]">
+    <Cheat Text="Infinite Health [MC] | 无限生命值 [主码]">
         <Cheatline>
             <Offset>6CBDFA</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C5-FA-11-43-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill [MC] ( Disable Anesthetize )">
+    <Cheat Text="One Hit Kill [MC] ( Disable Anesthetize ) | 一击必杀 [主码]（禁用麻醉）">
         <Cheatline>
             <Offset>6CBE09</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C5-FA-11-43-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Enemies only Anesthetize [MC] ( Disable One Hit Kill )">
+    <Cheat Text="Enemies only Anesthetize [MC] ( Disable One Hit Kill ) | 仅麻醉敌人 [主码]（禁用一击必杀）">
         <Cheatline>
             <Offset>6CBE09</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-FA-11-43-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限体力">
         <Cheatline>
             <Offset>6CBDB0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>6CBDE2</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload ( Weapon )">
+    <Cheat Text="No Reload ( Weapon ) | 无需装弹（武器）">
         <Cheatline>
             <Offset>1BA337</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>FF-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Enemies">
+    <Cheat Text="Freeze Enemies | 冻结敌人">
         <Cheatline>
             <Offset>8433D</Offset>
             <Section>0</Section>

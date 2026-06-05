@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Spider-man miles morales" Moder="2B" Cusa="CUSA17722" Version="01.09" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max XP (use once)">
+    <Cheat Text="Max XP (use once) | 最大经验值（使用一次）">
         <Cheatline>
             <Offset>4F83800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Health">
+    <Cheat Text="Inf Health | 无限生命">
         <Cheatline>
             <Offset>4F83813</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max skill points">
+    <Cheat Text="Max skill points | 最大技能点数">
         <Cheatline>
             <Offset>4F83849</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Web-shooters">
+    <Cheat Text="Inf Web-shooters | 无限蛛网发射器">
         <Cheatline>
             <Offset>4F8385B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Finisher">
+    <Cheat Text="Inf Finisher | 无限终结技">
         <Cheatline>
             <Offset>4F8387A</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible ON">
+    <Cheat Text="Invincible ON | 无敌开启">
         <Cheatline>
             <Offset>4F8388A</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible OFF (only use after turning off Invincible ON)">
+    <Cheat Text="Invincible OFF (only use after turning off Invincible ON) | 无敌关闭（仅在关闭无敌开启后使用）">
         <Cheatline>
             <Offset>4F8388A</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf resources">
+    <Cheat Text="Inf resources | 无限资源">
         <Cheatline>
             <Offset>4F8389C</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Venom Power">
+    <Cheat Text="Inf Venom Power | 无限毒液能量">
         <Cheatline>
             <Offset>4F838AA</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="travesal challenge time set to 20 sec">
+    <Cheat Text="travesal challenge time set to 20 sec | 穿越挑战时间设为20秒">
         <Cheatline>
             <Offset>4F838C6</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Combat Challenge Time">
+    <Cheat Text="Inf Combat Challenge Time | 无限战斗挑战时间">
         <Cheatline>
             <Offset>4F838D9</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Camouflage">
+    <Cheat Text="Inf Camouflage | 无限伪装">
         <Cheatline>
             <Offset>4F838EC</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant camouflage refill ">
+    <Cheat Text="Instant camouflage refill | 瞬间伪装补充">
         <Cheatline>
             <Offset>4F83907</Offset>
             <Section>0</Section>

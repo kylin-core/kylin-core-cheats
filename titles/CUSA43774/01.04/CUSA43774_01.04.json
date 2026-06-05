@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinity Health",
+      "name": "Infinity Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Infinity Ammo",
+      "name": "Infinity Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "Infinity Oxigen",
+      "name": "Infinity Oxigen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "name": "Infinity Supplies",
+      "name": "Infinity Supplies | 无限补给",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "Slow Jump",
+      "name": "Slow Jump | 慢速跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Fly Hack",
+      "name": "Fly Hack | 飞行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "name": "Reset Timer",
+      "name": "Reset Timer | 重置计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "name": "Reset Save Count to 1",
+      "name": "Reset Save Count to 1 | 重置存档次数为1",
       "type": "checkbox",
       "memory": [
         {
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "name": "Change Outfit (Photomode)",
+      "name": "Change Outfit (Photomode) | 更换服装（拍照模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "name": "No Fall Damage",
+      "name": "No Fall Damage | 无坠落伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "name": "No Fall Death",
+      "name": "No Fall Death | 无坠落死亡",
       "type": "checkbox",
       "memory": [
         {
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "name": "Fast Forward Everything",
+      "name": "Fast Forward Everything | 全局加速",
       "type": "checkbox",
       "memory": [
         {

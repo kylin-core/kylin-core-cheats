@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SONIC FRONTIER" Moder="Wander FW9.00" Cusa="CUSA28194" Version="01.30" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Rings on hit">
+    <Cheat Text="Max Rings on hit | 命中获得最大金环">
         <Cheatline>
             <Offset>23DBA90</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max rings (on Get)">
+    <Cheat Text="Max rings (on Get) | 获取时获得最大金环">
         <Cheatline>
             <Offset>23DBAE0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Hearts/Koco (on get claim 2 )">
+    <Cheat Text="Max Hearts/Koco (on get claim 2 ) | 获取时获得最大心/柯柯（领取2份）">
         <Cheatline>
             <Offset>23DBB20</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Blue seeds (on get)">
+    <Cheat Text="Max Blue seeds (on get) | 获取时获得最大蓝种子">
         <Cheatline>
             <Offset>23DBD80</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max red Seeds (On get)">
+    <Cheat Text="Max red Seeds (On get) | 获取时获得最大红种子">
         <Cheatline>
             <Offset>23DBDE0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )(collect 1 each At least)">
+    <Cheat Text="Max Vault Keys + Portal Gears ( use it first after Stage 1-2 )(collect 1 each At least) | 获得最大保险库钥匙+传送齿轮（在1-2关卡后首次使用，每种至少收集1个）">
         <Cheatline>
             <Offset>23DB2E0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Skill Points (activate and die)">
+    <Cheat Text="Max Skill Points (activate and die) | 最大技能点数（激活后死亡）">
         <Cheatline>
             <Offset>23DB9A0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Purple Coins (on get)">
+    <Cheat Text="Max Purple Coins (on get) | 获取时获得最大紫金币">
         <Cheatline>
             <Offset>23DB2A0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Stars (on collect)">
+    <Cheat Text="Max Stars (on collect) | 收集时获得最大星星">
         <Cheatline>
             <Offset>23DB240</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max golden tickets ">
+    <Cheat Text="Max golden tickets | 最大金票">
         <Cheatline>
             <Offset>23DB180</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Fish Token (on get)">
+    <Cheat Text="Max Fish Token (on get) | 获取时获得最大鱼代币">
         <Cheatline>
             <Offset>23DB1F0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Super Sonic Rings">
+    <Cheat Text="Infinite Super Sonic Rings | 无限超级索尼克金环">
         <Cheatline>
             <Offset>23DBC90</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Boost">
+    <Cheat Text="Infinite Boost | 无限加速">
         <Cheatline>
             <Offset>23DBA40</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Family reunion Infinite Timer">
+    <Cheat Text="Family reunion Infinite Timer | 无限家庭团聚倒计时">
         <Cheatline>
             <Offset>F5FEAD</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C5-FA-11-4B-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Springs in the air Infinite Timer">
+    <Cheat Text="Springs in the air Infinite Timer | 无限空中弹簧倒计时">
         <Cheatline>
             <Offset>F7907A</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C4-C1-7A-11-4D-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Koco round up Infinite timer">
+    <Cheat Text="Koco round up Infinite timer | 无限柯柯集结倒计时">
         <Cheatline>
             <Offset>F6695D</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>C5-FA-11-48-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="The best defence Infinite Timer">
+    <Cheat Text="The best defence Infinite Timer | 无限最佳防御倒计时">
         <Cheatline>
             <Offset>F56A97</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C4-C1-7A-11-4D-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mechanical collectible Infinite Timer">
+    <Cheat Text="Mechanical collectible Infinite Timer | 无限机械收集品倒计时">
         <Cheatline>
             <Offset>F544B0</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>C4-C1-7A-11-4D-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Bridge the gap Infinite Timer">
+    <Cheat Text="Bridge the gap Infinite Timer | 无限跨越鸿沟倒计时">
         <Cheatline>
             <Offset>F5976B</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>C5-FA-11-48-38</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Clear the game in the ruins MAX SCORE">
+    <Cheat Text="Clear the game in the ruins MAX SCORE | 遗迹通关最高分">
         <Cheatline>
             <Offset>23DBC20</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Indivisible" Moder="wander FW9.00" Cusa="CUSA07000" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC5F120</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Crystal Multiplier (on gain have 2)">
+    <Cheat Text="Crystal Multiplier (on gain have 2) | 晶体倍数获得（获得时翻倍）">
         <Cheatline>
             <Offset>405F5B</Offset>
             <Section>0</Section>

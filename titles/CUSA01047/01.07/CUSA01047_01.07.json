@@ -1,11 +1,11 @@
 {
-  "name": "Ratchet & Clank™",
+  "name": "Ratchet \u0026 Clank™",
   "id": "CUSA01047",
   "version": "01.07",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Bolts+Gold bolts+Raritanium On Get",
+      "name": "Max Bolts+Gold bolts+Raritanium On Get | 获取时获得最大螺栓+黄金螺栓+拉锐钛",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max+Infinity Health",
+      "name": "Max+Infinity Health | 最大+无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max+Infinity Ammo",
+      "name": "Max+Infinity Ammo | 最大+无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinity Nitro Boost for Racing",
+      "name": "Infinity Nitro Boost for Racing | 赛车无限氮气加速",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Infinity Jet Pack",
+      "name": "Infinity Jet Pack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {

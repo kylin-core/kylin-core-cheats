@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Invincible [On]",
+      "name": "Invincible [On] | 无敌模式 [开启]",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Invincible [Off]",
+      "name": "Invincible [Off] | 无敌模式 [关闭]",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Full Player Health",
+      "name": "Full Player Health | 满生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Full Player Armor",
+      "name": "Full Player Armor | 满护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Full Player Special Ability",
+      "name": "Full Player Special Ability | 满特殊能力",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Full Player Oxygen",
+      "name": "Full Player Oxygen | 满氧气值",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Infinite Player Stamina",
+      "name": "Infinite Player Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Vehicle Engine Durable [On]",
+      "name": "Vehicle Engine Durable [On] | 车辆引擎耐用 [开启]",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Vehicle Engine Durable [Off]",
+      "name": "Vehicle Engine Durable [Off] | 车辆引擎耐用 [关闭]",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Run Speed Faster [1.5]",
+      "name": "Run Speed Faster [1.5] | 跑步速度加快 [1.5倍]",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Swim Speed Faster [2.5]",
+      "name": "Swim Speed Faster [2.5] | 游泳速度加快 [2.5倍]",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Powerful Shot [On]",
+      "name": "Powerful Shot [On] | 强力射击 [开启]",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Shot Power [Normal-Off]",
+      "name": "Shot Power [Normal-Off] | 射击威力 [正常-关闭]",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Super Power Punch [On]",
+      "name": "Super Power Punch [On] | 超级重拳 [开启]",
       "type": "checkbox",
       "memory": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "Power Punch [Normal-Off]",
+      "name": "Power Punch [Normal-Off] | 重拳 [正常-关闭]",
       "type": "checkbox",
       "memory": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "name": "Reset Wanted Star Level",
+      "name": "Reset Wanted Star Level | 重置通缉等级",
       "type": "checkbox",
       "memory": [
         {
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "name": "Remove Noise On Wanted",
+      "name": "Remove Noise On Wanted | 消除通缉噪音",
       "type": "checkbox",
       "memory": [
         {
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "name": "Have 2.1 B Money [Dont Freez It]",
+      "name": "Have 2.1 B Money [Dont Freez It] | 拥有21亿金钱 [请勿冻结]",
       "type": "checkbox",
       "memory": [
         {
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "name": "Super Jump {On}",
+      "name": "Super Jump {On} | 超级跳跃 {开启}",
       "type": "checkbox",
       "memory": [
         {
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "name": "Explosive Ammo {On}",
+      "name": "Explosive Ammo {On} | 爆炸弹药 {开启}",
       "type": "checkbox",
       "memory": [
         {
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "name": "Super Jump-Expl. Ammo {On}",
+      "name": "Super Jump-Expl. Ammo {On} | 超级跳跃-爆炸弹药 {开启}",
       "type": "checkbox",
       "memory": [
         {

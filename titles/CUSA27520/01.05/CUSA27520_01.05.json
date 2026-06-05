@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "HP / All  (Master Code)",
+      "name": "HP / All  (Master Code) | HP/全员 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (MC)",
+      "name": "1 Hit Kill (MC) | 一击必杀 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Stamina / Energy (MC)",
+      "name": "Stamina / Energy (MC) | 体力/能量 (主控代码)",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Nanites ( Enable Stamina Cheat)",
+      "name": "Max Nanites ( Enable Stamina Cheat) | 最大纳米机器人 (启用体力作弊)",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Freez Enemy (Enable Stamina Cheat)",
+      "name": "Freez Enemy (Enable Stamina Cheat) | 冻结敌人 (启用体力作弊)",
       "type": "checkbox",
       "memory": [
         {

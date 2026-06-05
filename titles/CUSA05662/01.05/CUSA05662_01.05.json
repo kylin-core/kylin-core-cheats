@@ -5,7 +5,7 @@
   "process": "gz.elf",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Grand",
+      "name": "Infinite Grand | 无限GMP",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite Reload",
+      "name": "Infinite Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Enemy Cannot Reach You",
+      "name": "Enemy Cannot Reach You | 敌人无法靠近",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Freeze Enemy",
+      "name": "Freeze Enemy | 冻结敌人",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring",
+      "name": "Caution : i would advise not using XP gain cheat unless you need to (creat a backup save) cz if you level up too high the game becames boring | 注意：建议仅在有需要时使用经验值增益作弊（请创建备份存档），因为等级过高会导致游戏变得无聊",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "inf HP",
+      "name": "inf HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "inf ki",
+      "name": "inf ki | 无限气力",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "inf medals/items",
+      "name": "inf medals/items | 无限奖牌/道具",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Max money",
+      "name": "Max money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "max ORBs",
+      "name": "max ORBs | 最大能量球",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "XP gain x 2",
+      "name": "XP gain x 2 | 经验值获取 x2",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "XP gain x 4",
+      "name": "XP gain x 4 | 经验值获取 x4",
       "type": "checkbox",
       "memory": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "XP gain x 8",
+      "name": "XP gain x 8 | 经验值获取 x8",
       "type": "checkbox",
       "memory": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "XP gain x 32",
+      "name": "XP gain x 32 | 经验值获取 x32",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "XP gain x 256",
+      "name": "XP gain x 256 | 经验值获取 x256",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "player lvl 250 (after 2 battles) = one hit kills = boring and permenent",
+      "name": "player lvl 250 (after 2 battles) = one hit kills = boring and permenent | 角色等级250（两场战斗后） = 一击必杀 = 无聊且不可逆",
       "type": "checkbox",
       "memory": [
         {

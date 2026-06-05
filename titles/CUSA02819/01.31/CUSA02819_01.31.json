@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Grenades (on use)",
+      "name": "Infinite Grenades (on use) | 无限手雷（使用中）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "255 Skill points (on spend)",
+      "name": "255 Skill points (on spend) | 255技能点（花费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Proximity Mine (on use)",
+      "name": "Infinite Proximity Mine (on use) | 无限感应雷（使用中）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "2 Millons supplies (exit to main menu and return)",
+      "name": "2 Millons supplies (exit to main menu and return) | 200万补给（退出到主菜单并返回）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Land Mine (on use)",
+      "name": "Infinite Land Mine (on use) | 无限地雷（使用中）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Iinfinite Health (1 player)",
+      "name": "Iinfinite Health (1 player) | 无限生命（单玩家）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite AP",
+      "name": "Infinite AP | 无限行动力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Skill points (when confirming)",
+      "name": "Infinite Skill points (when confirming) | 无限技能点（确认时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Attribute points (spend and turn off and spend to take effect)",
+      "name": "Infinite Attribute points (spend and turn off and spend to take effect) | 无限属性点（加点后关闭再加点生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite ammo (have ammo)",
+      "name": "Infinite ammo (have ammo) | 无限弹药（需有弹药）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Perks points (spend and turn off and spend to take effect)",
+      "name": "Infinite Perks points (spend and turn off and spend to take effect) | 无限特长点（加点后关闭再加点生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Experience",
+      "name": "Max Experience | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Cash (on get)",
+      "name": "Max Cash (on get) | 最大金钱（获取时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "999 Items (when spent/gained turn off if game paused)",
+      "name": "999 Items (when spent/gained turn off if game paused) | 999物品（消耗/获得时生效，若游戏暂停则关闭）",
       "type": "checkbox",
       "memory": [
         {

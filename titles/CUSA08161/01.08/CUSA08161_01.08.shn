@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Devil May Cry 5" Moder="Gatot Kaca_KevinTamvan" Cusa="CUSA08161" Version="01.08" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code Speed">
+    <Cheat Text="Master Code Speed | 主码速度">
         <Cheatline>
             <Offset>858B38F</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lots of Red Orbs">
+    <Cheat Text="Lots of Red Orbs | 大量红魂">
         <Cheatline>
             <Offset>858B3D0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Gold Orbs, Blue Fragments, Purple Fragments A lot">
+    <Cheat Text="Gold Orbs, Blue Fragments, Purple Fragments A lot | 大量金魂、蓝碎片、紫碎片">
         <Cheatline>
             <Offset>858B420</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Time In Bloody Palace is Unlimited">
+    <Cheat Text="Time In Bloody Palace is Unlimited | 血宫时间无限">
         <Cheatline>
             <Offset>858B630</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( NERO ) All 99 Devil Breakers Equipment ( Activate in Shop only )">
+    <Cheat Text="( NERO ) All 99 Devil Breakers Equipment ( Activate in Shop only ) | (尼禄) 全部99个破魔者装备（仅商店激活）">
         <Cheatline>
             <Offset>858B480</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( NERO ) Unlimited Devil Breakers">
+    <Cheat Text="( NERO ) Unlimited Devil Breakers | (尼禄) 无限破魔者">
         <Cheatline>
             <Offset>858B4A0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( NERO ) Infinite Devil Trigger">
+    <Cheat Text="( NERO ) Infinite Devil Trigger | (尼禄) 无限魔人化">
         <Cheatline>
             <Offset>858B650</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( NERO ) Exceed Once Filled Direct Full [ Version 1 ]">
+    <Cheat Text="( NERO ) Exceed Once Filled Direct Full [ Version 1 ] | (尼禄) 蓄力一次直接满 [版本1]">
         <Cheatline>
             <Offset>858B550</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( NERO ) Exceed Maksimum [ ver 2]">
+    <Cheat Text="( NERO ) Exceed Maksimum [ ver 2] | (尼禄) 最大蓄力 [版本2]">
         <Cheatline>
             <Offset>858B530</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( NERO ) Unlimited Bullets">
+    <Cheat Text="( NERO ) Unlimited Bullets | (尼禄) 无限子弹">
         <Cheatline>
             <Offset>0858B37C</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( V ) Infinite Devil Trigger">
+    <Cheat Text="( V ) Infinite Devil Trigger | (V) 无限魔人化">
         <Cheatline>
             <Offset>858B4C0</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( V ) Unlimited Power Up Summon Duration">
+    <Cheat Text="( V ) Unlimited Power Up Summon Duration | (V) 无限强化使魔持续时间">
         <Cheatline>
             <Offset>858B4E0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( DANTE ) Unlimited Sin Devil Gauge Duration">
+    <Cheat Text="( DANTE ) Unlimited Sin Devil Gauge Duration | (但丁) 无限真魔人计量表时间">
         <Cheatline>
             <Offset>858B5F0</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( DANTE ) Infinite Devil Trigger">
+    <Cheat Text="( DANTE ) Infinite Devil Trigger | (但丁) 无限魔人化">
         <Cheatline>
             <Offset>858B570</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( DANTE ) Unlimited Royal Guard">
+    <Cheat Text="( DANTE ) Unlimited Royal Guard | (但丁) 无限皇家护卫">
         <Cheatline>
             <Offset>858B5B0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="( DANTE ) Dr. Fraust No Fee">
+    <Cheat Text="( DANTE ) Dr. Fraust No Fee | (但丁) 浮士德博士免费">
         <Cheatline>
             <Offset>858B610</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="SSS Rating During Battle">
+    <Cheat Text="SSS Rating During Battle | 战斗中SSS评级">
         <Cheatline>
             <Offset>858B510</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>0858B360</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Players Dont Shake ">
+    <Cheat Text="Players Dont Shake | 玩家不摇晃">
         <Cheatline>
             <Offset>034011C0</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Easy Enemy to Defeat">
+    <Cheat Text="Easy Enemy to Defeat | 敌人易击败">
         <Cheatline>
             <Offset>0858B36F</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Higher [ Version 1 ]">
+    <Cheat Text="Jump Higher [ Version 1 ] | 跳得更高 [版本1]">
         <Cheatline>
             <Offset>858BEF0</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Jump Higher [ Version2 ] [Press X twice]">
+    <Cheat Text="Jump Higher [ Version2 ] [Press X twice] | 跳得更高 [版本2] [按X两次]">
         <Cheatline>
             <Offset>02F48821</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>41-89-47-24</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [x2.0]">
+    <Cheat Text="Speed [x2.0] | 速度 [x2.0]">
         <Cheatline>
             <Offset>858B3A8</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed [x3.0]">
+    <Cheat Text="Speed [x3.0] | 速度 [x3.0]">
         <Cheatline>
             <Offset>858B3A8</Offset>
             <Section>0</Section>

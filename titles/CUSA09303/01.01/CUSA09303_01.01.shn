@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Assassins Creed® Odyssey" Moder="Muhanned" Cusa="CUSA09303" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Increase Money and Materials on buy">
+    <Cheat Text="Increase Money and Materials on buy | 购买时获得更多金钱和材料">
         <Cheatline>
             <Offset>3FD2809</Offset>
             <Section>0</Section>

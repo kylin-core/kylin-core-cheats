@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf. Health doesnt decrease",
+      "name": "Inf. Health doesnt decrease | 无限生命不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "stamina doesnt decrease",
+      "name": "stamina doesnt decrease | 耐力不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Resources doesnt decrease",
+      "name": "Resources doesnt decrease | 资源不减少",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Adrenaline Bar doesnt decrease",
+      "name": "Adrenaline Bar doesnt decrease | 肾上腺素槽不减少",
       "type": "checkbox",
       "memory": [
         {

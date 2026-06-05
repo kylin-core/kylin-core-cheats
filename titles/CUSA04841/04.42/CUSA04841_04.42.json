@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite - Player Sheild",
+      "name": "Infinite - Player Sheild | 无限 - 玩家护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite - Player Health",
+      "name": "Infinite - Player Health | 无限 - 玩家生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite - StarShip Sheild",
+      "name": "Infinite - StarShip Sheild | 无限 - 飞船护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinite - StarShip Health",
+      "name": "Infinite - StarShip Health | 无限 - 飞船生命",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max Units - On Gain",
+      "name": "Max Units - On Gain | 最大货币 - 获取时",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Max Nanites - On Gain",
+      "name": "Max Nanites - On Gain | 最大纳米星团 - 获取时",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Max Quicksliver - On Gain",
+      "name": "Max Quicksliver - On Gain | 最大水银 - 获取时",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Frozen - Units",
+      "name": "Frozen - Units | 锁定 - 货币",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Frozen - Nanites",
+      "name": "Frozen - Nanites | 锁定 - 纳米星团",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Frozen - Quicksilver",
+      "name": "Frozen - Quicksilver | 锁定 - 水银",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Frozen - Mining Beam",
+      "name": "Frozen - Mining Beam | 锁定 - 采矿光束",
       "type": "checkbox",
       "memory": [
         {
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "name": "Frozen - Terrain Manipulator",
+      "name": "Frozen - Terrain Manipulator | 锁定 - 地形操纵器",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Frozen - Boltcaster Ammo",
+      "name": "Frozen - Boltcaster Ammo | 锁定 - 爆裂炮弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Frozen - Plasma Launcher Ammo",
+      "name": "Frozen - Plasma Launcher Ammo | 锁定 - 等离子发射器弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Frozen - Scatter Blaster Ammo",
+      "name": "Frozen - Scatter Blaster Ammo | 锁定 - 散射爆裂炮弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "Frozen - Pulse Spitter Ammo",
+      "name": "Frozen - Pulse Spitter Ammo | 锁定 - 脉冲喷射器弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Frozen - Geology Cannon Ammo",
+      "name": "Frozen - Geology Cannon Ammo | 锁定 - 地质炮弹药",
       "type": "checkbox",
       "memory": [
         {

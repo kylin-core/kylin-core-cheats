@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode + 1 hit kill",
+      "name": "Godmode + 1 hit kill | 无敌 + 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max souls on gain",
+      "name": "Max souls on gain | 获取时最大灵魂数",
       "type": "checkbox",
       "memory": [
         {

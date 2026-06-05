@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dead Island 2" Moder="Yharnam" Cusa="PPSA03099" Version="01.000.001" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infi Health">
+    <Cheat Text="Infi Health | 无限生命">
         <Cheatline>
             <Offset>7457700</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Weapon Durability">
+    <Cheat Text="Infi Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>7457764</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Ammo">
+    <Cheat Text="Infi Ammo | 无限弹药">
         <Cheatline>
             <Offset>745781F</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Stamina">
+    <Cheat Text="Infi Stamina | 无限耐力">
         <Cheatline>
             <Offset>74577C8</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage (Fall, Fire, Poison, Frozen)">
+    <Cheat Text="No Damage (Fall, Fire, Poison, Frozen) | 不受伤害（坠落、火焰、中毒、冰冻）">
         <Cheatline>
             <Offset>15F5852</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>E8-D9-9B-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infi Fury">
+    <Cheat Text="Infi Fury | 无限狂怒">
         <Cheatline>
             <Offset>7457630</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Cash & Items">
+    <Cheat Text="Max Cash & Items | 最大金钱与物品">
         <Cheatline>
             <Offset>7457890</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Exp">
+    <Cheat Text="Max Exp | 最大经验值">
         <Cheatline>
             <Offset>7457600</Offset>
             <Section>0</Section>

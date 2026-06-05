@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Client Godmode",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client Godmode | 全体玩家无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -27,8 +26,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Ammo",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client Infinite Ammo | 全体玩家无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -44,8 +42,7 @@
       ]
     },
     {
-      "name": "All Client Infinite Aetherium Crystals",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client Infinite Aetherium Crystals | 全体玩家无限以太水晶",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "All Client 1-Hit Kill",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "All Client 1-Hit Kill | 全体玩家一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Aetherium Crystals",
+      "name": "Infinite Aetherium Crystals | 无限以太水晶",
       "type": "checkbox",
       "memory": [
         {
@@ -90,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -101,8 +97,7 @@
       ]
     },
     {
-      "name": "No Recoil",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "No Recoil | 无后坐力",
       "type": "checkbox",
       "memory": [
         {
@@ -118,8 +113,7 @@
       ]
     },
     {
-      "name": "No Gun Shake",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "No Gun Shake | 无枪口抖动",
       "type": "checkbox",
       "memory": [
         {
@@ -135,8 +129,7 @@
       ]
     },
     {
-      "name": "Rapid Fire",
-      "description": "Offsets From 1.27 By DeathRGH And Rizla Used To Find New Offsets",
+      "name": "Rapid Fire | 快速射击",
       "type": "checkbox",
       "memory": [
         {

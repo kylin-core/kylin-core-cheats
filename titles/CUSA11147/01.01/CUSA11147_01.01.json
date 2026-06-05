@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Add red-orb when counsum",
+      "name": "Add red-orb when counsum | 消耗时增加红魂",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "infinity red",
+      "name": "infinity red | 无限红魂",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinity-HP",
+      "name": "Infinity-HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {

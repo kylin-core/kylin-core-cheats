@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Jurassic World Evolution 2" Moder="Reddevil82 " Cusa="CUSA27321" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Unlimited Money">
+    <Cheat Text="Unlimited Money | 无限金钱">
         <Cheatline>
             <Offset>2F1FE50</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlimited Fuel Generator">
+    <Cheat Text="Unlimited Fuel Generator | 无限燃料发电机">
         <Cheatline>
             <Offset>1082B82</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-F2-5D-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Full Fuel / Food Supply">
+    <Cheat Text="Max Full Fuel / Food Supply | 最大燃料/食物供应">
         <Cheatline>
             <Offset>2F1FEB0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Vehicle Damage">
+    <Cheat Text="No Vehicle Damage | 车辆无损坏">
         <Cheatline>
             <Offset>2F1FE90</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Immediate Order Completion">
+    <Cheat Text="Immediate Order Completion | 立即完成订单">
         <Cheatline>
             <Offset>166D230</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-F2-5C-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Stress Level Employees">
+    <Cheat Text="No Stress Level Employees | 员工无压力">
         <Cheatline>
             <Offset>18B1743</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>FF-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mastercode Dinosaurus: Infinite Water / Food ( must be activated )">
+    <Cheat Text="Mastercode Dinosaurus: Infinite Water / Food ( must be activated ) | 主码恐龙：无限水源/食物（需激活）">
         <Cheatline>
             <Offset>2F1F800</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dinosaurus: Food [ MC ]">
+    <Cheat Text="Dinosaurus: Food [ MC ] | 恐龙：食物[主码]">
         <Cheatline>
             <Offset>2F1F806</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C4-81-7A-11-04-B0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dinosaurus: Infinite Water [ MC ]">
+    <Cheat Text="Dinosaurus: Infinite Water [ MC ] | 恐龙：无限水源[主码]">
         <Cheatline>
             <Offset>2F1F817</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C4-81-7A-11-04-B0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dinosaurus: Max Health">
+    <Cheat Text="Dinosaurus: Max Health | 恐龙：最大生命值">
         <Cheatline>
             <Offset>151F7EC</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C5-EA-5D-D1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dinosaurus: Max Comfort">
+    <Cheat Text="Dinosaurus: Max Comfort | 恐龙：最大舒适度">
         <Cheatline>
             <Offset>2F1FE70</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dinosaurus: Unlimited Anesthetic Time">
+    <Cheat Text="Dinosaurus: Unlimited Anesthetic Time | 恐龙：无限麻醉时间">
         <Cheatline>
             <Offset>152EE23</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>C5-FA-5C-85-20-FF-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed ( x 10 )">
+    <Cheat Text="Speed ( x 10 ) | 速度（10倍）">
         <Cheatline>
             <Offset>2F1FEE1</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Speed ( x 50 )">
+    <Cheat Text="Speed ( x 50 ) | 速度（50倍）">
         <Cheatline>
             <Offset>2F1FED0</Offset>
             <Section>0</Section>

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Unbreakable Attatchments",
-      "hint": null,
+      "name": "Unbreakable Attatchments | 配件永不损坏",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Everything Cost $0 When Buying",
-      "hint": null,
+      "name": "Everything Cost $0 When Buying | 购买全部免费",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Unlimited Items",
-      "hint": null,
+      "name": "Unlimited Items | 无限道具",
       "type": "checkbox",
       "memory": [
         {

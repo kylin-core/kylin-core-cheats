@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Player 1: Max Health",
+      "name": "Player 1: Max Health | 玩家1：最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Player 1: Min Health",
+      "name": "Player 1: Min Health | 玩家1：最小生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Player 2: Max Health",
+      "name": "Player 2: Max Health | 玩家2：最大生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Player 2: Min Health",
+      "name": "Player 2: Min Health | 玩家2：最小生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Health",
+      "name": "Health | 生命值",
       "type": "checkbox",
       "memory": [
         {

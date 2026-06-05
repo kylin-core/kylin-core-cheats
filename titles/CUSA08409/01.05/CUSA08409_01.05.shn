@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="CT Special Forces" Moder="Ali-mk" Cusa="CUSA08409" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>1DBAF5</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>E8-D6-35-01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-All-Weapon">
+    <Cheat Text="Infinite-All-Weapon | 无限武器">
         <Cheatline>
             <Offset>2FB96A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>29-43-5C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite-Grenades">
+    <Cheat Text="Infinite-Grenades | 无限手雷">
         <Cheatline>
             <Offset>1CAC8E</Offset>
             <Section>0</Section>

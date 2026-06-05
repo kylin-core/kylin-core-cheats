@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "God Mode",
+      "name": "God Mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Frenzy Mode after 1 hit",
+      "name": "Max Frenzy Mode after 1 hit | 一击满狂怒",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Frenzy Mode hold CIRCLE to Deplete",
+      "name": "Inf Frenzy Mode hold CIRCLE to Deplete | 无限狂怒（长按○消耗）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Death Blown after 1 hit",
+      "name": "Max Death Blown after 1 hit | 一击满处决",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Death Blown",
+      "name": "Inf Death Blown | 无限处决",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Inf Ammo Secondary Weapon",
+      "name": "Inf Ammo Secondary Weapon | 副武器无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Inf Secondary Objects",
+      "name": "Inf Secondary Objects | 副道具无限使用",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Endless Powerup Items",
+      "name": "Endless Powerup Items | 强化道具持续生效",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "No Cooldown Berserk Weapon",
+      "name": "No Cooldown Berserk Weapon | 狂战士武器无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "No cooldown Weapons / items",
+      "name": "No cooldown Weapons / items | 武器/道具无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Inf Money on Level Up",
+      "name": "Inf Money on Level Up | 升级时获得无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Gain Money after Shop",
+      "name": "Gain Money after Shop | 购物后获得金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "name": "Maximize Item after Level UP Slot1",
+      "name": "Maximize Item after Level UP Slot1 | 升级后最大化道具栏1",
       "type": "checkbox",
       "memory": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Maximize Item after Level UP Slot2",
+      "name": "Maximize Item after Level UP Slot2 | 升级后最大化道具栏2",
       "type": "checkbox",
       "memory": [
         {
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "name": "Maximize Item after Level UP Slot3",
+      "name": "Maximize Item after Level UP Slot3 | 升级后最大化道具栏3",
       "type": "checkbox",
       "memory": [
         {
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "name": "Inf Enhancements Stones",
+      "name": "Inf Enhancements Stones | 无限强化石",
       "type": "checkbox",
       "memory": [
         {

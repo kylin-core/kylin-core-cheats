@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[ Walk in air ]",
+      "name": "[ Walk in air ] | 空中行走",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "[ Fast Mine ]",
+      "name": "[ Fast Mine ] | 快速挖掘",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "[ High Jump ]",
+      "name": "[ High Jump ] | 高跳",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "[ Jump Forward x2 ]",
+      "name": "[ Jump Forward x2 ] | 二段跳",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "[ Head Rotation 360 ]",
+      "name": "[ Head Rotation 360 ] | 360度转头",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "[ Fast Attack and Place ]",
+      "name": "[ Fast Attack and Place ] | 快速攻击与放置",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "[ Max Xp ]",
+      "name": "[ Max Xp ] | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "[ Unlimited Crafting ]",
+      "name": "[ Unlimited Crafting ] | 无限合成",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "[ Reach Blocks 25 ]",
+      "name": "[ Reach Blocks 25 ] | 方块触及25",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "[ Reach Attack 25]",
+      "name": "[ Reach Attack 25] | 攻击范围25",
       "type": "checkbox",
       "memory": [
         {
@@ -115,8 +115,7 @@
       ]
     },
     {
-      "name": "[ Infinite Items ]",
-      "description": "You need atleast 2 items in a single item slot to have infinite.",
+      "name": "[ Infinite Items ] | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -127,8 +126,7 @@
       ]
     },
     {
-      "name": "[ Infinite Items (use) ]",
-      "description": "You need atleast 2 items in a single item slot to have infinite.",
+      "name": "[ Infinite Items (use) ] | 无限物品（使用）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,8 +137,7 @@
       ]
     },
     {
-      "name": "[ Infinite Health ]",
-      "description": "Including monsters, animals and other players.",
+      "name": "[ Infinite Health ] | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -151,8 +148,7 @@
       ]
     },
     {
-      "name": "[ Infinite Food ]",
-      "description": "Including monsters, animals and other players.",
+      "name": "[ Infinite Food ] | 无限饱食度",
       "type": "checkbox",
       "memory": [
         {
@@ -163,7 +159,7 @@
       ]
     },
     {
-      "name": "[ Freeze Time Of Day ]",
+      "name": "[ Freeze Time Of Day ] | 冻结昼夜时间",
       "type": "checkbox",
       "memory": [
         {
@@ -174,9 +170,8 @@
       ]
     },
     {
-      "name": "[ Freeze Potions ]",
+      "name": "[ Freeze Potions ] | 冻结药水效果",
       "type": "checkbox",
-      "description": "+ Poison doesnt do damage",
       "memory": [
         {
           "offset": "491C32",

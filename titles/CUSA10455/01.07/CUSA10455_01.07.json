@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Master Code (MC)",
-      "description": "none",
+      "name": "Master Code (MC) | 主代码 (MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -32,8 +31,7 @@
       ]
     },
     {
-      "name": "Max Health (Enable MC)",
-      "description": "none",
+      "name": "Max Health (Enable MC) | 最大生命值 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -44,8 +42,7 @@
       ]
     },
     {
-      "name": "Max Health Car (Enable MC)",
-      "description": "none",
+      "name": "Max Health Car (Enable MC) | 车辆最大生命值 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -56,8 +53,7 @@
       ]
     },
     {
-      "name": "Max Shield (Enable MC)",
-      "description": "none",
+      "name": "Max Shield (Enable MC) | 最大护盾 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -68,8 +64,7 @@
       ]
     },
     {
-      "name": "Max Nitro (Enable MC)",
-      "description": "none",
+      "name": "Max Nitro (Enable MC) | 最大加速 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -80,8 +75,7 @@
       ]
     },
     {
-      "name": "Max XP/Level (Enable MC)",
-      "description": "none",
+      "name": "Max XP/Level (Enable MC) | 最大经验/等级 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -92,8 +86,7 @@
       ]
     },
     {
-      "name": "Max Skill Points",
-      "description": "Triggered by spending the first skill points",
+      "name": "Max Skill Points | 最大技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -109,8 +102,7 @@
       ]
     },
     {
-      "name": "Max Money",
-      "description": "none",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -126,8 +118,7 @@
       ]
     },
     {
-      "name": "Unlock Weapons Slots (Enable MC)",
-      "description": "none",
+      "name": "Unlock Weapons Slots (Enable MC) | 解锁武器栏位 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -138,8 +129,7 @@
       ]
     },
     {
-      "name": "Max Weapon Skill",
-      "description": "Triggered by killing an enemy with a weapon from each category",
+      "name": "Max Weapon Skill | 最大武器熟练度",
       "type": "checkbox",
       "memory": [
         {
@@ -155,8 +145,7 @@
       ]
     },
     {
-      "name": "Max Weapon Accuracy (Enable MC)",
-      "description": "none",
+      "name": "Max Weapon Accuracy (Enable MC) | 最大武器精度 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -172,8 +161,7 @@
       ]
     },
     {
-      "name": "Max Demage/One Hit Kill (Enable MC)",
-      "description": "none",
+      "name": "Max Demage/One Hit Kill (Enable MC) | 最大伤害/一击必杀 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -194,8 +182,7 @@
       ]
     },
     {
-      "name": "Max Ammo (Enable MC)",
-      "description": "none",
+      "name": "Max Ammo (Enable MC) | 最大弹药 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -216,8 +203,7 @@
       ]
     },
     {
-      "name": "No Reload (Enable MC)",
-      "description": "none",
+      "name": "No Reload (Enable MC) | 无需装弹 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -228,8 +214,7 @@
       ]
     },
     {
-      "name": "Space in the Backpack x99 (Enable MC)",
-      "description": "none",
+      "name": "Space in the Backpack x99 (Enable MC) | 背包空间x99 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -240,8 +225,7 @@
       ]
     },
     {
-      "name": "Ignored by the Enemy (Enable MC)",
-      "description": "none",
+      "name": "Ignored by the Enemy (Enable MC) | 敌人无视 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -252,8 +236,7 @@
       ]
     },
     {
-      "name": "Hyper Run (Enable MC)",
-      "description": "none",
+      "name": "Hyper Run (Enable MC) | 超级奔跑 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -264,8 +247,7 @@
       ]
     },
     {
-      "name": "Jump x2 (Enable MC)",
-      "description": "none",
+      "name": "Jump x2 (Enable MC) | 二段跳 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {
@@ -276,8 +258,7 @@
       ]
     },
     {
-      "name": "Infinite Golden Keys (Enable MC)",
-      "description": "Use golden keys only after reaching max level so you get equivalent weapons/items",
+      "name": "Infinite Golden Keys (Enable MC) | 无限金钥匙 (需启用MC)",
       "type": "checkbox",
       "memory": [
         {

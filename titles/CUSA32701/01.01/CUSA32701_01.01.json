@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Guard Gauge",
+      "name": "Infinite Guard Gauge | 无限防御槽",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Medi Packs ( on use )",
+      "name": "Max Medi Packs ( on use ) | 最大医疗包（使用后）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Ammo Clip",
+      "name": "Max Ammo Clip | 无限弹匣",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Grenades",
+      "name": "Max Grenades | 无限手雷",
       "type": "checkbox",
       "memory": [
         {

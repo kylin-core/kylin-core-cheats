@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Always Homerun",
+      "name": "Always Homerun | 全垒打",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Autohit 2000.0MPH Incline 19.0deg Azimuth 5.5deg",
+      "name": "Autohit 2000.0MPH Incline 19.0deg Azimuth 5.5deg | 自动击球 2000.0英里/时 仰角19.0度 方位角5.5度",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Always Throw FB Middle",
+      "name": "Always Throw FB Middle | 始终投正中直球",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Always Swing and Miss",
+      "name": "Always Swing and Miss | 挥棒必空",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Always Strike and Contact No Fouls",
+      "name": "Always Strike and Contact No Fouls | 击球必中无界外",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Stop the Ball (and steal)",
+      "name": "Stop the Ball (and steal) | 停球（并盗垒）",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Just training (in calendar screen only)",
+      "name": "Just training (in calendar screen only) | 仅训练（仅在日历界面）",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Add score 31 runs per hit",
+      "name": "Add score 31 runs per hit | 每次安打加31分",
       "type": "checkbox",
       "memory": [
         {
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Maximum hitspeed 3500MPH",
+      "name": "Maximum hitspeed 3500MPH | 最大击球速度3500英里/时",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
+      "name": "Infinite Rage | 无限怒火",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Instant R3",
+      "name": "Instant R3 | 立即R3终结",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infinite Projectiles",
+      "name": "Infinite Projectiles | 无限投射物",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Resources up (on craft/sell)",
+      "name": "Resources up (on craft/sell) | 资源获取加倍(制作/出售时)",
       "type": "checkbox",
       "memory": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "XP/HS/Resource Multiplier (on get) (default: 2x)",
+      "name": "XP/HS/Resource Multiplier (on get) (default: 2x) | 经验/资源倍率(获得时)(默认:2倍)",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "5x",
+      "name": "5x | 5倍",
       "type": "button",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "10x",
+      "name": "10x | 10倍",
       "type": "button",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "25x",
+      "name": "25x | 25倍",
       "type": "button",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier (default: 2x)",
+      "name": "Damage Multiplier (default: 2x) | 伤害倍率(默认:2倍)",
       "type": "checkbox",
       "memory": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "* 0.5x",
+      "name": "* 0.5x | * 0.5倍",
       "type": "button",
       "memory": [
         {
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": "* 3x",
+      "name": "* 3x | * 3倍",
       "type": "button",
       "memory": [
         {
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "name": "* 5x",
+      "name": "* 5x | * 5倍",
       "type": "button",
       "memory": [
         {

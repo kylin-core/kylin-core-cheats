@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Backport 5.05 ver 01.05",
+      "name": "Backport 5.05 ver 01.05 | 回滚5.05版01.05",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "HP",
+      "name": "HP | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Zombies x Buddies",
+      "name": "Zombies x Buddies | 僵尸与伙伴",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Weapon list on Vault",
+      "name": "Weapon list on Vault | 金库武器列表",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Ammo No Reload",
+      "name": "Ammo No Reload | 弹药无需装填",
       "type": "checkbox",
       "memory": [
         {

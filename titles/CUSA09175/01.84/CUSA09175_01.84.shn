@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DAYS GONE" Moder="Celogamez" Cusa="CUSA09175" Version="01.84" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7FC5FEB0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Endurance/Focus">
+    <Cheat Text="Infinite Endurance/Focus | 无限耐力/专注">
         <Cheatline>
             <Offset>7FC5FF00</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items (Don't Use Max Items)">
+    <Cheat Text="Infinite Items (Don't Use Max Items) | 无限物品（不使用最大物品）">
         <Cheatline>
             <Offset>1275BB0</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>55</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Items (Get Items First/Reload Game)">
+    <Cheat Text="Max Items (Get Items First/Reload Game) | 最大物品（先获取物品/重载游戏）">
         <Cheatline>
             <Offset>7FC5FD70</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>7FC5FE80</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Suppressor">
+    <Cheat Text="Infinite Suppressor | 无限消音器">
         <Cheatline>
             <Offset>7FC5FE30</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>7FC5FDE0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bike Durability (Disable On Chase Bike Missions)">
+    <Cheat Text="Infinite Bike Durability (Disable On Chase Bike Missions) | 无限摩托车耐久度（追逐摩托车任务时关闭）">
         <Cheatline>
             <Offset>7FC5D080</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Bike Fuel">
+    <Cheat Text="Infinite Bike Fuel | 无限摩托车燃料">
         <Cheatline>
             <Offset>7FC5FDB0</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitro Turbo ">
+    <Cheat Text="Infinite Nitro Turbo | 无限氮气加速">
         <Cheatline>
             <Offset>7FC5FE00</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Skill Points">
+    <Cheat Text="Infinite Skill Points | 无限技能点">
         <Cheatline>
             <Offset>E76C29</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>2B-91-80-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Level Up/XP On Gain">
+    <Cheat Text="Max Level Up/XP On Gain | 最大升级/获得经验时满级">
         <Cheatline>
             <Offset>7FC5F6C0</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Infinite Money(Buy Or Sell) Turn Off Before New Camp">
+    <Cheat Text="Max Infinite Money(Buy Or Sell) Turn Off Before New Camp | 最大无限金钱（购买或出售）进入新营地前关闭">
         <Cheatline>
             <Offset>7FC5FF90</Offset>
             <Section>0</Section>

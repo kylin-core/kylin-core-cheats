@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="dragon quest xi" Moder="cjwine" Cusa="CUSA08397" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="god mode">
+    <Cheat Text="god mode | 上帝模式">
         <Cheatline>
             <Offset>6AEF800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="money max">
+    <Cheat Text="money max | 金钱最大">
         <Cheatline>
             <Offset>6AEF81F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="one hit kill">
+    <Cheat Text="one hit kill | 一击必杀">
         <Cheatline>
             <Offset>6AEF833</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="inf mp">
+    <Cheat Text="inf mp | 无限MP">
         <Cheatline>
             <Offset>F36211</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>41-89-46-58</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="max lv99">
+    <Cheat Text="max lv99 | 最大等级99">
         <Cheatline>
             <Offset>6AEF853</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="add point after used">
+    <Cheat Text="add point after used | 使用后加点">
         <Cheatline>
             <Offset>1025302</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>41-89-95-90-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="item buy get max">
+    <Cheat Text="item buy get max | 购买物品最大数量">
         <Cheatline>
             <Offset>6AEF865</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="item  used get more">
+    <Cheat Text="item used get more | 使用物品获取更多">
         <Cheatline>
             <Offset>6AEF875</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="SPPED UP">
+    <Cheat Text="SPPED UP | 加速">
         <Cheatline>
             <Offset>6AEF887</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="fly to sky (wall pass)">
+    <Cheat Text="fly to sky (wall pass) | 飞空（穿墙）">
         <Cheatline>
             <Offset>6AEF8A7</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="DRAGON BALL XENOVERSE 2" Moder="Celogamez" Cusa="CUSA05350" Version="01.34" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max/Infinite Health/1 Hit Kill (Master Code)">
+    <Cheat Text="Max/Infinite Health/1 Hit Kill (Master Code) | 最大/无限体力/一击必杀(主代码)">
         <Cheatline>
             <Offset>2AD3570</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (Need MC)">
+    <Cheat Text="1 Hit Kill (Need MC) | 一击必杀(需主代码)">
         <Cheatline>
             <Offset>2AD3575</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-1A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>2AD3900</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ki">
+    <Cheat Text="Infinite Ki | 无限气力">
         <Cheatline>
             <Offset>2AD37E0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Zeni">
+    <Cheat Text="Max Zeni | 最大泽尼">
         <Cheatline>
             <Offset>86579F</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>3D-00-CA-9A-3B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max TP">
+    <Cheat Text="Max TP | 最大TP">
         <Cheatline>
             <Offset>2AD3B10</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Attribute Points">
+    <Cheat Text="Max/Infinite Attribute Points | 最大/无限属性点">
         <Cheatline>
             <Offset>2AD3A30</Offset>
             <Section>0</Section>

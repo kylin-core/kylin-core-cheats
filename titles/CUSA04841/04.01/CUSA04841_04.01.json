@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Sprint",
+      "name": "Infinite Sprint | 无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Jetpack",
+      "name": "Infinite Jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Pet Sprint",
+      "name": "Infinite Pet Sprint | 宠物无限冲刺",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Gun Ammo",
+      "name": "Infinite Gun Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Minotaur Infinite Jetpack",
+      "name": "Minotaur Infinite Jetpack | 机甲无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Max Quicksilver (on spend)",
+      "name": "Max Quicksilver (on spend) | 最大水银（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max Nanite Clusters (on gain)",
+      "name": "Max Nanite Clusters (on gain) | 最大纳米星团（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Max Unites (on spend)",
+      "name": "Max Unites (on spend) | 最大货币（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "999 Salvaged Data (on spend)",
+      "name": "999 Salvaged Data (on spend) | 999个回收数据（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "999 Minerals (on gain)",
+      "name": "999 Minerals (on gain) | 999个矿物（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "999 Minerals (on use)",
+      "name": "999 Minerals (on use) | 999个矿物（使用时）",
       "type": "checkbox",
       "memory": [
         {

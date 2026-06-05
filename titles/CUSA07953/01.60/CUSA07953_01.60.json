@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health + One hit kill",
+      "name": "Infinite Health + One hit kill | 无限生命 + 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Magic",
+      "name": "Infinite Magic | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Gold x999999",
+      "name": "Infinite Gold x999999 | 无限金钱 x999999",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Items x99 (Need 2 to work)",
+      "name": "Items x99 (Need 2 to work) | 物品 x99 （需至少拥有2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets x99",
+      "name": "Infinite Bullets x99 | 无限子弹 x99",
       "type": "checkbox",
       "memory": [
         {

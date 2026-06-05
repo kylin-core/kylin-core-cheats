@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo (Inventory)",
+      "name": "Infinite Ammo (Inventory) | 无限弹药（库存）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo (No Reload)",
+      "name": "Infinite Ammo (No Reload) | 无限弹药（无需装弹）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "999,999,999 Score on Gain",
+      "name": "999,999,999 Score on Gain | 得分增加时获得999,999,999分",
       "type": "checkbox",
       "memory": [
         {

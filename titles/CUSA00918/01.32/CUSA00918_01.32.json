@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Debug Menu",
+      "name": "Debug Menu | 调试菜单",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Debug menu Display",
+      "name": "Debug menu Display | 调试菜单显示",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="No Man's Sky" Moder="VitriolUsurper" Cusa="CUSA04841" Version="04.42" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite - Player Sheild">
+    <Cheat Text="Infinite - Player Sheild | 无限 - 玩家护盾">
         <Cheatline>
             <Offset>DAB6C1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>39-D0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite - Player Health">
+    <Cheat Text="Infinite - Player Health | 无限 - 玩家生命">
         <Cheatline>
             <Offset>27A637</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>39-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite - StarShip Sheild">
+    <Cheat Text="Infinite - StarShip Sheild | 无限 - 飞船护盾">
         <Cheatline>
             <Offset>DAB633</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>39-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite - StarShip Health">
+    <Cheat Text="Infinite - StarShip Health | 无限 - 飞船生命">
         <Cheatline>
             <Offset>27A60C</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>39-C3</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Units - On Gain">
+    <Cheat Text="Max Units - On Gain | 最大货币 - 获取时">
         <Cheatline>
             <Offset>285BCE</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>0F-43-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Nanites - On Gain">
+    <Cheat Text="Max Nanites - On Gain | 最大纳米星团 - 获取时">
         <Cheatline>
             <Offset>2722DE</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>0F-43-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Quicksliver - On Gain">
+    <Cheat Text="Max Quicksliver - On Gain | 最大水银 - 获取时">
         <Cheatline>
             <Offset>285C8B</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>0F-43-C6</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Units">
+    <Cheat Text="Frozen - Units | 锁定 - 货币">
         <Cheatline>
             <Offset>285AB4</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Nanites">
+    <Cheat Text="Frozen - Nanites | 锁定 - 纳米星团">
         <Cheatline>
             <Offset>285B34</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Quicksilver">
+    <Cheat Text="Frozen - Quicksilver | 锁定 - 水银">
         <Cheatline>
             <Offset>285B98</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>29-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Mining Beam">
+    <Cheat Text="Frozen - Mining Beam | 锁定 - 采矿光束">
         <Cheatline>
             <Offset>D5A553</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>29-41-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Terrain Manipulator">
+    <Cheat Text="Frozen - Terrain Manipulator | 锁定 - 地形操纵器">
         <Cheatline>
             <Offset>EA3B4F</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>4C-8D-25-AA-7F-59-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Boltcaster Ammo">
+    <Cheat Text="Frozen - Boltcaster Ammo | 锁定 - 爆裂炮弹药">
         <Cheatline>
             <Offset>D694E3</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>41-89-84-8D-18-27-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Plasma Launcher Ammo">
+    <Cheat Text="Frozen - Plasma Launcher Ammo | 锁定 - 等离子发射器弹药">
         <Cheatline>
             <Offset>D68619</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>41-FF-4E-18</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Scatter Blaster Ammo">
+    <Cheat Text="Frozen - Scatter Blaster Ammo | 锁定 - 散射爆裂炮弹药">
         <Cheatline>
             <Offset>D694E0</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>44-29-E0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Pulse Spitter Ammo">
+    <Cheat Text="Frozen - Pulse Spitter Ammo | 锁定 - 脉冲喷射器弹药">
         <Cheatline>
             <Offset>D694E0</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>44-29-E0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Frozen - Geology Cannon Ammo">
+    <Cheat Text="Frozen - Geology Cannon Ammo | 锁定 - 地质炮弹药">
         <Cheatline>
             <Offset>D68619</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Faster Movement MasterCode",
+      "name": "Faster Movement MasterCode | 快速移动主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Run/Swim Faster MasterCode",
+      "name": "Run/Swim Faster MasterCode | 奔跑/游泳加速主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Gravity MasterCode",
+      "name": "Gravity MasterCode | 重力主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Reduce Slipp. MasterCode",
+      "name": "Reduce Slipp. MasterCode | 防滑主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Super Jump MasterCode",
+      "name": "Super Jump MasterCode | 超级跳跃主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Forward Day Time MasterCode",
+      "name": "Forward Day Time MasterCode | 快进白天主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Oxygen Mask MasterCode",
+      "name": "Oxygen Mask MasterCode | 氧气面罩主控代码",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Infinite Health Player",
+      "name": "Infinite Health Player | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Extra XP On Gain",
+      "name": "Extra XP On Gain | 额外经验值获得",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Extra Karma Pts. On Gain",
+      "name": "Extra Karma Pts. On Gain | 额外业力点数获得",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Extra Carry On Loot Bag",
+      "name": "Extra Carry On Loot Bag | 额外战利品袋容量",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Stealth",
+      "name": "Stealth | 潜行模式",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Movement Faster",
+      "name": "Movement Faster | 移动加速",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "Run/Swim Faster (Press L3)",
+      "name": "Run/Swim Faster (Press L3) | 奔跑/游泳加速（按下L3）",
       "type": "checkbox",
       "memory": [
         {
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "name": "Low Gravity",
+      "name": "Low Gravity | 低重力",
       "type": "checkbox",
       "memory": [
         {
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "name": "Easy Climb (Reduce Slipp.)",
+      "name": "Easy Climb (Reduce Slipp.) | 简易攀爬（防滑）",
       "type": "checkbox",
       "memory": [
         {
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "name": "Super Jump",
+      "name": "Super Jump | 超级跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "name": "Forward Day Time",
+      "name": "Forward Day Time | 快进白天",
       "type": "checkbox",
       "memory": [
         {
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen Mask",
+      "name": "Infinite Oxygen Mask | 无限氧气面罩",
       "type": "checkbox",
       "memory": [
         {
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "name": "Floating/Fly [Multi Tap X (Jump)]",
+      "name": "Floating/Fly [Multi Tap X (Jump)] | 悬浮/飞行（多次按X跳跃）",
       "type": "checkbox",
       "memory": [
         {

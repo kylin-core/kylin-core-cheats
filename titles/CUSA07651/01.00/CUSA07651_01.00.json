@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Kill all Enemies in Stage ( Reboot Ally after use !!! )",
+      "name": "Kill all Enemies in Stage ( Reboot Ally after use !!! ) | 清除场景全部敌人（使用后需重启队友！！！）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Boost",
+      "name": "Infinite Boost | 无限推进",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite Repair Kits ( Armor )",
+      "name": "Infinite Repair Kits ( Armor ) | 无限修复包（装甲）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Special Attacks",
+      "name": "Infinite Special Attacks | 无限特殊攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Infinite Energy ( Quick Menu )",
+      "name": "Infinite Energy ( Quick Menu ) | 无限能量（快捷菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinite Energy ( Rocket Launcher )",
+      "name": "Infinite Energy ( Rocket Launcher ) | 无限能量（火箭发射器）",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Burst ( Special Attack L3 + R3 )",
+      "name": "Infinite Burst ( Special Attack L3 + R3 ) | 无限爆发（特殊攻击L3+R3）",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Max GP",
+      "name": "Max GP | 最大GP",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Max Ace Points ( on gain )",
+      "name": "Max Ace Points ( on gain ) | 最大王牌点数（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Infinite Tickets",
+      "name": "Infinite Tickets | 无限票券",
       "type": "checkbox",
       "memory": [
         {

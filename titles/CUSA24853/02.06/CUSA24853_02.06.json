@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On)",
+      "name": "Infinite Health/1 Hit Kill (Master Code/Must Be On) | 无限生命/一击必杀（主代码/必须开启）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Health (Enable MC)",
+      "name": "Infinite Health (Enable MC) | 无限生命（开启主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill (Enable MC)",
+      "name": "1 Hit Kill (Enable MC) | 一击必杀（开启主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Max Infinite Rots/Level On Gain",
+      "name": "Max Infinite Rots/Level On Gain | 最大/无限腐灵数/升级时获得",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Shield/Rots On Use (Disable Master Code)",
+      "name": "Max/Infinite Shield/Rots On Use (Disable Master Code) | 最大/无限护盾/使用腐灵（禁用主代码）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "No Wasting Time To Use Rots",
+      "name": "No Wasting Time To Use Rots | 腐灵瞬召无延迟",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Skill Points On Gain/Use",
+      "name": "Max/Infinite Skill Points On Gain/Use | 最大/无限技能点（获得/使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max/Infinite Cristals On Gain/Buy",
+      "name": "Max/Infinite Cristals On Gain/Buy | 最大/无限水晶（获得/购买时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo (squad and turret)",
+      "name": "Infinite Ammo (squad and turret) | 无限弹药（小队与炮台）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite item use (on the mission)",
+      "name": "Infinite item use (on the mission) | 无限物品使用（任务中）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Materials (on spend)",
+      "name": "Max Materials (on spend) | 最大物资（消耗时）",
       "type": "checkbox",
       "memory": [
         {

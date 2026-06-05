@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP Blue Hearts (J1 and J2) ",
+      "name": "Inf HP Blue Hearts (J1 and J2) | 无限蓝心 (玩家1和玩家2)",
       "type": "checkbox",
       "memory": [
         {
-          "section": "11",
           "offset": "33E959",
           "on": "9090909090909090",
           "off": "41898424B4180000"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "Inf HP Red Hearts (J1 and J2)",
+      "name": "Inf HP Red Hearts (J1 and J2) | 无限红心 (玩家1和玩家2)",
       "type": "checkbox",
       "memory": [
         {
-          "section": "11",
           "offset": "316C12",
           "on": "90909090909090",
           "off": "418987AC180000"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "Coins x99 or x999",
+      "name": "Coins x99 or x999 | 金币 x99 或 x999",
       "type": "checkbox",
       "memory": [
         {
-          "section": "11",
           "offset": "3178E4",
           "on": "41898ED0180000",
           "off": "418986D0180000"
@@ -41,11 +38,10 @@
       ]
     },
     {
-      "name": "Bombs x99",
+      "name": "Bombs x99 | 炸弹 x99",
       "type": "checkbox",
       "memory": [
         {
-          "section": "11",
           "offset": "3536E1",
           "on": "89C1",
           "off": "89C8"
@@ -53,11 +49,10 @@
       ]
     },
     {
-      "name": "Keys x99",
+      "name": "Keys x99 | 钥匙 x99",
       "type": "checkbox",
       "memory": [
         {
-          "section": "11",
           "offset": "317C4E",
           "on": "0F4CF0",
           "off": "0F4CC6"
@@ -65,11 +60,10 @@
       ]
     },
     {
-      "name": "Infinite energy on Active Item",
+      "name": "Infinite energy on Active Item | 主动道具无限能量",
       "type": "checkbox",
       "memory": [
         {
-          "section": "11",
           "offset": "317247",
           "on": "9090",
           "off": "29D8"
@@ -77,7 +71,7 @@
       ]
     },
     {
-      "name": "Add DMG +100",
+      "name": "Add DMG +100 | 攻击力 +100",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +87,7 @@
       ]
     },
     {
-      "name": "Add Luck +25",
+      "name": "Add Luck +25 | 幸运值 +25",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +103,7 @@
       ]
     },
     {
-      "name": "Add Range +40",
+      "name": "Add Range +40 | 射程 +40",
       "type": "checkbox",
       "memory": [
         {
@@ -125,7 +119,7 @@
       ]
     },
     {
-      "name": "Add Death Certificate(Enable and Disable after obtain)",
+      "name": "Add Death Certificate(Enable and Disable after obtain) | 添加死亡证明 (获取后启用/禁用)",
       "type": "checkbox",
       "memory": [
         {

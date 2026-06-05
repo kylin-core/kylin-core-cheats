@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Disable Infinite Health",
+      "name": "Disable Infinite Health | 禁用无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Disable Max Health",
+      "name": "Disable Max Health | 禁用最大生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Disable Infinite Stamina / Mana",
+      "name": "Disable Infinite Stamina / Mana | 禁用无限耐力/法力",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Disable Max Stamina / Mana",
+      "name": "Disable Max Stamina / Mana | 禁用最大耐力/法力",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Disable Infinite Focus",
+      "name": "Disable Infinite Focus | 禁用无限专注",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Disable Max Focus",
+      "name": "Disable Max Focus | 禁用最大专注",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Disable Max EXP",
+      "name": "Disable Max EXP | 禁用最大经验",
       "type": "checkbox",
       "memory": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Disable Max Ability Points",
+      "name": "Disable Max Ability Points | 禁用最大技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Disable Max Cooldown",
+      "name": "Disable Max Cooldown | 禁用最大冷却缩减",
       "type": "checkbox",
       "memory": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "name": "Disable Max STR",
+      "name": "Disable Max STR | 禁用最大力量",
       "type": "checkbox",
       "memory": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Disable Max DEX",
+      "name": "Disable Max DEX | 禁用最大敏捷",
       "type": "checkbox",
       "memory": [
         {
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "name": "Disable Max MAG",
+      "name": "Disable Max MAG | 禁用最大魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Disable Max Cunning",
+      "name": "Disable Max Cunning | 禁用最大狡诈",
       "type": "checkbox",
       "memory": [
         {
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "Disable Max Willpower",
+      "name": "Disable Max Willpower | 禁用最大意志力",
       "type": "checkbox",
       "memory": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Disable Max CON",
+      "name": "Disable Max CON | 禁用最大体质",
       "type": "checkbox",
       "memory": [
         {
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "Disable Max Attack",
+      "name": "Disable Max Attack | 禁用最大攻击",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Disable Max Guard Damage",
+      "name": "Disable Max Guard Damage | 禁用最大护甲伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Disable Max Penetration",
+      "name": "Disable Max Penetration | 禁用最大穿透",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Disable Max Barrier Damage Bonus",
+      "name": "Disable Max Barrier Damage Bonus | 禁用最大屏障伤害加成",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Disable Max Critical Damage Bonus",
+      "name": "Disable Max Critical Damage Bonus | 禁用最大暴击伤害加成",
       "type": "checkbox",
       "memory": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": "Disable Max Critical Chance",
+      "name": "Disable Max Critical Chance | 禁用最大暴击几率",
       "type": "checkbox",
       "memory": [
         {
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "name": "Disable Max Main Hand Bonus",
+      "name": "Disable Max Main Hand Bonus | 禁用最大主手加成",
       "type": "checkbox",
       "memory": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "name": "Disable Max Off Hand Bonus",
+      "name": "Disable Max Off Hand Bonus | 禁用最大副手加成",
       "type": "checkbox",
       "memory": [
         {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Disable Max Sunder On Hit",
+      "name": "Disable Max Sunder On Hit | 禁用最大破甲命中",
       "type": "checkbox",
       "memory": [
         {
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "name": "Disable Max Stagger On Hit",
+      "name": "Disable Max Stagger On Hit | 禁用最大失衡命中",
       "type": "checkbox",
       "memory": [
         {
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "name": "Disable Heal On Kill",
+      "name": "Disable Heal On Kill | 禁用击杀回血",
       "type": "checkbox",
       "memory": [
         {
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "name": "Disable Max Flanking Damage",
+      "name": "Disable Max Flanking Damage | 禁用最大背刺伤害",
       "type": "checkbox",
       "memory": [
         {
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "name": "Disable Max Magic Defense",
+      "name": "Disable Max Magic Defense | 禁用最大魔法防御",
       "type": "checkbox",
       "memory": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "name": "Disable Max Melee Defense",
+      "name": "Disable Max Melee Defense | 禁用最大近战防御",
       "type": "checkbox",
       "memory": [
         {
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "name": "Disable Max Range Defense",
+      "name": "Disable Max Range Defense | 禁用最大远程防御",
       "type": "checkbox",
       "memory": [
         {
@@ -335,7 +335,7 @@
       ]
     },
     {
-      "name": "Disable Max Cold Resistance",
+      "name": "Disable Max Cold Resistance | 禁用最大冰抗",
       "type": "checkbox",
       "memory": [
         {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "name": "Disable Max Electric Resistance",
+      "name": "Disable Max Electric Resistance | 禁用最大电抗",
       "type": "checkbox",
       "memory": [
         {
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "name": "Disable Max Fire Resistance",
+      "name": "Disable Max Fire Resistance | 禁用最大火抗",
       "type": "checkbox",
       "memory": [
         {
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "name": "Disable Max Spirit Resistance",
+      "name": "Disable Max Spirit Resistance | 禁用最大灵抗",
       "type": "checkbox",
       "memory": [
         {
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "name": "Disable Max Guard (Auto Cast)",
+      "name": "Disable Max Guard (Auto Cast) | 禁用最大护甲（自动施放）",
       "type": "checkbox",
       "memory": [
         {
@@ -390,7 +390,7 @@
       ]
     },
     {
-      "name": "Disable Max Barrier (Auto Cast)",
+      "name": "Disable Max Barrier (Auto Cast) | 禁用最大屏障（自动施放）",
       "type": "checkbox",
       "memory": [
         {
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "name": "Max Item",
+      "name": "Max Item | 最大物品",
       "type": "checkbox",
       "memory": [
         {
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "name": "Max Gold",
+      "name": "Max Gold | 最大金币",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Yen (on spend)",
+      "name": "Max Yen (on spend) | 最大金钱（消费时）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Abilities Points Multiplier(on use)",
+      "name": "Abilities Points Multiplier(on use) | 能力点数倍率（使用时）",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Heat/dragon spirit use (after the first fill)",
+      "name": "Infinite Heat/dragon spirit use (after the first fill) | 无限热血/龙魂使用（首次填满后）",
       "type": "checkbox",
       "memory": [
         {

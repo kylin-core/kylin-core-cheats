@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Atelier Ryza: Ever Darkness & the Secret Hideout" Moder="Muhanned" Cusa="CUSA16458" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Max Money on Purchase">
+    <Cheat Text="Max Money on Purchase | 购买时金钱最大">
         <Cheatline>
             <Offset>4C83B2</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>41-89-07</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Stock In shop duplicated don't exceed 99 it will be negative">
+    <Cheat Text="Stock In shop duplicated don't exceed 99 it will be negative | 商店库存复制（超过99会变负数）">
         <Cheatline>
             <Offset>4BF7D6</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>40-28-34-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freez Item in shop">
+    <Cheat Text="Freez Item in shop | 锁定商店物品">
         <Cheatline>
             <Offset>4BF7D6</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>40-28-34-41</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Fast Alcemy Lv">
+    <Cheat Text="Fast Alcemy Lv | 快速炼金术等级">
         <Cheatline>
             <Offset>1F6803</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-16</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max status">
+    <Cheat Text="Max status | 最大状态">
         <Cheatline>
             <Offset>453EA8</Offset>
             <Section>0</Section>

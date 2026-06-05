@@ -5,11 +5,10 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "FC points use doubled",
+      "name": "FC points use doubled | FC点数消耗翻倍",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "495A8",
           "on": "480181F05A0000",
           "off": "488981F05A0000"
@@ -17,11 +16,10 @@
       ]
     },
     {
-      "name": "AP points use doubled",
+      "name": "AP points use doubled | AP点数消耗翻倍",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "A4672",
           "on": "0137",
           "off": "8937"
@@ -29,11 +27,10 @@
       ]
     },
     {
-      "name": "GAP points use doubled",
+      "name": "GAP points use doubled | GAP点数消耗翻倍",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "1B63B",
           "on": "660181E8680100",
           "off": "668981E8680100"
@@ -41,11 +38,10 @@
       ]
     },
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "60822",
           "on": "C5FA1110",
           "off": "C5FA1100"
@@ -53,11 +49,10 @@
       ]
     },
     {
-      "name": "lnfinite Stamina",
+      "name": "lnfinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "60F92",
           "on": "C5FA115008",
           "off": "C5FA114008"
@@ -65,11 +60,10 @@
       ]
     },
     {
-      "name": "lnfinite OP",
+      "name": "lnfinite OP | 无限OP",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "60C22",
           "on": "C5FA115004",
           "off": "C5FA114004"
@@ -77,11 +71,10 @@
       ]
     },
     {
-      "name": "ltems use doubled",
+      "name": "ltems use doubled | 道具消耗翻倍",
       "type": "checkbox",
       "memory": [
         {
-          "section": "19",
           "offset": "1CC53",
           "on": "6645014104",
           "off": "6645894104"
@@ -89,7 +82,7 @@
       ]
     },
     {
-      "name": "ltems sold doubled",
+      "name": "ltems sold doubled | 道具出售翻倍",
       "type": "checkbox",
       "memory": [
         {

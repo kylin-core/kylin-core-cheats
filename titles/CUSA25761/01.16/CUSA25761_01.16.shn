@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SIFU" Moder="Wander FW9.00" Cusa="CUSA25761" Version="01.16" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite health">
+    <Cheat Text="Infinite health | 无限生命">
         <Cheatline>
             <Offset>8A33950</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Experience/Score (on the second fight Turn off after)">
+    <Cheat Text="Max Experience/Score (on the second fight Turn off after) | 最大经验/分数（第二次战斗后关闭）">
         <Cheatline>
             <Offset>8A33990</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "Inf Health",
+      "name": "Inf Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Ammo / No Reload",
+      "name": "Inf Ammo / No Reload | 无限弹药/无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Throwables",
+      "name": "Inf Throwables | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Sherman Tank (Inf HP)",
+      "name": "Sherman Tank (Inf HP) | 谢尔曼坦克（无限生命值）",
       "type": "checkbox",
       "memory": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Tank MG (No Overheating)",
+      "name": "Tank MG (No Overheating) | 坦克机枪（无过热）",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "P-47 (Inf HP)",
+      "name": "P-47 (Inf HP) | P-47（无限生命值）",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "P-47  MG (No Overheating) ",
+      "name": "P-47 MG (No Overheating) | P-47机枪（无过热）",
       "type": "checkbox",
       "memory": [
         {

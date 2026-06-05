@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="ACE COMBAT™ 7: SKIES UNKNOWN" Moder="DementedAI" Cusa="CUSA05636" Version="01.51" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Missile and Special Weapons">
+    <Cheat Text="Infinite Missile and Special Weapons | 无限导弹与特殊武器">
         <Cheatline>
             <Offset>16ED3F9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-10</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dont lose MRP on spend">
+    <Cheat Text="Dont lose MRP on spend | 消费MRP不减少">
         <Cheatline>
             <Offset>126C347</Offset>
             <Section>0</Section>

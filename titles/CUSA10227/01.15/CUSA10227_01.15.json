@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health (Player / Pet)",
+      "name": "Infinite Health (Player / Pet) | 无限生命（玩家/宠物）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "1 Hit Kill",
+      "name": "1 Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Max Gold (On Get)",
+      "name": "Max Gold (On Get) | 最大金币（获取时）",
       "type": "checkbox",
       "memory": [
         {

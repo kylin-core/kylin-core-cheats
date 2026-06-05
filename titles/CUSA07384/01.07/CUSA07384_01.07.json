@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Shield",
+      "name": "Infinite Shield | 无限护盾",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Infinite Bullets",
+      "name": "Infinite Bullets | 无限子弹",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Infinite Laser + Granades + Hatchets (100)",
+      "name": "Infinite Laser + Granades + Hatchets (100) | 无限激光+手榴弹+飞斧 (100)",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Infinite Upgrade Kits + Enigma Codes (99)",
+      "name": "Infinite Upgrade Kits + Enigma Codes (99) | 无限升级套件+谜语密码 (99)",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Enemy Doesnt Shoot (except Uebersoldaten)",
+      "name": "Enemy Doesnt Shoot (except Uebersoldaten) | 敌人不开火（超级士兵除外）",
       "type": "checkbox",
       "memory": [
         {

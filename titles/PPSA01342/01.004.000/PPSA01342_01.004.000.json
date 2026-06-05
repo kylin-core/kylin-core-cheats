@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinity HP",
+      "name": "Infinity HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinity MP",
+      "name": "Infinity MP | 无限魔力",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Untouchable",
+      "name": "Untouchable | 无伤状态",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinity Stamina",
+      "name": "Infinity Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "Enemy Zero Stamina",
+      "name": "Enemy Zero Stamina | 敌人零耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Infinity Max Souls",
+      "name": "Infinity Max Souls | 无限最大魂量",
       "type": "checkbox",
       "memory": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Infinity Weapon Durability",
+      "name": "Infinity Weapon Durability | 无限武器耐久度",
       "type": "checkbox",
       "memory": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "No Souls loss Upon Death",
+      "name": "No Souls loss Upon Death | 死亡不损失魂",
       "type": "checkbox",
       "memory": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "name": "Max Items (Use, Move, Drop)",
+      "name": "Max Items (Use, Move, Drop) | 物品最大化（使用、移动、丢弃）",
       "type": "checkbox",
       "memory": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Duplicate Anything (Storage * Inventory)",
+      "name": "Duplicate Anything (Storage * Inventory) | 复制任何物品（仓库*背包）",
       "type": "checkbox",
       "memory": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "All Infinity Health (for training)",
+      "name": "All Infinity Health (for training) | 全无限生命（训练用）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "MaX XP (use it for one kill then turn it off)",
+      "name": "MaX XP (use it for one kill then turn it off) | 最大经验值（使用一次击杀后关闭）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Money",
+      "name": "Inf Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "inf Stamina",
+      "name": "inf Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Inf Blood",
+      "name": "Inf Blood | 无限血液",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Inf Ammo",
+      "name": "Inf Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Inf Craft Recycle (on sell)",
+      "name": "Inf Craft Recycle (on sell) | 无限制作回收（出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Inf Items (on get)",
+      "name": "Inf Items (on get) | 无限物品（获取时）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Items Backpack",
-      "hint": null,
+      "name": "Infinite Items Backpack | 无限物品背包",
       "type": "checkbox",
       "memory": [
         {
@@ -22,8 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo and Items Consumables",
-      "hint": null,
+      "name": "Infinite Ammo and Items Consumables | 无限弹药与消耗品",
       "type": "checkbox",
       "memory": [
         {
@@ -39,8 +37,7 @@
       ]
     },
     {
-      "name": "Day never increased",
-      "hint": "Use after Day 1.",
+      "name": "Day never increased | 天数永不增加",
       "type": "checkbox",
       "memory": [
         {

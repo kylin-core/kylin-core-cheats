@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Backport by CyB1K 505 - 9",
-      "description": "none",
+      "name": "Backport by CyB1K 505 - 9 | 由 CyB1K 505 回溯移植 - 9",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Walkthrough Walls",
-      "description": "how to turn on: quick press L2 + R2, how to turn off: quick press L2 + R1 or L2 + down or option button, make sure when turning off you are in floor / not outside of mini map",
+      "name": "Walkthrough Walls | 穿墙",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Walkthrough Walls Fixed",
-      "description": "this will fixed your character in some area if your character floating in air, take note not all can be fixed ",
+      "name": "Walkthrough Walls Fixed | 穿墙修正",
       "type": "checkbox",
       "memory": [
         {
@@ -46,8 +43,7 @@
       ]
     },
     {
-      "name": "Freeze Enemy from Orignal Posistion",
-      "description": "none",
+      "name": "Freeze Enemy from Orignal Posistion | 冻结敌人原位",
       "type": "checkbox",
       "memory": [
         {
@@ -58,8 +54,7 @@
       ]
     },
     {
-      "name": "Invulnerable",
-      "description": "field only",
+      "name": "Invulnerable | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -70,8 +65,7 @@
       ]
     },
     {
-      "name": "Run Speed",
-      "description": "none",
+      "name": "Run Speed | 跑步速度",
       "type": "checkbox",
       "memory": [
         {
@@ -82,8 +76,7 @@
       ]
     },
     {
-      "name": "Master Code Archetype ID Modifier",
-      "description": "need atleast 2 archetype, then go to archetype equipment list, equip the 1st slot archetype, when prompt Yes or No, turn this cheat ON then click Yes, it will change your archetype, turn off this cheat and repeat the process, tutorial clip on discord Team Reaper",
+      "name": "Master Code Archetype ID Modifier | 主码原型ID修改器",
       "type": "checkbox",
       "memory": [
         {
@@ -99,8 +92,7 @@
       ]
     },
     {
-      "name": "Increase Archetype ID",
-      "description": "none",
+      "name": "Increase Archetype ID | 增加原型ID",
       "type": "checkbox",
       "memory": [
         {
@@ -111,8 +103,7 @@
       ]
     },
     {
-      "name": "Decrease Archetype ID",
-      "description": "none",
+      "name": "Decrease Archetype ID | 减少原型ID",
       "type": "checkbox",
       "memory": [
         {
@@ -123,8 +114,7 @@
       ]
     },
     {
-      "name": "Infinite HP",
-      "description": "none",
+      "name": "Infinite HP | 无限HP",
       "type": "checkbox",
       "memory": [
         {
@@ -140,8 +130,7 @@
       ]
     },
     {
-      "name": "Infinite MP",
-      "description": "none",
+      "name": "Infinite MP | 无限MP",
       "type": "checkbox",
       "memory": [
         {
@@ -157,8 +146,7 @@
       ]
     },
     {
-      "name": "Infinite Turn",
-      "description": "none",
+      "name": "Infinite Turn | 无限回合",
       "type": "checkbox",
       "memory": [
         {
@@ -169,8 +157,7 @@
       ]
     },
     {
-      "name": "Max Exp",
-      "description": "after battle / kill enemy in field",
+      "name": "Max Exp | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -181,8 +168,7 @@
       ]
     },
     {
-      "name": "Max Exp Rank Archetype",
-      "description": "after battle / kill enemy in field",
+      "name": "Max Exp Rank Archetype | 最大原型经验等级",
       "type": "checkbox",
       "memory": [
         {
@@ -193,8 +179,7 @@
       ]
     },
     {
-      "name": "Max Archetype Bonus Stats",
-      "description": "none",
+      "name": "Max Archetype Bonus Stats | 最大原型属性加成",
       "type": "checkbox",
       "memory": [
         {
@@ -210,8 +195,7 @@
       ]
     },
     {
-      "name": "Max PlayerStats",
-      "description": "none",
+      "name": "Max PlayerStats | 最大玩家属性",
       "type": "checkbox",
       "memory": [
         {
@@ -227,8 +211,7 @@
       ]
     },
     {
-      "name": "All Consumable and Exchange Items",
-      "description": "none",
+      "name": "All Consumable and Exchange Items | 全部消耗品和兑换道具",
       "type": "checkbox",
       "memory": [
         {
@@ -244,8 +227,7 @@
       ]
     },
     {
-      "name": "All Key and Information Items",
-      "description": "includes dlc items",
+      "name": "All Key and Information Items | 全部钥匙和信息道具",
       "type": "checkbox",
       "memory": [
         {
@@ -271,8 +253,7 @@
       ]
     },
     {
-      "name": "All Weapons",
-      "description": "none",
+      "name": "All Weapons | 全部武器",
       "type": "checkbox",
       "memory": [
         {
@@ -288,8 +269,7 @@
       ]
     },
     {
-      "name": "All Armours",
-      "description": "none",
+      "name": "All Armours | 全部护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -305,8 +285,7 @@
       ]
     },
     {
-      "name": "All Gears",
-      "description": "none",
+      "name": "All Gears | 全部饰品",
       "type": "checkbox",
       "memory": [
         {
@@ -322,8 +301,7 @@
       ]
     },
     {
-      "name": "All Accessories",
-      "description": "none",
+      "name": "All Accessories | 全部配件",
       "type": "checkbox",
       "memory": [
         {
@@ -339,8 +317,7 @@
       ]
     },
     {
-      "name": "Max Money",
-      "description": "after buy in store",
+      "name": "Max Money | 最大金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -351,8 +328,7 @@
       ]
     },
     {
-      "name": "Max MAG",
-      "description": "after battle",
+      "name": "Max MAG | 最大MAG",
       "type": "checkbox",
       "memory": [
         {

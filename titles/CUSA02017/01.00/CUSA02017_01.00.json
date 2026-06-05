@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health/Glory",
+      "name": "Infinite Health/Glory | 无限生命/荣耀",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "99 Ammo/Item",
+      "name": "99 Ammo/Item | 99 弹药/物品",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "99999 Gold (only activate when grabiing gold affect items)",
+      "name": "99999 Gold (only activate when grabiing gold affect items) | 99999 金币（仅在拾取金币时激活）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "All items Shards / Ammo (on use/craft must have 2) Activate both item cheat",
+      "name": "All items Shards / Ammo (on use/craft must have 2) Activate both item cheat | 全物品碎片/弹药（需有2个使用/制作）启用双物品作弊",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "All items Shards / Ammo (on gain/craft must have 2) Activate both item cheat",
+      "name": "All items Shards / Ammo (on gain/craft must have 2) Activate both item cheat | 全物品碎片/弹药（需有2个获得/制作）启用双物品作弊",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Skill Points Increase (on spend have 2)",
+      "name": "Skill Points Increase (on spend have 2) | 技能点数增加（消耗时需有2点）",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Infinite Breath",
+      "name": "Infinite Breath | 无限呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Aim Focus",
+      "name": "Infinite Aim Focus | 无限瞄准专注",
       "type": "checkbox",
       "memory": [
         {

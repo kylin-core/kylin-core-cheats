@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -42,8 +41,7 @@
       ]
     },
     {
-      "name": "Bot Godmode",
-      "hint": null,
+      "name": "Bot Godmode | 机器人上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -79,8 +77,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo & Accessories",
-      "hint": null,
+      "name": "Infinite Ammo \u0026 Accessories | 无限弹药与配件",
       "type": "checkbox",
       "memory": [
         {
@@ -91,8 +88,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
-      "hint": null,
+      "name": "Infinite Stamina | 无限耐力",
       "type": "checkbox",
       "memory": [
         {
@@ -108,8 +104,7 @@
       ]
     },
     {
-      "name": "Infinite Money",
-      "hint": "Buy something to max out your money.",
+      "name": "Infinite Money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -120,8 +115,7 @@
       ]
     },
     {
-      "name": "One-Hit Kill",
-      "hint": "Warning: This can randomly kill bots.",
+      "name": "One-Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {

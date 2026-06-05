@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "All Emeralds / Activate Super Sonic with X + Triangle",
+      "name": "All Emeralds / Activate Super Sonic with X + Triangle | 全翡翠 / X+三角激活超级索尼克",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Lives",
+      "name": "Max Lives | 最大生命数",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Rings / No loose after hit",
+      "name": "Max Rings / No loose after hit | 最大金环 / 击中后不掉落",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Invincibility",
+      "name": "Invincibility | 无敌状态",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 最大分数",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "One Hit Kill ( Boss )",
+      "name": "One Hit Kill ( Boss ) | 一击必杀（Boss）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Set Timer to 0",
+      "name": "Set Timer to 0 | 计时器归零",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Unlimited Breathe Under Water",
+      "name": "Unlimited Breathe Under Water | 无限水下呼吸",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic )",
+      "name": "Alternative - Catch 1 Emeralds to get all ( incl. Super Sonic ) | 替代模式 - 获取1颗翡翠即可获得全部（含超级索尼克）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Freeze Ring Timer ( Bonus Game )",
+      "name": "Freeze Ring Timer ( Bonus Game ) | 冻结金环计时器（奖励关）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode )",
+      "name": "Collect 1 Silver Medallion ( Unlock all Specials / Debug Mode ) | 收集1枚银质奖章（解锁所有特殊/调试模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Only 1 Blue Sphere ( Bonus Game )",
+      "name": "Only 1 Blue Sphere ( Bonus Game ) | 仅1个蓝色球（奖励关）",
       "type": "checkbox",
       "memory": [
         {

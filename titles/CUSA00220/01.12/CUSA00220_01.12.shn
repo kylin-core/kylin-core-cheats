@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon Age" Moder="d01v" Cusa="CUSA00220" Version="01.12" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Disable Infinite Health">
+    <Cheat Text="Disable Infinite Health | 禁用无限生命">
         <Cheatline>
             <Offset>3213813</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C7-46-2C-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Health">
+    <Cheat Text="Disable Max Health | 禁用最大生命值">
         <Cheatline>
             <Offset>321381A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C7-86-AC-F4-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Infinite Stamina / Mana">
+    <Cheat Text="Disable Infinite Stamina / Mana | 禁用无限耐力/法力">
         <Cheatline>
             <Offset>3213824</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>C7-86-AC-00-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Stamina / Mana">
+    <Cheat Text="Disable Max Stamina / Mana | 禁用最大耐力/法力">
         <Cheatline>
             <Offset>321382E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C7-86-EC-F5-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Infinite Focus">
+    <Cheat Text="Disable Infinite Focus | 禁用无限专注值">
         <Cheatline>
             <Offset>3213838</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C7-86-2C-01-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Focus">
+    <Cheat Text="Disable Max Focus | 禁用最大专注值">
         <Cheatline>
             <Offset>3213842</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C7-86-2C-F6-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max EXP">
+    <Cheat Text="Disable Max EXP | 禁用最大经验值">
         <Cheatline>
             <Offset>321384C</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C7-86-6C-F0-FF-FF-80-35-41-49</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Ability Points">
+    <Cheat Text="Disable Max Ability Points | 禁用最大技能点">
         <Cheatline>
             <Offset>3213856</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>C7-86-AC-01-00-00-00-00-C8-42</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Cooldown">
+    <Cheat Text="Disable Max Cooldown | 禁用最大冷却缩减">
         <Cheatline>
             <Offset>3213860</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>C7-86-6C-0D-00-00-00-00-48-43</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max STR">
+    <Cheat Text="Disable Max STR | 禁用最大力量">
         <Cheatline>
             <Offset>321386A</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>C7-86-AC-F2-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max DEX">
+    <Cheat Text="Disable Max DEX | 禁用最大灵巧">
         <Cheatline>
             <Offset>3213874</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>C7-86-2C-F4-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max MAG">
+    <Cheat Text="Disable Max MAG | 禁用最大魔法">
         <Cheatline>
             <Offset>321387E</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>C7-86-EC-F2-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Cunning">
+    <Cheat Text="Disable Max Cunning | 禁用最大狡诈">
         <Cheatline>
             <Offset>3213888</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>C7-86-AC-F5-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Willpower">
+    <Cheat Text="Disable Max Willpower | 禁用最大意志">
         <Cheatline>
             <Offset>3213892</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>C7-86-6C-F4-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max CON">
+    <Cheat Text="Disable Max CON | 禁用最大体质">
         <Cheatline>
             <Offset>321389C</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>C7-86-EC-F1-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Attack">
+    <Cheat Text="Disable Max Attack | 禁用最大攻击力">
         <Cheatline>
             <Offset>32138A6</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>C7-86-2C-F7-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Guard Damage">
+    <Cheat Text="Disable Max Guard Damage | 禁用最大护甲伤害">
         <Cheatline>
             <Offset>32138B0</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>C7-86-6C-04-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Penetration">
+    <Cheat Text="Disable Max Penetration | 禁用最大穿透">
         <Cheatline>
             <Offset>32138BA</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>C7-86-EC-0C-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Barrier Damage Bonus">
+    <Cheat Text="Disable Max Barrier Damage Bonus | 禁用最大屏障伤害加成">
         <Cheatline>
             <Offset>32138C4</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>C7-86-AC-04-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Critical Damage Bonus">
+    <Cheat Text="Disable Max Critical Damage Bonus | 禁用最大暴击伤害加成">
         <Cheatline>
             <Offset>32138CE</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>C7-86-EC-FC-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Critical Chance">
+    <Cheat Text="Disable Max Critical Chance | 禁用最大暴击几率">
         <Cheatline>
             <Offset>32138D8</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>C7-86-2C-FC-FF-FF-00-00-FA-43</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Main Hand Bonus">
+    <Cheat Text="Disable Max Main Hand Bonus | 禁用最大主手加成">
         <Cheatline>
             <Offset>32138E2</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>C7-86-6C-F7-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Off Hand Bonus">
+    <Cheat Text="Disable Max Off Hand Bonus | 禁用最大副手加成">
         <Cheatline>
             <Offset>32138EC</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>C7-86-AC-F7-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Sunder On Hit">
+    <Cheat Text="Disable Max Sunder On Hit | 禁用最大击破效果">
         <Cheatline>
             <Offset>32138F6</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>C7-86-AC-06-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Stagger On Hit">
+    <Cheat Text="Disable Max Stagger On Hit | 禁用最大失衡效果">
         <Cheatline>
             <Offset>3213900</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>C7-86-EC-06-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Heal On Kill">
+    <Cheat Text="Disable Heal On Kill | 禁用击杀回复">
         <Cheatline>
             <Offset>321390A</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>C7-86-2C-07-00-00-00-00-C8-42</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Flanking Damage">
+    <Cheat Text="Disable Max Flanking Damage | 禁用最大背刺伤害">
         <Cheatline>
             <Offset>3213914</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>C7-86-2C-0D-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Magic Defense">
+    <Cheat Text="Disable Max Magic Defense | 禁用最大魔法防御">
         <Cheatline>
             <Offset>321391E</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>C7-86-EC-04-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Melee Defense">
+    <Cheat Text="Disable Max Melee Defense | 禁用最大近战防御">
         <Cheatline>
             <Offset>3213928</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>C7-86-2C-05-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Range Defense">
+    <Cheat Text="Disable Max Range Defense | 禁用最大远程防御">
         <Cheatline>
             <Offset>3213932</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>C7-86-6C-05-00-00-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Cold Resistance">
+    <Cheat Text="Disable Max Cold Resistance | 禁用最大冰霜抗性">
         <Cheatline>
             <Offset>321393C</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>C7-86-2C-FF-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Electric Resistance">
+    <Cheat Text="Disable Max Electric Resistance | 禁用最大闪电抗性">
         <Cheatline>
             <Offset>3213946</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>C7-86-6C-FF-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Fire Resistance">
+    <Cheat Text="Disable Max Fire Resistance | 禁用最大火焰抗性">
         <Cheatline>
             <Offset>3213950</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>C7-86-EC-FE-FF-FF-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Spirit Resistance">
+    <Cheat Text="Disable Max Spirit Resistance | 禁用最大灵体抗性">
         <Cheatline>
             <Offset>321395A</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>C7-46-EC-00-3C-1C-46</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Guard (Auto Cast)">
+    <Cheat Text="Disable Max Guard (Auto Cast) | 禁用最大护甲（自动施放）">
         <Cheatline>
             <Offset>3213961</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>C7-86-6C-03-00-00-00-00-7A-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Max Barrier (Auto Cast)">
+    <Cheat Text="Disable Max Barrier (Auto Cast) | 禁用最大屏障（自动施放）">
         <Cheatline>
             <Offset>321396B</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>C7-86-EC-03-00-00-00-00-7A-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Item">
+    <Cheat Text="Max Item | 最大物品数量">
         <Cheatline>
             <Offset>6D2653</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>0F-4E-C1</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Gold">
+    <Cheat Text="Max Gold | 最大金币数量">
         <Cheatline>
             <Offset>32139E0</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Studs (On Gain)",
+      "name": "Inf Studs (On Gain) | 无限螺柱（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Kyber Bricks (Turn Off after Use, Value will go negative if don't unlock all upgrades)",
+      "name": "Inf Kyber Bricks (Turn Off after Use, Value will go negative if don't unlock all upgrades) | 无限凯伯砖（使用后关闭，若不解锁所有升级，数值会变为负数）",
       "type": "checkbox",
       "memory": [
         {

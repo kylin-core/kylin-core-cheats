@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated for [ MC ] Cheats )",
+      "name": "Mastercode ( must be activated for [ MC ] Cheats ) | 主代码（必须激活以启用[MC]作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Invincible Sonic 1 + 2",
+      "name": "Invincible Sonic 1 + 2 | 无敌 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Invincible Sonic 3",
+      "name": "Invincible Sonic 3 | 无敌 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Invincible Sonic CD",
+      "name": "Invincible Sonic CD | 无敌 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Max Rings Sonic 1 + 2",
+      "name": "Max Rings Sonic 1 + 2 | 最大金币 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Max Rings Sonic 3",
+      "name": "Max Rings Sonic 3 | 最大金币 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "Max Rings Sonic CD",
+      "name": "Max Rings Sonic CD | 最大金币 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Max Lives Sonic 1 [ MC ]",
+      "name": "Max Lives Sonic 1 [ MC ] | 最大生命 索尼克1 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "Max Lives Sonic 2 [ MC ]",
+      "name": "Max Lives Sonic 2 [ MC ] | 最大生命 索尼克2 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max Lives Sonic 3 ( Classic Mode )",
+      "name": "Max Lives Sonic 3 ( Classic Mode ) | 最大生命 索尼克3（经典模式）",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Max Lives Sonic CD [ MC ]",
+      "name": "Max Lives Sonic CD [ MC ] | 最大生命 索尼克CD [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Max Score Sonic 1 [ MC ]",
+      "name": "Max Score Sonic 1 [ MC ] | 最高分数 索尼克1 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "name": "Max Score Sonic 2 [ MC ]",
+      "name": "Max Score Sonic 2 [ MC ] | 最高分数 索尼克2 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Max Score Sonic 3",
+      "name": "Max Score Sonic 3 | 最高分数 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Max Score Sonic CD [ MC ]",
+      "name": "Max Score Sonic CD [ MC ] | 最高分数 索尼克CD [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": "Freeze Timer Sonic 1 + 2",
+      "name": "Freeze Timer Sonic 1 + 2 | 冻结计时器 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "name": "Freeze Timer Sonic 3",
+      "name": "Freeze Timer Sonic 3 | 冻结计时器 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "name": "Freeze Timer Sonic CD",
+      "name": "Freeze Timer Sonic CD | 冻结计时器 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Infinite Breath Sonic 1 + 2",
+      "name": "Infinite Breath Sonic 1 + 2 | 无限氧气 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "name": "Infinite Breath Sonic 3",
+      "name": "Infinite Breath Sonic 3 | 无限氧气 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "name": "Infinite Breath Sonic CD",
+      "name": "Infinite Breath Sonic CD | 无限氧气 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "name": "Max Coins ( Museum )",
+      "name": "Max Coins ( Museum ) | 最大硬币（博物馆）",
       "type": "checkbox",
       "memory": [
         {
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "name": "Max Rings Sonic 2 ( Special Stage )",
+      "name": "Max Rings Sonic 2 ( Special Stage ) | 最大金币 索尼克2（特殊关卡）",
       "type": "checkbox",
       "memory": [
         {
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "name": "Blue Spheres Left Sonic 3 ( Special Stage )",
+      "name": "Blue Spheres Left Sonic 3 ( Special Stage ) | 剩余蓝球 索尼克3（特殊关卡）",
       "type": "checkbox",
       "memory": [
         {
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "name": "Rings Left Sonic 3 ( Special Stage )",
+      "name": "Rings Left Sonic 3 ( Special Stage ) | 剩余金币 索尼克3（特殊关卡）",
       "type": "checkbox",
       "memory": [
         {
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "name": "Only 1 Ufo collect Sonic CD ( Special Stage )",
+      "name": "Only 1 Ufo collect Sonic CD ( Special Stage ) | 仅收集1个UFO 索尼克CD（特殊关卡）",
       "type": "checkbox",
       "memory": [
         {
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "name": "Max Rings Sonic CD ( Special Stage ) ",
+      "name": "Max Rings Sonic CD ( Special Stage ) | 最大金币 索尼克CD（特殊关卡）",
       "type": "checkbox",
       "memory": [
         {
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "name": "Max Timer Sonic CD ( Special Main Stage )",
+      "name": "Max Timer Sonic CD ( Special Main Stage ) | 最大时间 索尼克CD（特殊主关卡）",
       "type": "checkbox",
       "memory": [
         {
@@ -418,7 +418,7 @@
       ]
     },
     {
-      "name": "All Emeralds Sonic 1 + 2",
+      "name": "All Emeralds Sonic 1 + 2 | 全部翡翠 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "name": "All Emeralds Sonic 3",
+      "name": "All Emeralds Sonic 3 | 全部翡翠 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -450,7 +450,7 @@
       ]
     },
     {
-      "name": "All Time Stones Sonic CD",
+      "name": "All Time Stones Sonic CD | 全部时间宝石 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "name": "Tails Never Exhausted Sonic 1 + 2",
+      "name": "Tails Never Exhausted Sonic 1 + 2 | 塔尔斯永不疲劳 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "name": "Tails Never Exhausted Sonic 3",
+      "name": "Tails Never Exhausted Sonic 3 | 塔尔斯永不疲劳 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -493,7 +493,7 @@
       ]
     },
     {
-      "name": "Tails Never Exhausted Sonic CD",
+      "name": "Tails Never Exhausted Sonic CD | 塔尔斯永不疲劳 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -509,7 +509,7 @@
       ]
     },
     {
-      "name": "Normal Player Speed Sonic 1 + 2",
+      "name": "Normal Player Speed Sonic 1 + 2 | 普通玩家速度 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -525,7 +525,7 @@
       ]
     },
     {
-      "name": "Super Player Speed Sonic 1 + 2",
+      "name": "Super Player Speed Sonic 1 + 2 | 超级玩家速度 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "name": "Hyper Player Speed Sonic 1 + 2",
+      "name": "Hyper Player Speed Sonic 1 + 2 | 极速玩家速度 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -557,7 +557,7 @@
       ]
     },
     {
-      "name": "Normal Player Speed Sonic 3",
+      "name": "Normal Player Speed Sonic 3 | 普通玩家速度 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -573,7 +573,7 @@
       ]
     },
     {
-      "name": "Super Player Speed Sonic 3",
+      "name": "Super Player Speed Sonic 3 | 超级玩家速度 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -589,7 +589,7 @@
       ]
     },
     {
-      "name": "Hyper Player Speed Sonic 3",
+      "name": "Hyper Player Speed Sonic 3 | 极速玩家速度 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -605,7 +605,7 @@
       ]
     },
     {
-      "name": "Normal Player Speed Sonic CD",
+      "name": "Normal Player Speed Sonic CD | 普通玩家速度 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "name": "Super Player Speed Sonic CD",
+      "name": "Super Player Speed Sonic CD | 超级玩家速度 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -637,7 +637,7 @@
       ]
     },
     {
-      "name": "Hyper Player Speed Sonic CD",
+      "name": "Hyper Player Speed Sonic CD | 极速玩家速度 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -653,7 +653,7 @@
       ]
     },
     {
-      "name": "Normal Jump Sonic 1 + 2",
+      "name": "Normal Jump Sonic 1 + 2 | 普通跳跃 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -669,7 +669,7 @@
       ]
     },
     {
-      "name": "Super Jump Sonic 1 + 2",
+      "name": "Super Jump Sonic 1 + 2 | 超级跳跃 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -685,7 +685,7 @@
       ]
     },
     {
-      "name": "Mega Jump Sonic 1 + 2",
+      "name": "Mega Jump Sonic 1 + 2 | 巨大跳跃 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "name": "Normal Jump Sonic 3",
+      "name": "Normal Jump Sonic 3 | 普通跳跃 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "name": "Super Jump Sonic 3",
+      "name": "Super Jump Sonic 3 | 超级跳跃 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -733,7 +733,7 @@
       ]
     },
     {
-      "name": "Mega Jump Sonic 3",
+      "name": "Mega Jump Sonic 3 | 巨大跳跃 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -749,7 +749,7 @@
       ]
     },
     {
-      "name": "Normal Jump Sonic CD",
+      "name": "Normal Jump Sonic CD | 普通跳跃 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -765,7 +765,7 @@
       ]
     },
     {
-      "name": "Super Jump Sonic CD",
+      "name": "Super Jump Sonic CD | 超级跳跃 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -781,7 +781,7 @@
       ]
     },
     {
-      "name": "Mega Jump Sonic CD",
+      "name": "Mega Jump Sonic CD | 巨大跳跃 索尼克CD",
       "type": "checkbox",
       "memory": [
         {
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "name": "Unlock D.A. Garden Sonic CD [ MC ]",
+      "name": "Unlock D.A. Garden Sonic CD [ MC ] | 解锁D.A.花园 索尼克CD [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "name": "Unlock Visual Mode Sonic CD [ MC ]",
+      "name": "Unlock Visual Mode Sonic CD [ MC ] | 解锁视觉模式 索尼克CD [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -819,7 +819,7 @@
       ]
     },
     {
-      "name": "Unlock Sound Test Sonic CD [ MC ]",
+      "name": "Unlock Sound Test Sonic CD [ MC ] | 解锁声音测试 索尼克CD [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -830,7 +830,7 @@
       ]
     },
     {
-      "name": "Unlock Stage Select Sonic CD [ MC ]",
+      "name": "Unlock Stage Select Sonic CD [ MC ] | 解锁关卡选择 索尼克CD [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "name": "Debug Mode Sonic 1 + 2",
+      "name": "Debug Mode Sonic 1 + 2 | 调试模式 索尼克1+2",
       "type": "checkbox",
       "memory": [
         {
@@ -857,7 +857,7 @@
       ]
     },
     {
-      "name": "Debug Mode Sonic 3",
+      "name": "Debug Mode Sonic 3 | 调试模式 索尼克3",
       "type": "checkbox",
       "memory": [
         {
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "name": "Debug Mode Sonic CD",
+      "name": "Debug Mode Sonic CD | 调试模式 索尼克CD",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Inf Item and scrap on get (make sure to Get at least 2)",
+      "name": "Inf Item and scrap on get (make sure to Get at least 2) | 获取时无限物品和废料（确保至少获取2个）",
       "type": "checkbox",
       "memory": [
         {

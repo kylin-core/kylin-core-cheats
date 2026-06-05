@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Lives",
+      "name": "Max Lives | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Timer",
+      "name": "Max Timer | 最长时间",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Gems",
+      "name": "Max Gems | 无限宝石",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Stones - [ Infinite Health ]",
+      "name": "Max Stones - [ Infinite Health ] | 无限石头 - [ 无限生命 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Score",
+      "name": "Max Score | 完美得分",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Moon Jump",
+      "name": "Moon Jump | 月球跳跃",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Unlock All Stages [ World 1 ]",
+      "name": "Unlock All Stages [ World 1 ] | 解锁所有关卡 [ 世界1 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "Unlock All Stages [ World 2 ]",
+      "name": "Unlock All Stages [ World 2 ] | 解锁所有关卡 [ 世界2 ]",
       "type": "checkbox",
       "memory": [
         {

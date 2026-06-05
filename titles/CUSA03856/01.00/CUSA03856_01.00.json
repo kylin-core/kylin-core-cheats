@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Modded Stock Ammo",
+      "name": "Modded Stock Ammo | 修改后备弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Stamina Will Stay At 1 Bar",
+      "name": "Stamina Will Stay At 1 Bar | 耐力保持1格",
       "type": "checkbox",
       "memory": [
         {

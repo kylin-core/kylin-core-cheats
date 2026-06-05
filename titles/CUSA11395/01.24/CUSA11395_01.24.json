@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf Health (Dont Use With 1 Hit)",
+      "name": "Inf Health (Dont Use With 1 Hit) | 无限生命（勿与一击必杀同用）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Inf Health / 1 Hit",
+      "name": "Inf Health / 1 Hit | 无限生命 / 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Inf Offense / Defense Bars",
+      "name": "Inf Offense / Defense Bars | 无限攻防条",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Opp Bars Not Refilled(Use With Inf Bars)",
+      "name": "Opp Bars Not Refilled(Use With Inf Bars) | 对手能量条不恢复（与无限条同用）",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "[ENG] Master Code",
+      "name": "[ENG] Master Code | [ENG] 主密码",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "[FRA] Master Code",
+      "name": "[FRA] Master Code | [FRA] 主密码",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "[DEU] Master Code",
+      "name": "[DEU] Master Code | [DEU] 主密码",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "[ITA] Master Code",
+      "name": "[ITA] Master Code | [ITA] 主密码",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "[ESP] Master Code",
+      "name": "[ESP] Master Code | [ESP] 主密码",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Life",
+      "name": "Life | 生命值",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "O2",
+      "name": "O2 | 氧气",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Weapons",
+      "name": "Weapons | 武器",
       "type": "checkbox",
       "memory": [
         {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Cigs",
+      "name": "Cigs | 香烟",
       "type": "checkbox",
       "memory": [
         {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Scope",
+      "name": "Scope | 望远镜",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Cbox A",
+      "name": "Cbox A | C盒 A",
       "type": "checkbox",
       "memory": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "Cbox B",
+      "name": "Cbox B | C盒 B",
       "type": "checkbox",
       "memory": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "Cbox C",
+      "name": "Cbox C | C盒 C",
       "type": "checkbox",
       "memory": [
         {
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "name": "NVG",
+      "name": "NVG | 夜视仪",
       "type": "checkbox",
       "memory": [
         {
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "name": "Therm G",
+      "name": "Therm G | 热成像仪",
       "type": "checkbox",
       "memory": [
         {
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "name": "GasMask",
+      "name": "GasMask | 防毒面具",
       "type": "checkbox",
       "memory": [
         {
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "name": "Body Armor",
+      "name": "Body Armor | 防弹衣",
       "type": "checkbox",
       "memory": [
         {
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "name": "Ketchup",
+      "name": "Ketchup | 番茄酱",
       "type": "checkbox",
       "memory": [
         {
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "name": "Stealth",
+      "name": "Stealth | 隐形迷彩",
       "type": "checkbox",
       "memory": [
         {
@@ -334,7 +334,7 @@
       ]
     },
     {
-      "name": "Bandana",
+      "name": "Bandana | 无限头巾",
       "type": "checkbox",
       "memory": [
         {
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "name": "Camera",
+      "name": "Camera | 相机",
       "type": "checkbox",
       "memory": [
         {
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "name": "Ration",
+      "name": "Ration | 口粮",
       "type": "checkbox",
       "memory": [
         {
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "name": "Medicine",
+      "name": "Medicine | 药品",
       "type": "checkbox",
       "memory": [
         {
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "name": "Diazepam",
+      "name": "Diazepam | 地西泮",
       "type": "checkbox",
       "memory": [
         {
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "name": "Enable Pal Key (Select One Color At A Time)",
+      "name": "Enable Pal Key (Select One Color At A Time) | 启用帕尔密钥（每次选择一种颜色）",
       "type": "checkbox",
       "memory": [
         {
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "name": "Pal Key Yellow",
+      "name": "Pal Key Yellow | 帕尔密钥·黄色",
       "type": "checkbox",
       "memory": [
         {
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "name": "Pal Key Red",
+      "name": "Pal Key Red | 帕尔密钥·红色",
       "type": "checkbox",
       "memory": [
         {
@@ -437,7 +437,7 @@
       ]
     },
     {
-      "name": "Pal Key Cyan",
+      "name": "Pal Key Cyan | 帕尔密钥·青色",
       "type": "checkbox",
       "memory": [
         {
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "name": "Card LV.255",
+      "name": "Card LV.255 | 255级门禁卡",
       "type": "checkbox",
       "memory": [
         {
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "name": "Timer Bomb",
+      "name": "Timer Bomb | 定时炸弹",
       "type": "checkbox",
       "memory": [
         {
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "name": "Mine D",
+      "name": "Mine D | 定向雷",
       "type": "checkbox",
       "memory": [
         {
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "name": "Disc",
+      "name": "Disc | 磁碟",
       "type": "checkbox",
       "memory": [
         {
@@ -492,7 +492,7 @@
       ]
     },
     {
-      "name": "Rope",
+      "name": "Rope | 绳索",
       "type": "checkbox",
       "memory": [
         {
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "name": "Handker",
+      "name": "Handker | 手帕",
       "type": "checkbox",
       "memory": [
         {
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "name": "Suppressor Socom",
+      "name": "Suppressor Socom | SOCOM消音器",
       "type": "checkbox",
       "memory": [
         {

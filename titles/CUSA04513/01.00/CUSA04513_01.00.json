@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Pictures (Camera Battery)",
-      "hint": null,
+      "name": "Infinite Pictures (Camera Battery) | 无限拍照（相机电池）",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Max PP Multiplier",
-      "hint": null,
+      "name": "Max PP Multiplier | 最大PP倍数",
       "type": "button",
       "memory": [
         {

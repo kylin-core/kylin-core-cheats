@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Origins" Moder="Reddevil82 - FW 9.00" Cusa="CUSA30448" Version="02.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Mastercode ( must be activated for [ MC ] Cheats )">
+    <Cheat Text="Mastercode ( must be activated for [ MC ] Cheats ) | 主代码（必须激活以启用[MC]作弊）">
         <Cheatline>
             <Offset>101B800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible Sonic 1 + 2">
+    <Cheat Text="Invincible Sonic 1 + 2 | 无敌 索尼克1+2">
         <Cheatline>
             <Offset>101BA70</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible Sonic 3">
+    <Cheat Text="Invincible Sonic 3 | 无敌 索尼克3">
         <Cheatline>
             <Offset>101BAAA</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Invincible Sonic CD">
+    <Cheat Text="Invincible Sonic CD | 无敌 索尼克CD">
         <Cheatline>
             <Offset>101BAC1</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings Sonic 1 + 2">
+    <Cheat Text="Max Rings Sonic 1 + 2 | 最大金币 索尼克1+2">
         <Cheatline>
             <Offset>101BAFB</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings Sonic 3">
+    <Cheat Text="Max Rings Sonic 3 | 最大金币 索尼克3">
         <Cheatline>
             <Offset>101BAD3</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings Sonic CD">
+    <Cheat Text="Max Rings Sonic CD | 最大金币 索尼克CD">
         <Cheatline>
             <Offset>101BAE9</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives Sonic 1 [ MC ]">
+    <Cheat Text="Max Lives Sonic 1 [ MC ] | 最大生命 索尼克1 [MC]">
         <Cheatline>
             <Offset>101B816</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives Sonic 2 [ MC ]">
+    <Cheat Text="Max Lives Sonic 2 [ MC ] | 最大生命 索尼克2 [MC]">
         <Cheatline>
             <Offset>101B81E</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives Sonic 3 ( Classic Mode )">
+    <Cheat Text="Max Lives Sonic 3 ( Classic Mode ) | 最大生命 索尼克3（经典模式）">
         <Cheatline>
             <Offset>101BB21</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Lives Sonic CD [ MC ]">
+    <Cheat Text="Max Lives Sonic CD [ MC ] | 最大生命 索尼克CD [MC]">
         <Cheatline>
             <Offset>101B85C</Offset>
             <Section>0</Section>
@@ -93,7 +93,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score Sonic 1 [ MC ]">
+    <Cheat Text="Max Score Sonic 1 [ MC ] | 最高分数 索尼克1 [MC]">
         <Cheatline>
             <Offset>101B806</Offset>
             <Section>0</Section>
@@ -101,7 +101,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score Sonic 2 [ MC ]">
+    <Cheat Text="Max Score Sonic 2 [ MC ] | 最高分数 索尼克2 [MC]">
         <Cheatline>
             <Offset>101B80E</Offset>
             <Section>0</Section>
@@ -109,7 +109,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score Sonic 3">
+    <Cheat Text="Max Score Sonic 3 | 最高分数 索尼克3">
         <Cheatline>
             <Offset>101BBBD</Offset>
             <Section>0</Section>
@@ -117,7 +117,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score Sonic CD [ MC ]">
+    <Cheat Text="Max Score Sonic CD [ MC ] | 最高分数 索尼克CD [MC]">
         <Cheatline>
             <Offset>101B854</Offset>
             <Section>0</Section>
@@ -125,7 +125,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer Sonic 1 + 2">
+    <Cheat Text="Freeze Timer Sonic 1 + 2 | 冻结计时器 索尼克1+2">
         <Cheatline>
             <Offset>1EBA4E</Offset>
             <Section>0</Section>
@@ -133,7 +133,7 @@
             <ValueOff>88-05-6E-9C-25-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer Sonic 3">
+    <Cheat Text="Freeze Timer Sonic 3 | 冻结计时器 索尼克3">
         <Cheatline>
             <Offset>1C41ED</Offset>
             <Section>0</Section>
@@ -141,7 +141,7 @@
             <ValueOff>88-0D-6A-0C-1E-03</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer Sonic CD">
+    <Cheat Text="Freeze Timer Sonic CD | 冻结计时器 索尼克CD">
         <Cheatline>
             <Offset>181B6E</Offset>
             <Section>0</Section>
@@ -149,7 +149,7 @@
             <ValueOff>88-05-4E-3B-2C-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath Sonic 1 + 2">
+    <Cheat Text="Infinite Breath Sonic 1 + 2 | 无限氧气 索尼克1+2">
         <Cheatline>
             <Offset>101BCAF</Offset>
             <Section>0</Section>
@@ -157,7 +157,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath Sonic 3">
+    <Cheat Text="Infinite Breath Sonic 3 | 无限氧气 索尼克3">
         <Cheatline>
             <Offset>101BC5B</Offset>
             <Section>0</Section>
@@ -165,7 +165,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Breath Sonic CD">
+    <Cheat Text="Infinite Breath Sonic CD | 无限氧气 索尼克CD">
         <Cheatline>
             <Offset>101BC77</Offset>
             <Section>0</Section>
@@ -173,7 +173,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Coins ( Museum )">
+    <Cheat Text="Max Coins ( Museum ) | 最大硬币（博物馆）">
         <Cheatline>
             <Offset>101BBD4</Offset>
             <Section>0</Section>
@@ -181,7 +181,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings Sonic 2 ( Special Stage )">
+    <Cheat Text="Max Rings Sonic 2 ( Special Stage ) | 最大金币 索尼克2（特殊关卡）">
         <Cheatline>
             <Offset>101BCC0</Offset>
             <Section>0</Section>
@@ -189,7 +189,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Blue Spheres Left Sonic 3 ( Special Stage )">
+    <Cheat Text="Blue Spheres Left Sonic 3 ( Special Stage ) | 剩余蓝球 索尼克3（特殊关卡）">
         <Cheatline>
             <Offset>101BC22</Offset>
             <Section>0</Section>
@@ -197,7 +197,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Rings Left Sonic 3 ( Special Stage )">
+    <Cheat Text="Rings Left Sonic 3 ( Special Stage ) | 剩余金币 索尼克3（特殊关卡）">
         <Cheatline>
             <Offset>101BC48</Offset>
             <Section>0</Section>
@@ -205,7 +205,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Only 1 Ufo collect Sonic CD ( Special Stage )">
+    <Cheat Text="Only 1 Ufo collect Sonic CD ( Special Stage ) | 仅收集1个UFO 索尼克CD（特殊关卡）">
         <Cheatline>
             <Offset>101BDED</Offset>
             <Section>0</Section>
@@ -213,7 +213,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings Sonic CD ( Special Stage ) ">
+    <Cheat Text="Max Rings Sonic CD ( Special Stage ) | 最大金币 索尼克CD（特殊关卡）">
         <Cheatline>
             <Offset>101BC87</Offset>
             <Section>0</Section>
@@ -221,7 +221,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Timer Sonic CD ( Special Main Stage )">
+    <Cheat Text="Max Timer Sonic CD ( Special Main Stage ) | 最大时间 索尼克CD（特殊主关卡）">
         <Cheatline>
             <Offset>101BC9B</Offset>
             <Section>0</Section>
@@ -229,7 +229,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Emeralds Sonic 1 + 2">
+    <Cheat Text="All Emeralds Sonic 1 + 2 | 全部翡翠 索尼克1+2">
         <Cheatline>
             <Offset>101BCFA</Offset>
             <Section>0</Section>
@@ -237,7 +237,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Emeralds Sonic 3">
+    <Cheat Text="All Emeralds Sonic 3 | 全部翡翠 索尼克3">
         <Cheatline>
             <Offset>101BD1A</Offset>
             <Section>0</Section>
@@ -245,7 +245,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Time Stones Sonic CD">
+    <Cheat Text="All Time Stones Sonic CD | 全部时间宝石 索尼克CD">
         <Cheatline>
             <Offset>101BCE3</Offset>
             <Section>0</Section>
@@ -253,7 +253,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tails Never Exhausted Sonic 1 + 2">
+    <Cheat Text="Tails Never Exhausted Sonic 1 + 2 | 塔尔斯永不疲劳 索尼克1+2">
         <Cheatline>
             <Offset>101BBED</Offset>
             <Section>0</Section>
@@ -261,7 +261,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tails Never Exhausted Sonic 3">
+    <Cheat Text="Tails Never Exhausted Sonic 3 | 塔尔斯永不疲劳 索尼克3">
         <Cheatline>
             <Offset>2FBD35</Offset>
             <Section>0</Section>
@@ -269,7 +269,7 @@
             <ValueOff>FF-C0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Tails Never Exhausted Sonic CD">
+    <Cheat Text="Tails Never Exhausted Sonic CD | 塔尔斯永不疲劳 索尼克CD">
         <Cheatline>
             <Offset>101BC0D</Offset>
             <Section>0</Section>
@@ -277,7 +277,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Normal Player Speed Sonic 1 + 2">
+    <Cheat Text="Normal Player Speed Sonic 1 + 2 | 普通玩家速度 索尼克1+2">
         <Cheatline>
             <Offset>101BE7D</Offset>
             <Section>0</Section>
@@ -285,7 +285,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Player Speed Sonic 1 + 2">
+    <Cheat Text="Super Player Speed Sonic 1 + 2 | 超级玩家速度 索尼克1+2">
         <Cheatline>
             <Offset>101BE90</Offset>
             <Section>0</Section>
@@ -293,7 +293,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Player Speed Sonic 1 + 2">
+    <Cheat Text="Hyper Player Speed Sonic 1 + 2 | 极速玩家速度 索尼克1+2">
         <Cheatline>
             <Offset>101BEA3</Offset>
             <Section>0</Section>
@@ -301,7 +301,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Normal Player Speed Sonic 3">
+    <Cheat Text="Normal Player Speed Sonic 3 | 普通玩家速度 索尼克3">
         <Cheatline>
             <Offset>101BE44</Offset>
             <Section>0</Section>
@@ -309,7 +309,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Player Speed Sonic 3">
+    <Cheat Text="Super Player Speed Sonic 3 | 超级玩家速度 索尼克3">
         <Cheatline>
             <Offset>101BE57</Offset>
             <Section>0</Section>
@@ -317,7 +317,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Player Speed Sonic 3">
+    <Cheat Text="Hyper Player Speed Sonic 3 | 极速玩家速度 索尼克3">
         <Cheatline>
             <Offset>101BE6A</Offset>
             <Section>0</Section>
@@ -325,7 +325,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Normal Player Speed Sonic CD">
+    <Cheat Text="Normal Player Speed Sonic CD | 普通玩家速度 索尼克CD">
         <Cheatline>
             <Offset>101BE11</Offset>
             <Section>0</Section>
@@ -333,7 +333,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Player Speed Sonic CD">
+    <Cheat Text="Super Player Speed Sonic CD | 超级玩家速度 索尼克CD">
         <Cheatline>
             <Offset>101BE22</Offset>
             <Section>0</Section>
@@ -341,7 +341,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Player Speed Sonic CD">
+    <Cheat Text="Hyper Player Speed Sonic CD | 极速玩家速度 索尼克CD">
         <Cheatline>
             <Offset>101BE33</Offset>
             <Section>0</Section>
@@ -349,7 +349,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Normal Jump Sonic 1 + 2">
+    <Cheat Text="Normal Jump Sonic 1 + 2 | 普通跳跃 索尼克1+2">
         <Cheatline>
             <Offset>101BDAE</Offset>
             <Section>0</Section>
@@ -357,7 +357,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump Sonic 1 + 2">
+    <Cheat Text="Super Jump Sonic 1 + 2 | 超级跳跃 索尼克1+2">
         <Cheatline>
             <Offset>101BDC3</Offset>
             <Section>0</Section>
@@ -365,7 +365,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mega Jump Sonic 1 + 2">
+    <Cheat Text="Mega Jump Sonic 1 + 2 | 巨大跳跃 索尼克1+2">
         <Cheatline>
             <Offset>101BDD8</Offset>
             <Section>0</Section>
@@ -373,7 +373,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Normal Jump Sonic 3">
+    <Cheat Text="Normal Jump Sonic 3 | 普通跳跃 索尼克3">
         <Cheatline>
             <Offset>101BD33</Offset>
             <Section>0</Section>
@@ -381,7 +381,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump Sonic 3">
+    <Cheat Text="Super Jump Sonic 3 | 超级跳跃 索尼克3">
         <Cheatline>
             <Offset>101BD48</Offset>
             <Section>0</Section>
@@ -389,7 +389,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mega Jump Sonic 3">
+    <Cheat Text="Mega Jump Sonic 3 | 巨大跳跃 索尼克3">
         <Cheatline>
             <Offset>101BD5D</Offset>
             <Section>0</Section>
@@ -397,7 +397,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Normal Jump Sonic CD">
+    <Cheat Text="Normal Jump Sonic CD | 普通跳跃 索尼克CD">
         <Cheatline>
             <Offset>101BD72</Offset>
             <Section>0</Section>
@@ -405,7 +405,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump Sonic CD">
+    <Cheat Text="Super Jump Sonic CD | 超级跳跃 索尼克CD">
         <Cheatline>
             <Offset>101BD86</Offset>
             <Section>0</Section>
@@ -413,7 +413,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Mega Jump Sonic CD">
+    <Cheat Text="Mega Jump Sonic CD | 巨大跳跃 索尼克CD">
         <Cheatline>
             <Offset>101BD9A</Offset>
             <Section>0</Section>
@@ -421,7 +421,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock D.A. Garden Sonic CD [ MC ]">
+    <Cheat Text="Unlock D.A. Garden Sonic CD [ MC ] | 解锁D.A.花园 索尼克CD [MC]">
         <Cheatline>
             <Offset>101B864</Offset>
             <Section>0</Section>
@@ -429,7 +429,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Visual Mode Sonic CD [ MC ]">
+    <Cheat Text="Unlock Visual Mode Sonic CD [ MC ] | 解锁视觉模式 索尼克CD [MC]">
         <Cheatline>
             <Offset>101B86C</Offset>
             <Section>0</Section>
@@ -437,7 +437,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Sound Test Sonic CD [ MC ]">
+    <Cheat Text="Unlock Sound Test Sonic CD [ MC ] | 解锁声音测试 索尼克CD [MC]">
         <Cheatline>
             <Offset>101B87C</Offset>
             <Section>0</Section>
@@ -445,7 +445,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Unlock Stage Select Sonic CD [ MC ]">
+    <Cheat Text="Unlock Stage Select Sonic CD [ MC ] | 解锁关卡选择 索尼克CD [MC]">
         <Cheatline>
             <Offset>101B874</Offset>
             <Section>0</Section>
@@ -453,7 +453,7 @@
             <ValueOff>90-90</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debug Mode Sonic 1 + 2">
+    <Cheat Text="Debug Mode Sonic 1 + 2 | 调试模式 索尼克1+2">
         <Cheatline>
             <Offset>101BBA9</Offset>
             <Section>0</Section>
@@ -461,7 +461,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debug Mode Sonic 3">
+    <Cheat Text="Debug Mode Sonic 3 | 调试模式 索尼克3">
         <Cheatline>
             <Offset>2EAD06</Offset>
             <Section>0</Section>
@@ -469,7 +469,7 @@
             <ValueOff>0F-84-11-04-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Debug Mode Sonic CD">
+    <Cheat Text="Debug Mode Sonic CD | 调试模式 索尼克CD">
         <Cheatline>
             <Offset>101BBB3</Offset>
             <Section>0</Section>

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Fast replenish life",
+      "name": "Fast replenish life | 快速恢复生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Immediately replenish life",
+      "name": "Immediately replenish life | 立即恢复生命",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinity Lightning Ammo",
+      "name": "Infinity Lightning Ammo | 无限闪电弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Infinity Bullet Ammo",
+      "name": "Infinity Bullet Ammo | 无限子弹弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "One Hit Kill",
+      "name": "One Hit Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Infinity Jetpack",
+      "name": "Infinity Jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Buy without lose Money/Money collect off",
+      "name": "Buy without lose Money/Money collect off | 购物不花钱/金钱收集关闭",
       "type": "checkbox",
       "memory": [
         {

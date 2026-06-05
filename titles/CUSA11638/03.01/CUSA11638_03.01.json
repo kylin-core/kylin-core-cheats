@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activated ) ",
+      "name": "Mastercode ( must be activated ) | 主代码（必须激活）",
       "type": "checkbox",
       "memory": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "Infinite Health [MC]",
+      "name": "Infinite Health [MC] | 无限生命 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [MC]",
+      "name": "One Hit Kill [MC] | 一击必杀 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Infinite Charge [MC]",
+      "name": "Infinite Charge [MC] | 无限蓄力 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "No Charge Enemies [MC]",
+      "name": "No Charge Enemies [MC] | 敌人无法蓄力 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "name": "Infinite Awakening [MC]",
+      "name": "Infinite Awakening [MC] | 无限觉醒 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "No Awakening Enemies [MC]",
+      "name": "No Awakening Enemies [MC] | 敌人无法觉醒 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina [MC]",
+      "name": "Infinite Stamina [MC] | 无限耐力 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "No Stamina Enemies [MC]",
+      "name": "No Stamina Enemies [MC] | 敌人无耐力 [MC]",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Max Money ( on gain )",
+      "name": "Max Money ( on gain ) | 金钱最大（获得时）",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Max Items ( on buy )",
+      "name": "Max Items ( on buy ) | 物品最大（购买时）",
       "type": "checkbox",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {

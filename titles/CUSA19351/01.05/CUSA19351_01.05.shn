@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Sonic Colors: Ultimate" Moder="Reddevil82 " Cusa="CUSA19351" Version="01.05" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Invincibility ( after first hit )">
+    <Cheat Text="Invincibility ( after first hit ) | 无敌模式（首次受击后）">
         <Cheatline>
             <Offset>15C99C2</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-5C-C2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Rings / No loose after hit">
+    <Cheat Text="Max Rings / No loose after hit | 最大金环 / 受击不掉落">
         <Cheatline>
             <Offset>188E69B</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>8B-53-0C-41-8B-4E-1C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Speed Boost">
+    <Cheat Text="Infinite Speed Boost | 无限加速">
         <Cheatline>
             <Offset>2B6BF90</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Lives">
+    <Cheat Text="Infinite Lives | 无限生命">
         <Cheatline>
             <Offset>16C983E</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>8B-48-08-BB-01-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="One Hit Kill ( Boss )">
+    <Cheat Text="One Hit Kill ( Boss ) | 一击必杀（Boss）">
         <Cheatline>
             <Offset>19AFB86</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>89-8F-40-01-00-00-7E-01-C3-8A-87-68-01-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Set Timer to 0">
+    <Cheat Text="Set Timer to 0 | 计时归零">
         <Cheatline>
             <Offset>16CA506</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>C4-C1-7A-11-8C-24-68-02-00-00-C5-F0-57-C9</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Timer">
+    <Cheat Text="Freeze Timer | 冻结计时器">
         <Cheatline>
             <Offset>16CA4F7</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>C5-FA-10-43-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Score Points [S-Rank] ( on gain )">
+    <Cheat Text="Max Score Points [S-Rank] ( on gain ) | 最高分数（获得时达成S级）">
         <Cheatline>
             <Offset>2B6BEA0</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Boost ( Sonic Simulator )">
+    <Cheat Text="Infinite Boost ( Sonic Simulator ) | 无限加速（音速模拟器）">
         <Cheatline>
             <Offset>2B6BEC0</Offset>
             <Section>0</Section>

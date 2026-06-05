@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Mortal Kombat 11" Moder="Saso_9.00" Cusa="CUSA11379" Version="01.28" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf Health / Easy Win (Master Code)">
+    <Cheat Text="Inf Health / Easy Win (Master Code) | 无限生命 / 轻松胜利（主代码）">
         <Cheatline>
             <Offset>494DA00</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1-Easy Win (MC) Opponent Health (15%)">
+    <Cheat Text="1-Easy Win (MC) Opponent Health (15%) | 1-轻松胜利（主代码）对手生命（15%）">
         <Cheatline>
             <Offset>14DA0C</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>75-F2</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="2-Easy Win (MC) Opponent Health (1%)">
+    <Cheat Text="2-Easy Win (MC) Opponent Health (1%) | 2-轻松胜利（主代码）对手生命（1%）">
         <Cheatline>
             <Offset>14DA0C</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>75-08</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Super Meter">
+    <Cheat Text="Inf Super Meter | 无限能量槽">
         <Cheatline>
             <Offset>49C5000</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Opponent Super Meter (No Refill)">
+    <Cheat Text="Opponent Super Meter (No Refill) | 对手能量槽（无法补充）">
         <Cheatline>
             <Offset>4994C00</Offset>
             <Section>0</Section>

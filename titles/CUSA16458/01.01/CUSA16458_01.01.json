@@ -1,11 +1,11 @@
 {
-  "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+  "name": "Atelier Ryza: Ever Darkness \u0026 the Secret Hideout",
   "id": "CUSA16458",
   "version": "01.01",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Max Money on Purchase",
+      "name": "Max Money on Purchase | 购买时金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Stock In shop duplicated don't exceed 99 it will be negative",
+      "name": "Stock In shop duplicated don't exceed 99 it will be negative | 商店库存复制（超过99会变负数）",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Freez Item in shop",
+      "name": "Freez Item in shop | 锁定商店物品",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Fast Alcemy Lv",
+      "name": "Fast Alcemy Lv | 快速炼金术等级",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Max status",
+      "name": "Max status | 最大状态",
       "type": "checkbox",
       "memory": [
         {

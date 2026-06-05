@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands® 2 VR" Moder="ToFi" Cusa="CUSA13946" Version="01.03" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Skillpoints / Badass-Tokens (deactivate after use)">
+    <Cheat Text="Infinite Skillpoints / Badass-Tokens (deactivate after use) | 无限技能点/坏蛋代币（使用后关闭）">
         <Cheatline>
             <Offset>7A3D9</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>2B-45-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo + Grenades">
+    <Cheat Text="Infinite Ammo + Grenades | 无限弹药 + 手雷">
         <Cheatline>
             <Offset>A85FD5</Offset>
             <Section>0</Section>

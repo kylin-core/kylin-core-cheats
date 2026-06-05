@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="World War Z Aftermath" Moder="hp" Cusa="CUSA13930" Version="01.21" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="inf ammo">
+    <Cheat Text="inf ammo | 无限弹药">
         <Cheatline>
             <Offset>8D3F1F</Offset>
             <Section>0</Section>

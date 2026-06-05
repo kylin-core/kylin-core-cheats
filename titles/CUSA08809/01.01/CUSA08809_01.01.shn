@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="SHADOW OF THE COLOSSUS™" Moder="Wander FW9.00" Cusa="CUSA08809" Version="01.01" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>7ECF0D</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-05-63-8D-A7-02</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grip">
+    <Cheat Text="Infinite Grip | 无限握力">
         <Cheatline>
             <Offset>7ED1D3</Offset>
             <Section>0</Section>

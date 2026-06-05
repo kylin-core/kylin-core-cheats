@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Diablo 3: Ultimate Evil Edition" Moder="DeathRGH" Cusa="CUSA00242" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Mana">
+    <Cheat Text="Infinite Mana | 无限法力">
         <Cheatline>
             <Offset>922741</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>44-89-60-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Item / Kill Multiplier">
+    <Cheat Text="Item / Kill Multiplier | 物品/击杀倍率">
         <Cheatline>
             <Offset>B9C486</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>81-F9-FF-FF-FF-00-0F-43-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Freeze Item Count">
+    <Cheat Text="Freeze Item Count | 物品数量锁定">
         <Cheatline>
             <Offset>9227E1</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>44-89-78-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 金钱上限">
         <Cheatline>
             <Offset>8873C9</Offset>
             <Section>0</Section>

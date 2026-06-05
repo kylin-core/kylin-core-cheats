@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite EP",
+      "name": "Infinite EP | 无限EP",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite CP",
+      "name": "Infinite CP | 无限CP",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Fast Level up",
+      "name": "Fast Level up | 快速升级",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Fast Quarz Level up",
+      "name": "Fast Quarz Level up | 快速回路升级",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Mira (on spend)",
+      "name": "Max Mira (on spend) | 最大米拉（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Exchange Items (in spend)",
+      "name": "Max Exchange Items (in spend) | 最大兑换道具（消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Infinite Items (In battle have 2)",
+      "name": "Infinite Items (In battle have 2) | 无限道具（战斗中获得2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Purple Shards (on spent in the Corridor)",
+      "name": "Max Purple Shards (on spent in the Corridor) | 最大紫色碎片（回廊消耗时）",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max U Materials (on spend)",
+      "name": "Max U Materials (on spend) | 最大U物质（消耗时）",
       "type": "checkbox",
       "memory": [
         {

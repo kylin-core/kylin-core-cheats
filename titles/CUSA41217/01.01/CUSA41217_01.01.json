@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode [ must be enabled for MC Cheats ]",
+      "name": "Mastercode [ must be enabled for MC Cheats ] | 主代码 [ 必须启用才能使用MC作弊 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "Immortal",
+      "name": "Immortal | 无敌",
       "type": "checkbox",
       "memory": [
         {
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Max Amor",
+      "name": "Max Amor | 最大护甲",
       "type": "checkbox",
       "memory": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "One Hit Kill [ MC ]",
+      "name": "One Hit Kill [ MC ] | 一击必杀 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Infinite Drive Boost",
+      "name": "Infinite Drive Boost | 无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "name": "Enable Drive Boost",
+      "name": "Enable Drive Boost | 启用加速",
       "type": "checkbox",
       "memory": [
         {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "name": "Max Small Medicine Pack [ MC ]",
+      "name": "Max Small Medicine Pack [ MC ] | 最大小型医疗包 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "Max Big Medicine Pack [ MC ]",
+      "name": "Max Big Medicine Pack [ MC ] | 最大大型医疗包 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "name": "Max Shield Pack [ MC ]",
+      "name": "Max Shield Pack [ MC ] | 最大护盾包 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "name": "Max Weapon Pack [ MC ]",
+      "name": "Max Weapon Pack [ MC ] | 最大武器包 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "Max Scrap [ on gain - MC ]",
+      "name": "Max Scrap [ on gain - MC ] | 最大废料 [ 获得时 - MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "name": "Max Canister [ on gain - MC ]",
+      "name": "Max Canister [ on gain - MC ] | 最大容器 [ 获得时 - MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "name": "Max Decks [ on gain - MC ]",
+      "name": "Max Decks [ on gain - MC ] | 最大卡组 [ 获得时 - MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "name": "Reset Timer",
+      "name": "Reset Timer | 重置计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "name": "Jump Multiplier x 1 [ MC ]",
+      "name": "Jump Multiplier x 1 [ MC ] | 跳跃倍数 x1 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "name": "Jump Multiplier x 2 [ MC ]",
+      "name": "Jump Multiplier x 2 [ MC ] | 跳跃倍数 x2 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "name": "Jump Multiplier x 3 [ MC ]",
+      "name": "Jump Multiplier x 3 [ MC ] | 跳跃倍数 x3 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "name": "Speed Multiplier x 1 [ MC ]",
+      "name": "Speed Multiplier x 1 [ MC ] | 速度倍数 x1 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "name": "Speed Multiplier x 2 [ MC ]",
+      "name": "Speed Multiplier x 2 [ MC ] | 速度倍数 x2 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "name": "Speed Multiplier x 3 [ MC ]",
+      "name": "Speed Multiplier x 3 [ MC ] | 速度倍数 x3 [ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "name": "Speed Multiplier x 4 [ MC ]",
+      "name": "Speed Multiplier x 4 [ MC ] | 速度倍数 x4 [ MC ]",
       "type": "checkbox",
       "memory": [
         {

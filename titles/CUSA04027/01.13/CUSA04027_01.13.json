@@ -5,17 +5,15 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "No Reload and Infinite Grenade",
+      "name": "No Reload and Infinite Grenade | 无需装弹与无限手雷",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "537B42",
           "on": "9090909090909090",
           "off": "41899C24F00E0000"
         },
         {
-          "section": "61",
           "offset": "5378E4",
           "on": "9090",
           "off": "FFCB"
@@ -23,11 +21,10 @@
       ]
     },
     {
-      "name": "Infinite AMMO",
+      "name": "Infinite AMMO | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "53C6D7",
           "on": "909090",
           "off": "4429FB"
@@ -35,11 +32,10 @@
       ]
     },
     {
-      "name": "Skill No Cooldown",
+      "name": "Skill No Cooldown | 技能无冷却",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "540349",
           "on": "C683F00E0000C8",
           "off": "4489B3F00E0000"
@@ -47,11 +43,10 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "43A20D",
           "on": "9090909090",
           "off": "E8BEAFC0FF"
@@ -59,11 +54,10 @@
       ]
     },
     {
-      "name": "Infinite Jump",
+      "name": "Infinite Jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "D14CA",
           "on": "31DB",
           "off": "FFC3"
@@ -71,11 +65,10 @@
       ]
     },
     {
-      "name": "Infintie Titan Thrust",
+      "name": "Infintie Titan Thrust | 无限泰坦冲刺",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "D16AA",
           "on": "F828C8",
           "off": "FA5CC9"
@@ -83,17 +76,15 @@
       ]
     },
     {
-      "name": "Enemy 1 Hit Kill //Unlock Before Boss Battle",
+      "name": "Enemy 1 Hit Kill //Unlock Before Boss Battle | 一击必杀 // 在Boss战前解锁",
       "type": "checkbox",
       "memory": [
         {
-          "section": "61",
           "offset": "992500",
           "on": "807B02C9C4C17A2ACC7704C5F828C1E97E2E6BFF",
           "off": "0000000000000000000000000000000000000000"
         },
         {
-          "section": "61",
           "offset": "4538D",
           "on": "E96ED19400",
           "off": "C4C17A2ACC"

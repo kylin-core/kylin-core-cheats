@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite Rage",
+      "name": "Infinite Rage | 无限怒气",
       "type": "checkbox",
       "memory": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Instant R3",
+      "name": "Instant R3 | 即发R3技能",
       "type": "checkbox",
       "memory": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却",
       "type": "checkbox",
       "memory": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "Infinite Projectiles",
+      "name": "Infinite Projectiles | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "name": "Resources up (on craft/sell)",
+      "name": "Resources up (on craft/sell) | 资源增加（制作/出售时）",
       "type": "checkbox",
       "memory": [
         {
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Damage Multiplier (default 2x)",
+      "name": "Damage Multiplier (default 2x) | 伤害倍率（默认2倍）",
       "type": "checkbox",
       "memory": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "0.5x damage",
+      "name": "0.5x damage | 0.5倍伤害",
       "type": "button",
       "memory": [
         {
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "5x damage",
+      "name": "5x damage | 5倍伤害",
       "type": "button",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "10x damage",
+      "name": "10x damage | 10倍伤害",
       "type": "button",
       "memory": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "25x damage",
+      "name": "25x damage | 25倍伤害",
       "type": "button",
       "memory": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "XP/HS/Resources Multiplier (default 2x)",
+      "name": "XP/HS/Resources Multiplier (default 2x) | 经验/银币/资源倍率（默认2倍）",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "10x resources",
+      "name": "10x resources | 10倍资源",
       "type": "button",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "50x resources",
+      "name": "50x resources | 50倍资源",
       "type": "button",
       "memory": [
         {
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "100x resources",
+      "name": "100x resources | 100倍资源",
       "type": "button",
       "memory": [
         {

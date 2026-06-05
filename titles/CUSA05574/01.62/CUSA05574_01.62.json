@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "99999 Coins (on sell will affect items when buying)",
+      "name": "99999 Coins (on sell will affect items when buying) | 99999金币（出售时将影响购买物品）",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "9999 Weight",
+      "name": "9999 Weight | 9999负重",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Health (may not work for some monsters and soldiers)",
+      "name": "Infinite Health (may not work for some monsters and soldiers) | 无限生命（可能对部分怪物和士兵无效）",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Health/1hit kill (shared with stamina and horse may not work)",
+      "name": "Infinite Health/1hit kill (shared with stamina and horse may not work) | 无限生命/一击必杀（与耐力及马匹共享，可能无效）",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Experience x100 after quest completion",
+      "name": "Experience x100 after quest completion | 任务完成后经验值x100",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "999 Skill points (on spend)",
+      "name": "999 Skill points (on spend) | 999技能点（消耗时生效）",
       "type": "checkbox",
       "memory": [
         {
@@ -102,6 +102,6 @@
     }
   ],
   "credits": [
-    "Wander & Cosmaty FW9.00"
+    "Wander \u0026 Cosmaty FW9.00"
   ]
 }

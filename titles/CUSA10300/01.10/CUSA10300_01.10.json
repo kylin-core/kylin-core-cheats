@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Player Infinity HP",
+      "name": "Player Infinity HP | 玩家无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Player Infinity Ammo",
+      "name": "Player Infinity Ammo | 玩家无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Vehicle Infinity Ammo",
+      "name": "Vehicle Infinity Ammo | 载具无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Vehicle Infinity HP",
+      "name": "Vehicle Infinity HP | 载具无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Vehicle Infinity Boost",
+      "name": "Vehicle Infinity Boost | 载具无限加速",
       "type": "checkbox",
       "memory": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Vehicle Machine Gun No Overheat",
+      "name": "Vehicle Machine Gun No Overheat | 载具机枪无过热",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Instant OverDirve",
+      "name": "Instant OverDirve | 瞬间超载",
       "type": "checkbox",
       "memory": [
         {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Max Cash Open Game Menu",
+      "name": "Max Cash Open Game Menu | 最大金钱（打开游戏菜单）",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Infinity Vendor Items",
+      "name": "Infinity Vendor Items | 无限商人物品",
       "type": "checkbox",
       "memory": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Infinity Items\\Throwables",
+      "name": "Infinity Items\\Throwables | 无限道具\\投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Infinity Upgrade Material",
+      "name": "Infinity Upgrade Material | 无限升级材料",
       "type": "checkbox",
       "memory": [
         {
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Infinity Project Points",
+      "name": "Infinity Project Points | 无限项目点数",
       "type": "checkbox",
       "memory": [
         {

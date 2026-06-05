@@ -3,22 +3,9 @@
   "id": "CUSA02902",
   "version": "01.18",
   "process": "eboot.bin",
-  "master": {
-    "challenged": "yes",
-    "memory": [
-      {
-        "offset": "539F810",
-        "on": "B000884778C390E909D11DFB"
-      },
-      {
-        "offset": "57C920",
-        "on": "E9EB2EE204"
-      }
-    ]
-  },
   "mods": [
     {
-      "name": "Infinite Health Player",
+      "name": "Infinite Health Player | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -29,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Clip Ammo",
+      "name": "Infinite Clip Ammo | 无限弹匣弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -40,7 +27,7 @@
       ]
     },
     {
-      "name": "No Blood On Screen",
+      "name": "No Blood On Screen | 无屏幕血迹",
       "type": "checkbox",
       "memory": [
         {
@@ -51,7 +38,7 @@
       ]
     },
     {
-      "name": "Inftinite Throwable",
+      "name": "Inftinite Throwable | 无限投掷物",
       "type": "checkbox",
       "memory": [
         {
@@ -67,7 +54,7 @@
       ]
     },
     {
-      "name": "Stealth Mode [Player Only]",
+      "name": "Stealth Mode [Player Only] | 隐身模式 [仅玩家]",
       "type": "checkbox",
       "memory": [
         {
@@ -78,7 +65,7 @@
       ]
     },
     {
-      "name": "Infinite Skill Points",
+      "name": "Infinite Skill Points | 无限技能点",
       "type": "checkbox",
       "memory": [
         {
@@ -94,7 +81,7 @@
       ]
     },
     {
-      "name": "Extra Resources Suply [Suply Raid Mission]",
+      "name": "Extra Resources Suply [Suply Raid Mission] | 额外资源补给 [资源突袭任务]",
       "type": "checkbox",
       "memory": [
         {
@@ -110,7 +97,7 @@
       ]
     },
     {
-      "name": "Unlock Skill Level-Unlock Tier One",
+      "name": "Unlock Skill Level-Unlock Tier One | 解锁技能等级-解锁一级",
       "type": "checkbox",
       "memory": [
         {

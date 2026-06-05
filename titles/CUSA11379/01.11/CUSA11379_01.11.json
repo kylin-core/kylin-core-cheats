@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Inf HP",
+      "name": "Inf HP | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Easy Kill",
+      "name": "Easy Kill | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "P1 Full Defensive Meter",
+      "name": "P1 Full Defensive Meter | P1 满防御槽",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "P1 Full Offensive Meter",
+      "name": "P1 Full Offensive Meter | P1 满进攻槽",
       "type": "checkbox",
       "memory": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "P2 No Defensive Meter",
+      "name": "P2 No Defensive Meter | P2 无防御槽",
       "type": "checkbox",
       "memory": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "P2 No Offensive Meter",
+      "name": "P2 No Offensive Meter | P2 无进攻槽",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Timothy Vs Aliens" Moder="d01v" Cusa="CUSA11586" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (MC)">
+    <Cheat Text="Infinite Health (MC) | 无限生命（主控角色）">
         <Cheatline>
             <Offset>3CD8A81</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dead / Invincible (MC)">
+    <Cheat Text="Dead / Invincible (MC) | 死亡/无敌（主控角色）">
         <Cheatline>
             <Offset>3CD8A92</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C7-07-00-C0-79-44</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Money (MC1)">
+    <Cheat Text="Money (MC1) | 金钱（主控角色1）">
         <Cheatline>
             <Offset>3CD8AC1</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Hyper Speed (must fill / get money 1st / MC1)">
+    <Cheat Text="Hyper Speed (must fill / get money 1st / MC1) | 超级速度（需先填充/获取金钱/主控角色1）">
         <Cheatline>
             <Offset>3CD8AD6</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>C7-00-0F-27-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Revolver 357 (force glitch / MC wep)">
+    <Cheat Text="Revolver 357 (force glitch / MC wep) | 357左轮手枪（强制故障/主控武器）">
         <Cheatline>
             <Offset>3CD8B81</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="ShotGun (force glitch / MC wep)">
+    <Cheat Text="ShotGun (force glitch / MC wep) | 霰弹枪（强制故障/主控武器）">
         <Cheatline>
             <Offset>3CD8B91</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>74-12</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Machine Gun (force glitch / MC wep)">
+    <Cheat Text="Machine Gun (force glitch / MC wep) | 机枪（强制故障/主控武器）">
         <Cheatline>
             <Offset>3CD8B91</Offset>
             <Section>0</Section>

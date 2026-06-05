@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="MARVEL VS. CAPCOM: INFINITE" Moder="DJFlameDat" Cusa="CUSA06400" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Inf HP">
+    <Cheat Text="Inf HP | 无限生命">
         <Cheatline>
             <Offset>4BC3800</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Super (On Gain)">
+    <Cheat Text="Inf Super (On Gain) | 无限超级能量（获得时）">
         <Cheatline>
             <Offset>4BC3836</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Stone Meter (On Gain)">
+    <Cheat Text="Inf Stone Meter (On Gain) | 无限宝石能量（获得时）">
         <Cheatline>
             <Offset>4BC3849</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Timer">
+    <Cheat Text="Inf Timer | 无限时间">
         <Cheatline>
             <Offset>4BC3829</Offset>
             <Section>0</Section>

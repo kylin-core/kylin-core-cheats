@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite usables",
+      "name": "Infinite usables | 无限消耗品",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Level,Gold,Skill points, upgrade items",
+      "name": "Max Level,Gold,Skill points, upgrade items | 最高等级、金币、技能点、升级物品",
       "type": "checkbox",
       "memory": [
         {

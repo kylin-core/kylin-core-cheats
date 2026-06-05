@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Need for Speed™ Heat" Moder="d01v" Cusa="CUSA15090" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Unlock All Cars">
+    <Cheat Text="Unlock All Cars | 解锁全部车辆">
         <Cheatline>
             <Offset>579FDA3</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max Money">
+    <Cheat Text="Max Money | 最大金钱">
         <Cheatline>
             <Offset>579FDDE</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Damage (not working on cops)">
+    <Cheat Text="No Damage (not working on cops) | 无损伤（对警察无效）">
         <Cheatline>
             <Offset>579FDF3</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Garage Teleport when Busted (Single Cheat)">
+    <Cheat Text="Disable Garage Teleport when Busted (Single Cheat) | 逮捕时禁用车库传送（单一作弊）">
         <Cheatline>
             <Offset>579FE0B</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Disable Reset Damage (Make Impact to cops / Single Cheat)">
+    <Cheat Text="Disable Reset Damage (Make Impact to cops / Single Cheat) | 禁用伤害重置（可撞击警察/单一作弊）">
         <Cheatline>
             <Offset>579FE40</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Health 9999 (Enter Garage and exit, turn off cheat, Re enter)">
+    <Cheat Text="Health 9999 (Enter Garage and exit, turn off cheat, Re enter) | 生命值9999（进入车库后退出，关闭作弊再重新进入）">
         <Cheatline>
             <Offset>579FE75</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Nitro (Hold for continues nitro)">
+    <Cheat Text="Infinite Nitro (Hold for continues nitro) | 无限氮气（持续按住可连续使用）">
         <Cheatline>
             <Offset>579FEA6</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Much More Nitro">
+    <Cheat Text="Much More Nitro | 氮气大幅提升">
         <Cheatline>
             <Offset>579FECA</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Refill Nitro upon 180 Degree turn">
+    <Cheat Text="Refill Nitro upon 180 Degree turn | 180度转弯时补充氮气">
         <Cheatline>
             <Offset>579FEE3</Offset>
             <Section>0</Section>

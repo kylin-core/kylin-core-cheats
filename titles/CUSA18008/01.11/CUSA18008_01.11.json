@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Infinite money",
+      "name": "Infinite money | 无限金钱",
       "type": "checkbox",
       "memory": [
         {
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "infinite items",
+      "name": "infinite items | 无限物品",
       "type": "checkbox",
       "memory": [
         {
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name": "Rose - Infinite Magic",
+      "name": "Rose - Infinite Magic | 萝丝-无限魔法",
       "type": "checkbox",
       "memory": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Rose - Infinite Plants",
+      "name": "Rose - Infinite Plants | 萝丝-无限植物",
       "type": "checkbox",
       "memory": [
         {
@@ -116,11 +116,10 @@
       ]
     },
     {
-      "name": "Info crafting materials by LMN",
+      "name": "Info crafting materials by LMN | LMN信息制作材料",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "54AB9F1",
           "on": "9090909090",
           "off": "E84A13C7FD"
@@ -128,11 +127,10 @@
       ]
     },
     {
-      "name": "Inf white flower and First Aid Med usage by LMN",
+      "name": "Inf white flower and First Aid Med usage by LMN | LMN无限白花与急救药使用",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "62C04DA",
           "on": "909090909090",
           "off": "FF9070060000"
@@ -140,11 +138,10 @@
       ]
     },
     {
-      "name": "Inf Pipe Bombs by LMN",
+      "name": "Inf Pipe Bombs by LMN | LMN无限管状炸弹",
       "type": "checkbox",
       "memory": [
         {
-          "section": "1",
           "offset": "3110583",
           "on": "9090909090",
           "off": "E838BABF02"
@@ -152,7 +149,7 @@
       ]
     },
     {
-      "name": "Godmode by JustGotenks",
+      "name": "Godmode by JustGotenks | JustGotenks上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -168,7 +165,7 @@
       ]
     },
     {
-      "name": "One-hit Kill by JustGotenks",
+      "name": "One-hit Kill by JustGotenks | JustGotenks一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -184,7 +181,7 @@
       ]
     },
     {
-      "name": "No Reload by JustGotenks",
+      "name": "No Reload by JustGotenks | JustGotenks无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -196,6 +193,6 @@
     }
   ],
   "credits": [
-    "fbin, LMN & JustGotenks, merge and trad cheats by Chronoss"
+    "fbin, LMN \u0026 JustGotenks, merge and trad cheats by Chronoss"
   ]
 }

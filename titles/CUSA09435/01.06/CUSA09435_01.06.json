@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Freeze Timer",
+      "name": "Freeze Timer | 冻结计时器",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Freeze Crash Counter",
+      "name": "Freeze Crash Counter | 冻结碰撞计数器",
       "type": "checkbox",
       "memory": [
         {

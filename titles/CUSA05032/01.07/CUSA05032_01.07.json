@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "1 Hit Kills",
+      "name": "1 Hit Kills | 一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Gift-Points",
+      "name": "Infinite Gift-Points | 无限赠礼点数",
       "type": "checkbox",
       "memory": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Instant Regeneration",
+      "name": "Instant Regeneration | 瞬间回复",
       "type": "checkbox",
       "memory": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "No Cooldown",
+      "name": "No Cooldown | 无冷却时间",
       "type": "checkbox",
       "memory": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "name": "Infinite Heal-Skill Usage",
+      "name": "Infinite Heal-Skill Usage | 无限治疗技能使用次数",
       "type": "checkbox",
       "memory": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Infinite Stamina",
+      "name": "Infinite Stamina | 无限体力",
       "type": "checkbox",
       "memory": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Max Blood on Get",
+      "name": "Max Blood on Get | 获取时血量为最大",
       "type": "checkbox",
       "memory": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Max Gold on Get",
+      "name": "Max Gold on Get | 获取时金币为最大",
       "type": "checkbox",
       "memory": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Max Iron on Get",
+      "name": "Max Iron on Get | 获取时铁矿为最大",
       "type": "checkbox",
       "memory": [
         {
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "name": "Max Wood on Get",
+      "name": "Max Wood on Get | 获取时木材为最大",
       "type": "checkbox",
       "memory": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Infinite Blood",
+      "name": "Infinite Blood | 无限血量",
       "type": "checkbox",
       "memory": [
         {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Infinite Gold",
+      "name": "Infinite Gold | 无限金币",
       "type": "checkbox",
       "memory": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "Infinite Iron",
+      "name": "Infinite Iron | 无限铁矿",
       "type": "checkbox",
       "memory": [
         {
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "name": "Infinite Wood",
+      "name": "Infinite Wood | 无限木材",
       "type": "checkbox",
       "memory": [
         {

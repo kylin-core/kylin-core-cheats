@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="LOST JUDGMENT：裁かれざる記憶" Moder="TylerMods_9.00" Cusa="CUSA28183" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="9,999,999 SP, Yen, Shogi Points on gain">
+    <Cheat Text="9,999,999 SP, Yen, Shogi Points on gain | 获取时获得9,999,999点SP、金钱、将棋积分">
         <Cheatline>
             <Offset>1F8A0E0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite EX Gauge">
+    <Cheat Text="Infinite EX Gauge | 无限EX量表">
         <Cheatline>
             <Offset>1F8A1C0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Durability">
+    <Cheat Text="Infinite Weapon Durability | 无限武器耐久度">
         <Cheatline>
             <Offset>1F8A230</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9,999,999 Items (MUST Buy 1 from store FIRST)(Turn off to use items)">
+    <Cheat Text="9,999,999 Items (MUST Buy 1 from store FIRST)(Turn off to use items) | 道具数量9,999,999（必须先购买一个，关闭后方可使用道具）">
         <Cheatline>
             <Offset>1F8A300</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items increase on use (Buy from store first)">
+    <Cheat Text="Items increase on use (Buy from store first) | 使用道具时数量增加（需先在商店购买）">
         <Cheatline>
             <Offset>2F337F</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>44-89-7A-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Items dont decrease (Buy from store first)">
+    <Cheat Text="Items dont decrease (Buy from store first) | 道具数量不减少（需先在商店购买）">
         <Cheatline>
             <Offset>2F337F</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>44-89-7A-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="9,999,999 VR Credits on Gain">
+    <Cheat Text="9,999,999 VR Credits on Gain | 获取时获得9,999,999点VR积分">
         <Cheatline>
             <Offset>1F8A3C0</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Extract Duration">
+    <Cheat Text="Infinite Extract Duration | 无限薰香持续时间">
         <Cheatline>
             <Offset>1F8BDD0</Offset>
             <Section>0</Section>

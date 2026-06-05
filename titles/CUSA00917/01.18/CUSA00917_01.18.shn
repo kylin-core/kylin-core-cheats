@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Uncharted 4" Moder="DeathRGH" Cusa="CUSA00917" Version="01.18" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Enable Debug Menu">
+    <Cheat Text="Enable Debug Menu | 启用调试菜单">
         <Cheatline>
             <Offset>5F52C5</Offset>
             <Section>0</Section>

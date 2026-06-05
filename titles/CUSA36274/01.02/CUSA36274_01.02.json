@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "INFINTE  HP turns off INF SP AND BP",
+      "name": "INFINTE  HP turns off INF SP AND BP | 无限HP 关闭无限SP和BP",
       "type": "checkbox",
       "memory": [
         {
@@ -14,7 +14,6 @@
           "off": "8B1681FEC465FFEE75030000000000000000000000000000000000"
         },
         {
-          "section": "7",
           "offset": "3E323",
           "on": "E9D808E885",
           "off": "8B1689175D"
@@ -22,7 +21,7 @@
       ]
     },
     {
-      "name": "INFINTE SP AND BP turns off INF HP",
+      "name": "INFINTE SP AND BP turns off INF HP | 无限SP和BP 关闭无限HP",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +30,6 @@
           "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         },
         {
-          "section": "7",
           "offset": "3E323",
           "on": "E9D808E885",
           "off": "8B1689175D"
@@ -39,7 +37,7 @@
       ]
     },
     {
-      "name": "INFINTE  MONEY BUY/SELL TURN OFF AFTER USE",
+      "name": "INFINTE  MONEY BUY/SELL TURN OFF AFTER USE | 无限金钱 购买/出售 使用后关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -50,7 +48,7 @@
       ]
     },
     {
-      "name": "INF ITEM BUY SELL",
+      "name": "INF ITEM BUY SELL | 无限道具 购买/出售",
       "type": "checkbox",
       "memory": [
         {

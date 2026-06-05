@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Godmode",
-      "hint": null,
+      "name": "Godmode | 无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Money",
-      "hint": null,
+      "name": "Money | 金钱满值",
       "type": "checkbox",
       "memory": [
         {
@@ -34,8 +32,7 @@
       ]
     },
     {
-      "name": "Max Level",
-      "hint": null,
+      "name": "Max Level | 满级",
       "type": "button",
       "memory": [
         {
@@ -46,7 +43,7 @@
       ]
     },
     {
-      "name": "Infinite jump",
+      "name": "Infinite jump | 无限跳跃",
       "type": "checkbox",
       "memory": [
         {

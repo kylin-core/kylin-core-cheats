@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Horizon Forbbiden West" Moder="Celogamez" Cusa="CUSA28561" Version="01.18" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health/1 Hit Kill (Master Code)">
+    <Cheat Text="Infinite Health/1 Hit Kill (Master Code) | 无限生命/一击必杀（主代码）">
         <Cheatline>
             <Offset>2BDBB10</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health (Need MC)">
+    <Cheat Text="Infinite Health (Need MC) | 无限生命（需主代码）">
         <Cheatline>
             <Offset>2BDBB1A</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C4-C1-7A-11-45-74</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill Need MC)">
+    <Cheat Text="1 Hit Kill (Need MC) | 一击必杀（需主代码）">
         <Cheatline>
             <Offset>2BDBB18</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>75-0E</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite All Items/Resources">
+    <Cheat Text="Max/Infinite All Items/Resources | 最大/无限所有物品/资源">
         <Cheatline>
             <Offset>7FC5E0C0</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Boltblast Ammo">
+    <Cheat Text="Infinite Boltblast Ammo | 无限弩箭弹药">
         <Cheatline>
             <Offset>7FC5E230</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Shards On Gain">
+    <Cheat Text="Max/Infinite Shards On Gain | 获得时最大/无限金属片">
         <Cheatline>
             <Offset>7FC5FF70</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Aim Focus">
+    <Cheat Text="Infinite Aim Focus | 无限瞄准专注">
         <Cheatline>
             <Offset>7FC5E130</Offset>
             <Section>0</Section>
@@ -61,7 +61,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Weapon Stamina/Breath">
+    <Cheat Text="Infinite Weapon Stamina/Breath | 无限武器耐力/呼吸">
         <Cheatline>
             <Offset>7FC5F600</Offset>
             <Section>0</Section>
@@ -69,7 +69,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Instant Valor Surge Fill">
+    <Cheat Text="Instant Valor Surge Fill | 瞬间填满勇气爆发">
         <Cheatline>
             <Offset>7FC5E630</Offset>
             <Section>0</Section>
@@ -77,7 +77,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max/Infinite Valor Surge (Activate Valor First)">
+    <Cheat Text="Max/Infinite Valor Surge (Activate Valor First) | 最大/无限勇气爆发（先激活勇气）">
         <Cheatline>
             <Offset>7FC5E8F0</Offset>
             <Section>0</Section>
@@ -85,7 +85,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Lot Of Infinite Skill Points">
+    <Cheat Text="Lot Of Infinite Skill Points | 大量/无限技能点">
         <Cheatline>
             <Offset>1F6FF68</Offset>
             <Section>0</Section>

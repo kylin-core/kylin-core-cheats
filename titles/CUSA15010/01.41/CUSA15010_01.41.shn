@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Call of Duty®: Black Ops Cold War" Moder="StaffyModz👽🖕" Cusa="CUSA15010" Version="01.41" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>125C6BE</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>48-8B-8D-90-FE-FF-FF</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Money">
+    <Cheat Text="Infinite Money | 无限金钱">
         <Cheatline>
             <Offset>12EBE97</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>8B-45-F0</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo">
+    <Cheat Text="Infinite Ammo | 无限弹药">
         <Cheatline>
             <Offset>F0AF0E</Offset>
             <Section>0</Section>

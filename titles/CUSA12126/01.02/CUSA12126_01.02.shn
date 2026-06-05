@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Little Dragons Cafe" Moder="Molly" Cusa="CUSA12126" Version="01.02" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Unlock All Ingredients">
+    <Cheat Text="Unlock All Ingredients | 解锁所有食材">
         <Cheatline>
             <Offset>12CB811</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dragons Hp">
+    <Cheat Text="Dragons Hp | 龙之生命值">
         <Cheatline>
             <Offset>12CB827</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Char Walk Speed x2">
+    <Cheat Text="Char Walk Speed x2 | 角色移动速度x2">
         <Cheatline>
             <Offset>12CB83E</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="High Jump">
+    <Cheat Text="High Jump | 高跳">
         <Cheatline>
             <Offset>12CB851</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Super Jump">
+    <Cheat Text="Super Jump | 超级跳跃">
         <Cheatline>
             <Offset>12CB851</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Dragon Walk Speed X2">
+    <Cheat Text="Dragon Walk Speed X2 | 龙移动速度x2">
         <Cheatline>
             <Offset>12CB864</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Dragon Manure">
+    <Cheat Text="Infinite Dragon Manure | 无限龙粪">
         <Cheatline>
             <Offset>12CB877</Offset>
             <Section>0</Section>

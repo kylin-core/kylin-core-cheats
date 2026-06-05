@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinite ammo box/Items",
+      "name": "Infinite ammo box/Items | 无限弹药箱/道具",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Knife Durability",
+      "name": "Infinite Knife Durability | 无限刀具耐久",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Ptas (on collect)",
+      "name": "Max Ptas (on collect) | 最大比塞塔（拾取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Spinel (on get)",
+      "name": "Max Spinel (on get) | 最大尖晶石（获取时）",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Max Score (at shooting range)",
+      "name": "Max Score (at shooting range) | 最高分数（射击场）",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Golden Coin Multiplier",
+      "name": "Golden Coin Multiplier | 金币倍数",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Max CP (on spend)",
+      "name": "Max CP (on spend) | 最大CP（消费时）",
       "type": "checkbox",
       "memory": [
         {

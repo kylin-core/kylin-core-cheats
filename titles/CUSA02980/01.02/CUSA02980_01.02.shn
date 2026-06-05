@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Borderlands THC Borderlands 2" Moder="hejran7" Cusa="CUSA02980" Version="01.02" Process="MAGNOLIA.elf">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Instant lvl 72 - Inf Ammo - Inf HP">
+    <Cheat Text="Instant lvl 72 - Inf Ammo - Inf HP | 瞬间72级 - 无限弹药 - 无限生命">
         <Cheatline>
             <Offset>73DD6A</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-93-A0-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Credits-Eridium-Seraph-Torgue">
+    <Cheat Text="Inf Credits-Eridium-Seraph-Torgue | 无限货币-镒矿-炽天使-托格币">
         <Cheatline>
             <Offset>1EC380E</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Skill Points - Badass Tokens On Use">
+    <Cheat Text="Inf Skill Points - Badass Tokens On Use | 无限技能点 - 使用增加坏小子代币">
         <Cheatline>
             <Offset>5BBFB</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>2B-45-C8</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Increase Redeem Taken By 20%">
+    <Cheat Text="Increase Redeem Taken By 20% | 兑换获取增加20%">
         <Cheatline>
             <Offset>1EC3827</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Ammo - Grenades">
+    <Cheat Text="Inf Ammo - Grenades | 无限弹药-手雷">
         <Cheatline>
             <Offset>73DD32</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>C5-F2-5C-CA</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload- Inf Ammo must be On">
+    <Cheat Text="No Reload- Inf Ammo must be On | 无需装弹 - 需开启无限弹药">
         <Cheatline>
             <Offset>5B77E</Offset>
             <Section>0</Section>

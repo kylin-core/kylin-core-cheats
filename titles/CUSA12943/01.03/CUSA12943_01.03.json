@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Slow Motion Power",
+      "name": "Infinite Slow Motion Power | 无限子弹时间能量",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Max Stars",
+      "name": "Max Stars | 最大星级评价",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Max Ammo",
+      "name": "Max Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {

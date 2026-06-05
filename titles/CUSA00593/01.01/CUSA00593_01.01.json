@@ -5,8 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
-      "hint": null,
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "Infinite Reload Ammo / Bullet Currency",
-      "hint": null,
+      "name": "Infinite Reload Ammo / Bullet Currency | 无限装弹/子弹货币",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Gasmask Filter",
-      "hint": null,
+      "name": "Infinite Gasmask Filter | 无限防毒面具滤芯",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Infinite Air Pressure In Gun",
-      "hint": null,
+      "name": "Infinite Air Pressure In Gun | 无限气枪气压",
       "type": "checkbox",
       "memory": [
         {

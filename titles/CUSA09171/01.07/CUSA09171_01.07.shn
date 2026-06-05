@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil 2" Moder="Ali-mk" Cusa="CUSA09171" Version="01.07" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite-Health">
+    <Cheat Text="Infinite-Health | 无限生命">
         <Cheatline>
             <Offset>49D28F1</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>89-48-58</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf-Ammo-All-Weapon-Never-Reload">
+    <Cheat Text="Inf-Ammo-All-Weapon-Never-Reload | 全武器无限弹药无需装弹">
         <Cheatline>
             <Offset>5AF12B6</Offset>
             <Section>0</Section>

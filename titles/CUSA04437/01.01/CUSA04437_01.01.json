@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "(HP On L3+T-Pad) (HP Off R3+T-Pad)",
+      "name": "(HP On L3+T-Pad) (HP Off R3+T-Pad) | (L3+T-面板开启HP) (R3+T-面板关闭HP)",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Inf Health Always On",
+      "name": "Inf Health Always On | 无限生命常开",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "No Reload",
+      "name": "No Reload | 无需装弹",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Max Inf Ammo on Reload",
+      "name": "Max Inf Ammo on Reload | 装弹后无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Max Inf Grenade on Use",
+      "name": "Max Inf Grenade on Use | 使用后无限手雷",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Max Money on Spend",
+      "name": "Max Money on Spend | 消费后金钱最大",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Mx Resources On sell",
+      "name": "Mx Resources On sell | 出售后资源最大",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Run without Pressing X or L3",
+      "name": "Run without Pressing X or L3 | 无需按键即可奔跑",
       "type": "checkbox",
       "memory": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Freeze Countup Timer - STORY-LIN-DS",
+      "name": "Freeze Countup Timer - STORY-LIN-DS | 冻结计时器（增加型）- 故事线双人模式",
       "type": "checkbox",
       "memory": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "name": "Freeze Countdown Timer - DS",
+      "name": "Freeze Countdown Timer - DS | 冻结倒计时器 - 双人模式",
       "type": "checkbox",
       "memory": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "Freeze Combo Count - Mercenaries",
+      "name": "Freeze Combo Count - Mercenaries | 冻结连击计数 - 佣兵模式",
       "type": "checkbox",
       "memory": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Freeze Bonus Combo Time - Mercenaries",
+      "name": "Freeze Bonus Combo Time - Mercenaries | 冻结奖励连击时间 - 佣兵模式",
       "type": "checkbox",
       "memory": [
         {
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "name": "Freeze Countdown Timer - Mercenaries",
+      "name": "Freeze Countdown Timer - Mercenaries | 冻结倒计时器 - 佣兵模式",
       "type": "checkbox",
       "memory": [
         {

@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinte Jump ON",
+      "name": "Infinte Jump ON | 无限跳跃 开启",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "Infinte Jump OFF",
+      "name": "Infinte Jump OFF | 无限跳跃 关闭",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Infinite Prayers Use",
+      "name": "Infinite Prayers Use | 无限祈愿使用",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Instant Level Up",
+      "name": "Instant Level Up | 瞬间升级",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Infinite Health/1 Hit kill",
+      "name": "Infinite Health/1 Hit kill | 无限生命/一击必杀",
       "type": "checkbox",
       "memory": [
         {
@@ -86,6 +86,6 @@
     }
   ],
   "credits": [
-    "Wander & Gatot Kaca_9.00"
+    "Wander \u0026 Gatot Kaca_9.00"
   ]
 }

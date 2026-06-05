@@ -1,11 +1,11 @@
 {
-  "name": "heart &amp; slash",
+  "name": "heart \u0026amp; slash",
   "id": "CUSA04531",
   "version": "01.00",
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "god mode",
+      "name": "god mode | 上帝模式",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "max screw on pick",
+      "name": "max screw on pick | 最大螺丝拾取",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "bullet inf",
+      "name": "bullet inf | 无限子弹",
       "type": "checkbox",
       "memory": [
         {

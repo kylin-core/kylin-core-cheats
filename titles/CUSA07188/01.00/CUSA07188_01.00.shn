@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Bulletstorm: Full Clip Edition" Moder="Talixme" Cusa="CUSA07188" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="2x Exp After Use">
+    <Cheat Text="2x Exp After Use | 使用后双倍经验">
         <Cheatline>
             <Offset>2F1834</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>2B</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="No Reload">
+    <Cheat Text="No Reload | 无需装弹">
         <Cheatline>
             <Offset>18A4382</Offset>
             <Section>0</Section>

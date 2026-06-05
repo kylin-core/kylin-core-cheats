@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "9,999,999 Protein on Gain",
+      "name": "9,999,999 Protein on Gain | 获得时增加9,999,999蛋白质",
       "type": "checkbox",
       "memory": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "9,999,999 Fats on Gain",
+      "name": "9,999,999 Fats on Gain | 获得时增加9,999,999脂肪",
       "type": "checkbox",
       "memory": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "9,999,999 Minerals on Gain",
+      "name": "9,999,999 Minerals on Gain | 获得时增加9,999,999矿物质",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "9,999,999 Mutagens on Gain",
+      "name": "9,999,999 Mutagens on Gain | 获得时增加9,999,999诱变剂",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Disable HUD (Pause, then unpause to fix when disabled)",
+      "name": "Disable HUD (Pause, then unpause to fix when disabled) | 禁用HUD（暂停后取消暂停可修复）",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Sky effects (weird screen during Sonar)",
+      "name": "Sky effects (weird screen during Sonar) | 天空效果（声纳期间屏幕异常）",
       "type": "checkbox",
       "memory": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Max XP/Level on Gain",
+      "name": "Max XP/Level on Gain | 获得时满经验/满级",
       "type": "checkbox",
       "memory": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "name": "Infinite Oxygen",
+      "name": "Infinite Oxygen | 无限氧气",
       "type": "checkbox",
       "memory": [
         {

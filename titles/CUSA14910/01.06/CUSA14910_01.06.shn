@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Destroy All Humans!" Moder="Saso" Cusa="CUSA14910" Version="01.06" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health (Crypto / Saucer)">
+    <Cheat Text="Infinite Health (Crypto / Saucer) | 无限生命（Crypto/飞碟）">
         <Cheatline>
             <Offset>68E74A0</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Health / 1Hit Kill (Dont Use With Infinite Health)">
+    <Cheat Text="Infinite Health / 1Hit Kill (Dont Use With Infinite Health) | 无限生命/一击必杀（请勿与无限生命同时使用）">
         <Cheatline>
             <Offset>68E74A0</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Jetpack Fuel">
+    <Cheat Text="Infinite Jetpack Fuel | 无限喷气背包燃料">
         <Cheatline>
             <Offset>68E7500</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Zap-O-Matic">
+    <Cheat Text="Infinite Zap-O-Matic | 无限电击枪">
         <Cheatline>
             <Offset>68E7540</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Disintegrator Ray">
+    <Cheat Text="Infinite Disintegrator Ray | 无限分解射线">
         <Cheatline>
             <Offset>68E75F0</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max DNA (Disable To Collect)">
+    <Cheat Text="Max DNA (Disable To Collect) | 最大DNA（关闭以收集）">
         <Cheatline>
             <Offset>68E75A0</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite HoloBob Duration">
+    <Cheat Text="Infinite HoloBob Duration | 无限全息鲍勃持续时间">
         <Cheatline>
             <Offset>68E75D0</Offset>
             <Section>0</Section>

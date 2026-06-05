@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Infinite Ammo",
+      "name": "Infinite Ammo | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "99 Material On Gain",
+      "name": "99 Material On Gain | 获取材料99个",
       "type": "checkbox",
       "memory": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "Infinite Health Player",
+      "name": "Infinite Health Player | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Infinite TeleKinesis Power",
+      "name": "Infinite TeleKinesis Power | 无限念力",
       "type": "checkbox",
       "memory": [
         {
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Extra Source Points",
+      "name": "Extra Source Points | 额外技能点数",
       "type": "checkbox",
       "memory": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Infinite Ability Points On Use",
+      "name": "Infinite Ability Points On Use | 使用能力时点数无限",
       "type": "checkbox",
       "memory": [
         {

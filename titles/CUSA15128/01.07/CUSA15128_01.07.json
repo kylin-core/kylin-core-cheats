@@ -5,7 +5,7 @@
   "process": "eboot.bin",
   "mods": [
     {
-      "name": "Mastercode ( must be activate for [ MC ] Cheats )",
+      "name": "Mastercode ( must be activate for [ MC ] Cheats ) | Mastercode（必须激活才能使用[ MC ]作弊）",
       "type": "checkbox",
       "memory": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Invincibility [ MC ]",
+      "name": "Invincibility [ MC ] | 无敌[ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Cinematic Mode [ MC ]",
+      "name": "Cinematic Mode [ MC ] | 电影模式[ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Infinite Health",
+      "name": "Infinite Health | 无限生命",
       "type": "checkbox",
       "memory": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "One Hit Kill - Fast Destroy",
+      "name": "One Hit Kill - Fast Destroy | 一击必杀 - 快速摧毁",
       "type": "checkbox",
       "memory": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Infinite Projectiles",
+      "name": "Infinite Projectiles | 无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Perfect Temperature",
+      "name": "Perfect Temperature | 完美温度",
       "type": "checkbox",
       "memory": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Max Items ( on gain - need 2 )",
+      "name": "Max Items ( on gain - need 2 ) | 最大物品（获得时 - 需要2个）",
       "type": "checkbox",
       "memory": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Max Collectable Slots",
+      "name": "Max Collectable Slots | 最大收集槽位",
       "type": "checkbox",
       "memory": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Max XP",
+      "name": "Max XP | 最大经验值",
       "type": "checkbox",
       "memory": [
         {
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "name": "Zero Deaths",
+      "name": "Zero Deaths | 零死亡",
       "type": "checkbox",
       "memory": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Save Location [ MC ]",
+      "name": "Save Location [ MC ] | 保存位置[ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "name": "Load Location [ MC ]",
+      "name": "Load Location [ MC ] | 加载位置[ MC ]",
       "type": "checkbox",
       "memory": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "name": "Game Speed [ Normal ]",
+      "name": "Game Speed [ Normal ] | 游戏速度[ 正常 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "Game Speed [ x 2 ]",
+      "name": "Game Speed [ x 2 ] | 游戏速度[ x 2 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "name": "Game Speed [ x 3 ]",
+      "name": "Game Speed [ x 3 ] | 游戏速度[ x 3 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "Game Speed [ x 4 ]",
+      "name": "Game Speed [ x 4 ] | 游戏速度[ x 4 ]",
       "type": "checkbox",
       "memory": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "name": "Game Speed [ x 5 ]",
+      "name": "Game Speed [ x 5 ] | 游戏速度[ x 5 ]",
       "type": "checkbox",
       "memory": [
         {

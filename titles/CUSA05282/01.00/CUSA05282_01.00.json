@@ -5,8 +5,7 @@
   "process": "default.elf",
   "mods": [
     {
-      "name": "All Client Infinite Ammo",
-      "hint": null,
+      "name": "All Client Infinite Ammo | 全员无限弹药",
       "type": "checkbox",
       "memory": [
         {
@@ -17,8 +16,7 @@
       ]
     },
     {
-      "name": "All Client Godmode",
-      "hint": null,
+      "name": "All Client Godmode | 全员无敌模式",
       "type": "checkbox",
       "memory": [
         {
@@ -29,8 +27,7 @@
       ]
     },
     {
-      "name": "Infinite Jetpack",
-      "hint": null,
+      "name": "Infinite Jetpack | 无限喷气背包",
       "type": "checkbox",
       "memory": [
         {
@@ -41,8 +38,7 @@
       ]
     },
     {
-      "name": "Enable Exo Movement (Player 1)",
-      "hint": null,
+      "name": "Enable Exo Movement (Player 1) | 启用外骨骼机动（玩家1）",
       "type": "button",
       "memory": [
         {
@@ -53,8 +49,7 @@
       ]
     },
     {
-      "name": "Enable Exo Movement (Player 2)",
-      "hint": null,
+      "name": "Enable Exo Movement (Player 2) | 启用外骨骼机动（玩家2）",
       "type": "button",
       "memory": [
         {
@@ -65,8 +60,7 @@
       ]
     },
     {
-      "name": "Enable Exo Movement (Player 3)",
-      "hint": null,
+      "name": "Enable Exo Movement (Player 3) | 启用外骨骼机动（玩家3）",
       "type": "button",
       "memory": [
         {
@@ -77,8 +71,7 @@
       ]
     },
     {
-      "name": "Enable Exo Movement (Player 4)",
-      "hint": null,
+      "name": "Enable Exo Movement (Player 4) | 启用外骨骼机动（玩家4）",
       "type": "button",
       "memory": [
         {

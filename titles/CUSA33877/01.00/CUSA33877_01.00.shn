@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Resident Evil - Director's Cut" Moder="Saso_9.00" Cusa="CUSA33877" Version="01.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Master Code">
+    <Cheat Text="Master Code | 主密码">
         <Cheatline>
             <Offset>62B830</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Inf Health (MC)">
+    <Cheat Text="Inf Health (MC) | 无限生命 (MC)">
         <Cheatline>
             <Offset>62B837</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>74-0A</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="1 Hit Kill (MC)">
+    <Cheat Text="1 Hit Kill (MC) | 一击必杀 (MC)">
         <Cheatline>
             <Offset>62B841</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>74-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Start With Magnum (1st Slot)">
+    <Cheat Text="Start With Magnum (1st Slot) | 开局获得麦林枪 (第一格)">
         <Cheatline>
             <Offset>2001B3B04</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>01-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo All Weapons">
+    <Cheat Text="Infinite Ammo All Weapons | 所有武器无限弹药">
         <Cheatline>
             <Offset>62B865</Offset>
             <Section>0</Section>
@@ -45,7 +45,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="All Items in Chest">
+    <Cheat Text="All Items in Chest | 箱中全物品">
         <Cheatline>
             <Offset>2001B3AA4</Offset>
             <Section>0</Section>
@@ -53,7 +53,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Game Time at End 00’00’00">
+    <Cheat Text="Game Time at End 00’00’00 | 通关时间00'00'00">
         <Cheatline>
             <Offset>62B880</Offset>
             <Section>0</Section>

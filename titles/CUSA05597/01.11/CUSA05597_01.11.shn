@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="METAL GEAR SOLID V: THE DEFINITIVE EXPERIENCE" Moder="Saso_9.00" Cusa="CUSA05597" Version="01.11" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Infinite Health">
+    <Cheat Text="Infinite Health | 无限生命">
         <Cheatline>
             <Offset>1D1CE3E</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C4-C1-7A-11-6C-8C-CC</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Ammo / No Relaod">
+    <Cheat Text="Infinite Ammo / No Relaod | 无限弹药/无需装弹">
         <Cheatline>
             <Offset>2164BB1</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>66-89-0C-72</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Suppressor">
+    <Cheat Text="Infinite Suppressor | 无限消音器">
         <Cheatline>
             <Offset>1FA5CBD</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>40-8A-7C-72-04</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Grenades">
+    <Cheat Text="Infinite Grenades | 无限手榴弹">
         <Cheatline>
             <Offset>34EA100</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Max GMP (5000000)">
+    <Cheat Text="Max GMP (5000000) | 最大GMP（5000000）">
         <Cheatline>
             <Offset>3452300</Offset>
             <Section>0</Section>

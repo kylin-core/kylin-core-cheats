@@ -5,7 +5,7 @@
 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Monster Hunter:World" Moder="Talixme" Cusa="CUSA07708" Version="02.00" Process="eboot.bin">    <Genres Name="Adventure" />
     <Items />
-    <Cheat Text="Godmode">
+    <Cheat Text="Godmode | 无敌模式">
         <Cheatline>
             <Offset>2A03F6C</Offset>
             <Section>0</Section>
@@ -13,7 +13,7 @@
             <ValueOff>C5-FA-11-48-64</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Stamina">
+    <Cheat Text="Infinite Stamina | 无限耐力">
         <Cheatline>
             <Offset>2BB4E6F</Offset>
             <Section>0</Section>
@@ -21,7 +21,7 @@
             <ValueOff>C5-FA-11-43-6C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Duplicate Money After Use">
+    <Cheat Text="Duplicate Money After Use | 使用后金钱加倍">
         <Cheatline>
             <Offset>1793AB6</Offset>
             <Section>0</Section>
@@ -29,7 +29,7 @@
             <ValueOff>89</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Infinite Items">
+    <Cheat Text="Infinite Items | 无限道具">
         <Cheatline>
             <Offset>20FFE49</Offset>
             <Section>0</Section>
@@ -37,7 +37,7 @@
             <ValueOff>89-5E-0C</ValueOff>
         </Cheatline>
     </Cheat>
-    <Cheat Text="Duplicate Items After Use">
+    <Cheat Text="Duplicate Items After Use | 使用后道具加倍">
         <Cheatline>
             <Offset>20FFE49</Offset>
             <Section>0</Section>
